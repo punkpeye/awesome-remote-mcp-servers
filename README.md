@@ -191,6 +191,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 
+- [Accordo](https://accordo.dev) `https://accordo.dev/api/mcp`
+  🔓 🆓 - Search Accordo's documentation, fetch a capability together with the limitation that bounds it, and check whether a CRM job is supported.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 🆓 - Search the Astro documentation.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
