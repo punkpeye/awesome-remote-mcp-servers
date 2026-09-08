@@ -103,6 +103,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🔒 - [Security](#security)
 * 📣 - [Social Media](#social-media)
 * 🎧 - [Support & Service Management](#support--service-management)
+* 🚆 - [Travel & Transportation](#travel--transportation)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace--productivity)
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
@@ -329,6 +330,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   ⚡ 🔐 - Search Intercom conversations, contacts, and help-center articles.
+
+### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+
+- [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
+  [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
+  ⚡ 🔐 🆓 - Search flights by route, dates, passengers, and cabin class; results are tagged best, cheapest, and fastest with live seat availability.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
