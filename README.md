@@ -254,6 +254,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Historical return data for funds and tickers.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
+- [LitVM TCG Oracle](https://litvm.the-undesirables.com) `https://litvm.the-undesirables.com/mcp`
+  🔓 - TCG price oracle for the LitecoinVM ecosystem: Merkle-proven prices, calibrated forecasts, fantasy souls; 13 free tools.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only queries over NuMetric accounting and ERP books: financial statements, KPIs, receivables and payables, invoices, and documents.
@@ -265,6 +267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - Live US sector rotation: 30 sector baskets ranked every session, versioned rosters, daily record; history needs a key.
+- [The Undesirables TCG Oracle](https://the-undesirables.com) `https://mcp.the-undesirables.com/mcp`
+  [![The Undesirables TCG Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server)
+  🔓 - On-chain TCG price oracle: 456K+ cards, calibrated risk forecasts, AI grading, loan terms; free reads, x402 paid tools.
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
