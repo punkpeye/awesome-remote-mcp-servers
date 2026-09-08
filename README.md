@@ -150,6 +150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   ⚡ 🔑 - Manage Contentful entries, assets, and content models.
+- [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
+  [![dochost MCP connector](https://glama.ai/mcp/connectors/io.dochost/dochost/badges/score.svg)](https://glama.ai/mcp/connectors/io.dochost/dochost)
+  ⚡ 🔐 - Publish Markdown or HTML as a hosted page and get a shareable link.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   ⚡ 🔐 - Query and mutate Sanity datasets and documents.
