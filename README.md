@@ -343,6 +343,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
+- [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
+  [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
+  ⚡ 🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
 - [Tseha](https://tseha.io) `https://tseha.io/mcp`
   [![Tseha MCP connector](https://glama.ai/mcp/connectors/io.tseha/tseha/badges/score.svg)](https://glama.ai/mcp/connectors/io.tseha/tseha)
   ⚡ 🔓 🆓 - Ethiopian calendar and date conversion.
