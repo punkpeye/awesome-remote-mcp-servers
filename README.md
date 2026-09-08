@@ -240,6 +240,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 💰 - Private- and public-market financial research data.
+- [OpenChainBench](https://openchainbench.com) `https://openchainbench.com/api/mcp/mcp`
+  🔓 🆓 - Live crypto infrastructure benchmarks: RPC latency, bridge fees and times, aggregator head lag, and perp DEX funding, with PromQL access to the underlying time series.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
