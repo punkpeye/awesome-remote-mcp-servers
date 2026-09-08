@@ -346,6 +346,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tseha](https://tseha.io) `https://tseha.io/mcp`
   [![Tseha MCP connector](https://glama.ai/mcp/connectors/io.tseha/tseha/badges/score.svg)](https://glama.ai/mcp/connectors/io.tseha/tseha)
   ⚡ 🔓 🆓 - Ethiopian calendar and date conversion.
+- [Zip1](https://zip1.io) `https://zip1.io/mcp`
+  ⚡ 🔓 🆓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
