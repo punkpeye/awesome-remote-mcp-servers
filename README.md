@@ -230,6 +230,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💰 <a name="finance"></a>Finance
 
+- [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
+  ⚡ 🔓 🆓 - Live AI agent economy on Base L2 — free reads of city, agent, and job data, plus paid x402 USDC tools for agent chat, leaderboard, and SolvScore credit scoring.
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   ⚡ 🔓 🆓 - Historical return data for funds and tickers.
