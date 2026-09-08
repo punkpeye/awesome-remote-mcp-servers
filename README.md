@@ -232,6 +232,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 🆓 - Historical return data for funds and tickers.
+- [GrantIQ](https://mcp.grantiq.us) `https://mcp.grantiq.us/mcp/`
+  🔓 - Search Grants.gov opportunities, SAM.gov contracts, agencies, deadlines, matches, and federal award history.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 💰 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
