@@ -224,6 +224,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   ⚡ 🔓 🆓 - Historical return data for funds and tickers.
+- [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
+  [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
+  ⚡ 🔐 - Read-only queries over NuMetric accounting and ERP books: financial statements, KPIs, receivables and payables, invoices, and documents.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   ⚡ 🔐 💰 - Private- and public-market financial research data.
