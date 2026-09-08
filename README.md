@@ -350,7 +350,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Publish and schedule posts across social networks.
 - [Postrippl](https://postrippl.com) `https://postrippl.com/api/mcp`
   [![Postrippl MCP connector](https://glama.ai/mcp/connectors/com.postrippl/postrippl/badges/score.svg)](https://glama.ai/mcp/connectors/com.postrippl/postrippl)
-  🔐 💰 - Draft, schedule, and publish posts to Instagram, YouTube, TikTok, LinkedIn, X, Threads, Bluesky, and more.
+  🔐 - Draft, schedule, and publish posts to Instagram, YouTube, TikTok, LinkedIn, X, Threads, Bluesky, and more.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
