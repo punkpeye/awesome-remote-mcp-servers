@@ -201,6 +201,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   ⚡ 🔐 - Look up OpenRouter model metadata and pricing, and run completions.
+- [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
+  ⚡ 🔓 🆓 - Search and fetch verified KiCad parts (symbol, footprint, 3D model) for AI-assisted PCB design — 21k+ parts, CC-BY-4.0, no account needed. Beta: coverage varies by part; field reports welcome.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   ⚡ 🔐 - Work with Postman collections, environments, and APIs.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
