@@ -460,6 +460,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights from Alice, one of Israel's best-known travel apps, including Tel Aviv routes, with English and Hebrew results tagged best, cheapest, and fastest.
+- [HemmaBo](https://www.hemmabo.com) `https://www.hemmabo.com/mcp`
+  [![HemmaBo MCP connector](https://glama.ai/mcp/connectors/com.hemmabo/hemmabo-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.hemmabo/hemmabo-mcp-server)
+  🔓 - Verify host-signed stay offers on a host's own official website (VRP · Ed25519/JWKS) and read live availability.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
