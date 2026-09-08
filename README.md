@@ -287,6 +287,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Imaginode](https://imaginode.ai) `https://imaginode.ai/api/mcp`
+  🔑 - Generate images and video from a prompt across 89 models, with the credit cost returned before each result.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 🆓 - Generate and edit videos from a prompt.
 
