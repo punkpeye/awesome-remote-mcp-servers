@@ -206,6 +206,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   ⚡ 🔓 🆓 - Audit a web page for accessibility and layout issues.
+- [Shadcn Dashboard](https://shadcndashboard.dev/) `https://shadcndashboard.dev/mcp`
+  [![Shadcn Dashboard MCP connector](https://glama.ai/mcp/connectors/dev.shadcndashboard/shadcn-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.shadcndashboard/shadcn-dashboard)
+  ⚡ 🔓 🆓 - AI-ready shadcn dashboard MCP integration.
+- [Shadcn Space](https://shadcnspace.com) `https://shadcnspace.com/mcp`
+  [![Shadcn Space MCP connector](https://glama.ai/mcp/connectors/com.shadcnspace/shadcn-space/badges/score.svg)](https://glama.ai/mcp/connectors/com.shadcnspace/shadcn-space)
+  ⚡ 🔓 🆓 - Remote Shadcn UI MCP Server for Claude, Cursor, v0, Lovable & Bolt.
 
 ### 🌳 <a name="environment"></a>Environment
 
