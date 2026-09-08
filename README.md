@@ -299,6 +299,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
+- [1cent](https://1cent.maxzoa.ru) `https://1cent.maxzoa.ru/mcp`
+  [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
+  ⚡ 🔓 🆓 - Extract web content and metadata, discover site resources, and detect page changes, with free discovery tools and pay-per-call x402 USDC operations on Base.
 - [Bright Data](https://brightdata.com) `https://mcp.brightdata.com/mcp`
   ⚡ 🔐 💰 - Web scraping and SERP data through a managed proxy network.
 - [Cloudflare Radar](https://radar.cloudflare.com) `https://radar.mcp.cloudflare.com/mcp`
