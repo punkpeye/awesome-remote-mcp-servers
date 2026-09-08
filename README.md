@@ -104,6 +104,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+- [EveryInfra](https://everyinfra.com) `https://api.everyinfra.com/mcp`
+  🔑 - Query structured public data, search the web, solve CAPTCHAs, and clean eligible EveryData results.
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and chat completions with parity to /v1/chat/completions.
