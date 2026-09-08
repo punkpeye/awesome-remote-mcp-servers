@@ -241,6 +241,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Notion](https://notion.com) `https://mcp.notion.com/mcp`
   ⚡ 🔐 - Read and write Notion pages, databases, and comments.
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
+  [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   ⚡ 🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
 
 ### 🎯 <a name="marketing"></a>Marketing
