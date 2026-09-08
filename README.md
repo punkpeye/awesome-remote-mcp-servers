@@ -240,6 +240,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   ⚡ 🔓 🆓 - Search models, datasets, and Spaces, and call Space APIs.
 - [Notion](https://notion.com) `https://mcp.notion.com/mcp`
   ⚡ 🔐 - Read and write Notion pages, databases, and comments.
+- [Rootr](https://rootr.io) `https://rootr.io/mcp`
+  ⚡ 🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
