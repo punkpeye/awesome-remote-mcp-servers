@@ -126,31 +126,61 @@ jobs:
               },
             });
 
+            function mcpPost(url, body) {
+              return fetch(url, {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'Accept': 'application/json, text/event-stream',
+                  'MCP-Protocol-Version': '2025-06-18',
+                  'User-Agent': 'awesome-remote-mcp-servers-ci/1.0',
+                },
+                body,
+                redirect: 'follow',
+                signal: AbortSignal.timeout(20000),
+              });
+            }
+
+            function authFromChallenge(res) {
+              const wa = res.headers.get('www-authenticate') || '';
+              return /resource_metadata|Bearer/i.test(wa) ? '🔐' : '🔑';
+            }
+
+            // An open `initialize` is the recommended shape for an authenticated
+            // server — it lets a client read the catalog before it holds a token,
+            // and directory health checks rely on it — so a parsed result says
+            // nothing about whether the tools are gated. Ask for actual work and
+            // see whether the server challenges us.
+            async function authFromToolCall(url) {
+              try {
+                const res = await mcpPost(url, JSON.stringify({
+                  jsonrpc: '2.0', id: 2, method: 'tools/call',
+                  params: { name: '__ci_probe__', arguments: {} },
+                }));
+                if (res.status === 401 || res.status === 403) return authFromChallenge(res);
+                return '🔓';
+              } catch { return '🔓'; }
+            }
+
             async function probe(url) {
               try {
-                const res = await fetch(url, {
-                  method: 'POST',
-                  headers: {
-                    'Content-Type': 'application/json',
-                    'Accept': 'application/json, text/event-stream',
-                    'MCP-Protocol-Version': '2025-06-18',
-                    'User-Agent': 'awesome-remote-mcp-servers-ci/1.0',
-                  },
-                  body: initBody,
-                  redirect: 'follow',
-                  signal: AbortSignal.timeout(20000),
-                });
+                const res = await mcpPost(url, initBody);
                 if (res.status === 401 || res.status === 403) {
-                  const wa = res.headers.get('www-authenticate') || '';
-                  return { ok: true, auth: /resource_metadata|Bearer/i.test(wa) ? '🔐' : '🔑', status: res.status };
+                  return { ok: true, auth: authFromChallenge(res), status: res.status };
                 }
                 const text = (await res.text()).slice(0, 20000);
-                const payload = text.includes('data:')
+                // Sniff the header, not the body. A server whose `instructions`
+                // string documents a data URI would otherwise be parsed as an
+                // event stream, match no frames, and be reported unreachable.
+                const isSse = (res.headers.get('content-type') || '').includes('text/event-stream');
+                const payload = isSse
                   ? text.split('\n').filter(l => l.startsWith('data:')).map(l => l.slice(5).trim()).join('')
                   : text;
                 let json = null;
                 try { json = JSON.parse(payload); } catch {}
-                if (json && json.result) return { ok: true, auth: '🔓', status: res.status };
+                if (json && json.result) {
+                  return { ok: true, auth: await authFromToolCall(url), status: res.status };
+                }
                 return { ok: false, status: res.status, why: `no initialize result (HTTP ${res.status})` };
               } catch (err) {
                 return { ok: false, why: String(err.message || err).slice(0, 120) };
