@@ -333,6 +333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GreenCalculus](https://greencalculus.com/developers/) `https://mcp.greencalculus.com`
   [![GreenCalculus MCP connector](https://glama.ai/mcp/connectors/com.greencalculus/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.greencalculus/api)
   🔓 - Sourced greenhouse-gas emission factors and audit-traced carbon calculations, every value citing its source cell.
+- [Gridbert](https://www.gridbert.at) `https://mcp.gridbert.at/mcp`
+  [![Gridbert MCP connector](https://glama.ai/mcp/connectors/at.gridbert/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/at.gridbert/mcp)
+  🔐 - Austrian household electricity: compare tariffs, validate invoices, and analyze smart meter load profiles.
 - [GridHub](https://grid-hub.app/developers) `https://api.grid-hub.app/mcp`
   [![GridHub MCP connector](https://glama.ai/mcp/connectors/io.github.jalcodev/gridhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jalcodev/gridhub)
   🔓 - Live and historical electricity prices and demand for 25 grid zones (US, EU, GB, AU); free sample mode, key, or x402.
