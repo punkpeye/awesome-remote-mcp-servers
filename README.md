@@ -105,6 +105,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [AIMALL (搜蚁智选)](https://souyi.net.cn) `https://souyi.net.cn/api/v1/mcp`
+  🔓 - Pay-per-use API marketplace for autonomous AI agents. Catalogue browsing and cost estimation work anonymously; `bootstrap_account` lets an agent self-register for an `ak_` key and then pay per call. Hosted models (MiniMax-M3), image generation, TTS, web search and medical data. x402 USDC top-ups, $1 free trial.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base; connect anonymously and pay only when you call a tool.
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
