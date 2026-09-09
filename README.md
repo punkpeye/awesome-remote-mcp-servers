@@ -387,6 +387,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find and query official Brazilian economic data with provenance through 19 read-only tools.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [Prediction Markets Data](https://apify.com/brenton8907/prediction-markets-data) `https://mcp.apify.com/?tools=brenton8907/prediction-markets-data`
+  [![Prediction Markets Data MCP connector](https://glama.ai/mcp/connectors/io.github.brenton-keller/prediction-markets-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brenton-keller/prediction-markets-data)
+  🔐 - Live Kalshi and Polymarket prices, orderbooks, trades, settled results and cross-venue spreads; pay per result.
 - [Quidli Connect](https://connect.quid.li) `https://mcp.connect.quid.li`
   🔓 - Resolve social handles to EVM and Solana wallet addresses, score onchain reputation, and send USDC to identities.
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
@@ -509,6 +512,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
+- [Google Ads Transparency Center](https://apify.com/brenton8907/google-ads-transparency-center) `https://mcp.apify.com/?tools=brenton8907/google-ads-transparency-center`
+  [![Google Ads Transparency Center MCP connector](https://glama.ai/mcp/connectors/io.github.brenton-keller/google-ads-transparency-center/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brenton-keller/google-ads-transparency-center)
+  🔐 - Every Google ad an advertiser runs: creatives, formats, dates and reach, searchable by domain or brand.
 - [Lekta](https://lekta.dev) `https://lekta.dev/mcp`
   [![Lekta MCP connector](https://glama.ai/mcp/connectors/dev.lekta/lektadev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.lekta/lektadev)
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
@@ -517,6 +523,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Company logos, brand colors, and firmographic data by domain.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
+- [Product Hunt Data](https://apify.com/brenton8907/product-hunt-data) `https://mcp.apify.com/?tools=brenton8907/product-hunt-data`
+  [![Product Hunt Data MCP connector](https://glama.ai/mcp/connectors/io.github.brenton-keller/product-hunt-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brenton-keller/product-hunt-data)
+  🔐 - Product Hunt launches, votes, makers, topics and comments from the official API; pay per result.
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility tools: AI crawlability, robots.txt vs AI crawlers, llms.txt, JSON-LD, social previews, screenshots, and more. No account, no API key.
@@ -639,6 +648,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Search people, companies, and open roles on an open professional network. Free, no API key.
+- [PDF Text, Table & OCR Extractor](https://apify.com/brenton8907/pdf-text-table-ocr-extractor) `https://mcp.apify.com/?tools=brenton8907/pdf-text-table-ocr-extractor`
+  [![PDF Text, Table & OCR Extractor MCP connector](https://glama.ai/mcp/connectors/io.github.brenton-keller/pdf-text-table-ocr-extractor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brenton-keller/pdf-text-table-ocr-extractor)
+  🔐 - PDF URLs to per-page text, tables as rows, Markdown and metadata, with OCR for scanned pages.
 - [Realask](https://realask.net) `https://realask.net/mcp`
   [![Realask MCP connector](https://glama.ai/mcp/connectors/io.github.danelas/realask/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danelas/realask)
   🔓 - Verify facts about US local businesses by phone — stock, all-in price, availability — as typed answers with evidence.
@@ -697,6 +709,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+- [Telegram Channel Scraper](https://apify.com/brenton8907/telegram-channel-scraper) `https://mcp.apify.com/?tools=brenton8907/telegram-channel-scraper`
+  [![Telegram Channel Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.brenton-keller/telegram-channel-scraper/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brenton-keller/telegram-channel-scraper)
+  🔐 - Public Telegram channel posts, views, reactions, media and subscriber counts; no login needed.
 
 ### 🏆 <a name="sports"></a>Sports
 
