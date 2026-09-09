@@ -551,6 +551,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Malwagon](https://malwagon.com) `https://malwagon.com/mcp`
+  🔑 - Detonate files and URLs in a sandbox, then search the reports and indicators.
 - [Promptguard](https://mcp.glc-rag.hu/guide/promptguard) `https://mcp.glc-rag.hu/mcp`
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
