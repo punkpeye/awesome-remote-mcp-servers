@@ -605,6 +605,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlightPowers Booking.com Hotels](https://hotels.flightpowers.com) `https://hotels.flightpowers.com/mcp`
   [![FlightPowers Booking.com Hotels MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/booking/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/booking)
   🔐 - Live Booking.com room rates by destination or hotel name, priced per country through residential proxies.
+- [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
+  [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
+  🔐 - Live Google Flights fares with price band and verdict, round trips in one request, date ranges and destination lists.
 - [FrontDesko](https://frontdesko.app) `https://mcp.frontdesko.app/mcp`
   [![FrontDesko MCP connector](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp)
   🔓 - Hotel PMS pricing and plan comparisons, OTA-commission savings math, docs search, and live demo-hotel availability.
@@ -626,6 +629,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fireflies](https://fireflies.ai) `https://api.fireflies.ai/mcp`
   [![Fireflies MCP connector](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly)
   🔐 - Search meeting transcripts, summaries, and action items.
+- [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
+  [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
+  🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
