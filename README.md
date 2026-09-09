@@ -262,6 +262,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - 28 file and text tools: merge, split and compress PDFs, OCR, image compression, SQL, QR codes, JWTs and mock data.
+- [SeenRelay](https://seenrelay.com) `https://seenrelay.com/mcp`
+  [![SeenRelay MCP connector](https://glama.ai/mcp/connectors/io.github.ovladon/seenrelay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ovladon/seenrelay)
+  🔓 - Avoid redundant validation by checking recent source-backed observations and sharing independently obtained results.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
