@@ -387,6 +387,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![docs2mcp MCP connector](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp)
   🔐 - Query your own PDFs and documents, with every answer linking to the exact page and region it came from.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
+  [![Flash MCP connector](https://glama.ai/mcp/connectors/com.flashmemorize/flash/badges/score.svg)](https://glama.ai/mcp/connectors/com.flashmemorize/flash)
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
 - [HAIDAA](https://haidaa.com/mcp) `https://mcp.haidaa.com/mcp`
   [![HAIDAA MCP connector](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa/badges/score.svg)](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa)
