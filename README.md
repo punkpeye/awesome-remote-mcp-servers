@@ -357,7 +357,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - SEC filings and dilution forensics, market data, news, and fundamentals for U.S. equities with point-in-time queries.
 - [SnowSignals TrendVane](https://snowsignals.io) `https://snowsignals.io/mcp`
   [![SnowSignals TrendVane MCP connector](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals/badges/score.svg)](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals)
-  🔐 - Market-phase (TrendVane) state per currency across timeframes, plus phase-resolution stats. Reports state, not trade signals.
+  🔓 - Market-phase (TrendVane) state per currency across timeframes; free metadata and phase-resolution stats, live reads metered. Reports state, not trade signals.
 - [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
   [![StackEasy MCP connector](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards)
   🔐 - Your own credit cards in your AI: balances, utilization, best card for a purchase, and missed rewards, read only.
