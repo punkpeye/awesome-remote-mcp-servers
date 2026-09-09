@@ -440,6 +440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
+- [Shotstack](https://shotstack.io) `https://mcp.shotstack.io/`
+  [![Shotstack MCP connector](https://glama.ai/mcp/connectors/io.shotstack/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.shotstack/mcp)
+  🔐 - Generate, edit, and render videos, images, and audio via the Shotstack video editing API.
 
 ### 💳 <a name="payments"></a>Payments
 
