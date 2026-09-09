@@ -373,6 +373,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
+- [MemoryPlugin](https://www.memoryplugin.com) `https://www.memoryplugin.com/api/mcp/mcp`
+  [![MemoryPlugin MCP connector](https://glama.ai/mcp/connectors/com.memoryplugin/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.memoryplugin/memory)
+  🔐 - Store, search, and recall long-term memories shared across ChatGPT, Claude, Gemini, and 21+ AI tools.
 - [Notion](https://notion.com) `https://mcp.notion.com/mcp`
   🔐 - Read and write Notion pages, databases, and comments.
 - [notepad.page](https://notepad.page) `https://mcp.notepad.page/mcp`
