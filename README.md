@@ -416,6 +416,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Company logos, brand colors, and firmographic data by domain.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
+- [Siren](https://mysiren.ai) `https://mcp.mysiren.ai/mcp`
+  [![Siren MCP connector](https://glama.ai/mcp/connectors/ai.mysiren/siren/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mysiren/siren)
+  🔐 - Generate on-brand images, captions, and videos for a product from a one-line brief, then post or schedule them to the connected X, LinkedIn, Instagram, TikTok, and YouTube accounts.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
 
