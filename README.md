@@ -440,6 +440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
+- [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
+  [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
+  🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
 
 ### 💳 <a name="payments"></a>Payments
 
