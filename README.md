@@ -205,7 +205,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and update Close leads, contacts, and opportunities.
 - [ConnectMachine](https://www.connectmachine.ai) `https://mcp.connectmachine.ai/mcp`
   [![ConnectMachine MCP connector](https://glama.ai/mcp/connectors/ai.connectmachine/connectmachine/badges/score.svg)](https://glama.ai/mcp/connectors/ai.connectmachine/connectmachine)
-  🔐 - Manage ConnectMachine contacts, networks, events, and digital business cards.
+  🔑 - Manage ConnectMachine contacts, networks, events, and digital business cards.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
 
