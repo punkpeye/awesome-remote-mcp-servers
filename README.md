@@ -542,6 +542,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Hosted MCP for a social media scraping API: public profiles, posts, comments, and transcripts, live on every request.
+- [Xpoz](https://xpoz.ai) `https://mcp.xpoz.ai/mcp`
+  [![Xpoz MCP connector](https://glama.ai/mcp/connectors/ai.xpoz/social-insights/badges/score.svg)](https://glama.ai/mcp/connectors/ai.xpoz/social-insights)
+  🔐 - Search Twitter/X, Instagram, Reddit and TikTok: posts, profiles, comments, followers, and tracking.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
