@@ -346,6 +346,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [Quidli Connect](https://connect.quid.li) `https://mcp.connect.quid.li`
   🔓 - Resolve social handles to EVM and Solana wallet addresses, score onchain reputation, and send USDC to identities.
+- [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
+  [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
+  🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD against EN 16931, every violation with its rule ID.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - Live US sector rotation: 30 sector baskets ranked every session, versioned rosters, daily record; history needs a key.
