@@ -99,6 +99,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🔎 - [Search & Data Extraction](#search--data-extraction)
 * 🔒 - [Security](#security)
 * 📣 - [Social Media](#social-media)
+* 🏆 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support--service-management)
 * 🚆 - [Travel & Transportation](#travel--transportation)
 * 🔄 - [Version Control](#version-control)
@@ -588,6 +589,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+
+### 🏆 <a name="sports"></a>Sports
+
+- [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
+  [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
+  🔓 - Run recreational racket-sport tournaments from chat: draws, schedules, live standings, one-sentence dropout handling.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
