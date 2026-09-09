@@ -439,6 +439,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [AINSOF](https://ainsof.io) `https://mcp.ainsof.io`
+  [![AINSOF MCP connector](https://glama.ai/mcp/connectors/io.ainsof.mcp/ainsof/badges/score.svg)](https://glama.ai/mcp/connectors/io.ainsof.mcp/ainsof)
+  🔓 - Search a licensed production-music catalogue by brief or reference link, and score video to picture.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
 - [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
