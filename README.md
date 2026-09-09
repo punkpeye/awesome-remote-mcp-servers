@@ -449,6 +449,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
+- [Treza](https://www.trezalabs.com/connect) `https://www.trezalabs.com/api/mcp`
+  [![Treza MCP connector](https://glama.ai/mcp/connectors/io.github.treza-labs/treza/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.treza-labs/treza)
+  🔐 - Create, run, and schedule video pipelines that script, render, narrate, caption, and publish to YouTube and TikTok.
 
 ### 💳 <a name="payments"></a>Payments
 
