@@ -400,7 +400,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
 - [MarkIt](https://mark-it.co) `https://mark-it.co/api/mcp`
   [![MarkIt MCP connector](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit)
-  🔓 - Search, save, and set reminders in your personal library of saved links, posts, and notes (save/reminder actions require OAuth sign-in).
+  🔓 - Search, save, and set reminders in your personal library of saved links, posts, and notes. OAuth sign-in unlocks all tools.
 - [Notion](https://notion.com) `https://mcp.notion.com/mcp`
   🔐 - Read and write Notion pages, databases, and comments.
 - [notepad.page](https://notepad.page) `https://mcp.notepad.page/mcp`
