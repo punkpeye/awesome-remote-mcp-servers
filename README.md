@@ -635,6 +635,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
+- [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
+  [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
+  🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
