@@ -505,6 +505,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Search live government surplus auction lots in the US, UK, CA and AU, with sold-price comps and resale scores.
+- [Lampions](https://lampions.org) `https://lampions.org/mcp`
+  🔓 - Official tallies of public votes in the French National Assembly, Senate and European Parliament, with the bill title, a plain-language question, ayes/noes/abstentions, outcome, source and licence. No personal data.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
