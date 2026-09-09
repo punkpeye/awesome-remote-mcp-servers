@@ -378,7 +378,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
 - [MemorySync](https://memorysync.io) `https://mcp.memorysync.io/mcp`
   [![MemorySync MCP connector](https://glama.ai/mcp/connectors/io.memorysync/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/memory)
-  🔑 - Scoped, persistent memory layer for AI agents and LLM applications to save, inspect, and recall decisions across sessions.
+  🔐 - Scoped, persistent memory layer for AI agents and LLM applications to save, inspect, and recall decisions across sessions.
 - [Notion](https://notion.com) `https://mcp.notion.com/mcp`
   🔐 - Read and write Notion pages, databases, and comments.
 - [notepad.page](https://notepad.page) `https://mcp.notepad.page/mcp`
