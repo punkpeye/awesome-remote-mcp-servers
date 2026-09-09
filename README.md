@@ -377,7 +377,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
 - [send21](https://send21.io) `https://send21.io/mcp`
-  🔑 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
+  🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
 - [Square](https://squareup.com) `https://mcp.squareup.com/mcp`
   🔐 - Manage Square catalog, orders, payments, and customers.
 - [Stripe](https://stripe.com) `https://mcp.stripe.com`
