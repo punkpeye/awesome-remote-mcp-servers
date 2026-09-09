@@ -553,6 +553,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights from Alice, one of Israel's best-known travel apps, including Tel Aviv routes, with English and Hebrew results tagged best, cheapest, and fastest.
+- [FlightPowers Booking.com Hotels](https://hotels.flightpowers.com) `https://hotels.flightpowers.com/mcp/oauth`
+  [![FlightPowers Booking.com Hotels MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/booking/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/booking)
+  🔐 - Live Booking.com room rates by destination or hotel name, priced per country through residential proxies.
+- [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp/oauth`
+  [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
+  🔐 - Live Google Flights fares with price band and verdict, round trips in one request, date ranges and destination lists.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
