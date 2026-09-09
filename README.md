@@ -508,6 +508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
+- [Nomado24](https://www.nomado24.de/en/developers) `https://api.nomado24.de/api/public/v1/mcp`
+  [![Nomado24 MCP connector](https://glama.ai/mcp/connectors/de.nomado24/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/de.nomado24/jobs)
+  🔓 - Search live remote and hybrid jobs in Germany and Europe.
 - [Realask](https://realask.net) `https://realask.net/mcp`
   [![Realask MCP connector](https://glama.ai/mcp/connectors/io.github.danelas/realask/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danelas/realask)
   🔓 - Verify facts about US local businesses by phone — stock, all-in price, availability — as typed answers with evidence.
