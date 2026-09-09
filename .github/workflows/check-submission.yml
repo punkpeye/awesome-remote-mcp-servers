@@ -93,7 +93,6 @@ jobs:
             const duplicates = entries.filter(e => existingEndpoints.has(e.endpoint.replace(/\/+$/, '').toLowerCase()));
 
             const AUTH = ['🔓', '🔑', '🔐'];
-            const ACCESS = ['🆓', '💰'];
 
             const formatProblems = [];
             for (const e of fresh) {
@@ -106,7 +105,7 @@ jobs:
               }
               const unknown = [...e.marks].filter(ch =>
                 /\p{Extended_Pictographic}/u.test(ch) &&
-                ![...AUTH, ...ACCESS].some(k => k.includes(ch))
+                !AUTH.some(k => k.includes(ch))
               );
               if (unknown.length) {
                 formatProblems.push(`\`${e.name}\` – unrecognized marker(s): ${unknown.join(' ')}`);
@@ -236,6 +235,7 @@ jobs:
 
             \`\`\`markdown
             - [Name](https://homepage.example) \\\`https://mcp.example.com/mcp\\\`
+              [![Name MCP connector](https://glama.ai/mcp/connectors/com.example/name/badges/score.svg)](https://glama.ai/mcp/connectors/com.example/name)
               🔐 - One sentence describing what the tools do.
             \`\`\`
 
@@ -251,15 +251,15 @@ jobs:
             }
 
             if (!hasConnector && fresh.length > 0) {
-              await say('<!-- connector-check -->', `Hey,
+              await say('<!-- connector-check -->', `Your entry is missing its [Glama connector](https://glama.ai/mcp/connectors) badge. Every entry needs one — it shows tool definition quality and endpoint health, so readers can tell a maintained server from an abandoned one.
 
-            Your server is not listed as a [Glama connector](https://glama.ai/mcp/connectors) yet. Adding it gives your entry a badge showing tool definition quality and endpoint health, so readers can tell it is maintained:
+            List your server at [glama.ai/mcp/connectors](https://glama.ai/mcp/connectors) if it is not there yet, then add the badge as the second line of your entry:
 
             \`\`\`markdown
             [![NAME MCP connector](https://glama.ai/mcp/connectors/NAMESPACE/NAME/badges/score.svg)](https://glama.ai/mcp/connectors/NAMESPACE/NAME)
             \`\`\`
 
-            This is optional, but encouraged. Questions welcome here or on [Discord](https://glama.ai/mcp/discord).`);
+            PRs without a badge are not merged. Questions welcome here or on [Discord](https://glama.ai/mcp/discord).`);
             }
 
             if (duplicates.length) {
