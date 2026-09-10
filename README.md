@@ -149,6 +149,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read Figma files and turn frames and components into code.
 - [Made Good Designs](https://madegooddesigns.com/inspiration/) `https://madegooddesigns.com/inspiration/mcp`
   🔓 - Search a curated gallery of typography and brand-design inspiration with colour palettes, tags, and source links.
+- [Photo AI Studio](https://www.photoaistudio.com/mcp) `https://www.photoaistudio.com/api/mcp`
+  🔓 - Generate AI photos from a selfie across 150+ themes, edit images, and create video; OAuth for account tools.
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
