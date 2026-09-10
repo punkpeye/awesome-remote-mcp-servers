@@ -623,6 +623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Applyd](https://aiapplyd.com/mcps) `https://mcp.aiapplyd.com/mcp`
   [![AI Applyd MCP connector](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd)
   🔓 - ATS resume scoring, per-role resume rewriting, cover letters, interview prep, job matching, and auto-apply that submits on the employer's own hiring system across 12 ATS platforms. Sign in with Google to run a tool.
+- [Calibrd](https://www.calibrd.com/agent) `https://www.calibrd.com/mcp`
+  [![Calibrd MCP connector](https://glama.ai/mcp/connectors/com.calibrd/agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.calibrd/agent)
+  🔐 - Score your CV against a job posting, then get the questions that role will ask and where they'll push back.
 - [Fireflies](https://fireflies.ai) `https://api.fireflies.ai/mcp`
   [![Fireflies MCP connector](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly)
   🔐 - Search meeting transcripts, summaries, and action items.
