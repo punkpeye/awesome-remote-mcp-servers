@@ -140,7 +140,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Publish needs and offers through your AI and get private matches, with contact details revealed only on a match.
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
-  🔑 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
+  🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
