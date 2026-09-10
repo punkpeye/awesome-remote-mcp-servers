@@ -416,6 +416,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Your own ledger in your AI: net worth, accounts, budgets, holdings and IOUs, plus transactions and budgets your agent drafts and you confirm before anything is written; tools need a paid plan.
+- [Insourcia](https://insourcia.io/docs/guides/mcp) `https://mcp.insourcia.io/mcp`
+  [![Insourcia MCP connector](https://glama.ai/mcp/connectors/io.insourcia/insourcia/badges/score.svg)](https://glama.ai/mcp/connectors/io.insourcia/insourcia)
+  🔐 - French private-company data: search by name or SIREN (French company registration number), financials, directors, ownership graphs, M&A, insolvency events.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
