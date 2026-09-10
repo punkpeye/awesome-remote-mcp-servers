@@ -369,6 +369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Ask questions about cloud cost and usage data.
 - [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
   🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
+- [skanfirmy](https://skanfirmy.pl) `https://skanfirmy.pl/mcp`
+  [![skanfirmy MCP connector](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy)
+  🔓 - Verify Polish companies by NIP/KRS/REGON, the Ministry of Finance VAT white list (with bank-account match), and EU VAT via VIES — straight from official government registers, no key or signup.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
