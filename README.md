@@ -585,6 +585,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Hosted MCP for a social media scraping API: public profiles, posts, comments, and transcripts, live on every request.
+- [SocialRobot](https://socialrobot.io/mcp) `https://socialrobot.io/api/mcp`
+  🔓 - Connect anonymously to browse the tool list, sign in with OAuth to schedule and analyze posts on 9 platforms including Instagram, LinkedIn, X, and TikTok.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
