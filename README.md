@@ -551,6 +551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Realask](https://realask.net) `https://realask.net/mcp`
   [![Realask MCP connector](https://glama.ai/mcp/connectors/io.github.danelas/realask/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danelas/realask)
   🔓 - Verify facts about US local businesses by phone — stock, all-in price, availability — as typed answers with evidence.
+- [Scoutee](https://scoutee.org/en/mcp) `https://scoutee.org/api/mcp/public`
+  [![Scoutee MCP connector](https://glama.ai/mcp/connectors/org.scoutee/scoutee/badges/score.svg)](https://glama.ai/mcp/connectors/org.scoutee/scoutee)
+  🔓 - Search public tenders across Europe and North America and read notice previews, without an account or API key.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   🔐 - Scrape websites and run saved extraction recipes.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
