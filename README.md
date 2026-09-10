@@ -545,6 +545,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Search live government surplus auction lots in the US, UK, CA and AU, with sold-price comps and resale scores.
+- [HiddenJobs — Remote Tech Job Search MCP](https://hiddenjobs.dev/mcp/docs) `https://api.hiddenjobs.dev/mcp`
+  [![HiddenJobs — Remote Tech Job Search MCP MCP connector](https://glama.ai/mcp/connectors/io.github.hiddenjobs/job-search-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hiddenjobs/job-search-mcp)
+  🔑 - Search remote tech jobs, inspect descriptions, compare roles, and retrieve application links.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
@@ -673,5 +676,4 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 
