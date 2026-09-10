@@ -470,6 +470,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Bisque](https://bisque.today) `https://bisque.cloud/presentations/mcp`
+  🔓 - Author narrated presentations and publish them to a shareable watch URL; tool calls need a free Bisque account.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
 - [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
