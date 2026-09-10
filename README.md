@@ -278,6 +278,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - 28 file and text tools: merge, split and compress PDFs, OCR, image compression, SQL, QR codes, JWTs and mock data.
+- [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
+  [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
+  🔓 - Search independent software options and read-only agent workflows with roles, checks, sources, and safety boundaries.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
@@ -673,5 +676,4 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 
