@@ -312,6 +312,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
 
+- [Rosetta](https://rosettafolio.com) `https://rosettafolio.com/api/mcp`
+  [![Rosetta MCP connector](https://glama.ai/mcp/connectors/io.github.Jcjimenezglez/rosetta-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Jcjimenezglez/rosetta-mcp)
+  🔑 - Parse, extract, split, and ask over digital text-layer PDFs for Cursor and Claude agents.
+
 ### 💰 <a name="finance"></a>Finance
 
 - [Aave](https://aave.com) `https://mcp.aave.com`
