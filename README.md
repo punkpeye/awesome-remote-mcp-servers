@@ -564,6 +564,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Malinois](https://malinois.app) `https://malinois.app/mcp`
+  [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
+  🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
