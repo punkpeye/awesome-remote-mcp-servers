@@ -414,6 +414,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
+- [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
+  [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
+  🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
 - [docs2mcp](https://docs2mcp.com) `https://mcp.docs2mcp.com/mcp`
   [![docs2mcp MCP connector](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp)
   🔐 - Query your own PDFs and documents, with every answer linking to the exact page and region it came from.
