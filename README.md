@@ -774,6 +774,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate any decision from every side; running a debate needs a Pro key.
+- [SomaCheck](https://somacheck.com/mcp) `https://mcp.somacheck.com/functions/v1/mcp`
+  [![SomaCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Sensie-agents/vibecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sensie-agents/vibecheck)
+  🔐 - Give AI agents a consented Aligned or Unaligned signal plus confidence from a three-second phone gesture.
 - [Tseha](https://tseha.io) `https://tseha.io/mcp`
   [![Tseha MCP connector](https://glama.ai/mcp/connectors/io.tseha/tseha/badges/score.svg)](https://glama.ai/mcp/connectors/io.tseha/tseha)
   🔓 - Ethiopian calendar and date conversion.
@@ -797,5 +800,4 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 
