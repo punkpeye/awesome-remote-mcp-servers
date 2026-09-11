@@ -584,6 +584,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hourly LLM-ranked news briefings on AI, markets, sports, and world news as JSON and e-ink pages; paid tools via x402.
 - [Bright Data](https://brightdata.com) `https://mcp.brightdata.com/mcp`
   🔐 - Web scraping and SERP data through a managed proxy network.
+- [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
+  [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
+  🔓 - Runs a defect scan against a software vendor's public claims and returns structured findings with evidence grades and a buyer-intake tool.
 - [Cloudflare Radar](https://radar.cloudflare.com) `https://radar.mcp.cloudflare.com/mcp`
   🔐 - Internet traffic, routing, and security trends from Cloudflare Radar.
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
