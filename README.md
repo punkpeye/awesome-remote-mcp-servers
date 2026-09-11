@@ -466,7 +466,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Rootly incidents, alerts, and on-call schedules.
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
-  🔑 - Ask why last night's unattended run is missing, stalled, failed or unproven, check the cost caps, and read the tamper-evident proof of a finished run.
+  🔓 - Ask why last night's unattended run is missing, stalled, failed or unproven, check the cost caps, and read the tamper-evident proof of a finished run. Discovery is open so the connector can score it; tool calls need a free X-API-Key.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
