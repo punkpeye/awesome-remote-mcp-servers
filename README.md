@@ -378,6 +378,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - On-chain TCG price oracle: 456K+ cards, calibrated risk forecasts, AI grading, loan terms; free reads, x402 paid tools.
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
+- [XFINLAB](https://www.xfinlab.com/intelligence-api.html) `https://xfinlab.com/api/mcp`
+  [![XFINLAB MCP connector](https://glama.ai/mcp/connectors/com.xfinlab/xfinlab-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.xfinlab/xfinlab-intelligence)
+  🔑 - Real-time market events, SEC filings, FinBERT sentiment, technical analysis, and macro/global market data.
   🔐 - Ask questions about cloud cost and usage data.
 - [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
   🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
