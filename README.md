@@ -265,6 +265,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search the Capawesome docs and blog; an API token adds the Capawesome Cloud management tools.
 - [Cloudflare Docs](https://developers.cloudflare.com) `https://docs.mcp.cloudflare.com/mcp`
   🔓 - Search the Cloudflare developer documentation.
+- [Coderbuds](https://coderbuds.com/docs/mcp?ref=awesome-remote-mcp) `https://coderbuds.com/mcp/insights`
+  [![Coderbuds MCP connector](https://glama.ai/mcp/connectors/com.coderbuds/insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.coderbuds/insights)
+  🔐 - Read your team's delivery metrics, org map and shipping standards, and check a change against them before opening a PR.
 - [DeepWiki](https://deepwiki.com) `https://mcp.deepwiki.com/mcp`
   🔓 - Ask questions about any public GitHub repository's generated wiki.
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
