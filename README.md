@@ -766,6 +766,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
 - [acdoyle](https://acdoyle.dev) `https://acdoyle.dev/api/mcp`
+  [![acdoyle MCP connector](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle)
   🔓 - Three decisive specialists (general problem-solving, non-custodial budget execution, business advice); pay-per-call in USDC via x402 on Base, no signup, or a prepaid credit key.
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
