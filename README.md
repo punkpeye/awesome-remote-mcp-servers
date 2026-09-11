@@ -340,6 +340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [Insourcia](https://insourcia.io/docs/guides/mcp) `https://mcp.insourcia.io/mcp`
+  [![Insourcia MCP connector](https://glama.ai/mcp/connectors/io.insourcia/insourcia/badges/score.svg)](https://glama.ai/mcp/connectors/io.insourcia/insourcia)
+  🔐 - French private-company data: search by name or SIREN, financials, directors, ownership graphs, M&A, insolvency events.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
