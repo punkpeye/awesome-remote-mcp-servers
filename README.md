@@ -380,6 +380,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers from any MCP-capable AI agent; dry-run by default, live trading on Kraken and Crypto.com.
+- [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
+  [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
+  🔐 - Personal-finance workspace for AI agents: connected accounts, spending, budgets, goals, and investments.
 - [Company Check](https://api.foretak.dev) `https://api.foretak.dev/mcp`
   [![Company Check MCP connector](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp)
   🔓 - Look up a company at the UK's Companies House, Norway's Brønnøysundregistrene or Sweden's Bolagsverket, with what it has filed, plus UK charges and insolvency records.
