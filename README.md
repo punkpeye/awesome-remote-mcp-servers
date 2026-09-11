@@ -159,6 +159,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
+- [Browser Forest](https://browserforest.com) `https://browserforest.com/api/mcp/bf`
+  [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
+  🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
+
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
