@@ -350,7 +350,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Current conditions, a two-hour rain curve, and a rain-radar map drawn as text, readable without an image model.
 - [FindEnergyRates](https://findenergyrates.com) `https://findenergyrates.com/mcp`
   [![FindEnergyRates MCP connector](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates)
-  🔑 - Live US retail electricity plans by utility, price-to-compare rates, and ZIP-to-utility lookup; free key by email.
+  🔐 - Live US retail electricity plans by utility, price-to-compare rates, and ZIP-to-utility lookup; free key by email.
 - [GreenCalculus](https://greencalculus.com/developers/) `https://mcp.greencalculus.com`
   [![GreenCalculus MCP connector](https://glama.ai/mcp/connectors/com.greencalculus/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.greencalculus/api)
   🔓 - Sourced greenhouse-gas emission factors and audit-traced carbon calculations, every value citing its source cell.
