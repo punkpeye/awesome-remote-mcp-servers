@@ -762,6 +762,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions, and build invitations. Respondents answer a public link without an account.
+- [Document Player](https://documentplayer.com/connect-ai/) `https://documentplayer.com/mcp`
+  [![Document Player MCP connector](https://glama.ai/mcp/connectors/com.documentplayer/document-player/badges/score.svg)](https://glama.ai/mcp/connectors/com.documentplayer/document-player)
+  🔐 - Send text from your AI to a reader window to read along and listen, with playback controls for each sentence.
 - [Fireflies](https://fireflies.ai) `https://api.fireflies.ai/mcp`
   [![Fireflies MCP connector](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly)
   🔐 - Search meeting transcripts, summaries, and action items.
