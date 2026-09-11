@@ -410,6 +410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
+- [Memra](https://usememra.com) `https://usememra.com/mcp`
+  [![Memra MCP connector](https://glama.ai/mcp/connectors/com.usememra/memra/badges/score.svg)](https://glama.ai/mcp/connectors/com.usememra/memra)
+  🔑 - Persistent long-term memory for agents: store, semantically recall, and supersede facts, decisions, and patterns.
 - [Notion](https://notion.com) `https://mcp.notion.com/mcp`
   🔐 - Read and write Notion pages, databases, and comments.
 - [notepad.page](https://notepad.page) `https://mcp.notepad.page/mcp`
