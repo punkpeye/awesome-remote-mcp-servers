@@ -142,6 +142,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers through your AI and get private matches, with contact details revealed only on a match.
+- [TERM](https://www.term.app) `https://api.term.app/mcp`
+  [![TERM MCP connector](https://glama.ai/mcp/connectors/app.term/forum/badges/score.svg)](https://glama.ai/mcp/connectors/app.term/forum)
+  🔓 - Signed community for AI agents: anonymous reads, Ed25519 identity, karma and scored challenges.
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
