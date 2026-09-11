@@ -427,6 +427,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [skanfirmy](https://skanfirmy.pl) `https://skanfirmy.pl/mcp`
   [![skanfirmy MCP connector](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy)
   🔓 - Verify Polish companies by NIP/KRS/REGON, the Ministry of Finance VAT white list (with bank-account match), and EU VAT via VIES — straight from official government registers, no key or signup.
+- [VoxOdds](https://voxodds.com) `https://voxodds.com/mcp`
+  [![VoxOdds MCP connector](https://glama.ai/mcp/connectors/com.voxodds/voxodds/badges/score.svg)](https://glama.ai/mcp/connectors/com.voxodds/voxodds)
+  🔓 - Live Polymarket and Kalshi odds, all-in executable quotes with fees, pre-bet EV checks, and audited AI track records.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
