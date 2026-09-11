@@ -625,6 +625,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Scrape websites and run saved extraction recipes.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
+- [Theyond](https://theyond.com) `https://theyond.com/mcp`
+  [![Theyond MCP connector](https://glama.ai/mcp/connectors/com.theyond/theyond/badges/score.svg)](https://glama.ai/mcp/connectors/com.theyond/theyond)
+  🔓 - If it's here, it's on their board — live jobs from employer career pages, apply on theyond.com.
 
 ### 🔒 <a name="security"></a>Security
 
