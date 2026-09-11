@@ -664,6 +664,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Promptguard](https://mcp.glc-rag.hu/guide/promptguard) `https://mcp.glc-rag.hu/mcp`
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
+  [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Zero-auth cryptographic provenance and notarization engine anchoring AI outputs, audits, and agreements to TON Blockchain with strict zero-storage.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
