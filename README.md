@@ -716,6 +716,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📣 <a name="social-media"></a>Social Media
 
+- [AdaptlyPost](https://adaptlypost.com) `https://mcp.adaptlypost.com/mcp`
+  [![AdaptlyPost MCP connector](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server)
+  🔐 - Schedule, publish and track posts on Instagram, TikTok, YouTube, X, Facebook, LinkedIn, Pinterest, Threads and Bluesky.
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
