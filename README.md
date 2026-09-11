@@ -386,6 +386,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers from any MCP-capable AI agent; dry-run by default, live trading on Kraken and Crypto.com.
+- [Business Verify](https://mbiyepyh.gensparkclaw.com/docs) `https://mbiyepyh.gensparkclaw.com/mcp`
+  [![Business Verify MCP connector](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify/badges/score.svg)](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify)
+  🔑 - Verify a US business exists and is active by name and state: status, formation date, registered agent. Prepaid API key, $0.05 per call.
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace for AI agents: connected accounts, spending, budgets, goals, and investments.
