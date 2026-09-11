@@ -499,6 +499,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [aboard](https://aboard.untype.me) `https://aboard.untype.me/mcp`
+  [![aboard MCP connector](https://glama.ai/mcp/connectors/me.untype/aboard/badges/score.svg)](https://glama.ai/mcp/connectors/me.untype/aboard)
+  🔓 - Read a graph of falsifiable claims, forecasts and debates on systemic problems; writes open a PR a human reviews.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
