@@ -144,6 +144,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Canva](https://canva.com) `https://mcp.canva.com/mcp`
   [![Canva MCP connector](https://glama.ai/mcp/connectors/com.canva.mcp/canva/badges/score.svg)](https://glama.ai/mcp/connectors/com.canva.mcp/canva)
   🔐 - Create, edit, and export Canva designs.
+- [CARMOTIF](https://agent.carmotif.com/) `https://api.carmotif.com/mcp`
+  [![CARMOTIF MCP connector](https://glama.ai/mcp/connectors/io.github.xgone/carmotif-agent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xgone/carmotif-agent)
+  🔐 - Search automotive design references by brand, model, year, colour, parts, and natural language; API key required.
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
