@@ -261,6 +261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search the Cloudflare developer documentation.
 - [DeepWiki](https://deepwiki.com) `https://mcp.deepwiki.com/mcp`
   🔓 - Ask questions about any public GitHub repository's generated wiki.
+- [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
+  [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
+  🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
 - [GO AI Tools](https://goaichat.app/mcp-tools) `https://goaichat.app/mcp-tools/mcp`
   [![GO AI Tools MCP connector](https://glama.ai/mcp/connectors/app.goaichat/tools/badges/score.svg)](https://glama.ai/mcp/connectors/app.goaichat/tools)
   🔓 - 31 deterministic tools: image conversion, EXIF stripping, App Store assets, colour maths.
