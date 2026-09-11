@@ -563,6 +563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DABYTE AI Visibility Index](https://dabyte.ai) `https://dabyte.ai/mcp`
   [![DABYTE MCP connector](https://glama.ai/mcp/connectors/ai.dabyte/visibility-index/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dabyte/visibility-index)
   🔓 - Weekly share of answer for 20 SaaS and AI tool brands across ChatGPT, Perplexity and Gemini, with the frozen prompt panel behind it.
+- [Digital Experts Hypotheses](https://digitalexperts.tv/data) `https://mcp.digitalexperts.tv/mcp`
+  [![Digital Experts Hypotheses MCP connector](https://glama.ai/mcp/connectors/tv.digitalexperts/hypotheses/badges/score.svg)](https://glama.ai/mcp/connectors/tv.digitalexperts/hypotheses)
+  🔓 - Open dataset of 1,590 JTBD marketing hypotheses with cold-traffic test results: cost per subscriber and per lead by niche.
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
