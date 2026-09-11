@@ -123,7 +123,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
-- [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
+- [- [uk-legislation-changes](https://uk-legal-changes.pages.dev/mcp) 🇬🇧 — Point-in-time amendment history for UK law: which provisions changed, when, and by how much. Keyless, no auth. 506 provisions across employment, equality, consumer, data protection and company law.
+Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
 
