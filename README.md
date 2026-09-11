@@ -180,6 +180,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [AgenTrux](https://docs.agentrux.com) `https://api.agentrux.com/mcp`
+  [![AgenTrux MCP connector](https://glama.ai/mcp/connectors/com.agentrux/agentrux/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentrux/agentrux)
+  🔑 - Authenticated event topics for agent-to-agent messaging with per-agent credentials, grants, and audit logs.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
