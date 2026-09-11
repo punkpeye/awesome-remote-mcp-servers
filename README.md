@@ -181,6 +181,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create, deploy, and manage Netlify sites.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
+- [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
+  [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
+  🔓 - Start with no account: add production storage, data, jobs, webhooks, email and secrets to an app, then meter the usage.
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
