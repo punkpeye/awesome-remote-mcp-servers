@@ -448,6 +448,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DABYTE AI Visibility Index](https://dabyte.ai) `https://dabyte.ai/mcp`
   [![DABYTE MCP connector](https://glama.ai/mcp/connectors/ai.dabyte/visibility-index/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dabyte/visibility-index)
   🔓 - Weekly share of answer for 20 SaaS and AI tool brands across ChatGPT, Perplexity and Gemini, with the frozen prompt panel behind it.
+- [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
+  [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
+  🔐 - Run WhatsApp Business campaigns: import contacts, build live segments, send approved message templates, schedule broadcasts, and read delivery and read stats.
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
