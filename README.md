@@ -209,6 +209,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
+  [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
+  🔐 - Write and compile LaTeX: search 1000+ journal, thesis and CV templates, create projects, edit files, and compile to PDF with the build log returned.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
