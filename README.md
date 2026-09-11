@@ -594,6 +594,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Scrape websites and run saved extraction recipes.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
+- [ToolTrace](https://tooltrace.io/mcp) `https://mcp.tooltrace.io/mcp`
+  🔑 - Scrape pages to Markdown, extract metadata and JSON-LD, audit on-page SEO, and check XML sitemaps.
 
 ### 🔒 <a name="security"></a>Security
 
