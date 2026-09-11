@@ -810,7 +810,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC — no account, no signup, no KYC.
 - [Windsock](https://windsock.ai/mcp) `https://windsock.ai/mcp`
   [![Windsock MCP connector](https://glama.ai/mcp/connectors/ai.windsock/windsock/badges/score.svg)](https://glama.ai/mcp/connectors/ai.windsock/windsock)
-  🔐 - Aircraft valuations, FAA registry lookups, cost of ownership, comparable aircraft, ADs and STCs, market metrics, reports and logbooks.
+  🔐 - Aircraft valuations, FAA registry lookups, cost of ownership, ADs and STCs, market data, reports and logbooks.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
