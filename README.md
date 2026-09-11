@@ -317,6 +317,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
+- [Origine Paris](https://origineparis.com) `https://mcp.origineparis.com/mcp`
+  [![Origine Paris MCP connector](https://glama.ai/mcp/connectors/com.origineparis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.origineparis/mcp)
+  🔓 - Paris jewellery house: recycled 18-carat gold, IGI-certified lab-grown diamonds; collections, bespoke, priced catalogue.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
