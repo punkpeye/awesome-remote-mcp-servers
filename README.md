@@ -224,6 +224,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
 - [Wix](https://wix.com) `https://mcp.wix.com/mcp`
+- [TeamAgent Canvas](https://github.com/AvatarGaia/canvas-mcp)  `https://agent.avatargaia.top/api/mcp/canvas`
   [![Wix MCP connector](https://glama.ai/mcp/connectors/com.wix/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wix/mcp)
   🔐 - Manage Wix sites, business data, and bookings.
 
