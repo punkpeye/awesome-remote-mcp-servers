@@ -1,4 +1,4 @@
-# Awesome Remote MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/052fd254-985e-4ffd-9c9e-c2bdc53d0e8f" /># Awesome Remote MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
@@ -551,7 +551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
-- [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
+- [Adbloop](https://adbloop.com/mcp/) `https://mcp.adbloop.com/mcp`
+  🔐 - Create and manage Facebook and Instagram (Meta) ad campaigns from Claude, ChatGPT, or Cursor. Bulk creation, multi-account, spend guardrails. Meta Verified Tech Provider, free plan.
+  - [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
   [![AfterLaunch MCP connector](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing)
   🔓 - AI answer visibility, SEO and a ranked backlog of growth moves as agent tools; tool calls need an AfterLaunch account.
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
