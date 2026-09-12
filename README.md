@@ -637,6 +637,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💳 <a name="payments"></a>Payments
 
+- [AbaPay](https://abapays.com) `https://www.abapays.com/api/mcp`
+  🔐 - Pay real-world bills (airtime, data, electricity, cable, education, 170+ country international top-ups) with stablecoins on Celo and Base — check balance, pay, batch up to 20 recipients, or schedule recurring spend, settled on-chain.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
