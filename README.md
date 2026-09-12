@@ -328,6 +328,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Unblocked MCP connector](https://glama.ai/mcp/connectors/com.getunblocked/unblocked-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getunblocked/unblocked-mcp)
   🔐 - Give coding agents organizational context from code, docs, issues, and conversations.
 
+- [Zambo](https://zambo.dev) `https://zambo.dev/api/mcp`
+  [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
+  🔓 - Give your AI hands: 120 native MCP tools across 17 products over one zero-auth endpoint, free with no signup.
+
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
