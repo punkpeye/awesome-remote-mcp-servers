@@ -127,6 +127,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
+- [Zambo](https://zambo.dev) `https://zambo.dev/api/mcp`
+  🔓 - Give any AI agent hands: 120 native MCP tools over one zero-auth endpoint. Free 20 calls/tool/day, no account; x402 USDC micropayments on Base via zambo_pay.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
