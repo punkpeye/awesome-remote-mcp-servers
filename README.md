@@ -672,6 +672,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - AI-native project boards, cockpit, and governed agent missions over hosted Streamable HTTP.
+- [Taskade](https://www.taskade.com) `https://www.taskade.com/mcp`
+  [![Taskade MCP connector](https://glama.ai/mcp/connectors/io.github.taskade/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taskade/mcp-server)
+  🔐 - Read and write Taskade projects, tasks, and agents over hosted MCP.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
