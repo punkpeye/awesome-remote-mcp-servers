@@ -540,6 +540,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
   🔐 - Persistent shared AI memory across tools and devices, with full history and unlimited memory on paid plans.
 - [What Led To](https://whatledto.com) `https://whatledto.com/mcp`
+  [![What Led To MCP connector](https://glama.ai/mcp/connectors/com.whatledto/what-led-to/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatledto/what-led-to)
   🔓 - Source-backed timelines of long-running events in tech, the economy and gaming: search dated entries, read a whole timeline, and get the verbatim quote and outlet behind each one.
 
 ### ⚖️ <a name="legal"></a>Legal
