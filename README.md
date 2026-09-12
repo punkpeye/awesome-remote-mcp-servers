@@ -518,7 +518,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 - [MentionAgent](https://mentionagent.ai/mcp/) `https://mentionagent.ai/mcp`
-  🔑 - Link building outreach from your own agent: read the drafts MentionAgent wrote, edit or approve the batch, answer publisher replies, record placements and change a campaign in plain English. Only `approve_batch` and `send_reply` send email; `send_reply` has no recipient field, the address comes from the thread. Needs a MentionAgent account key.
+  [![MentionAgent MCP connector](https://glama.ai/mcp/connectors/ai.mentionagent/mentionagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mentionagent/mentionagent)
+  🔐 - Link building outreach from your agent: review drafts, approve the batch, answer publisher replies, record placements.
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility tools: AI crawlability, robots.txt vs AI crawlers, llms.txt, JSON-LD, social previews, screenshots, and more. No account, no API key.
