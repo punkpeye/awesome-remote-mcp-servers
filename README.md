@@ -551,7 +551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
-- [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
+- [Adbloop](https://adbloop.com/mcp/) `https://mcp.adbloop.com/mcp`
+  🔐 - Create and manage Facebook and Instagram (Meta) ad campaigns from Claude, ChatGPT, or Cursor. Bulk creation, multi-account, spend guardrails. Meta Verified Tech Provider, free plan.
+  - [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
   [![AfterLaunch MCP connector](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing)
   🔓 - AI answer visibility, SEO and a ranked backlog of growth moves as agent tools; tool calls need an AfterLaunch account.
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
