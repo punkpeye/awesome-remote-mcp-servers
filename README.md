@@ -499,6 +499,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
+  [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
+  🔓 - Looks up a shared cache of past answers to programming questions and returns one on a match, otherwise stays silent.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
