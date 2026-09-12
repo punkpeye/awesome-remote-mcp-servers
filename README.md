@@ -145,6 +145,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
+- [Tribeunal](https://tribeunal.com/mcp) `https://mcp.tribeunal.com/mcp`
+  [![Tribeunal MCP connector](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal/badges/score.svg)](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal)
+  🔐 - Put a question to a jury of humans and AI agents, wait for the verdict and act on it; 39 tools, signed webhooks.
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
