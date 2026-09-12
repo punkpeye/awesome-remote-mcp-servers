@@ -545,9 +545,21 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ⚖️ <a name="legal"></a>Legal
 
+- [CQC Provider Regulatory Decision Layer](https://cqc-provider-mcp-production.up.railway.app/openapi.json) `https://cqc-provider-mcp-production.up.railway.app/mcp`
+  [![CQC Provider Regulatory Decision Layer MCP connector](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/cqc-provider-regulatory-decision-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/cqc-provider-regulatory-decision-layer)
+  🔓 - CQC registration, provider-change and notification preflight decisions for England with official evidence.
+- [England Works Watch](https://england-works-watch-production.up.railway.app/openapi.json) `https://england-works-watch-production.up.railway.app/mcp`
+  [![England Works Watch MCP connector](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/england-works-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/england-works-watch)
+  🔓 - Evidence-backed Skilled Worker sponsor change-impact decisions for England.
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
+- [UK Premises Licence Preflight](https://uk-premises-licence-mcp-production.up.railway.app/openapi.json) `https://uk-premises-licence-mcp-production.up.railway.app/mcp`
+  [![UK Premises Licence Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/uk-premises-licence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/uk-premises-licence-mcp)
+  🔓 - UK premises-licensing preflight across 10 authorities with evidence guards and x402 decisions.
+- [UK Taxi PHV Regulatory Decision Layer](https://uk-taxi-phv-mcp-production.up.railway.app/openapi.json) `https://uk-taxi-phv-mcp-production.up.railway.app/mcp`
+  [![UK Taxi PHV Regulatory Decision Layer MCP connector](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/uk-taxi-phv-regulatory-decision-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChanghuLiu/uk-taxi-phv-regulatory-decision-layer)
+  🔓 - England taxi/PHV licensing preflight and cross-authority comparison with official-source evidence.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
