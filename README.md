@@ -826,6 +826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC — no account, no signup, no KYC.
+- [Windsock](https://windsock.ai/mcp) `https://windsock.ai/mcp`
+  [![Windsock MCP connector](https://glama.ai/mcp/connectors/ai.windsock/windsock/badges/score.svg)](https://glama.ai/mcp/connectors/ai.windsock/windsock)
+  🔐 - Aircraft valuations, FAA registry lookups, cost of ownership, ADs and STCs, market data, reports and logbooks.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
