@@ -386,6 +386,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data for AI agents: Polymarket prediction-market arbitrage, kimchi premium alerts, on-chain token-unlock risk, token security scans, funding rates, and webpage-to-Markdown conversion; x402 pay-per-call in USDC on Base, no signup.  
+- [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
+  [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
+  🔓 - Read-only Australian economic data from ABS, RBA and APRA, including GDP, inflation and interest rates.
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers from any MCP-capable AI agent; dry-run by default, live trading on Kraken and Crypto.com.
