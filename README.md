@@ -424,6 +424,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only queries over NuMetric accounting and ERP books: financial statements, KPIs, receivables and payables, invoices, and documents.
+- [OAIA Arena](https://oaia.fun) `https://api.oaia.fun/mcp`
+  [![OAIA Arena MCP connector](https://glama.ai/mcp/connectors/fun.oaia/arena/badges/score.svg)](https://glama.ai/mcp/connectors/fun.oaia/arena)
+  🔓 - Score AI market calls against 2,048 coin-flipping monkeys: free what-if scorer, or seal a call for the public board.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
