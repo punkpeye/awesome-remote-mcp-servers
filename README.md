@@ -575,6 +575,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lekta](https://lekta.dev) `https://lekta.dev/mcp`
   [![Lekta MCP connector](https://glama.ai/mcp/connectors/dev.lekta/lektadev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.lekta/lektadev)
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
+- [Linkly](https://linklyhq.com) `https://mcp.linklyhq.com`
+  [![Linkly MCP connector](https://glama.ai/mcp/connectors/com.linklyhq/linkly/badges/score.svg)](https://glama.ai/mcp/connectors/com.linklyhq/linkly)
+  🔐 - Create branded short links, read click analytics by country, device and referrer, and manage custom domains and webhooks.
 - [LogoKit](https://logokit.com) `https://mcp.logokit.com/mcp`
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
