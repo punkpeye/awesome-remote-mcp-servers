@@ -577,7 +577,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
 - [Linkly](https://linklyhq.com) `https://mcp.linklyhq.com`
   [![Linkly MCP connector](https://glama.ai/mcp/connectors/com.linklyhq/linkly/badges/score.svg)](https://glama.ai/mcp/connectors/com.linklyhq/linkly)
-  🔐 - Create branded short links, read click analytics by country, device and referrer, and manage custom domains and webhooks.
+  🔓 - Create branded short links, read click analytics and manage domains and webhooks; tool calls sign in to Linkly via OAuth.
 - [LogoKit](https://logokit.com) `https://mcp.logokit.com/mcp`
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
