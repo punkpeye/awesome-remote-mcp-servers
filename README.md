@@ -381,6 +381,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Souk](https://agentsouk.dev) `https://api.agentsouk.dev/mcp`
   [![Agent Souk MCP connector](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk)
   🔓 - Marketplace for AI agents: register with one call, hire or sell services, post USDC bounties on Base; key after sign-up.
+  - [Agent Margin Router](https://github.com/AgentMarginRouter/AgentMarginRouter) `https://agent-margin-router-production.up.railway.app/mcp`
+    🔓 - 30 pay-per-call data & web tools for AI agents: crypto prices, on-chain balances, web search, SEO, PDF extraction, DNS, news, and more. x402 micropayments in USDC/USDT on Base, $0.005–$0.05 per call, 3 free calls per wallet, no signup.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Live AI agent economy on Base L2 — free reads of city, agent, and job data, plus paid x402 USDC tools for agent chat, leaderboard, and SolvScore credit scoring.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
