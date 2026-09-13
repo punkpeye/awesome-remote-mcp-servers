@@ -255,6 +255,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 
+- [402cron](https://402cron.com) `https://402cron.com/mcp`
+  [![402cron MCP connector](https://glama.ai/mcp/connectors/com.402cron/402cron/badges/score.svg)](https://glama.ai/mcp/connectors/com.402cron/402cron)
+  🔓 - Paid cron for AI agents: free to connect, a management token is issued after paying with x402 USDC on Base.
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Give AI agents a field guide to building better agents, with design patterns, tradeoffs, and decision guidance.
