@@ -586,6 +586,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
+- [OutSend](https://outsend.xyz) `https://outsend.xyz/mcp`
+  [![OutSend MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/xyz.outsend/out-send/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.outsend/out-send)
+  🔑 - Find local businesses, enrich them with emails, socials and reviews, and run B2B lead pipelines.
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
