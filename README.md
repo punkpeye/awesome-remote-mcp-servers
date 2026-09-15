@@ -664,6 +664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts that mention your product or keywords, scored for lead relevance.
+- [Sliq](https://getsliq.com/mcp) `https://mcp.getsliq.com/mcp`
+  [![Sliq MCP connector](https://glama.ai/mcp/connectors/com.getsliq/sliq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getsliq/sliq)
+  🔐 - Run LinkedIn and email outbound from Claude, ChatGPT, or any AI agent.
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Privacy-first, cookieless web analytics hosted in the EU: visitors, pages, sources, countries, goals, funnels and live traffic.
