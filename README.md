@@ -651,6 +651,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stripe](https://stripe.com) `https://mcp.stripe.com`
   [![Stripe MCP connector](https://glama.ai/mcp/connectors/com.stripe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.stripe/mcp)
   🔐 - Manage Stripe customers, products, prices, invoices, and payments.
+- [x402 Preflight](https://x402.chikocorp.com) `https://x402.chikocorp.com/mcp`
+  [![x402 Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight)
+  🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
 
 ### 📋 <a name="project-management"></a>Project Management
 
@@ -902,4 +905,3 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
-
