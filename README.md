@@ -922,6 +922,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only MCP server for short-term rental owners in Poland: query reservations, availability, pricing, guest reviews, and monthly stats. OAuth 2.1 with PKCE or static Bearer token.
+- [eSIMfly](https://esimfly.net/esim-api) `https://mcp.esimfly.net/mcp`
+  🔐 - Wholesale eSIM data plans for 200+ countries for resellers and apps: search plans with your prices, check balance and usage, diagnose an eSIM from live network data, and (opt-in, with a confirmation step) order and top up. OAuth 2.1 sign-in with an eSIMfly business account; also available as `npx -y @esimfly/mcp`.
 - [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
   [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
   🔐 - Live Google Flights fares with price band and verdict, round trips in one request, date ranges and destination lists.
