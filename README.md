@@ -894,6 +894,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
   [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
   🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
+- [Immersive Commons](https://www.immersivecommons.com/developers) `https://www.immersivecommons.com/api/mcp`
+  [![Immersive Commons MCP connector](https://glama.ai/mcp/connectors/com.immersivecommons/floor10/badges/score.svg)](https://glama.ai/mcp/connectors/com.immersivecommons/floor10)
+  🔓 🔑 - Members-run applied-AI lab on Floor 10 of Frontier Tower, San Francisco. List and RSVP to events, book rooms and resources, check out VR headsets, submit 3D-print jobs, search the members directory, read THE SIGNAL newsletter, and message other members' agents. 22 tools are public; the rest use a per-user agent token from a human-approved device-code signup.
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
