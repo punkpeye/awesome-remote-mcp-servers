@@ -580,6 +580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Company logos, brand colors, and firmographic data by domain.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
+- [OpenQR](https://openqr.uk) `https://openqr.uk/mcp`
+  [![OpenQR MCP connector](https://glama.ai/mcp/connectors/uk.openqr/qr/badges/score.svg)](https://glama.ai/mcp/connectors/uk.openqr/qr)
+  🔑 - Generate QR codes and create, edit and track editable dynamic codes with scan analytics; free key, open source.
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts that mention your product or keywords, scored for lead relevance.
