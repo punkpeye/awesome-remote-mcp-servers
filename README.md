@@ -720,6 +720,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JobsPipe](https://jobspipe.dev) `https://jobspipe.dev/mcp`
   [![JobsPipe MCP connector](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔓 - List the ATS and job-board sources JobsPipe normalizes, look up pricing plans, and search live Upwork postings; full job search runs through the keyed REST API.
+- [Liner](https://liner.com/developers/docs/mcp) `https://platform.liner.com/api/v1/mcp`
+  [![Liner MCP connector](https://glama.ai/mcp/connectors/com.liner/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.liner/search)
+  🔐 - Cited web and academic search, quick answers, and multi-step deep research reports.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
