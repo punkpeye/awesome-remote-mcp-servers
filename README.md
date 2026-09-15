@@ -201,7 +201,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
 - [Fiskmas](https://fiskmas.dev) `https://mcp.fiskmas.dev/mcp`
-  🔓 - Host Docker apps for AI clients: create, deploy and monitor apps on live HTTPS URLs; per-user MCP API token also works as docker login.
+  🔓 - Host Docker apps for AI clients: create, deploy and monitor apps on live HTTPS URLs; token doubles as docker login.
 - [Floot](https://floot.com) `https://mcp.floot.com/mcp`
   [![Floot MCP connector](https://glama.ai/mcp/connectors/com.floot/floot/badges/score.svg)](https://glama.ai/mcp/connectors/com.floot/floot)
   🔐 - Write React pages and serverless endpoints, provision Postgres and auth, run SQL, read logs, and publish to a live URL.
