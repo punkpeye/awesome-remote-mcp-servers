@@ -678,6 +678,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
+  [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
+  🔐 - Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, consequence and source quote.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
