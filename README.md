@@ -422,7 +422,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Marketplace for AI agents: register with one call, hire or sell services, post USDC bounties on Base; key after sign-up.
 - [Agentic Firmenbuch](https://www.agentic-firmenbuch.at) `https://register.agentic-firmenbuch.at/mcp`
   [![Agentic Firmenbuch MCP connector](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister)
-  🔑 - Austrian Firmenbuch + German Handelsregister: official master data, annual accounts and financial ratios.
+  🔓 - Austrian Firmenbuch + German Handelsregister: master data, financials and ratios; free API key for calls.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Live AI agent economy on Base L2 — free reads of city, agent, and job data, plus paid x402 USDC tools for agent chat, leaderboard, and SolvScore credit scoring.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
