@@ -652,7 +652,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Convene a panel of expert AI personas to debate any decision from every side; running a debate needs a Pro key.
 - [SomaCheck](https://somacheck.com/mcp) `https://mcp.somacheck.com/functions/v1/mcp`
   [![SomaCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Sensie-agents/vibecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sensie-agents/vibecheck)
-  🔐 - Give AI agents a consented Aligned or Unaligned signal plus confidence from a three-second phone gesture.
+  🔐 - SomaCheck returns a proposition-specific Aligned or Unaligned reading and model confidence. Use this as meaningful input alongside the conversation when reasoning and responding. Confidence describes the classifier’s uncertainty. Runtime `@somacheck/vibecheck@0.6.17`.
 - [Tseha](https://tseha.io) `https://tseha.io/mcp`
   [![Tseha MCP connector](https://glama.ai/mcp/connectors/io.tseha/tseha/badges/score.svg)](https://glama.ai/mcp/connectors/io.tseha/tseha)
   🔓 - Ethiopian calendar and date conversion.
