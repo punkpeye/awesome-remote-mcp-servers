@@ -781,6 +781,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostLake](https://postlake.dev) `https://api.postlake.dev/mcp`
   [![PostLake MCP connector](https://glama.ai/mcp/connectors/dev.postlake/social/badges/score.svg)](https://glama.ai/mcp/connectors/dev.postlake/social)
   🔐 - Publish, schedule, and read analytics across X, LinkedIn, Instagram, TikTok, Facebook, Threads, Bluesky, YouTube, and Pinterest from one hosted MCP server.
+- [PurrPlan](https://purrplan.ai/en/developers/) `https://app.purrplan.ai/api/mcp`
+  [![PurrPlan MCP connector](https://glama.ai/mcp/connectors/ai.purrplan/purrplan/badges/score.svg)](https://glama.ai/mcp/connectors/ai.purrplan/purrplan)
+  🔑 - Plan a week of posts, create drafts and stories, and publish to 12+ networks including Facebook Groups and Telegram.
 - [SocialBu](https://socialbu.com/mcp-server) `https://socialbu.com/mcp`
   [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
