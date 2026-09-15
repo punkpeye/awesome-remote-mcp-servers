@@ -89,6 +89,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 💰 - [Finance](#finance)
 * 🍽️ - [Food & Dining](#food--dining)
 * 🎮 - [Gaming](#gaming)
+* 🩺 - [Health & Wellness](#health--wellness)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🎯 - [Marketing](#marketing)
@@ -526,6 +527,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WagerX](https://wagerx.io/agent-gateway) `https://wagerx.io/mcp`
   [![WagerX MCP connector](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos/badges/score.svg)](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos)
   🔓 - Source-linked gambling regulatory intelligence and real-money crypto casino audit evidence.
+
+### 🩺 <a name="health--wellness"></a>Health & Wellness
+
+- [CareClinic Health Tracker](https://cdn.careclinic.io/mcp/help/index.html) `https://mcp.careclinic.io/mcp`
+  [![CareClinic Health Tracker MCP connector](https://glama.ai/mcp/connectors/io.careclinic/health-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.careclinic/health-tracker)
+  🔐 - Review medication schedules, symptoms, mood, and confirmed health check-ins.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
