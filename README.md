@@ -679,7 +679,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 📊 <a name="monitoring"></a>Monitoring
 
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
-  🔓 - Check whether a third-party API is down, look up uptime history, or list recent outages across 294 independently-probed APIs (Stripe, OpenAI, AWS, GitHub, etc.).
+  🔓 - Check whether a third-party API is down, look up uptime history, or list recent outages across 294 independently-probed APIs (<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/165f247b-c5dd-4734-8644-18f47ec8935c" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/489c80f1-6765-4819-aba2-117e51413506" />
+, OpenAI, AWS, GitHub, etc.).
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
@@ -852,6 +853,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
+- [StudiePoint AI](https://studiepoint.ai) `https://studiepoint.ai/api/mcp`
+  [![StudiePoint AI MCP connector](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai)
+  🔓 - Search scholarships, convert African GPAs, check visas, match students, and estimate study costs.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
 - [Trends MCP](https://trendsmcp.ai) `https://api.trendsmcp.ai/mcp`
