@@ -82,6 +82,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 📝 - [Content Management](#content-management)
 * 👤 - [CRM](#crm)
 * 🗄️ - [Databases](#databases)
+* 📊 - [Data Visualization](#data-visualization)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🛒 - [E-Commerce](#e-commerce)
 * 🌳 - [Environment](#environment)
@@ -283,6 +284,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Supabase](https://supabase.com) `https://mcp.supabase.com/mcp`
   [![Supabase MCP connector](https://glama.ai/mcp/connectors/com.supabase/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.supabase/mcp)
   🔐 - Manage Supabase projects, run SQL, and inspect schemas.
+
+### 📊 <a name="data-visualization"></a>Data Visualization
+
+- [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
+  [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
+  🔓 - Charts and tables with live-updating embed links, drafted from one message; tool calls need a key, signup returns one.
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 - [ADITUS Developer Portal MCP](https://developers.aditus.com/mcp) `https://developers.aditus.com/api/mcp`
