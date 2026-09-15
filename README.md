@@ -208,7 +208,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deploy and inspect Render services, databases, and logs.
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
   [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
-  🔓 - Start with no account: add production storage, data, jobs, webhooks, email and secrets to an app, then meter the usage.
+  🔐 - Add production storage, data, jobs, webhooks, email and secrets to an app, then meter the usage. Discovery needs no credential; using a capability needs a TrustyCap account.
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
