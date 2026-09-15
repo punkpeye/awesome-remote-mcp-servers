@@ -109,6 +109,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🔗 <a name="aggregators"></a>Aggregators
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base; connect anonymously and pay only when you call a tool.
+- [Glasser](https://glasser.ai) `https://api.glasser.ai/mcp`
+  [![Glasser MCP connector](https://glama.ai/mcp/connectors/ai.glasser/glasser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.glasser/glasser)
+  🔐 - One key to 1,000+ paid data APIs, pay per call: enrichment, SEO/SERP, scraping, places, news, scholar and social data.
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and chat completions with parity to /v1/chat/completions.
