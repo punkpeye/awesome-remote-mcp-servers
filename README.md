@@ -218,6 +218,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [Anima Labs](https://useanima.sh) `https://mcp.useanima.sh/mcp`
+  [![Anima MCP connector](https://glama.ai/mcp/connectors/io.github.anima-labs-ai/anima/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anima-labs-ai/anima)
+  🔐 - Agent identity: email, US phone/SMS, voice, encrypted vault. Free: email + 10 vault creds. Starter $19 / Growth $199 for phone/SMS/voice. OAuth at connect.useanima.sh or Bearer ak_. Not AnimaApp.
+
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
