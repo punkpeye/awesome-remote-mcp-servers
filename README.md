@@ -379,6 +379,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
   🔓 - Aave V3 and V4 lending markets, rates, wallet positions, rewards, governance, and non-custodial transaction building.
 - [Agent Margin Router](https://agentmarginrouter.com) `https://agent-margin-router-production.up.railway.app/mcp`
+  [![AgentMarginRouter MCP connector](https://glama.ai/mcp/connectors/io.github.AgentMarginRouter/agent-margin-router/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AgentMarginRouter/agent-margin-router)
   🔓 - Pay-per-call data for AI agents: live EIP-1559 gas fees and USD tx costs across Base, Ethereum, Arbitrum, Optimism and Polygon, plus web, crypto and on-chain tools; x402 in USDC on Base, listed in the Coinbase CDP Bazaar, 3 free calls per wallet, no signup.
 - [Agent Souk](https://agentsouk.dev) `https://api.agentsouk.dev/mcp`
   [![Agent Souk MCP connector](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk)
