@@ -218,6 +218,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [MeetStream](https://meetstream.ai) `https://mcp.meetstream.ai/mcp`
+  🔑 - Send AI bots into Zoom, Google Meet and Microsoft Teams to record, transcribe and summarize meetings. 19 tools covering bot lifecycle, transcripts and AI summaries, per-participant audio, live chat, and calendar scheduling. Auth is a MeetStream API key sent as a Bearer token.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
