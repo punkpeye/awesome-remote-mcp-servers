@@ -411,6 +411,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Box](https://box.com) `https://mcp.box.com/`
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
+- [quickS3](https://quicks3.com/s3-mcp-server/) `https://quicks3.com/mcp`
+  [![quickS3 MCP connector](https://glama.ai/mcp/connectors/com.quicks3/quicks3/badges/score.svg)](https://glama.ai/mcp/connectors/com.quicks3/quicks3)
+  🔐 - List, upload, download, and share files in S3, R2, B2, Wasabi, and Spaces buckets, scoped by delegated roles.
 
 ### 💰 <a name="finance"></a>Finance
 
