@@ -925,7 +925,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Browse tools anonymously, sign in with OAuth for trending topics, channel metrics and post history from public Telegram.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
-  🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+  🔐 🔑 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits. Sign in with Google or GitHub, or use an API key.
 
 ### 🏆 <a name="sports"></a>Sports
 
