@@ -440,6 +440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Company Check](https://api.foretak.dev) `https://api.foretak.dev/mcp`
   [![Company Check MCP connector](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp)
   🔓 - Look up a company at the UK's Companies House, Norway's Brønnøysundregistrene or Sweden's Bolagsverket, with what it has filed, plus UK charges and insolvency records.
+- [CompliAPI](https://compliapi.com) `https://api.compliapi.com/mcp`
+  [![CompliAPI MCP connector](https://glama.ai/mcp/connectors/com.compliapi/screening/badges/score.svg)](https://glama.ai/mcp/connectors/com.compliapi/screening)
+  🔓 - Screen crypto addresses, emails, websites, IDs and countries against OFAC, EU, UK and other sanctions lists.
 - [CryptoMacro](https://asistent-crypto.vercel.app/a2a) `https://asistent-crypto.vercel.app/mcp`
   [![CryptoMacro MCP connector](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis)
   🔓 - Crypto positioning plus the macro regime: funding, open interest, order-book depth, implied volatility, Fed rates.
