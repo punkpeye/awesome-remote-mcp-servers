@@ -448,7 +448,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Danish company register: company lookup, name search, and annual-report financials; data tools need a free key.
 - [Edgrapi](https://edgrapi.com) `https://api.edgrapi.com/mcp`
   [![Edgrapi MCP connector](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills)
-  🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
+  🔓 - US government data as JSON: SAM.gov opportunities, awards, grants, congress trades, SEC filings; free key needed.
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
