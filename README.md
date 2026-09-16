@@ -218,6 +218,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [mailmcp](https://mailmcp.ai) `https://mailmcp.ai/mcp`
+  [![mailmcp MCP connector](https://glama.ai/mcp/connectors/ai.mailmcp/mailmcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mailmcp/mailmcp)
+  🔐 - Search, read, reply to and send mail across all your Gmail, iCloud, Fastmail and IMAP mailboxes at once.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
