@@ -866,6 +866,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [AgentGlass](https://agentglass.net) `https://agentglass.net/mcp`
+  [![AgentGlass MCP connector](https://glama.ai/mcp/connectors/net.agentglass/agentglass/badges/score.svg)](https://glama.ai/mcp/connectors/net.agentglass/agentglass)
+  🔓 - Scans a public URL for hidden instructions aimed at AI agents and returns a risk level with evidence.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
