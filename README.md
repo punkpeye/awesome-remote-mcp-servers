@@ -620,6 +620,16 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [Advisors AI Store Readiness](https://advisorsai.ai) `https://advisorsai.ai/store-readiness-mcp`
+  [![Advisors AI Store Readiness MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/store-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/store-readiness)
+  🔓 - Checks one public page for robots, sitemap, JSON-LD, canonical tags, and llms.txt, then returns an HMAC receipt.
+
+
+- [Advisors AI Service Navigator](https://advisorsai.ai) `https://advisorsai.ai/mcp`
+  [![Advisors AI Service Navigator MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator)
+  🔓 - Read-only catalog of five services, a public-page check, and a request-link; nothing is charged.
+
+
 - [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
   [![AfterLaunch MCP connector](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing)
   🔓 - AI answer visibility, SEO and a ranked backlog of growth moves as agent tools; tool calls need an AfterLaunch account.
