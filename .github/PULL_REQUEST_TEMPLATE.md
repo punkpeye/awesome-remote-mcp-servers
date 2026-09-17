@@ -13,4 +13,5 @@ Auth: 🔓 none · 🔑 API key · 🔐 OAuth
 
 - [ ] The endpoint is public and answers an MCP `initialize` request
 - [ ] Entry is in the correct category, in alphabetical order
+- [ ] Entry has its Glama connector badge on the second line
 - [ ] Auth marker matches what the endpoint actually does
