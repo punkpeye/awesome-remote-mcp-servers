@@ -929,6 +929,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+- [Somvia](https://somvia.app) `https://somvia.app/mcp`
+  [![Somvia MCP connector](https://glama.ai/mcp/connectors/app.somvia/health/badges/score.svg)](https://glama.ai/mcp/connectors/app.somvia/health)
+  🔐 - Apple Health training load, recovery, HRV, thresholds and workout detail, computed on the athlete's iPhone.
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments from chat: draws, schedules, live standings, one-sentence dropout handling.
