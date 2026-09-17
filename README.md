@@ -1,6 +1,3 @@
-- [My Face Shape Chart](https://myfaceshapechart.com/) `https://myfaceshapechart.com/mcp`
-  [![My Face Shape Chart MCP connector](https://glama.ai/mcp/connectors/com.myfaceshapechart/my-face-shape-chart-site-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.myfaceshapechart/my-face-shape-chart-site-lookup)
-  🔓 - Read public face-shape guides by slug or bounded keyword search through a read-only MCP endpoint.
 # Awesome Remote MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
