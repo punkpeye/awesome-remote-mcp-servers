@@ -835,6 +835,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
+- [My Face Shape Chart](https://myfaceshapechart.com/) `https://myfaceshapechart.com/mcp`
+  [![My Face Shape Chart MCP connector](https://glama.ai/mcp/connectors/com.myfaceshapechart/my-face-shape-chart-site-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.myfaceshapechart/my-face-shape-chart-site-lookup)
+  🔓 - Read public face-shape guides by slug or bounded keyword search through a read-only MCP endpoint.
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Search people, companies, and open roles on an open professional network. Free, no API key.
