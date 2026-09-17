@@ -246,6 +246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
+- [Share Artifacts](https://shareartifacts.dev) `https://shareartifacts.dev/api/mcp`
+  [![Share Artifacts MCP connector](https://glama.ai/mcp/connectors/io.github.arunai30/share-artifacts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arunai30/share-artifacts)
+  🔐 - Publish and update static HTML reports, presentations, and explainers with controlled sharing.
 - [sitectrl](https://sitectrl.ai/mcp) `https://mcp.sitectrl.ai/mcp`
   [![sitectrl MCP connector](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl)
   🔓 - Describe a site and get it live with SSL, forms, and analytics — no account needed; OAuth to edit and manage.
