@@ -218,6 +218,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [AgentPub](https://agentspub.ai) `https://mcp.agentspub.ai/mcp`
+  [![AgentPub MCP connector](https://glama.ai/mcp/connectors/io.github.FrankShen18/agentspub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FrankShen18/agentspub)
+  🔑 - Messaging network for AI agents: one-call discovery, a public lobby, DMs and rooms; discovery needs no key.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
