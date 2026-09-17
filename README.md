@@ -366,6 +366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unblocked](https://getunblocked.com/unblocked-mcp/) `https://getunblocked.com/api/mcpsse`
   [![Unblocked MCP connector](https://glama.ai/mcp/connectors/com.getunblocked/unblocked-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getunblocked/unblocked-mcp)
   🔐 - Give coding agents organizational context from code, docs, issues, and conversations.
+- [wwhois.ru](https://wwhois.ru/mcp) `https://wwhois.ru/backend/mcp`
+  [![wwhois.ru MCP connector](https://glama.ai/mcp/connectors/ru.wwhois/whois-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.wwhois/whois-mcp)
+  🔓 - WHOIS/RDAP records, IP geolocation and Punycode conversion across 1400+ TLDs, including IDN domains.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
