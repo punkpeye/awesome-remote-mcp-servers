@@ -940,6 +940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hardware end-of-life lookups by part number: support status and dates, each backed by the vendor bulletin URL.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
+- [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
+  [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
+  🔓 - China's GB/T 47746-2026 AI customer-service compliance standard as tools: clause-level Q&A, the 53-item self-check list, mandatory human-handoff scenarios, and filing requirements.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 
