@@ -946,6 +946,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights from Alice, one of Israel's best-known travel apps, including Tel Aviv routes, with English and Hebrew results tagged best, cheapest, and fastest.
+- [Arclight Events](https://arclight.events/mcp) `https://arclight.events/api/mcp`
+  [![Arclight Events MCP connector](https://glama.ai/mcp/connectors/events.arclight/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/events.arclight/mcp)
+  🔓 - Upcoming events across 50 metros: AI and tech meetups, hackathons, conferences and concerts, each linked to its source.
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only MCP server for short-term rental owners in Poland: query reservations, availability, pricing, guest reviews, and monthly stats. OAuth 2.1 with PKCE or static Bearer token.
