@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CalmSEO](https://calmseo.com) `https://mcp.calmseo.com/mcp`
   [![CalmSEO MCP connector](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp)
   🔐 - Free Google Search Console analytics plus credit-based SERP, keyword, and page audit tools.
+- [ConvRadar](https://convradar.com) `https://mcp.convradar.com/mcp`
+  [![ConvRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Pikaivan/convradar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Pikaivan/convradar-mcp)
+  🔐 - Ask where a Google Analytics 4 funnel is leaking and get the numbers, the cause and a ranked fix back.
 - [DABLOCK AI Visibility Index](https://dablock.ai) `https://dablock.ai/mcp`
   [![DABLOCK MCP connector](https://glama.ai/mcp/connectors/ai.dablock/visibility-index/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dablock/visibility-index)
   🔓 - Weekly share of answer for 24 crypto and Web3 brands across ChatGPT, Perplexity and Gemini, with the frozen prompt panel behind it.
