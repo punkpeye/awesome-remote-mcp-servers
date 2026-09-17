@@ -89,6 +89,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 💰 - [Finance](#finance)
 * 🍽️ - [Food & Dining](#food--dining)
 * 🎮 - [Gaming](#gaming)
+* 🏋️ - [Health & Fitness](#health--fitness)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🎯 - [Marketing](#marketing)
@@ -553,6 +554,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WagerX](https://wagerx.io/agent-gateway) `https://wagerx.io/mcp`
   [![WagerX MCP connector](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos/badges/score.svg)](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos)
   🔓 - Source-linked gambling regulatory intelligence and real-money crypto casino audit evidence.
+
+### 🏋️ <a name="health--fitness"></a>Health & Fitness
+
+- [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
+  [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
+  🔐 - Your strength-training data: workout history, per-lift strength trends, muscle-group volume, routines and periodization.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
