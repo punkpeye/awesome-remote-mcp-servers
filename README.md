@@ -834,7 +834,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - List the ATS and job-board sources JobsPipe normalizes, look up pricing plans, and search live Upwork postings; full job search runs through the keyed REST API.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
 - [Markovo](https://markovo.net) `https://markovo.net/mcp`
-  🔐 - Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) to clean, structured Markdown for agent context; explicit per-conversion Credit ceiling, free tier included.
+  🔑 - Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) to clean, structured Markdown for agent context; explicit per-conversion Credit ceiling, free tier included.
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
