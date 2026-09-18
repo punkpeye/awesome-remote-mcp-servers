@@ -240,6 +240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [Kleap](https://kleap.co/mcp) `https://kleap.co/api/mcp`
+  [![Kleap MCP connector](https://glama.ai/mcp/connectors/io.github.kleaphq/kleap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kleaphq/kleap)
+  🔐 - Create, edit and publish real websites via MCP with a verified-live guarantee.
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write and compile LaTeX: search 1000+ journal, thesis and CV templates, create projects, edit files, and compile to PDF with the build log returned.
@@ -664,6 +667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts that mention your product or keywords, scored for lead relevance.
+- [Robot Speed](https://www.robot-speed.com/mcp) `https://www.robot-speed.com/api/mcp`
+  [![Robot Speed MCP connector](https://glama.ai/mcp/connectors/com.robot-speed/robot-speed/badges/score.svg)](https://glama.ai/mcp/connectors/com.robot-speed/robot-speed)
+  🔐 - SEO audits, Core Web Vitals, keywords, AI visibility, traffic and backlinks for agents.
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Privacy-first, cookieless web analytics hosted in the EU: visitors, pages, sources, countries, goals, funnels and live traffic.
