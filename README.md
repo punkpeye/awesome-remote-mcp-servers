@@ -724,6 +724,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💳 <a name="payments"></a>Payments
 
+- [AurasPay](https://auraspay.com/mcp) `https://mcp.auraspay.com/api/mcp`
+  [![AurasPay MCP connector](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments/badges/score.svg)](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments)
+  🔐 - Review merchant payments and prepare payment links with separate human approval for changes.
 - [AssetFare](https://assetfare.dev) `https://api.assetfare.dev/mcp`
   [![AssetFare MCP connector](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare)
   🔓 - Compare and prepare capped, non-custodial Solana SOL to Base or Arbitrum ETH routes for caller-signed execution.
