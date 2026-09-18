@@ -357,6 +357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software options and read-only agent workflows with roles, checks, sources, and safety boundaries.
+- [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
+  [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
+  🔓 - Turn a project description or questionnaire answers into a full build spec plus AGENTS.md / CLAUDE.md for coding agents.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers, reached keylessly through Connectors.
