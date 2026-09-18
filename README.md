@@ -809,6 +809,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cn-intel-mcp](https://github.com/lory69060/cn-intel-mcp) `https://cn-intel-mcp.lory69060.workers.dev/mcp`
   [![cn-intel-mcp MCP connector](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp)
   🔓 - China hard-tech supply-chain intel: 33 verifiable signals with falsifiable track record (predicted_on/verify_by/result), earnings tracker, and Q&A research across semiconductors, solid-state batteries, eVTOL, and innovative drugs.
+- [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
+  [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
+  🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
   [![Exa MCP connector](https://glama.ai/mcp/connectors/ai.exa/exa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exa/exa)
   🔓 - Neural web search that returns full page contents.
