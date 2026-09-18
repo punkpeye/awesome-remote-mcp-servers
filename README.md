@@ -241,6 +241,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
+- [Nilyo](https://nilyo.com) `https://nilyo.com/mcp`
+  [![Nilyo MCP connector](https://glama.ai/mcp/connectors/com.nilyo/nilyo/badges/score.svg)](https://glama.ai/mcp/connectors/com.nilyo/nilyo)
+  🔐 - Use your own LinkedIn, WhatsApp, Instagram, Telegram, Email and Calendar accounts from any agent.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
