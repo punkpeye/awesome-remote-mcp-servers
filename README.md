@@ -664,6 +664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts that mention your product or keywords, scored for lead relevance.
+- [SEOmatic](https://seomatic.ai/developers/mcp) `https://app.seomatic.ai/api/mcp`
+  [![SEOmatic MCP connector](https://glama.ai/mcp/connectors/ai.seomatic/seomatic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.seomatic/seomatic)
+  🔐 - Search Console performance, decay and backlink analysis, plus AI-visibility tracking and approval-gated site fixes.
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Privacy-first, cookieless web analytics hosted in the EU: visitors, pages, sources, countries, goals, funnels and live traffic.
