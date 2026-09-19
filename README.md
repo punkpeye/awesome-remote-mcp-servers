@@ -655,6 +655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Company logos, brand colors, and firmographic data by domain.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
+- [Minds](https://getminds.ai) `https://getminds.ai/mcp`
+  [![Minds MCP connector](https://glama.ai/mcp/connectors/ai.getminds/minds/badges/score.svg)](https://glama.ai/mcp/connectors/ai.getminds/minds)
+  🔐 - Run synthetic market research: create AI audiences, ask them questions or run studies (MaxDiff, conjoint, NPS), and read the analysis.
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, technical audits, backlinks, competitors, Search Console and AI visibility for your Miraqo SEO projects.
