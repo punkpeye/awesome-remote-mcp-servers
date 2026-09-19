@@ -929,6 +929,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+- [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
+  [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
+  🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments from chat: draws, schedules, live standings, one-sentence dropout handling.
