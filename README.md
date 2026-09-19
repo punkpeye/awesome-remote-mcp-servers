@@ -866,6 +866,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [HallucC](https://aihcc.cloud) `https://aihcc.cloud/mcp`
+  [![HallucC MCP connector](https://glama.ai/mcp/connectors/io.github.fredyee/hallucc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fredyee/hallucc)
+  🔑 - Claim-by-claim AI hallucination detection with sources, agent trajectory verification, and prompt-injection guard.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
