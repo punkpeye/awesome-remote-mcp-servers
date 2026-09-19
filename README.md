@@ -682,6 +682,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check whether a third-party API is down, look up uptime history, or list recent outages across 294 independently-probed APIs (Stripe, OpenAI, AWS, GitHub, etc.).
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
+- [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
+  [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
+  🔐 - Read your product's event history, delivery health and plan usage: what failed in checkout today, what a customer did before churning, whether deliveries to Slack are failing.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and the bugs AI found in session recordings of your sites.
