@@ -576,6 +576,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
+- [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
+  [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
+  🔐 - Shared memory for a client engagement: decisions with reasons, blockers, promises, and what was already tried.
 - [MemorySync](https://memorysync.io) `https://mcp.memorysync.io/mcp`
   [![MemorySync MCP connector](https://glama.ai/mcp/connectors/io.memorysync/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/memory)
   🔐 - Scoped, persistent memory layer for AI agents and LLM applications to save, inspect, and recall decisions across sessions.
