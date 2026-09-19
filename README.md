@@ -853,6 +853,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
 - [superagnt](https://superagnt.com/r/reg-superagnt-docs) `https://mcp.superagnt.com/mcp`
+  [![superagnt MCP connector](https://glama.ai/mcp/connectors/com.superagnt/superagnt/badges/score.svg)](https://glama.ai/mcp/connectors/com.superagnt/superagnt)
   🔐 - Live social media data (LinkedIn, X, Reddit, YouTube, TikTok, Instagram, Facebook), lead enrichment, email finding, and SEO research for AI agents.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
