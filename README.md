@@ -348,6 +348,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - 28 file and text tools: merge, split and compress PDFs, OCR, image compression, SQL, QR codes, JWTs and mock data.
+- [ReMCP](https://remcp.site) `https://remcp.site/mcp`
+  [![ReMCP MCP connector](https://glama.ai/mcp/connectors/site.remcp/re-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/site.remcp/re-mcp)
+  🔐 - Remote access to paired computers: files, terminals, screenshots, search, and processes.
 - [Routebase](https://routebase.dev/mcp-server/) `https://mcp.routebase.dev`
   [![Routebase MCP connector](https://glama.ai/mcp/connectors/dev.routebase.mcp/routebase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.routebase.mcp/routebase)
   🔐 - Design, mock, test, document and monitor your APIs from one living OpenAPI spec.
