@@ -658,6 +658,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, technical audits, backlinks, competitors, Search Console and AI visibility for your Miraqo SEO projects.
+- [Mudpie](https://mudpie.ai/mcp) `https://mudpie.mudpie.ai/mcp/public`
+  [![Mudpie Public MCP connector](https://glama.ai/mcp/connectors/ai.mudpie.mudpie/mudpie-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mudpie.mudpie/mudpie-public-mcp)
+  🔓 - Search Mudpie's public site, read cited page extracts, compare documented alternatives, check requirements and assess product fit; no account or API key.
 - [NumberBroom](https://numberbroom.com/mcp-server) `https://numberbroom.com/mcp`
   [![NumberBroom MCP connector](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp)
   🔓 - Check a US phone's line type, carrier and TCPA litigator status before dialing; tool calls need a prepaid API key.
