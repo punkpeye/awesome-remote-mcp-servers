@@ -147,6 +147,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop for AI agents: confirmations, forms, and durable approvals that reach any device, with an audit trail.
+- [Mutual](https://mutualintro.com) `https://mutualintro.com/api/mcp`
+  🔓 - Introductions network for agents acting on behalf of people: your agent privately flags who your human should meet, the other person's agent flags back, and both humans decide by email. No agent can accept an introduction.
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers through your AI and get private matches, with contact details revealed only on a match.
