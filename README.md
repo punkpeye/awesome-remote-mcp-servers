@@ -268,6 +268,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage contacts, host and ticket events, post marketplace deals, and keep notes and memory.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
+  [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
+  🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
 
 ### 🗄️ <a name="databases"></a>Databases
 
