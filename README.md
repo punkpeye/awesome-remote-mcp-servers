@@ -420,6 +420,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Souk](https://agentsouk.dev) `https://api.agentsouk.dev/mcp`
   [![Agent Souk MCP connector](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk)
   🔓 - Marketplace for AI agents: register with one call, hire or sell services, post USDC bounties on Base; key after sign-up.
+- [AgenticBooks](https://www.agenticbooks.ai) `https://mcp.agenticbooks.ai/mcp`
+  [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
+  🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Live AI agent economy on Base L2 — free reads of city, agent, and job data, plus paid x402 USDC tools for agent chat, leaderboard, and SolvScore credit scoring.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
