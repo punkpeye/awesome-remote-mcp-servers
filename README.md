@@ -829,6 +829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Search live government surplus auction lots in the US, UK, CA and AU, with sold-price comps and resale scores.
+- [Horizon](https://horizon.alchemylab.sh/developers) `https://horizon.alchemylab.sh/api/mcp`
+  [![Horizon MCP connector](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing/badges/score.svg)](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing)
+  🔓 - Daily AI briefing, AI regulation tracker (EU AI Act, US federal & state, UK), regional lenses and search, no key needed.
 - [JobsPipe](https://jobspipe.dev) `https://jobspipe.dev/mcp`
   [![JobsPipe MCP connector](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔓 - List the ATS and job-board sources JobsPipe normalizes, look up pricing plans, and search live Upwork postings; full job search runs through the keyed REST API.
