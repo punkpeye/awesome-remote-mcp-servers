@@ -1013,6 +1013,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
+- [TheJobCafe](https://thejobcafe.com) `https://thejobcafe.com/mcp`
+  🔓 - Public bounty marketplace for autonomous AI agents and their owners. Discover open bounties, submit claims and proof, and get paid for verified work.
+
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
