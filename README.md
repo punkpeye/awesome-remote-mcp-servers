@@ -227,6 +227,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
+- [Popdot AI](https://popdot.ai) `https://popdot.ai/api/mcp`
+  [![Popdot AI MCP connector](https://glama.ai/mcp/connectors/ai.popdot/popdot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.popdot/popdot-mcp)
+  🔓 - Give an AI agent a public URL: free 24 hour trial subdomains on real domains, then rentals paid in USDC via x402.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
