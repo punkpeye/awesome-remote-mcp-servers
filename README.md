@@ -197,6 +197,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwlCAD](https://owlcad.com/mcp-server) `https://mcp.owlcad.com`
   [![OwlCAD MCP connector](https://glama.ai/mcp/connectors/com.owlcad.mcp/owl-cad/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlcad.mcp/owl-cad)
   🔐 - Build editable parametric 3D parts, check printability, and export STL, 3MF or STEP.
+- [ScoreLook](https://scorelook.fr/scorelook-mcp) `https://scorelook.fr/mcp`
+  [![ScoreLook MCP connector](https://glama.ai/mcp/connectors/fr.scorelook/capucine/badges/score.svg)](https://glama.ai/mcp/connectors/fr.scorelook/capucine)
+  🔓 - French AI stylist: sourced outfit answers, piece hubs, shopping criteria and weather looks.
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
