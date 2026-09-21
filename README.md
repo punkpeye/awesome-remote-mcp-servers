@@ -743,7 +743,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Stripe customers, products, prices, invoices, and payments.
 - [Veyra](https://veyra.money) `https://veyra.money/api/mcp`
   [![Veyra MCP connector](https://glama.ai/mcp/connectors/money.veyra/veyra/badges/score.svg)](https://glama.ai/mcp/connectors/money.veyra/veyra)
-  🔑 - Give AI agents a wallet with a spending limit: non-custodial USDC on Base with per-payment caps, daily caps, human approval and a recipient allowlist enforced server-side.
+  🔓 - Give AI agents a wallet with a spending limit: non-custodial USDC on Base with per-payment caps, daily caps, human approval and a recipient allowlist enforced server-side. Discovery is open; tool calls need a bearer token from the Veyra dashboard.
 - [x402 Preflight](https://x402.chikocorp.com) `https://x402.chikocorp.com/mcp`
   [![x402 Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight)
   🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
