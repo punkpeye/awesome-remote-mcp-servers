@@ -303,6 +303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [Yardstick](https://portal.yardstick.team/docs/mcp) `https://api.yardstick.team/mcp`
+  [![Yardstick MCP connector](https://glama.ai/mcp/connectors/team.yardstick/yardstick/badges/score.svg)](https://glama.ai/mcp/connectors/team.yardstick/yardstick)
+  🔐 - 176 tools for jobs, candidates, applications, interviews and scorecards in Yardstick's ATS; sign in with your account.
 
 ### 🗄️ <a name="databases"></a>Databases
 
