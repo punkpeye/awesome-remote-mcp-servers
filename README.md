@@ -340,6 +340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search 10 principles, examples and guides with 12 public tools; spec, architecture and UI validators on Pro/Teams.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
+- [Ausca](https://ausca.com) `https://ausca.com/mcp`
+  [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
+  🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
