@@ -437,6 +437,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Pollen MCP connector](https://glama.ai/mcp/connectors/in.elytron/pollen/badges/score.svg)](https://glama.ai/mcp/connectors/in.elytron/pollen)
   🔓 - Score, enrich, and publish your Shopify or WooCommerce catalog so AI agents can find and recommend it.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
+  [![Sense2 MCP connector](https://glama.ai/mcp/connectors/io.github.24seagull-beep/sense2-catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.24seagull-beep/sense2-catalogue)
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
