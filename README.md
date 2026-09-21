@@ -1040,7 +1040,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Verify facts about US local businesses by phone — stock, all-in price, availability — as typed answers with evidence.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
-  🔑 - AI-industry news as deduplicated, classified events: list and filter, fetch by id, semantic search, and the taxonomy.
+  🔓 - AI-industry news as deduplicated, classified events. Taxonomy is open; a free key unlocks listing, search and archive.
 - [Scoutee](https://scoutee.org/en/mcp-public-tenders) `https://scoutee.org/api/mcp/public`
   [![Scoutee MCP connector](https://glama.ai/mcp/connectors/org.scoutee/scoutee/badges/score.svg)](https://glama.ai/mcp/connectors/org.scoutee/scoutee)
   🔓 - Search public tenders across Europe and North America and read notice previews, without an account or API key.
