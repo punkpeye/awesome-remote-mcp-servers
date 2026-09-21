@@ -866,6 +866,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [avacast](https://avacast.jp) `https://api.avacast.jp/api/v1/mcp`
+  [![avacast MCP connector](https://glama.ai/mcp/connectors/jp.avacast/avacast/badges/score.svg)](https://glama.ai/mcp/connectors/jp.avacast/avacast)
+  🔓 - Real-time talking avatars from a single photo (Japanese-first): sign up, create avatars, open WebRTC sessions and make them speak.
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from a public YouTube, Twitch, Kick or TikTok link; no captions needed.
