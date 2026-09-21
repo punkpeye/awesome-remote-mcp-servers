@@ -505,6 +505,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Live AI agent economy on Base L2 — free reads of city, agent, and job data, plus paid x402 USDC tools for agent chat, leaderboard, and SolvScore credit scoring.
+- [aikstockdata](https://aikstockdata.com/en) `https://mcp.aikstockdata.com/mcp`
+  [![aikstockdata MCP connector](https://glama.ai/mcp/connectors/com.aikstockdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aikstockdata/mcp)
+  🔓 - Korean listed companies on KOSPI, KOSDAQ and KONEX: settled daily closes, DART filings with the minute each was received, quarterly earnings, and median market-adjusted price paths after each filing type.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data for AI agents: Polymarket prediction-market arbitrage, kimchi premium alerts, on-chain token-unlock risk, token security scans, funding rates, and webpage-to-Markdown conversion; x402 pay-per-call in USDC on Base, no signup.  
