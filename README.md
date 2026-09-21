@@ -559,6 +559,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
+- [Kema Invoice](https://invoice.kema-studio.com) `https://mcp.kema-studio.com/api/mcp`
+  [![Kema Invoice MCP connector](https://glama.ai/mcp/connectors/com.kema-studio/invoice/badges/score.svg)](https://glama.ai/mcp/connectors/com.kema-studio/invoice)
+  🔐 - Compliant French e-invoicing for freelancers: create, issue, certify and track invoices, quotes and deposits.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
