@@ -897,6 +897,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💳 <a name="payments"></a>Payments
 
+- [Agent Embassy](https://agent-embassy.fly.dev) `https://agent-embassy.fly.dev/mcp`
+  🔓 - AI agents pay in USDC via x402 on Base: $0.15 verified web checks with signed Outcome Receipts, $1.00 encrypted recovery registration, free GPU compute spot prices.
 - [AurasPay](https://auraspay.com/mcp) `https://mcp.auraspay.com/api/mcp`
   [![AurasPay MCP connector](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments/badges/score.svg)](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments)
   🔐 - Review merchant payments and prepare payment links with separate human approval for changes.
