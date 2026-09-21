@@ -397,7 +397,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Audit a web page for accessibility and layout issues.
 - [Unblocked](https://getunblocked.com/unblocked-mcp/) `https://getunblocked.com/api/mcpsse`
   [![Unblocked MCP connector](https://glama.ai/mcp/connectors/com.getunblocked/unblocked-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getunblocked/unblocked-mcp)
-  🔐 - Give coding agents organizational context from code, docs, issues, and conversations.
+  🔐 - Unblocked is the context layer for agentic software development.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
