@@ -745,6 +745,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+
+- [Adbloop](https://adbloop.com/mcp/) `https://mcp.adbloop.com/mcp`
+  [![Adbloop Meta Ads MCP connector](https://glama.ai/mcp/connectors/com.adbloop/meta-ads/badges/score.svg)](https://glama.ai/mcp/connectors/com.adbloop/meta-ads)
+  🔐 - Create and manage Facebook and Instagram (Meta) ad campaigns from Claude, ChatGPT, or Cursor. Bulk creation, multi-account, spend guardrails. Meta Verified Tech Provider, free plan.
+
 - [Advisors AI Service Navigator](https://advisorsai.ai) `https://advisorsai.ai/mcp`
   [![Advisors AI Service Navigator MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator)
   🔓 - Read-only catalog of five services, a public-page check, and a request-link; nothing is charged.
@@ -753,6 +758,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Advisors AI Store Readiness](https://advisorsai.ai) `https://advisorsai.ai/store-readiness-mcp`
   [![Advisors AI Store Readiness MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/store-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/store-readiness)
   🔓 - Checks one public page for robots, sitemap, JSON-LD, canonical tags, and llms.txt, then returns an HMAC receipt.
+
 
 
 - [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
