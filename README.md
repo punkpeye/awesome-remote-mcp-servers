@@ -722,6 +722,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Transkriba MCP connector](https://glama.ai/mcp/connectors/ru.transkriba/transcription/badges/score.svg)](https://glama.ai/mcp/connectors/ru.transkriba/transcription)
   🔓 - Transcribe Russian audio and video from files or URLs; transcription requires an API key.
 - [Uttera](https://uttera.ai) `https://mcp.uttera.ai/mcp`
+  [![Uttera MCP connector](https://glama.ai/mcp/connectors/ai.uttera/uttera/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uttera/uttera)
   🔑 - Transcribe and summarise recordings, identify who spoke when, turn text into speech in 24 languages, and generate sound effects and music. Processed in Spain; audio is discarded after answering and never used for training.
 
 ### 💳 <a name="payments"></a>Payments
