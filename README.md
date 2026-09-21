@@ -559,6 +559,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
+- [HostDeFi](https://hostdefi.com) `https://hostdefi.com/api/v1/mcp`
+  🔓 - Token-safety intelligence for agents: free A+–F token scans (Solana + 7 EVM chains; mint/freeze authority, liquidity depth, holder concentration, contract flags) plus x402-paid intel — verdicts, pre-graduation launch signals, wallet audits, trend radar. No signup for the free scan.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
