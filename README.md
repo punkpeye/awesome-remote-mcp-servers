@@ -1257,6 +1257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
+- [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
+  [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
+  🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns from precise astronomical calculations.
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate any decision from every side; running a debate needs a Pro key.
