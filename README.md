@@ -99,6 +99,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 💳 - [Payments](#payments)
 * 📋 - [Project Management](#project-management)
 * 🏠 - [Real Estate](#real-estate)
+* 🚗 - [Sales](#sales)
 * 🔬 - [Science & Research](#science--research)
 * 🔎 - [Search & Data Extraction](#search--data-extraction)
 * 🔒 - [Security](#security)
@@ -966,6 +967,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, consequence and source quote.
+
+### 🚗 <a name="sales"></a>Sales
+
+- [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
+  [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
+  🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
