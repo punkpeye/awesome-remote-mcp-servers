@@ -283,6 +283,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Describe a site and get it live with SSL, forms, and analytics — no account needed; OAuth to edit and manage.
 - [Storyblok](https://storyblok.com) `https://mcp.storyblok.com/mcp`
   🔓 - Manage Storyblok spaces, stories, and components.
+- [ToHuman](https://tohuman.io) `https://tohuman.io/mcp`
+  [![ToHuman MCP connector](https://glama.ai/mcp/connectors/io.tohuman/to-human/badges/score.svg)](https://glama.ai/mcp/connectors/io.tohuman/to-human)
+  🔓 🔑 - Rewrites AI-assisted drafts so they read like your own writing, with adjustable intensity; tool calls need an API key.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
