@@ -558,7 +558,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Your own ledger in your AI: net worth, accounts, budgets, holdings and IOUs, plus transactions and budgets your agent drafts and you confirm before anything is written; tools need a paid plan.
 - [Jithox E-Invoice](https://jithox.com/mcp/einvoice) `https://mcp.jithox.com/mcp`
   [![Jithox E-Invoice MCP connector](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness)
-  🔐 - Read-only EU e-invoice checks: invoice structure, VAT number format, VIES status and Peppol participant lookup.
+  🔓 - Read-only EU e-invoice checks: invoice structure, VAT format, VIES and Peppol lookup; tool calls need OAuth sign-in.
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
