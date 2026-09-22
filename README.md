@@ -1227,6 +1227,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
   [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
   🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
+- [iSomor](https://tryisomor.com/mcp) `https://tryisomor.com/api/isomor/mcp`
+  [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
+  🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
