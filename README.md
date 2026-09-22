@@ -748,6 +748,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
+  [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
+  🔐 - Meta and Google Ads automation for Claude, ChatGPT and Perplexity: launch ads in bulk, preview every change first.
+
 - [Advisors AI Service Navigator](https://advisorsai.ai) `https://advisorsai.ai/mcp`
   [![Advisors AI Service Navigator MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator)
   🔓 - Read-only catalog of five services, a public-page check, and a request-link; nothing is charged.
