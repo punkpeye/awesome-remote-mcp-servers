@@ -1063,6 +1063,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UX Jobs](https://mcp.uxjobs.io) `https://mcp.uxjobs.io/mcp`
   [![UX Jobs MCP connector](https://glama.ai/mcp/connectors/io.uxjobs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.uxjobs/jobs)
   🔓 - Search 4,000+ live UX, product-design and UX-research jobs aggregated from 60+ applicant-tracking systems, pull full listings, and get hiring-market and posted-salary snapshots.
+- [Vend](https://extract.paypercall.dev) `https://extract.paypercall.dev/mcp`
+  [![Vend MCP connector](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant)
+  🔓 - Extract, search, and analyze web pages and domains with pay-per-call tools settled in Nano (XNO) via x402.
 
 ### 🔒 <a name="security"></a>Security
 
