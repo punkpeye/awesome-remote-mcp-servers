@@ -786,6 +786,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
+- [Kontekstolog](https://kontekstolog.online/mcp-yandex-direct) `https://kontekstolog.online/mcp`
+  [![Kontekstolog MCP connector](https://glama.ai/mcp/connectors/kontekstolog/mcp-yandex/badges/score.svg)](https://glama.ai/mcp/connectors/kontekstolog/mcp-yandex)
+  🔐 - Manage Yandex Direct campaigns, Metrika analytics, and Wordstat keyword research via natural language.
 - [Lekta](https://lekta.dev) `https://lekta.dev/mcp`
   [![Lekta MCP connector](https://glama.ai/mcp/connectors/dev.lekta/lektadev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.lekta/lektadev)
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
