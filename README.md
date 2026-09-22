@@ -770,6 +770,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CalmSEO](https://calmseo.com) `https://mcp.calmseo.com/mcp`
   [![CalmSEO MCP connector](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp)
   🔐 - Free Google Search Console analytics plus credit-based SERP, keyword, and page audit tools.
+- [Kontekstolog — Yandex Direct & Metrika](https://kontekstolog.online/mcp-yandex-direct) `https://kontekstolog.online/mcp`
+  [![Kontekstolog — Yandex Direct + Metrika MCP connector](https://glama.ai/mcp/connectors/online.kontekstolog/mcp-yandex/badges/score.svg)](https://glama.ai/mcp/connectors/online.kontekstolog/mcp-yandex)
+  🔐 - Yandex Direct ad campaign management, Metrika web analytics, and Wordstat keyword research for the Russian internet market.
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Agent tools for programmatic SEO: research, generate, audit and publish landing pages at scale; reads free.
