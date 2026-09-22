@@ -123,6 +123,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBIT](https://agentbit.app) `https://agentbit.app/mcp`
   [![AgentBIT MCP connector](https://glama.ai/mcp/connectors/app.agentbit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentbit/mcp)
   🔓 - Router-proxy over the whole x402 ecosystem: one agentbit_route tool runs the best of 14,000+ x402 tools for any task (incl. external sellers) and returns the result. Pay-per-call     in USDC on Base, no signup.
+- [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
+  [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
+  🔓 - Storefront for machine-payable APIs: discover services, probe x402 terms, list your own API; per-call USDC on Base.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base; connect anonymously and pay only when you call a tool.
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
