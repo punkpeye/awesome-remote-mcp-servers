@@ -1108,6 +1108,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read a creator's own YouTube analytics, audience and comments, and decide what to fix on a video and what to make next.
 - [Mysocial](https://mysocial.io/mcp/) `https://app.mysocial.io/mcp`
   🔐 - Read a creator's own Instagram, TikTok, YouTube, LinkedIn and Threads history: posts, metrics, transcripts, comments and audience.
+- [Nooticr](https://mcp.nooticr.com) `https://mcp.nooticr.com/mcp`
+  [![Nooticr MCP connector](https://glama.ai/mcp/connectors/com.nooticr/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.nooticr/mcp)
+  🔐 - Read posts, transcripts, comments and sampled video frames across ten social networks.
 - [oganvil](https://oganvil.rowu.workers.dev) `https://oganvil.rowu.workers.dev/mcp`
   [![oganvil MCP connector](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api)
   🔓 - Generate 1200x630 OG social preview images (PNG or SVG) from a title and tag line. Free tier, no card.
