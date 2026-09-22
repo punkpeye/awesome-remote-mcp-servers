@@ -238,6 +238,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [Atomic Mail](https://atomicmail.ai) `https://mcp.atomicmail.ai/mcp`
+  [![Atomic Mail MCP connector](https://glama.ai/mcp/connectors/io.github.Atomic-Mail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Atomic-Mail/mcp)
+  🔐 - Give an agent its own inbox: register an address, then read, send and search mail over JMAP.
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
