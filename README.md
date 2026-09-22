@@ -947,6 +947,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - AI-native project boards, cockpit, and governed agent missions over hosted Streamable HTTP.
+- [Weft](https://letsweft.com/?utm_source=awesome-remote-mcp&utm_medium=repo&utm_campaign=evergreen) `https://letsweft.com/api/mcp`
+  [![Weft MCP connector](https://glama.ai/mcp/connectors/com.letsweft/weft/badges/score.svg)](https://glama.ai/mcp/connectors/com.letsweft/weft)
+  🔐 - Scrumban board your AI drives: agents claim tasks with leases, report progress, and close them on artifacts.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
