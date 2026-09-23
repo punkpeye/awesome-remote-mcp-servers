@@ -453,6 +453,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sato Hub](https://satohub.ai/mcp) `https://satohub.ai/api/mcp`
   [![Sato Hub MCP connector](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents/badges/score.svg)](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents)
   🔓 - Search a daily-rebuilt, scored index of crypto-agent tooling, then preflight a repo, package, endpoint or token.
+- [SkillAgent](https://skillagent.dev) `https://skillagent.dev/mcp`
+  [![SkillAgent MCP connector](https://glama.ai/mcp/connectors/dev.skillagent/skills/badges/score.svg)](https://glama.ai/mcp/connectors/dev.skillagent/skills)
+  🔓 - Search, rank and get install steps for AI agent skills, rules files and MCP servers indexed from GitHub.
 - [SlopScore](https://slopscore.org) `https://slopscore.org/mcp`
   [![SlopScore MCP connector](https://glama.ai/mcp/connectors/org.slopscore/slopscore/badges/score.svg)](https://glama.ai/mcp/connectors/org.slopscore/slopscore)
   🔓 - Browse, search and scan a public leaderboard of AI-generated GitHub repos; voting needs a GitHub token.
