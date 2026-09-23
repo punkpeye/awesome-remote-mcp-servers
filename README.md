@@ -465,6 +465,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers, reached keylessly through Connectors.
+- [Topology Index](https://topologyindex.com) `https://topologyindex.com/mcp`
+  [![Topology Index MCP connector](https://glama.ai/mcp/connectors/com.topologyindex/topology-index/badges/score.svg)](https://glama.ai/mcp/connectors/com.topologyindex/topology-index)
+  🔓 - Reference for choosing a multi-agent LLM topology: patterns, aliases, failure modes, sources and starters.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
