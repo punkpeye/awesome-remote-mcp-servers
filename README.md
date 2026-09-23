@@ -755,6 +755,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![docs2mcp MCP connector](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp)
   🔐 - Query your own PDFs and documents, with every answer linking to the exact page and region it came from.
 - [emem](https://emem.dev) `https://emem.dev/mcp`
+  [![emem MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem)
   🔓 - Shared, verifiable memory for AI agents grounded in Earth observation. Recall elevation, vegetation, flood, fire and air-quality facts for any place, each signed with an ed25519 receipt verifiable offline. 110 tools, no API key to read.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
