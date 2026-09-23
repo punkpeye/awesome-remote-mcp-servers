@@ -1072,6 +1072,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - AI-native project boards, cockpit, and governed agent missions over hosted Streamable HTTP.
 - [Taskfolk](https://taskfolk.ai) `https://taskfolk.ai/api/mcp/v1`
+  [![Taskfolk MCP connector](https://glama.ai/mcp/connectors/ai.taskfolk/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfolk/mcp)
   🔐 - Manage issues, projects, sprints, board columns, docs, and members; every change stays attributed to the agent that made it.
 - [Weft](https://letsweft.com/?utm_source=awesome-remote-mcp&utm_medium=repo&utm_campaign=evergreen) `https://letsweft.com/api/mcp`
   [![Weft MCP connector](https://glama.ai/mcp/connectors/com.letsweft/weft/badges/score.svg)](https://glama.ai/mcp/connectors/com.letsweft/weft)
