@@ -546,6 +546,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![100pro Token Risk Screen MCP connector](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk)
   🔓 - Pre-trade risk screen for EVM token contracts and Solana SPL mints: honeypot/tax/owner flags, LP-lock state, mint & freeze authority, holder concentration, liquidity depth, wash-trade signals, and a one-line Verdict. $0.05 USDC per call on Base via x402 v2 (no account, no API key), read-only. On the official MCP Registry as `dev.rendraputra/100pro-token-risk`.
 
+- [47620 Solana Data](https://github.com/fito311/solana-data-mcp) `https://47620.xyz/mcp`
+  🔓 - Pay-per-call onchain data for AI agents over x402 (USDC on Solana or Base; no signup, no API key): Solana network health, token price/liquidity, wallet balances, transaction lookup and trending DEX pairs, plus an MCP server trust/security check (reachability, MCP handshake, HTTPS, risky capabilities, prompt-injection signals → 0-100 score). On the official MCP Registry as `xyz.47620/solana-data`.
+
 
 - [Aave](https://aave.com) `https://mcp.aave.com`
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
