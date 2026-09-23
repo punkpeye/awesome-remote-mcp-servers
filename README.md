@@ -599,6 +599,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Your own ledger in your AI: net worth, accounts, budgets, holdings and IOUs, plus transactions and budgets your agent drafts and you confirm before anything is written; tools need a paid plan.
+- [Insourcia](https://insourcia.io/docs/guides/mcp) `https://mcp.insourcia.io/mcp`
+  [![Insourcia MCP connector](https://glama.ai/mcp/connectors/io.insourcia/insourcia/badges/score.svg)](https://glama.ai/mcp/connectors/io.insourcia/insourcia)
+  🔐 - French private-company data: search by name or SIREN (French company registration number), financials, directors, ownership graphs, M&A, insolvency events.
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
