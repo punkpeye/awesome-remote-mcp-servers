@@ -285,7 +285,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Manage Storyblok spaces, stories, and components.
 - [ToHuman](https://tohuman.io) `https://tohuman.io/mcp`
   [![ToHuman MCP connector](https://glama.ai/mcp/connectors/io.tohuman/to-human/badges/score.svg)](https://glama.ai/mcp/connectors/io.tohuman/to-human)
-  🔓 🔑 - Rewrites AI-assisted drafts so they read like your own writing, with adjustable intensity; tool calls need an API key.
+  🔑 - Rewrites AI-assisted drafts so they read like your own writing, with adjustable intensity; tool calls need an API key.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
