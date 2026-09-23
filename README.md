@@ -1240,6 +1240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Zero-auth cryptographic provenance and notarization engine anchoring AI outputs, audits, and agreements to TON Blockchain with strict zero-storage.
+- [SecScan](https://secscan.us) `https://secscan.us/api/mcp`
+  [![SecScan MCP connector](https://glama.ai/mcp/connectors/us.secscan/secscan/badges/score.svg)](https://glama.ai/mcp/connectors/us.secscan/secscan)
+  🔑 - Scan a live web app you own, read graded findings with fix prompts, verify domains and monitor sites.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
