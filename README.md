@@ -713,6 +713,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Chef](https://agentchef.net) `https://agentchef.net/mcp`
   [![Agent Chef MCP connector](https://glama.ai/mcp/connectors/net.agentchef/agent-chef/badges/score.svg)](https://glama.ai/mcp/connectors/net.agentchef/agent-chef)
   🔐 - Weekly family dinner ballot: propose ten recipes, household votes, top three win, grocery list minus the pantry.
+- [Cork & Curve](https://corkandcurve.com/agents/) `https://corkandcurve.com/mcp`
+  [![Cork & Curve MCP connector](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel)
+  🔓 - Verified vineyards, tasting rooms and wine bars across 37 European wine regions, wine festivals with dates, tours.
 - [G-Guest](https://g-guest.app/developers) `https://g-guest.app/api/mcp`
   [![G-Guest MCP connector](https://glama.ai/mcp/connectors/app.g-guest/g-guest/badges/score.svg)](https://glama.ai/mcp/connectors/app.g-guest/g-guest)
   🔓 - Check live availability and book, look up or cancel a table at real restaurants and local businesses.
