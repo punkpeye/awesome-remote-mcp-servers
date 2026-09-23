@@ -848,6 +848,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
   [![AfterLaunch MCP connector](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing)
   🔓 - AI answer visibility, SEO and a ranked backlog of growth moves as agent tools; tool calls need an AfterLaunch account.
+- [agentbuilt](https://agentbuilt.dev/mcp) `https://agentbuilt.dev/api/mcp`
+  [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
+  🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
+
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Audit TikTok Shop and Amazon affiliate video scripts for policy violations (medical claims, income guarantees, missing FTC disclosures, fake certifications) and generate ready-to-submit ban appeal letters within platform character limits.
