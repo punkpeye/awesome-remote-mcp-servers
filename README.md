@@ -1017,6 +1017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare capped, non-custodial Solana SOL to Base or Arbitrum ETH routes for caller-signed execution.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [Gapup](https://hub.gapup.io/agents-api/onboard) `https://mcp.gapup.io/mcp`
+  [![Gapup MCP server](https://glama.ai/mcp/servers/getgapup/gapup-mcp-public/badges/score.svg)](https://glama.ai/mcp/servers/getgapup/gapup-mcp-public)
+  🔓 - 100+ business-expertise tools (industry classifier, market sizing, KYC, AI Act audit, SEC filings). Pay-per-call via x402 in USDC + EURC on Base + Optimism, tiers from $0.002 to $1.50/call, 100-call free tier/mo with API key at hub.gapup.io.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
