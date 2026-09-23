@@ -544,7 +544,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 💰 <a name="finance"></a>Finance
 - [100pro Token Risk Screen](https://x402.rendraputra.dev/llms.txt) `https://x402.rendraputra.dev/mcp`
   [![100pro Token Risk Screen MCP connector](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk)
-  🔓 - Pre-trade risk screen for EVM token contracts and Solana SPL mints: honeypot/tax/owner flags, LP-lock state, mint & freeze authority, holder concentration, liquidity depth, wash-trade signals, and a one-line Verdict. $0.10 USDC per single token, $0.25 per 2-5 token batch, on Base via x402 v2 (no account, no API key), read-only. On the official MCP Registry as `dev.rendraputra/100pro-token-risk`.
+  🔓 - Three read-only tools behind one x402 rail: `token_risk_screen` (EVM + Solana pre-trade screen), `contract_source_check` (source verification route, bytecode-vs-source drift, proxy + implementation, deployer, age, capability scan) and `wallet_risk_screen` (age, activity, funding source, contracts deployed, GoPlus flags). $0.10 USDC per address, $0.25 per 2-5 address batch, on Base via x402 v2 — no account, no API key. Official MCP Registry: `dev.rendraputra/100pro-token-risk`.
 
 
 - [Aave](https://aave.com) `https://mcp.aave.com`
