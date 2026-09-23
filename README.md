@@ -504,6 +504,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌳 <a name="environment"></a>Environment
 
+- [Aevia](https://aeviamodeler.ai/mcp?src=awesome-remote) `https://app.aeviamodeler.ai/api/v1/connector/mcp`
+  [![Aevia MCP connector](https://glama.ai/mcp/connectors/ai.aeviamodeler/aevia/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aeviamodeler/aevia)
+  🔐 - AI-powered life cycle assessment and modelling: connect to LCA databases, build product systems and analyze the results.
 - [Ambee](https://ambeedata.com) `https://api-mcp-server.ambeedata.com/mcp`
   [![Ambee MCP connector](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee/badges/score.svg)](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee)
   🔓 - Weather, air quality, pollen, and other environmental data.
