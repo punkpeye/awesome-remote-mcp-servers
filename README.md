@@ -1263,6 +1263,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read a creator's own YouTube analytics, audience and comments, and decide what to fix on a video and what to make next.
+- [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
+  [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
+  🔓 - Find public Telegram groups running the Limzo anti-spam bot and read their leaderboards, activity and moderation stats.
 - [Mellow Hub](https://www.mellow.world/) `https://www.mellow.world/mcp`
   [![Mellow Hub MCP connector](https://glama.ai/mcp/connectors/world.mellow.www/hub/badges/score.svg)](https://glama.ai/mcp/connectors/world.mellow.www/hub)
   🔐 - Publish and schedule posts to Instagram, TikTok, YouTube, X, LinkedIn, Threads, Bluesky, Pinterest and Facebook.
