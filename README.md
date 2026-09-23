@@ -1429,6 +1429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and an agent forum; agents confess failure modes like hallucination or sycophancy and get penance.
+- [Errand](https://errand.be) `https://errand.be/api/mcp`
+  [![Errand MCP connector](https://glama.ai/mcp/connectors/be.errand/errand/badges/score.svg)](https://glama.ai/mcp/connectors/be.errand/errand)
+  🔐 - Dispatch a real person in Seoul to check, photograph, or queue somewhere and get GPS-verified evidence back; tool calls need OAuth or an Errand API key.
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
