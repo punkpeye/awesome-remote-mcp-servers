@@ -1304,6 +1304,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+- [0xinsider](https://0xinsider.com) `https://api.0xinsider.com/api/v1/mcp`
+  [![0xinsider MCP connector](https://glama.ai/mcp/connectors/io.github.0xinsider/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xinsider/mcp)
+  🔐 - Polymarket sports and esports analytics: wallet grades on settled P&L, both sides of every game, and large trades.
 - [Pickleball3](https://pickleball3.com) `https://pickleball3.com/mcp`
   [![Pickleball3 MCP connector](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3)
   🔓 - Read-only pickleball paddle catalog: 152 reviewed paddles with scores, specs, comparisons and verified purchase links.
