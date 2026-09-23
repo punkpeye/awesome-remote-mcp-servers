@@ -216,6 +216,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
+- [Browser Automation Agent by Nova (CIVAI)](https://nova.civai.co/agent/browsergpt-agent) `https://nova.civai.co/mcp/agents/browsergpt-agent`
+  [![Browser Automation Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/browsergpt-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/browsergpt-agent)
+  🔓 - I do everything related to Browser Automation & Management.
+
 - [Browser Forest](https://browserforest.com) `https://browserforest.com/api/mcp/bf`
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
   🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
@@ -263,6 +267,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
+
+- [Nova Inbox Agent by Nova (CIVAI)](https://nova.civai.co/agent/nova-inbox-agent) `https://nova.civai.co/mcp/agents/nova-inbox-agent`
+  [![Nova Inbox Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/nova-inbox-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/nova-inbox-agent)
+  🔓 - Read and send mail from your Nova Inbox (@nova.civai.co) for OTPs, directory signups, and inbound messages.
+
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Turn a letter written in any AI assistant into printed, mailed USPS Certified Mail with tracking, from $13.18.
@@ -271,6 +280,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers without an account.
+
+- [Telegram Agent by Nova (CIVAI)](https://nova.civai.co/agent/telegram-agent) `https://nova.civai.co/mcp/agents/telegram-agent`
+  [![Telegram Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/telegram-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/telegram-agent)
+  🔓 - I use your linked Telegram MTProto session (Integrations → Telegram) to list groups, members, and send DMs.
+
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, test suites, campaigns, transcripts.
@@ -278,11 +292,24 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS, run a voice agent; auth is an API key sent as a Bearer token.
 
+- [WhatsApp Web Agent by Nova (CIVAI)](https://nova.civai.co/agent/whatsapp-web-agent) `https://nova.civai.co/mcp/agents/whatsapp-web-agent`
+  [![WhatsApp Web Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/whatsapp-web-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/whatsapp-web-agent)
+  🔓 - I send and manage WhatsApp Web messages through your linked session.
+
 ### 📝 <a name="content-management"></a>Content Management
+
+- [Blogger Agent by Nova (CIVAI)](https://nova.civai.co/agent/blogger-agent) `https://nova.civai.co/mcp/agents/blogger-agent`
+  [![Blogger Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/blogger-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/blogger-agent)
+  🔓 - I do everything related to Google Blogger content.
 
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Read and write a site running on btlabs Core: pages, posts, media, menus, FAQs, glossary, team and redirects, plus its brand profile and AI-discovery settings. Scope is set per credential.
+
+- [Content Calendar Agent by Nova (CIVAI)](https://nova.civai.co/agent/content-calendar-agent) `https://nova.civai.co/mcp/agents/content-calendar-agent`
+  [![Content Calendar Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/content-calendar-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/content-calendar-agent)
+  🔓 - I create markdown content calendars and export them as PDFs via PDF Generator MCP.
+
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
@@ -300,6 +327,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write and compile LaTeX: search 1000+ journal, thesis and CV templates, create projects, edit files, and compile to PDF with the build log returned.
+
+- [PDF Agent by Nova (CIVAI)](https://nova.civai.co/agent/pdf-agent) `https://nova.civai.co/mcp/agents/pdf-agent`
+  [![PDF Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/pdf-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/pdf-agent)
+  🔓 - I create PDF documents from markdown — preview, then generate a downloadable file.
+
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
@@ -334,6 +366,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
+
+- [Support Agent Admin by Nova (CIVAI)](https://nova.civai.co/agent/support-agent-admin) `https://nova.civai.co/mcp/agents/support-agent-admin`
+  [![Support Agent Admin by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/support-agent-admin/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/support-agent-admin)
+  🔓 - I manage your Support Agent CRM — pipeline analytics, follow-ups, Leads Discovery, and workspace output (Sh...
 
 ### 🗄️ <a name="databases"></a>Databases
 
@@ -391,6 +427,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Capture features, ideas and tasks on your phone; your AI coding agent picks them up and ships them.
 - [Cloudflare Docs](https://developers.cloudflare.com) `https://docs.mcp.cloudflare.com/mcp`
   🔓 - Search the Cloudflare developer documentation.
+
+- [Code Interpreter Agent by Nova (CIVAI)](https://nova.civai.co/agent/code-interpreter-agent) `https://nova.civai.co/mcp/agents/code-interpreter-agent`
+  [![Code Interpreter Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/code-interpreter-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/code-interpreter-agent)
+  🔓 - I do everything related to coding and execution tasks.
+
 - [Coderbuds](https://coderbuds.com/docs/mcp?ref=awesome-remote-mcp) `https://coderbuds.com/mcp/insights`
   [![Coderbuds MCP connector](https://glama.ai/mcp/connectors/com.coderbuds/insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.coderbuds/insights)
   🔐 - Read your team's delivery metrics, org map and shipping standards, and check a change against them before opening a PR.
@@ -428,6 +469,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - A frontier panel for your agent: Ask Claude, GPT, Grok, and more. Get their independent responses *and* reactions to each other. See what they agree with, challenge, or want to explore further — in their own words. For architecture, plan/spec review, and strategy.
+
+- [OpenClaw Agent by Nova (CIVAI)](https://nova.civai.co/agent/openclaw-agent) `https://nova.civai.co/mcp/agents/openclaw-agent`
+  [![OpenClaw Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/openclaw-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/openclaw-agent)
+  🔓 - I execute requests through OpenClaw as a personal AI agent with persistent context, browser and shell tools...
+
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
@@ -465,6 +511,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers, reached keylessly through Connectors.
+
+- [Terminal Command Agent by Nova (CIVAI)](https://nova.civai.co/agent/terminal-command-agent) `https://nova.civai.co/mcp/agents/terminal-command-agent`
+  [![Terminal Command Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/terminal-command-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/terminal-command-agent)
+  🔓 - I run shell commands on your private cloud environment (bash, sh, zsh).
+
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
@@ -985,6 +1036,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
+
+- [Music Agent by Nova (CIVAI)](https://nova.civai.co/agent/music-agent) `https://nova.civai.co/mcp/agents/music-agent`
+  [![Music Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/music-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/music-agent)
+  🔓 - I do everything related to music and lyrics.
+
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
@@ -997,6 +1053,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
+
+- [Slidegen Agent by Nova (CIVAI)](https://nova.civai.co/agent/slidegen-agent) `https://nova.civai.co/mcp/agents/slidegen-agent`
+  [![Slidegen Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/slidegen-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/slidegen-agent)
+  🔓 - I do everything related to image and slide asset generation.
+
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
@@ -1105,6 +1166,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Public board where AI agents design pieces of an open AI inference accelerator on sky130. A submission is checked by actually running it: lint, synthesis to real sky130 cells, simulation against hidden vectors, and a formal equivalence proof, not a review. The best verified design gets fabricated.
+
+- [Research Agent by Nova (CIVAI)](https://nova.civai.co/agent/research-agent) `https://nova.civai.co/mcp/agents/research-agent`
+  [![Research Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/research-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/research-agent)
+  🔓 - I do everything related to research and reports.
+
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record with a hard identifier on every source.
@@ -1165,6 +1231,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live job postings from 30+ job boards and ATS feeds, read one in full, and save a search as a signal for new matches.
+
+- [Leads Discovery Agent by Nova (CIVAI)](https://nova.civai.co/agent/leads-discovery-agent) `https://nova.civai.co/mcp/agents/leads-discovery-agent`
+  [![Leads Discovery Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/leads-discovery-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/leads-discovery-agent)
+  🔓 - I discover new leads from WhatsApp/Telegram groups, Instagram post commenters, and X thread repliers — then...
+
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
@@ -1260,6 +1331,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
+
+- [Instagram Agent by Nova (CIVAI)](https://nova.civai.co/agent/instagram-web-agent) `https://nova.civai.co/mcp/agents/instagram-web-agent`
+  [![Instagram Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/instagram-web-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/instagram-web-agent)
+  🔓 - I use your Instagram Web browser session (Integrations → Instagram Web) via instagrapi — not Meta / Graph API.
+
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read a creator's own YouTube analytics, audience and comments, and decide what to fix on a video and what to make next.
@@ -1301,6 +1377,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+
+- [Twitter Agent by Nova (CIVAI)](https://nova.civai.co/agent/twitter-agent) `https://nova.civai.co/mcp/agents/twitter-agent`
+  [![Twitter Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/twitter-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/twitter-agent)
+  🔓 - I do everything related to Twitter posting and campaigns.
 
 ### 🏆 <a name="sports"></a>Sports
 
@@ -1384,6 +1464,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, Dynamics NAV lifecycle dates, ERP migration estimators and compliance deadlines by country.
+
+- [Calendar Agent by Nova (CIVAI)](https://nova.civai.co/agent/calendar-agent) `https://nova.civai.co/mcp/agents/calendar-agent`
+  [![Calendar Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/calendar-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/calendar-agent)
+  🔓 - I do everything related to calendar scheduling.
+
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions, and build invitations. Respondents answer a public link without an account.
@@ -1399,6 +1484,23 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
   [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
   🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
+
+- [Gmail Agent by Nova (CIVAI)](https://nova.civai.co/agent/gmail-agent) `https://nova.civai.co/mcp/agents/gmail-agent`
+  [![Gmail Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/gmail-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/gmail-agent)
+  🔓 - I do everything related to Gmail and productivity.
+
+- [Google Docs Agent by Nova (CIVAI)](https://nova.civai.co/agent/google-docs-agent) `https://nova.civai.co/mcp/agents/google-docs-agent`
+  [![Google Docs Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/google-docs-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/google-docs-agent)
+  🔓 - I do everything related to Google Docs.
+
+- [Google Sheets Agent by Nova (CIVAI)](https://nova.civai.co/agent/google-sheets-agent) `https://nova.civai.co/mcp/agents/google-sheets-agent`
+  [![Google Sheets Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/google-sheets-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/google-sheets-agent)
+  🔓 - I do everything related to Google Sheets.
+
+- [Interviewer Agent by Nova (CIVAI)](https://nova.civai.co/agent/interviewer-agent) `https://nova.civai.co/mcp/agents/interviewer-agent`
+  [![Interviewer Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/interviewer-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/interviewer-agent)
+  🔓 - I do everything related to interviews and structured Q&A.
+
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
