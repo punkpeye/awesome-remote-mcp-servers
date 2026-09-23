@@ -873,6 +873,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
+- [Get MCP Ads](https://www.getmcpads.com) `https://mcp.getmcpads.com/mcp`
+  [![Get MCP Ads MCP connector](https://glama.ai/mcp/connectors/com.getmcpads.mcp/get-mcp-ads/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpads.mcp/get-mcp-ads)
+  🔐 - Query advertising performance and creatives, with previews and confirmation for supported campaign changes.
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
