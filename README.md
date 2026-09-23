@@ -1214,6 +1214,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Auth Posture](https://auth-posture.rowb.app) `https://auth-posture.rowb.app/mcp`
+  [![Auth Posture MCP connector](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit)
+  🔓 - One-call domain audit: MX receiving, SPF/DMARC/DKIM spoofing protection, disposable-address risk.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits for shipped code in plain English, exposed over MCP for your agent to scan.
