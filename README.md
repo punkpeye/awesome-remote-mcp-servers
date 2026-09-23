@@ -1360,6 +1360,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC — no account, no signup, no KYC.
+- [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
+  [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
+  🔐 - Trips across Germany: sights and place details, curated travel records with opening hours and prices, events, weather and tides, densest in Lower Saxony.
 - [Vedar](https://vedarai.ru/mcp) `https://vedarai.ru/api/mcp`
   [![Vedar MCP connector](https://glama.ai/mcp/connectors/ru.vedarai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.vedarai/mcp)
   🔓 - Kamchatka travel: live operator tours and availability, safety alerts, places, weather, stays, and trip plans.
