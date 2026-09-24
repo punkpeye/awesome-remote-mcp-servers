@@ -937,6 +937,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 , OpenAI, AWS, GitHub, etc.).
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
+- [Codex Reset](https://codex-reset.com/developers) `https://codex-reset.com/mcp`
+  [![Codex Reset MCP connector](https://glama.ai/mcp/connectors/com.codex-reset/codex-reset/badges/score.svg)](https://glama.ai/mcp/connectors/com.codex-reset/codex-reset)
+  🔓 - Codex usage-limit reset odds for the next 24/48h, the verified reset record with sources, and Codex service status.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Read your product's event history, delivery health and plan usage: what failed in checkout today, what a customer did before churning, whether deliveries to Slack are failing.
