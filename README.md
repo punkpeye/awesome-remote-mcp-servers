@@ -615,6 +615,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Your own ledger in your AI: net worth, accounts, budgets, holdings and IOUs, plus transactions and budgets your agent drafts and you confirm before anything is written; tools need a paid plan.
+- [IOConnex Price Tracker](https://github.com/Anon2052/price-tracker-mcp) `https://price-tracker-mcp.onrender.com/mcp`
+  🔓 - Check live product prices from any product URL and generate affiliate links; free monthly allowance, paid tools via x402 on Base.
 - [Jithox E-Invoice](https://jithox.com/mcp/einvoice) `https://mcp.jithox.com/mcp`
   [![Jithox E-Invoice MCP connector](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness)
   🔓 - Read-only EU e-invoice checks: invoice structure, VAT format, VIES and Peppol lookup; tool calls need OAuth sign-in.
@@ -1162,6 +1164,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Horizon](https://horizon.alchemylab.sh/developers) `https://horizon.alchemylab.sh/api/mcp`
   [![Horizon MCP connector](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing/badges/score.svg)](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing)
   🔓 - Daily AI briefing, AI regulation tracker (EU AI Act, US federal & state, UK), regional lenses and search, no key needed.
+- [IOConnex Doc Convert](https://github.com/Anon2052/doc-convert-mcp) `https://doc-convert-mcp.onrender.com/mcp`
+  🔓 - Convert PDFs, Office docs, spreadsheets, and images (OCR) to clean Markdown/text for AI agents; free monthly allowance, paid tools via x402 on Base.
+- [IOConnex Search](https://github.com/Anon2052/search-mcp) `https://search-mcp-tgsn.onrender.com/mcp`
+  🔓 - Web search with fetch-as-clean-text and SSRF guard; free monthly allowance, paid tools via x402 on Base.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live job postings from 30+ job boards and ATS feeds, read one in full, and save a search as a signal for new matches.
