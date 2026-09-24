@@ -591,6 +591,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CompliAPI](https://compliapi.com) `https://api.compliapi.com/mcp`
   [![CompliAPI MCP connector](https://glama.ai/mcp/connectors/com.compliapi/screening/badges/score.svg)](https://glama.ai/mcp/connectors/com.compliapi/screening)
   🔓 - Screen crypto addresses, emails, websites, IDs and countries against OFAC, EU, UK and other sanctions lists.
+- [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
+  [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
+  🔑 - SEC insider trades, Congress disclosures, 13F holdings and a cross-signal consensus on 4,600+ US tickers, each sourced.
 - [CryptoMacro](https://asistent-crypto.vercel.app/a2a) `https://asistent-crypto.vercel.app/mcp`
   [![CryptoMacro MCP connector](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis)
   🔓 - Crypto positioning plus the macro regime: funding, open interest, order-book depth, implied volatility, Fed rates.
