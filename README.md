@@ -1197,6 +1197,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Singapore Proxy](https://singaporemobileproxy.com/client/mcp) `https://mcp.singaporemobileproxy.com/mcp`
   [![Singapore Proxy MCP connector](https://glama.ai/mcp/connectors/io.github.Xavierfok/singapore-proxy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Xavierfok/singapore-proxy-mcp)
   🔓 - Fetch pages and run Google searches from a real Singapore mobile IP on Singtel or M1, and rotate it on demand. Tool calls need an API key.
+- [Sourcey](https://sourcey.com) `https://mcp.sourcey.com/mcp`
+  [![Sourcey MCP connector](https://glama.ai/mcp/connectors/com.sourcey/sourcey/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcey/sourcey)
+  🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
