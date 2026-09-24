@@ -106,6 +106,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 📣 - [Social Media](#social-media)
 * 🏆 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support--service-management)
+* 🌍 - [Translation & Localization](#translation--localization)
 * 🚆 - [Travel & Transportation](#travel--transportation)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace--productivity)
@@ -1321,6 +1322,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service compliance standard as tools: clause-level Q&A, the 53-item self-check list, mandatory human-handoff scenarios, and filing requirements.
+
+### 🌍 <a name="translation--localization"></a>Translation & Localization
+
+- [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
+  [![globalize.now MCP connector](https://glama.ai/mcp/connectors/now.globalize/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/now.globalize/globalize)
+  🔐 - Localize apps from your AI assistant: translate locale files, set glossaries, connect GitHub repos.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
