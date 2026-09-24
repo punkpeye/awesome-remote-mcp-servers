@@ -728,6 +728,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎮 <a name="gaming"></a>Gaming
 
+- [klyo games](https://games.klyo.pl/mcp/) `https://panel.klyo.pl/mcp?profil=gry`
+  [![klyo games MCP connector](https://glama.ai/mcp/connectors/pl.klyo/games/badges/score.svg)](https://glama.ai/mcp/connectors/pl.klyo/games)
+  🔐 - Publish and update HTML5 browser games: own address, leaderboards, player clips, stats, fixes without a ZIP.
 - [Playgama](https://playgama.com/mcp/) `https://developer.playgama.com/api/mcp`
   [![Playgama MCP connector](https://glama.ai/mcp/connectors/com.playgama.developer/playgama-developer-cabinet/badges/score.svg)](https://glama.ai/mcp/connectors/com.playgama.developer/playgama-developer-cabinet)
   🔑 - Publish and manage HTML5 games on Playgama: game form, builds, covers, in-app catalog, sandbox link.
