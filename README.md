@@ -1402,6 +1402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
+- [LaborIQ Salary Data](https://laboriq.co/mcp) `https://mcp.laboriq.co/mcp`
+  [![LaborIQ Salary Data MCP connector](https://glama.ai/mcp/connectors/co.laboriq/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.laboriq/mcp-server)
+  🔑 - US salary benchmarks by job title and metro area: median pay, plus year-over-year growth, a labor supply index and salary forecasts for subscribers. Free key by email, no account needed.
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
