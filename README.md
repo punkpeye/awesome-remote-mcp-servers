@@ -652,6 +652,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find and query official Brazilian economic data with provenance through 19 read-only tools.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [Qotien](https://qotien.fr) `https://app.qotien.fr/api/fiscal/v1/mcp`
+  [![Qotien MCP connector](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement)
+  🔓 - French income tax, IFI, PER and 32 pension schemes, sourced to primary law and dated; x402 pay-per-call, no API key.
 - [Quantral](https://quantral.com/mcp) `https://app.quantral.com/api/mcp`
   [![Quantral MCP connector](https://glama.ai/mcp/connectors/com.quantral/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/com.quantral/sentiment)
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions from the sources Quantral tracks.
