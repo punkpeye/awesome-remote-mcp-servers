@@ -144,6 +144,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
+- [Quietforge x402 Tools](https://quietforge-studio.pages.dev/docs-api/#mcp) `https://qf-api.quietforge-studio.workers.dev/mcp`
+  [![Quietforge x402 Tools MCP connector](https://glama.ai/mcp/connectors/io.github.quietforgestudio/x402-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quietforgestudio/x402-tools)
+  🔓 - Search a health-probed directory of x402 APIs, probe one, and read aggregate 24h on-chain USDC settlement.
 - [QVeris](https://qveris.ai) `https://mcp.qveris.ai/mcp`
   [![QVeris MCP connector](https://glama.ai/mcp/connectors/io.github.QVerisAI/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.QVerisAI/mcp)
   🔐 - Professional data and tool access for AI: help the AI you already use find services, review supported scope, call them, and audit usage.
