@@ -1154,6 +1154,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemalli](https://gemalli.com/en/developers) `https://gemalli.com/api/mcp`
   [![Gemalli MCP connector](https://glama.ai/mcp/connectors/com.gemalli/trade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gemalli/trade)
   🔓 - Search verified manufacturers, screen counterparties against UN/OFAC/EU sanctions lists, and look up HS codes and dual-use export controls for cross-border trade.
+- [GetYourJob](https://getyourjob.pro) `https://getyourjob.pro/api/mcp`
+  [![GetYourJob MCP connector](https://glama.ai/mcp/connectors/pro.getyourjob/getyourjob/badges/score.svg)](https://glama.ai/mcp/connectors/pro.getyourjob/getyourjob)
+  🔐 - Search French IT jobs and freelance missions, run AI profile matching, track applications and write cover letters.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
