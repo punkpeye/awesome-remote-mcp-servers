@@ -1326,7 +1326,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🌍 <a name="translation--localization"></a>Translation & Localization
 
 - [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
-  [![globalize.now MCP connector](https://glama.ai/mcp/connectors/now.globalize/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/now.globalize/globalize)
+  [![globalize.now MCP connector](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize)
   🔐 - Localize apps from your AI assistant: translate locale files, set glossaries, connect GitHub repos.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
