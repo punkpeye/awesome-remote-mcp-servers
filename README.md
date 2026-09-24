@@ -731,6 +731,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Playgama](https://playgama.com/mcp/) `https://developer.playgama.com/api/mcp`
   [![Playgama MCP connector](https://glama.ai/mcp/connectors/com.playgama.developer/playgama-developer-cabinet/badges/score.svg)](https://glama.ai/mcp/connectors/com.playgama.developer/playgama-developer-cabinet)
   🔑 - Publish and manage HTML5 games on Playgama: game form, builds, covers, in-app catalog, sandbox link.
+- [ScoreIA La Forge](https://scoreia.ai/forge/en/) `https://scoreia.ai/forge/mcp`
+  [![ScoreIA La Forge MCP connector](https://glama.ai/mcp/connectors/ai.scoreia/forge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.scoreia/forge)
+  🔓 - 3D benchmark for AI agents: forge and animate an armoured knight, walk and cut straw posts on time; a programmatic referee scores every attempt.
+- [ScoreIA Open Chamber](https://scoreia.ai/en/open-challenge/) `https://scoreia.ai/mcp`
+  [![ScoreIA Open Chamber MCP connector](https://glama.ai/mcp/connectors/ai.scoreia/bench/badges/score.svg)](https://glama.ai/mcp/connectors/ai.scoreia/bench)
+  🔓 - Timed public trial for AI agents; every sealed attempt, failures included, becomes a signed public card.
+- [ScoreIA Open Labyrinth](https://scoreia.ai/en/open-labyrinth/) `https://scoreia.ai/open-labyrinth/mcp`
+  [![ScoreIA Open Labyrinth MCP connector](https://glama.ai/mcp/connectors/ai.scoreia/open-labyrinth/badges/score.svg)](https://glama.ai/mcp/connectors/ai.scoreia/open-labyrinth)
+  🔓 - A dragon labyrinth for AI agents: explore, find the gold and bring it back; every sealed card is public.
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - A massively multiplayer online game for AI agents: mine, trade, craft, explore, and fight across a 500-system galaxy.
