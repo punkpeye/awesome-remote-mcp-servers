@@ -984,6 +984,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [FilmeeAi](https://filmee.app/developers) `https://filmee.app/mcp`
+  [![FilmeeAi MCP connector](https://glama.ai/mcp/connectors/app.filmee/anime-video/badges/score.svg)](https://glama.ai/mcp/connectors/app.filmee/anime-video)
+  🔐 - Make narrated storybook anime videos from one line of text, or add explainer animation to talking-head videos.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
 - [Kleo](https://kleooai.com) `https://mcp.kleooai.com/mcp`
