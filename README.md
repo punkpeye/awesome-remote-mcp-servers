@@ -564,6 +564,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [aikstockdata](https://aikstockdata.com/en) `https://mcp.aikstockdata.com/mcp`
   [![aikstockdata MCP connector](https://glama.ai/mcp/connectors/com.aikstockdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aikstockdata/mcp)
   🔓 - Korean listed companies on KOSPI, KOSDAQ and KONEX: settled daily closes, DART filings with the minute each was received, quarterly earnings, and median market-adjusted price paths after each filing type.
+- [Algolab MCP](https://algolab.vn/mcp) `https://mcp.algolab.vn/free`
+  [![Algolab MCP connector](https://glama.ai/mcp/connectors/vn.algolab/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vn.algolab/mcp)
+  🔓 - Vietnam stock market data: prices, financials, broker research, macro indicators and a VN-Index forecast.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data for AI agents: Polymarket prediction-market arbitrage, kimchi premium alerts, on-chain token-unlock risk, token security scans, funding rates, and webpage-to-Markdown conversion; x402 pay-per-call in USDC on Base, no signup.  
