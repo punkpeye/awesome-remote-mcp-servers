@@ -371,6 +371,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unl, your why agent](https://unlimitless.ai) `https://api.unlimitless.ai/mcp`
   [![Unl, your why agent MCP connector](https://glama.ai/mcp/connectors/ai.unlimitless/unl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unlimitless/unl)
   🔐 - Your agents work from what you decided, and why.
+- [Veredicto Humano](https://veredictohumano.com) `https://veredictohumano.com/mcp`
+  [![Veredicto Humano MCP connector](https://glama.ai/mcp/connectors/io.github.jgsierra/veredicto-humano-x402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jgsierra/veredicto-humano-x402)
+  🔓 - Ask one real person (not an LLM) for a subjective judgment; $0.10 USDC on Base via x402, result returned by polling.
 - [Verifi](https://verifi.cloud) `https://verifi.cloud/mcp`
   [![Verifi MCP connector](https://glama.ai/mcp/connectors/cloud.verifi/human-verification/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.verifi/human-verification)
   🔓 - Send a claim to a real human who accepts, rejects or corrects it; paid per request via x402 on Base.
