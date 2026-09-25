@@ -787,6 +787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mnemoverse](https://mnemoverse.com) `https://mcp.mnemoverse.com/mcp`
   [![Mnemoverse MCP connector](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server)
   🔐 - Persistent agent memory over MCP; tell it a recalled memory helped or misled and it re-ranks the next recall.
+- [NextLang](https://www.nextlang.co/mcp) `https://www.nextlang.co/api/mcp`
+  [![NextLang MCP connector](https://glama.ai/mcp/connectors/co.nextlang/nextlang/badges/score.svg)](https://glama.ai/mcp/connectors/co.nextlang/nextlang)
+  🔐 - Make Anki, Quizlet, Mochi and Brainscape flashcard decks and review your vocabulary with spaced repetition.
 - [NoteMCP](https://notemcp.com) `https://notemcp.com/mcp`
   [![NoteMCP MCP connector](https://glama.ai/mcp/connectors/com.notemcp/notemcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.notemcp/notemcp)
   🔐 - Give Claude and ChatGPT long-term memory: search, read and edit notes you saved by text, voice or share sheet.
