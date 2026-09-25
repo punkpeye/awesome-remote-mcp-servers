@@ -547,6 +547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Origine Paris](https://origineparis.com) `https://mcp.origineparis.com/mcp`
   [![Origine Paris MCP connector](https://glama.ai/mcp/connectors/com.origineparis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.origineparis/mcp)
   🔓 - Paris jewellery house: recycled 18-carat gold, IGI-certified lab-grown diamonds; collections, bespoke, priced catalogue.
+- [PegaRex](https://pegarex.com.br) `https://pegarex.com.br/api/mcp`
+  [![PegaRex MCP connector](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex)
+  🔓 - Search 1.8M+ live Brazilian used-car and motorcycle listings with FIPE prices, price ranges and cheapest states.
 - [Pollen](https://pollen.elytron.in) `https://pollen.elytron.in/mcp`
   [![Pollen MCP connector](https://glama.ai/mcp/connectors/in.elytron/pollen/badges/score.svg)](https://glama.ai/mcp/connectors/in.elytron/pollen)
   🔓 - Score, enrich, and publish your Shopify or WooCommerce catalog so AI agents can find and recommend it.
