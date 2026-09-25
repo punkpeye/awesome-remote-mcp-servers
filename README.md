@@ -1171,6 +1171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Maison de Talents](https://maisondetalents.com) `https://maisondetalents.com/api/mcp`
   [![Maison de Talents MCP connector](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents/badges/score.svg)](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents)
   🔓 - Search luxury, department store and duty-free retail job postings in Korea and look up store salary benchmarks.
+- [NeverApply](https://neverapply.co/features/mcp) `https://neverapply.co/mcp`
+  [![NeverApply MCP connector](https://glama.ai/mcp/connectors/co.neverapply/neverapply/badges/score.svg)](https://glama.ai/mcp/connectors/co.neverapply/neverapply)
+  🔐 - Search jobs, explore explained matches, and manage applications with your AI assistant.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
