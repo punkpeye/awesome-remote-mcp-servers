@@ -707,6 +707,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VoxOdds](https://voxodds.com) `https://voxodds.com/mcp`
   [![VoxOdds MCP connector](https://glama.ai/mcp/connectors/com.voxodds/voxodds/badges/score.svg)](https://glama.ai/mcp/connectors/com.voxodds/voxodds)
   🔓 - Live Polymarket and Kalshi odds, all-in executable quotes with fees, pre-bet EV checks, and audited AI track records.
+- [Vurto Swap](https://swap.vurto.cc) `https://swap.vurto.cc/mcp`
+  [![Vurto Swap MCP connector](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap)
+  🔓 - Token swaps ranked by what reaches the wallet, on 9 EVM chains and Solana; returns unsigned transactions only.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
