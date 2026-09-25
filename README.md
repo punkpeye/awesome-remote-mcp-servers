@@ -1384,6 +1384,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, Dynamics NAV lifecycle dates, ERP migration estimators and compliance deadlines by country.
+- [Clera](https://www.getclera.com/mcp) `https://mcp.getclera.com`
+  [![Clera MCP connector](https://glama.ai/mcp/connectors/com.getclera/clera/badges/score.svg)](https://glama.ai/mcp/connectors/com.getclera/clera)
+  🔐 - Companies search 210k+ vetted candidates and request intros. Candidates search 300k+ open tech roles.
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions, and build invitations. Respondents answer a public link without an account.
