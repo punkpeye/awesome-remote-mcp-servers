@@ -754,7 +754,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Resolve social handles to EVM and Solana wallet addresses, score onchain reputation, and send USDC to identities.
 - [Radicado Uno](https://radicadouno.co/mcp) `https://mcp.radicadouno.co/mcp`
   [![Radicado Uno MCP connector](https://glama.ai/mcp/connectors/co.radicadouno/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.radicadouno/mcp)
-  🔑 - Colombian company and public-procurement data by NIT: registry, contracts, financials, sanctions, each with its source.
+  🔓 - Colombian company and public-procurement data by NIT: registry, contracts, sanctions. Data tools need a key.
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD against EN 16931, every violation with its rule ID.
