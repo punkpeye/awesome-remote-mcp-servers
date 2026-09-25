@@ -1250,6 +1250,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance policy or HOA document, with its date, consequence and source quote.
+- [SatelliteQuotes](https://www.satellitequotes.com/mcp) `https://www.satellitequotes.com/api/mcp`
+  [![SatelliteQuotes MCP connector](https://glama.ai/mcp/connectors/com.satellitequotes/satellitequotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.satellitequotes/satellitequotes)
+  🔓 - Measure property from satellite imagery, price 24 contracting trades, and install quote widgets on contractor sites.
 
 ### 🚗 <a name="sales"></a>Sales
 
