@@ -745,6 +745,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vurto Swap MCP connector](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap)
   🔓 - Token swaps ranked by what reaches the wallet, on 9 EVM chains and Solana; returns unsigned transactions only.
 
+- [Zovo Price Tracker](https://mcp.zovo.one/s/price-tracker) `https://mcp.zovo.one/mcp/price-tracker`
+  [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker)
+  🔓 - Watch shop prices over time from chat: snapshot pages, track a watch list, and get target alerts, with history kept locally.
+
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
 - [Agent Chef](https://agentchef.net) `https://agentchef.net/mcp`
