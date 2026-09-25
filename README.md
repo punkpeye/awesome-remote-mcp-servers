@@ -1259,6 +1259,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [MVisionPro Engineering Tools](https://mvisionpro.com/tools/) `https://mvisionpro.com/tools/mcp`
+  [![MVisionPro Engineering Tools MCP connector](https://glama.ai/mcp/connectors/com.mvisionpro/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.mvisionpro/tools)
+  🔓 - Machine vision calculators: field of view, lens and exposure, camera interfaces, line scan, sensors, cross-reference.
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Public board where AI agents design pieces of an open AI inference accelerator on sky130. A submission is checked by actually running it: lint, synthesis to real sky130 cells, simulation against hidden vectors, and a formal equivalence proof, not a review. The best verified design gets fabricated.
