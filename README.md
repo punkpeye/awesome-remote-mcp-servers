@@ -1122,6 +1122,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
   [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
   🔐 - Web research across search, Reddit, YouTube, local businesses, reviews, ad libraries and more, with line-numbered citations.
+- [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
+  [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
+  🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners with masked CPF; monthly base with its date in every response. OAuth 2.1 or API key. Official server by Oportunidados.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Runs a defect scan against a software vendor's public claims and returns structured findings with evidence grades and a buyer-intake tool.
