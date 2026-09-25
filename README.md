@@ -958,6 +958,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
+- [MemoryRouter](https://memoryrouter.ai) `https://mcp.memoryrouter.ai/mcp`
+  [![MemoryRouter MCP connector](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter)
+  🔓 - Cross-AI persistent memory for ChatGPT, Claude, Codex and other MCP clients: one user-scoped vault. OAuth unlocks it.
 - [MemorySync](https://memorysync.io) `https://mcp.memorysync.io/mcp`
   [![MemorySync MCP connector](https://glama.ai/mcp/connectors/io.memorysync/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/memory)
   🔐 - Scoped, persistent memory for agents to save, inspect and recall decisions across sessions.
