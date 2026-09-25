@@ -285,6 +285,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Turn a letter written in any AI assistant into printed, mailed USPS Certified Mail with tracking, from $13.18.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Sending](https://sending.dev) `https://sending.dev/api/mcp`
+  [![Sending MCP connector](https://glama.ai/mcp/connectors/dev.sending/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sending/mcp)
+  🔐 - Email, WhatsApp and Telegram for agents: send, campaigns, automations, contacts, agent inboxes.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers without an account.
