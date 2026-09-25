@@ -261,6 +261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Write React pages and serverless endpoints, provision Postgres and auth, run SQL, read logs, and publish to a live URL.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Lathe](https://lathe.live) `https://mcp.lathe.live`
+  [![Lathe MCP connector](https://glama.ai/mcp/connectors/live.lathe/lathe/badges/score.svg)](https://glama.ai/mcp/connectors/live.lathe/lathe)
+  🔐 - App, Postgres, Redis, CouchDB, NATS and auth on one dedicated machine, one flat monthly bill.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
 - [Popdot AI](https://popdot.ai) `https://popdot.ai/api/mcp`
