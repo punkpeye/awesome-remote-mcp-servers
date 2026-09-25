@@ -1461,6 +1461,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SimFuse](https://simfuse.app/agent/) `https://api.simfuse.app/agentic/mcp`
   [![SimFuse MCP connector](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront/badges/score.svg)](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront)
   🔓 - Travel eSIMs for 200+ countries: browse plans, check coverage, price a multi-country trip, and open a checkout.
+  - [StayingAPI](https://stayingapi.com) `https://mcp.stayingapi.com/mcp`
+    🔐 - Live accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels in one schema: search, availability, live prices, cross-OTA price comparison, reviews, and listing details.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
