@@ -1315,6 +1315,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scoutee](https://scoutee.org/en/mcp-public-tenders) `https://scoutee.org/api/mcp/public`
   [![Scoutee MCP connector](https://glama.ai/mcp/connectors/org.scoutee/scoutee/badges/score.svg)](https://glama.ai/mcp/connectors/org.scoutee/scoutee)
   🔓 - Search public tenders across Europe and North America and read notice previews, without an account or API key.
+- [Sequentum](https://sequentum.com) `https://mcp.sequentum.com/mcp`
+  [![Sequentum MCP connector](https://glama.ai/mcp/connectors/com.sequentum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sequentum/mcp)
+  🔐 - Build, run and schedule web scraping agents, and pull their extracted data and run diagnostics.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   🔐 - Scrape websites and run saved extraction recipes.
 - [Singapore Proxy](https://singaporemobileproxy.com/client/mcp) `https://mcp.singaporemobileproxy.com/mcp`
