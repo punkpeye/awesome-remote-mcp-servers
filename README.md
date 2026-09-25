@@ -1283,6 +1283,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OmniSocials](https://omnisocials.com) `https://mcp.omnisocials.com/`
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
+- [Outstand](https://www.outstand.so/mcp) `https://mcp.outstand.so/mcp`
+  [![Outstand MCP connector](https://glama.ai/mcp/connectors/so.outstand/outstand/badges/score.svg)](https://glama.ai/mcp/connectors/so.outstand/outstand)
+  🔐 - Publish, schedule and analyze posts across 12 networks, with threaded replies and media upload.
 - [Post Bridge](https://www.post-bridge.com/mcp) `https://www.post-bridge.com/api/mcp/mcp`
   [![Post Bridge MCP connector](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge)
   🔐 - Publish, schedule and analyze posts across ten platforms, from Instagram and TikTok to LinkedIn and Bluesky.
