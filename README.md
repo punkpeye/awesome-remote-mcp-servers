@@ -254,6 +254,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
+- [wawesome](https://wawesome.io) `https://api.wawesome.io/v1/mcp`
+  [![wawesome MCP connector](https://glama.ai/mcp/connectors/io.wawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.wawesome/mcp)
+  🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
   
 ### 💬 <a name="communication"></a>Communication
 
