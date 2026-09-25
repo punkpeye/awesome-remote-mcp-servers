@@ -1482,6 +1482,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [XPlanner](https://xplanner.co/en/mcp) `https://mcp.xplanner.co/mcp`
   [![XPlanner MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner)
   🔐 - Turn ideas into platform-ready drafts, schedule posts, and publish from one content workspace.
+- [xpost.to](https://xpost.to) `https://xpost.to/api/mcp`
+  [![xpost.to MCP connector](https://glama.ai/mcp/connectors/to.xpost/xpost/badges/score.svg)](https://glama.ai/mcp/connectors/to.xpost/xpost)
+  🔐 - Schedule and publish to X, Instagram, LinkedIn, Facebook, TikTok, YouTube, Threads, Bluesky and Pinterest, with a live link per account.
 
 ### 🏆 <a name="sports"></a>Sports
 
