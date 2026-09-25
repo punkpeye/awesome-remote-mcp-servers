@@ -1406,6 +1406,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScanMalware](https://scanmalware.com) `https://mcp.scanmalware.com/mcp`
   [![ScanMalware MCP connector](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp)
   🔓 - Scan URLs in a sandboxed browser and pivot across past scans by domain, IP, ASN, JARM, favicon hash or JS fingerprint.
+- [SecScan](https://secscan.us) `https://secscan.us/api/mcp`
+  [![SecScan MCP connector](https://glama.ai/mcp/connectors/us.secscan/secscan/badges/score.svg)](https://glama.ai/mcp/connectors/us.secscan/secscan)
+  🔑 - Scan a live web app you own, read graded findings with fix prompts, verify domains and monitor sites.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
