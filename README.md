@@ -1041,6 +1041,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
   [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
   🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
+- [Noveum](https://noveum.ai/en/mcp) `https://noveum.ai/api/mcp`
+  [![Noveum MCP connector](https://glama.ai/mcp/connectors/ai.noveum/noveum/badges/score.svg)](https://glama.ai/mcp/connectors/ai.noveum/noveum)
+  🔐 - Inspect agent traces, manage eval datasets, run evaluations, and test voice agents.
 - [Rootly](https://rootly.com) `https://mcp.rootly.com/mcp`
   🔐 - Manage Rootly incidents, alerts, and on-call schedules.
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
