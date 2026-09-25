@@ -1489,6 +1489,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
 
+- [Horse Truth](https://horsetruth.com.au/developers) `https://horsetruth.com.au/api/v1/mcp`
+  [![Horse Truth MCP connector](https://glama.ai/mcp/connectors/au.com.horsetruth/machine-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.horsetruth/machine-intelligence)
+  🔓 - Free discovery; paid Australian racehorse intelligence, rankings, identity resolution and change signals via remote MCP.
 - [Pickleball3](https://pickleball3.com) `https://pickleball3.com/mcp`
   [![Pickleball3 MCP connector](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3)
   🔓 - Read-only pickleball paddle catalog: 152 reviewed paddles with scores, specs, comparisons and verified purchase links.
