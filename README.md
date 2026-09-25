@@ -183,7 +183,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pushary](https://pushary.com) `https://pushary.com/api/mcp/mcp`
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
   🔓 🔑 - Public discovery; API key required to send phone notifications and ask for approvals, choices, or text.
-
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
@@ -916,7 +915,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [What Led To](https://whatledto.com) `https://whatledto.com/mcp`
   [![What Led To MCP connector](https://glama.ai/mcp/connectors/com.whatledto/what-led-to/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatledto/what-led-to)
   🔓 - Source-backed timelines of long-running events in tech, the economy and gaming: search dated entries, read a whole timeline, and get the verbatim quote and outlet behind each one.
-
+- [MindMap AI](https://mindmapai.app) `https://mindmapai.app/mcp`
+  [![MindMap AI MCP connector](https://glama.ai/mcp/connectors/app.mindmapai/mind-map-ai/badges/score.svg)](https://glama.ai/mcp/connectors/app.mindmapai/mind-map-ai)
+  🔐 - Create, edit, style, and export mind maps, logic charts, and org charts from MCP-compatible AI clients.
 ### ⚖️ <a name="legal"></a>Legal
 
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
