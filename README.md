@@ -761,6 +761,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shingou](https://shingou.io) `https://api.shingou.io/mcp`
   [![Shingou MCP connector](https://glama.ai/mcp/connectors/io.shingou/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/io.shingou/sentiment)
   🔓 - Hourly news sentiment and typed market events for 30 crypto pairs, source links on every signal, a published hash for every hour of history; data tools need a free key.
+- [Signed Investors](https://mcp.signed.com/investors) `https://mcp.signed.com/investors`
+  [![Signed Investors MCP connector](https://glama.ai/mcp/connectors/com.signed.mcp/signed-investors/badges/score.svg)](https://glama.ai/mcp/connectors/com.signed.mcp/signed-investors)
+  🔓 - Search a public directory of angel investors by sector, check size, or keyword, with no account needed.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - SEC filings and dilution forensics, market data, news, and fundamentals for U.S. equities with point-in-time queries.
