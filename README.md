@@ -261,6 +261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Write React pages and serverless endpoints, provision Postgres and auth, run SQL, read logs, and publish to a live URL.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [InstaPods](https://instapods.com) `https://app.instapods.com/api/mcp`
+  [![InstaPods MCP connector](https://glama.ai/mcp/connectors/com.instapods/instapods/badges/score.svg)](https://glama.ai/mcp/connectors/com.instapods/instapods)
+  🔐 - Create and manage pods, deploy code, run commands, read logs, and launch 1-Click apps like n8n and Uptime Kuma.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
 - [Popdot AI](https://popdot.ai) `https://popdot.ai/api/mcp`
