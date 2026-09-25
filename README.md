@@ -808,7 +808,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
-  🔓 - On-chain data for agents: ERC-20 reports, contract DD, pool depth, wallet activity. USDC per call, no signup.
+  🔓 - On-chain data for agents: ERC-20 reports, contract DD, free Robinhood Chain launch feed. USDC per call.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
