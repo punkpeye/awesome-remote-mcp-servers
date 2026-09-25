@@ -1359,7 +1359,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
-  🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
+  🔓 - Background check any company in the world: registration, executives, courts and finances.
 - [StudiePoint AI](https://studiepoint.ai) `https://studiepoint.ai/api/mcp`
   [![StudiePoint AI MCP connector](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai)
   🔓 - Search scholarships, convert African GPAs, check visas, match students, and estimate study costs.
