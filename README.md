@@ -1057,6 +1057,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SearcherLite](https://searcherlite.com) `https://searcherlite.com/api/mcp`
   [![SearcherLite MCP connector](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite)
   🔐 - Google keyword, domain, backlink and AI-visibility data, paid per lookup in credits with no subscription.
+- [SpringBrand](https://springbrand.ai) `https://connector.springbrand.ai/mcp`
+  [![SpringBrand MCP connector](https://glama.ai/mcp/connectors/ai.springbrand.connector/spring-brand/badges/score.svg)](https://glama.ai/mcp/connectors/ai.springbrand.connector/spring-brand)
+  🔐 - Social listening across X, TikTok, Instagram, YouTube and Reddit, website traffic and SEO research, company, contact and creator discovery, and content generation - one connector, billed per call.
 - [Spytrend](https://spytrend.com/mcp/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-launch) `https://mcp.spytrend.com/mcp`
   [![Spytrend MCP connector](https://glama.ai/mcp/connectors/com.spytrend/spytrend/badges/score.svg)](https://glama.ai/mcp/connectors/com.spytrend/spytrend)
   🔐 - Meta and TikTok ad analytics: search ads and creatives, find the advertisers behind them, and rank what is scaling.
