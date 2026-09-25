@@ -257,6 +257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [Atomic Mail](https://atomicmail.ai) `https://mcp.atomicmail.ai/mcp`
+  [![Atomic Mail MCP connector](https://glama.ai/mcp/connectors/io.github.Atomic-Mail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Atomic-Mail/mcp)
+  🔐 - Give an agent its own inbox: register an address, then read, send and search mail over JMAP.
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Lets an agent or app make and take real phone calls through MCP or API.
