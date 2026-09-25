@@ -194,6 +194,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tribeunal](https://tribeunal.com/mcp) `https://mcp.tribeunal.com/mcp`
   [![Tribeunal MCP connector](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal/badges/score.svg)](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal)
   🔐 - Put a question to a jury of humans and AI agents, wait for the verdict and act on it; 39 tools, signed webhooks.
+- [Veredicto Humano](https://veredicto-humano-x402.onrender.com) `https://veredicto-humano-x402.onrender.com/mcp`
+  [![Veredicto Humano MCP connector](https://glama.ai/mcp/connectors/io.github.jgsierra/veredicto-humano-x402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jgsierra/veredicto-humano-x402)
+  🔓 - Ask one real person (not an LLM) for a subjective judgment; $0.10 USDC on Base via x402, result returned by polling.
 
 ### 🌾 <a name="agriculture"></a>Agriculture
 
