@@ -983,6 +983,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, technical audits, backlinks, competitors, Search Console and AI visibility for your Miraqo SEO projects.
+- [More Good Reviews](https://moregoodreviews.com) `https://api.moregoodreviews.com/mcp`
+  [![More Good Reviews MCP connector](https://glama.ai/mcp/connectors/com.moregoodreviews/project/badges/score.svg)](https://glama.ai/mcp/connectors/com.moregoodreviews/project)
+  🔐 - Manage customers, review requests, reviews, and Google/Facebook replies for one reputation project.
 - [nowyourlink](https://nowyourlink.com) `https://nowyourlink.com/mcp`
   [![nowyourlink MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink)
   🔓 - Read the current daily homepage Spotlight ad and browse the archive of settled auction days.
