@@ -869,6 +869,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Looks up a shared cache of past answers to programming questions and returns one on a match, otherwise stays silent.
+- [Assertion Memory](https://assertion-ai.com) `https://memory.assertion-ai.com/memory/mcp`
+  [![Assertion Memory MCP connector](https://glama.ai/mcp/connectors/io.github.Assertion-AI/assertion/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Assertion-AI/assertion)
+  🔑 - Recall a team's coding-agent memory: decisions, their reasons and open conflicts, captured by the Assertion plugin.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
