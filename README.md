@@ -1231,6 +1231,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [AirROI](https://www.airroi.com/mcp-server) `https://mcp.airroi.com`
+  [![AirROI MCP connector](https://glama.ai/mcp/connectors/com.airroi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.airroi/mcp)
+  🔑 - Airbnb & short-term rental market data: occupancy, ADR, RevPAR, revenue, comps and live Airbnb rates for 20M+ listings.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search verified coworking spaces and private offices in 62 cities, with operator-published prices and market rates.
