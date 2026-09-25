@@ -1214,6 +1214,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TrustyData](https://trustydata.fr/usecases/mcp-qualite-donnees) `https://mcp.trustydata.app/mcp`
   [![TrustyData MCP connector](https://glama.ai/mcp/connectors/app.trustydata/trustydata/badges/score.svg)](https://glama.ai/mcp/connectors/app.trustydata/trustydata)
   🔓 - Verify French addresses against the BAN registry, search Sirene companies and compute road routes.
+- [URLpipe](https://urlpipe.dev/mcp-server) `https://urlpipe.dev/mcp`
+  [![URLpipe MCP connector](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe)
+  🔓 - Read any page after its JavaScript runs: Markdown, screenshots, metadata and Lighthouse. Tool calls need a free API key.
 - [UX Jobs](https://mcp.uxjobs.io) `https://mcp.uxjobs.io/mcp`
   [![UX Jobs MCP connector](https://glama.ai/mcp/connectors/io.uxjobs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.uxjobs/jobs)
   🔓 - Search 4,000+ live UX, product-design and UX-research jobs aggregated from 60+ applicant-tracking systems, pull full listings, and get hiring-market and posted-salary snapshots.
