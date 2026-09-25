@@ -268,6 +268,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Turn a letter written in any AI assistant into printed, mailed USPS Certified Mail with tracking, from $13.18.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Surfing Dog Inbox](https://surfingdog.ai) `https://inbox.surfingdog.ai/mcp`
+  🔓 - Message, ask for a quote or book a call with Surfing Dog. A live instance of the open-source Surfing Dog Inbox.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers without an account.
