@@ -1398,6 +1398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Movahedi Privacy](https://movahedi.ca/mcp) `https://movahedi.ca/mcp`
   [![Movahedi Privacy API MCP server](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api/badges/score.svg)](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api)
   🔓 - Free, anonymous MCP server for Canadian privacy compliance: enforcement actions, glossary, and Law 25 checks.
+- [My Privacy Agent](https://myprivacyagent.com/for/claude) `https://myprivacyagent.com/api/mcp`  
+[![My Privacy Agent MCP connector](https://glama.ai/mcp/connectors/com.myprivacyagent/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.myprivacyagent/public)  
+🔓 - Opt-out guides and removal routes for 950+ people-search and data-broker sites; never looks anyone up.
 - [Orbylon](https://orbylon.com) `https://orbylon.com/api/mcp`
   [![Orbylon MCP connector](https://glama.ai/mcp/connectors/com.orbylon/readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.orbylon/readiness)
   🔓 - Checks whether AI agents can find, trust and pay a business, and looks up a verified domain key and prices.
