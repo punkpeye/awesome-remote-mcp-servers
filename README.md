@@ -1197,6 +1197,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live job postings from 30+ job boards and ATS feeds, read one in full, and save a search as a signal for new matches.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
+- [Markovo](https://markovo.net) `https://markovo.net/mcp`
+  🔑 - Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) to clean, structured Markdown for agent context; explicit per-conversion Credit ceiling, free tier included.
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 294 tools across 60 public-data domains, spanning sanctions, courts, markets, health, energy, and government.
 - [Maison de Talents](https://maisondetalents.com) `https://maisondetalents.com/api/mcp`
