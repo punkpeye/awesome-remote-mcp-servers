@@ -908,6 +908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
+- [Remnant](https://remnant.dedale-bi.com/connect) `https://remnant.dedale-bi.com/mcp`
+  [![Remnant MCP connector](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant/badges/score.svg)](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant)
+  🔓 - Search reusable agent knowledge and inspect evidence-backed Trust Passports; free public beta, no signup for reads.
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
