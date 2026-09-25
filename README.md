@@ -892,6 +892,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LogoKit](https://logokit.com) `https://mcp.logokit.com/mcp`
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
+- [Loomaly](https://loomaly.com) `https://loomaly.com/mcp`
+  [![Loomaly MCP connector](https://glama.ai/mcp/connectors/com.loomaly/loomaly/badges/score.svg)](https://glama.ai/mcp/connectors/com.loomaly/loomaly)
+  🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
