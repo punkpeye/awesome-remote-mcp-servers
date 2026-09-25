@@ -708,9 +708,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![VoxOdds MCP connector](https://glama.ai/mcp/connectors/com.voxodds/voxodds/badges/score.svg)](https://glama.ai/mcp/connectors/com.voxodds/voxodds)
   🔓 - Live Polymarket and Kalshi odds, all-in executable quotes with fees, pre-bet EV checks, and audited AI track records.
 
-- [x402-agent-data](https://github.com/AjiGhufron9999/x402-agent-data) `https://x402-agent.majighufron.workers.dev/mcp`
+- [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
-  🔓 - Paid on-chain data for agents (x402: USDC per call, price quoted in the 402 response): ERC-20 reports, contract due-diligence signals, pool depth and slippage, wallet activity. Free catalogue and sample endpoints, no signup or API key.
+  🔓 - On-chain data for agents: ERC-20 reports, contract DD, pool depth, wallet activity. USDC per call, no signup.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
