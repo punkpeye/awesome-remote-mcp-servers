@@ -1529,6 +1529,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Arclight Events](https://arclight.events/mcp) `https://arclight.events/api/mcp`
   [![Arclight Events MCP connector](https://glama.ai/mcp/connectors/events.arclight/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/events.arclight/mcp)
   🔓 - Upcoming events across 50 metros: AI and tech meetups, hackathons, conferences and concerts, each linked to its source.
+- [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
+  [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
+  🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with 45-second previews and must-see lists.
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only MCP server for short-term rental owners in Poland: query reservations, availability, pricing, guest reviews, and monthly stats. OAuth 2.1 with PKCE or static Bearer token.
