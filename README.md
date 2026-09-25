@@ -536,6 +536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand from chat: profit analytics, PPC, inventory forecasting, listings, staged approvals.
+- [CartViral](https://cartviral.com/mcp) `https://app.cartviral.com/mcp`
+  [![CartViral MCP connector](https://glama.ai/mcp/connectors/com.cartviral/cartviral/badges/score.svg)](https://glama.ai/mcp/connectors/com.cartviral/cartviral)
+  🔐 - Import store products, generate TikTok and Reels product clips, get download links, join brand affiliate offers.
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
