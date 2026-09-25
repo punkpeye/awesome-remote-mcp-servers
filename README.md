@@ -1347,6 +1347,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontDesko](https://frontdesko.app) `https://mcp.frontdesko.app/mcp`
   [![FrontDesko MCP connector](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp)
   🔓 - Hotel PMS pricing and plan comparisons, OTA-commission savings math, docs search, and live demo-hotel availability.
+- [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
+  [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
+  🔓 - Search 129 European cities and get their narrated audio-tour sights with coordinates, categories and visit times.
 - [HelloSafe Travel Insurance](https://atlas.hellosafe.com/platform/api/) `https://hellosafe.com/api/mcp-travel`
   [![HelloSafe Travel Insurance MCP connector](https://glama.ai/mcp/connectors/io.github.HelloSafe/travel-insurance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.HelloSafe/travel-insurance)
   🔓 - Multi-insurer travel insurance quotes with guarantees and policy documents, plus credit card coverage checks.
