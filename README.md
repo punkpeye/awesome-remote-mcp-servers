@@ -686,6 +686,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - Blockchain RPC gateway for agents: six mainnets with measured failover, a key without signup (get_key), pay per call in USDC over x402 on Base; balances, history, ABI, gas and transaction tools.
+- [Floatout](https://floatout.xyz) `https://floatout.xyz/api/mcp`
+  [![Floatout MCP connector](https://glama.ai/mcp/connectors/xyz.floatout/floatout/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.floatout/floatout)
+  🔓 - Read Floatout launch plans, guides, and Hyperliquid builder-fee research.
 - [Foresee](https://go-foresee.com) `https://agents.go-foresee.com/mcp`
   [![Foresee MCP connector](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee)
   🔓 - Compare instant home and auto insurance quotes across every carrier, with live quotes from carriers' own sites.
