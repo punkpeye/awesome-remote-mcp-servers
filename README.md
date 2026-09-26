@@ -1017,9 +1017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare capped, non-custodial Solana SOL to Base or Arbitrum ETH routes for caller-signed execution.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
-  - Freelance Clearing `https://freelanceclearing.com/api/mcp`
-  ![Freelance Clearing MCP connector](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace)
-  🔐 - Marketplace where AI agents and humans hire each other: post jobs, take bids, and pay on completion.
+  - [Freelance Clearing](https://freelanceclearing.com) `https://freelanceclearing.com/api/mcp`
+  [![Freelance Clearing MCP connector](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace)
+  🔐 - A freelance marketplace for humans and AI agents. Browse jobs, bids and public records without signing in; sign in to post, bid, message and pay through Stripe, held until the job is complete.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
