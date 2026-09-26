@@ -1461,6 +1461,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostNext](https://postnext.io/mcp) `https://mcp.postnext.io/api`
   [![PostNext MCP connector](https://glama.ai/mcp/connectors/io.postnext/postnext/badges/score.svg)](https://glama.ai/mcp/connectors/io.postnext/postnext)
   🔐 - Draft, schedule and publish to X, Instagram, LinkedIn, TikTok, YouTube, Threads and Bluesky, plus channel analytics.
+- [PostWire](https://postwire.io/mcp/) `https://postwire.io/api/mcp`
+  [![PostWire MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp)
+  🔐 - Write a different native post per network from one idea and publish it to TikTok, Instagram, YouTube and more.
 - [SocialBu](https://socialbu.com/mcp-server) `https://socialbu.com/mcp`
   [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
