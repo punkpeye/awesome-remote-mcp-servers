@@ -1515,6 +1515,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
   [![globalize.now MCP connector](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize)
   🔐 - Localize apps from your AI assistant: translate locale files, set glossaries, connect GitHub repos.
+- [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
+  [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
+  🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
