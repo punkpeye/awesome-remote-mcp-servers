@@ -1279,6 +1279,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
   [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
   🔐 - Web research across search, Reddit, YouTube, local businesses, reviews, ad libraries and more, with line-numbered citations.
+- [Clera](https://www.getclera.com/mcp) `https://mcp.getclera.com`
+  [![Clera MCP connector](https://glama.ai/mcp/connectors/com.getclera/clera/badges/score.svg)](https://glama.ai/mcp/connectors/com.getclera/clera)
+  🔐 - Search 210,000+ vetted startup candidates, review Clera's picks for your open roles and request intros.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Runs a defect scan against a software vendor's public claims and returns structured findings with evidence grades and a buyer-intake tool.
