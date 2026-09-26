@@ -113,6 +113,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+
+- - [Chain.Love](https://www.chain.love/mcp-gateway) `https://app.chain.love/mcp`
+  [![Chain.Love MCP connector](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp)
+  🔓 - Discover and compare Web3 infrastructure services such as RPCs, indexers, oracles and storage across 50+ networks.
 - [AI Tools Directory](https://ai.toolboxes.top) `https://ai-tools-mcp.toolboxes.top/mcp`
   [![AI Tools Directory MCP connector](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory)
   🔓 - Curated index of 221 AI tools across 21 industries; search by use case, department or pricing tier.
