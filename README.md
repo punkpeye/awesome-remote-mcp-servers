@@ -1535,6 +1535,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only MCP server for short-term rental owners in Poland: query reservations, availability, pricing, guest reviews, and monthly stats. OAuth 2.1 with PKCE or static Bearer token.
+- [EscapeStays by Luxury Lodging](https://stay.luxurylodgingpm.com/ai) `https://stay.luxurylodgingpm.com/mcp`
+  [![EscapeStays by Luxury Lodging MCP connector](https://glama.ai/mcp/connectors/com.luxurylodgingpm.stay/luxury-lodging/badges/score.svg)](https://glama.ai/mcp/connectors/com.luxurylodgingpm.stay/luxury-lodging)
+  🔓 - Search professionally managed US vacation homes, check live availability and totals with taxes, then book direct.
 - [eSIMfly](https://esimfly.net/esim-api) `https://mcp.esimfly.net/mcp`
   [![eSIMfly MCP connector](https://glama.ai/mcp/connectors/io.github.eSimfly-Official/esimfly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eSimfly-Official/esimfly-mcp)
   🔐 - Wholesale eSIM data plans for 200+ countries for resellers and apps: search plans with your prices, check balance and usage, diagnose an eSIM from live network data, and (opt-in, with a confirmation step) order and top up. OAuth 2.1 sign-in with an eSIMfly business account; also available as `npx -y @esimfly/mcp`.
