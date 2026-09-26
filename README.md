@@ -333,6 +333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write and compile LaTeX: search 1000+ journal, thesis and CV templates, create projects, edit files, and compile to PDF with the build log returned.
+- [PaperOffice AI](https://paperoffice.ai/en/developer/mcp/) `https://mcp.paperoffice.ai/dms`
+  [![PaperOffice AI MCP connector](https://glama.ai/mcp/connectors/ai.paperoffice.mcp/paper-office-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.paperoffice.mcp/paper-office-ai)
+  🔐 - Search, read, upload and extract documents: OCR, invoice IDP, document management, e-signatures, EU-hosted.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
