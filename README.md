@@ -1392,6 +1392,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits for shipped code in plain English, exposed over MCP for your agent to scan.
+- [FLOCORE Governed MCP](https://fo.flocore.tech) `https://fo.flocore.tech/mcp`
+  [![FLOCORE Governed MCP connector](https://glama.ai/mcp/connectors/tech.flocore/flocore/badges/score.svg)](https://glama.ai/mcp/connectors/tech.flocore/flocore)
+  🔓 - Free prompt-injection screen (aegis_inspect); human-approval gate and signed receipts for world-affecting actions.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
