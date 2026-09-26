@@ -136,6 +136,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and chat completions with parity to /v1/chat/completions.
+- [MarketAIVerse](https://marketaiverse.com) `https://marketaiverse.com/api/v1/mcp`
+  [![MarketAIVerse MCP connector](https://glama.ai/mcp/connectors/com.marketaiverse/marketaiverse/badges/score.svg)](https://glama.ai/mcp/connectors/com.marketaiverse/marketaiverse)
+  🔓 - AI market where every figure is labelled measured or computed: GPU calculator, shelf search, trust checks, agent rooms.
 - [mcp.market](https://mcp.market) `https://gw.mcp.market/mcp`
   [![mcp.market gateway MCP connector](https://glama.ai/mcp/connectors/market.mcp/gateway/badges/score.svg)](https://glama.ai/mcp/connectors/market.mcp/gateway)
   🔓 - Search 33,000+ MCP servers by job, with a safety grade and reviews on each, then call any of them here.
