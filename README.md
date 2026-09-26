@@ -770,6 +770,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
   [![StackEasy MCP connector](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards)
   🔐 - Your own credit cards in your AI: balances, utilization, best card for a purchase, and missed rewards, read only.
+- [StartupPerks](https://startupperks.co/mcp-server) `https://startupperks.co/mcp`
+  [![StartupPerks MCP connector](https://glama.ai/mcp/connectors/co.startupperks/startup-perks/badges/score.svg)](https://glama.ai/mcp/connectors/co.startupperks/startup-perks)
+  🔓 - Rank the startup credits, perks and deals a company qualifies for across 1,000+ programs, each with sourced terms.
 - [Stocks On Chain](https://stocksonchain.io) `https://stocksonchain.io/mcp`
   [![Stocks On Chain MCP connector](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain/badges/score.svg)](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain)
   🔓 - Which listed companies exist as tokens, on which chain and from which issuer, with contract addresses and on-chain corporate actions. Every figure carries the time it was read.
