@@ -1039,6 +1039,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, technical audits, backlinks, competitors, Search Console and AI visibility for your Miraqo SEO projects.
+- [Mutator](https://mutator.app/docs/mcp) `https://mutator.app/mcp`
+  [![Mutator MCP connector](https://glama.ai/mcp/connectors/app.mutator/mutator/badges/score.svg)](https://glama.ai/mcp/connectors/app.mutator/mutator)
+  🔑 - Draft and test-run formats that turn a product photo into TikTok and Instagram videos. Cannot publish.
 - [nowyourlink](https://nowyourlink.com) `https://nowyourlink.com/mcp`
   [![nowyourlink MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink)
   🔓 - Read the current daily homepage Spotlight ad and browse the archive of settled auction days.
