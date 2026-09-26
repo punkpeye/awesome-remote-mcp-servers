@@ -710,6 +710,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kema Invoice](https://invoice.kema-studio.com) `https://mcp.kema-studio.com/api/mcp`
   [![Kema Invoice MCP connector](https://glama.ai/mcp/connectors/com.kema-studio/invoice/badges/score.svg)](https://glama.ai/mcp/connectors/com.kema-studio/invoice)
   🔐 - Compliant French e-invoicing for freelancers: create, issue, certify and track invoices, quotes and deposits.
+- [Knoww](https://knoww.app) `https://mcp.knoww.app/mcp`
+  [![Knoww MCP connector](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww/badges/score.svg)](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww)
+  🔐 - Read-only Polymarket search, market details, order books, price history, and interactive market cards.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
