@@ -85,6 +85,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 📊 - [Data Visualization](#data-visualization)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🛒 - [E-Commerce](#e-commerce)
+* 🎓 - [Education](#education)
 * 🌳 - [Environment](#environment)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
@@ -560,6 +561,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+
+### 🎓 <a name="education"></a>Education
+
+- [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
+  [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
+  🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
 
 ### 🌳 <a name="environment"></a>Environment
 
