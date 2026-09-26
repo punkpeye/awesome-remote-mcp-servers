@@ -667,7 +667,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Crypto positioning plus the macro regime: funding, open interest, order-book depth, implied volatility, Fed rates.
 - [CurveCall](https://curvecall.onrender.com) `https://curvecall.onrender.com/mcp/`
   [![CurveCall MCP connector](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall)
-  🔓 - Trade quote + slippage, token snapshot, rug-risk scan, and a combined pre-trade check for AI agents; x402 v2 pay-per-call in USDC on Base, $0.001-$0.01, no signup. On the official MCP Registry as `io.github.arbonomous/curvecall`.
+  🔓 - Trade quote + slippage, token snapshot, rug-risk scan, and a combined pre-trade check for AI agents; x402 v2 pay-per-call in USDC on Base, $0.001-$0.02, no signup. On the official MCP Registry as `io.github.arbonomous/curvecall`.
 - [CVR Lookup](https://cvrlookup.dk/mcp) `https://cvrlookup.dk/api/mcp`
   [![CVR Lookup MCP connector](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup)
   🔓 - Danish company register: company lookup, name search, and annual-report financials; data tools need a free key.
