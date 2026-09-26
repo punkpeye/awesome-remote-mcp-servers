@@ -1111,6 +1111,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
+  [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
+  🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
