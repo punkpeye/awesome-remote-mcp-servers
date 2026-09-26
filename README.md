@@ -401,6 +401,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ADITUS Developer Portal MCP](https://developers.aditus.com/mcp) `https://developers.aditus.com/api/mcp`
   [![ADITUS Developer Portal MCP connector](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal/badges/score.svg)](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal)
   🔓 - Search and read the ADITUS event-technology API docs (ticketing, access, BI) and Shop Micro Frontend guides.
+- [Agent^Rider](https://agentrider.fly.dev) `https://agentrider.fly.dev/api/mcp`
+  [![Agent^Rider MCP connector](https://glama.ai/mcp/connectors/io.github.ceedot-rock/agent-rider/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ceedot-rock/agent-rider)
+  🔓 - Signed agent identity, trust scoring, and pay-per-call tools for AI agents. Free to connect.
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Give AI agents a field guide to building better agents, with design patterns, tradeoffs, and decision guidance.
