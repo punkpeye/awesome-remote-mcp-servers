@@ -451,6 +451,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink the agent prompt, fail a forbidden import without calling a model, review the PR. Zero data retention. Not a token compressor.
+- [Hooklistener](https://www.hooklistener.com/mcp) `https://app.hooklistener.com/api/mcp`
+  [![Hooklistener MCP connector](https://glama.ai/mcp/connectors/com.hooklistener/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hooklistener/mcp)
+  🔐 - Create webhook URLs, wait for and verify webhooks, replay them to localhost, and test emails and WebSocket clients.
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Let AI agents capture live website screenshots, render HTML/CSS, and create templated graphics as images or PDFs - without managing a browser.
