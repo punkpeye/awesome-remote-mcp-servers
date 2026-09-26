@@ -515,6 +515,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolForte](https://toolforte.com/mcp) `https://toolforte.com/api/mcp`
   [![ToolForte MCP connector](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte)
   🔓 - Exact IBAN/VAT/BSN checks, Dutch tax and dates, cron, regex, conversions, PDF/screenshot rendering, memory, workflows.
+- [TuringCorp Decider](https://mcp.turingcorp.net/) `https://mcp.turingcorp.net/mcp`
+  [![TuringCorp Decider MCP connector](https://glama.ai/mcp/connectors/net.turingcorp.mcp/decider/badges/score.svg)](https://glama.ai/mcp/connectors/net.turingcorp.mcp/decider)
+  🔑 - Judge which of two defensible options is better, returning the pick, a calibrated confidence, and the reason.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
