@@ -472,6 +472,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - A frontier panel for your agent: Ask Claude, GPT, Grok, and more. Get their independent responses *and* reactions to each other. See what they agree with, challenge, or want to explore further — in their own words. For architecture, plan/spec review, and strategy.
+- [NAIF Gravity](https://naifgravity.com/?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=agent_discovery) `https://naifgravity.com/mcp`
+  [![NAIF Gravity MCP connector](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph)
+  🔓 - Diagnose MCP, x402, API auth and webhook failures, then request bounded repair through the existing NAIF service.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
