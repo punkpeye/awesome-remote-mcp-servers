@@ -770,6 +770,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
   [![StackEasy MCP connector](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards)
   🔐 - Read-only view of your credit cards: balances, utilization, best card for a purchase and missed rewards.
+- [Stobox](https://www.stobox.io/mcp) `https://mcp.stobox.io/mcp`
+  [![Stobox MCP connector](https://glama.ai/mcp/connectors/io.stobox/intelligence-graph/badges/score.svg)](https://glama.ai/mcp/connectors/io.stobox/intelligence-graph)
+  🔓 - Source-linked RWA tokenization knowledge: regulation, standards, terms, and a fact check that corrects wrong claims.
 - [Stocks On Chain](https://stocksonchain.io) `https://stocksonchain.io/mcp`
   [![Stocks On Chain MCP connector](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain/badges/score.svg)](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain)
   🔓 - Tokenized listed stocks by chain and issuer, with contract addresses and on-chain corporate actions.
