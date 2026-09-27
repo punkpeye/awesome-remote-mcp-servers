@@ -136,6 +136,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and OpenAI-compatible chat completions.
+- [Lodestone](https://lodestone.studiocorsair.com) `https://lodestone.studiocorsair.com/mcp`
+  [![Lodestone MCP connector](https://glama.ai/mcp/connectors/com.studiocorsair/lodestone/badges/score.svg)](https://glama.ai/mcp/connectors/com.studiocorsair/lodestone)
+  🔐 - Message on WhatsApp or Telegram, use any IMAP inbox, search Airbnb, Amazon, flights and Reddit, and run Meta Ads.
 - [mcp.market](https://mcp.market) `https://gw.mcp.market/mcp`
   [![mcp.market gateway MCP connector](https://glama.ai/mcp/connectors/market.mcp/gateway/badges/score.svg)](https://glama.ai/mcp/connectors/market.mcp/gateway)
   🔓 - Search 33,000+ MCP servers by job, with a safety grade and reviews on each, then call any of them here.
