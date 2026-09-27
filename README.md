@@ -604,6 +604,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - List, upload, download, and share files in S3, R2, B2, Wasabi, and Spaces buckets, scoped by delegated roles.
 
 ### 💰 <a name="finance"></a>Finance
+- [XAF Shadow Node](https://github.com/chengganping-ship-it/xaf-shadow-node) `https://xaf-shadow-node.chengganping.workers.dev/mcp`
+  [![XAF Shadow Node MCP connector](https://glama.ai/mcp/connectors/io.github.chengganping-ship-it/xaf-shadow-node/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chengganping-ship-it/xaf-shadow-node)
 - [100pro Token Risk Screen](https://x402.rendraputra.dev/llms.txt) `https://x402.rendraputra.dev/mcp`
   [![100pro Token Risk Screen MCP connector](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk)
   🔓 - Pre-trade risk screen for EVM and Solana tokens: honeypots, LP lock, holders; $0.05 via x402.
