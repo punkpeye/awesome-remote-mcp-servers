@@ -1045,6 +1045,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NumberBroom](https://numberbroom.com/mcp-server) `https://numberbroom.com/mcp`
   [![NumberBroom MCP connector](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp)
   🔓 - Check a US phone's line type, carrier and TCPA litigator status before dialing; tools need a prepaid key.
+- [Opus Growth](https://opus-growth.com) `https://mcp.opus-growth.com/mcp`
+  [![Opus Growth MCP connector](https://glama.ai/mcp/connectors/io.github.opusgrowth/ads-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.opusgrowth/ads-mcp)
+  🔐 - Manage Google, Meta, Microsoft, TikTok and LinkedIn Ads from chat, plus Search Console, GA4 and GTM data.
 - [Plainrouter Sandbox](https://plainrouter.com/docs/mcp/setup) `https://plainrouter.com/mcp/sandbox`
   [![Plainrouter Sandbox MCP connector](https://glama.ai/mcp/connectors/com.plainrouter/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainrouter/mcp)
   🔓 - Test Meta advertising account, signal-health, and performance tools with synthetic data.
