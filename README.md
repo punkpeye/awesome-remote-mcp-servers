@@ -1185,6 +1185,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [x402 Preflight](https://x402.chikocorp.com) `https://x402.chikocorp.com/mcp`
   [![x402 Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight)
   🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
+- [x402 Tools](https://github.com/foxxx009/x402-tools-mcp) `https://fitze-x402-seller.app.workbuddy.host/mcp`
+  🔓 - Pay-per-call research and data tools (GitHub metadata, web fetch, domain and token intelligence) metered in USDC on Base over x402; no API keys or subscriptions.
 
 ### 📋 <a name="project-management"></a>Project Management
 
