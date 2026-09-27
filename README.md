@@ -1500,6 +1500,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EOSL.ai](https://eosl.ai/mcp/) `https://eosl.ai/mcp`
   [![EOSL.ai MCP connector](https://glama.ai/mcp/connectors/ai.eosl/eosl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eosl/eosl)
   🔓 - Hardware end-of-life lookups by part number, backed by vendor bulletins.
+- [Fieldproxy](https://www.fieldproxy.ai/mcp) `https://api-us-east-1.fieldproxy.ai/mcp`
+  [![Fieldproxy MCP connector](https://glama.ai/mcp/connectors/io.github.Fieldproxy/fieldproxy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fieldproxy/fieldproxy-mcp)
+  🔐 - Run field service jobs, dispatch, invoices and quotes, and build new screens, with a person confirming each change.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
 - [ORYKSA AI Employees](https://mcp.oryksa.com) `https://mcp.oryksa.com`
