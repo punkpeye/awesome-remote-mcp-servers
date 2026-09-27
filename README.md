@@ -293,6 +293,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
+- [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
+  [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
+  🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
