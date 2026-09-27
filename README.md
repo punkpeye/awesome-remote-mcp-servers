@@ -555,6 +555,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Shop fashion: break an outfit photo into items, get in-stock looks for an occasion and check out.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [Shurq](https://shurq.com/mcp) `https://mcp.shurq.com/mcp`
+  [![Shurq MCP connector](https://glama.ai/mcp/connectors/com.shurq/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.shurq/mcp)
+  🔐 - Amazon seller analytics and PPC automation: true profit per product, bids, budgets and keywords.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
