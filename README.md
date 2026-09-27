@@ -323,7 +323,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish Markdown or HTML as a hosted page and get a shareable link.
 - [Foliade](https://foliade.gekkode.com/en/) `https://foliade.gekkode.com/mcp`
   [![Foliade MCP connector](https://glama.ai/mcp/connectors/com.gekkode/foliade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gekkode/foliade)
-  🔐 - Turn a PDF into a mobile flipbook catalogue, customise its reader and publish it.
+  🔓 - Turn a PDF into a mobile flipbook catalogue, customise its reader and publish it.
 - [Foliyo](https://foliyo.io) `https://foliyo.io/mcp`
   [![Foliyo MCP connector](https://glama.ai/mcp/connectors/io.foliyo/foliyo/badges/score.svg)](https://glama.ai/mcp/connectors/io.foliyo/foliyo)
   🔐 - Create, brand, publish and track client-ready reports, proposals and research pages.
