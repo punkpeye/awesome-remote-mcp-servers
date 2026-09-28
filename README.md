@@ -295,6 +295,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Sessy](https://sessy.do/docs/mcp) `https://api.sessy.do/mcp`
+  [![Sessy MCP connector](https://glama.ai/mcp/connectors/io.github.marckohlbrugge/sessy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marckohlbrugge/sessy)
+  🔑 - Read-only Amazon SES observability: search events, inspect bounces and complaints, and pull delivery stats.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
