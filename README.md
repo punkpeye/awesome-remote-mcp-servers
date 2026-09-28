@@ -130,6 +130,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
+- [GenMagic](https://genmagic.co/developers?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=hosted-mcp-sep-2026) `https://genmagic.co/api/mcp`
+  [![GenMagic MCP connector](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic)
+  🔓 - Generate text, images, speech, music, and video from one prepaid balance, with optional brand personalization; tool discovery is open, generation calls need a GenMagic API key.
 - [Glasser](https://glasser.ai) `https://api.glasser.ai/mcp`
   [![Glasser MCP connector](https://glama.ai/mcp/connectors/ai.glasser/glasser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.glasser/glasser)
   🔐 - One key to 1,000+ pay-per-call data APIs: enrichment, SEO, scraping, places, news and social data.
