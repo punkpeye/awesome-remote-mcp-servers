@@ -1252,6 +1252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🚗 <a name="sales"></a>Sales
 
+- [Omentir](https://omentir.com) `https://omentir.com/api/agent/v1/mcp`
+  [![Omentir MCP connector](https://glama.ai/mcp/connectors/io.github.vanshyadav1408/omentir/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vanshyadav1408/omentir)
+  🔐 - Find and score LinkedIn prospects, draft outreach, run human-paced campaigns, and answer replies.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
