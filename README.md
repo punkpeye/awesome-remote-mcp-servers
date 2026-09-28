@@ -353,6 +353,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Wix](https://wix.com) `https://mcp.wix.com/mcp`
   [![Wix MCP connector](https://glama.ai/mcp/connectors/com.wix/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wix/mcp)
   🔐 - Manage Wix sites, business data, and bookings.
+- [TeamAgent Canvas](https://github.com/AvatarGaia/canvas-mcp)  `https://agent.avatargaia.top/api/mcp/canvas`
 
 ### 👤 <a name="crm"></a>CRM
 - [Data Parrot](https://dataparrot.ai) `https://api-v3.dataparrot.ai/api/v3/data-parrot/mcp`
