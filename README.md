@@ -924,6 +924,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
+- [Patricia](https://www.patricia.app/mcp) `https://api.patricia.app/v1/mcp`
+  [![Patricia MCP connector](https://glama.ai/mcp/connectors/app.patricia.api/patricia/badges/score.svg)](https://glama.ai/mcp/connectors/app.patricia.api/patricia)
+  🔐 - Search a team's Patricia memory and files, read its connected tools, and hand tasks to Patricia with approvals.
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
