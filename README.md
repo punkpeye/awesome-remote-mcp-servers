@@ -1045,6 +1045,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NumberBroom](https://numberbroom.com/mcp-server) `https://numberbroom.com/mcp`
   [![NumberBroom MCP connector](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp)
   🔓 - Check a US phone's line type, carrier and TCPA litigator status before dialing; tools need a prepaid key.
+- [OutSend](https://outsend.xyz) `https://outsend.xyz/mcp`
+  [![OutSend MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/xyz.outsend/out-send/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.outsend/out-send)
+  🔐 - Find and enrich local businesses (emails, socials, reviews) and run B2B lead pipelines.
 - [Plainrouter Sandbox](https://plainrouter.com/docs/mcp/setup) `https://plainrouter.com/mcp/sandbox`
   [![Plainrouter Sandbox MCP connector](https://glama.ai/mcp/connectors/com.plainrouter/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainrouter/mcp)
   🔓 - Test Meta advertising account, signal-health, and performance tools with synthetic data.
