@@ -1021,7 +1021,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [iMario](https://imario.ai) `https://mcp.imario.ai/mcp`
   [![iMario MCP connector](https://glama.ai/mcp/connectors/ai.imario/imario/badges/score.svg)](https://glama.ai/mcp/connectors/ai.imario/imario)
-  🔐 - Ask a modelled audience how they react to copy, pages, prices and images, and get counted answers and quotes.
+  🔐 - Ask synthetic audiences built from real people how they react to copy, pages, prices and images.
 
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
