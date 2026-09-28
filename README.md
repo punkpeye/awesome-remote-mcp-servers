@@ -739,6 +739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Open Economics](https://open-economics-data.knbf982hkn.chatgpt.site/en/mcp) `https://open-economics-data.knbf982hkn.chatgpt.site/api/mcp`
   [![Open Economics MCP connector](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics)
   🔓 - Find and query official Brazilian economic data with provenance.
+- [OpenSwissData](https://www.openswissdata.com/en/mcp) `https://mcp.openswissdata.com/jsonrpc`
+  [![OpenSwissData MCP connector](https://glama.ai/mcp/connectors/io.github.cammac-creator/openswissdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cammac-creator/openswissdata)
+  🔓 - Swiss customs tariff lines (TARES), FINMA register and warning list, NOGA/NACE/ISIC crosswalks; 3 tools need no key.
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
