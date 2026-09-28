@@ -1634,6 +1634,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
+- [Telesherpa](https://www.telesherpa.com) `https://mcp.telesherpa.com/mcp`
+  [![Telesherpa MCP connector](https://glama.ai/mcp/connectors/com.telesherpa/ontology-platform/badges/score.svg)](https://glama.ai/mcp/connectors/com.telesherpa/ontology-platform)
+  🔐 - Ontology platform for facility management (CAFM/IWMS) and field service: object types, relations, forms and rules; also usable as a lightweight ERP/CRM. Agents can self-register without a browser.
 - [wals.pro AI 4 weclapp](https://ai.wals.pro) `https://mcp.ai.wals.pro/v1/mcp`
   [![wals.pro AI 4 weclapp MCP connector](https://glama.ai/mcp/connectors/pro.wals.ai/weclapp/badges/score.svg)](https://glama.ai/mcp/connectors/pro.wals.ai/weclapp)
   🔐 - weclapp ERP: quotes, orders, invoices, stock and master data, with every write previewed and approved.
