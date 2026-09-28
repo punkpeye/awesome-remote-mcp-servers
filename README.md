@@ -1434,6 +1434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
+- [FastSocial Instagram Data](https://fastsocial.co/instagram-api) `https://data.fastsocial.co/mcp`
+  [![FastSocial Instagram Data MCP connector](https://glama.ai/mcp/connectors/io.github.FastSocialCo/instagram-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FastSocialCo/instagram-data-mcp)
+  🔐 - Read-only public Instagram data: profiles, posts, reels, stories, comments, hashtags and search.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
