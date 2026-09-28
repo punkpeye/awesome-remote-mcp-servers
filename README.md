@@ -1252,6 +1252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🚗 <a name="sales"></a>Sales
 
+- [Lead Radar](https://lead-radar.fr/developers) `https://lead-radar.fr/api/mcp`
+  [![Lead Radar MCP connector](https://glama.ai/mcp/connectors/fr.lead-radar/lead-radar/badges/score.svg)](https://glama.ai/mcp/connectors/fr.lead-radar/lead-radar)
+  🔐 - Find local businesses by keyword and area from Google Maps data, deduplicate them and enrich contact emails.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
