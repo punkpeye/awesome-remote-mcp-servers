@@ -1519,6 +1519,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
   [![WhichTrim MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
   🔓 - US vehicle recalls, complaints, fuel economy, crash ratings, VIN decoding and OBD-II codes.
+- [0523 Public](https://0523.tw/mcp/public) `https://0523.tw/mcp/public`
+  [![0523 Public MCP connector](https://glama.ai/mcp/connectors/tw.0523/lucky-public/badges/score.svg)](https://glama.ai/mcp/connectors/tw.0523/lucky-public)
+  🔓 - China-to-Taiwan parcel freight and import-tax quotes, plus Taiwan CCC tariff and import-rule lookup.
 - [AirFreightPrice](https://airfreightprice.com) `https://mcp.airfreightprice.com/mcp`
   [![AirFreightPrice MCP connector](https://glama.ai/mcp/connectors/com.airfreightprice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.airfreightprice/mcp)
   🔓 - Air cargo routes, airports and carriers with dated Freightos Air Index rates; submit quote requests.
