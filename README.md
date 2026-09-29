@@ -1706,7 +1706,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
 - [Outreach2day](https://outreach2day.com/mcp) `https://public.outreach2day.com/mcp`
   [![Outreach2day MCP connector](https://glama.ai/mcp/connectors/com.outreach2day/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.outreach2day/mcp)
-  🔑 - Check and buy domains, create cold email mailboxes, run warm-up and campaigns, read replies.
+  🔐 - Check and buy domains, create cold email mailboxes, run warm-up and campaigns, read replies.
 - [Peak Answer](https://peakanswer.com) `https://peakanswer.com/api/mcp`
   [![Peak Answer MCP connector](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer/badges/score.svg)](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer)
   🔐 - Whether AI search recommends your brand, which buying questions competitors win, and the technical faults stopping engines reading you.
