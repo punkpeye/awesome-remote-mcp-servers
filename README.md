@@ -1416,6 +1416,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
   [![Site Passport MCP connector](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness)
   🔓 - Check whether AI agents can safely operate a WordPress site: llms.txt, robots.txt and schema.org.
+- [Sitelemetry](https://sitelemetry.com/mcp-guide) `https://sitelemetry.com/mcp`
+  [![Sitelemetry MCP connector](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry)
+  🔐 - Audit sites you own for security, SEO, AI readiness, accessibility, performance and integrations.
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
