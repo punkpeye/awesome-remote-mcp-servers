@@ -1403,6 +1403,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [PromptBrake Free Tools](https://promptbrake.com/free-tools) `https://promptbrake.com/free-tools/mcp`
+  [![PromptBrake Free Tools MCP connector](https://glama.ai/mcp/connectors/io.github.AJ888/promptbrake-free-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AJ888/promptbrake-free-tools)
+  🔓 - Prompt-injection payloads, OWASP LLM risk guidance, release planning, and CI test-pack creation.
 - [Promptguard](https://mcp.glc-rag.hu/guide/promptguard) `https://mcp.glc-rag.hu/mcp`
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
