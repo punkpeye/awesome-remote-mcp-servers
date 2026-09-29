@@ -1543,7 +1543,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
   [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
   🔐 - Live Google Flights fares with a price verdict, round trips, date ranges and destination lists.
-- [FlyBest](https://flybest.org) `https://ai.flybest.org/mcp`
+- [FlyBest](https://flybest.org/en/ai/) `https://ai.flybest.org/mcp`
   [![FlyBest MCP connector](https://glama.ai/mcp/connectors/org.flybest.ai/fly-best-ai-travel-luxury-hotels-with-perks/badges/score.svg)](https://glama.ai/mcp/connectors/org.flybest.ai/fly-best-ai-travel-luxury-hotels-with-perks)
   🔐 - Live hotel rates with travel-advisor benefits (breakfast, credit, upgrade) and a one-time payment page to book.
 - [FrontDesko](https://frontdesko.app) `https://mcp.frontdesko.app/mcp`
