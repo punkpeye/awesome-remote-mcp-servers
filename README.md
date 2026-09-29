@@ -857,6 +857,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [Biohacking Kompakt](https://biohackingkompakt.de) `https://mcp.biohackingkompakt.de/mcp`
+  [![Biohacking Kompakt MCP connector](https://glama.ai/mcp/connectors/de.biohackingkompakt/biohacking-kompakt/badges/score.svg)](https://glama.ai/mcp/connectors/de.biohackingkompakt/biohacking-kompakt)
+  🔓 - Evidence ratings for 340+ supplements, peptides and longevity methods, with study sources and podcast (German).
 - [Blocks](https://blocks.zone/ai) `https://blocks.zone/api/mcp`
   [![Blocks MCP connector](https://glama.ai/mcp/connectors/zone.blocks/blocks/badges/score.svg)](https://glama.ai/mcp/connectors/zone.blocks/blocks)
   🔐 - Plan and review cycling and running: training calendar, synced rides, sleep and HRV.
