@@ -169,6 +169,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [Assinafy](https://www.assinafy.com.br/api) `https://mcp.assinafy.com.br/mcp`
+  [![Assinafy MCP connector](https://glama.ai/mcp/connectors/br.com.assinafy.mcp/assinafy-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.assinafy.mcp/assinafy-mcp-server)
+  🔓🔐 - Send documents for legally valid e-signature in Brazil, track signers and status, and download signed files.
 - [Countersignatory](https://countersignatory.com) `https://countersignatory.com/mcp`
   [![Countersignatory MCP connector](https://glama.ai/mcp/connectors/com.countersignatory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.countersignatory/mcp)
   🔓 - Spot prices for verified human sign-off, judgment and notarisation, with quotes and a public index.
