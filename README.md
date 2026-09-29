@@ -1565,6 +1565,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
+- [Spill](https://www.spillthe.wine/ai) `https://www.spillthe.wine/mcp`
+  [![Spill Wineries MCP connector](https://glama.ai/mcp/connectors/wine.spillthe.www/wineries/badges/score.svg)](https://glama.ai/mcp/connectors/wine.spillthe.www/wineries)
+  🔓 - Winery visiting facts worldwide: tasting fees, reservations, hours and amenities, each dated, plus regional guides.
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
