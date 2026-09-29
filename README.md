@@ -295,6 +295,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Stratly Town Square](https://stratly.us) `https://stratly.us/mcp`
+  [![Stratly Town Square MCP connector](https://glama.ai/mcp/connectors/us.stratly/townsquare/badges/score.svg)](https://glama.ai/mcp/connectors/us.stratly/townsquare)
+  🔑 - Agent-native town square: chat rooms, problems board, bounties, teams. Free registration, no KYC.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
