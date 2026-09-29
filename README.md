@@ -200,6 +200,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BestRobotMower](https://bestrobotmower.co/dataset) `https://bestrobotmower.co/api/mcp`
   [![BestRobotMower MCP connector](https://glama.ai/mcp/connectors/io.github.yumaheymans/bestrobotmower-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yumaheymans/bestrobotmower-mcp)
   🔓 - Specs, prices, scores and yard-size picks for 23 robot lawn mowers from an open CC BY 4.0 dataset.
+- [BNM Data Shop](https://ticks.bnm.farm/) `https://ticks.bnm.farm/mcp`
+  [![BNM Data Shop MCP connector](https://glama.ai/mcp/connectors/io.github.bnmbnmai/bnm-data-shop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnmbnmai/bnm-data-shop)
+  🔓 - Official public-data caches sold per pull in USDC on Base via x402.
 - [upCampo](https://suporte.upcampo.com.br/mcp/) `https://mcp.upcampo.com.br/mcp`
   [![upCampo MCP connector](https://glama.ai/mcp/connectors/br.com.upcampo/upi/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.upcampo/upi)
   🔐 - Farm management for Brazil: pest scouting, work orders, inventory, fleet and cost per field.
