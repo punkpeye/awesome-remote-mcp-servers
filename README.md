@@ -1434,6 +1434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
+- [Algrow](https://algrow.online/docs/mcp) `https://mcp.algrow.online/mcp`
+  [![Algrow MCP connector](https://glama.ai/mcp/connectors/online.algrow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/online.algrow/mcp)
+  🔐 - Search YouTube channels and viral videos, read channel analytics and transcripts, make thumbnails and voiceovers.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
