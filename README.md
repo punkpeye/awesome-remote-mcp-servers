@@ -744,6 +744,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [PublicAML](https://publicaml.org/mcp/) `https://mcp.publicaml.org/mcp`
+  [![PublicAML MCP connector](https://glama.ai/mcp/connectors/io.github.saloprj/publicaml/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.saloprj/publicaml)
+  🔓 - Free crypto AML screening: sanctions, hack and scam exposure, fund tracing for BTC, ETH, BNB Chain and TRON.
 - [Qotien](https://qotien.fr) `https://app.qotien.fr/api/fiscal/v1/mcp`
   [![Qotien MCP connector](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement)
   🔓 - French income tax, IFI, PER and 32 pension schemes, sourced to primary law and dated; x402 pay-per-call.
