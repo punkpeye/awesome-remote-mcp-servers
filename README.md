@@ -284,6 +284,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
+  [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
+  🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Make and take real phone calls.
