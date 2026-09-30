@@ -806,6 +806,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Undesirables TCG Oracle](https://the-undesirables.com) `https://mcp.the-undesirables.com/mcp`
   [![The Undesirables TCG Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server)
   🔓 - On-chain oracle for 456K+ trading cards: prices, forecasts, AI grading; free reads, paid via x402.
+- [TNT House Risk-Data API](https://tnt-audit.com/risk-api) `https://tnt-audit.com/api/mcp`
+  [![TNT House Risk-Data API MCP connector](https://glama.ai/mcp/connectors/io.github.menantonio83-hue/tnt-house-risk-data-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.menantonio83-hue/tnt-house-risk-data-api)
+  🔓 - Solana token risk scoring for AI trading agents: 0-100 safety score, provable on-chain insider wallet cluster detection (shared first-funder tracing, not a heuristic), mint/freeze authority status, holder concentration, live price/liquidity/volume. Batch endpoint for up to 25 mints per call. Free tier (15 req/day, no card), pay-per-call and subscription billing via Solana Pay. Remote MCP at `https://tnt-audit.com/api/mcp` (Authorization: Bearer <API key>, get a free key at tnt-audit.com/risk-api).
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
