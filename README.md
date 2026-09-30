@@ -563,6 +563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand: profit analytics, PPC, inventory forecasting, listings and staged approvals.
+- [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
+  [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
+  🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
