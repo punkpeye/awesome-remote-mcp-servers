@@ -258,6 +258,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
+- [AgentDomains](https://agentdomains.co) `https://mcp.agentdomains.co`
+  🔓 - Free domains under makes.fyi or agentdomains.co for the sites and APIs AI agents build: claim a name, manage DNS records, forward, or proxy over HTTPS.
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
