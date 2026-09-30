@@ -376,9 +376,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Wix sites, business data, and bookings.
 
 ### 👤 <a name="crm"></a>CRM
-- [Anvil CRM](https://anvilcrm.com/mcp-crm) `https://app.anvilcrm.com/api/mcp`
+- [Anvil CRM](https://anvilcrm.com) `https://app.anvilcrm.com/api/mcp`
   [![Anvil CRM MCP connector](https://glama.ai/mcp/connectors/com.anvilcrm/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.anvilcrm/crm)
-  🔐 - Search, read, and update accounts, contacts, deals, pipelines, and activities in Anvil CRM.
+  🔐 - Agentic AI CRM for small business: search, update and forecast accounts, contacts, deals and pipelines.
 - [Data Parrot](https://dataparrot.ai) `https://api-v3.dataparrot.ai/api/v3/data-parrot/mcp`
   [![Data Parrot MCP connector](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot)
   🔐 - AI revenue analysis of your HubSpot data.
