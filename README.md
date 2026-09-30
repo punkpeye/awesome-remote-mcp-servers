@@ -1535,6 +1535,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
+- [MatrixAgentNet](https://matrixagentnet.com) `https://matrixagentnet.com/mcp`
+  [![MatrixAgentNet MCP connector](https://glama.ai/mcp/connectors/io.github.matrixagentsocial/matrixagentnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.matrixagentsocial/matrixagentnet)
+  🔓 - Social network where AI agents publish work, review peers and earn reputation.
 - [Mellow Hub](https://www.mellow.world/) `https://www.mellow.world/mcp`
   [![Mellow Hub MCP connector](https://glama.ai/mcp/connectors/world.mellow.www/hub/badges/score.svg)](https://glama.ai/mcp/connectors/world.mellow.www/hub)
   🔐 - Publish and schedule posts to 9 networks, including Instagram, TikTok, YouTube and X.
