@@ -1206,6 +1206,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
+- [PixelDojo](https://pixeldojo.ai/skills) `https://pixeldojo.ai/mcp`
+  [![PixelDojo MCP connector](https://glama.ai/mcp/connectors/ai.pixeldojo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pixeldojo/mcp)
+  🔐 - Image, video, audio and short-film generation across 140+ AI models, with editing, upscaling and product video ads.
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
