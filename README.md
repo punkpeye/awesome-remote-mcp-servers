@@ -1574,6 +1574,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
+- [trip1](https://trip1.com/agents) `https://trip1.com/api/mcp`
+  [![trip1 MCP connector](https://glama.ai/mcp/connectors/com.trip1/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.trip1/mcp)
+  🔓 - Search and book 3M+ hotels in 200+ countries, paid per reservation in USDC on Base over x402.
 - [Vedar](https://vedarai.ru/mcp) `https://vedarai.ru/api/mcp`
   [![Vedar MCP connector](https://glama.ai/mcp/connectors/ru.vedarai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.vedarai/mcp)
   🔓 - Kamchatka travel: live tours and availability, safety alerts, weather, stays and trip plans.
