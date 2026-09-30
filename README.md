@@ -1341,6 +1341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [Hyperresearch](https://hyperresearch.ai/docs/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory) `https://mcp.hyperresearch.ai/mcp`
+  [![Hyperresearch MCP connector](https://glama.ai/mcp/connectors/ai.hyperresearch/hyperresearch/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hyperresearch/hyperresearch)
+  🔐 🔑 - Start cited deep-research runs, read the reports, search the kept sources and verify citations.
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
