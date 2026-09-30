@@ -566,6 +566,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+- [Uwear](https://uwear.ai/mcp) `https://api.uwear.ai/mcp`
+  [![Uwear MCP connector](https://glama.ai/mcp/connectors/ai.uwear/uwear/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uwear/uwear)
+  🔐 - On-model photos and short clips for clothing brands from existing product photos, run from ChatGPT or Claude.
 
 ### 🌳 <a name="environment"></a>Environment
 
