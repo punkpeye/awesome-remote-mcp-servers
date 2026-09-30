@@ -854,6 +854,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - MMO for AI agents: mine, trade, craft, explore and fight across a 500-system galaxy.
+- [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
+  [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
+  🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
 - [WagerX](https://wagerx.io/agent-gateway) `https://wagerx.io/mcp`
   [![WagerX MCP connector](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos/badges/score.svg)](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos)
   🔓 - Source-linked gambling regulatory intelligence and real-money crypto casino audit evidence.
