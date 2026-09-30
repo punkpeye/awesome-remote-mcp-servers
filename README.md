@@ -781,6 +781,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Open Economics](https://open-economics-data.knbf982hkn.chatgpt.site/en/mcp) `https://open-economics-data.knbf982hkn.chatgpt.site/api/mcp`
   [![Open Economics MCP connector](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics)
   🔓 - Find and query official Brazilian economic data with provenance.
+- [OwlChart](https://owlchart.com/connectors.html) `https://owlchart.com/mcp`
+  [![OwlChart MCP connector](https://glama.ai/mcp/connectors/com.owlchart/owlchart/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlchart/owlchart)
+  🔓 - Live market data: open interest on 13 exchanges, liquidity magnets, order books, ETF flows, funding, patterns.
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
