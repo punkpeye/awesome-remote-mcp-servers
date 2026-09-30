@@ -1320,6 +1320,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [Kamai](https://kamai.io/developers/mcp) `https://mcp.kamai.io/mcp`
+  [![Kamai MCP connector](https://glama.ai/mcp/connectors/io.kamai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.kamai/mcp)
+  🔐 - Construction blueprint takeoff: rooms, walls, doors, windows, areas and counts from PDF plans.
 - [Kolmo Construction](https://www.kolmo.io/developers) `https://www.kolmo.io/mcp`
   [![Kolmo Construction MCP connector](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction/badges/score.svg)](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction)
   🔓 - WA permit rules for 80+ cities, parcel zoning, contractor license checks and Seattle cost estimates.
