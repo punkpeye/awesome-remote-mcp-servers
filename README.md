@@ -837,6 +837,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
 
+- [Zovo Price Tracker](https://mcp.zovo.one/s/price-tracker) `https://mcp.zovo.one/mcp/price-tracker`
+  [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker)
+  🔓 - Watch shop prices over time from chat: snapshot pages, track a watch list, and get target alerts, with history kept locally.
+
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
 - [Agent Chef](https://agentchef.net) `https://agentchef.net/mcp`
