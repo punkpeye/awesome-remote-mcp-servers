@@ -428,6 +428,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [Arc](https://uiarc.dev) `https://uiarc.dev/api/mcp`
+  [![Arc MCP connector](https://glama.ai/mcp/connectors/dev.uiarc/arc/badges/score.svg)](https://glama.ai/mcp/connectors/dev.uiarc/arc)
+  🔓 - Search Arc's React components and blocks, read their docs, props and examples, and get shadcn install commands.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
