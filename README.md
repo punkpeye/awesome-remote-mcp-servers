@@ -569,6 +569,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
+- [Clickwise](https://partners.clickwise.net/developers/) `https://partners.clickwise.net/api/v1/mcp`
+  [![Clickwise MCP connector](https://glama.ai/mcp/connectors/net.clickwise/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.clickwise/mcp)
+  🔓 - Find affiliate programs, mint tracked links and browse deals; a free key adds 1.1M+ GTIN products with your links.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
