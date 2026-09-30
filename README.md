@@ -642,6 +642,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Pre-trade risk screen for EVM and Solana tokens: honeypots, LP lock, holders; $0.05 via x402.
 
 
+- [47620 Data API](https://47620.xyz/agents) `https://47620.xyz/mcp`
+  [![47620 Data API MCP connector](https://glama.ai/mcp/connectors/xyz.47620/solana-data/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.47620/solana-data)
+  🔓 - Pay-per-call data over x402 on Solana, Base and Polygon: token price/liquidity, balances, txs, trending pairs, live crypto market data (OHLCV, RSI/EMA) and unit/JWT utilities.
+
+
 - [Aave](https://aave.com) `https://mcp.aave.com`
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
   🔓 - Aave V3 and V4 markets, rates, wallet positions, governance and non-custodial transaction building.
