@@ -434,6 +434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read your team's delivery metrics and standards, and check a change against them before a PR.
 - [DeepWiki](https://deepwiki.com) `https://mcp.deepwiki.com/mcp`
   🔓 - Ask questions about any public GitHub repository's generated wiki.
+- [Duo Data Utilities](https://api.duoleads.com/docs) `https://api.duoleads.com/mcp`
+  [![Duo Data Utilities MCP connector](https://glama.ai/mcp/connectors/com.duoleads.api/data-utilities/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.api/data-utilities)
+  🔓 - 33 deterministic data tools: ID/IBAN check digits, time zones, text, URL/JWT parsing, geo; $0.05 per call via x402.
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
   [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
   🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
