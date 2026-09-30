@@ -875,6 +875,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
+- [AvianSuite](https://aviansuite.com/docs/mcp/) `https://mcp.aviansuite.com/mcp`
+  [![AvianSuite MCP connector](https://glama.ai/mcp/connectors/com.aviansuite/stellar-jay/badges/score.svg)](https://glama.ai/mcp/connectors/com.aviansuite/stellar-jay)
+  🔐 🔑 - Safe write access for AI agents: record, correct and retract business facts; every change is kept, attributed to the agent that made it, and can be undone with `undo_changes`.
 - [Bilg](https://app.bilgai.com/docs/connect?ref=mcp-directory) `https://mcp.bilgai.com/mcp`
   [![Bilg MCP connector](https://glama.ai/mcp/connectors/com.bilgai/bilg/badges/score.svg)](https://glama.ai/mcp/connectors/com.bilgai/bilg)
   🔐 - Shared memory for coding agents and their teams: search docs, read and write epics, tasks and decisions.
