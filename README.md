@@ -238,6 +238,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScoreLook](https://scorelook.fr/scorelook-mcp) `https://scorelook.fr/mcp`
   [![ScoreLook MCP connector](https://glama.ai/mcp/connectors/fr.scorelook/capucine/badges/score.svg)](https://glama.ai/mcp/connectors/fr.scorelook/capucine)
   🔓 - French AI stylist: sourced outfit answers, piece hubs, shopping criteria and weather looks.
+- [three.ws 3D Studio](https://three.ws/docs/mcp-studio) `https://three.ws/api/mcp-studio`
+  [![three.ws 3D Studio MCP connector](https://glama.ai/mcp/connectors/io.github.nirholas/threews-3d-studio-free/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nirholas/threews-3d-studio-free)
+  🔓 - Turn a text prompt or an image into a textured, rigged, downloadable 3D model (GLB).
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
