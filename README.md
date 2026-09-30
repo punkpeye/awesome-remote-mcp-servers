@@ -218,6 +218,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Logospell](https://logospell.com) `https://mcp.logospell.com/mcp`
+  [![Logospell MCP connector](https://glama.ai/mcp/connectors/com.logospell/logospell/badges/score.svg)](https://glama.ai/mcp/connectors/com.logospell/logospell)
+  🔑 - Generate cohesive image sets, transparent-background sets, and single illustrations for AI agents.
 - [Made Good Designs](https://madegooddesigns.com/inspiration/) `https://madegooddesigns.com/inspiration/mcp`
   🔓 - Search a curated gallery of typography and brand-design inspiration with colour palettes.
 - [Nano Studio Pro](https://nanostudiopro.com) `https://nanostudiopro.com/api/mcp`
