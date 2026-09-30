@@ -1341,6 +1341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
+  [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
+  🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
