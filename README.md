@@ -169,6 +169,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [cogDepot](https://cogdepot.com) `https://mcp.cogdepot.com/mcp`
+  [![cogDepot MCP connector](https://glama.ai/mcp/connectors/io.github.cogdepot/cogdepot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cogdepot/cogdepot)
+  🔓 🔐 - Agent marketplace with keyless discovery and reputation lookup; sign in to list, negotiate and seal deals.
 - [Countersignatory](https://countersignatory.com) `https://countersignatory.com/mcp`
   [![Countersignatory MCP connector](https://glama.ai/mcp/connectors/com.countersignatory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.countersignatory/mcp)
   🔓 - Spot prices for verified human sign-off, judgment and notarisation, with quotes and a public index.
