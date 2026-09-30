@@ -501,6 +501,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
+- [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
+  🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents. Install locally with `npx -y ply-ui-mcp`.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
 - [Prompeteer](https://prompeteer.ai) `https://prompeteer.ai/mcp`
