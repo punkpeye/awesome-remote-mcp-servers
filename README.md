@@ -1378,6 +1378,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
   [![Exa MCP connector](https://glama.ai/mcp/connectors/ai.exa/exa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exa/exa)
   🔓 - Neural web search that returns full page contents.
+- [FalcoScan](https://falcoscan.com/mcp) `https://falcoscan.com/api/mcp`
+  [![FalcoScan MCP connector](https://glama.ai/mcp/connectors/com.falcoscan/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.falcoscan/mcp)
+  🔑 - Search 7,000+ AI products across 29 markets, with market scores and shut-down and acquisition records.
 - [file2markdown](https://www.file2markdown.ai) `https://mcp.file2markdown.ai/mcp`
   [![file2markdown MCP connector](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown/badges/score.svg)](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown)
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
