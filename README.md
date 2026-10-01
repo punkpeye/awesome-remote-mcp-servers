@@ -1654,9 +1654,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Korea Nationwide Data MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp)
   🔓 - Korean tourist attractions in Korean and English, bus stops across 138 cities, and 30-year weather normals.
 
-- [Maxwell International Data](https://maxwellinternational.ai) `https://api.maxwellinternational.ai/mcp`
-  [![Maxwell International Data MCP connector](https://glama.ai/mcp/connectors/ai.maxwellinternational/data/badges/score.svg)](https://glama.ai/mcp/connectors/ai.maxwellinternational/data)
-  🔓 - Ski trip plans, lift-ticket prices and menus near resorts, plus company, legal and FDA records; pay per call via x402.
+- [Maxwell Directory](https://maxwellinternational.ai) `https://api.maxwellinternational.ai/mcp`
+  [![Maxwell Directory MCP connector](https://glama.ai/mcp/connectors/ai.maxwellinternational/data/badges/score.svg)](https://glama.ai/mcp/connectors/ai.maxwellinternational/data)
+  🔓 - Local providers worldwide (first-party listings), plus ski-trip and public data. Free search; paid answers via x402.
 - [MobilityMCP](https://ai.projektionisten.eu/mcp-landingpage/#mmcp) `https://ai.projektionisten.eu/mmcp`
   [![MobilityMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/mobility/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/mobility)
   🔐 - German public transport: journeys, departures, disruptions, and nearby stops and sharing vehicles.
