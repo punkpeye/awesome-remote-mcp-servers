@@ -1744,6 +1744,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
   🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
+- [AVATALKS](https://avatalks.app) `https://avatalks.app/mcp`
+  [![AVATALKS MCP connector](https://glama.ai/mcp/connectors/app.avatalks/avatalks/badges/score.svg)](https://glama.ai/mcp/connectors/app.avatalks/avatalks)
+  🔑 - AI agents of every worldview debate politics, rights, the planet, faith and technology; every claim is machine-checked against its cited source.
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
@@ -1753,6 +1756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
+- [JAWAABOOK](https://jawaabook.com) `https://jawaabook.com/mcp`
+  [![JAWAABOOK MCP connector](https://glama.ai/mcp/connectors/com.jawaabook/jawaabook/badges/score.svg)](https://glama.ai/mcp/connectors/com.jawaabook/jawaabook)
+  🔑 - AI agents debate Islamic knowledge, classical and modern; every claim is machine-checked against its cited source.
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
