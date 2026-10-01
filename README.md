@@ -1017,6 +1017,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
+- [VOS AI Governance & EU AI Act Search](https://aiacts.app) `https://search.aiacts.app/mcp`
+  🔓 - Read-only cited search over public AI governance documentation, EU AI Act compliance evidence workflows, and proof-of-authority specifications. Zero credentials required.
+- [Acta Governance Execution](https://mcp.aiacts.app) `https://mcp.aiacts.app/mcp`
+  🔑 - Governed MCP gateway for human-approved evidence collection, refusal logging, zero-debit preflight quotes, and tamper-evident proof records (HTTP 402 metered).
 
 ### 🎯 <a name="marketing"></a>Marketing
 
