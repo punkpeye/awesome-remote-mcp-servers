@@ -1011,6 +1011,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ⚖️ <a name="legal"></a>Legal
 
+- [Common Paper](https://commonpaper.com) `https://api.commonpaper.com/mcp`
+  [![Common Paper MCP connector](https://glama.ai/mcp/connectors/com.commonpaper/contracts/badges/score.svg)](https://glama.ai/mcp/connectors/com.commonpaper/contracts)
+  🔐 - Create agreements from standard templates, send them for signature, and track status and history.
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
