@@ -677,6 +677,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Beyond Payday](https://beyondpayday.com/mcp) `https://beyondpayday.com/api/mcp`
   [![Beyond Payday MCP connector](https://glama.ai/mcp/connectors/com.beyondpayday/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.beyondpayday/mcp)
   🔐 - Household finance planner: cash flow, net worth, bills, debts, savings goals and retirement projections.
+- [BlazePhoenix](https://blazephoenix.xyz) `https://blazephoenix.xyz/mcp`
+  [![BlazePhoenix MCP connector](https://glama.ai/mcp/connectors/xyz.blazephoenix/blaze-phoenix-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.blazephoenix/blaze-phoenix-mcp)
+  🔓 - Quotes and verified swap calldata for an on-chain DEX aggregator, computed on your own RPC.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
