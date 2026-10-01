@@ -1041,6 +1041,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [BacklinksWinkel](https://backlinkswinkel.nl/backlinks-voor-ai-agents/) `https://backlinkswinkel.nl/mcp`
+  [![BacklinksWinkel MCP connector](https://glama.ai/mcp/connectors/io.github.backlinkswinkel/backlinks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.backlinkswinkel/backlinks)
+  🔐 - Search 1,800+ Dutch websites by niche, language and Domain Rating, and order backlink placements from prepaid credit.
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
