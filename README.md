@@ -1119,6 +1119,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plainrouter Sandbox](https://plainrouter.com/docs/mcp/setup) `https://plainrouter.com/mcp/sandbox`
   [![Plainrouter Sandbox MCP connector](https://glama.ai/mcp/connectors/com.plainrouter/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainrouter/mcp)
   🔓 - Test Meta advertising account, signal-health, and performance tools with synthetic data.
+- [Qleerly](https://qleerly.ai) `https://qleerly.ai/mcp`
+  [![Qleerly MCP connector](https://glama.ai/mcp/connectors/ai.qleerly/qleerly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.qleerly/qleerly)
+  🔑 - Audit websites for AI search readiness and check whether a business shows up in AI answers.
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
