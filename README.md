@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Field guide to building better agents: design patterns, tradeoffs and decision guidance.
+- [AgentPay Domain & Network Lookup](https://agentpay-lookup.agentpay-apis.workers.dev) `https://agentpay-lookup.agentpay-apis.workers.dev/mcp`
+  [![AgentPay Domain & Network Lookup MCP connector](https://glama.ai/mcp/connectors/io.github.noah-silver/agentpay-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noah-silver/agentpay-lookup)
+  🔓 - DNS records, WHOIS/RDAP, IP ownership and domain reports; tool calls paid per call via x402 USDC.
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
@@ -1353,6 +1356,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [1cent](https://1cent.maxzoa.ru) `https://1cent.maxzoa.ru/mcp`
   [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
   🔓 - Extract web content and metadata, map site resources and detect page changes; x402 pay-per-call.
+- [AgentPay Doc Tools](https://agentpay-tools.agentpay-apis.workers.dev) `https://agentpay-tools.agentpay-apis.workers.dev/mcp`
+  [![AgentPay Doc Tools MCP connector](https://glama.ai/mcp/connectors/io.github.noah-silver/agentpay-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noah-silver/agentpay-tools)
+  🔓 - Extract PDF text, parse RSS/Atom feeds and list sitemap URLs; tool calls paid per call via x402 USDC.
+- [AgentPay Web Extract](https://agentpay-extract.agentpay-apis.workers.dev) `https://agentpay-extract.agentpay-apis.workers.dev/mcp`
+  [![AgentPay Web Extract MCP connector](https://glama.ai/mcp/connectors/io.github.noah-silver/agentpay-extract/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noah-silver/agentpay-extract)
+  🔓 - Fetch any URL as clean markdown with title, metadata and links; tool calls paid per call via x402 USDC.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
