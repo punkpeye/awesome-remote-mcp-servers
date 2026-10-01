@@ -1660,6 +1660,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
+- [Seamark](https://seamark.app) `https://seamark.app/mcp`
+  [![Seamark MCP connector](https://glama.ai/mcp/connectors/app.seamark/seamark/badges/score.svg)](https://glama.ai/mcp/connectors/app.seamark/seamark)
+  🔐 - Sailing voyage logbook: trips, legs, crew, boats and GPX tracks, with lifetime distance, time at sea and speeds.
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
