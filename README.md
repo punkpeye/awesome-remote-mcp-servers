@@ -734,6 +734,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GROUNDTRUTH](https://groundtruths.xyz) `https://api.groundtruths.xyz/mcp`
   [![GROUNDTRUTH MCP connector](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth)
   🔓 - Pump.fun and Robinhood Chain memecoin outcomes and creator records; 5 free calls a day, then x402.
+- [HKEx Filings](https://hkex-listco-updates.ascent-partners.com/live-mcp/) `https://hkex-listco-updates.ascent-partners.com/api/mcp`
+  [![HKEx Filings MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings)
+  🔓 - Search 25+ years of Hong Kong Stock Exchange filings, browse facets and extract document text; read-only.
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
