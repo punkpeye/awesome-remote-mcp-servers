@@ -1017,6 +1017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
+- [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
+  [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
+  🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
