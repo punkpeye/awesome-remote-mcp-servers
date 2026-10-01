@@ -166,6 +166,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
+- [upAPI](https://upapi.io) `https://app.upapi.io/api/mcp`
+  [![upAPI MCP connector](https://glama.ai/mcp/connectors/io.github.DevinoSolutions/upapi-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DevinoSolutions/upapi-mcp)
+  🔐 - Call a catalog of ready-to-use APIs through one account and key, without signing up for each upstream service.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
@@ -302,6 +305,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [meld](https://meld.mergeinc.workers.dev) `https://meld.mergeinc.workers.dev/mcp`
   [![meld MCP connector](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld)
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
+- [Notifly](https://notifly.io) `https://api.notifly.io/mcp`
+  [![Notifly MCP connector](https://glama.ai/mcp/connectors/io.notifly/notifly/badges/score.svg)](https://glama.ai/mcp/connectors/io.notifly/notifly)
+  🔐 - Manage notification workflows and subscribers, and trigger email, SMS, push, chat and in-app notifications.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
@@ -313,6 +319,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sending](https://sending.dev) `https://sending.dev/api/mcp`
   [![Sending MCP connector](https://glama.ai/mcp/connectors/dev.sending/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sending/mcp)
   🔐 - Email, WhatsApp and Telegram for agents: send, campaigns, automations, contacts, agent inboxes.
+- [Sendly](https://sendly.now) `https://app.sendly.now/api/mcp`
+  [![Sendly MCP connector](https://glama.ai/mcp/connectors/now.sendly/sendly/badges/score.svg)](https://glama.ai/mcp/connectors/now.sendly/sendly)
+  🔐 - Send transactional email, run campaigns, and manage contacts, lists and segments.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
@@ -458,6 +467,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [doDomain](https://dodomain.io) `https://app.dodomain.io/api/mcp`
+  [![doDomain MCP connector](https://glama.ai/mcp/connectors/io.dodomain/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.dodomain/mcp)
+  🔐 - Connect customers' custom domains to a SaaS product with guided DNS setup, verification and SSL certificates.
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
   [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
   🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
@@ -530,6 +542,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlopScore](https://slopscore.org) `https://slopscore.org/mcp`
   [![SlopScore MCP connector](https://glama.ai/mcp/connectors/org.slopscore/slopscore/badges/score.svg)](https://glama.ai/mcp/connectors/org.slopscore/slopscore)
   🔓 - Browse, search and scan a public leaderboard of AI-generated GitHub repos; voting needs a GitHub token.
+- [SnapVisor](https://snapvisor.io) `https://mcp.snapvisor.io/`
+  [![SnapVisor MCP connector](https://glama.ai/mcp/connectors/io.snapvisor/snapvisor/badges/score.svg)](https://glama.ai/mcp/connectors/io.snapvisor/snapvisor)
+  🔐 - Review visual regression builds, approve or reject screenshot changes, and manage projects.
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software and read-only agent workflows with roles, checks and safety boundaries.
@@ -821,6 +836,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stoxly](https://www.stoxlyonline.com/mcp) `https://www.stoxlyonline.com/api/mcp`
   [![Stoxly MCP connector](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly)
   🔓 - Free stock and ETF fundamental analysis: 10-criteria score, verdict, and key metrics for any ticker.
+- [SuperBooks](https://superbooks.io) `https://app.superbooks.io/mcp`
+  [![SuperBooks MCP connector](https://glama.ai/mcp/connectors/io.superbooks/superbooks/badges/score.svg)](https://glama.ai/mcp/connectors/io.superbooks/superbooks)
+  🔐 - Work with bookkeeping transactions, invoices, customers, receipts, time tracking and financial reports.
 - [Taiwan Market Open Data (Unofficial)](https://twse-mcp.taux.io/) `https://twse-mcp.taux.io/mcp`
   [![Taiwan Market Open Data MCP connector](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp)
   🔓 - Unofficial access to Taiwan Stock Exchange and Futures Exchange open data: stock, ETF and futures snapshots, live quotes and 275 datasets.
@@ -999,6 +1017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
+- [uNotes](https://unotes.net) `https://unotes.net/api/mcp`
+  [![uNotes MCP connector](https://glama.ai/mcp/connectors/net.unotes/unotes/badges/score.svg)](https://glama.ai/mcp/connectors/net.unotes/unotes)
+  🔐 - Search university course materials such as past exams and lecture notes, plus your flashcards and quizzes.
 - [UseMyContext](https://usemycontext.ai) `https://mcp.usemycontext.ai/mcp`
   [![UseMyContext MCP connector](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext)
   🔓 - Your own profile and files as AI context; anonymous access gets metadata only.
@@ -1044,6 +1065,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
+- [BioFlow](https://getbioflow.com) `https://app.getbioflow.com/api/mcp`
+  [![BioFlow MCP connector](https://glama.ai/mcp/connectors/com.getbioflow/bioflow/badges/score.svg)](https://glama.ai/mcp/connectors/com.getbioflow/bioflow)
+  🔐 - Edit and publish a link-in-bio page, its links and blocks, and read page analytics and signups.
 - [BizIntel](https://mcp-bizintel-production.up.railway.app) `https://mcp-bizintel-production.up.railway.app/mcp`
   [![BizIntel MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel)
   🔓 - Audit websites, detect tech stacks, and find and score local businesses without a website.
@@ -1178,6 +1202,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
+- [Uptimely](https://getuptimely.com) `https://app.getuptimely.com/api/mcp`
+  [![Uptimely MCP connector](https://glama.ai/mcp/connectors/com.getuptimely/uptimely/badges/score.svg)](https://glama.ai/mcp/connectors/com.getuptimely/uptimely)
+  🔐 - Manage uptime monitors, incidents and status pages, and read check results.
 - [Vivere](https://vivere.dev) `https://vivere.dev/mcp`
   [![Vivere MCP connector](https://glama.ai/mcp/connectors/dev.vivere/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vivere/monitors)
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
@@ -1224,6 +1251,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
+- [Shorty](https://aishorty.com) `https://aishorty.com/api/mcp`
+  [![Shorty MCP connector](https://glama.ai/mcp/connectors/com.aishorty/shorty/badges/score.svg)](https://glama.ai/mcp/connectors/com.aishorty/shorty)
+  🔐 - Summarize and transcribe videos, audio files, documents and web pages.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
@@ -1236,6 +1266,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Uttera](https://uttera.ai) `https://mcp.uttera.ai/mcp`
   [![Uttera MCP connector](https://glama.ai/mcp/connectors/ai.uttera/uttera/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uttera/uttera)
   🔐 - Transcribe and summarise recordings, and generate speech in 30 languages, sound effects and music.
+- [VoiceLabs](https://voicelabs.now) `https://app.voicelabs.now/api/mcp`
+  [![VoiceLabs MCP connector](https://glama.ai/mcp/connectors/now.voicelabs/voicelabs/badges/score.svg)](https://glama.ai/mcp/connectors/now.voicelabs/voicelabs)
+  🔐 - Generate speech from text in your own voices and transcribe audio.
 - [ZoneFoundry for Sonos](https://zonefoundry.dev/guides/ai-agent-control/) `https://relay.zonefoundry.dev/mcp`
   [![ZoneFoundry for Sonos MCP connector](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos/badges/score.svg)](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos)
   🔐 - Control your Sonos speakers: play music, set volume, group rooms, move playback, announcements and reminders.
@@ -1287,6 +1320,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrameOn](https://app.frameonlab.com/mcp) `https://api.frameonlab.com/api/v1/mcp`
   [![FrameOn MCP connector](https://glama.ai/mcp/connectors/com.frameonlab/frameon/badges/score.svg)](https://glama.ai/mcp/connectors/com.frameonlab/frameon)
   🔐 - Project management for AI agents: tasks, docs, decisions and time in one shared team context.
+- [GetItDone](https://nowgetitdone.com) `https://app.nowgetitdone.com/api/mcp`
+  [![GetItDone MCP connector](https://glama.ai/mcp/connectors/com.nowgetitdone/getitdone/badges/score.svg)](https://glama.ai/mcp/connectors/com.nowgetitdone/getitdone)
+  🔐 - Create, update and track tasks and projects across GetItDone team workspaces.
 - [GTD Brain](https://gtdbrain.com/connect?source=awesome-remote-mcp-servers) `https://mcp.gtdbrain.com/api/gtdbrain/v1/mcp`
   [![GTD Brain MCP connector](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain)
   🔐 - Getting Things Done board: inbox capture, next actions by context, projects and weekly review.
@@ -1549,6 +1585,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Post Bridge](https://www.post-bridge.com/mcp) `https://www.post-bridge.com/api/mcp/mcp`
   [![Post Bridge MCP connector](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge)
   🔐 - Publish, schedule and analyze posts across ten platforms, from Instagram and TikTok to LinkedIn and Bluesky.
+- [Postify](https://usepostify.com) `https://app.usepostify.com/api/mcp`
+  [![Postify MCP connector](https://glama.ai/mcp/connectors/com.usepostify/postify/badges/score.svg)](https://glama.ai/mcp/connectors/com.usepostify/postify)
+  🔐 - Draft, schedule and publish social media posts to connected channels, and read post analytics.
 - [PostLake](https://postlake.dev) `https://api.postlake.dev/mcp`
   [![PostLake MCP connector](https://glama.ai/mcp/connectors/dev.postlake/social/badges/score.svg)](https://glama.ai/mcp/connectors/dev.postlake/social)
   🔐 - Publish, schedule and analyze posts across 9 networks, including X, LinkedIn, Instagram, TikTok and Bluesky.
