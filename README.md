@@ -713,6 +713,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Distill Markets](https://www.distillmarkets.com) `https://mcp.distillmarkets.com/mcp`
+  [![Distill Markets MCP connector](https://glama.ai/mcp/connectors/com.distillmarkets/distill-markets/badges/score.svg)](https://glama.ai/mcp/connectors/com.distillmarkets/distill-markets)
+  🔐 - Verified SEC filing data for US equities: fundamentals, point-in-time values, 13F holders, insiders.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
