@@ -551,6 +551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VibeFix](https://vibe-fixer.com) `https://vibe-fixer.com/mcp`
   [![VibeFix MCP connector](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix)
   🔓 - Triage a broken Lovable, Base44, v0, Bolt or Replit app: the likely cause and the fix.
+- [Vision Driven Design](https://vdd.simonmak.com) `https://vdd.simonmak.com/api/mcp`
+  [![Vision Driven Design MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/vision-driven-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/vision-driven-design)
+  🔓 - Spec-driven development: 8 phases from vision to validation with bi-directional traceability and 7 quality gates.
 - [web3ctx](https://web3ctx.scarai.xyz) `https://mcp.scarai.xyz/mcp`
   [![web3ctx MCP connector](https://glama.ai/mcp/connectors/io.github.FarseenSh/web3ctx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FarseenSh/web3ctx)
   🔓 - Version-true web3 context: validated integration recipes, EIPs, ABIs and contract addresses.
