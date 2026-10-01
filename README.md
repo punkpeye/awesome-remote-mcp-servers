@@ -737,6 +737,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
+  [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
+  🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
