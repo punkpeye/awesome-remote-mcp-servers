@@ -703,7 +703,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Crypto positioning and macro regime: funding, open interest, implied volatility and Fed rates.
 - [CurveCall](https://curvecall.onrender.com) `https://curvecall.onrender.com/mcp/`
   [![CurveCall MCP connector](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall)
-  🔓 - Trade quotes and slippage, token snapshots and rug-risk scans; $0.001-$0.01 per call via x402.
+  🔓 - Trade quotes and slippage, token snapshots and rug-risk scans; $0.001-$0.02 per call via x402.
 - [CVR Lookup](https://cvrlookup.dk/mcp) `https://cvrlookup.dk/api/mcp`
   [![CVR Lookup MCP connector](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup)
   🔓 - Danish company register: lookups, name search and annual-report financials; data needs a free key.
