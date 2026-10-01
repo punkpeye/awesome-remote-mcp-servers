@@ -1011,6 +1011,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ⚖️ <a name="legal"></a>Legal
 
+- [Clino](https://clino.ch/en/mcp) `https://clino.ch/mcp`
+  [![Clino MCP connector](https://glama.ai/mcp/connectors/ch.clino/household-employment/badges/score.svg)](https://glama.ai/mcp/connectors/ch.clino/household-employment)
+  🔓 - Swiss household employment rules for all 26 cantons: cost, net wage, minimum wage and deadlines, every figure sourced.
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
