@@ -1284,6 +1284,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
   [![dot•requirements MCP connector](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements/badges/score.svg)](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements)
   🔐 - Draft testable requirements specs from chat, style-check them, publish to your team, and see test coverage.
+- [fenbs](https://fenbs.ai) `https://fenbs.ai/api/mcp`
+  [![fenbs MCP connector](https://glama.ai/mcp/connectors/ai.fenbs/fenbs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fenbs/fenbs)
+  🔐 - Project board where people and AI assistants are members with roles: tasks, decisions with sign-off, testing notes and project rules, every change signed.
 - [FrameOn](https://app.frameonlab.com/mcp) `https://api.frameonlab.com/api/v1/mcp`
   [![FrameOn MCP connector](https://glama.ai/mcp/connectors/com.frameonlab/frameon/badges/score.svg)](https://glama.ai/mcp/connectors/com.frameonlab/frameon)
   🔐 - Project management for AI agents: tasks, docs, decisions and time in one shared team context.
