@@ -178,6 +178,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
+- [formbase (formbase.so)](https://formbase.so) `https://api.formbase.so/api/mcp`
+  [![formbase MCP connector](https://glama.ai/mcp/connectors/io.github.formbaseso/formbase-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.formbaseso/formbase-mcp)
+  🔐 - Collect and verify information from customers for workflows and AI agents: one prefilled link, answers by callback.
 - [GoodSign](https://goodsign.io/mcp-server) `https://goodsign.io/mcp`
   [![GoodSign MCP connector](https://glama.ai/mcp/connectors/io.goodsign/goodsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.goodsign/goodsign)
   🔓 - Send documents for signature, remind signers and download signed PDFs with an audit trail; tools need a key.
