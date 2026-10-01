@@ -1634,7 +1634,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Wholesale eSIM plans in 200+ countries for resellers: search, order, top up and diagnose eSIMs.
 - [ExplorersMap Travel Log](https://explorersmap.net/mcp) `https://explorersmap.net/mcp`
   [![ExplorersMap Travel Log MCP connector](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log/badges/score.svg)](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log)
-  🔓 - Travel log: mark countries, regions and places, build trips, read stats and rankings; tools need a key.
+  🔐 - Travel log: mark countries, regions and places, build trips, read stats and rankings; tools need a key.
 - [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
   [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
   🔐 - Live Google Flights fares with a price verdict, round trips, date ranges and destination lists.
