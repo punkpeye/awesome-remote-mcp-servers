@@ -212,6 +212,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
+  [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
+  🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
 - [betterimage.io](https://betterimage.io/mcp) `https://betterimage.io/mcp`
   [![betterimage.io MCP connector](https://glama.ai/mcp/connectors/io.betterimage/betterimage/badges/score.svg)](https://glama.ai/mcp/connectors/io.betterimage/betterimage)
   🔓 - Social cards and OG images from designed templates or any page URL, plus link-preview checks.
