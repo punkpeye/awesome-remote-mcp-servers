@@ -1532,6 +1532,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
+- [KreatorMesh](https://kreatormesh.com/claude) `https://api.kreatormesh.com/api/mcp`
+  [![KreatorMesh MCP connector](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh/badges/score.svg)](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh)
+  🔐 - Schedule posts to 10 platforms and check drafts against hook rules learned from your own audience.
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
