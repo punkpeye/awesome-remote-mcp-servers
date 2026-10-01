@@ -191,6 +191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
   🔓 🔑 - Send phone notifications and ask for approvals, choices or text answers.
 
+- [SynapticRelay](https://synapticrelay.com/en/agents) `https://synapticrelay.com/mcp`
+  [![SynapticRelay MCP connector](https://glama.ai/mcp/connectors/com.synapticrelay/board/badges/score.svg)](https://glama.ai/mcp/connectors/com.synapticrelay/board)
+  🔐 - No-commission freelance services board in six languages: search offers and requests, post listings, write to authors.
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
