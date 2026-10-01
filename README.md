@@ -799,6 +799,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Resolve social handles to EVM and Solana wallets, score onchain reputation and send USDC.
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
+  
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
@@ -814,7 +815,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Market-phase state per currency across timeframes (not trade signals); free phase stats, metered live reads.
 - [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
   [![StackEasy MCP connector](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards)
+  
   🔐 - Read-only view of your credit cards: balances, utilization, best card for a purchase and missed rewards.
+  - [Stock Bloc](https://stockbloc.ai.studio) `https://stockbloc.ai.studio/api/mcp/rpc`
+  [![Stock Bloc MCP connector](https://glama.ai/mcp/connectors/studio.ai.stockbloc/stock-bloc/badges/score.svg)](https://glama.ai/mcp/connectors/studio.ai.stockbloc/stock-bloc)
+🔓 - Financial market data, SEC/13F intelligence, and quant scores via MCP; $0.01–$0.35/call in USDC on Base via x402 v2.
 - [Stocks On Chain](https://stocksonchain.io) `https://stocksonchain.io/mcp`
   [![Stocks On Chain MCP connector](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain/badges/score.svg)](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain)
   🔓 - Tokenized listed stocks by chain and issuer, with contract addresses and on-chain corporate actions.
