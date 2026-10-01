@@ -1339,6 +1339,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
 
+- [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
+  [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
+  🔐 - Find buyers, run LinkedIn, email and X outreach from your own accounts, and approve drafted replies.
+
 ### 🔬 <a name="science--research"></a>Science & Research
 
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
