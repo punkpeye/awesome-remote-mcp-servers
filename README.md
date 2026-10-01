@@ -1714,6 +1714,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
+- [NogPets](https://nogpets.com/for-groomers) `https://mcp.nogpets.com/mcp`
+  [![NogPets MCP connector](https://glama.ai/mcp/connectors/com.nogpets/nogpets/badges/score.svg)](https://glama.ai/mcp/connectors/com.nogpets/nogpets)
+  🔐 - Run a pet grooming, walking or sitting business: day plan, bookings, clients, prices, hours and payment links.
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
