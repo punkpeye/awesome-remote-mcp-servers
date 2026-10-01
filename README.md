@@ -862,7 +862,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Plan and review cycling and running: training calendar, synced rides, sleep and HRV.
 - [Forkmate](https://forkmate.ai) `https://mcp.forkmate.ai/`
   [![Forkmate MCP connector](https://glama.ai/mcp/connectors/ai.forkmate/forkmate/badges/score.svg)](https://glama.ai/mcp/connectors/ai.forkmate/forkmate)
-  🔐 - Food diary: log meals in plain language, get calorie and macro totals, and search USDA and Open Food Facts.
+  🔓 - Food diary: log meals in plain language, get calorie and macro totals, and search USDA and Open Food Facts.
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
