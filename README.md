@@ -1570,6 +1570,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
+- [StoriesIG](https://storiesig.info/en/mcp/) `https://api-wh.storiesig.info/instagram/mcp`
+  [![StoriesIG MCP connector](https://glama.ai/mcp/connectors/info.storiesig/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/info.storiesig/instagram-mcp)
+  🔐 - Read public Instagram profiles, posts, reels, stories, highlights, comments and followers, and get video links.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
