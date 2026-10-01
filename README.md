@@ -1708,6 +1708,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [KDAN PDF](https://pdf-reader.kdandoc.com/products/mcp/claude) `https://mcp.kdandoc.com/mcp`
   [![KDAN PDF MCP connector](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp)
   🔓 - Compress, delete pages, redact PII, compare versions, and add or remove password protection on PDFs.
+- [MagicInterview](https://magicinterview.app) `https://magicinterview.app/mcp`
+  [![MagicInterview MCP connector](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview)
+  🔐 - Live AI suggestions for interviews, client calls, and meetings, with reusable context and conversation management.
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
