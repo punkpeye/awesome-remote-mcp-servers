@@ -536,6 +536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
+- [Stunt Double](https://www.stuntdouble.io) `https://app.stuntdouble.io/api/mcp`
+  [![Stunt Double MCP connector](https://glama.ai/mcp/connectors/io.stuntdouble/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.stuntdouble/mcp-server)
+  🔐 - AI user personas test your product, prototypes and previews in a real browser and return screenshot evidence.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
