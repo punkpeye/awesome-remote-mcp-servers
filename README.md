@@ -172,6 +172,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [4bl1ty](https://4bl1ty.com/mcp) `https://mcp.4bl1ty.com/mcp`
+  [![4bl1ty MCP connector](https://glama.ai/mcp/connectors/com.4bl1ty/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.4bl1ty/mcp)
+  🔑 - Hire verified humans for physical-world tasks: post missions, review claims and proof, euro escrow via Stripe.
 - [Countersignatory](https://countersignatory.com) `https://countersignatory.com/mcp`
   [![Countersignatory MCP connector](https://glama.ai/mcp/connectors/com.countersignatory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.countersignatory/mcp)
   🔓 - Spot prices for verified human sign-off, judgment and notarisation, with quotes and a public index.
