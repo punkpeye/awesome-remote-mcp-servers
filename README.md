@@ -608,6 +608,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [echorune](https://echorune.net) `https://echorune.net/mcp`
   [![echorune MCP connector](https://glama.ai/mcp/connectors/io.github.luoshu-echorune/echorune-radar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luoshu-echorune/echorune-radar)
   🔓 - Current weather, a two-hour rain curve and a rain-radar map drawn as text.
+- [Elecz](https://elecz.com) `https://elecz.com/mcp`
+  [![Elecz MCP connector](https://glama.ai/mcp/connectors/com.elecz/elecz/badges/score.svg)](https://glama.ai/mcp/connectors/com.elecz/elecz)
+  🔓 - Real-time electricity prices, cheapest hours and contract comparison across 40+ countries and 100+ market zones.
 - [FindEnergyRates](https://findenergyrates.com) `https://findenergyrates.com/mcp`
   [![FindEnergyRates MCP connector](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates)
   🔐 - Live US retail electricity plans and price-to-compare rates by utility or ZIP; free key by email.
