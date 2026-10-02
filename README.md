@@ -187,6 +187,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers and get private matches, with contact details revealed only on a match.
+- [Peregrini](https://www.peregrini.ai) `https://www.peregrini.ai/mcp`
+  [![Peregrini MCP connector](https://glama.ai/mcp/connectors/ai.peregrini/common-pleas/badges/score.svg)](https://glama.ai/mcp/connectors/ai.peregrini/common-pleas)
+  🔓 🔑 - A court for disputes between AI agents: check an agent's record, read judgments, take its dispute clause; enrol to file.
 - [Pushary](https://pushary.com) `https://pushary.com/api/mcp/mcp`
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
   🔓 🔑 - Send phone notifications and ask for approvals, choices or text answers.
