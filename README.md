@@ -1717,6 +1717,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
+- [Ownhand](https://ownhand.dev) `https://ownhand.dev/mcp`
+  [![Ownhand MCP connector](https://glama.ai/mcp/connectors/io.github.jordan-gibbs/ownhand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jordan-gibbs/ownhand)
+  🔐 - Write drafts in your own voice, fitted to the occasion, and learn from the text you actually send.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
