@@ -1421,7 +1421,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free search of people, companies and open roles on an open professional network.
 - [PeopleSearch.im](https://peoplesearch.im/mcp) `https://peoplesearch.im/api/mcp`
   [![PeopleSearch.im MCP connector](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder/badges/score.svg)](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder)
-  🔐 - Search people and companies in plain English, then get verified work emails, email checks and LinkedIn lookups.
+  🔓 - Search people and companies in plain English and get verified work emails; tool calls sign in with OAuth or an API key.
 - [ProxyCove](https://proxycove.com) `https://mcp.proxycove.com/mcp`
   [![ProxyCove MCP connector](https://glama.ai/mcp/connectors/com.proxycove/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxycove/mcp-server)
   🔓 - Buy and manage residential, mobile and datacenter proxies in 170+ countries, prepaid per GB.
