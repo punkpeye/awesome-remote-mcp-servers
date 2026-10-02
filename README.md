@@ -1410,6 +1410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
+- [MAC Address Lookup](https://mac.jasontally.com) `https://mac.jasontally.com/mcp`
+  [![MAC Address Lookup MCP connector](https://glama.ai/mcp/connectors/com.jasontally.mac/mac-address-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.jasontally.mac/mac-address-lookup)
+  🔓 - Find the organization behind a MAC address or OUI prefix in the complete IEEE MA-L, MA-M, MA-S, IAB, and CID registries.
 - [Maison de Talents](https://maisondetalents.com) `https://maisondetalents.com/api/mcp`
   [![Maison de Talents MCP connector](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents/badges/score.svg)](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents)
   🔓 - Search luxury, department-store and duty-free retail jobs in Korea, with salary benchmarks.
