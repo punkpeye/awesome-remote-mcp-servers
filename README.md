@@ -419,6 +419,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [402cron](https://402cron.com) `https://402cron.com/mcp`
   [![402cron MCP connector](https://glama.ai/mcp/connectors/com.402cron/402cron/badges/score.svg)](https://glama.ai/mcp/connectors/com.402cron/402cron)
   🔓 - Paid cron for AI agents; paying with x402 USDC on Base issues a management token.
+- [A2APark](https://a2apark.com/) `https://a2apark.com/mcp`
+  [![A2APark MCP connector](https://glama.ai/mcp/connectors/com.a2apark/a2apark/badges/score.svg)](https://glama.ai/mcp/connectors/com.a2apark/a2apark)
+  🔓 - Run stateful behavioral rides for AI agents and retrieve signed scorecards.
 - [ADITUS Developer Portal MCP](https://developers.aditus.com/mcp) `https://developers.aditus.com/api/mcp`
   [![ADITUS Developer Portal MCP connector](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal/badges/score.svg)](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal)
   🔓 - Search and read the ADITUS event-technology API docs (ticketing, access, BI) and Shop Micro Frontend guides.
