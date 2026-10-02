@@ -671,6 +671,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [Banxico (Banco de México)](https://inakisobera.me/mcp-banxico/) `https://banxico-mcp.duckdns.org/mcp`
+  [![Banxico MCP connector](https://glama.ai/mcp/connectors/io.github.nanisadw3/banxico/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanisadw3/banxico)
+  🔓 - Official Mexican economic data from Banco de México: USD/MXN, INPC inflation, UDIS, TIIE and reserves.
 - [BestEOR](https://besteor.co/mcp-server) `https://besteor.co/api/mcp`
   [![BestEOR MCP connector](https://glama.ai/mcp/connectors/co.besteor/eor-data/badges/score.svg)](https://glama.ai/mcp/connectors/co.besteor/eor-data)
   🔓 - Compare EOR provider fees and coverage, plus employer costs, minimum wage and leave rules for 139 countries, all cited.
