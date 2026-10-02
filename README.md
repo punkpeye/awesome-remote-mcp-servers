@@ -305,6 +305,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
+- [PlaceCall](https://voygr.tech/placecall/) `https://api.voygr.tech/mcp`
+  [![PlaceCall MCP connector](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall)
+  🔐 - Place real phone calls to US businesses to book, ask questions or get quotes, then read the outcome and transcript.
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
