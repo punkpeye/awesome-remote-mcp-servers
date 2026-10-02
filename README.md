@@ -1250,6 +1250,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [Liquid Agent](https://api.liquidagent.ai) `https://api.liquidagent.ai/mcp`
+  [![Liquid Agent MCP connector](https://glama.ai/mcp/connectors/ai.liquidagent.api/liquid-agent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.liquidagent.api/liquid-agent)
+  🔓 - x402 money tools: USDC bridge (Base and Arc), Polymarket price to beat, tokenized stocks, USDC gas, free USDC tools.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
