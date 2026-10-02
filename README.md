@@ -645,6 +645,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aave](https://aave.com) `https://mcp.aave.com`
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
   🔓 - Aave V3 and V4 markets, rates, wallet positions, governance and non-custodial transaction building.
+- [ADEXTO](https://adexto.xyz) `https://adexto.xyz/api/mcp`
+  [![ADEXTO MCP connector](https://glama.ai/mcp/connectors/xyz.adexto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.adexto/mcp)
+  🔓 - Launch, buy, stake and claim on bonding-curve token markets across five chains, with your own key.
 - [Agent Margin Router](https://agentmarginrouter.com) `https://agent-margin-router-production.up.railway.app/mcp`
   [![AgentMarginRouter MCP connector](https://glama.ai/mcp/connectors/io.github.AgentMarginRouter/agent-margin-router/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AgentMarginRouter/agent-margin-router)
   🔓 - Live gas fees and USD tx costs on Base, Ethereum, Arbitrum, Optimism and Polygon; x402 pay-per-call.
