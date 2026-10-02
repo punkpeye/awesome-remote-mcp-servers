@@ -574,6 +574,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
+- [OneFindMe](https://onefindme.com) `https://onefindme.com/mcp`
+  [![OneFindMe MCP connector](https://glama.ai/mcp/connectors/com.onefindme/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.onefindme/search)
+  🔓 - Search AliExpress in any language and get listings with price, rating, orders and a link.
 - [Origine Paris](https://origineparis.com) `https://mcp.origineparis.com/mcp`
   [![Origine Paris MCP connector](https://glama.ai/mcp/connectors/com.origineparis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.origineparis/mcp)
   🔓 - Paris jewellery house catalogue: recycled 18k gold, lab-grown diamonds, collections and bespoke.
