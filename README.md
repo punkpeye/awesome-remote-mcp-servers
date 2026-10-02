@@ -212,6 +212,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [3D Texel](https://3dtexel.com/developers/) `https://3dtexel.com/wp-json/3dtexel-api/v1/mcp`
+  [![3D Texel MCP connector](https://glama.ai/mcp/connectors/com.3dtexel/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.3dtexel/mcp)
+  🔓 - Search 7,000+ PBR materials, HDRIs, decals and 3D assets (1,600+ CC0); generate PBR/HDRI with an API key.
 - [betterimage.io](https://betterimage.io/mcp) `https://betterimage.io/mcp`
   [![betterimage.io MCP connector](https://glama.ai/mcp/connectors/io.betterimage/betterimage/badges/score.svg)](https://glama.ai/mcp/connectors/io.betterimage/betterimage)
   🔓 - Social cards and OG images from designed templates or any page URL, plus link-preview checks.
