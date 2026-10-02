@@ -958,6 +958,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
+- [knowsme](https://knowsme.dev) `https://mcp.knowsme.dev/mcp`
+  [![knowsme MCP connector](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme)
+  🔐 - One memory for every AI app: your notes, rules and projects follow you across machines and AIs.
 - [MemorySync](https://memorysync.io) `https://mcp.memorysync.io/mcp`
   [![MemorySync MCP connector](https://glama.ai/mcp/connectors/io.memorysync/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/memory)
   🔐 - Scoped, persistent memory for agents to save, inspect and recall decisions across sessions.
