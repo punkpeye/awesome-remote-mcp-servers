@@ -1470,7 +1470,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Extract, search, and analyze web pages and domains with pay-per-call tools settled in Nano (XNO) via x402.
 - [Web Data Toolkit](https://web-data-toolkit.vercel.app) `https://web-data-toolkit.vercel.app/mcp`
   [![Web Data Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit)
-  🔑 - YouTube transcripts, Google Trends, and Google Play and App Store reviews.
+  🔓 - YouTube transcripts, Google Trends, and Google Play and App Store reviews; use the free public demo key or your own.
 
 ### 🔒 <a name="security"></a>Security
 
