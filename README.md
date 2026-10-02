@@ -1137,6 +1137,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility checks: AI crawlability, robots.txt, llms.txt, JSON-LD and social previews.
+- [The Profound Agency](https://theprofound.agency/mcp/) `https://theprofound.agency/api/mcp/`
+  [![The Profound Agency MCP connector](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency/badges/score.svg)](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency)
+  🔓 - Search, price, and order press placements across 1,600+ publications; free AI-visibility audits.
+
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
