@@ -1142,6 +1142,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
+- [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
+  [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
+  🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
