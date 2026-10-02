@@ -279,6 +279,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Popdot AI](https://popdot.ai) `https://popdot.ai/api/mcp`
   [![Popdot AI MCP connector](https://glama.ai/mcp/connectors/ai.popdot/popdot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.popdot/popdot-mcp)
   🔓 - Give an agent a public URL: free 24-hour trial subdomains, then rentals paid in USDC via x402.
+- [Porkbun](https://porkbun.com/mcp) `https://mcp.porkbun.com/mcp`
+  [![Porkbun MCP connector](https://glama.ai/mcp/connectors/com.porkbun/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.porkbun/mcp)
+  🔐 - Manage domains, DNS, nameservers, DNSSEC, URL forwarding and static site deploys on your Porkbun account.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
