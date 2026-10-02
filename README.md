@@ -996,6 +996,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
+- [Stele](https://stele-ai.dev) `https://app.stele-ai.dev/api/mcp`
+  [![Stele MCP connector](https://glama.ai/mcp/connectors/dev.stele-ai/stele/badges/score.svg)](https://glama.ai/mcp/connectors/dev.stele-ai/stele)
+  🔐 - Shared project memory for coding agents: recall and record decisions, lessons and risks, and claim tasks.
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
