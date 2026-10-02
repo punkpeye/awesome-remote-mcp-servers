@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Box](https://box.com) `https://mcp.box.com/`
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
+- [Playbook](https://dev.playbook.com/docs/guides/mcp/) `https://mcp.playbook.com/mcp`
+  [![Playbook MCP connector](https://glama.ai/mcp/connectors/com.playbook/playbook/badges/score.svg)](https://glama.ai/mcp/connectors/com.playbook/playbook)
+  🔐 - Media backend: search, organize, upload, and share creative files and folders.
 - [quickS3](https://quicks3.com/s3-mcp-server/) `https://quicks3.com/mcp`
   [![quickS3 MCP connector](https://glama.ai/mcp/connectors/com.quicks3/quicks3/badges/score.svg)](https://glama.ai/mcp/connectors/com.quicks3/quicks3)
   🔐 - List, upload, download, and share files in S3, R2, B2, Wasabi, and Spaces buckets, scoped by delegated roles.
