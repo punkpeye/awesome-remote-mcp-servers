@@ -1254,6 +1254,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
+- [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
+  [![Pink Agentic AI Payments MCP connector](https://glama.ai/mcp/connectors/com.pinkwallet/agentic-payments-sandbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.pinkwallet/agentic-payments-sandbox)
+  🔑 - Plain-language rules and human approval gate every AI-agent payment before a card or transfer issues. Sandbox, test keys only.
 - [send21](https://send21.io) `https://send21.io/mcp`
   [![send21 MCP connector](https://glama.ai/mcp/connectors/io.github.send21io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.send21io/mcp)
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
