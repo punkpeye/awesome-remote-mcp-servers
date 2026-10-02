@@ -1669,6 +1669,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VoyageHacks](https://voyagehacks.com/en/mcp-server/) `https://voyagehacks.com/mcp`
   [![VoyageHacks MCP connector](https://glama.ai/mcp/connectors/com.voyagehacks/travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.voyagehacks/travel)
   🔓 - Search fact-checked travel guides in 11 languages, build packing kits, and get booking links.
+- [Your Next Tours](https://yournext.tours/ai-assistant-integration/) `https://api.yournext.tours/api/mcp/guide`
+  [![Your Next Tours MCP connector](https://glama.ai/mcp/connectors/tours.yournext/guide/badges/score.svg)](https://glama.ai/mcp/connectors/tours.yournext/guide)
+  🔐 - Tour guide workspace: turn a PDF or web page into a tour program, open trips, add guests and edit your site.
 
 - [SimFuse](https://simfuse.app/agent/) `https://api.simfuse.app/agentic/mcp`
   [![SimFuse MCP connector](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront/badges/score.svg)](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront)
