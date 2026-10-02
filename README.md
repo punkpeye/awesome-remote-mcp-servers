@@ -506,6 +506,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
+- [ProofRail MCP Release Certifier](https://kaattaallaa-sketch.github.io/proofrail-mcp/) `https://drkdm4jd-8767.uks1.devtunnels.ms/mcp`
+  [![ProofRail MCP connector](https://glama.ai/mcp/connectors/io.github.kaattaallaa-sketch/proofrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kaattaallaa-sketch/proofrail)
+  🔓 - MCP release verification and compatibility preflight with PASS/FAIL evidence; certification uses x402.
 - [Prompeteer](https://prompeteer.ai) `https://prompeteer.ai/mcp`
   [![Prompeteer MCP connector](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer/badges/score.svg)](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer)
   🔐 - Generates contextual prompts and agent skills for 140+ AI platforms, with a 16-dimension Prompt Score.
