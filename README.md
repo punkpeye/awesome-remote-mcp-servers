@@ -1407,6 +1407,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
+- [Lightdrift](https://lightdrift.ai) `https://lightdrift.ai/mcp`
+  [![Lightdrift MCP connector](https://glama.ai/mcp/connectors/ai.lightdrift/images/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lightdrift/images)
+  🔐 - Search 1.85M openly licensed images by text or reference image; returns file URLs, license and attribution.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
