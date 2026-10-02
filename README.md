@@ -1236,6 +1236,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Uttera](https://uttera.ai) `https://mcp.uttera.ai/mcp`
   [![Uttera MCP connector](https://glama.ai/mcp/connectors/ai.uttera/uttera/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uttera/uttera)
   🔐 - Transcribe and summarise recordings, and generate speech in 30 languages, sound effects and music.
+- [VideoGen](https://videogen.io/videogen-mcp) `https://mcp.videogen.io/mcp`
+  [![VideoGen MCP connector](https://glama.ai/mcp/connectors/io.github.dg314/videogen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dg314/videogen)
+  🔐 - Create videos from scripts and storyboards, manage projects, and export finished videos.
 - [ZoneFoundry for Sonos](https://zonefoundry.dev/guides/ai-agent-control/) `https://relay.zonefoundry.dev/mcp`
   [![ZoneFoundry for Sonos MCP connector](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos/badges/score.svg)](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos)
   🔐 - Control your Sonos speakers: play music, set volume, group rooms, move playback, announcements and reminders.
