@@ -945,6 +945,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![emem MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem)
   🔓 - Elevation, vegetation, flood, fire and air-quality facts for any place, each with a signed receipt.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
+  [![Flash MCP connector](https://glama.ai/mcp/connectors/com.flashmemorize/flash/badges/score.svg)](https://glama.ai/mcp/connectors/com.flashmemorize/flash)
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
