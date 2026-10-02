@@ -504,6 +504,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
+- [pdfrender](https://pdfrender.dev) `https://api.pdfrender.dev/mcp/`
+  [![pdfrender MCP connector](https://glama.ai/mcp/connectors/dev.pdfrender/pdfrender/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pdfrender/pdfrender)
+  🔓 - HTML and CSS to PDF with page headers, footers and page numbers. No headless browser.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
 - [Prompeteer](https://prompeteer.ai) `https://prompeteer.ai/mcp`
