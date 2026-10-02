@@ -1083,6 +1083,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![iMario MCP connector](https://glama.ai/mcp/connectors/ai.imario/imario/badges/score.svg)](https://glama.ai/mcp/connectors/ai.imario/imario)
   🔐 - Ask synthetic audiences built from real people how they react to copy, pages, prices and images.
 
+- [Lasso](https://getlasso.co/mcp) `https://lasso.link/mcp`
+  [![Lasso MCP connector](https://glama.ai/mcp/connectors/co.getlasso/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.getlasso/mcp)
+  🔑 - Read affiliate opportunities, broken links, and clicks for one site. Changes stay a dry-run until you confirm.
+
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
