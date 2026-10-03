@@ -1468,6 +1468,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vend](https://extract.paypercall.dev) `https://extract.paypercall.dev/mcp`
   [![Vend MCP connector](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant)
   🔓 - Extract, search, and analyze web pages and domains with pay-per-call tools settled in Nano (XNO) via x402.
+- [Web Data API Plan Finder](https://plans.intoperson.com/guide) `https://plans.intoperson.com/mcp`
+  [![Web Data API Plan Finder MCP connector](https://glama.ai/mcp/connectors/io.github.scraping-api-plans/web-data-plan-finder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.scraping-api-plans/web-data-plan-finder)
+  🔓 - Compare web scraping, crawling and SERP API plans, prices and limits against your workload and budget.
 
 ### 🔒 <a name="security"></a>Security
 
