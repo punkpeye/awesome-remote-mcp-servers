@@ -1313,6 +1313,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [Assetfy](https://assetfy.com/produkt/ai-mcp-anbindung/) `https://mcp.assetfy.com/mcp`
+  [![Assetfy MCP connector](https://glama.ai/mcp/connectors/com.assetfy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.assetfy/mcp)
+  🔐 - German property data: parcels, zoning plans with PDFs, land values, LoD2 buildings and listings.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
