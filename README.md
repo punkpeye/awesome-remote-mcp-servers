@@ -239,6 +239,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ScoreLook MCP connector](https://glama.ai/mcp/connectors/fr.scorelook/capucine/badges/score.svg)](https://glama.ai/mcp/connectors/fr.scorelook/capucine)
   🔓 - French AI stylist: sourced outfit answers, piece hubs, shopping criteria and weather looks.
 
+- [thirds.ai](https://thirds.ai) `https://thirds.ai/mcp`
+  [![thirds.ai MCP connector](https://glama.ai/mcp/connectors/ai.thirds/thirds/badges/score.svg)](https://glama.ai/mcp/connectors/ai.thirds/thirds)
+  🔐 - Make branded PDFs and images from reusable templates, brand kits, and your data.
+
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
 - [APEX](https://apexfaucet.xyz/connect/) `https://apexfaucet.xyz/api/mcp`
