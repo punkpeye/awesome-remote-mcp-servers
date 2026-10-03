@@ -671,6 +671,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [Benefits City](https://aiagentscity.com/benefits) `https://aiagentscity.com/benefits/mcp`
+  [![Benefits City MCP connector](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city)
+  🔓 - US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates.
 - [BestEOR](https://besteor.co/mcp-server) `https://besteor.co/api/mcp`
   [![BestEOR MCP connector](https://glama.ai/mcp/connectors/co.besteor/eor-data/badges/score.svg)](https://glama.ai/mcp/connectors/co.besteor/eor-data)
   🔓 - Compare EOR provider fees and coverage, plus employer costs, minimum wage and leave rules for 139 countries, all cited.
