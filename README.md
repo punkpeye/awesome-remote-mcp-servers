@@ -1735,6 +1735,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wals.pro AI 4 weclapp](https://ai.wals.pro) `https://mcp.ai.wals.pro/v1/mcp`
   [![wals.pro AI 4 weclapp MCP connector](https://glama.ai/mcp/connectors/pro.wals.ai/weclapp/badges/score.svg)](https://glama.ai/mcp/connectors/pro.wals.ai/weclapp)
   🔐 - weclapp ERP: quotes, orders, invoices, stock and master data, with every write previewed and approved.
+- [Xenition](https://xenition.com) `https://api.xenition.com/mcp`
+  [![Xenition MCP connector](https://glama.ai/mcp/connectors/com.xenition.api/xenition/badges/score.svg)](https://glama.ai/mcp/connectors/com.xenition.api/xenition)
+  🔓 - An AI workspace to create, edit and search documents, slides, spreadsheets, notes, boards, 3D models and forms. OAuth unlocks your workspace.
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
