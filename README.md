@@ -331,6 +331,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📝 <a name="content-management"></a>Content Management
 
+- [Atalay](https://mcp.atalay.ai) `https://mcp.atalay.ai`
+  [![Atalay MCP connector](https://glama.ai/mcp/connectors/ai.atalay/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atalay/mcp)
+  🔐 - Run a small business's websites, domains, mailboxes, e-invoices and shop and B2B orders from one account.
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
