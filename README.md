@@ -1333,6 +1333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance or HOA document, with its date and source quote.
 
+- [Tradehand](https://tradehand.com) `https://tradehand.com/api/mcp`
+  [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
+  🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
 ### 🚗 <a name="sales"></a>Sales
 
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
