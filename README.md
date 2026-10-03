@@ -1753,6 +1753,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
+- [Momus Agent Marketplace](https://market.momusdigital.com/agents) `https://market.momusdigital.com/mcp`
+  [![Momus Agent Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.kevegonz-dev/momus-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kevegonz-dev/momus-marketplace)
+  🔓 🔑 - Free discovery; 17 prepared results at $1–$3, with guest tokens and human-approved Stripe Checkout.
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
