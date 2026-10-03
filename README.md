@@ -414,6 +414,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
+- [dvt](https://dvt.dev/solutions/mcp-dashboards/) `https://mcp.dvt.dev/mcp`
+  [![dvt MCP connector](https://glama.ai/mcp/connectors/dev.dvt/dvt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.dvt/dvt)
+  🔐 - Author, validate, and render data dashboards as versioned JSON specs over Snowflake, Postgres, and BigQuery.
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 - [402cron](https://402cron.com) `https://402cron.com/mcp`
