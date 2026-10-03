@@ -1140,6 +1140,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [UGC VZ](https://ugc-vz.de) `https://ugc-vz.de/api/mcp`
+  [![UGC VZ MCP connector](https://glama.ai/mcp/connectors/de.ugc-vz/creator-search/badges/score.svg)](https://glama.ai/mcp/connectors/de.ugc-vz/creator-search)
+  🔓 - Search human UGC creators in Germany, Austria and Switzerland, view profiles and send contact requests.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
 
