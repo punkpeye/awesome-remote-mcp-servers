@@ -1262,6 +1262,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stripe](https://stripe.com) `https://mcp.stripe.com`
   [![Stripe MCP connector](https://glama.ai/mcp/connectors/com.stripe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.stripe/mcp)
   🔐 - Manage Stripe customers, products, prices, invoices, and payments.
+- [Teppi](https://teppi.xyz) `https://api.teppi.xyz/mcp`
+  [![Teppi MCP connector](https://glama.ai/mcp/connectors/xyz.teppi/teppi/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.teppi/teppi)
+  🔓 - Before paying an x402 endpoint or MCP server, read what paying it delivered: checked, signed, reproducible.
 - [Veyra](https://veyra.money) `https://veyra.money/api/mcp`
   [![Veyra MCP connector](https://glama.ai/mcp/connectors/money.veyra/veyra/badges/score.svg)](https://glama.ai/mcp/connectors/money.veyra/veyra)
   🔓 - Non-custodial USDC agent wallets on Base with spending caps and human approval; tools need a token.
