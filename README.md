@@ -1344,6 +1344,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
+- [Oliver's mTOR Atlas](https://mtor-atlas.org/api/#mcp) `https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp`
+  [![Oliver's mTOR Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas)
+  🔓 - Curated mTOR research: studies labelled by evidence type, pathway claims with supporting and conflicting studies, open questions.
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record.
