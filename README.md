@@ -1471,6 +1471,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Agent Control — Action Gate](https://agent-control.net) `https://agent-control.net/api/v1/mcp`
+  🔐 - [Docs](https://agent-control.net/docs#action-gate): Humans approve before agents email, Slack, CRM, or deploy ($49/mo Solana USDC).
 - [AgenticRail](https://agenticrail.nz/docs/) `https://mcp.agenticrail.nz/`
   [![AgenticRail MCP connector](https://glama.ai/mcp/connectors/nz.agenticrail/gate/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agenticrail/gate)
   🔓 - Gate for AI agent steps: ALLOW or DENY before a step runs, sealed into signed receipts that verify offline.
