@@ -1184,6 +1184,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
+  [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
+  🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
