@@ -247,7 +247,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Bowmark](https://bowmark.ai) `https://api.bowmark.ai/mcp`
   [![Bowmark MCP connector](https://glama.ai/mcp/connectors/ai.bowmark/bowmark/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bowmark/bowmark)
-  🔐 - Typed functions an agent calls to search, price-check and book on live websites, no browser needed.
+  🔓 - Typed functions an agent calls to search, price-check and book on live websites, no browser needed.
 
 - [Browser Forest](https://browserforest.com) `https://browserforest.com/api/mcp/bf`
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
