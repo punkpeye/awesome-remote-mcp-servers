@@ -1576,6 +1576,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [XPlanner](https://xplanner.co/en/mcp) `https://mcp.xplanner.co/mcp`
   [![XPlanner MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner)
   🔐 - Turn ideas into platform-ready drafts, schedule posts, and publish from one content workspace.
+- [Xtracticle](https://xtracticle.com/mcp-server) `https://xtracticle.com/mcp`
+  [![Xtracticle MCP connector](https://glama.ai/mcp/connectors/com.xtracticle/xtracticle/badges/score.svg)](https://glama.ai/mcp/connectors/com.xtracticle/xtracticle)
+  🔓 - Reads public X (Twitter) posts, threads and long-form X Articles as clean Markdown.
 
 ### 🏆 <a name="sports"></a>Sports
 
