@@ -180,7 +180,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
 - [formbase](https://formbase.so) `https://api.formbase.so/api/mcp`
   [![formbase MCP connector](https://glama.ai/mcp/connectors/io.github.formbaseso/formbase-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.formbaseso/formbase-mcp)
-  🔐 - Collect verified customer information for workflows and AI agents.
+  🔐 - Collect verified customer information with one request. The customer confirms or corrects a branded, prefilled form; answers come back under your field keys.
 - [GoodSign](https://goodsign.io/mcp-server) `https://goodsign.io/mcp`
   [![GoodSign MCP connector](https://glama.ai/mcp/connectors/io.goodsign/goodsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.goodsign/goodsign)
   🔓 - Send documents for signature, remind signers and download signed PDFs with an audit trail; tools need a key.
