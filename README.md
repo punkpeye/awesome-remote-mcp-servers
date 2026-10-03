@@ -290,6 +290,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
+  [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
+  🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
