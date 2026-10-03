@@ -366,6 +366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SnapHost](https://snaphost.ai) `https://app.snaphost.ai/api/mcp`
   [![SnapHost MCP connector](https://glama.ai/mcp/connectors/ai.snaphost/snaphost/badges/score.svg)](https://glama.ai/mcp/connectors/ai.snaphost/snaphost)
   🔐 - Publish a page or site to a private link, control who can view it, and update it in place.
+- [spacesheep](https://spacesheep.dev) `https://mcp.spacesheep.dev/mcp`
+  [![spacesheep MCP connector](https://glama.ai/mcp/connectors/dev.spacesheep/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.spacesheep/mcp)
+  🔐 - Publish pages your agent writes to a private, shareable URL, then read, comment on and update them.
 - [Storyblok](https://storyblok.com) `https://mcp.storyblok.com/mcp`
   🔓 - Manage Storyblok spaces, stories, and components.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
