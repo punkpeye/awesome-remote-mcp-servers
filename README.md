@@ -1573,6 +1573,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+- [ViralDecoder](https://viraldecoder.online/claude) `https://viraldecoder.online/mcp`
+  [![ViralDecoder MCP connector](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder/badges/score.svg)](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder)
+  🔐 - Breaks down Instagram Reels, Shorts and TikToks: hook score, why it went viral, a script for yours.
 - [XPlanner](https://xplanner.co/en/mcp) `https://mcp.xplanner.co/mcp`
   [![XPlanner MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner)
   🔐 - Turn ideas into platform-ready drafts, schedule posts, and publish from one content workspace.
