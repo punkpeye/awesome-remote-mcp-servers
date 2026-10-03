@@ -1065,6 +1065,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BillWatch](https://getbillwatchdog.com) `https://getbillwatchdog.com/mcp`
   [![BillWatch MCP connector](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch)
   🔓 - Search current US streaming and VPN plan prices and price history, with links to each provider.
+- [BitcoinYield](https://bitcoinyield.co/docs) `https://bitcoinyield.co/api/mcp`
+  [![BitcoinYield MCP connector](https://glama.ai/mcp/connectors/co.bitcoinyield/yields/badges/score.svg)](https://glama.ai/mcp/connectors/co.bitcoinyield/yields)
+  🔓 - Live yields for BTC, ETH, stablecoins and 60+ assets across DeFi and CeFi, risk-ranked with an A-D grade each.
 - [Bitquery](https://bitquery.io/products/bitquery-mcp-server) `https://mcp.bitquery.io`
   [![Bitquery MCP connector](https://glama.ai/mcp/connectors/io.bitquery/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.bitquery/mcp)
   🔐 - Crypto investigations and trading data: fund tracing, address labels, AML risk, DEX trades, OHLCV and trader PnL.
