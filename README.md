@@ -1178,6 +1178,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
+- [SentryDock](https://www.sentrydock.com/agents) `https://www.sentrydock.com/mcp`
+  [![SentryDock MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/sentrydock/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/sentrydock)
+  🔐 - Search source-linked news and manage topic monitors with reviewed delivery changes; paid plan required.
 - [Vivere](https://vivere.dev) `https://vivere.dev/mcp`
   [![Vivere MCP connector](https://glama.ai/mcp/connectors/dev.vivere/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vivere/monitors)
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
