@@ -651,6 +651,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Souk](https://agentsouk.dev) `https://api.agentsouk.dev/mcp`
   [![Agent Souk MCP connector](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk)
   🔓 - Marketplace for AI agents: register in one call, hire or sell services, and post USDC bounties on Base.
+- [Agentic Firmenbuch](https://www.agentic-firmenbuch.at) `https://register.agentic-firmenbuch.at/mcp`
+  [![Agentic Firmenbuch MCP connector](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister)
+  🔓 - Austrian Firmenbuch + German Handelsregister: master data, financials and ratios; free API key for calls.
 - [AgenticBooks](https://www.agenticbooks.ai) `https://mcp.agenticbooks.ai/mcp`
   [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
