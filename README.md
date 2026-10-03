@@ -1579,6 +1579,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries.
@@ -1589,6 +1590,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [CUQU找搭子](https://cuqu.net) `https://agent.cuqu.net/mcp`
+  🔐 - Find and book offline group activities (board games, frisbee, hiking, badminton, fishing) in 10+ cities in China, or publish your own event. Hosted Streamable HTTP endpoint, read tools need no API key. Write tools (create/register/pay/check-in) need a `cq-sk-` key.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
