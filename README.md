@@ -1193,6 +1193,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
+- [Creative Claw](https://creativeclaw.co) `https://app.creativeclaw.co/mcp`
+  [![Creative Claw MCP connector](https://glama.ai/mcp/connectors/co.creativeclaw/creative-claw/badges/score.svg)](https://glama.ai/mcp/connectors/co.creativeclaw/creative-claw)
+  🔐 - Generate and edit images, video, and audio with reusable Characters and brand assets.
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
