@@ -1756,6 +1756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
+- [Penny Press](https://www.pennypress.org) `https://www.pennypress.org/mcp`
+  [![Penny Press MCP connector](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press)
+  🔓 - Original essays on freedom, economics and philosophy; free for humans, pay-per-read for machines via x402 micropayments.
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate a decision from every side; debates need a Pro key.
