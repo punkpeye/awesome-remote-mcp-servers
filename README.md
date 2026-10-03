@@ -1236,6 +1236,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Uttera](https://uttera.ai) `https://mcp.uttera.ai/mcp`
   [![Uttera MCP connector](https://glama.ai/mcp/connectors/ai.uttera/uttera/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uttera/uttera)
   🔐 - Transcribe and summarise recordings, and generate speech in 30 languages, sound effects and music.
+- [YouTube Transcript + YouTube Search MCP](https://getyoutubetranscript.com) `https://getyoutubetranscript.com/api/mcp`
+  [![YouTube Transcript + YouTube Search MCP MCP connector](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search)
+  🔓 - Fetch YouTube transcripts, search videos/channels, and extract playlists; also accepts an API key.
 - [ZoneFoundry for Sonos](https://zonefoundry.dev/guides/ai-agent-control/) `https://relay.zonefoundry.dev/mcp`
   [![ZoneFoundry for Sonos MCP connector](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos/badges/score.svg)](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos)
   🔐 - Control your Sonos speakers: play music, set volume, group rooms, move playback, announcements and reminders.
