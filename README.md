@@ -1018,6 +1018,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
 
+- [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
+  [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
+  🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
+
 ### 🎯 <a name="marketing"></a>Marketing
 
 - [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
