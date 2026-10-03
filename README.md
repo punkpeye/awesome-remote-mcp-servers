@@ -308,6 +308,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
+- [Postedly](https://postedly.com/developers) `https://postedly.com/mcp/send`
+  [![Postedly MCP connector](https://glama.ai/mcp/connectors/com.postedly/send/badges/score.svg)](https://glama.ai/mcp/connectors/com.postedly/send)
+  🔐 - Quote available handwritten cards, open a private review link, and read owned order status.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [Sending](https://sending.dev) `https://sending.dev/api/mcp`
@@ -1053,6 +1056,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
+- [MentionedOn](https://mentioned-on.com/developers/mcp) `https://mentioned-on.com/mcp`
+  [![MentionedOn MCP connector](https://glama.ai/mcp/connectors/com.mentioned-on/ai-discovery-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.mentioned-on/ai-discovery-readiness)
+  🔓 - Review supplied AI-discovery evidence and prioritize visibility improvements.
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
@@ -1193,6 +1199,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
+- [Dibatto](https://dibatto.com/developers) `https://dibatto.com/mcp`
+  [![Dibatto MCP connector](https://glama.ai/mcp/connectors/com.soxoa/dibatto-podcast/badges/score.svg)](https://glama.ai/mcp/connectors/com.soxoa/dibatto-podcast)
+  🔐 - Review saved podcast rundowns and transcripts, and prepare private episode drafts.
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
@@ -1271,6 +1280,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📋 <a name="project-management"></a>Project Management
 
+- [Afterglow](https://afterglow-lime.vercel.app/developers) `https://afterglow-lime.vercel.app/mcp`
+  [![Afterglow MCP connector](https://glama.ai/mcp/connectors/com.soxoa/afterglow-checklists/badges/score.svg)](https://glama.ai/mcp/connectors/com.soxoa/afterglow-checklists)
+  🔓 🔐 - Read applicable breakup and separation checklists and save confirmed task progress; OAuth for account tools.
 - [AgileHero](https://agilehero.io) `https://mcp.agilehero.io/mcp`
   [![AgileHero MCP connector](https://glama.ai/mcp/connectors/io.agilehero/agilehero/badges/score.svg)](https://glama.ai/mcp/connectors/io.agilehero/agilehero)
   🔐 - Manage agile boards, epics, roadmaps, retrospectives, whiteboards, and wiki pages.
@@ -1313,6 +1325,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [CasaCaddy](https://api.casacaddy.com/developers) `https://api.casacaddy.com/mcp`
+  [![CasaCaddy MCP connector](https://glama.ai/mcp/connectors/com.soxoa/casacaddy-maintenance/badges/score.svg)](https://glama.ai/mcp/connectors/com.soxoa/casacaddy-maintenance)
+  🔓 🔐 - Read maintenance requirements, prepare confirmed guides and check device-owned guide jobs; OAuth for account tools.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
@@ -1329,12 +1344,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pillr](https://pillr.fr/mcp) `https://pillr.fr/api/mcp`
   [![Pillr MCP connector](https://glama.ai/mcp/connectors/fr.pillr/pillr/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pillr/pillr)
   🔓 - French property data: price per m² by municipality, local market summary and planning permit requirements.
+- [Portravo](https://portravo.com/developers/mcp) `https://portravo.com/mcp`
+  [![Portravo MCP connector](https://glama.ai/mcp/connectors/com.portravo/construction-takeoff/badges/score.svg)](https://glama.ai/mcp/connectors/com.portravo/construction-takeoff)
+  🔓 🔐 - Review construction plan takeoffs and download estimates after review and pricing; OAuth for account tools.
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance or HOA document, with its date and source quote.
 
 ### 🚗 <a name="sales"></a>Sales
 
+- [Intakra](https://intakra.com/mcp-guide) `https://intakra.com/mcp`
+  [![Intakra MCP connector](https://glama.ai/mcp/connectors/com.intakra/buying-signal-review/badges/score.svg)](https://glama.ai/mcp/connectors/com.intakra/buying-signal-review)
+  🔓 - Score supplied buying signals and prepare a review-only why-now brief.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
@@ -1375,6 +1396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
+- [Dokyumi](https://dokyumi.com/docs/mcp) `https://dokyumi.com/mcp`
+  [![Dokyumi MCP connector](https://glama.ai/mcp/connectors/com.dokyumi/document-extraction/badges/score.svg)](https://glama.ai/mcp/connectors/com.dokyumi/document-extraction)
+  🔓 🔐 - Extract attached documents with saved schemas and review confidence and validation; OAuth for account tools.
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
   [![Exa MCP connector](https://glama.ai/mcp/connectors/ai.exa/exa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exa/exa)
   🔓 - Neural web search that returns full page contents.
@@ -1503,6 +1527,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
+- [RegSentry](https://regsentry.com/mcp-guide) `https://regsentry.com/mcp`
+  [![RegSentry MCP connector](https://glama.ai/mcp/connectors/com.regsentry/tracking-inspector/badges/score.svg)](https://glama.ai/mcp/connectors/com.regsentry/tracking-inspector)
+  🔓 - Inspect authorized static tracking signals and review supplied consent evidence.
 - [ScanMalware](https://scanmalware.com) `https://mcp.scanmalware.com/mcp`
   [![ScanMalware MCP connector](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp)
   🔓 - Scan URLs in a sandboxed browser and pivot across past scans by domain, IP, ASN or fingerprint.
@@ -1717,6 +1744,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
+- [Ocolta](https://app.ocolta.com/workspace/integrations) `https://app.ocolta.com/mcp`
+  [![Ocolta MCP connector](https://glama.ai/mcp/connectors/com.soxoa/ocolta-review-summaries/badges/score.svg)](https://glama.ai/mcp/connectors/com.soxoa/ocolta-review-summaries)
+  🔓 🔐 - Read your existing categorical document review signals, confidence and indicator counts; OAuth for account tools.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
@@ -1726,6 +1756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
+- [Soxoa](https://soxoa.com/mcp-guide) `https://soxoa.com/mcp`
+  [![Soxoa MCP connector](https://glama.ai/mcp/connectors/com.soxoa/automation-planning/badges/score.svg)](https://glama.ai/mcp/connectors/com.soxoa/automation-planning)
+  🔓 - Estimate illustrative automation ROI and prioritize user-described recurring workflows.
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
