@@ -1468,6 +1468,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vend](https://extract.paypercall.dev) `https://extract.paypercall.dev/mcp`
   [![Vend MCP connector](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant)
   🔓 - Extract, search, and analyze web pages and domains with pay-per-call tools settled in Nano (XNO) via x402.
+- [Web Content & URL Tools](https://apify.com/avalonai/web-content-url-tools-mcp) `https://avalonai--web-content-url-tools-mcp.apify.actor/mcp`
+  [![Web Content & URL Tools MCP connector](https://glama.ai/mcp/connectors/actor.apify.avalonai--web-content-url-tools-mcp/web-content-and-url-tools/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.avalonai--web-content-url-tools-mcp/web-content-and-url-tools)
+  🔑 - Web page to Markdown, metadata, tech stack, SSL, SEO, WHOIS/DNS, email auth (SPF/DMARC/DKIM) and SSO checks.
 
 ### 🔒 <a name="security"></a>Security
 
