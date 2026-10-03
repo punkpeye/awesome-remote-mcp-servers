@@ -1233,6 +1233,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Treza](https://www.trezalabs.com/connect) `https://www.trezalabs.com/api/mcp`
   [![Treza MCP connector](https://glama.ai/mcp/connectors/io.github.treza-labs/treza/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.treza-labs/treza)
   🔐 - Video pipelines that script, render, narrate, caption and publish to YouTube and TikTok.
+- [Upstream.so](https://upstream.so/mcp/) `https://studio.upstream.so/mcp`
+  [![Upstream.so MCP connector](https://glama.ai/mcp/connectors/so.upstream.studio/upstreamso/badges/score.svg)](https://glama.ai/mcp/connectors/so.upstream.studio/upstreamso)
+  🔐 - Manage 24/7 live channels, pre-recorded broadcasts, media, playlists, schedules, and multistreaming from AI assistants.
 - [Uttera](https://uttera.ai) `https://mcp.uttera.ai/mcp`
   [![Uttera MCP connector](https://glama.ai/mcp/connectors/ai.uttera/uttera/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uttera/uttera)
   🔐 - Transcribe and summarise recordings, and generate speech in 30 languages, sound effects and music.
