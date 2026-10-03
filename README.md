@@ -290,6 +290,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [CallForMe](https://callforme.tel) `https://callforme.tel/mcp`
+  [![CallForMe MCP connector](https://glama.ai/mcp/connectors/tel.callforme/callforme/badges/score.svg)](https://glama.ai/mcp/connectors/tel.callforme/callforme)
+  🔐 - Have your agent phone a business for quotes, bookings or cancellations and get the transcript and answers back.
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
