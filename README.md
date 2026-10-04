@@ -436,6 +436,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
+- [BlockVectra](https://blockvectra.com) `https://docs.blockvectra.com/mcp`
+  [![BlockVectra MCP connector](https://glama.ai/mcp/connectors/com.blockvectra/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.blockvectra/docs)
+  🔓 - Multi-chain JSON-RPC and Data API docs, chains, live status and pricing; RPC and account tools need an API key.
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
   [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
   🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
