@@ -1629,6 +1629,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only data for Polish short-term rental owners: reservations, availability, pricing and reviews.
+- [ConnectMeGuru](https://www.connectmeguru.com) `https://www.connectmeguru.com/api/mcp`
+  🔓 - International travel eSIM data plans across 190+ countries: search destination catalogs, validate discount coupons, check wallet balance, and purchase eSIMs.
 - [eSIMfly](https://esimfly.net/esim-api) `https://mcp.esimfly.net/mcp`
   [![eSIMfly MCP connector](https://glama.ai/mcp/connectors/io.github.eSimfly-Official/esimfly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eSimfly-Official/esimfly-mcp)
   🔐 - Wholesale eSIM plans in 200+ countries for resellers: search, order, top up and diagnose eSIMs.
