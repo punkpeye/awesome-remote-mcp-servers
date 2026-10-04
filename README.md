@@ -1104,6 +1104,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
   [![Mencoro MCP connector](https://glama.ai/mcp/connectors/com.mencoro/mencoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.mencoro/mencoro)
   🔐 - Track brand rank, mentions, sentiment and Share of Voice in ChatGPT, Perplexity and Google AI answers.
+- [Mimiq](https://www.mimiqai.com) `https://mcp.mimiqai.com/mcp`
+  [![Mimiq MCP connector](https://glama.ai/mcp/connectors/io.github.victorgulchenko/mimiq-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.victorgulchenko/mimiq-mcp)
+  🔐 - Test landing pages, copy and sign-up flows on simulated customers who say why they would stay or leave.
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, audits, backlinks, Search Console and AI visibility for your Miraqo SEO projects.
