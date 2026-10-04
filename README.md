@@ -396,6 +396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [CloudCrane](https://cloudcrane.ai) `https://cloudcrane.ai/api/build/mcp`
+  [![CloudCrane MCP connector](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace)
+  🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
 - [Convex](https://convex.dev) `https://mcp.convex.dev/mcp`
   🔓 - Query and manage Convex deployments, tables, and functions.
 - [MongoDB](https://mongodb.com) `https://mcp.mongodb.com/mcp`
