@@ -1017,6 +1017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
+  - [RegAI Legal MCP](https://regai.tw/mcp) `https://mcp.regai.tw/mcp`
+  [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
+  🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
