@@ -1187,6 +1187,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
+- [Blumify](https://blumify.io/developers) `https://blumify.io/api/media/v1/mcp`
+  [![Blumify MCP connector](https://glama.ai/mcp/connectors/io.blumify/transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.blumify/transcripts)
+  🔐 - Transcripts, summaries and Q&A for YouTube videos and podcasts, private transcripts, playlists and creator follows.
+- [Blumify (public)](https://blumify.io/developers) `https://blumify.io/api/media/v1/mcp/public`
+  [![Blumify (public) MCP connector](https://glama.ai/mcp/connectors/io.blumify/transcripts-public/badges/score.svg)](https://glama.ai/mcp/connectors/io.blumify/transcripts-public)
+  🔓 - Read any existing YouTube or podcast transcript with its summary and chapters, no sign-in.
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
