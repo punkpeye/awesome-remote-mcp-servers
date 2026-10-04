@@ -1083,6 +1083,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![iMario MCP connector](https://glama.ai/mcp/connectors/ai.imario/imario/badges/score.svg)](https://glama.ai/mcp/connectors/ai.imario/imario)
   🔐 - Ask synthetic audiences built from real people how they react to copy, pages, prices and images.
 
+- [InstaVision](https://instavision.co/mcp) `https://instavision.co/api/mcp/mcp`
+  [![InstaVision MCP connector](https://glama.ai/mcp/connectors/co.instavision/instagram-discovery/badges/score.svg)](https://glama.ai/mcp/connectors/co.instavision/instagram-discovery)
+  🔓 - Find Instagram creators and leads by niche, city, follower range or lookalike accounts; searches need an API key.
+
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
