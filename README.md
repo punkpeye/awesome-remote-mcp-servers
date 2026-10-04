@@ -348,6 +348,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [Kamaan](https://kamaan.io) `https://kamaan.io/mcp`
+  [![Kamaan MCP connector](https://glama.ai/mcp/connectors/io.kamaan/kamaan/badges/score.svg)](https://glama.ai/mcp/connectors/io.kamaan/kamaan)
+  🔐 - Multi-site blog and help-center CMS: write, edit, translate and publish articles from any MCP client.
 - [Lediv](https://lediv.com) `https://lediv.app/mcp`
   [![Lediv MCP connector](https://glama.ai/mcp/connectors/app.lediv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.lediv/mcp)
   🔐 - Visual website builder synced with real code: edit files, publish, roll back, manage domains and previews.
@@ -938,6 +941,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [Contextli](https://contextli.com) `https://mcp.contextli.com/mcp`
+  [![Contextli MCP connector](https://glama.ai/mcp/connectors/com.contextli/contextli/badges/score.svg)](https://glama.ai/mcp/connectors/com.contextli/contextli)
+  🔐 - Voice notes and dictation: search and read your own Contextli transcriptions from Claude, ChatGPT or Cursor.
 - [docs2mcp](https://docs2mcp.com) `https://mcp.docs2mcp.com/mcp`
   [![docs2mcp MCP connector](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs2mcp/docs2mcp)
   🔐 - Query your own PDFs and documents, with every answer linking to the exact page and region it came from.
@@ -958,6 +964,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
+- [Locul](https://locul.ai) `https://team-api.locul.ai/mcp`
+  [![Locul MCP connector](https://glama.ai/mcp/connectors/ai.locul/cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.locul/cloud)
+  🔐 - AI memory: recall your Locul second brain, entity profiles and source notes from Claude or ChatGPT.
 - [MemorySync](https://memorysync.io) `https://mcp.memorysync.io/mcp`
   [![MemorySync MCP connector](https://glama.ai/mcp/connectors/io.memorysync/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/memory)
   🔐 - Scoped, persistent memory for agents to save, inspect and recall decisions across sessions.
@@ -1053,6 +1062,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
+- [Meisa](https://meisa.io) `https://mcp.meisa.io/mcp`
+  [![Meisa MCP connector](https://glama.ai/mcp/connectors/io.meisa/meisa/badges/score.svg)](https://glama.ai/mcp/connectors/io.meisa/meisa)
+  🔐 - Email marketing for SaaS founders: contacts, templates, sequences, broadcasts and analytics from chat.
+- [Murkuz](https://murkuz.com) `https://murkuz.com/mcp`
+  [![Murkuz MCP connector](https://glama.ai/mcp/connectors/com.murkuz/murkuz/badges/score.svg)](https://glama.ai/mcp/connectors/com.murkuz/murkuz)
+  🔐 - SEO MCP: your Search Console, GA4 and Bing Webmaster data across every site, with live SEO analyses.
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
@@ -1137,6 +1152,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility checks: AI crawlability, robots.txt, llms.txt, JSON-LD and social previews.
+- [Testimonials.ltd](https://testimonials.ltd) `https://testimonials.ltd/mcp`
+  [![Testimonials.ltd MCP connector](https://glama.ai/mcp/connectors/ltd.testimonials/testimonials/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.testimonials/testimonials)
+  🔐 - Testimonials and wall of love widgets: import reviews, approve, tag and pin the best ones from chat.
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
@@ -1532,6 +1550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
+- [LigoSocial](https://ligosocial.com) `https://ligosocial.com/mcp`
+  [![LigoSocial MCP connector](https://glama.ai/mcp/connectors/com.ligosocial/ligosocial/badges/score.svg)](https://glama.ai/mcp/connectors/com.ligosocial/ligosocial)
+  🔐 - LinkedIn MCP: draft posts in your voice, read post analytics, schedule and publish via LinkedIn's official API.
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
@@ -1609,6 +1630,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
   [![globalize.now MCP connector](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize)
   🔐 - Localize apps: translate locale files, set glossaries and connect GitHub repos.
+- [Hydori](https://hydori.io) `https://hydori.io/mcp`
+  [![Hydori MCP connector](https://glama.ai/mcp/connectors/io.hydori/hydori/badges/score.svg)](https://glama.ai/mcp/connectors/io.hydori/hydori)
+  🔐 - WordPress blog translation: read, write, translate, score and sync articles to WordPress, Webflow or Ghost.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
