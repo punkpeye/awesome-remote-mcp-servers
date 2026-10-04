@@ -1529,6 +1529,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
+- [HonestHook](https://honesthook.com/docs) `https://honesthook.com/api/mcp`
+  [![HonestHook MCP connector](https://glama.ai/mcp/connectors/com.honesthook/social-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.honesthook/social-data)
+  🔓 - Read public profiles, posts and hourly archived history from 12 social platforms; most tools need an API key.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
