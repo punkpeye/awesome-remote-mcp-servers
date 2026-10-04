@@ -1296,6 +1296,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
+- [MCPBinder](https://www.mcpbinder.com) `https://www.mcpbinder.com/api/mcp`
+  [![MCPBinder MCP connector](https://glama.ai/mcp/connectors/io.github.ReedStories/mcpbinder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ReedStories/mcpbinder)
+  🔐 - Read project goals and tasks, plan work, and record decisions with scoped access.
 - [mcptask.online](https://mcptask.online) `https://mcptask.online/mcp`
   [![mcptask.online MCP connector](https://glama.ai/mcp/connectors/online.mcptask/mcptaskonline/badges/score.svg)](https://glama.ai/mcp/connectors/online.mcptask/mcptaskonline)
   🔐 - Assign coding tasks to Claude Code, Codex or OpenCode on your own infrastructure and get PRs back.
