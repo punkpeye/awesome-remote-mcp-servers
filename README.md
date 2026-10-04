@@ -725,6 +725,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - RPC gateway for six mainnets with failover: balances, history, ABIs, gas and transactions; x402 pay-per-call.
+- [FloorGuard](https://floorguard-kappa.vercel.app/api/) `https://floorguard-kappa.vercel.app/api/mcp`
+  [![FloorGuard MCP connector](https://glama.ai/mcp/connectors/io.github.kburrus64-max/prop-firm-rules/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kburrus64-max/prop-firm-rules)
+  🔓 - Sourced prop-firm daily-loss and max-drawdown rules (FTMO, Topstep, Apex, more) and a drawdown-room checker.
 - [Foresee](https://go-foresee.com) `https://agents.go-foresee.com/mcp`
   [![Foresee MCP connector](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee)
   🔓 - Compare live home and auto insurance quotes from carriers' own sites.
