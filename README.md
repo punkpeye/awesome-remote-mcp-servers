@@ -1336,6 +1336,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🚗 <a name="sales"></a>Sales
 
 - [ListSignal](https://listsignal.com/developers) `https://listsignal.com/mcp`
+  [![ListSignal MCP connector](https://glama.ai/mcp/connectors/com.listsignal/listsignal/badges/score.svg)](https://glama.ai/mcp/connectors/com.listsignal/listsignal)
   🔑 - B2B company intelligence: tech stack lookup, Shopify app detection, revenue and employee estimates, hiring signals with posting dates, and contact data for 16M+ online businesses. Free tier: 1,000 calls/month.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
