@@ -830,6 +830,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Undesirables TCG Oracle](https://the-undesirables.com) `https://mcp.the-undesirables.com/mcp`
   [![The Undesirables TCG Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server)
   🔓 - On-chain oracle for 456K+ trading cards: prices, forecasts, AI grading; free reads, paid via x402.
+- [TokenBank](https://tokenbank.world) `https://mcp.tokenbank.world`
+  [![TokenBank MCP connector](https://glama.ai/mcp/connectors/world.tokenbank/tokenbank/badges/score.svg)](https://glama.ai/mcp/connectors/world.tokenbank/tokenbank)
+  🔓 - 4,500+ tokenized RWAs and stock perps; every token and perp on one security, compared by issuer, rights and cost.
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
