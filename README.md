@@ -299,6 +299,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
+- [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
+  [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
+  🔐 - Read new email from the IMAP inboxes you choose, read-only, with your saved rules and per-connection progress.
 - [meld](https://meld.mergeinc.workers.dev) `https://meld.mergeinc.workers.dev/mcp`
   [![meld MCP connector](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld)
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
