@@ -1762,6 +1762,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RemoveDuplicates.org](https://removeduplicates.org/) `https://removeduplicates.org/mcp`
   [![RemoveDuplicates.org MCP connector](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg)
   🔓 - Remove duplicate lines or CSV/TSV rows; stateless, text is never stored.
+- [RoxyAPI Vedic Astrology](https://roxyapi.com/products/vedic-astrology-api) `https://roxyapi.com/mcp/vedic-astrology`
+  [![RoxyAPI Vedic Astrology MCP connector](https://glama.ai/mcp/connectors/com.roxyapi/vedic-astrology/badges/score.svg)](https://glama.ai/mcp/connectors/com.roxyapi/vedic-astrology)
+  🔑 - Kundli, panchang, Vimshottari dasha, doshas, yogas, KP astrology and kundli matching from NASA JPL DE440.
+- [RoxyAPI Western Astrology](https://roxyapi.com/products/astrology-api) `https://roxyapi.com/mcp/astrology`
+  [![RoxyAPI Western Astrology MCP connector](https://glama.ai/mcp/connectors/com.roxyapi/astrology/badges/score.svg)](https://glama.ai/mcp/connectors/com.roxyapi/astrology)
+  🔑 - Natal charts, horoscopes, synastry, transits and returns from NASA JPL DE440; one key covers 18+ insight domains.
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
