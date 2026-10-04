@@ -784,6 +784,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+  - [Paramount Loan Services](https://paramountls.com/api.html) `https://paramountls.com/mcp`
+  [![Paramount Loan Services MCP connector](https://glama.ai/mcp/connectors/com.paramountls/loan-application/badges/score.svg)](https://glama.ai/mcp/connectors/com.paramountls/loan-application)
+  🔓 - File a Fannie Mae Form 1003 mortgage application with a licensed California broker; dry runs validate first.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [PumpPill](https://www.pumppill.org/for-agents) `https://api.pumppill.org/mcp`
