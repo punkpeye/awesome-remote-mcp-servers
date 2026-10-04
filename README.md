@@ -1737,6 +1737,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Cookieless, EU-hosted web analytics: visitors, pages, sources, countries, goals, funnels and live traffic.
+- [SubmitMyStartup](https://submitmystartup.com/) `https://submitmystartup.com/mcp`
+  [![SubmitMyStartup MCP connector](https://glama.ai/mcp/connectors/com.submitmystartup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.submitmystartup/mcp)
+  🔓 - Searches a free list of startup directories and launch sites with real submission results.
 - [Subtraq](https://subtraq.co) `https://subtraq.co/api/mcp`
   [![Subtraq MCP connector](https://glama.ai/mcp/connectors/co.subtraq/subtraq/badges/score.svg)](https://glama.ai/mcp/connectors/co.subtraq/subtraq)
   🔓 - Create short links, track clicks and attribute sales to the placement that brought them; tools need a key.
