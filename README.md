@@ -740,6 +740,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
+- [Jithox](https://jithox.com) `https://jithox.com/api/mcp`
+  [![Jithox MCP connector](https://glama.ai/mcp/connectors/com.jithox/jithox/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/jithox)
+  🔓 - Check an invoice payment before an agent pays: IBAN, supplier bank change and Peppol; five tools need no account.
 - [Jithox E-Invoice](https://jithox.com/mcp/einvoice) `https://mcp.jithox.com/mcp`
   [![Jithox E-Invoice MCP connector](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness)
   🔓 - Read-only EU e-invoice checks: invoice structure, VAT format, VIES and Peppol lookup; tools need OAuth.
