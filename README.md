@@ -313,6 +313,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sending](https://sending.dev) `https://sending.dev/api/mcp`
   [![Sending MCP connector](https://glama.ai/mcp/connectors/dev.sending/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sending/mcp)
   🔐 - Email, WhatsApp and Telegram for agents: send, campaigns, automations, contacts, agent inboxes.
+- [Sendpaper](https://sendmypaper.com) `https://sendmypaper.com/mcp`
+  [![Sendpaper MCP connector](https://glama.ai/mcp/connectors/io.github.ryan-tish/sendpaper/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ryan-tish/sendpaper)
+  🔓 - Mail real postcards and letters by USPS First-Class, with an exact print preview; pay by checkout link or Stripe Link.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
