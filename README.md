@@ -512,6 +512,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
+- [RAPP Agent Builder](https://kody-w.github.io/rapp-chatgpt/) `https://rapp-agent-builder.azurewebsites.net/mcp`
+  [![RAPP Agent Builder MCP connector](https://glama.ai/mcp/connectors/io.github.kody-w/rapp-agent-builder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kody-w/rapp-agent-builder)
+  🔓 - Build single-file Python AI agents from an idea or transcript, check them against a template, and run them in chat.
+- [RAPP Domains](https://kody-w.github.io/rapp-chatgpt/) `https://rapp-agent-builder.azurewebsites.net/domains/mcp`
+  [![RAPP Domains MCP connector](https://glama.ai/mcp/connectors/io.github.kody-w/rapp-domains/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kody-w/rapp-domains)
+  🔓 - Check and price up to 20 domain names at once from live registry data; agents can register via x402.
+- [RAR Agent Finder](https://kody-w.github.io/rapp-chatgpt/) `https://rapp-agent-builder.azurewebsites.net/finder/mcp`
+  [![RAR Agent Finder MCP connector](https://glama.ai/mcp/connectors/io.github.kody-w/rar-agent-finder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kody-w/rar-agent-finder)
+  🔓 - Search about 1,700 open single-file AI agents in the RAPP Agent Registry and fetch hash-verified code.
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
@@ -713,6 +722,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [DOGG World Check](https://kody-w.github.io/rapp-chatgpt/) `https://rapp-agent-builder.azurewebsites.net/world/mcp`
+  [![DOGG World Check MCP connector](https://glama.ai/mcp/connectors/io.github.kody-w/dogg-world-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kody-w/dogg-world-check)
+  🔓 - Verified world snapshot (BTC, FX, quakes, space weather) with a public tick and SHA-256 fingerprint to cite.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
