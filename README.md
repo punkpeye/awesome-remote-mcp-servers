@@ -371,6 +371,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
+- [WebZum](https://webzum.com) `https://webzum.com/api/mcp`
+  [![WebZum MCP connector](https://glama.ai/mcp/connectors/io.github.suprraz/webzum/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.suprraz/webzum)
+  🔓 - Builds complete small-business websites with local SEO, a logo and hosting in 5 minutes; also hosts HTML.
 - [Wix](https://wix.com) `https://mcp.wix.com/mcp`
   [![Wix MCP connector](https://glama.ai/mcp/connectors/com.wix/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wix/mcp)
   🔐 - Manage Wix sites, business data, and bookings.
