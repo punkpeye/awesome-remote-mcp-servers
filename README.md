@@ -709,7 +709,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Live Polymarket and Kalshi odds, all-in executable quotes with fees, pre-bet EV checks, and audited AI track records.
 
 - [Zovo Price Tracker](https://mcp.zovo.one/s/price-tracker) `https://mcp.zovo.one/mcp/price-tracker`
-  [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker)
+  [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch)
   🔓 - Watch shop prices over time from chat: snapshot pages, track a watch list, and get target alerts, with history kept locally.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
