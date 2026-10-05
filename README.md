@@ -701,7 +701,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CryptoMacro](https://asistent-crypto.vercel.app/a2a) `https://asistent-crypto.vercel.app/mcp`
   [![CryptoMacro MCP connector](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis)
   🔓 - Crypto positioning and macro regime: funding, open interest, implied volatility and Fed rates.
-  - [Cryptominium](https://cryptominium.com) `https://cryptominium.com/mcp`
+- [Cryptominium](https://cryptominium.com) `https://cryptominium.com/mcp`
   [![Cryptominium MCP connector](https://glama.ai/mcp/connectors/com.cryptominium/cryptominium/badges/score.svg)](https://glama.ai/mcp/connectors/com.cryptominium/cryptominium)
   🔓 - Measured crypto exit costs, a monthly liquidity index, and address and transaction lookups. Read-only.
 - [CurveCall](https://curvecall.onrender.com) `https://curvecall.onrender.com/mcp/`
