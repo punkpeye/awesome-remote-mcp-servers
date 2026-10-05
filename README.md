@@ -1372,7 +1372,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cn-intel-mcp](https://github.com/lory69060/cn-intel-mcp) `https://cn-intel-mcp.lory69060.workers.dev/mcp`
   [![cn-intel-mcp MCP connector](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp)
   🔓 - China hard-tech supply-chain signals with a track record: chips, batteries, eVTOL and pharma.
-- [CityAlert](https://cityalert.live) `https://cityalert.live/api/mcp`
+- [CityAlert](https://cityalert.live) `https://cityalert.live/.well-known/mcp`
   [![CityAlert MCP connector](https://glama.ai/mcp/connectors/live.cityalert/cityalert/badges/score.svg)](https://glama.ai/mcp/connectors/live.cityalert/cityalert)
   🔓 - Live public-safety incidents and safety news from 650+ official feeds; filter by city, region or bbox.
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
