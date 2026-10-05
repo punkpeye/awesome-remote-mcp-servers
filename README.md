@@ -1184,6 +1184,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Face Transform](https://platform.acedata.cloud) `https://face.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Face Transform MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-face-transform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-face-transform)
+  🔐 - Detect facial landmarks, retouch portraits, transform age or style, and check liveness.
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
