@@ -1657,6 +1657,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MobilityMCP](https://ai.projektionisten.eu/mcp-landingpage/#mmcp) `https://ai.projektionisten.eu/mmcp`
   [![MobilityMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/mobility/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/mobility)
   🔐 - German public transport: journeys, departures, disruptions, and nearby stops and sharing vehicles.
+- [Plain Freight](https://plainfreight.com/for-agents) `https://plainfreight.com/api/mcp`
+  [![Plain Freight MCP connector](https://glama.ai/mcp/connectors/com.plainfreight/quotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainfreight/quotes)
+  🔓 - Price China to USA freight door to door, 100 g to 2,000 kg: all-in DDP offers, estimates and goods checks.
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
