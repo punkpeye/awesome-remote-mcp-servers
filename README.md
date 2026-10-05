@@ -593,6 +593,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+- [Vendooly](https://vendooly.com/en/) `https://mcp.vendooly.com/mcp`
+  [![Vendooly MCP connector](https://glama.ai/mcp/connectors/com.vendooly/vendooly/badges/score.svg)](https://glama.ai/mcp/connectors/com.vendooly/vendooly)
+  🔓 🔐 - Manage Amazon Seller Central, Vendor Central and Ads via official APIs; each write is previewed and needs your approval.
 
 ### 🌳 <a name="environment"></a>Environment
 
