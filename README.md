@@ -1705,6 +1705,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
+- [JobFinder](https://www.jobfinder-ai.com/ai-connector) `https://mcp.jobfinder-ai.com/mcp`
+  [![JobFinder MCP connector](https://glama.ai/mcp/connectors/com.jobfinder-ai/jobfinder/badges/score.svg)](https://glama.ai/mcp/connectors/com.jobfinder-ai/jobfinder)
+  🔐 - Review job matches, read drafted outreach, approve or reject applications and track replies.
 - [KDAN PDF](https://pdf-reader.kdandoc.com/products/mcp/claude) `https://mcp.kdandoc.com/mcp`
   [![KDAN PDF MCP connector](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp)
   🔓 - Compress, delete pages, redact PII, compare versions, and add or remove password protection on PDFs.
