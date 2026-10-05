@@ -2234,6 +2234,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NC Wedding Guide](https://www.ncweddingguide.com) `https://www.ncweddingguide.com/mcp`
   [![NC Wedding Guide MCP connector](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide)
   🔓 - Search North Carolina wedding venues and vendors, estimate costs, build budgets, and prepare vendor inquiries.
+- [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
+  [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
+  🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
