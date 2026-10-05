@@ -1597,6 +1597,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hardware end-of-life lookups by part number, backed by vendor bulletins.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
+- [NexTool MCP for GLPI](https://nextoolsolutions.com/mcp) `https://mcp.nextoolsolutions.com/mcp`
+  [![NexTool MCP for GLPI MCP connector](https://glama.ai/mcp/connectors/com.nextoolsolutions/glpi/badges/score.svg)](https://glama.ai/mcp/connectors/com.nextoolsolutions/glpi)
+  🔐 - Search, create and update GLPI tickets, ITIL problems and changes, assets and knowledge base.
 - [ORYKSA AI Employees](https://mcp.oryksa.com) `https://mcp.oryksa.com`
   [![ORYKSA AI Employees MCP connector](https://glama.ai/mcp/connectors/com.oryksa/ai-employees/badges/score.svg)](https://glama.ai/mcp/connectors/com.oryksa/ai-employees)
   🔐 - Add an AI support agent to the site you build: it learns every page and answers visitors by chat and voice.
