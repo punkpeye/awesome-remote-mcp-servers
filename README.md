@@ -1592,6 +1592,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
+- [canhelpto](https://canhelpto.com/docs/agents) `https://canhelpto.com/api/mcp`
+  [![canhelpto MCP connector](https://glama.ai/mcp/connectors/com.canhelpto/support/badges/score.svg)](https://glama.ai/mcp/connectors/com.canhelpto/support)
+  🔐 - Work a support inbox from your agent: list, read and answer tickets that carry the failed tool call.
 - [EOSL.ai](https://eosl.ai/mcp/) `https://eosl.ai/mcp`
   [![EOSL.ai MCP connector](https://glama.ai/mcp/connectors/ai.eosl/eosl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eosl/eosl)
   🔓 - Hardware end-of-life lookups by part number, backed by vendor bulletins.
