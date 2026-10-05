@@ -1338,6 +1338,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
+- [SaaS RFP](https://saasrfp.com/agents) `https://saasrfp.com/mcp`
+  [![SaaS RFP MCP connector](https://glama.ai/mcp/connectors/com.saasrfp/saas-rfp/badges/score.svg)](https://glama.ai/mcp/connectors/com.saasrfp/saas-rfp)
+  🔐 - Post public RFPs for paid software tools, read vendor feature lists, and bid on SaaS replacement requests.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
