@@ -1452,7 +1452,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### ⚖️ <a name="legal"></a>Legal
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
-  🔓 - Check observed source-rights declarations before RAG, indexing, training, search or AI input.
+  🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
 
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
