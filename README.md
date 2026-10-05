@@ -1592,6 +1592,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
+- [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
+  [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
+  🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
 - [EOSL.ai](https://eosl.ai/mcp/) `https://eosl.ai/mcp`
   [![EOSL.ai MCP connector](https://glama.ai/mcp/connectors/ai.eosl/eosl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eosl/eosl)
   🔓 - Hardware end-of-life lookups by part number, backed by vendor bulletins.
