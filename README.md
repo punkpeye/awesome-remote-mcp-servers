@@ -449,6 +449,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Cherry Notes MCP connector](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes)
   🔐 - Capture features, ideas and tasks on your phone; your AI coding agent picks them up and ships them.
 - [Cloudflare Docs](https://developers.cloudflare.com) `https://docs.mcp.cloudflare.com/mcp`
+- [CodeRifts](https://coderifts.com) `https://app.coderifts.com/mcp`
+  [![CodeRifts MCP connector](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance)
+  🔓 - Only a granted change can proceed: preflight a contract change, verify a receipt, or read a past decision.
   🔓 - Search the Cloudflare developer documentation.
 - [Coderbuds](https://coderbuds.com/docs/mcp?ref=awesome-remote-mcp) `https://coderbuds.com/mcp/insights`
   [![Coderbuds MCP connector](https://glama.ai/mcp/connectors/com.coderbuds/insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.coderbuds/insights)
