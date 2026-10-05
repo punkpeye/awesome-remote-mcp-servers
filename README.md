@@ -1529,6 +1529,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
+- [Curviate](https://curviate.com/product/mcp) `https://app.curviate.com/mcp`
+  [![Curviate MCP connector](https://glama.ai/mcp/connectors/com.curviate/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.curviate/mcp)
+  🔐 - Act on your LinkedIn account: search people and companies, messages, invitations, posts and comments, Sales Navigator.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
