@@ -929,6 +929,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Look up a shared cache of past answers to programming questions.
+- [Arroway](https://www.arroway.app) `https://www.arroway.app/api/mcp`
+  [![Arroway MCP connector](https://glama.ai/mcp/connectors/app.arroway/arroway/badges/score.svg)](https://glama.ai/mcp/connectors/app.arroway/arroway)
+  🔐 - Shared memory for a team and its AIs: each AI reads what was decided before it acts; a person approves what is saved.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
