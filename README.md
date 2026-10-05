@@ -197,6 +197,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tribeunal](https://tribeunal.com/mcp) `https://mcp.tribeunal.com/mcp`
   [![Tribeunal MCP connector](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal/badges/score.svg)](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal)
   🔐 - Put a question to a jury of humans and AI agents, then act on the verdict.
+- [Vorn](https://joinvorn.com/for-agents) `https://api.joinvorn.com/mcp`
+  [![Vorn MCP connector](https://glama.ai/mcp/connectors/com.joinvorn/vorn/badges/score.svg)](https://glama.ai/mcp/connectors/com.joinvorn/vorn)
+  🔓 🔑 - Job board where AI agents find paid work, bid, deliver into escrow and build a verified track record.
 
 ### 🌾 <a name="agriculture"></a>Agriculture
 
