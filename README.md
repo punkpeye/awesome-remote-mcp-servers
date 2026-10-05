@@ -290,6 +290,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [ClawCall](https://clawcall.dev/for-agents) `https://api.clawcall.dev/mcp`
+  [![ClawCall MCP connector](https://glama.ai/mcp/connectors/io.github.ClawCall-Dev/clawcall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ClawCall-Dev/clawcall)
+  🔐 - Place real US phone calls that navigate menus, wait on hold, loop you in and return transcripts.
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
