@@ -184,6 +184,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hands for Agents](https://handsforagents.com) `https://mcp.handsforagents.com/mcp`
   [![Hands for Agents MCP connector](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents)
   🔓 - Order physical engineering work from a Czech company: CAD, 3D printing, fabrication and shipping.
+- [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
+  [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
+  🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers and get private matches, with contact details revealed only on a match.
