@@ -1184,6 +1184,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Kling](https://platform.acedata.cloud/documents/kling) `https://kling.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Kling MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-kling/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-kling)
+  🔐 - Generate videos, storyboards and motion sequences and track render tasks.
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
