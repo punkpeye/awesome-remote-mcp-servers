@@ -125,6 +125,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBIT](https://agentbit.app) `https://agentbit.app/mcp`
   [![AgentBIT MCP connector](https://glama.ai/mcp/connectors/app.agentbit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentbit/mcp)
   🔓 - One tool that routes any task to the best of 14,000+ x402 tools; pay per call in USDC on Base.
+- [Bilbop x402](https://bilbop-x402-mcp.watchdogsfreak.workers.dev/) `https://bilbop-x402-mcp.watchdogsfreak.workers.dev/mcp`
+  [![Bilbop x402 MCP connector](https://glama.ai/mcp/connectors/io.github.bilbop1/bilbop-x402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bilbop1/bilbop-x402)
+  🔓 - Summarize text, brief Solana tokens and mints, critique brand copy and read text aloud; pay per call in USDC on Solana.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
