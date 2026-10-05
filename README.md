@@ -1090,6 +1090,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lekta](https://lekta.dev) `https://lekta.dev/mcp`
   [![Lekta MCP connector](https://glama.ai/mcp/connectors/dev.lekta/lektadev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.lekta/lektadev)
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
+- [Limurse](https://limurse.ai/developers/mcp) `https://api.limurse.ai/mcp`
+  [![Limurse MCP connector](https://glama.ai/mcp/connectors/ai.limurse/limurse/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limurse/limurse)
+  🔐 - Find bookable creators, benchmark market rates and draft campaign briefs; read-only, booking happens on Limurse.
 - [LocationLists](https://locationlists.com) `https://locationlists.com/mcp`
   [![LocationLists MCP connector](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists)
   🔓 - Search 725 US business-location datasets (dealers, contractors, chains), preview real rows, and buy CSVs.
