@@ -1344,6 +1344,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
+- [Synero](https://synero.ai/mcp) `https://synero.ai/api/mcp`
+  [![Synero MCP connector](https://glama.ai/mcp/connectors/ai.synero/council/badges/score.svg)](https://glama.ai/mcp/connectors/ai.synero/council)
+  🔐 - Ask GPT, Claude, Gemini and Grok at once; get one consensus answer plus where the models agree and split.
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record.
