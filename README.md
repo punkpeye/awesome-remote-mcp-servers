@@ -800,6 +800,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
+- [SatoshiMacro Market Data](https://satoshimacro.com/mcp) `https://satoshimacro.com/mcp`
+  [![SatoshiMacro Market Data MCP connector](https://glama.ai/mcp/connectors/com.satoshimacro/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.satoshimacro/market-data)
+  🔓 - Bitcoin cycle score from 48 signals, cycle indicators, altcoin season and US and ASX Bitcoin ETF data.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
