@@ -1353,6 +1353,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [1cent](https://1cent.maxzoa.ru) `https://1cent.maxzoa.ru/mcp`
   [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
   🔓 - Extract web content and metadata, map site resources and detect page changes; x402 pay-per-call.
+- [Ace Data Cloud WebExtrator](https://platform.acedata.cloud/documents/webextrator) `https://webextrator.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud WebExtrator MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-webextrator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-webextrator)
+  🔐 - Extract and render web pages, then retrieve structured results from completed tasks.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
