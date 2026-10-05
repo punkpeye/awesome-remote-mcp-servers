@@ -984,6 +984,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
+- [Pinpal Notes](https://mypinpal.com/notes) `https://notes.mypinpal.com/mcp`
+  [![Pinpal Notes MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/notes/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/notes)
+  🔐 - A beautiful, simple notes app for iPhone, iPad and Mac your AI can open too: folders, Markdown notes, checklists, files.
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
@@ -1304,6 +1307,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
   [![Orbit MCP connector](https://glama.ai/mcp/connectors/io.github.Noveum/orbit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noveum/orbit)
   🔐 - Manage issues, projects, sprints, docs and files.
+- [Pinpal Projects](https://mypinpal.com/projects) `https://projects.mypinpal.com/mcp`
+  [![Pinpal Projects MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/projects/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/projects)
+  🔐 - Simple projects you and your AI share: numbered tickets with a status and a thread, for code and everyday projects.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
@@ -1717,6 +1723,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
+- [Pinpal Todo](https://mypinpal.com/todo) `https://todo.mypinpal.com/mcp`
+  [![Pinpal Todo MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/todo/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/todo)
+  🔐 - A quiet to-do list your AI can work with too: add, tick off and reopen todos; it never deletes.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
