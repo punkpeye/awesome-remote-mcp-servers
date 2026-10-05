@@ -792,6 +792,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokolaku](https://tokolaku.id/developers) `https://api.tokolaku.id/mcp`
   [![Tokolaku MCP connector](https://glama.ai/mcp/connectors/id.tokolaku/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/id.tokolaku/mcp)
   🔐 - Send WhatsApp Business messages and manage inbox conversations, products, orders and webhooks for Indonesian SMBs.
+- [VoiceDock](https://doc.voicedock.ai/docs/integrations/mcp-server) `https://mcp.hmsovereign.com/mcp`
+  [![VoiceDock MCP connector](https://glama.ai/mcp/connectors/ai.voicedock/voicedock/badges/score.svg)](https://glama.ai/mcp/connectors/ai.voicedock/voicedock)
+  🔐 - Build and manage EU-hosted voice AI agents for phone lines: assistants, calls, numbers, SIP trunks and campaigns.
 - [voicehook](https://voicehook.ai/?utm_source=awesome-remote-mcp&utm_campaign=d13-remote-list) `https://voicehook.ai/mcp`
   [![voicehook MCP connector](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook)
   🔓 - Talk with your agents: a voice call in the browser that your agent can start or join.
