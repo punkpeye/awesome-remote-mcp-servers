@@ -1053,6 +1053,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
+- [IndexLinks](https://indexlinks.app/ai-connector) `https://mcp.indexlinks.app/mcp`
+  [![IndexLinks MCP connector](https://glama.ai/mcp/connectors/app.indexlinks/indexlinks/badges/score.svg)](https://glama.ai/mcp/connectors/app.indexlinks/indexlinks)
+  🔐 - Check how crawlers see a site, send new pages to search engines and AI crawlers, and read crawl receipts.
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
