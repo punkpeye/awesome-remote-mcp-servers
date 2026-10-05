@@ -1735,6 +1735,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wals.pro AI 4 weclapp](https://ai.wals.pro) `https://mcp.ai.wals.pro/v1/mcp`
   [![wals.pro AI 4 weclapp MCP connector](https://glama.ai/mcp/connectors/pro.wals.ai/weclapp/badges/score.svg)](https://glama.ai/mcp/connectors/pro.wals.ai/weclapp)
   🔐 - weclapp ERP: quotes, orders, invoices, stock and master data, with every write previewed and approved.
+- [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
+  [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
+  🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
