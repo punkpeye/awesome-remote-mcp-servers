@@ -1422,6 +1422,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProxyCove](https://proxycove.com) `https://mcp.proxycove.com/mcp`
   [![ProxyCove MCP connector](https://glama.ai/mcp/connectors/com.proxycove/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxycove/mcp-server)
   🔓 - Buy and manage residential, mobile and datacenter proxies in 170+ countries, prepaid per GB.
+- [QRCode.Pub tools](https://qrcode.pub/qr-code-api#mcp) `https://qrcode.pub/mcp`
+  [![QRCode.Pub tools MCP connector](https://glama.ai/mcp/connectors/pub.qrcode/tools/badges/score.svg)](https://glama.ai/mcp/connectors/pub.qrcode/tools)
+  🔓 - Free QR code images plus pay-per-call page-to-Markdown, page metadata and file hosting, in USDC via x402.
 - [ReadGZH](https://readgzh.site) `https://api.readgzh.site/mcp-server`
   [![ReadGZH MCP connector](https://glama.ai/mcp/connectors/io.github.sweesama/readgzh/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sweesama/readgzh)
   🔓 - Read public WeChat Official Account articles as Markdown and search previously cached articles.
