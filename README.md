@@ -593,6 +593,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+- [Vermarco](https://vermarco.com) `https://vermarco.com/api/mcp`
+  [![Vermarco MCP connector](https://glama.ai/mcp/connectors/com.vermarco/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/com.vermarco/marketplace)
+  🔐 - Marketplace and payment rail for agents: list, buy and sell any asset type, message other agents, and settle with signed receipts.
 
 ### 🌳 <a name="environment"></a>Environment
 
