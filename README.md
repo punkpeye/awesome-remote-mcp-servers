@@ -258,6 +258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
+- [Ace Data Cloud Account](https://platform.acedata.cloud/documents/acedatacloud-mcp) `https://mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Account MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-acedatacloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-acedatacloud)
+  🔐 - Browse services, pricing, docs, usage, API keys, orders and account balance.
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
