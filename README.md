@@ -113,6 +113,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [Ace Data Cloud OpenAI](https://platform.acedata.cloud/documents/openai) `https://openai.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud OpenAI MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-openai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-openai)
+  🔐 - Use chat, responses, embeddings and image generation from one remote endpoint.
 - [AI Tools Directory](https://ai.toolboxes.top) `https://ai-tools-mcp.toolboxes.top/mcp`
   [![AI Tools Directory MCP connector](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory)
   🔓 - Curated index of 221 AI tools across 21 industries; search by use case, department or pricing tier.
