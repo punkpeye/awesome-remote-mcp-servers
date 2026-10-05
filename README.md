@@ -302,6 +302,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [meld](https://meld.mergeinc.workers.dev) `https://meld.mergeinc.workers.dev/mcp`
   [![meld MCP connector](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld)
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
+- [MisarMail](https://www.misarmail.com) `https://api.misar.io/mail/mcp`
+  [![MisarMail MCP connector](https://glama.ai/mcp/connectors/io.github.Misar-AI/misarmail-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Misar-AI/misarmail-mcp)
+  🔑 - Send email, run campaigns, manage contacts and automations, A/B test, and audit deliverability — from any AI assistant.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
@@ -354,6 +357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write LaTeX from 1,000+ journal, thesis and CV templates and compile to PDF with the build log.
+- [Misar.Blog](https://www.misar.blog) `https://www.misar.blog/api/mcp`
+  [![Misar.Blog MCP connector](https://glama.ai/mcp/connectors/io.github.Misar-AI/misarblog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Misar-AI/misarblog-mcp)
+  🔑 - Write, publish, and grow a blog — manage articles, series, newsletters, cover images, and analytics — from any AI assistant.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
@@ -1335,6 +1341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🚗 <a name="sales"></a>Sales
 
+- [MisarReach](https://www.misarreach.com) `https://api.misar.io/reach/mcp`
+  [![MisarReach MCP connector](https://glama.ai/mcp/connectors/io.github.Misar-AI/misarreach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Misar-AI/misarreach-mcp)
+  🔑 - Find leads, enrich and score contacts, run multi-channel outreach sequences, and manage your sales pipeline — from any AI assistant.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
