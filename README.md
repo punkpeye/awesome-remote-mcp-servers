@@ -1341,6 +1341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [BlockWerk](https://blockwerk.tech/connect-ai) `https://blockwerk-mcp-worker.blockwerk.workers.dev/`
+  [![BlockWerk MCP connector](https://glama.ai/mcp/connectors/tech.blockwerk/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tech.blockwerk/mcp)
+  🔓 - Build, run and analyse block-diagram simulations: PID, Bode, FFT and optimisation.
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
