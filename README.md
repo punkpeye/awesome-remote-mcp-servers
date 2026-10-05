@@ -396,6 +396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [AI for Database](https://www.aifordatabase.com/ai-connector) `https://mcp.aifordatabase.com/mcp`
+  [![AI for Database MCP connector](https://glama.ai/mcp/connectors/com.aifordatabase/aifordatabase/badges/score.svg)](https://glama.ai/mcp/connectors/com.aifordatabase/aifordatabase)
+  🔐 - Ask your databases questions in plain English, run read-only SQL and set up data alerts.
 - [Convex](https://convex.dev) `https://mcp.convex.dev/mcp`
   🔓 - Query and manage Convex deployments, tables, and functions.
 - [MongoDB](https://mongodb.com) `https://mcp.mongodb.com/mcp`
