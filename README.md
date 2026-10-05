@@ -1184,6 +1184,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Suno](https://platform.acedata.cloud/documents/suno-audios) `https://suno.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Suno MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-suno/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-suno)
+  🔐 - Generate songs and lyrics, extend or cover audio, and retrieve music tasks.
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
