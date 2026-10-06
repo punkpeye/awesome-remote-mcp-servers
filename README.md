@@ -425,6 +425,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Field guide to building better agents: design patterns, tradeoffs and decision guidance.
+- [Apex Edge](https://apex-edge-coral.vercel.app) `https://apex-edge-coral.vercel.app/mcp`
+  🔓 - x402 machine-payable utilities: sha256, uuid, base64, time, crypto spot price — `tools/list` free, $0.001/call settled in USDC on Base.
+- [Apex Edge](https://apex-edge-coral.vercel.app) `https://apex-edge-coral.vercel.app/mcp`
+  🔓 - x402 machine-payable utilities: sha256, uuid, base64, time, crypto spot price — `tools/list` free, $0.001/call settled in USDC on Base.
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
