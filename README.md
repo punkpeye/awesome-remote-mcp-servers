@@ -398,6 +398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Convex](https://convex.dev) `https://mcp.convex.dev/mcp`
   🔓 - Query and manage Convex deployments, tables, and functions.
+- [Dot](https://www.getdot.ai) `https://app.getdot.ai/ai/mcp`
+  [![Dot MCP connector](https://glama.ai/mcp/connectors/io.github.zurferr/dot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zurferr/dot)
+  🔐 - Browse warehouse tables and ask data questions answered with read-only SQL and charts.
 - [MongoDB](https://mongodb.com) `https://mcp.mongodb.com/mcp`
   🔐 - Query MongoDB Atlas clusters and manage collections and indexes.
 - [Neon](https://neon.tech) `https://mcp.neon.tech/mcp`
