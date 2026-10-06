@@ -984,6 +984,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
+- [Pryzm Memory](https://pryzm-memory.com/en/connect/) `https://pryzm-memory.com/mcp`
+  [![Pryzm Memory MCP connector](https://glama.ai/mcp/connectors/com.pryzm-memory/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.pryzm-memory/memory)
+  🔐 - Long-term memory shared across Claude, ChatGPT and other assistants: store, search and recall notes and decisions.
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
