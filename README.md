@@ -536,6 +536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
+- [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
+  [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
+  🔑 - Build and deploy multi-tenant web apps from your AI editor: schemas, CRUD, RBAC and one-call deploys.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
