@@ -1341,6 +1341,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [Ephemeris](https://ephemeris.cascade.industries) `https://ephemeris.cascade.industries/api/mcp`
+  [![Ephemeris MCP connector](https://glama.ai/mcp/connectors/industries.cascade/ephemeris/badges/score.svg)](https://glama.ai/mcp/connectors/industries.cascade/ephemeris)
+  🔑 - Probabilistic time-series forecasts from an ensemble of foundation models (Chronos-2, TimesFM, Toto, TiRex).
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
