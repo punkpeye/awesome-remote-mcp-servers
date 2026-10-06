@@ -461,6 +461,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
   [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
   🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
+- [ElectroGen](https://electrogen.org) `https://electrogen.org/.well-known/mcp`
+  [![ElectroGen MCP connector](https://glama.ai/mcp/connectors/org.electrogen/electrogen/badges/score.svg)](https://glama.ai/mcp/connectors/org.electrogen/electrogen)
+  🔓 - Generate a buildable electronics blueprint — BOM, wiring, firmware, CAD and preview renders — from a text brief.
 - [Email Spam Tester](https://email-spam-tester.com) `https://email-spam-tester.com/mcp`
   [![Email Spam Tester MCP connector](https://glama.ai/mcp/connectors/io.github.serg-tanichev/email-spam-tester/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.serg-tanichev/email-spam-tester)
   🔓 - Send a draft to a one-time address and get a spam score, 41 checks with RFC citations, and a fix plan.
