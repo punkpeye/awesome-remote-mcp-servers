@@ -1676,6 +1676,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔄 <a name="version-control"></a>Version Control
 
+- [Codebahn](https://codebahn.net) `https://codebahn.net/mcp`
+  [![Codebahn MCP connector](https://glama.ai/mcp/connectors/io.github.codebahn/codebahn/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.codebahn/codebahn)
+  🔐 - EU-hosted Git hosting with CI. Repos, PRs, issues, CI, secrets, releases, webhooks, branch protection. 102 tools.
 - [GitHub](https://github.com) `https://api.githubcopilot.com/mcp/`
   🔐 - Manage GitHub repositories, issues, pull requests, and Actions.
 
