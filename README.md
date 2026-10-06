@@ -1041,6 +1041,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [Assay](https://assay.wiki/mcp/) `https://app.assay.wiki/api/mcp/v2/mcp`
+  [![Assay MCP connector](https://glama.ai/mcp/connectors/io.github.Assay-Org/assay-truth-graph/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Assay-Org/assay-truth-graph)
+  🔐 - Ranked, governed, cited GTM context for your agents, on one living source of truth.
+
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
