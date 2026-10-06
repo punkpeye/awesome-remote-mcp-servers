@@ -1011,6 +1011,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ⚖️ <a name="legal"></a>Legal
 
+- [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
+  [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
+  🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
