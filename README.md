@@ -1638,6 +1638,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
   [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
   🔐 - Live Google Flights fares with a price verdict, round trips, date ranges and destination lists.
+- [Fly Frugal](https://flyfrugal.fyi/docs) `https://flyfrugal.fyi/mcp`
+  [![Fly Frugal MCP connector](https://glama.ai/mcp/connectors/fyi.flyfrugal/travel-data/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.flyfrugal/travel-data)
+  🔓 - Cheap round-trip fares from US airports, deals verified today, and day-by-day budget travel itineraries.
 - [FrontDesko](https://frontdesko.app) `https://mcp.frontdesko.app/mcp`
   [![FrontDesko MCP connector](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp)
   🔓 - Hotel PMS pricing and plan comparisons, OTA-commission savings math and docs search.
@@ -1717,6 +1720,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
+- [PaperPorter](https://paperporter.com/docs/mcp) `https://paperporter.com/mcp`
+  [![PaperPorter MCP connector](https://glama.ai/mcp/connectors/com.paperporter/paperporter/badges/score.svg)](https://glama.ai/mcp/connectors/com.paperporter/paperporter)
+  🔐 - Fill official PDF forms such as city permits and business licenses in their original layout.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
