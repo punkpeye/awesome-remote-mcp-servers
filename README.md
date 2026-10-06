@@ -1465,6 +1465,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UX Jobs](https://mcp.uxjobs.io) `https://mcp.uxjobs.io/mcp`
   [![UX Jobs MCP connector](https://glama.ai/mcp/connectors/io.uxjobs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.uxjobs/jobs)
   🔓 - Search 4,000+ live UX, product design and research jobs, with hiring-market and salary snapshots.
+- [VegvisAI](https://vegvis.ai) `https://vegvis.ai/mcp`
+  [![VegvisAI MCP connector](https://glama.ai/mcp/connectors/ai.vegvis/vegvisai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vegvis/vegvisai)
+  🔓 - Open, unranked guide to Norwegian businesses, public services and parties, plus a website AI-readiness check.
 - [Vend](https://extract.paypercall.dev) `https://extract.paypercall.dev/mcp`
   [![Vend MCP connector](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paypercall.extract/vend-api-merchant)
   🔓 - Extract, search, and analyze web pages and domains with pay-per-call tools settled in Nano (XNO) via x402.
