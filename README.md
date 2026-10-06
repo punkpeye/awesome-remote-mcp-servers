@@ -1206,6 +1206,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
+- [Panda Video](https://www.pandavideo.com) `https://mcp.pandavideo.com/mcp/directory`
+  [![Panda Video MCP connector](https://glama.ai/mcp/connectors/com.pandavideo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pandavideo/mcp)
+  🔓 - Find, organize and analyze hosted videos; add AI subtitles, chapters and quizzes; cut long videos into vertical Shorts.
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
