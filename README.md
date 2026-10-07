@@ -515,6 +515,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
+- [RelayDesk](https://getrelaydesk.space) `https://relay-desk-mjq6.vercel.app/mcp`
+  [![RelayDesk MCP connector](https://glama.ai/mcp/connectors/io.github.Lakshay-24/relaydesk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Lakshay-24/relaydesk)
+  🔐 - Operate explicitly paired computers, servers and VMs: files, commands, logs and troubleshooting.
 - [ReMCP](https://remcp.site) `https://remcp.site/mcp`
   [![ReMCP MCP connector](https://glama.ai/mcp/connectors/site.remcp/re-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/site.remcp/re-mcp)
   🔐 - Remote access to paired computers: files, terminals, screenshots, search, and processes.
