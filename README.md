@@ -698,6 +698,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
+- [CPFHub.io](https://www.cpfhub.io/documentacao/ai/mcp) `https://api.cpfhub.io/mcp`
+  [![CPFHub.io MCP connector](https://glama.ai/mcp/connectors/io.cpfhub.api/cpfhubio/badges/score.svg)](https://glama.ai/mcp/connectors/io.cpfhub.api/cpfhubio)
+  🔑 - Brazilian CPF lookup: name, gender and birth date, plus real-time Receita Federal registration status and death year.
 - [CryptoMacro](https://asistent-crypto.vercel.app/a2a) `https://asistent-crypto.vercel.app/mcp`
   [![CryptoMacro MCP connector](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis)
   🔓 - Crypto positioning and macro regime: funding, open interest, implied volatility and Fed rates.
