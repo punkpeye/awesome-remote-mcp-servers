@@ -1410,6 +1410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
+- [looot](https://looot.ai) `https://api.looot.ai/mcp`
+  [![looot MCP connector](https://glama.ai/mcp/connectors/ai.looot/looot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.looot/looot)
+  🔐 - Search, price and run 2,500+ data endpoints from 90+ providers with one key and a prepaid balance.
 - [Maison de Talents](https://maisondetalents.com) `https://maisondetalents.com/api/mcp`
   [![Maison de Talents MCP connector](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents/badges/score.svg)](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents)
   🔓 - Search luxury, department-store and duty-free retail jobs in Korea, with salary benchmarks.
