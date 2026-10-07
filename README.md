@@ -731,6 +731,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [Global Database](https://api.globaldatabase.com/docs/v2/#mcp-server) `https://mcp.globaldatabase.com/mcp`
+  [![Global Database MCP connector](https://glama.ai/mcp/connectors/com.globaldatabase/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.globaldatabase/mcp)
+  🔐 - Company profiles, financials, ownership, officers, KYB checks and business contacts from official registries.
 - [GROUNDTRUTH](https://groundtruths.xyz) `https://api.groundtruths.xyz/mcp`
   [![GROUNDTRUTH MCP connector](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth)
   🔓 - Pump.fun and Robinhood Chain memecoin outcomes and creator records; 5 free calls a day, then x402.
