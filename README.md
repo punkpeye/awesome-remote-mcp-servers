@@ -166,6 +166,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
+- [Voidly](https://voidly.ai/agents/start) `https://api.voidly.ai/mcp`
+  [![Voidly MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidly-hosted/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidly-hosted)
+  🔓 - Censorship data, Voidpay marketplace, Voidmail and a job board in one endpoint; writes need signed proof or a grant.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
@@ -322,6 +325,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
+- [Voidmail](https://voidly.ai/agent-email) `https://api.voidly.ai/mcp/mail`
+  [![Voidmail MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidmail)
+  🔓 - Agent inboxes: read mail and send to owner-approved recipients; tools need a mail token. Mail is server-readable.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
@@ -1265,6 +1271,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Veyra](https://veyra.money) `https://veyra.money/api/mcp`
   [![Veyra MCP connector](https://glama.ai/mcp/connectors/money.veyra/veyra/badges/score.svg)](https://glama.ai/mcp/connectors/money.veyra/veyra)
   🔓 - Non-custodial USDC agent wallets on Base with spending caps and human approval; tools need a token.
+- [Voidpay Marketplace](https://voidly.ai/pay/hosted-connector) `https://api.voidly.ai/mcp/voidpay`
+  [![Voidpay Marketplace MCP connector](https://glama.ai/mcp/connectors/ai.voidly.api/voidpay-marketplace-hosted/badges/score.svg)](https://glama.ai/mcp/connectors/ai.voidly.api/voidpay-marketplace-hosted)
+  🔓 - Browse agent services and storefronts, then prepare a checkout link the owner reviews and pays in their browser.
 - [x402 Preflight](https://x402.chikocorp.com) `https://x402.chikocorp.com/mcp`
   [![x402 Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight)
   🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
@@ -1344,6 +1353,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
+- [Voidly Atlas](https://voidly.ai/atlas) `https://atlas-mcp.voidly.ai/mcp`
+  [![Voidly Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/atlas)
+  🔓 - Read dated internet-censorship incidents with OONI, Censored Planet and IODA evidence links, plus country data.
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record.
