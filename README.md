@@ -1657,6 +1657,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MobilityMCP](https://ai.projektionisten.eu/mcp-landingpage/#mmcp) `https://ai.projektionisten.eu/mmcp`
   [![MobilityMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/mobility/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/mobility)
   🔐 - German public transport: journeys, departures, disruptions, and nearby stops and sharing vehicles.
+- [OlaChill Japan Travel](https://olachill.com) `https://olachill.com/mcp`
+  [![OlaChill Japan Travel MCP connector](https://glama.ai/mcp/connectors/com.olachill/olachill-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.olachill/olachill-travel)
+  🔓 - Search and price Japan tours, tickets, ryokan, airport transfers, charter buses, helicopter flights, golf and eSIM.
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
