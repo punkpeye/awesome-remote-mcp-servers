@@ -1187,6 +1187,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
+- [Brix36](https://brix36.com) `https://api.brix36.com/mcp`
+  [![Brix36 MCP connector](https://glama.ai/mcp/connectors/com.brix36/brix36/badges/score.svg)](https://glama.ai/mcp/connectors/com.brix36/brix36)
+  🔐 - Make films, music videos and images that star you, from your Artist DNA; paid by credits.
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
