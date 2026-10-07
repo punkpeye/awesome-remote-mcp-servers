@@ -1142,6 +1142,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
+- [Wrendex](https://wrendex.com) `https://app.wrendex.com/mcp`
+  [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
+  🔑 - Technical SEO audits: crawl a site with 140+ checks, read issues and fix lists, and track changes between crawls.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
