@@ -731,6 +731,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [FundScout](https://fundscout.salesup.workers.dev/) `https://fundscout.salesup.workers.dev/mcp`
+  [![FundScout MCP connector](https://glama.ai/mcp/connectors/io.github.yc-droid/fundscout/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yc-droid/fundscout)
+  🔓 - Indian mutual fund search, official AMFI NAVs, fund comparison and SIP or lumpsum return calculations.
+- [GrantScout](https://grantscout.salesup.workers.dev/) `https://grantscout.salesup.workers.dev/mcp`
+  [![GrantScout MCP connector](https://glama.ai/mcp/connectors/io.github.yc-droid/grantscout/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yc-droid/grantscout)
+  🔓 - Search open and upcoming US federal grant opportunities on Grants.gov and get full grant details.
 - [GROUNDTRUTH](https://groundtruths.xyz) `https://api.groundtruths.xyz/mcp`
   [![GROUNDTRUTH MCP connector](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.groundtruths/groundtruth)
   🔓 - Pump.fun and Robinhood Chain memecoin outcomes and creator records; 5 free calls a day, then x402.
@@ -1480,6 +1486,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
+- [DepScout](https://depscout.salesup.workers.dev/) `https://depscout.salesup.workers.dev/mcp`
+  [![DepScout MCP connector](https://glama.ai/mcp/connectors/io.github.yc-droid/depscout/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yc-droid/depscout)
+  🔓 - Check npm, PyPI, Go, Maven, Cargo and NuGet packages and whole lockfiles for known vulnerabilities and malware.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
@@ -1611,6 +1620,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Localize apps: translate locale files, set glossaries and connect GitHub repos.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [RecallScout](https://recallscout.salesup.workers.dev/) `https://recallscout.salesup.workers.dev/mcp`
+  [![RecallScout MCP connector](https://glama.ai/mcp/connectors/io.github.yc-droid/recallscout/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yc-droid/recallscout)
+  🔓 - US vehicle, car-seat, product and food recalls, VIN decoding and crash ratings from NHTSA, CPSC and FDA.
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
   [![WhichTrim MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
   🔓 - US vehicle recalls, complaints, fuel economy, crash ratings, VIN decoding and OBD-II codes.
