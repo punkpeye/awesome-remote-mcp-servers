@@ -393,6 +393,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
+- [Tommos](https://tommos.ai) `https://app.tommos.ai/api/mcp`
+  [![Tommos MCP connector](https://glama.ai/mcp/connectors/ai.tommos/tommos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tommos/tommos)
+  🔐 - A CRM whose AI agents answer B2B inquiries and book calls; work its contacts, deals, forms and bookings.
 
 ### 🗄️ <a name="databases"></a>Databases
 
