@@ -1143,6 +1143,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
 
+- [Warmerly](https://warmerly.com) `https://app.warmerly.com/api/mcp`
+  [![Warmerly MCP connector](https://glama.ai/mcp/connectors/com.warmerly/warmerly/badges/score.svg)](https://glama.ai/mcp/connectors/com.warmerly/warmerly)
+  🔐 - Email warmup and outreach: manage mailboxes, leads, campaigns and the unified inbox.
+
 ### 📊 <a name="monitoring"></a>Monitoring
 
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
