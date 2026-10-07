@@ -842,6 +842,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
+- [Velarion Company Intelligence](https://intel.velarion.ai/developers?utm_source=punkpeye_remote&utm_medium=github&utm_campaign=mcp_storm) `https://api.velarion.ai/mcp`
+  [![Velarion Company Intelligence MCP connector](https://glama.ai/mcp/connectors/ai.velarion/company-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.velarion/company-intelligence)
+  🔑 - Cited exec, director and say-on-pay data for about 3,000 US companies; free token; $39,000/yr license by contract.
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
