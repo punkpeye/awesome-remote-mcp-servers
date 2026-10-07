@@ -1471,6 +1471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [AOTrust Notary](https://github.com/GitSerge-crypto/aotrust-skills) `https://api.aotrust.link/mcp`
+  [![AOTrust Notary MCP connector](https://glama.ai/mcp/connectors/link.aotrust.api/aotrust-pdr-notarization/badges/score.svg)](https://glama.ai/mcp/connectors/link.aotrust.api/aotrust-pdr-notarization)
+  🔓 - Cryptographic proof-of-existence (PDR) for AI artifacts: Ed25519-signed receipts, Merkle-anchored, publicly verifiable; free tier + $0.01 x402 on Base or Solana.
 - [AgenticRail](https://agenticrail.nz/docs/) `https://mcp.agenticrail.nz/`
   [![AgenticRail MCP connector](https://glama.ai/mcp/connectors/nz.agenticrail/gate/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agenticrail/gate)
   🔓 - Gate for AI agent steps: ALLOW or DENY before a step runs, sealed into signed receipts that verify offline.
