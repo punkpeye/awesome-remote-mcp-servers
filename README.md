@@ -1413,6 +1413,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Maison de Talents](https://maisondetalents.com) `https://maisondetalents.com/api/mcp`
   [![Maison de Talents MCP connector](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents/badges/score.svg)](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents)
   🔓 - Search luxury, department-store and duty-free retail jobs in Korea, with salary benchmarks.
+- [NanoParse](https://nanoparse.app) `https://nanoparse.app/mcp`
+  [![NanoParse MCP connector](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp)
+  🔓 - Read any web page as clean Markdown plus 15 trust signals; $0.005 per page in USDC on Base via x402, 10 free.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
