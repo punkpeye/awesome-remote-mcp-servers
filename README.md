@@ -148,6 +148,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [minia2a](https://minia2a.uk) `https://minia2a.uk/mcp`
   [![minia2a MCP connector](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp)
   🔓 - 1,600+ pay-per-call APIs — crypto data, web scraping, AI inference, token security — USDC on Base via x402.
+- [Neuronto ARD Registry](https://neuronto.com) `https://neuronto.com/mcp`
+  [![Neuronto ARD Registry MCP connector](https://glama.ai/mcp/connectors/com.neuronto/agents-tools-search-discovery-ard-registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.neuronto/agents-tools-search-discovery-ard-registry)
+  🔓 - Search MCP servers, A2A agents, skills and APIs across public ARD registries, filtered by payment terms.
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
@@ -1250,6 +1253,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [Neuronto Payments](https://pay.neuronto.com) `https://pay.neuronto.com/mcp`
+  [![Neuronto Payments MCP connector](https://glama.ai/mcp/connectors/com.neuronto/x402-payments-facilitator/badges/score.svg)](https://glama.ai/mcp/connectors/com.neuronto/x402-payments-facilitator)
+  🔓 - x402 facilitator on Base mainnet: status, settlement prices, paid-resource search and integration code.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
