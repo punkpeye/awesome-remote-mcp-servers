@@ -1353,6 +1353,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
+- [Nonobench](https://www.nonobench.com) `https://www.nonobench.com/mcp`
+  [![Nonobench MCP connector](https://glama.ai/mcp/connectors/com.nonobench/nonobench/badges/score.svg)](https://glama.ai/mcp/connectors/com.nonobench/nonobench)
+  🔓 - Query LLM benchmark results on nonogram puzzles: leaderboard, per-puzzle results and a solution checker.
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record.
