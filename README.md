@@ -1271,6 +1271,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trust Check](https://trust-check.gm-tools.workers.dev) `https://trust-check.gm-tools.workers.dev/mcp`
   [![Trust Check MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check)
   🔓 - Safety check for a Base token or address before you trade or pay it; USDC per call via x402.
+- [Ultralayer](https://ultralayer.ai) `https://api.ultralayer.ai/v0/mcp`
+  [![Ultralayer MCP connector](https://glama.ai/mcp/connectors/io.github.UltralayerHQ/ultralayer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.UltralayerHQ/ultralayer)
+  🔐 🔑 - Realtime market intelligence: market news, events, company guidance, filing changes, sentiment, stakeholders, and alerts, with evidence for every result.
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
