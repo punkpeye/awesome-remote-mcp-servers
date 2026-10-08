@@ -1575,6 +1575,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MailSenpai](https://www.mailsenpai.com) `https://mcp.mailsenpai.com/mcp`
   [![MailSenpai MCP connector](https://glama.ai/mcp/connectors/com.mailsenpai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailsenpai/mcp)
   🔐 - Manage email marketing lists, subscribers, segments, templates, campaigns and stats (EU-hosted).
+- [Mailzzy](https://mailzzy.com) `https://api.mailzzy.com/crm/mcp/`
+  [![Mailzzy MCP connector](https://glama.ai/mcp/connectors/com.mailzzy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailzzy/mcp)
+  🔐 - Build audiences, draft and send email campaigns, manage contacts, segments and templates, and read campaign reports.
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
   [![Mencoro MCP connector](https://glama.ai/mcp/connectors/com.mencoro/mencoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.mencoro/mencoro)
   🔐 - Track brand rank, mentions, sentiment and Share of Voice in ChatGPT, Perplexity and Google AI answers.
