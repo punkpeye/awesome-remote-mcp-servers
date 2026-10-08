@@ -1829,6 +1829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+- [BetBank](https://betbank.ai) `https://betbank.ai/api/mcp`
+  [![BetBank MCP connector](https://glama.ai/mcp/connectors/io.github.jameselle/betbank-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jameselle/betbank-mcp)
+  🔐 - Australian sports betting analytics: odds compared, arbs, +EV picks, price moves and your own bets. 18+.
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries.
