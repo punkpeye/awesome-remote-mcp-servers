@@ -1783,6 +1783,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hardware end-of-life lookups by part number, backed by vendor bulletins.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
+- [MSPStuff Switchboard](https://www.mspstuff.io) `https://www.mspstuff.io/mcp`
+  [![MSPStuff Switchboard MCP connector](https://glama.ai/mcp/connectors/io.mspstuff/mspstuff-switchboard/badges/score.svg)](https://glama.ai/mcp/connectors/io.mspstuff/mspstuff-switchboard)
+  🔐 - Hosted MCP servers for MSP tools: ConnectWise, NinjaOne, Microsoft 365, SentinelOne, Pax8 and more.
 - [ORYKSA AI Employees](https://mcp.oryksa.com) `https://mcp.oryksa.com`
   [![ORYKSA AI Employees MCP connector](https://glama.ai/mcp/connectors/com.oryksa/ai-employees/badges/score.svg)](https://glama.ai/mcp/connectors/com.oryksa/ai-employees)
   🔐 - Add an AI support agent to the site you build: it learns every page and answers visitors by chat and voice.
