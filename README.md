@@ -1532,6 +1532,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🚗 <a name="sales"></a>Sales
 
+- [Evaboot](https://evaboot.com/mcp) `https://mcp.evaboot.com/mcp`
+  🔐 - Extract LinkedIn Sales Navigator leads and find or verify their professional emails, then push them to HubSpot, Attio, Apollo or Pipedrive.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
