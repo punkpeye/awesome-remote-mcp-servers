@@ -1710,6 +1710,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+- [Upload-Post](https://www.upload-post.com) `https://mcp.upload-post.com/mcp`
+  [![Upload-Post MCP connector](https://glama.ai/mcp/connectors/com.upload-post/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.upload-post/mcp)
+  🔐 - Publish and schedule posts to 11 networks, including TikTok, Instagram, YouTube and LinkedIn, with analytics.
 - [XPlanner](https://xplanner.co/en/mcp) `https://mcp.xplanner.co/mcp`
   [![XPlanner MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner)
   🔐 - Turn ideas into platform-ready drafts, schedule posts, and publish from one content workspace.
