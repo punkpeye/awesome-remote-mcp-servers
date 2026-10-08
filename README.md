@@ -1710,6 +1710,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plainrouter Sandbox](https://plainrouter.com/docs/mcp/setup) `https://plainrouter.com/mcp/sandbox`
   [![Plainrouter Sandbox MCP connector](https://glama.ai/mcp/connectors/com.plainrouter/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainrouter/mcp)
   🔓 - Test Meta advertising account, signal-health, and performance tools with synthetic data.
+- [ProductByte](https://productbyte.com) `https://mcp.productbyte.com/mcp`
+  [![ProductByte MCP connector](https://glama.ai/mcp/connectors/com.productbyte/productbyte/badges/score.svg)](https://glama.ai/mcp/connectors/com.productbyte/productbyte)
+  🔐 - Post, advertise and measure: social posts, ads, creatives and insights for e-commerce, in one agent connection.
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
