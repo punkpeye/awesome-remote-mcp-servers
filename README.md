@@ -2188,6 +2188,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Web Data Toolkit](https://web-data-toolkit.vercel.app) `https://web-data-toolkit.vercel.app/mcp`
   [![Web Data Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit)
   🔓 - YouTube transcripts, Google Trends, and Google Play and App Store reviews; use the free public demo key or your own.
+- [Zyte MCP](https://docs.zyte.com/zyte-web-data/mcp.html) `https://mcp.zyte.com/v1/mcp`
+  [![Zyte MCP connector](https://glama.ai/mcp/connectors/com.zyte.mcp/zyte-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.zyte.mcp/zyte-mcp-server)
+  🔐 - Fetch pages as Markdown, extract structured data, search the web and run Scrapy Cloud jobs.
 
 ### 🔒 <a name="security"></a>Security
 
