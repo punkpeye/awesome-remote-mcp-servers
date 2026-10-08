@@ -1728,6 +1728,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Searcherries](https://searcherries.com) `https://app.searcherries.com/mcp/searcherries`
   [![Searcherries MCP connector](https://glama.ai/mcp/connectors/com.searcherries/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherries/mcp)
   🔐 - Read-only AI visibility and SEO data: AI answers, competitors, citations, GSC, Bing, GA4.
+- [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
+  [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
+  🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
 - [Shipfound](https://www.shipfound.co/) `https://api.shipfound.co/mcp`
   [![Shipfound MCP connector](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound/badges/score.svg)](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound)
   🔐 - Site fixes, content briefs, indexing, AI crawler tracking and AI visibility checks for Claude Code and Codex.
