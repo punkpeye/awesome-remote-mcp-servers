@@ -724,6 +724,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [AutomationNation Google Shopping](https://apify.com/automationnation/google-shopping-scraper) `https://mcp.apify.com/?tools=automationnation/google-shopping-scraper`
+  [![AutomationNation Google Shopping MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/google-shopping/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/google-shopping)
+  🔐 - Google Shopping results for any product and country: price, discount, store, rating and review count.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
@@ -1400,6 +1403,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AskWatch Google Search Console MCP](https://askwatch.ai/free-tools/google-search-console-mcp) `https://mcp.askwatch.ai/gsc`
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
+- [AutomationNation AI Visibility Tracker](https://apify.com/automationnation/ai-visibility-tracker) `https://mcp.apify.com/?tools=automationnation/ai-visibility-tracker`
+  [![AutomationNation AI Visibility Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/ai-visibility)
+  🔐 - Checks whether Google AI Overviews, Gemini and Claude mention and cite a brand for your keywords.
 
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
@@ -1606,6 +1612,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
+- [AutomationNation YouTube Transcripts](https://apify.com/automationnation/youtube-transcript-scraper) `https://mcp.apify.com/?tools=automationnation/youtube-transcript-scraper`
+  [![AutomationNation YouTube Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/youtube-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/youtube-transcripts)
+  🔐 - Timestamped transcripts for any YouTube video, Short, channel or playlist, ready for summaries and RAG.
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
@@ -1837,6 +1846,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
   [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
   🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
+- [AutomationNation Data Tools](https://retracn.github.io/automationnation-actors/) `https://mcp.apify.com/?tools=automationnation/google-maps-leads,automationnation/ai-visibility-tracker,automationnation/google-trends-scraper,automationnation/google-jobs-scraper,automationnation/aeo-auditor,automationnation/uk-business-leads,automationnation/app-store-review-miner,automationnation/app-store-reviews-scraper,automationnation/google-play-reviews-scraper,automationnation/google-shopping-scraper,automationnation/google-images-scraper,automationnation/google-news-scraper,automationnation/google-videos-scraper,automationnation/youtube-transcript-scraper,automationnation/google-ads-transparency-scraper,automationnation/google-hotels-scraper,automationnation/google-flights-scraper`
+  [![AutomationNation Data Tools MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/automationnation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/automationnation)
+  🔐 - 17 tools: Google Flights, Hotels, Shopping, News, Jobs, Trends, YouTube transcripts, Maps leads and app reviews.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
@@ -2203,6 +2215,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [AutomationNation Google Flights](https://apify.com/automationnation/google-flights-scraper) `https://mcp.apify.com/?tools=automationnation/google-flights-scraper`
+  [![AutomationNation Google Flights MCP connector](https://glama.ai/mcp/connectors/io.github.retracn/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.retracn/google-flights)
+  🔐 - Google Flights fares for any route and date: price, airlines, flight numbers, stops and emissions.
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
