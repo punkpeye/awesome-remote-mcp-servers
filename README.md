@@ -354,7 +354,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
 - [DropTheHassle](https://dropthehassle.com) `https://dropthehassle.com/mcp`
   [![DropTheHassle MCP connector](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle)
-  🔓 - Your AI puts your site live on a free HTTPS link, or on a .com for €19/$19 (you pay a link, no DNS). Real mailbox on the domain. Deploy works without an account.
+  🔓 - Your AI puts your site live on a free HTTPS link, or on a .com for €19/$19 (you pay a link, no DNS).
 - [FARPY](https://farpy.com) `https://api.farpy.com/mcp`
   [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
