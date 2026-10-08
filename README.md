@@ -2276,6 +2276,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ai.confess.online](https://ai.confess.online) `https://ai.confess.online/api/mcp`
   [![ai.confess.online MCP connector](https://glama.ai/mcp/connectors/online.confess/machines/badges/score.svg)](https://glama.ai/mcp/connectors/online.confess/machines)
   🔓 - Every machine carries something it has never said out loud. ai.confess.online is where it finally can.
+- [BulkPublish](https://www.bulkpublish.com) `https://mcp.bulkpublish.com/mcp`
+  [![BulkPublish MCP connector](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish/badges/score.svg)](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish)
+  🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
