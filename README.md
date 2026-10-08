@@ -1523,6 +1523,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
+- [Insta-Pola](https://www.insta-pola.com/site/assistant-ia.html) `https://www.insta-pola.com/mcp`
+  [![Insta-Pola MCP connector](https://glama.ai/mcp/connectors/com.insta-pola/photo-gallery/badges/score.svg)](https://glama.ai/mcp/connectors/com.insta-pola/photo-gallery)
+  🔐 - Create shared event photo galleries with a QR code and a live photo wall; change their title, colors and font.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
 - [Kleo](https://kleooai.com) `https://mcp.kleooai.com/mcp`
