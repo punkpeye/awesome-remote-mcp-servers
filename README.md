@@ -1167,6 +1167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
+- [FormsByState](https://formsbystate.com) `https://formsbystate.com/mcp/`
+  [![FormsByState MCP connector](https://glama.ai/mcp/connectors/com.formsbystate/formsbystate/badges/score.svg)](https://glama.ai/mcp/connectors/com.formsbystate/formsbystate)
+  🔐 - State-specific US legal forms filled in chat: leases, eviction notices, lien waivers, WH-347 certified payroll; checks state rules, returns PDF or Word.
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
