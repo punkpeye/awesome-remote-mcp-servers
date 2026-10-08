@@ -1385,6 +1385,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
   [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
   🔐 - Web research across search, Reddit, YouTube, reviews and ad libraries, with line-numbered citations.
+- [Company Signals](https://apify.com/redfoxscout/company-signals-mcp) `https://redfoxscout--company-signals-mcp.apify.actor/mcp`
+  [![Company Signals MCP connector](https://glama.ai/mcp/connectors/io.github.TikTop-Data/company-signals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TikTop-Data/company-signals)
+  🔑 - Search 260,000+ open jobs at 8,000+ companies, list a company's open roles live, and detect its ATS.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Scan a software vendor's public claims for defects and get structured findings with evidence grades.
