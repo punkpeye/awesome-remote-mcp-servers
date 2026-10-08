@@ -327,7 +327,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
 - [Widely](https://widely-mobile.com/mcp) `https://mcp.widely-mobile.com/mcp`
   [![Widely MCP connector](https://glama.ai/mcp/connectors/com.widely-mobile/widely/badges/score.svg)](https://glama.ai/mcp/connectors/com.widely-mobile/widely)
-  🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts and AI receptionists; tool discovery is open, tool calls need Widely OAuth sign-in.
+  🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts, and AI receptionists.
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
