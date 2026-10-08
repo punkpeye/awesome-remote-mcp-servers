@@ -597,6 +597,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
   [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
   🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
+- [bitHuman docs](https://docs.bithuman.ai/resources/agents#docs-mcp) `https://docs.bithuman.ai/docs-mcp`
+  [![bitHuman docs MCP connector](https://glama.ai/mcp/connectors/ai.bithuman/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bithuman/docs)
+  🔓 - Search and read the bitHuman real-time avatar docs (SDKs, REST API, models, pricing) as markdown.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
@@ -1830,6 +1833,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
+- [bitHuman](https://www.bithuman.ai/mcp) `https://mcp.bithuman.ai/mcp`
+  [![bitHuman MCP connector](https://glama.ai/mcp/connectors/ai.bithuman/characters/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bithuman/characters)
+  🔓 - Short talking-video clips and one-minute live voice chats with bitHuman's animated AI characters, in the chat.
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
