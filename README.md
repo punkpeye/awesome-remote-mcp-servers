@@ -796,7 +796,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Webhook Toolkit](https://webhook-toolkit.com) `https://webhook-toolkit.com/mcp`
   [![Webhook Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/webhook-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/webhook-toolkit)
   🔓 - Capture, read and replay webhook deliveries, and sign or verify webhook signatures.
-
+- [x402 Doctor by Fizzl](https://x402-doctor.fizzl.eu) `https://x402-doctor.fizzl.eu/mcp`
+  [![x402 Doctor MCP connector](https://glama.ai/mcp/connectors/io.github.Fizzl13/x402-doctor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fizzl13/x402-doctor)
+  🔓 - Check an x402 or MPP paid API before paying it, or your own endpoint, with a fix per problem.
+  
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
@@ -1106,6 +1109,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [Ichimoku Signal](https://ichimoku-signal.fizzl.eu) `https://ichimoku-signal.fizzl.eu/mcp`
+  [![Ichimoku Signal MCP connector](https://glama.ai/mcp/connectors/io.github.Fizzl13/ichimoku-signal/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fizzl13/ichimoku-signal)
+  🔓 - Ichimoku and confluence signals, levels and market scans for top-200 crypto pairs; pay per call via x402.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
@@ -2314,6 +2320,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [presign-guard](https://presign-guard.fizzl.eu) `https://presign-guard.fizzl.eu/mcp`
+  [![presign-guard MCP connector](https://glama.ai/mcp/connectors/io.github.Fizzl13/presign-guard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fizzl13/presign-guard)
+  🔓 - Check a transaction, approval or signature before an agent signs it: green, orange or red with reasons.
 - [PromptBrake Free Tools](https://promptbrake.com/free-tools) `https://promptbrake.com/free-tools/mcp`
   [![PromptBrake Free Tools MCP connector](https://glama.ai/mcp/connectors/io.github.AJ888/promptbrake-free-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AJ888/promptbrake-free-tools)
   🔓 - Prompt-injection payloads, OWASP LLM risk guidance, release planning, and CI test-pack creation.
