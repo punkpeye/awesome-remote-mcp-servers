@@ -1280,6 +1280,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
+- [Manifold MCP](https://www.manifoldmcp.com) `https://mcp.manifoldmcp.com/mcp`
+  [![Manifold MCP connector](https://glama.ai/mcp/connectors/com.manifoldmcp/manifold/badges/score.svg)](https://glama.ai/mcp/connectors/com.manifoldmcp/manifold)
+  🔐 🔑 - Hosted marketing data with no API keys of your own, pay per call: SEO, AI search, Reddit, social, ads and work emails.
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
   [![Mencoro MCP connector](https://glama.ai/mcp/connectors/com.mencoro/mencoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.mencoro/mencoro)
   🔐 - Track brand rank, mentions, sentiment and Share of Voice in ChatGPT, Perplexity and Google AI answers.
