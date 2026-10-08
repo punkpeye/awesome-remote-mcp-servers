@@ -193,6 +193,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
+  [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
+  🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
 - [Countersignatory](https://countersignatory.com) `https://countersignatory.com/mcp`
   [![Countersignatory MCP connector](https://glama.ai/mcp/connectors/com.countersignatory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.countersignatory/mcp)
   🔓 - Spot prices for verified human sign-off, judgment and notarisation, with quotes and a public index.
@@ -354,6 +357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Make and take real phone calls.
+- [Faivelo](https://faivelo.com/ai-agents) `https://faivelo.com/api/mcp`
+  [![Faivelo MCP connector](https://glama.ai/mcp/connectors/com.faivelo/mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.faivelo/mail)
+  🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
@@ -2043,6 +2049,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
   [![globalize.now MCP connector](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize)
   🔐 - Localize apps: translate locale files, set glossaries and connect GitHub repos.
+- [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
+  [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
+  🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
