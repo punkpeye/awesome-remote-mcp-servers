@@ -1550,6 +1550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
   [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
   🔐 - Web research across search, Reddit, YouTube, reviews and ad libraries, with line-numbered citations.
+- [Career Page Jobs on Apify MCP](https://apify.com/conserving_celerytop/live-career-page-jobs-api) `https://mcp.apify.com/?tools=fetch-actor-details,conserving_celerytop/live-career-page-jobs-api,conserving_celerytop/tech-jobs-search`
+  [![Career Page Jobs on Apify MCP MCP connector](https://glama.ai/mcp/connectors/io.github.donmangudata-ops/career-page-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.donmangudata-ops/career-page-jobs)
+  🔐 - Open jobs from company career pages on Greenhouse, Lever, Ashby, Workday and 18 more job boards. Paid per use.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Scan a software vendor's public claims for defects and get structured findings with evidence grades.
