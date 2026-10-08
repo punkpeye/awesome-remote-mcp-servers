@@ -1900,6 +1900,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
+- [Kaminari Ad](https://kaminari.ad/mcp) `https://mcp.kaminari.ad/mcp`
+  [![Kaminari Ad MCP connector](https://glama.ai/mcp/connectors/io.github.kaminari-ad/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kaminari-ad/mcp)
+  🔐 - Scan ads, landing pages and redirect chains for malvertising, cloaking and scams; manage policies and alerts.
 - [Lattice](https://lattice.namiq.io) `https://lattice.namiq.io/mcp`
   [![Lattice MCP connector](https://glama.ai/mcp/connectors/io.namiq/lattice/badges/score.svg)](https://glama.ai/mcp/connectors/io.namiq/lattice)
   🔓 - CVE, KEV, ATT&CK, CWE and detection graph; links marked declared or inferred. 3 tools keyless, all 7 with a free key.
