@@ -1136,6 +1136,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎮 <a name="gaming"></a>Gaming
 
+- [CrackAndReveal](https://crackandreveal.com/mcp) `https://crackandreveal.com/api/mcp`
+  [![CrackAndReveal MCP connector](https://glama.ai/mcp/connectors/com.crackandreveal/locks/badges/score.svg)](https://glama.ai/mcp/connectors/com.crackandreveal/locks)
+  🔐 - Create virtual padlocks for riddles, escape games and treasure hunts; returns the share link.
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
