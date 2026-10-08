@@ -814,6 +814,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
+- [DealScore](https://cardealscore.com/agents?ref=awesome-remote-mcp-servers&utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory) `https://cardealscore.com/api/mcp`
+  [![DealScore MCP connector](https://glama.ai/mcp/connectors/com.cardealscore/dealscore/badges/score.svg)](https://glama.ai/mcp/connectors/com.cardealscore/dealscore)
+  🔐 - Grade a used car's asking price against live US dealer comps: grade, 0-100 score, price band and risks.
 - [Epinu](https://epinu.ai) `https://api.epinu.ai/api/agent/mcp`
   [![Epinu MCP connector](https://glama.ai/mcp/connectors/ai.epinu/epinu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.epinu/epinu)
   🔓 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
