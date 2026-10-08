@@ -2245,6 +2245,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search scholarships, convert African GPAs, check visas, match students, and estimate study costs.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
+- [Tollkit](https://tollkit.dev) `https://api.tollkit.dev/mcp`
+  [![Tollkit MCP connector](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract)
+  🔓 - Web pages and PDFs read in a real browser, token checks, SEC and US data; x402 pay-per-call, 3 free calls a day.
 - [Trends MCP](https://trendsmcp.ai) `https://api.trendsmcp.ai/mcp`
   [![Trends MCP connector](https://glama.ai/mcp/connectors/ai.trendsmcp/trends/badges/score.svg)](https://glama.ai/mcp/connectors/ai.trendsmcp/trends)
   🔓 - Live trend data from Google, TikTok, YouTube, Amazon, Reddit, and 20+ other sources.
