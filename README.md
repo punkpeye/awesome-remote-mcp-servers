@@ -707,6 +707,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CVR Lookup](https://cvrlookup.dk/mcp) `https://cvrlookup.dk/api/mcp`
   [![CVR Lookup MCP connector](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup)
   🔓 - Danish company register: lookups, name search and annual-report financials; data needs a free key.
+- [DEBYKO](https://debyko.com) `https://mcp.debyko.com/mcp`
+  [![DEBYKO MCP connector](https://glama.ai/mcp/connectors/com.debyko/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.debyko/mcp)
+  🔐 - Live and historical crypto derivatives data across venues: books, funding, candles and DQL screens.
 - [DeepLedger](https://deepledger.ai) `https://mcp.deepledger.ai/mcp`
   [![DeepLedger MCP connector](https://glama.ai/mcp/connectors/ai.deepledger/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deepledger/mcp)
   🔐 - AI accountant for QuickBooks: record transactions, run reports, manage AR/AP and close the month.
