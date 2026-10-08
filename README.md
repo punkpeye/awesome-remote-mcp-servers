@@ -860,6 +860,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vurto Swap MCP connector](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap)
   🔓 - Token swaps on 9 EVM chains and Solana ranked by net received; returns unsigned transactions.
 
+- [Wudao A-Share Stock Data](https://data.quicktiny.cn/) `https://stock.quicktiny.cn/api/mcp`
+  [![Wudao A-Share Stock Data MCP connector](https://glama.ai/mcp/connectors/io.github.jcdreamjc/wudao-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jcdreamjc/wudao-mcp)
+  🔑 - China A-share market data: limit-up ladders, themes, auctions, K-lines, capital flows, filings and your watchlist.
+
 - [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
