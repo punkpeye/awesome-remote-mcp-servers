@@ -719,6 +719,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Edgrapi](https://edgrapi.com) `https://api.edgrapi.com/mcp`
   [![Edgrapi MCP connector](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills)
   🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
+- [Fair Value Calculator](https://www.fairvalue-calculator.com/mcp) `https://www.fairvalue-calculator.com/mcp`
+  [![Fair Value Calculator MCP connector](https://glama.ai/mcp/connectors/com.fairvalue-calculator/fair-value/badges/score.svg)](https://glama.ai/mcp/connectors/com.fairvalue-calculator/fair-value)
+  🔐 - Fair value estimates, quality scores and screening for 35,000+ stocks worldwide, plus watchlist and price alerts.
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
