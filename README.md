@@ -1383,6 +1383,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [VertoDigital](https://vertodigital.com) `https://mcp.vertodigital.com/mcp`
+  [![VertoDigital MCP Server MCP connector](https://glama.ai/mcp/connectors/com.vertodigital/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertodigital/mcp)
+  🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
 
@@ -1718,6 +1721,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
+- [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
+  [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
+  🔓 - Read any public page as clean Markdown, page metadata, or a page plus 4 same-site pages; USDC per call via x402.
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Free search of people, companies and open roles on an open professional network.
@@ -2133,6 +2139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
+- [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
+  [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
+  🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
