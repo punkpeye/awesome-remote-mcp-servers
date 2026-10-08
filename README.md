@@ -1473,6 +1473,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Narrated 4K 60 fps films from a brief, realistic or animated, with every shot generated.
 - [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
   🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
+- [MakeAIVideo](https://makeaivideo.ai/docs/mcp) `https://mcp.makeaivideo.ai`
+  [![MakeAIVideo MCP connector](https://glama.ai/mcp/connectors/ai.makeaivideo/video-generator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.makeaivideo/video-generator)
+  🔐 - Turn a brief or your own script into a finished short-form AI video (script, voiceover, AI or stock scenes, captions, music), then post or schedule it to connected TikTok, Instagram, YouTube and other social accounts.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
