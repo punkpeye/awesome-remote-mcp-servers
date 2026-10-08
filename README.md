@@ -710,6 +710,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+  - [CloudQuell](https://docs.cloudquell.com/mcp/get-started/overview/) `https://mcp.cloudquell.com/mcp`
+  [![CloudQuell MCP connector](https://glama.ai/mcp/connectors/com.cloudquell/cloudquell-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.cloudquell/cloudquell-mcp-server)
+  🔐 - Query AWS, Anthropic, OpenAI and Snowflake cost data, budgets, anomalies and savings.
 - [Company Check](https://api.foretak.dev) `https://api.foretak.dev/mcp`
   [![Company Check MCP connector](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp)
   🔓 - Look up companies and filings in the UK, Norwegian and Swedish registers, plus UK charges and insolvencies.
