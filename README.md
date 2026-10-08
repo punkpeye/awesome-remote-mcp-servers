@@ -1755,7 +1755,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create API mocks and run tests, security checks, automation workflows, and uptime monitors.
 - [is it DNS?](https://isitdns.net) `https://isitdns.net/mcp`
   [![is it DNS? MCP connector](https://glama.ai/mcp/connectors/net.isitdns/isitdns/badges/score.svg)](https://glama.ai/mcp/connectors/net.isitdns/isitdns)
-  🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, read the live resolver board; no key.
+  🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, check a DNSSEC chain, read a registration; no key.
 - [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
   [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
   🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
