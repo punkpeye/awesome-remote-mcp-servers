@@ -1106,6 +1106,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [HostDeFi](https://hostdefi.com) `https://hostdefi.com/api/v1/mcp`
+  [![HostDeFi MCP connector](https://glama.ai/mcp/connectors/io.github.verixiaapps/hostdefi-x402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.verixiaapps/hostdefi-x402)
+  🔓 - Token risk verdicts, deep reports, Solana pre-graduation signals and wallet exposure; free `scan_token`, USDC x402 pay-per-call.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
