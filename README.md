@@ -923,6 +923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stoxly](https://www.stoxlyonline.com/mcp) `https://www.stoxlyonline.com/api/mcp`
   [![Stoxly MCP connector](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly)
   🔓 - Free stock and ETF fundamental analysis: 10-criteria score, verdict, and key metrics for any ticker.
+- [SubCenter for Teams](https://subcenter.io/teams/agents) `https://subcenter.io/mcp`
+  [![SubCenter for Teams MCP connector](https://glama.ai/mcp/connectors/io.subcenter/teams/badges/score.svg)](https://glama.ai/mcp/connectors/io.subcenter/teams)
+  🔐 - Track SaaS and AI-tool spend, renewals, seats, invoices and client bill-back for small teams.
 - [Taiwan Market Open Data (Unofficial)](https://twse-mcp.taux.io/) `https://twse-mcp.taux.io/mcp`
   [![Taiwan Market Open Data MCP connector](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp)
   🔓 - Unofficial access to Taiwan Stock Exchange and Futures Exchange open data: stock, ETF and futures snapshots, live quotes and 275 datasets.
