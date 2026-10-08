@@ -2505,6 +2505,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
+  [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
+  🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
   [![WhichTrim MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
   🔓 - US vehicle recalls, complaints, fuel economy, crash ratings, VIN decoding and OBD-II codes.
