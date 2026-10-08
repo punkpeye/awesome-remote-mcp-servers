@@ -577,6 +577,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ADITUS Developer Portal MCP](https://developers.aditus.com/mcp) `https://developers.aditus.com/api/mcp`
   [![ADITUS Developer Portal MCP connector](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal/badges/score.svg)](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal)
   🔓 - Search and read the ADITUS event-technology API docs (ticketing, access, BI) and Shop Micro Frontend guides.
+- [Aeon](https://www.aeon.fun/connect) `https://www.aeon.fun/connect/mcp`
+  [![Aeon MCP connector](https://glama.ai/mcp/connectors/fun.aeon/aeon/badges/score.svg)](https://glama.ai/mcp/connectors/fun.aeon/aeon)
+  🔐 - Run and manage your Aeon autonomous agent on GitHub Actions: skills, runs, memory, strategy and settings.
 - [agent-manager Docs](https://agent-manager.dev) `https://agent-manager.dev/mcp`
   [![agent-manager Docs MCP connector](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs)
   🔓 - Search and read the agent-manager docs, list its supported coding CLIs, and get the latest release.
