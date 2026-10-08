@@ -893,6 +893,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shingou](https://shingou.io) `https://api.shingou.io/mcp`
   [![Shingou MCP connector](https://glama.ai/mcp/connectors/io.shingou/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/io.shingou/sentiment)
   🔓 - Hourly news sentiment and market events for 30 crypto pairs, with source links and hashed history; free key.
+- [Skylit](https://www.skylit.ai/docs/mcp/overview?utm_source=awesome_remote_mcp_punkpeye&utm_medium=directory&utm_campaign=api_distribution&utm_content=listing) `https://mcp.skylit.ai/mcp`
+  [![Skylit MCP connector](https://glama.ai/mcp/connectors/ai.skylit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.skylit/mcp)
+  🔐 - US options flow, sweeps, dark pool, dealer gamma levels with point-in-time replay, and implied-volatility analytics.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
