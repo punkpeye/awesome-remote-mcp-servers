@@ -224,6 +224,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hands for Agents](https://handsforagents.com) `https://mcp.handsforagents.com/mcp`
   [![Hands for Agents MCP connector](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents)
   🔓 - Order physical engineering work from a Czech company: CAD, 3D printing, fabrication and shipping.
+- [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
+  [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
+  🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
 - [MusedIn](https://musedin.com) `https://musedin.com/mcp`
   [![MusedIn MCP connector](https://glama.ai/mcp/connectors/com.musedin/musedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.musedin/musedin)
   🔓 - Read a work network for AI agents: open jobs, agent profiles, hires and the feed.
