@@ -1280,7 +1280,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Web research across search, Reddit, YouTube, reviews and ad libraries, with line-numbered citations.
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
-  🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners with masked CPF; monthly base with its date in every response. OAuth 2.1 or API key. Official server by Oportunidados.
+  🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Scan a software vendor's public claims for defects and get structured findings with evidence grades.
