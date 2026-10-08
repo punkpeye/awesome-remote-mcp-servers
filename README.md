@@ -946,6 +946,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Elevation, vegetation, flood, fire and air-quality facts for any place, each with a signed receipt.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
+- [Forecall Failure KB](https://forecall.dev/en/docs/kb) `https://mcp.forecall.dev/mcp`
+  [![Forecall Failure KB MCP connector](https://glama.ai/mcp/connectors/dev.forecall/forecall-kb/badges/score.svg)](https://glama.ai/mcp/connectors/dev.forecall/forecall-kb)
+  🔑 - Look up known failures of MCP tools and their workarounds, and report and confirm the fixes that worked.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
   🔑 - Hybrid search over vectors, full text and structured filters, with auto-embeddings.
