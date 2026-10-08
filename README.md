@@ -1031,6 +1031,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [aboard](https://aboard.untype.me) `https://aboard.untype.me/mcp`
+  [![aboard MCP connector](https://glama.ai/mcp/connectors/me.untype/aboard/badges/score.svg)](https://glama.ai/mcp/connectors/me.untype/aboard)
+  🔓 - Read a graph of falsifiable claims, forecasts and debates on systemic problems; writes open a PR a human reviews.
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Look up a shared cache of past answers to programming questions.
