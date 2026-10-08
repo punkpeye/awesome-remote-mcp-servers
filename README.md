@@ -722,6 +722,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
+- [Finology Software](https://finology.tech/agents/) `https://mcp.finology.tech/free`
+  [![Finology Software MCP connector](https://glama.ai/mcp/connectors/tech.finology/student-loan/badges/score.svg)](https://glama.ai/mcp/connectors/tech.finology/student-loan)
+  🔐 - US federal student loan math on the July 2026 rules: RAP, IBR, PSLF, forgiveness timing and tax; free login.
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - RPC gateway for six mainnets with failover: balances, history, ABIs, gas and transactions; x402 pay-per-call.
@@ -845,8 +848,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
-- [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
-  🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
 - [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
   [![invowerk MCP connector](https://glama.ai/mcp/connectors/dev.invowerk/invowerk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.invowerk/invowerk)
   🔓 - Validate e-invoices: ZUGFeRD, Factur-X, XRechnung and Peppol BIS, with a detailed validation report.
