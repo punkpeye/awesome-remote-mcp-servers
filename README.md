@@ -268,6 +268,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScoreLook](https://scorelook.fr/scorelook-mcp) `https://scorelook.fr/mcp`
   [![ScoreLook MCP connector](https://glama.ai/mcp/connectors/fr.scorelook/capucine/badges/score.svg)](https://glama.ai/mcp/connectors/fr.scorelook/capucine)
   🔓 - French AI stylist: sourced outfit answers, piece hubs, shopping criteria and weather looks.
+- [TheDesignAgent](https://www.thedesignagent.ai) `https://www.thedesignagent.ai/mcp`
+  [![TheDesignAgent MCP connector](https://glama.ai/mcp/connectors/ai.thedesignagent/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.thedesignagent/mcp)
+  🔐 - Briefs your coding agent before it builds a screen, then scores the result for job fit, UX and visual quality.
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
