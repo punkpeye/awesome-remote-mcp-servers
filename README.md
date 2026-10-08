@@ -1251,6 +1251,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
   [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
   🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
+- [RealUptime](https://realuptime.io/mcp) `https://mcp.realuptime.io/mcp`
+  [![RealUptime MCP connector](https://glama.ai/mcp/connectors/io.realuptime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.realuptime/mcp)
+  🔑 - Manage uptime monitors, incidents and status pages, read error issues, and check third-party outages.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
