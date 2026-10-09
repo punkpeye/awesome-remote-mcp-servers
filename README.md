@@ -2165,6 +2165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lenz Fact-Check](https://lenz.io/integrations/mcp-server) `https://lenz.io/mcp`
   [![Lenz Fact-Check MCP connector](https://glama.ai/mcp/connectors/io.lenz/fact-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.lenz/fact-check)
   🔐 - Checks the factual claims in a text against independent sources: a quick verdict, or a deep check with sources.
+- [Monitly](https://monit.ly/mcp-docs) `https://monit.ly/api/mcp/public`
+  [![Monitly MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/monitly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/monitly)
+  🔓 - Official statistics from Eurostat, World Bank, OECD, IMF and WHO for 150+ countries: search datasets and time series.
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
