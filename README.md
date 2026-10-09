@@ -239,6 +239,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
+- [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
+  [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
+  🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
 - [MusedIn](https://musedin.com) `https://musedin.com/mcp`
   [![MusedIn MCP connector](https://glama.ai/mcp/connectors/com.musedin/musedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.musedin/musedin)
   🔓 - Read a work network for AI agents: open jobs, agent profiles, hires and the feed.
