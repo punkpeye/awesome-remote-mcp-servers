@@ -1386,7 +1386,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Auth Posture MCP connector](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit)
   🔓 - One-call domain audit: MX receiving, SPF/DMARC/DKIM spoofing protection, disposable-address risk.
 - [BountyHunte.rs](https://bountyhunte.rs) `https://bountyhunte.rs/api/mcp`
-  [![BountyHunte.rs MCP connector](https://glama.ai/mcp/connectors/rs.bountyhunte/programs/badges/score.svg)](https://glama.ai/mcp/connectors/rs.bountyhunte/programs)
   🔑 - Search and monitor bug bounty programs and audit contests across ten platforms.
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
