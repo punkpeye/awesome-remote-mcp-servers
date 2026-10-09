@@ -2629,6 +2629,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [UFCalendar MMA Fight Data API](https://www.ufcalendar.com/developers/mma-mcp-server) `https://api.ufcalendar.com/mcp`
+  [![UFCalendar MMA Fight Data API MCP connector](https://glama.ai/mcp/connectors/com.ufcalendar/fight-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.ufcalendar/fight-api)
+  🔐 - UFC, PFL, OKTAGON, BKFC and RIZIN fight cards, results, per-round stats, rankings history and judges' scorecards.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
