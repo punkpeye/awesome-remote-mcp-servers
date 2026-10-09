@@ -868,6 +868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [Jagent](https://jev-agent.com/jev-mcp) `https://jev-agent.com/api/mcp`
+  [![Jagent MCP connector](https://glama.ai/mcp/connectors/com.jev-agent/jagent/badges/score.svg)](https://glama.ai/mcp/connectors/com.jev-agent/jagent)
+  🔑 - Grade essays and resumes, and ask yes/no, choice or rubric questions answered with probabilities instead of text.
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
