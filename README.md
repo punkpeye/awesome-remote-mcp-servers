@@ -715,6 +715,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Iminify](https://www.iminify.com/ai-agents) `https://www.iminify.com/mcp`
   [![Iminify MCP connector](https://glama.ai/mcp/connectors/com.iminify/iminify/badges/score.svg)](https://glama.ai/mcp/connectors/com.iminify/iminify)
   🔐 - Compress, convert and resize images, and scan web pages for every image they load.
+- [Ilias Sami SEO](https://iliassami.com) `https://iliassami.com/api/mcp`
+  🔓 - SEO and content readability tool suite: score text across 6 readability formulas, calculate word count, generate URL slugs, and format AP title case.
 - [InferIndex](https://inferindex.dev) `https://mcp.inferindex.dev/mcp`
   [![InferIndex MCP connector](https://glama.ai/mcp/connectors/io.github.InferIndex/inferindex/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.InferIndex/inferindex)
   🔓 - Compare LLM API prices across 150+ providers: cheapest offer, price history and cost estimates.
