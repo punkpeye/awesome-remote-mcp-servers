@@ -923,6 +923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
+- [XP Tickets](https://xp.tickets/mcp) `https://mcp.xp.tickets/mcp`
+  [![XP Tickets MCP connector](https://glama.ai/mcp/connectors/tickets.xp/xp-tickets/badges/score.svg)](https://glama.ai/mcp/connectors/tickets.xp/xp-tickets)
+  🔓 - Quote, buy, bid on, and sell live-event tickets in the US and Canada, with escrow.
 
 ### 🎓 <a name="education"></a>Education
 
