@@ -579,6 +579,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
+- [rows.page](https://rows.page) `https://rows.page/mcp`
+  [![rows.page MCP connector](https://glama.ai/mcp/connectors/page.rows/rows/badges/score.svg)](https://glama.ai/mcp/connectors/page.rows/rows)
+  🔓 - Push CSV, JSON or Parquet from an agent and get a link a human can explore with filters, SQL and charts.
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 - [402cron](https://402cron.com) `https://402cron.com/mcp`
