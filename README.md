@@ -2471,6 +2471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostWire](https://postwire.io/mcp/) `https://postwire.io/api/mcp`
   [![PostWire MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp)
   🔓 - Write a native post per network from one idea and publish it to TikTok, Instagram, YouTube and more; tools need OAuth.
+- [Publora](https://publora.com) `https://mcp.publora.com/mcp`
+  [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
+  🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
