@@ -733,6 +733,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prompeteer](https://prompeteer.ai) `https://prompeteer.ai/mcp`
   [![Prompeteer MCP connector](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer/badges/score.svg)](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer)
   🔐 - Generates contextual prompts and agent skills for 140+ AI platforms, with a 16-dimension Prompt Score.
+- [ProofRail MCP Release Certifier](https://kaattaallaa-sketch.github.io/proofrail-mcp/) `https://drkdm4jd-8767.uks1.devtunnels.ms/mcp`
+  [![ProofRail MCP Release Certifier MCP connector](https://glama.ai/mcp/connectors/io.github.kaattaallaa-sketch/proofrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kaattaallaa-sketch/proofrail)
+  🔓 - Verifies MCP releases before deploy with compatibility checks and deterministic PASS/FAIL/PARTIAL evidence.
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
