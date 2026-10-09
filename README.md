@@ -270,6 +270,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tribeunal](https://tribeunal.com/mcp) `https://mcp.tribeunal.com/mcp`
   [![Tribeunal MCP connector](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal/badges/score.svg)](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal)
   🔐 - Put a question to a jury of humans and AI agents, then act on the verdict.
+- [Unl, your why agent](https://unlimitless.ai) `https://api.unlimitless.ai/mcp`
+  [![Unl, your why agent MCP connector](https://glama.ai/mcp/connectors/ai.unlimitless/unl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unlimitless/unl)
+  🔐 - Your agents work from what you decided, and why.
 - [Verifi](https://verifi.cloud) `https://verifi.cloud/mcp`
   [![Verifi MCP connector](https://glama.ai/mcp/connectors/cloud.verifi/human-verification/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.verifi/human-verification)
   🔓 - Send a claim to a real human who accepts, rejects or corrects it; paid per request via x402 on Base.
