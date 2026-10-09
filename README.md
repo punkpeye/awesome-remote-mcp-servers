@@ -911,6 +911,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
+- [Store Catalog](https://agenttoolworks.com/scrapers/shopify-woocommerce) `https://storecatalog.agenttoolworks.com/mcp`
+  [![Store Catalog MCP connector](https://glama.ai/mcp/connectors/com.agenttoolworks/storecatalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttoolworks/storecatalog)
+  🔑 - Read any public Shopify or WooCommerce store: products, variants, prices, stock, barcodes and search.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
@@ -1182,6 +1185,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
+- [InvoiceForge](https://agenttoolworks.com/servers/invoiceforge) `https://invoiceforge.agenttoolworks.com/mcp`
+  [![InvoiceForge MCP connector](https://glama.ai/mcp/connectors/com.agenttoolworks/invoiceforge/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttoolworks/invoiceforge)
+  🔑 - Generate, validate and read EN 16931 and Peppol BIS 3.0 e-invoices in UBL and CII, with official rule identifiers.
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
@@ -1374,6 +1380,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
+- [VerifyDesk](https://agenttoolworks.com/servers/verifydesk) `https://verifydesk.agenttoolworks.com/mcp`
+  [![VerifyDesk MCP connector](https://glama.ai/mcp/connectors/com.agenttoolworks/verifydesk/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttoolworks/verifydesk)
+  🔑 - French and UK company registry lookups, EU VAT via VIES, IBAN checks and OFAC and UN sanctions screening.
 - [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
   [![Vérif Entreprise FR MCP connector](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr)
   🔓 - Verify French companies by SIREN: legal status, BODACC insolvency proceedings and RGE certifications, paid via x402.
@@ -2324,6 +2333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
+- [JobsRadar](https://agenttoolworks.com/servers/jobsradar) `https://jobsradar.agenttoolworks.com/mcp`
+  [![JobsRadar MCP connector](https://glama.ai/mcp/connectors/com.agenttoolworks/jobsradar/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttoolworks/jobsradar)
+  🔑 - Job search across Greenhouse, Lever, Ashby, Personio, Pinpoint and SmartRecruiters boards in one call, deduplicated and normalized.
 - [jopp](https://getjopp.app) `https://getjopp.app/mcp`
   [![jopp MCP connector](https://glama.ai/mcp/connectors/app.getjopp/jopp/badges/score.svg)](https://glama.ai/mcp/connectors/app.getjopp/jopp)
   🔓 - Search open jobs in Switzerland and Liechtenstein and read job details.
