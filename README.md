@@ -2106,6 +2106,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
+- [Sendsets](https://sendsetsapi.com) `https://api.sendsetsapi.com/v1/mcp`
+  [![Sendsets MCP connector](https://glama.ai/mcp/connectors/io.github.AddisonHoff/sendsets/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AddisonHoff/sendsets)
+  🔐 - Run cold email: connect and warm up mailboxes, launch outbound campaigns, add leads, and answer replies.
 
 - [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
   [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
