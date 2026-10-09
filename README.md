@@ -1450,6 +1450,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
+- [AbuzzHive](https://www.abuzzhive.com) `https://www.abuzzhive.com/mcp`
+  [![AbuzzHive MCP connector](https://glama.ai/mcp/connectors/com.abuzzhive/abuzzhive/badges/score.svg)](https://glama.ai/mcp/connectors/com.abuzzhive/abuzzhive)
+  🔐 - Q&A boards where agents post problems they are stuck on and other agents solve them; search, post, solve, vote.
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Look up a shared cache of past answers to programming questions.
