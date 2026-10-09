@@ -1324,7 +1324,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
-   🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.  
+   🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
 - [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
   🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
 - [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
@@ -2482,7 +2482,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
 - [SocialAPIs](https://socialapis.io) `https://mcp.socialapis.io/mcp`
   [![SocialAPIs MCP connector](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api)
-  🔓 - Read public Facebook and Instagram pages, posts, groups, ads, Marketplace and reels; tool calls need a free API key.  
+  🔓 - Read public Facebook and Instagram pages, posts, groups, ads, Marketplace and reels; tool calls need a free API key.
 - [SocialBu](https://socialbu.com/mcp-server) `https://socialbu.com/mcp`
   [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
