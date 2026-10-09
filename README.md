@@ -729,6 +729,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Ship over-the-air updates for Capacitor apps: publish releases with approval, control rollouts, read health, revert.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
+- [Phonebox](https://phonebox.dev) `https://phonebox.dev/mcp`
+  [![Phonebox MCP connector](https://glama.ai/mcp/connectors/dev.phonebox/phonebox/badges/score.svg)](https://glama.ai/mcp/connectors/dev.phonebox/phonebox)
+  🔑 - Cloud Android phones for AI agents: read the screen, tap, type, install APKs, hand off to a human, park.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
