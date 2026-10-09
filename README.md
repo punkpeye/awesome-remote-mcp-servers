@@ -1222,6 +1222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [Polish KYB (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/kyb`
+  [![Polish KYB (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-kyb/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-kyb)
+  🔓 - Know-your-business checks for Polish companies: KRS profile, owners, insolvency, court gazette and sanctions lists.
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
