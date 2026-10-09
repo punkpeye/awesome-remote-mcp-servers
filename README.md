@@ -2551,6 +2551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
+- [FastSocial Instagram Data](https://fastsocial.co/instagram-api) `https://data.fastsocial.co/mcp`
+  [![FastSocial Instagram Data MCP connector](https://glama.ai/mcp/connectors/io.github.FastSocialCo/instagram-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FastSocialCo/instagram-data-mcp)
+  🔐 - Read-only public Instagram data: profiles, posts, reels, stories, comments, hashtags and search.
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
