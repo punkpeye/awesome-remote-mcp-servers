@@ -2849,7 +2849,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Send text to a reader window to read along and listen, with per-sentence playback controls.
 - [Dollea Beauty Coworking](https://coworking.dollea.de/agents/?language=en) `https://coworking.dollea.de/mcp/coworking`
   [![Dollea Beauty Coworking MCP connector](https://glama.ai/mcp/connectors/de.dollea/coworking/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/coworking)
-  🔐 - Beauty workspaces in Munich: equipment, availability, personal tariffs and authorized rental booking.
+  🔓 - Public beauty workspace catalog in Munich; OAuth for personal prices and rental booking.
 - [EasyPDF](https://www.easypdf.fr/ai-assistants) `https://www.easypdf.fr/mcp`
   [![EasyPDF MCP connector](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf)
   🔐 - Edit text inside PDFs with fonts and layout kept, then compress, merge, split, convert or translate them.
@@ -2954,7 +2954,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
 - [Dollea Salon](https://www.dollea.de/agents/?language=en) `https://www.dollea.de/mcp/salon`
   [![Dollea Salon MCP connector](https://glama.ai/mcp/connectors/de.dollea/salon/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/salon)
-  🔐 - Beauty treatments in Munich: live prices, specialists, available appointments and authorized booking.
+  🔓 - Public beauty service catalog and slots in Munich; OAuth for booking and private appointments.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
