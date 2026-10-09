@@ -2771,6 +2771,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpinWheelNames](https://spinwheelnames.com) `https://spinwheelnames.com/mcp`
   [![SpinWheelNames MCP connector](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames)
   🔓 - Spin random name picker wheels, pick random numbers, and search or open shared wheels.
+- [RoxyAPI Vedic Astrology](https://roxyapi.com/products/vedic-astrology-api) `https://roxyapi.com/mcp/vedic-astrology`
+  [![RoxyAPI Vedic Astrology MCP connector](https://glama.ai/mcp/connectors/com.roxyapi/vedic-astrology/badges/score.svg)](https://glama.ai/mcp/connectors/com.roxyapi/vedic-astrology)
+  🔑 - Kundli, panchang, Vimshottari dasha, doshas, yogas, KP astrology and kundli matching from NASA JPL DE440.
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
