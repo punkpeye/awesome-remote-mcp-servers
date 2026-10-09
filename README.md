@@ -1029,6 +1029,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [BankBridge](https://bankbridge.money) `https://bankbridge.money/api/mcp`
+  [![BankBridge MCP connector](https://glama.ai/mcp/connectors/money.bankbridge/server/badges/score.svg)](https://glama.ai/mcp/connectors/money.bankbridge/server)
+  🔐 - Read-only access to your own bank, card and brokerage accounts: balances, transactions, spending, holdings.
 - [Barakah Halal Stock Screen](https://barakahprofits.com) `https://app.barakahprofits.com/mcp`
   [![Barakah Halal Stock Screen MCP connector](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen/badges/score.svg)](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen)
   🔓 - Halal (Sharia) screen for US stocks: AAOIFI-style checks plus the dated history of each verdict change.
