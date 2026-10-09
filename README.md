@@ -1653,6 +1653,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
+- [Licitações BR](https://mcpize.com/mcp/mcp-licitacoes-br) `https://mcp-licitacoes-br.mcpize.run/mcp`
+  [![Licitações BR MCP connector](https://glama.ai/mcp/connectors/io.github.DouglasGouvea/mcp-licitacoes-br/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DouglasGouvea/mcp-licitacoes-br)
+  🔐 - Brazilian public tenders and contracts from PNCP, each fact with its official source and date.
 - [LienDeadline](https://liendeadline.com) `https://mcp.liendeadline.com/mcp`
   [![LienDeadline MCP connector](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp)
   🔓 - Read-only US mechanics lien and preliminary notice deadlines for suppliers, plus lien guides for all 50 states and DC.
