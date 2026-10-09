@@ -2015,6 +2015,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Work with Jira issues and Confluence pages.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
+- [Demiton](https://demiton.io/mcp) `https://api.demiton.io/mcp`
+  [![Demiton MCP connector](https://glama.ai/mcp/connectors/io.demiton/demiton/badges/score.svg)](https://glama.ai/mcp/connectors/io.demiton/demiton)
+  🔐 - Answers questions across a civil contractor's connected systems on rework, claims, disputes, cost and compliance.
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
   [![dot•requirements MCP connector](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements/badges/score.svg)](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements)
   🔐 - Draft testable requirements specs from chat, style-check them, publish to your team, and see test coverage.
