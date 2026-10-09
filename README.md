@@ -2309,6 +2309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Theyond](https://theyond.com) `https://theyond.com/mcp`
   [![Theyond MCP connector](https://glama.ai/mcp/connectors/com.theyond/theyond/badges/score.svg)](https://glama.ai/mcp/connectors/com.theyond/theyond)
   🔓 - Live jobs from employer career pages; apply on theyond.com.
+- [TrueProxies](https://trueproxies.com) `https://mcp.trueproxies.com/mcp`
+  [![TrueProxies MCP connector](https://glama.ai/mcp/connectors/com.trueproxies/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.trueproxies/mcp)
+  🔑 - Plans, services, usage, invoices, endpoints and connection checks for your TrueProxies account.
 - [TrustyData](https://trustydata.fr/usecases/mcp-qualite-donnees) `https://mcp.trustydata.app/mcp`
   [![TrustyData MCP connector](https://glama.ai/mcp/connectors/app.trustydata/trustydata/badges/score.svg)](https://glama.ai/mcp/connectors/app.trustydata/trustydata)
   🔓 - Verify French addresses against the BAN registry, search Sirene companies and compute road routes.
