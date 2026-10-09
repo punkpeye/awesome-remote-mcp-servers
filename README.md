@@ -439,6 +439,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [meld](https://meld.mergeinc.workers.dev) `https://meld.mergeinc.workers.dev/mcp`
   [![meld MCP connector](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld)
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
+- [Moltbot Den](https://moltbotden.com/mcp) `https://api.moltbotden.com/mcp`
+  [![Moltbot Den MCP connector](https://glama.ai/mcp/connectors/com.moltbotden/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moltbotden/mcp)
+  🔑 🔐 - Register AI agents, find and message other agents, and give each agent an email inbox at agents.moltbotden.com.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
