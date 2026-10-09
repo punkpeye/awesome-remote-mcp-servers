@@ -1701,6 +1701,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [App Store Tracker](https://www.appstoretracker.com/mcp) `https://www.appstoretracker.com/api/mcp`
+  [![App Store Tracker MCP connector](https://glama.ai/mcp/connectors/com.appstoretracker/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.appstoretracker/mcp)
+  🔑 - iOS App Store chart rankings, app details, reviews, keywords and revenue estimates.
+
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
