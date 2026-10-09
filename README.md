@@ -1436,6 +1436,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TableJourney](https://tablejourney.com/agents/) `https://tablejourney.com/mcp`
   [![TableJourney MCP connector](https://glama.ai/mcp/connectors/com.tablejourney/food-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.tablejourney/food-travel)
   🔓 - Restaurants, markets and street food in 200+ cities, plus food festivals and bookable tours.
+- [Ullas Opskrifter](https://ullasopskrifter.dk) `https://ullasopskrifter.dk/mcp`
+  [![Ullas Opskrifter MCP connector](https://glama.ai/mcp/connectors/dk.ullasopskrifter/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/dk.ullasopskrifter/recipes)
+  🔓 - Search and read Danish recipes, ingredients and categories; read-only.
 - [bordeaux.guru](https://bordeaux.guru/mcp-server/) `https://mcp.bordeaux.guru/mcp`
   [![bordeaux.guru MCP connector](https://glama.ai/mcp/connectors/guru.bordeaux/en-primeur/badges/score.svg)](https://glama.ai/mcp/connectors/guru.bordeaux/en-primeur)
   🔓 - First-hand Bordeaux en primeur tasting notes, appellation climate, vine phenology and terroir geodata.
