@@ -637,6 +637,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Capawesome MCP Server](https://capawesome.io/docs/ai/mcp/capawesome/) `https://mcp.capawesome.io/mcp`
   [![Capawesome MCP connector](https://glama.ai/mcp/connectors/io.capawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.capawesome/mcp)
   🔓 - Search the Capawesome docs and blog; an API token adds the Capawesome Cloud management tools.
+- [Carrick](https://carrick.tools) `https://api.carrick.tools/mcp`
+  [![Carrick MCP connector](https://glama.ai/mcp/connectors/io.github.carrick-tools/carrick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.carrick-tools/carrick)
+  🔐 - Indexes TypeScript codebases across services and repositories so agents search functions by intent rather than name.
 - [Ceraph React Native MCP](https://ceraph.dev) `https://mcp.ceraph.dev/mcp`
   [![Ceraph React Native MCP connector](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp)
   🔐 - Let your coding agent test React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators.
