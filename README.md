@@ -666,6 +666,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CometChat Docs](https://www.cometchat.com/docs/mcp-server) `https://mcp.cometchat.com/mcp`
   [![CometChat Docs MCP connector](https://glama.ai/mcp/connectors/io.github.cometchat/docs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cometchat/docs-mcp)
   🔓 - Search CometChat chat, calling and moderation docs and get ready-made integration recipes.
+- [CompatLab](https://compatlab.me/) `https://compatlab.me/mcp`
+  [![CompatLab MCP connector](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab)
+  🔓 - Read recorded npm loading results across pinned Node.js, Bun and Deno versions, with coverage and report links.
 - [ContextStream](https://contextstream.io) `https://mcp.contextstream.io/mcp`
   [![ContextStream MCP connector](https://glama.ai/mcp/connectors/io.contextstream/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.contextstream/mcp)
   🔐 - Shared project context for Cursor, Claude Code, Codex, and Grok. Intelligence isn’t the bottleneck. Context is.
