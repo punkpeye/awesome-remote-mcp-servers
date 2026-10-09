@@ -2509,6 +2509,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sitelemetry](https://sitelemetry.com/mcp-guide) `https://sitelemetry.com/mcp`
   [![Sitelemetry MCP connector](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry)
   🔐 - Audit sites you own for security, SEO, AI readiness, accessibility, performance and integrations.
+- [Skycloak](https://skycloak.io/mcp) `https://mcp.skycloak.io`
+  [![Skycloak MCP connector](https://glama.ai/mcp/connectors/io.skycloak/skycloak-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.skycloak/skycloak-mcp)
+  🔐 - Managed Keycloak identity for AI agents: SSO, realms, users, apps, and audit via MCP.
 - [Tanod](https://tanod.dev) `https://tanod.dev/mcp`
   [![Tanod MCP connector](https://glama.ai/mcp/connectors/dev.tanod/tanod/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tanod/tanod)
   🔓 - Pre-transaction address checks, agent skill and MCP package scans, Solidity scans; paid per call via x402.
