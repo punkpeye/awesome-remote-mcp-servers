@@ -860,6 +860,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BirkinBagStock](https://birkinbagstock.com) `https://birkinbagstock.com/mcp`
   [![BirkinBagStock MCP connector](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp)
   🔓 - Independent Hermès resale index: inventory, market prices, auction calendar and results.
+- [Canopy API](https://canopyapi.co) `https://mcp.canopyapi.co/mcp`
+  [![Canopy API MCP connector](https://glama.ai/mcp/connectors/co.canopyapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.canopyapi/mcp)
+  🔐 - Real-time Amazon product data: search, prices, offers, reviews, deals, best sellers, and ASIN lookup.
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
