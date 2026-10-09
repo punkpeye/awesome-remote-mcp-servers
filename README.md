@@ -2127,7 +2127,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
 - [TrueFixR + AtlasCast](https://atlasunited.io/api) `https://mcp.atlasunited.io/mcp`
   [![TrueFixR + AtlasCast MCP connector](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr)
-  🔓 - Address-level storm event data and forecasted property risk API for AI agents.
+  🔓 - Address-level storm history (reported and radar-detected, since 2003), model-based weather and storm forecasts.
 
 - [Tradehand](https://tradehand.com) `https://tradehand.com/api/mcp`
   [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
