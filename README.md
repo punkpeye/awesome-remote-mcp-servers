@@ -810,6 +810,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Unipile MCP connector](https://glama.ai/mcp/connectors/com.unipile.developer/unipile/badges/score.svg)](https://glama.ai/mcp/connectors/com.unipile.developer/unipile)
   🔓 - Reads and calls the Unipile API for LinkedIn, WhatsApp, Instagram, Telegram, email and calendar from coding agents.
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
+  [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
 - [VibeFix](https://vibe-fixer.com) `https://vibe-fixer.com/mcp`
   [![VibeFix MCP connector](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix)
