@@ -2696,6 +2696,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AirFreightPrice](https://airfreightprice.com) `https://mcp.airfreightprice.com/mcp`
   [![AirFreightPrice MCP connector](https://glama.ai/mcp/connectors/com.airfreightprice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.airfreightprice/mcp)
   🔓 - Air cargo routes, airports and carriers with dated Freightos Air Index rates; submit quote requests.
+- [Aisle](https://aisle.wedding/mcp) `https://aisle.wedding/api/claude/mcp`
+  [![Aisle MCP connector](https://glama.ai/mcp/connectors/wedding.aisle/aisle/badges/score.svg)](https://glama.ai/mcp/connectors/wedding.aisle/aisle)
+  🔓 🔐 - Search wedding venues, estimate costs and plan timelines; use OAuth to manage guests, events and wedding details.
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights via Israeli travel app Alice, with English and Hebrew results.
