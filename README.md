@@ -338,7 +338,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
-
+- [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
+  [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
+  🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
+  
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
 - [APEX](https://apexfaucet.xyz/connect/) `https://apexfaucet.xyz/api/mcp`
