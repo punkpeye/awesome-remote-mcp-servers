@@ -2348,6 +2348,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ni Biashara Shelves](https://agents.nibiashara.biz/docs?ref=dir-awesome-remote) `https://agents.nibiashara.biz/mcp`
   [![Ni Biashara Shelves MCP connector](https://glama.ai/mcp/connectors/biz.nibiashara/shelves/badges/score.svg)](https://glama.ai/mcp/connectors/biz.nibiashara/shelves)
   🔓 - Pay-per-call data checks over x402: FMCSA carrier/broker authority, load vetting, OFAC screens and African FX rates.
+- [oassis](https://oassis.dev) `https://api.oassis.dev/mcp`
+  [![oassis MCP connector](https://glama.ai/mcp/connectors/dev.oassis/scraper-crawler/badges/score.svg)](https://glama.ai/mcp/connectors/dev.oassis/scraper-crawler)
+  🔓 - Scrape pages to markdown, map and crawl sites, and drive a browser. No signup; pay per call in USDC.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
