@@ -1571,6 +1571,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [What Led To](https://whatledto.com) `https://whatledto.com/mcp`
   [![What Led To MCP connector](https://glama.ai/mcp/connectors/com.whatledto/what-led-to/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatledto/what-led-to)
   🔓 - Source-backed timelines of tech, economy and gaming events, with the quote behind each entry.
+- [WhiteMagic](https://www.whitemagic.dev) `https://mcp.whitemagic.dev/mcp`
+  [![WhiteMagic MCP connector](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp)
+  🔑 - Local-first memory and session continuity for AI agents: durable recall, session handoffs, and signed continuity receipts, with a read-only hosted evaluation lane.
 
 ### ⚖️ <a name="legal"></a>Legal
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
