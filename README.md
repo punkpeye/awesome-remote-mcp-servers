@@ -2770,7 +2770,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SimFuse](https://simfuse.app/agent/) `https://api.simfuse.app/agentic/mcp`
   [![SimFuse MCP connector](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront/badges/score.svg)](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront)
   🔓 - Travel eSIMs for 200+ countries: browse plans, check coverage, price a trip and check out.
-
+- [metasearch MCP](https://metasearch.com.tr/en/mcp) `https://metasearch.com.tr/mcp`
+  [![metasearch MCP connector](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp)
+  🔓 - Validate, normalize and compare hotel feeds for Google Hotel Center, Wego, trivago and more.
+  
 ### 🔄 <a name="version-control"></a>Version Control
 
 - [Codebahn](https://codebahn.net) `https://codebahn.net/mcp`
