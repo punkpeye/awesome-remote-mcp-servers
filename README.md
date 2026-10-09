@@ -1876,6 +1876,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QQuickpick](https://qquickpick.com/agents/mcp) `https://qquickpick.com/mcp`
   [![QQuickpick MCP connector](https://glama.ai/mcp/connectors/io.github.Ravesteijntjes/qquickpick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ravesteijntjes/qquickpick)
   🔓 - Search movies and TV shows by mood, genre and score, filtered to what streams in your country.
+- [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
+  [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
+  🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
