@@ -1324,7 +1324,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
-   🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
+   🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.  
 - [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
   🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
 - [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
@@ -1558,7 +1558,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
 - [Takibi Base](https://takibibase.com) `https://app.takibibase.com/mcp`
   [![Takibi Base MCP connector](https://glama.ai/mcp/connectors/com.takibibase/takibi/badges/score.svg)](https://glama.ai/mcp/connectors/com.takibibase/takibi)
-  🔐 - Ask your Takibi Base collections anything; get answers with cited passages and a support score.  
+  🔐 - Ask your Takibi Base collections anything; get answers with cited passages and a support score.
 - [Urantia Papers](https://urantia.dev) `https://api.urantia.dev/mcp`
   [![Urantia Papers MCP connector](https://glama.ai/mcp/connectors/dev.urantia/urantia-papers/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urantia/urantia-papers)
   🔓 - Read and search the Urantia Papers by reference, keyword, or meaning, with named entities and Bible cross-references.
