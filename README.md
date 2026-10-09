@@ -1556,6 +1556,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
+- [Takibi Base](https://takibibase.com) `https://app.takibibase.com/mcp`
+  [![Takibi Base MCP connector](https://glama.ai/mcp/connectors/com.takibibase/takibi/badges/score.svg)](https://glama.ai/mcp/connectors/com.takibibase/takibi)
+  🔐 - Ask your Takibi Base collections anything; get answers with cited passages and a support score.  
 - [Urantia Papers](https://urantia.dev) `https://api.urantia.dev/mcp`
   [![Urantia Papers MCP connector](https://glama.ai/mcp/connectors/dev.urantia/urantia-papers/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urantia/urantia-papers)
   🔓 - Read and search the Urantia Papers by reference, keyword, or meaning, with named entities and Bible cross-references.
@@ -2477,9 +2480,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
-- [SocialAPIs](https://socialapis.io) `https://mcp.socialapis.io/mcp`
-  [![SocialAPIs MCP connector](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api)
-  🔓 - Read public Facebook and Instagram pages, posts, groups, ads, Marketplace and reels; tool calls need a free API key.
 - [SocialBu](https://socialbu.com/mcp-server) `https://socialbu.com/mcp`
   [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
