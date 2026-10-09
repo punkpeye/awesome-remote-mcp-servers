@@ -2162,6 +2162,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Electronics Architect](https://electronics-architect.com/developers) `https://electronics-architect.com/mcp`
   [![Electronics Architect MCP connector](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect/badges/score.svg)](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect)
   🔐 - Solves DC/DC power trees with real parts: each rail's current, efficiency, dissipation and tolerance corners.
+- [Hyperresearch](https://hyperresearch.ai/docs/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory) `https://mcp.hyperresearch.ai/mcp`
+  [![Hyperresearch MCP connector](https://glama.ai/mcp/connectors/ai.hyperresearch/hyperresearch/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hyperresearch/hyperresearch)
+  🔐 🔑 - Start cited deep-research runs, read the reports, search the kept sources and verify citations.
 - [Lenz Fact-Check](https://lenz.io/integrations/mcp-server) `https://lenz.io/mcp`
   [![Lenz Fact-Check MCP connector](https://glama.ai/mcp/connectors/io.lenz/fact-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.lenz/fact-check)
   🔐 - Checks the factual claims in a text against independent sources: a quick verdict, or a deep check with sources.
