@@ -2198,6 +2198,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [BlockWerk](https://blockwerk.tech/connect-ai) `https://blockwerk-mcp-worker.blockwerk.workers.dev/`
+  [![BlockWerk MCP connector](https://glama.ai/mcp/connectors/tech.blockwerk/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tech.blockwerk/mcp)
+  🔓 - Build, run and analyse block-diagram simulations: PID, Bode, FFT and optimisation.
 - [CovaSyn](https://covasyn.com/en/mcp) `https://mcp.covasyn.com/mcp`
   [![CovaSyn MCP connector](https://glama.ai/mcp/connectors/com.covasyn/chemistry/badges/score.svg)](https://glama.ai/mcp/connectors/com.covasyn/chemistry)
   🔓 - Chemistry tools for pharma and biotech: NMR, MS, ICH M7 toxicity, stability, HPLC, DoE; tool calls need a key or OAuth.
