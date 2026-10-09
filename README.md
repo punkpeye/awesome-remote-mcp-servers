@@ -1881,10 +1881,13 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
-  🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
+  🔓 - Timestamped transcripts, chapters and clip ieas from YouTube, Twitch, Kick or TikTok links.
 - [ClipUGC](https://clipugc.com) `https://clipugc.com/mcp`
   [![ClipUGC MCP connector](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc)
   🔐 - Make UGC videos for mobile apps with AI influencers who keep the same face.
+- [CWI Discovery Engine](https://github.com/CumulativeWebInc/cwi-learn) `https://cwi-machine-data.hp-ace.workers.dev/mcp`
+  [![CWI Discovery Engine MCP connector](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine)
+  🔓 - Machine-readable catalog of the Cumulative Web Inc label: track search, sync briefs, live Radio 365, playlist pitching.
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
