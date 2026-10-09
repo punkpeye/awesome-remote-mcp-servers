@@ -1536,6 +1536,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Engram MCP connector](https://glama.ai/mcp/connectors/io.github.engram-app/engram/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.engram-app/engram)
   🔐 - Search, read and edit your Obsidian notes as AI memory, synced to the cloud and reachable with Obsidian closed.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
+  [![Flash MCP connector](https://glama.ai/mcp/connectors/com.flashmemorize/flash/badges/score.svg)](https://glama.ai/mcp/connectors/com.flashmemorize/flash)
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
