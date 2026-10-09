@@ -493,6 +493,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
+- [Comma](https://commareports.com) `https://commareports.com/api/mcp`
+  [![Comma MCP connector](https://glama.ai/mcp/connectors/com.commareports/comma/badges/score.svg)](https://glama.ai/mcp/connectors/com.commareports/comma)
+  🔑 - Publish HTML reports to a share link, read anchored reviewer comments, reply, and revise at the same URL.
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
