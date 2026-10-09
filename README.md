@@ -603,6 +603,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
   [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
   🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
+- [BenchGecko](https://benchgecko.ai/api-docs#mcp) `https://benchgecko.ai/api/mcp`
+  🔓 - Live AI model prices at every provider, benchmarks, AI behavior tests and AI economy data, each with sources.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
