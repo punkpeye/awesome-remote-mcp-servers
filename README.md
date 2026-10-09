@@ -2314,6 +2314,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Singapore Proxy](https://singaporemobileproxy.com/client/mcp) `https://mcp.singaporemobileproxy.com/mcp`
   [![Singapore Proxy MCP connector](https://glama.ai/mcp/connectors/io.github.Xavierfok/singapore-proxy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Xavierfok/singapore-proxy-mcp)
   🔓 - Fetch pages and run Google searches from a rotating Singapore mobile IP on Singtel or M1; tools need a key.
+- [SiteCheck](https://api.sitecheck-api.workers.dev) `https://api.sitecheck-api.workers.dev/mcp`
+  [![SiteCheck MCP connector](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck)
+  🔓 - 29 x402 pay-per-call tools: web page to Markdown, PDF text, tech stack, email, domain, Solana, KYB.
 - [SnoopScan](https://snoopscan.com) `https://api.snoopscan.com/mcp-oauth`
   [![SnoopScan MCP connector](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan)
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
