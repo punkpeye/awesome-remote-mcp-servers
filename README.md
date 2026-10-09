@@ -1447,6 +1447,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [emem](https://emem.dev) `https://emem.dev/mcp`
   [![emem MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem)
   🔓 - Elevation, vegetation, flood, fire and air-quality facts for any place, each with a signed receipt.
+- [Engram](https://engram.page) `https://mcp.engram.page`
+  [![Engram MCP connector](https://glama.ai/mcp/connectors/io.github.engram-app/engram/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.engram-app/engram)
+  🔐 - Search, read and edit your Obsidian notes as AI memory, synced to the cloud and reachable with Obsidian closed.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
