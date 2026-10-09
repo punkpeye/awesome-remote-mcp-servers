@@ -1045,7 +1045,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
 - [EU VAT & Peppol Check](https://mcpize.com/mcp/mcp-peppol) `https://mcp-peppol.mcpize.run/mcp`
   [![EU VAT & Peppol Check MCP connector](https://glama.ai/mcp/connectors/io.github.DouglasGouvea/mcp-peppol/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DouglasGouvea/mcp-peppol)
-  🔐 - EU VAT checks in VIES and Peppol e-invoicing lookup, each fact with its source and date.
+  🔑 - EU VAT checks in VIES and Peppol e-invoicing lookup, each fact with its source and date.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
