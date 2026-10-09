@@ -893,6 +893,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Rotate Pilot MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot)
   🔓 - FAA drone (Part 107) and pilot exam prep: practice questions, readiness diagnostic, METAR/TAF, drone airspace.
 
+- [Shopify Change Intelligence](https://shopify-intel.contentforge-press.workers.dev) `https://shopify-intel.contentforge-press.workers.dev/mcp`
+  [![Shopify Change Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.contentforge-press/shopify-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.contentforge-press/shopify-intel)
+  🔓 - Monitor any public Shopify store: free live snapshot, paid change intelligence and competitor reports in USDC via x402.
+
 ### 🌳 <a name="environment"></a>Environment
 
 - [Aevia](https://aeviamodeler.ai/mcp?src=awesome-remote) `https://app.aeviamodeler.ai/api/v1/connector/mcp`
