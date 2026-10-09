@@ -1805,6 +1805,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
 
+- [Warmerly](https://warmerly.com) `https://app.warmerly.com/api/mcp`
+  [![Warmerly MCP connector](https://glama.ai/mcp/connectors/com.warmerly/warmerly/badges/score.svg)](https://glama.ai/mcp/connectors/com.warmerly/warmerly)
+  🔐 - Email warmup and outreach: manage mailboxes, leads, campaigns and the unified inbox.
+
 ### 📊 <a name="monitoring"></a>Monitoring
 
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
