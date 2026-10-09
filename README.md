@@ -858,6 +858,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PoloPan Fashion MCP](https://polopan.com) `https://mcp-server.polopan.com/mcp`
   [![PoloPan Fashion MCP connector](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion/badges/score.svg)](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion)
   🔓 - Shop fashion: break an outfit photo into items, get in-stock looks for an occasion and check out.
+- [Productify](https://www.useproductify.com/printify-chatgpt-mcp) `https://www.useproductify.com/api/mcp`
+  [![Productify MCP connector](https://glama.ai/mcp/connectors/com.useproductify/productify/badges/score.svg)](https://glama.ai/mcp/connectors/com.useproductify/productify)
+  🔐 - Create and publish Printify products from chat, with listings in your shop's voice and a preview you approve first.
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
