@@ -1854,6 +1854,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Everframe](https://everframe.dev) `https://everframe.dev/mcp`
   [![Everframe MCP connector](https://glama.ai/mcp/connectors/dev.everframe/everframe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.everframe/everframe)
   🔐 - Read in-app bug reports, crashes and tickets with screenshots, console, network and device context.
+- [Flare](https://flareapp.io) `https://flareapp.io/mcp`
+  [![Flare MCP connector](https://glama.ai/mcp/connectors/io.flareapp/flare/badges/score.svg)](https://glama.ai/mcp/connectors/io.flareapp/flare)
+  🔓 - Investigate and resolve Laravel and PHP errors, search logs, and find slow routes, queries and jobs.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and AI-found bugs from session recordings.
@@ -2616,6 +2619,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [There There](https://there-there.app) `https://there-there.app/mcp`
+  [![There There MCP connector](https://glama.ai/mcp/connectors/app.there-there/there-there/badges/score.svg)](https://glama.ai/mcp/connectors/app.there-there/there-there)
+  🔓 - Read, triage and reply to helpdesk tickets, save private drafts, and edit knowledge base articles.
 
 ### 🌍 <a name="translation--localization"></a>Translation & Localization
 
