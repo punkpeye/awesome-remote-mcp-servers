@@ -1907,6 +1907,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [Fattly](https://fattly.app) `https://fattly.app/api/mcp`
+  [![Fattly MCP connector](https://glama.ai/mcp/connectors/io.github.industriesfatty-spec/fattly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.industriesfatty-spec/fattly)
+  🔐 - Generate images, videos, UGC video ads and voiceovers from 50+ AI models, plus upscaling and background removal.
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
