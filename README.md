@@ -1060,7 +1060,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
 - [egrul.org](https://egrul.org) `https://egrul.org/mcp/`
   [![egrul.org MCP connector](https://glama.ai/mcp/connectors/org.egrul/egrulorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.egrul/egrulorg)
-  🔓 - Russian company and sole-proprietor lookups from the state registers (EGRUL/EGRIP): sanctions, foreign-agent and bankruptcy checks; most tools need a subscription key.
+  🔓 - Russian company/individual checks: EGRUL/EGRIP, sanctions, foreign-agent, bankruptcy; most tools need a subscription.
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
