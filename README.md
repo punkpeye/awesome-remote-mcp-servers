@@ -923,6 +923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
+- [ZonRival](https://zonrival.com) `https://zonrival.com/mcp`
+  [![ZonRival MCP connector](https://glama.ai/mcp/connectors/com.zonrival/zonrival/badges/score.svg)](https://glama.ai/mcp/connectors/com.zonrival/zonrival)
+  🔐 - Amazon and Shopify competitor research: review complaints, price and rank history, listing audits and alerts.
 
 ### 🎓 <a name="education"></a>Education
 
