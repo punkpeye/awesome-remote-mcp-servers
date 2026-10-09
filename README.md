@@ -339,6 +339,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
 
+- [thirds.ai](https://thirds.ai) `https://thirds.ai/mcp`
+  [![thirds.ai MCP connector](https://glama.ai/mcp/connectors/ai.thirds/thirds/badges/score.svg)](https://glama.ai/mcp/connectors/ai.thirds/thirds)
+  🔐 - Make branded PDFs and images from reusable templates, brand kits, and your data.
+
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
 - [APEX](https://apexfaucet.xyz/connect/) `https://apexfaucet.xyz/api/mcp`
