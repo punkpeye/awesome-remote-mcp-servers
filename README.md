@@ -2327,6 +2327,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [looot](https://looot.ai) `https://api.looot.ai/mcp`
   [![looot MCP connector](https://glama.ai/mcp/connectors/ai.looot/looot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.looot/looot)
   🔐 - Search, price and run 2,500+ data endpoints from 90+ providers with one key and a prepaid balance.
+- [Loved Hall](https://lovedhall.com/) `https://lovedhall.com/mcp`
+  [![Loved Hall MCP connector](https://glama.ai/mcp/connectors/com.lovedhall/memorials/badges/score.svg)](https://glama.ai/mcp/connectors/com.lovedhall/memorials)
+  🔓 - Search public online memorials and obituaries with service details, and guides for families after a death.
 - [MAC Address Lookup](https://mac.jasontally.com) `https://mac.jasontally.com/mcp`
   [![MAC Address Lookup MCP connector](https://glama.ai/mcp/connectors/com.jasontally.mac/mac-address-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.jasontally.mac/mac-address-lookup)
   🔓 - Find the organization behind a MAC address or OUI prefix in the complete IEEE MA-L, MA-M, MA-S, IAB, and CID registries.
