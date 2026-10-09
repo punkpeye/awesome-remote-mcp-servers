@@ -2090,6 +2090,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
+- [Taskhold](https://taskhold.com) `https://taskhold.com/api/mcp`
+  [![Taskhold MCP connector](https://glama.ai/mcp/connectors/com.taskhold/taskhold/badges/score.svg)](https://glama.ai/mcp/connectors/com.taskhold/taskhold)
+  🔑 - One task list shared by you and your coding agents: see what's next, add todos, block on a question, mark done.
 - [TrackingTime](https://trackingtime.co) `https://mcp.trackingtime.co/mcp`
   [![TrackingTime MCP connector](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server)
   🔐 - Start and stop timers, log time and report on hours, projects, tasks and customers.
