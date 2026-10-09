@@ -1094,6 +1094,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Financial Evidence](https://beepboop2025.github.io/financial-evidence-skills/) `https://liquilens.in/mcp/financial-evidence`
   [![Financial Evidence MCP connector](https://glama.ai/mcp/connectors/io.github.beepboop2025/financial-evidence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beepboop2025/financial-evidence)
   🔓 - Route and retrieve cited funding, bank-risk and market-liquidity evidence, preserving source dates and missingness.
+- [Fincept MCP](https://docs.fincept.in) `https://enterprise.fincept.in/mcp`
+  [![Fincept MCP connector](https://glama.ai/mcp/connectors/in.fincept/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/in.fincept/mcp)
+  🔐 - Quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests and 15 quant engines.
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - RPC gateway for six mainnets with failover: balances, history, ABIs, gas and transactions; x402 pay-per-call.
