@@ -721,6 +721,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offline Protocol](https://www.offlineprotocol.com/docs/tools/overview) `https://mcp.offlineprotocol.com/public/mcp`
   [![Offline Protocol MCP connector](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted/badges/score.svg)](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted)
   🔓 - Find Offline Protocol SDK packages, integration guides and workflows for apps that keep working without the internet.
+- [Oh My Share](https://openanthropic.com) `https://openanthropic.com/mcp`
+  [![Oh My Share MCP connector](https://glama.ai/mcp/connectors/io.github.shisongsong/oh-my-share/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shisongsong/oh-my-share)
+  🔓 - Free no-signup HTML and code sharing with end-to-end encryption, editable links, a public gallery and gallery search.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
