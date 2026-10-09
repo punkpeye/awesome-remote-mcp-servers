@@ -2535,6 +2535,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Publish and schedule posts to 9 networks, including Instagram, TikTok, YouTube and X.
 - [Mysocial](https://mysocial.io/mcp/) `https://app.mysocial.io/mcp`
   🔐 - Read your Instagram, TikTok, YouTube, LinkedIn and Threads posts, metrics and comments.
+- [Octopost](https://octopost.ink/docs/mcp) `https://octopost.ink/mcp`
+  [![Octopost MCP connector](https://glama.ai/mcp/connectors/ink.octopost/octopost/badges/score.svg)](https://glama.ai/mcp/connectors/ink.octopost/octopost)
+  🔑 - Post, schedule, queue and thread posts on X from your agent, with an optional human approval queue.
 - [oganvil](https://oganvil.rowu.workers.dev) `https://oganvil.rowu.workers.dev/mcp`
   [![oganvil MCP connector](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api)
   🔓 - Generate 1200x630 OG images as PNG or SVG from a title and tagline; free tier.
