@@ -817,6 +817,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Epinu](https://epinu.ai) `https://api.epinu.ai/api/agent/mcp`
   [![Epinu MCP connector](https://glama.ai/mcp/connectors/ai.epinu/epinu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.epinu/epinu)
   🔓 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
+- [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
+  [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
+  🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
