@@ -947,6 +947,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ambee](https://ambeedata.com) `https://api-mcp-server.ambeedata.com/mcp`
   [![Ambee MCP connector](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee/badges/score.svg)](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee)
   🔓 - Weather, air quality, pollen, and other environmental data.
+- [Datakoot Weather & Geo](https://datakoot.com/weather-geo) `https://weather.datakoot.com/mcp`
+  [![Datakoot Weather & Geo MCP connector](https://glama.ai/mcp/connectors/com.datakoot/us-weather-forecast-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/us-weather-forecast-alerts)
+  🔓 - NWS forecasts and alerts, current conditions, USGS earthquakes, elevation and US address geocoding.
 - [DC Hub](https://dchub.cloud) `https://dchub.cloud/mcp`
   [![DC Hub MCP connector](https://glama.ai/mcp/connectors/cloud.dchub/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.dchub/mcp-server)
   🔓 - Live power, grid, gas and fiber data plus daily DCPI scores for 300+ markets, for data-center siting.
