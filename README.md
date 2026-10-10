@@ -1420,7 +1420,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
 - [Dish Directory](https://dishdirectory.com) `https://dishdirectory.com/mcp`
   [![Dish Directory MCP connector](https://glama.ai/mcp/connectors/com.dishdirectory/dish-directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.dishdirectory/dish-directory)
-  🔓 - Free US restaurant directory: browse listings by state, county, city and cuisine category; read-only.
+  🔓 - Free restaurant directory for the US and Canada: browse listings by country, region, city and cuisine; read-only.
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
   🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
@@ -1489,7 +1489,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Plan and review cycling and running: training calendar, synced rides, sleep and HRV.
 - [MemoryCareHomes.fyi](https://memorycarehomes.fyi) `https://memorycarehomes.fyi/mcp`
   [![MemoryCareHomes.fyi MCP connector](https://glama.ai/mcp/connectors/fyi.memorycarehomes/memory-care-homes/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.memorycarehomes/memory-care-homes)
-  🔓 - Free US licensed memory care directory: state-licensed dementia and Alzheimer care facilities by state, county and city.
+  🔓 - Free memory care homes directory for the UK and US: licensed facilities by country, region and city, checkable against the public register.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
@@ -1673,7 +1673,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Read-only US mechanics lien and preliminary notice deadlines for suppliers, plus lien guides for all 50 states and DC.
 - [MarriageLicense.fyi](https://marriagelicense.fyi) `https://marriagelicense.fyi/mcp`
   [![MarriageLicense.fyi MCP connector](https://glama.ai/mcp/connectors/fyi.marriagelicense/marriage-license/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.marriagelicense/marriage-license)
-  🔓 - Free US marriage license office directory: clerk offices, requirements, fees and hours by state, county and city.
+  🔓 - Free marriage licence office directory across GB, IE, NZ, AU, CA and US: requirements, fees and hours by country, region and city.
 - [RegAI Legal MCP](https://regai.tw/mcp) `https://mcp.regai.tw/mcp`
   [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
   🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
