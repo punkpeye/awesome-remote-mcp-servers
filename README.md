@@ -1656,6 +1656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
+- [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
+  [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
+  🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
