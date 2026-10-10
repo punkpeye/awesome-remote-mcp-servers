@@ -1481,6 +1481,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [ADHDEvaluations](https://adhdevaluations.fyi) `https://adhdevaluations.fyi/mcp`
+  [![ADHDEvaluations MCP connector](https://glama.ai/mcp/connectors/fyi.adhdevaluations/adhd-evaluations/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.adhdevaluations/adhd-evaluations)
+  🔓 - Find an ADHD evaluation provider: 9,846 providers across 54 US states and territories from the CMS NPI Registry.
 - [Biohacking Kompakt](https://biohackingkompakt.de) `https://mcp.biohackingkompakt.de/mcp`
   [![Biohacking Kompakt MCP connector](https://glama.ai/mcp/connectors/de.biohackingkompakt/biohacking-kompakt/badges/score.svg)](https://glama.ai/mcp/connectors/de.biohackingkompakt/biohacking-kompakt)
   🔓 - Evidence ratings for 340+ supplements, peptides and longevity methods, with study sources and podcast (German).
@@ -1493,6 +1496,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
+- [MRIPrices](https://mriprices.fyi) `https://mriprices.fyi/mcp`
+  [![MRIPrices MCP connector](https://glama.ai/mcp/connectors/fyi.mriprices/mri-prices/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.mriprices/mri-prices)
+  🔓 - Cash-pay MRI prices at 5,419 US hospitals, read from the price files hospitals must publish.
 - [Phi Longevity PRISM](https://philongevity.com/for-agents) `https://philongevity.com/mcp?src=awesome`
   [![Phi Longevity PRISM MCP connector](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism)
   🔓 - Guideline-cited lab-results analysis for chronic conditions; flags missing or overdue tests with citations.
@@ -1662,6 +1668,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
+- [ITINAgents](https://itinagents.fyi) `https://itinagents.fyi/mcp`
+  [![ITINAgents MCP connector](https://glama.ai/mcp/connectors/fyi.itinagents/itin-agents/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.itinagents/itin-agents)
+  🔓 - Free directory of 9,838 IRS acceptance agents across the US, Canada, UK and India for ITIN applications.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
@@ -1674,6 +1683,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarriageLicense.fyi](https://marriagelicense.fyi) `https://marriagelicense.fyi/mcp`
   [![MarriageLicense.fyi MCP connector](https://glama.ai/mcp/connectors/fyi.marriagelicense/marriage-license/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.marriagelicense/marriage-license)
   🔓 - Free marriage licence office directory across GB, IE, NZ, AU, CA and US: requirements, fees and hours by country, region and city.
+- [Public Adjusters Directory](https://publicadjusters.fyi) `https://publicadjusters.fyi/mcp`
+  [![Public Adjusters Directory MCP connector](https://glama.ai/mcp/connectors/fyi.publicadjusters/public-adjusters/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.publicadjusters/public-adjusters)
+  🔓 - Check a public adjuster licence before you hire: 1,679 licensed adjusters across US states from the public register.
 - [RegAI Legal MCP](https://regai.tw/mcp) `https://mcp.regai.tw/mcp`
   [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
   🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
