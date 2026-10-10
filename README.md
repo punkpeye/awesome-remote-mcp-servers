@@ -1409,6 +1409,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
+- [YABA](https://yaba.day) `https://app.yaba.day/mcp`
+  🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
