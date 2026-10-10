@@ -2189,6 +2189,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tradehand](https://tradehand.com) `https://tradehand.com/api/mcp`
   [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
   🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
+- [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
+  [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
+  🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
 ### 🚗 <a name="sales"></a>Sales
 
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
