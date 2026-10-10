@@ -2472,6 +2472,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
+- [HANRIA](https://hanria.ai) `https://check.hanria.ai/v1/mcp`
+  [![HANRIA MCP connector](https://glama.ai/mcp/connectors/ai.hanria/agent-mandate-check/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hanria/agent-mandate-check)
+  🔓 - Free, advisory check of an agent action against its operator's mandate; returns permit, deny or escalate.
 - [IP99](https://ip99.com/) `https://ip99.com/mcp`
   [![IP99 MCP connector](https://glama.ai/mcp/connectors/com.ip99/ip99/badges/score.svg)](https://glama.ai/mcp/connectors/com.ip99/ip99)
   🔓 - IP risk and geolocation lookup where every verdict carries the age of its evidence.
