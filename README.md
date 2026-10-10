@@ -2191,6 +2191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
 ### 🚗 <a name="sales"></a>Sales
 
+- [Datacircle](https://datacircle.dev) `https://api.datacircle.dev/mcp`
+  [![Datacircle MCP connector](https://glama.ai/mcp/connectors/dev.datacircle/datacircle/badges/score.svg)](https://glama.ai/mcp/connectors/dev.datacircle/datacircle)
+  🔐 - Query your favorite B2B data APIs through us. Same request, same price, no markup.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
