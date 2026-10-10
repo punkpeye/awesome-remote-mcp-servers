@@ -2043,6 +2043,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VideoGen](https://videogen.io/videogen-mcp) `https://mcp.videogen.io/mcp`
   [![VideoGen MCP connector](https://glama.ai/mcp/connectors/io.github.dg314/videogen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dg314/videogen)
   🔐 - Create videos from scripts and storyboards, manage projects, and export finished videos.
+- [Zebu Data - YouTube Data & Transcripts](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-channel-video-scraper,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/youtube-transcript-scraper`
+  [![Zebu Data - YouTube Data & Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data)
+  🔐 - YouTube search, whole channels, video stats, comments and full transcripts with timestamps.
 - [ZoneFoundry for Sonos](https://zonefoundry.dev/guides/ai-agent-control/) `https://relay.zonefoundry.dev/mcp`
   [![ZoneFoundry for Sonos MCP connector](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos/badges/score.svg)](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos)
   🔐 - Control your Sonos speakers: play music, set volume, group rooms, move playback, announcements and reminders.
