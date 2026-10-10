@@ -815,6 +815,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
+- [Tomosu](https://tomosu.ai) `https://mcp.tomosu.ai/mcp`
+  [![Tomosu MCP connector](https://glama.ai/mcp/connectors/ai.tomosu.mcp/tomosu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tomosu.mcp/tomosu)
+  🔐 - Scores code and pull requests for production reliability, returning a PRI score, merge verdict and fixes.
 - [ToolForte](https://toolforte.com/mcp) `https://toolforte.com/api/mcp`
   [![ToolForte MCP connector](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte)
   🔓 - IBAN/VAT/BSN checks, Dutch tax and dates, cron, regex, conversions and PDF or screenshot rendering.
