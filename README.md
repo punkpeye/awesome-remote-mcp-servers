@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
+  [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
+  🔓 - Search tested AI agent skill files (SKILL.md) and read their cards for free; a file is bought once over x402 in USDC on Base.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
@@ -848,6 +851,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
+- [402post](https://402post.com) `https://402post.com/mcp`
+  [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
+  🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand: profit analytics, PPC, inventory forecasting, listings and staged approvals.
@@ -1675,6 +1681,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [402registry](https://402registry.com) `https://402registry.com/mcp`
+  [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
+  🔓 - Can AI crawlers see a website: free lookup of its last dated verdict and score; a new check is paid with x402 in USDC on Base.
 - [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
   [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
