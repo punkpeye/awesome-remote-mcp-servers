@@ -947,6 +947,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ambee](https://ambeedata.com) `https://api-mcp-server.ambeedata.com/mcp`
   [![Ambee MCP connector](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee/badges/score.svg)](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee)
   🔓 - Weather, air quality, pollen, and other environmental data.
+- [Cigo Aircare & Carsafe](https://cigo-mcp-system-wzoy.onrender.com/docs) `https://cigo-mcp-system-wzoy.onrender.com/mcp/`
+  [![Cigo Aircare & Carsafe MCP connector](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp)
+  🔓 - HVAC filter specifications and power comparisons, vehicle cabin filter matching, and regional air-quality guidance.
 - [DC Hub](https://dchub.cloud) `https://dchub.cloud/mcp`
   [![DC Hub MCP connector](https://glama.ai/mcp/connectors/cloud.dchub/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.dchub/mcp-server)
   🔓 - Live power, grid, gas and fiber data plus daily DCPI scores for 300+ markets, for data-center siting.
