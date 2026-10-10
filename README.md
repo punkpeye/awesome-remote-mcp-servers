@@ -2246,6 +2246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
+- [Trustbase Lab](https://trustbaselab.com) `https://trustbaselab.com/mcp`
+  [![Trustbase Lab MCP connector](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data)
+  🔓 - Citable industry records with stable IDs across chemical recycling, carbon, battery, telecom, health and compute.
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record.
