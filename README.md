@@ -1131,6 +1131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
+
+- [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
+  🔓 - 8 free finance calculators as MCP tools: mortgage, refinance, loans, interest, salary, tips. Every result links the web calculator.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
