@@ -929,15 +929,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
-- [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
-  [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
-  🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
-
-### 🎓 <a name="education"></a>Education
-
 - [Rotate Pilot](https://rotatepilot.com/developers/mcp) `https://rotatepilot.com/api/mcp`
   [![Rotate Pilot MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot)
   🔓 - FAA drone (Part 107) and pilot exam prep: practice questions, readiness diagnostic, METAR/TAF, drone airspace.
+- [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
+  [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
+  🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
+- [Wikitolica](https://www.wikitolica.com/mcp) `https://www.wikitolica.com/mcp`
+  [![Wikitolica MCP connector](https://glama.ai/mcp/connectors/com.wikitolica/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wikitolica/mcp)
+  🔓 - Wikitólica is your go-to Catholic encyclopedia. Explore the Church's faith, doctrine, tradition, saints, liturgy, popes, history, and Magisterium.
 
 ### 🌳 <a name="environment"></a>Environment
 
