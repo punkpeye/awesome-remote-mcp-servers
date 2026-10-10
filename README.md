@@ -643,6 +643,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cherry Notes](https://cherrynotes.app) `https://api.cherrynotes.app/mcp`
   [![Cherry Notes MCP connector](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes)
   🔐 - Capture features, ideas and tasks on your phone; your AI coding agent picks them up and ships them.
+- [cite-gate](https://github.com/cite-gate/cite-gate) `https://mcp.mlpc.co.kr/mcp`
+  [![cite-gate MCP connector](https://glama.ai/mcp/connectors/kr.co.mlpc/cite-gate/badges/score.svg)](https://glama.ai/mcp/connectors/kr.co.mlpc/cite-gate)
+  🔓 - Checks that each quote in an AI-written script appears word for word in its source, and that numbers and names in the prose come from those quotes.
 - [Cloudflare Docs](https://developers.cloudflare.com) `https://docs.mcp.cloudflare.com/mcp`
 - [CodeRifts](https://coderifts.com) `https://app.coderifts.com/mcp`
   [![CodeRifts MCP connector](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance)
