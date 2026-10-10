@@ -882,6 +882,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Measured Size MCP connector](https://glama.ai/mcp/connectors/com.measuredsize/fit/badges/score.svg)](https://glama.ai/mcp/connectors/com.measuredsize/fit)
   🔓 - Bra sizes from measurements, translated into each brand's own size labels, with a confidence rating on every answer.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
+  [![Nexez MCP connector](https://glama.ai/mcp/connectors/ai.nexez/commerce/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nexez/commerce)
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
