@@ -2286,6 +2286,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cn-intel-mcp](https://github.com/lory69060/cn-intel-mcp) `https://cn-intel-mcp.lory69060.workers.dev/mcp`
   [![cn-intel-mcp MCP connector](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp)
   🔓 - China hard-tech supply-chain signals with a track record: chips, batteries, eVTOL and pharma.
+- [CompanyProof](https://companyproof.ai) `https://companyproof.ai/v2/mcp`
+  [![CompanyProof MCP connector](https://glama.ai/mcp/connectors/ai.companyproof/companyproof/badges/score.svg)](https://glama.ai/mcp/connectors/ai.companyproof/companyproof)
+  🔓 🔐 🔑 - Search legal companies, retrieve registry profiles and verify identity facts; data calls need a credited account.
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
