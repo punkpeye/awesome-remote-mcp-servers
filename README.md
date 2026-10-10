@@ -472,6 +472,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [SendRaven](https://sendraven.ai/mcp) `https://mcp.sendraven.ai/mcp`
+  [![SendRaven MCP connector](https://glama.ai/mcp/connectors/ai.sendraven/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sendraven/mcp)
+  🔐 - Send email from your own domain, receive replies as threads, and hold sends for approval with per-key limits.
 - [Sending](https://sending.dev) `https://sending.dev/api/mcp`
   [![Sending MCP connector](https://glama.ai/mcp/connectors/dev.sending/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sending/mcp)
   🔐 - Email, WhatsApp and Telegram for agents: send, campaigns, automations, contacts, agent inboxes.
