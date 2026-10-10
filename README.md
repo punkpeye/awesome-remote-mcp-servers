@@ -909,6 +909,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [SoldFetch](https://soldfetch.com) `https://soldfetch.com/api/mcp`
+  🔑 - Search eBay sold and active listings, browse categories, and retrieve item details.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
