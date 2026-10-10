@@ -1253,6 +1253,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+- [Papertrade AI](https://papertrade-ai.ninabrekkerese.workers.dev) `https://papertrade-ai.ninabrekkerese.workers.dev/mcp`
+  [![Papertrade AI MCP connector](https://glama.ai/mcp/connectors/io.github.nirholas/papertrade-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nirholas/papertrade-ai)
+  🔐 - BTC and ETH perps on Papertrade: live markets, liquidation map, leaderboards, wallet analytics and guarded trading.
 - [pdata](https://pdata.world/agents) `https://api.pdata.world/mcp`
   [![pdata MCP connector](https://glama.ai/mcp/connectors/world.pdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/world.pdata/mcp)
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
