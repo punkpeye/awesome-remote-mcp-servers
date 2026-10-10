@@ -2040,6 +2040,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Valmera](https://valmera.io) `https://valmera.io/mcp/server`
   [![Valmera MCP connector](https://glama.ai/mcp/connectors/io.valmera/video-editor/badges/score.svg)](https://glama.ai/mcp/connectors/io.valmera/video-editor)
   🔐 - Edit your own footage: cut dead air and filler words, caption, reframe to 9:16, make shorts and export MP4.
+- [Varosity](https://varosity.ai) `https://varosity.ai/api/mcp`
+  [![Varosity MCP connector](https://glama.ai/mcp/connectors/io.github.jonkludt/varosity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonkludt/varosity)
+  🔐 - Generate video, images, voice and music with 60+ models (Veo 3.1, Kling 3.0, Seedance, FLUX, ElevenLabs).
 - [VideoGen](https://videogen.io/videogen-mcp) `https://mcp.videogen.io/mcp`
   [![VideoGen MCP connector](https://glama.ai/mcp/connectors/io.github.dg314/videogen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dg314/videogen)
   🔐 - Create videos from scripts and storyboards, manage projects, and export finished videos.
