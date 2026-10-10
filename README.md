@@ -1235,6 +1235,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Midpoint Card Prices](https://www.cardcenteringtool.com/mcp) `https://mcp.cardcenteringtool.com/mcp`
   [![Midpoint Card Prices MCP connector](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices)
   🔓 - Trading card prices and grading ROI for 1.5M+ Pokémon, TCG and sports cards: raw and PSA 9/10 values, movers.
+- [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
+  [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
+  🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
