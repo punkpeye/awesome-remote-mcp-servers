@@ -1116,6 +1116,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DeepLedger](https://deepledger.ai) `https://mcp.deepledger.ai/mcp`
   [![DeepLedger MCP connector](https://glama.ai/mcp/connectors/ai.deepledger/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deepledger/mcp)
   🔐 - AI accountant for QuickBooks: record transactions, run reports, manage AR/AP and close the month.
+- [DeFade](https://defade.org/api-docs#mcp) `https://api.defade.org/mcp`
+  [![DeFade MCP connector](https://glama.ai/mcp/connectors/org.defade/defade/badges/score.svg)](https://glama.ai/mcp/connectors/org.defade/defade)
+  🔑 - Memecoin rug-risk scans on Solana and six EVM chains: bundles, snipers, insiders, funding origins and dev wallets.
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
