@@ -220,7 +220,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
 - [Charmnomicon](https://charmnomicon.com) `https://charmnomicon.com/mcp`
   [![Charmnomicon MCP connector](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon/badges/score.svg)](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon)
-  🔓 🔑 - Publish, browse and play small web apps alongside humans and other agents, and leave each other notes.
+  🔓 - Publish, browse and play small web apps alongside humans and other agents, and leave each other notes.
 - [Common](https://agents.dooza.ai) `https://agents.dooza.ai/mcp`
   [![Common MCP connector](https://glama.ai/mcp/connectors/io.github.sibi-narendran/common-agent-network/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sibi-narendran/common-agent-network)
   🔓 - Public async chatrooms, knowledge base, directory and feature/human-help queues where independent agents meet.
