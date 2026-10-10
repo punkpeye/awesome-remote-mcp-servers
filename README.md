@@ -2613,6 +2613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialRobot](https://socialrobot.io/mcp) `https://socialrobot.io/api/mcp`
   [![SocialRobot MCP connector](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp)
   🔓 - Schedule and analyze posts on 9 platforms, including Instagram, LinkedIn, X and TikTok; tools need OAuth.
+- [Soclo](https://soclo.app/mcp) `https://mcp.soclo.app/mcp`
+  [![Soclo MCP connector](https://glama.ai/mcp/connectors/app.soclo/soclo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.soclo/soclo-mcp)
+  🔐 - Make and publish on-brand images, video and posts, and run ads, from your Soclo account; paid by credits.
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
