@@ -521,7 +521,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
 - [JustBlogged](https://justblogged.com/ai) `https://justblogged.com/mcp`
   [![JustBlogged MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/justblogged/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/justblogged)
-  🔐 - Create, schedule and publish posts and pages on a hosted blog; manage tags, collections, redirects, domains and themes. Free plan included.
+  🔓 - Create, schedule and publish posts and pages on a hosted blog; manage tags, collections, redirects, domains and themes; tools need OAuth.
 - [Lediv](https://lediv.com) `https://lediv.app/mcp`
   [![Lediv MCP connector](https://glama.ai/mcp/connectors/app.lediv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.lediv/mcp)
   🔐 - Visual website builder synced with real code: edit files, publish, roll back, manage domains and previews.
