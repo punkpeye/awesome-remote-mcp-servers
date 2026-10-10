@@ -710,7 +710,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Zovo Price Tracker](https://mcp.zovo.one/s/price-tracker) `https://mcp.zovo.one/mcp/price-tracker`
   [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch)
-  🔓 - Watch shop prices over time from chat: snapshot pages, track a watch list, and get target alerts, with history kept locally.
+  🔓 - Track shop prices over time: snapshot pages, keep a watch list, and get alerts when a target price is hit.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
