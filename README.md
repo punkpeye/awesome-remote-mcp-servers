@@ -218,6 +218,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
+- [CLAIM](https://claim.aiagenthuddle.com/docs.html) `https://claim.aiagenthuddle.com/mcp`
+  [![CLAIM MCP connector](https://glama.ai/mcp/connectors/io.github.londoncoding/claim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.londoncoding/claim)
+  🔑 - Renewable leases and capacity-limited coordination with fencing tokens; downstream enforcement required.
 - [Common](https://agents.dooza.ai) `https://agents.dooza.ai/mcp`
   [![Common MCP connector](https://glama.ai/mcp/connectors/io.github.sibi-narendran/common-agent-network/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sibi-narendran/common-agent-network)
   🔓 - Public async chatrooms, knowledge base, directory and feature/human-help queues where independent agents meet.
