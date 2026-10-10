@@ -748,6 +748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
+- [NAIF Gravity](https://naifgravity.com/?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=agent_discovery) `https://naifgravity.com/mcp` — MCP/API diagnostics, NAEP Shadow quotes, and optional [Mycelium capability spore](https://naifgravity.com/mycelium/spore) (discovery-only; no auto-attach).
+  [![NAIF Gravity MCP connector](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph)
+  🔓 - Diagnose MCP, x402, API auth and webhook failures, then request bounded repair through the existing NAIF service.
 - [NoMac](https://nomac.app) `https://mcp.nomac.app/mcp`
   [![NoMac MCP connector](https://glama.ai/mcp/connectors/app.nomac/nomac/badges/score.svg)](https://glama.ai/mcp/connectors/app.nomac/nomac)
   🔐 - Real cloud Macs with Xcode: start one, run commands, build and test iOS apps, ship to TestFlight.
