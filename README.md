@@ -312,6 +312,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
+- [Luw.ai](https://luw.ai) `https://mcp.luw.ai/mcp`
+  [![Luw.ai MCP connector](https://glama.ai/mcp/connectors/ai.luw/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.luw/mcp)
+  🔐 - Redesign rooms, exteriors and gardens from photos, render sketches, edit images, and create videos and 3D models.
 - [Made Good Designs](https://madegooddesigns.com/inspiration/) `https://madegooddesigns.com/inspiration/mcp`
   🔓 - Search a curated gallery of typography and brand-design inspiration with colour palettes.
 - [MagicScreenshots](https://www.magicscreenshots.com/agents) `https://www.magicscreenshots.com/api/mcp`
