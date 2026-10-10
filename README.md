@@ -1905,6 +1905,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Everframe](https://everframe.dev) `https://everframe.dev/mcp`
   [![Everframe MCP connector](https://glama.ai/mcp/connectors/dev.everframe/everframe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.everframe/everframe)
   🔐 - Read in-app bug reports, crashes and tickets with screenshots, console, network and device context.
+- [exit1.dev](https://exit1.dev/mcp) `https://app.exit1.dev/mcp/v1`
+  [![exit1.dev MCP connector](https://glama.ai/mcp/connectors/dev.exit1/exit1-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.exit1/exit1-mcp)
+  🔐 - Create, edit and pause uptime monitors, read uptime stats and check history, and set email and webhook alerts.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and AI-found bugs from session recordings.
