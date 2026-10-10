@@ -754,6 +754,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offline Protocol](https://www.offlineprotocol.com/docs/tools/overview) `https://mcp.offlineprotocol.com/public/mcp`
   [![Offline Protocol MCP connector](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted/badges/score.svg)](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted)
   🔓 - Find Offline Protocol SDK packages, integration guides and workflows for apps that keep working without the internet.
+- [ONCE](https://once.aiagenthuddle.com/docs.html) `https://once.aiagenthuddle.com/mcp`
+  [![ONCE MCP connector](https://glama.ai/mcp/connectors/io.github.londoncoding/once/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.londoncoding/once)
+  🔑 - Track GitHub issue and Stripe test-payment outcomes, reconcile uncertainty, and control retries.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
