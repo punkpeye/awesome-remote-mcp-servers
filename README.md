@@ -2835,6 +2835,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BCD](https://bcd.snack-wrap.com) `https://bcd.snack-wrap.com/mcp`
   [![BCD MCP connector](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd/badges/score.svg)](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd)
   🔐 - Use your own Mac, Windows or Linux computer from ChatGPT or Claude: files, shell commands and documents.
+- [BKK Staff](https://app.bkkstaff.com/mcp) `https://app.bkkstaff.com/mcp`
+  [![BKK Staff MCP connector](https://glama.ai/mcp/connectors/com.bkkstaff/bkk-staff/badges/score.svg)](https://glama.ai/mcp/connectors/com.bkkstaff/bkk-staff)
+  🔐 - Automated resume screening: post jobs, review and rank applicants, and email candidates.
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
