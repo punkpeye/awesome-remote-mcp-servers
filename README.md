@@ -2148,6 +2148,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
 
+- [Dubai Diligence](https://github.com/stevenworlow/dubai-diligence-mcp) `https://dubaidiligence.com/api/mcp`
+  🔓 - Dubai Land Department registered sale prices, rents and gross yields by community, a monthly mix-adjusted house price index, and broker licence checks. Splits ready from off-plan.
+
 - [Dubai Data](https://datadubai.ae/mcp/) `https://mcp.datadubai.ae/mcp`
   [![Dubai Data MCP connector](https://glama.ai/mcp/connectors/ae.datadubai/dubai-real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/ae.datadubai/dubai-real-estate)
   🔓 - Dubai property statistics from Land Department open data: prices, rents, yields, sales by area, project and developer.
