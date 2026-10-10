@@ -1617,6 +1617,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search and write team docs, tables, issues and CRM records, with answers citing their source.
+- [SavedThat](https://savedthat.app/mcp) `https://savedthat.app/api/mcp/me`
+  [![SavedThat MCP connector](https://glama.ai/mcp/connectors/app.savedthat/library/badges/score.svg)](https://glama.ai/mcp/connectors/app.savedthat/library)
+  🔐 - Search the videos you saved from YouTube, Instagram Reels and TikTok by what was said.
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
