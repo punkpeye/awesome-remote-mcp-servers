@@ -1875,6 +1875,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [VerifyPulse](https://verifypulse-seven.vercel.app) `https://verifypulse-seven.vercel.app/mcp`
+  🔓 - Real-time RFC 5322 email verification ($0.01 USDC on Base via x402), free RFC 7208 SPF/DMARC domain security audits, and verified B2B lead dataset previews.
 - [VertoDigital](https://vertodigital.com) `https://mcp.vertodigital.com/mcp`
   [![VertoDigital MCP Server MCP connector](https://glama.ai/mcp/connectors/com.vertodigital/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertodigital/mcp)
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
