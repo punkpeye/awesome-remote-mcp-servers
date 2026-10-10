@@ -405,6 +405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
+- [Ownkube](https://ownkube.io/agents) `https://app.ownkube.io/api/mcp`
+  [![Ownkube MCP connector](https://glama.ai/mcp/connectors/io.ownkube/ownkube/badges/score.svg)](https://glama.ai/mcp/connectors/io.ownkube/ownkube)
+  🔐 - Deploy apps, Postgres and Valkey from GitHub or the Marketplace, then read logs, metrics and deployment status.
 - [Popdot AI](https://popdot.ai) `https://popdot.ai/api/mcp`
   [![Popdot AI MCP connector](https://glama.ai/mcp/connectors/ai.popdot/popdot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.popdot/popdot-mcp)
   🔓 - Give an agent a public URL: free 24-hour trial subdomains, then rentals paid in USDC via x402.
