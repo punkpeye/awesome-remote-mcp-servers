@@ -2724,6 +2724,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pollar News](https://mcp.pollar.news/) `https://mcp.pollar.news/mcp`
   [![Pollar News MCP connector](https://glama.ai/mcp/connectors/news.pollar/pollar-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.pollar/pollar-news)
   🔓 - Independent European news in four languages: search with sources, explainers with maps, briefs and live stories.
+- [Present of AI](https://presentofai.com/developers) `https://presentofai.com/mcp`
+  [![Present of AI MCP connector](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai)
+  🔓 - Sourced data on 4,900 AI companies, open AI jobs and dated AI news; every result links to its page.
 - [Proxmint](https://proxmint.com) `https://proxmint.com/api/mcp`
   [![Proxmint MCP connector](https://glama.ai/mcp/connectors/com.proxmint/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxmint/mcp)
   🔓 - Proxy prices, balance, usage, geo-targeted proxy lines and connection checks; account tools need an API key.
