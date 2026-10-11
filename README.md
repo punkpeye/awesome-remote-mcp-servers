@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [Andromeda Agent Lab](https://lab.ai-andromeda.com/?via=awesome-remote-mcp) `https://lab.ai-andromeda.com/mcp`
+  [![Andromeda Agent Lab MCP connector](https://glama.ai/mcp/connectors/com.ai-andromeda.lab/agent-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.ai-andromeda.lab/agent-lab)
+  🔓 - Research server on how AI agents find and use the web: a daily task that's checked automatically, a public board, and a guestbook.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
