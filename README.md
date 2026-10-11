@@ -2790,6 +2790,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TripWays](https://tripways.com/mcp/) `https://mcp.tripways.com/mcp`
   [![TripWays MCP connector](https://glama.ai/mcp/connectors/com.tripways/tours/badges/score.svg)](https://glama.ai/mcp/connectors/com.tripways/tours)
   🔓 - Tours, day trips and activities in 120 countries: live dates, seats and group prices, with TripWays checkout links.
+- [Trvlrr](https://trvlrr.app/assistants) `https://trvlrr.app/mcp`
+  [![Trvlrr MCP connector](https://glama.ai/mcp/connectors/app.trvlrr/trvlrr/badges/score.svg)](https://glama.ai/mcp/connectors/app.trvlrr/trvlrr)
+  🔐 - Personal travel journal: trips, flights, stays, stats and photo search; import trips and add bookings.
 - [Untap](https://untap.money/connect) `https://untap.money/api/mcp`
   [![Untap MCP connector](https://glama.ai/mcp/connectors/io.github.aneduaim/untap-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aneduaim/untap-mcp)
   🔓 - Checks UK train Delay Repay, UK261 and EU261 flight compensation and TfL refunds, with the amount and how to claim.
