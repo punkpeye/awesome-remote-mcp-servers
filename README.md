@@ -1523,6 +1523,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [coldHat](https://coldhat.f-keys.com) `https://coldhat.f-keys.com/mcp`
+  [![coldHat MCP connector](https://glama.ai/mcp/connectors/io.github.vince-gonzalez/coldhat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vince-gonzalez/coldhat)
+  🔓 - Wear anyone's AI working rules by GitHub username: returns their hat.md and a hat code proving it was read.
 - [Continuity](https://continuitywriter.com) `https://continuitywriter.com/mcp`
   [![Continuity MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity)
   🔓 - Remembers your writing project across chats: story bible, characters, timeline and continuity checks.
