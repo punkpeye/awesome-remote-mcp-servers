@@ -2454,6 +2454,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Auth Posture](https://auth-posture.rowb.app) `https://auth-posture.rowb.app/mcp`
   [![Auth Posture MCP connector](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit)
   🔓 - One-call domain audit: MX receiving, SPF/DMARC/DKIM spoofing protection, disposable-address risk.
+- [Council of AI GSPC](https://councilof.ai) `https://councilof.ai/mcp/free`
+  🔓 - AI governance measurement MCP over streamable HTTP. Free tools for board data and verification, x402-paid evidence bundles. UK-sovereign, AUKUS-compatible.
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
