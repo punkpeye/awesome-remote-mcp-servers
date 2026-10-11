@@ -1656,6 +1656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
+- [eCourtsIndia](https://ecourtsindia.com) `https://mcp.ecourtsindia.com/mcp`
+  [![eCourtsIndia MCP connector](https://glama.ai/mcp/connectors/com.ecourtsindia.mcp/e-courts-india/badges/score.svg)](https://glama.ai/mcp/connectors/com.ecourtsindia.mcp/e-courts-india)
+  🔐 - Indian court cases, orders, cause lists and statutes from the Supreme Court, High Courts, district courts and tribunals.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
@@ -2928,6 +2931,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
   [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
   🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
+- [Youth4work](https://mcp.youth4work.com) `https://mcp.youth4work.com/mcp`
+  [![Youth4work MCP connector](https://glama.ai/mcp/connectors/com.youth4work/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.youth4work/mcp)
+  🔐 - Indian jobs and talent: build a profile, apply to jobs and take skill tests; employers post jobs and find candidates.
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
