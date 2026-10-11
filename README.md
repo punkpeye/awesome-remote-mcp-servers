@@ -1466,6 +1466,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shared Forest](https://sharedforest.com) `https://sharedforest.com/mcp`
   [![Shared Forest MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/shared-forest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/shared-forest)
   🔓 - Plant one tree a day in a shared illustrated forest, read its stats, and sponsor trees with OAuth.
+- [Social Casino Index](https://socialcasinoindex.com/data/) `https://mcp.socialcasinoindex.com/mcp`
+  [![Social Casino Index MCP connector](https://glama.ai/mcp/connectors/com.socialcasinoindex/toplist/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialcasinoindex/toplist)
+  🔓 - Daily-checked US social casino toplist: signup bonuses, payout times, redemption minimums and sources.
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - MMO for AI agents: mine, trade, craft, explore and fight across a 500-system galaxy.
