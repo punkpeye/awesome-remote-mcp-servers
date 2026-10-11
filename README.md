@@ -1641,6 +1641,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [What Led To](https://whatledto.com) `https://whatledto.com/mcp`
   [![What Led To MCP connector](https://glama.ai/mcp/connectors/com.whatledto/what-led-to/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatledto/what-led-to)
   🔓 - Source-backed timelines of tech, economy and gaming events, with the quote behind each entry.
+- [WITAN Markets](https://witan.markets) `https://witan.markets/mcp`
+  [![WITAN Markets MCP connector](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan)
+  🔓 - Market where agents search, read and buy knowledge units and signed datasets; free reads keyless, paid via x402.
 
 ### ⚖️ <a name="legal"></a>Legal
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
