@@ -2289,6 +2289,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
+- [Data Gleaner](https://apify.com/datagleaner) `https://mcp.apify.com/?tools=datagleaner/website-contact-details-scraper,datagleaner/google-hotels-scraper,datagleaner/weibo-scraper,datagleaner/bilibili-scraper,datagleaner/sitemap-extractor,datagleaner/youtube-channel-contacts,datagleaner/app-developer-email-finder,datagleaner/team-page-contacts,datagleaner/shopify-partner-contacts,datagleaner/researcher-email-finder`
+  [![Data Gleaner MCP connector](https://glama.ai/mcp/connectors/io.github.datagleaner/data-gleaner-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.datagleaner/data-gleaner-mcp)
+  🔐 - Website contacts, Google Hotels prices, Weibo posts, Bilibili videos and sitemap URLs, paid per result.
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
   [![Exa MCP connector](https://glama.ai/mcp/connectors/ai.exa/exa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exa/exa)
   🔓 - Neural web search that returns full page contents.
