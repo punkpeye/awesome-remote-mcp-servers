@@ -2194,6 +2194,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
+- [LinkedNav](https://www.linkednav.com/mcp?utm_source=awesome-remote-mcp&utm_medium=listing) `https://mcp.linkednav.com/`
+  [![LinkedNav MCP connector](https://glama.ai/mcp/connectors/io.github.linglistack/linkednav-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.linglistack/linkednav-mcp)
+  🔐 - Detect LinkedIn buying signals and run outreach you approve, on your own LinkedNav account. Not made by LinkedIn.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
