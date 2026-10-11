@@ -2057,6 +2057,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [Hagglyai](https://hagglyai.com) 'https://hagglyai.com/mcp'
+  [!Hagglyai MCP connector](https://glama.ai/mcp/connectors/com.hagglyai/Hagglyai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hagglyai/Hagglyai)
+  🔓 - Compare paid agent endpoints (x402 + MCP) on price, uptime and real usage before you pay.
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
   [![Lumière PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck)
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
