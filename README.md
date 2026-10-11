@@ -1868,6 +1868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superflow Free Tools](https://usesuperflow.ai/tools) `https://usesuperflow.ai/api/mcp`
   [![Superflow Free Tools MCP connector](https://glama.ai/mcp/connectors/ai.usesuperflow/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usesuperflow/tools)
   🔓 - Free website QA and AI-visibility checks: AI crawlability, robots.txt, llms.txt, JSON-LD and social previews.
+- [Testez votre tracking](https://dhsdigital.eu/tracking/) `https://dhsdigital.eu/wp-json/dhs-audit/v1/mcp`
+  [![Testez votre tracking MCP connector](https://glama.ai/mcp/connectors/eu.dhsdigital/testez-votre-tracking/badges/score.svg)](https://glama.ai/mcp/connectors/eu.dhsdigital/testez-votre-tracking)
+  🔓 - Read-only tracking audit of a public site (GTM, GA4, Meta Pixel, Consent Mode v2, server-side), report in French.
 - [The Profound Agency](https://theprofound.agency/mcp/) `https://theprofound.agency/api/mcp/`
   [![The Profound Agency MCP connector](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency/badges/score.svg)](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency)
   🔓 - Search, price, and order press placements across 1,600+ publications; free AI-visibility audits.
