@@ -2787,6 +2787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
+- [TripLedger](https://tripledger.app) `https://my.tripledger.app/mcp`
+  [![TripLedger MCP connector](https://glama.ai/mcp/connectors/app.tripledger/tripledger/badges/score.svg)](https://glama.ai/mcp/connectors/app.tripledger/tripledger)
+  🔐 - Personal travel ledger: log journeys, stays and expenses; tax-residency day counts and Schengen 90/180 status.
 - [TripWays](https://tripways.com/mcp/) `https://mcp.tripways.com/mcp`
   [![TripWays MCP connector](https://glama.ai/mcp/connectors/com.tripways/tours/badges/score.svg)](https://glama.ai/mcp/connectors/com.tripways/tours)
   🔓 - Tours, day trips and activities in 120 countries: live dates, seats and group prices, with TripWays checkout links.
