@@ -1602,6 +1602,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [past.dev](https://past.dev/docs/mcp/overview) `https://app.past.dev/mcp`
   [![past.dev MCP connector](https://glama.ai/mcp/connectors/dev.past/past/badges/score.svg)](https://glama.ai/mcp/connectors/dev.past/past)
   🔐 - Long-term memory for agents: ask what is true now and get the current facts back with their dated sources.
+- [Pinpal Notes](https://mypinpal.com/notes) `https://notes.mypinpal.com/mcp`
+  [![Pinpal Notes MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/notes/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/notes)
+  🔐 - A beautiful, simple notes app for iPhone, iPad and Mac your AI can open too: folders, Markdown notes, checklists, files.
 - [Pinto Notes](https://pintonotes.com) `https://mcp.pintonotes.com`
   [![Pinto Notes MCP connector](https://glama.ai/mcp/connectors/com.pintonotes/pinto-notes/badges/score.svg)](https://glama.ai/mcp/connectors/com.pintonotes/pinto-notes)
   🔐 - Search, read and edit your notes; every AI edit is highlighted in the app, with version history and undo.
@@ -2120,6 +2123,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
   [![Orbit MCP connector](https://glama.ai/mcp/connectors/io.github.Noveum/orbit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noveum/orbit)
   🔐 - Manage issues, projects, sprints, docs and files.
+- [Pinpal Projects](https://mypinpal.com/projects) `https://projects.mypinpal.com/mcp`
+  [![Pinpal Projects MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/projects/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/projects)
+  🔐 - Simple projects you and your AI share: numbered tickets with a status and a thread, for code and everyday projects.
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
@@ -2889,6 +2895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pally](https://pally.com/mcp) `https://agent.pally.com/mcp`
   [![Pally MCP connector](https://glama.ai/mcp/connectors/com.pally/pally/badges/score.svg)](https://glama.ai/mcp/connectors/com.pally/pally)
   🔐 - AI personal assistant you text: manage inbox, calendar, tasks and follow-ups over iMessage, WhatsApp and Telegram.
+- [Pinpal Todo](https://mypinpal.com/todo) `https://todo.mypinpal.com/mcp`
+  [![Pinpal Todo MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/todo/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/todo)
+  🔐 - A quiet to-do list your AI can work with too: add, tick off and reopen todos; it never deletes.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
