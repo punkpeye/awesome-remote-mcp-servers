@@ -748,6 +748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
+- [Mythex](https://mythex.ai) `https://mcp.mythex.ai/mcp`
+  [![Mythex MCP connector](https://glama.ai/mcp/connectors/ai.mythex.mcp/mythex/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mythex.mcp/mythex)
+  🔐 - Build web apps in a cloud sandbox: edit files, run commands, preview, attach Postgres, publish to a URL.
 - [NoMac](https://nomac.app) `https://mcp.nomac.app/mcp`
   [![NoMac MCP connector](https://glama.ai/mcp/connectors/app.nomac/nomac/badges/score.svg)](https://glama.ai/mcp/connectors/app.nomac/nomac)
   🔐 - Real cloud Macs with Xcode: start one, run commands, build and test iOS apps, ship to TestFlight.
