@@ -1700,6 +1700,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [Ariadne for Therapists](https://ariadnemarketing.com/therapists) `https://therapists.ariadnemarketing.com/mcp`
+  [![Ariadne for Therapists MCP connector](https://glama.ai/mcp/connectors/com.ariadnemarketing/therapist-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnemarketing/therapist-marketing)
+  🔓 - Audit a therapy practice's Google profile and website, and draft a sample Google post in the therapist's voice.
+
 - [AskWatch Google Search Console MCP](https://askwatch.ai/free-tools/google-search-console-mcp) `https://mcp.askwatch.ai/gsc`
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
