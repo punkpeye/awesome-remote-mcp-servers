@@ -1038,6 +1038,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [algoum](https://algoum.de/) `https://api.algoum.de/v1/mcp`
   [![algoum MCP connector](https://glama.ai/mcp/connectors/de.algoum.api/algoum/badges/score.svg)](https://glama.ai/mcp/connectors/de.algoum.api/algoum)
   🔑 - SEC EDGAR insider trades (Form 4/5), 8-K events, 13F holdings and insider cluster-buy signals.
+- [almmity](https://api.almmity.com/?utm_source=awesome-remote-mcp&utm_medium=listing&utm_campaign=launch_oct26) `https://api.almmity.com/mcp`
+  🔑 - Polish company due-diligence: VAT white list, KRS extract and EU VIES checks.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data via x402: Polymarket arbitrage, kimchi premium, token unlocks and funding rates.
