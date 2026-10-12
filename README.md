@@ -2781,6 +2781,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SafeResize](https://saferesize.com/ai) `https://saferesize.com/mcp`
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
+- [SkyAccess](https://skyaccess.com) `https://mcp.skyaccess.com/mcp`
+  [![SkyAccess MCP connector](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess/badges/score.svg)](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess)
+  🔓 - Private jet empty legs: search live flights, check one by id, get booking links and charter price estimates.
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
   🔓 - Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.
