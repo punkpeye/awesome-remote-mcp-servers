@@ -487,6 +487,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
+- [Vicem](https://vicem.ai/developers/mcp) `https://api.vicem.ai/v1/mcp`
+  [![Vicem MCP connector](https://glama.ai/mcp/connectors/ai.vicem/vicem/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vicem/vicem)
+  🔐 - See the calls your AI phone line answered and ask it to call or text someone, sent only after you approve.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
