@@ -1092,6 +1092,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
+- [Corporary](https://corporary.com/en/api) `https://corporary.com/mcp`
+  [![Corporary MCP connector](https://glama.ai/mcp/connectors/com.corporary/corporary/badges/score.svg)](https://glama.ai/mcp/connectors/com.corporary/corporary)
+  🔑 - French company registers: SIREN search, officers, financials, legal notices, changes and corporate groups.
 - [Datakoot Economy Intel](https://datakoot.com/economy-intel) `https://economy.datakoot.com/mcp`
   [![Datakoot Economy Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment)
   🔓 - World Bank indicators for any country plus US BLS series such as CPI, unemployment and payrolls.
