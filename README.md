@@ -1719,6 +1719,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ChimpanSEO](https://chimpanseo.app) `https://chimpanseo.app/api/mcp`
   [![ChimpanSEO MCP connector](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo)
   🔓 - Generate, schedule and publish GEO/AEO-optimized articles to WordPress; tools need an account.
+- [CitedOrNot - AI Search Visibility](https://citedornot.com/?ref=awesome-remote) `https://citedornot.com/mcp`
+  [![CitedOrNot - AI Search Visibility MCP connector](https://glama.ai/mcp/connectors/com.citedornot/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.citedornot/ai-visibility)
+  🔑 - Read-only AI search visibility: which AI engines name your brand, who wins instead, what to publish.
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
