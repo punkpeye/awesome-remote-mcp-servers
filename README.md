@@ -371,6 +371,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ImgVX AI](https://imgvx.com/mcp-server/) `https://imgvx.com/mcp`
   [![ImgVX AI MCP connector](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai)
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
+- [Jinero](https://jinero.online/dev/mcp) `https://jinero.online/mcp`
+  [![Jinero MCP connector](https://glama.ai/mcp/connectors/online.jinero/jinero/badges/score.svg)](https://glama.ai/mcp/connectors/online.jinero/jinero)
+  🔓 - Fonts, font recognition from images, palettes, color math and contrast, code and SVG tools for design work.
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
