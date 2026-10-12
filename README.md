@@ -1371,9 +1371,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
-- [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
-  [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
-  🔐 - Ask questions about cloud cost and usage data.
 - [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
   [![Vérif Entreprise FR MCP connector](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr)
   🔓 - Verify French companies by SIREN: legal status, BODACC insolvency proceedings and RGE certifications, paid via x402.
@@ -1875,6 +1872,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
+  [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
+  🔐 - Check whether ChatGPT, Gemini and Perplexity cite your site, for which questions, and who they cite instead.
 - [VertoDigital](https://vertodigital.com) `https://mcp.vertodigital.com/mcp`
   [![VertoDigital MCP Server MCP connector](https://glama.ai/mcp/connectors/com.vertodigital/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertodigital/mcp)
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
