@@ -2412,13 +2412,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search the web, fetch any URL and map a site — clean Markdown, past anti-bot blocks.
 - [StudiePoint AI](https://studiepoint.ai) `https://studiepoint.ai/api/mcp`
   [![StudiePoint AI MCP connector](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai)
-  🔓 - Search scholarships, convert African GPAs, check visas, match students, and estimate study co
+  🔓 - Search scholarships, convert African GPAs, check visas, match students, and estimate study costs
 - [TANDIU](https://www.tandiu.cn) `https://www.tandiu.cn/mcp`
 
   [![TANDIU MCP connector](https://glama.ai/mcp/connectors/cn.tandiu/data/badges/score.svg)](https://glama.ai/mcp/connectors/cn.tandiu/data)
 
   🔓 - Chinese AI infrastructure data for agents: model prices, GPU rental, deployment costs, procurement. No auth, updated daily.
-sts.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
 - [Tollkit](https://tollkit.dev) `https://api.tollkit.dev/mcp`
