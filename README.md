@@ -1383,6 +1383,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
    🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
+- [xupersplit](https://split.xuper.fun) `https://split.xuper.fun/api/mcp`
+  [![xupersplit MCP connector](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit)
+  🔓 - Split group expenses with no account: create a split, record who paid, see who owes whom and settle up.
 - [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
   🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
 - [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
