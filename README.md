@@ -1231,10 +1231,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
 - [MaxWorth (your cards)](https://maxworth.app/guides/connect-credit-cards-to-chatgpt-claude-mcp/) `https://mcp.maxworth.app/mcp`
   [![MaxWorth (your cards) MCP connector](https://glama.ai/mcp/connectors/app.maxworth/maxworth/badges/score.svg)](https://glama.ai/mcp/connectors/app.maxworth/maxworth)
-  🔐 - Read-only view of the cards you track in MaxWorth: unused statement credits, deadlines, offers and fee ROI.
+  🔐 - Read-only view of the cards you track in MaxWorth: unused credit card credits, deadlines, offers and fee ROI.
 - [MaxWorth Credit Card Benefits](https://maxworth.app/guides/connect-credit-cards-to-chatgpt-claude-mcp/) `https://mcp-public.maxworth.app/mcp`
   [![MaxWorth Credit Card Benefits MCP connector](https://glama.ai/mcp/connectors/app.maxworth/maxworth-public/badges/score.svg)](https://glama.ai/mcp/connectors/app.maxworth/maxworth-public)
-  🔓 - US, Canadian and Australian credit card fees, statement credits, earn rates, card offers and cashback rates.
+  🔓 - US, Canadian and Australian credit card fees, credit card credits, earn rates, card offers and cashback rates.
 - [MetricDuck](https://www.metricduck.com) `https://mcp.metricduck.com/mcp`
   [![MetricDuck MCP connector](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis)
   🔓 - SEC filing data for AI agents: financials, screening, every figure traceable; tool calls need a free sign-in.
