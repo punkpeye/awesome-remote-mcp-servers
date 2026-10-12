@@ -1811,6 +1811,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, audits, backlinks, Search Console and AI visibility for your Miraqo SEO projects.
+- [NotFair](https://notfair.co) `https://notfair.co/api/mcp/notfair`
+  [![NotFair MCP connector](https://glama.ai/mcp/connectors/io.github.nowork-studio/notfair/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nowork-studio/notfair)
+  🔐 - Google, Meta, X, LinkedIn, Reddit and TikTok Ads, GA4, Search Console, WordPress and GoHighLevel in one connection.
 - [nowyourlink](https://nowyourlink.com) `https://nowyourlink.com/mcp`
   [![nowyourlink MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink)
   🔓 - Read the current daily homepage Spotlight ad and browse the archive of settled auction days.
