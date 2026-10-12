@@ -306,6 +306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
+- [Enhance](https://enhancelabs.ai) `https://api.enhancelabs.ai/mcp`
+  [![Enhance MCP connector](https://glama.ai/mcp/connectors/ai.enhancelabs.api/enhance/badges/score.svg)](https://glama.ai/mcp/connectors/ai.enhancelabs.api/enhance)
+  🔐 - Create and edit product canvases, review visual feedback, and publish interactive prototypes.
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
