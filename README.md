@@ -1,4 +1,3 @@
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/51889c1e-b10f-4062-ae63-e2d862502ace" />
 # Awesome Remote MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
