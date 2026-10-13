@@ -2179,6 +2179,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance or HOA document, with its date and source quote.
+- [RenovationRoute](https://renovationroute.com/contractors/federal-opportunities) `https://mcp.renovationroute.com/mcp`
+  [![RenovationRoute MCP connector](https://glama.ai/mcp/connectors/com.renovationroute/federal-opportunities/badges/score.svg)](https://glama.ai/mcp/connectors/com.renovationroute/federal-opportunities)
+  🔓 - Search open US federal construction bids from SAM.gov by state, NAICS code or keyword; no login needed.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
