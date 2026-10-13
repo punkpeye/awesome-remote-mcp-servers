@@ -1229,7 +1229,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
 - [TranscriptYT](https://transcript-yt.com) `https://transcript-yt.com/mcp`
   [![TranscriptYT MCP connector](https://glama.ai/mcp/connectors/io.github.rajdeep-automation/transcriptyt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rajdeep-automation/transcriptyt)
-  🔑 - YouTube transcripts as text, JSON, SRT or VTT in 150+ languages, with translation and AI transcription fallback.
+  🔓 - YouTube transcripts as text, JSON, SRT or VTT in 150+ languages, with translation and AI transcription fallback.
 - [Transkriba](https://transkriba.ru/mcp) `https://transkriba.ru/api/mcp`
   [![Transkriba MCP connector](https://glama.ai/mcp/connectors/ru.transkriba/transcription/badges/score.svg)](https://glama.ai/mcp/connectors/ru.transkriba/transcription)
   🔓 - Transcribe Russian audio and video from files or URLs; tools need a key.
