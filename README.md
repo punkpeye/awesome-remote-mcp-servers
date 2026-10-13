@@ -1659,6 +1659,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
+- [Lebanese Legislation](https://lebaneselegislation.com/ai/) `https://lebaneselegislation.com/mcp`
+  [![Lebanese Legislation MCP connector](https://glama.ai/mcp/connectors/com.lebaneselegislation/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.lebaneselegislation/mcp)
+  🔓 - Lebanese laws, articles, court rulings and Official Gazette issues since 1904, in Arabic and French, verbatim.
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
