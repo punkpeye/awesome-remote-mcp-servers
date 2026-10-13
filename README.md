@@ -403,6 +403,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build React apps with serverless endpoints, Postgres and auth, run SQL, and publish to a live URL.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Lium](https://docs.lium.io/developers/mcp) `https://docs.lium.io/mcp`
+  [![Lium MCP connector](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs)
+  🔓 - Search and read the docs of Lium, a GPU rental marketplace: rent GPU pods by the second via CLI, SDK or REST API.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
 - [Popdot AI](https://popdot.ai) `https://popdot.ai/api/mcp`
