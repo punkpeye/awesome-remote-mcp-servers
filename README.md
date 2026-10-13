@@ -926,9 +926,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [JogsiMérleg](https://jogsimerleg.hu/api/) `https://api.jogsimerleg.hu/mcp`
+  [![JogsiMérleg MCP connector](https://glama.ai/mcp/connectors/hu.jogsimerleg/autosiskolak/badges/score.svg)](https://glama.ai/mcp/connectors/hu.jogsimerleg/autosiskolak)
+  🔓 - Hungarian driving schools: official exam pass rates, training hours and rankings; search, look up, compare.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
+- [SuliMérleg](https://sulimerleg.hu/api/) `https://api.sulimerleg.hu/mcp`
+  [![SuliMérleg MCP connector](https://glama.ai/mcp/connectors/hu.sulimerleg/iskolak/badges/score.svg)](https://glama.ai/mcp/connectors/hu.sulimerleg/iskolak)
+  🔓 - Hungarian schools: official exam results, admissions demand and rankings; search by town, look up, compare.
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
@@ -1484,6 +1490,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Blocks](https://blocks.zone/ai) `https://blocks.zone/api/mcp`
   [![Blocks MCP connector](https://glama.ai/mcp/connectors/zone.blocks/blocks/badges/score.svg)](https://glama.ai/mcp/connectors/zone.blocks/blocks)
   🔐 - Plan and review cycling and running: training calendar, synced rides, sleep and HRV.
+- [IdősotthonMérleg](https://idosotthonmerleg.hu/api/) `https://api.idosotthonmerleg.hu/mcp`
+  [![IdősotthonMérleg MCP connector](https://glama.ai/mcp/connectors/hu.idosotthonmerleg/idosotthonok/badges/score.svg)](https://glama.ai/mcp/connectors/hu.idosotthonmerleg/idosotthonok)
+  🔓 - Hungarian nursing homes from the official register: places, operator, fees, contacts; search and compare.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
