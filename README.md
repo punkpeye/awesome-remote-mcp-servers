@@ -2246,6 +2246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
+- [Zero-Trust Physics](https://zerotrustphysics.com) `https://mcp.zerotrustphysics.com/mcp`
+  [![Zero-Trust Physics MCP connector](https://glama.ai/mcp/connectors/com.zerotrustphysics/verifier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zerotrustphysics/verifier)
+  🔓 - Physics verifier: models of real hardware, every answer with a cryptographic proof; stops at its tested range.
 - [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
   [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
   🔓 - Due diligence on scientific claims, graded against the published record.
