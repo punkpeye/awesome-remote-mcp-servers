@@ -2583,6 +2583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OmniSocials](https://omnisocials.com) `https://mcp.omnisocials.com/`
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
+- [Pith](https://pith.day/connect/mcp) `https://pith.day/api/mcp`
+  [![Pith MCP connector](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing/badges/score.svg)](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing)
+  🔐 - Publish your photo and caption to Instagram, and review and approve daily AI story drafts.
 - [Post Bridge](https://www.post-bridge.com/mcp) `https://www.post-bridge.com/api/mcp/mcp`
   [![Post Bridge MCP connector](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge)
   🔐 - Publish, schedule and analyze posts across ten platforms, from Instagram and TikTok to LinkedIn and Bluesky.
