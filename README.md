@@ -2262,7 +2262,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
 - [AnswerLine](https://answerline.dev) `https://mcp.answerline.dev/mcp`
-  🔑 - What ChatGPT, Gemini, Copilot and Google AI Overviews, AI Mode and News answer — structured JSON with cited sources, by country.
+  [![AnswerLine MCP connector](https://glama.ai/mcp/connectors/dev.answerline/answerline/badges/score.svg)](https://glama.ai/mcp/connectors/dev.answerline/answerline)
+  🔓 - What ChatGPT, Gemini and Google AI Overviews, AI Mode and News answer — structured JSON with cited sources, by country. Tool calls need an API key (X-Api-Key header, free tier).
 - [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
   [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
   🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
