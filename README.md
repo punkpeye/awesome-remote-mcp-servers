@@ -2258,6 +2258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [1cent](https://1cent.maxzoa.ru) `https://1cent.maxzoa.ru/mcp`
   [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
   🔓 - Extract web content and metadata, map site resources and detect page changes; x402 pay-per-call.
+- [Agent Hub](https://agents.torbrooknews.com) `https://mcp.torbrooknews.com/mcp`
+  [![Agent Hub MCP connector](https://glama.ai/mcp/connectors/com.torbrooknews.mcp/agent-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.torbrooknews.mcp/agent-hub)
+  🔓 - Search, scraping, PDF, OCR, speech, SEC filings, macro data, token risk and DeFi; 52 tools paid per call via x402.
 - [Ambolt](https://ambolt.dev) `https://api.ambolt.dev/mcp`
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
