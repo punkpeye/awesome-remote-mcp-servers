@@ -306,6 +306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
+- [Diamond Painting Converter](https://diamondpaintingconverter.com/) `https://diamondpaintingconverter.com/mcp`
+  [![Diamond Painting Converter MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/diamondpaintingconverter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/diamondpaintingconverter)
+  🔐 - Find your purchased diamond painting patterns and download the PDF with DMC colour legend.
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
@@ -347,6 +350,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
+- [UlazAI Media](https://ulazai.com/) `https://mcp.ulazai.com/mcp`
+  [![UlazAI Media MCP connector](https://glama.ai/mcp/connectors/io.github.ulazai/media/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ulazai/media)
+  🔐 - Create private AI images with your UlazAI account: pick a model, confirm, generate, download.
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
@@ -502,6 +508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
   🔓 - Your AI picks an 8B generated design and writes the copy; get an animated one-page site, preview link and HTML file.
+- [Beheer je WP](https://beheerjewp.nl/) `https://beheerjewp.nl/mcp`
+  [![Beheer je WP MCP connector](https://glama.ai/mcp/connectors/io.github.beheerjewp/wordpress/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beheerjewp/wordpress)
+  🔐 - Manage a WordPress site from your AI assistant: read, search, propose edits, Search Console data.
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
@@ -863,6 +872,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
+- [DiamondPaintingWinkel.nl shop advisor](https://diamondpaintingwinkel.nl/) `https://mcp.diamondpaintingwinkel.nl/mcp`
+  [![DiamondPaintingWinkel.nl shop advisor MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/diamondpaintingwinkel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/diamondpaintingwinkel)
+  🔓 - Search diamond painting kits, get size and price advice for your own photo, shop info. No login.
 - [Epinu](https://epinu.ai) `https://api.epinu.ai/api/agent/mcp`
   [![Epinu MCP connector](https://glama.ai/mcp/connectors/ai.epinu/epinu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.epinu/epinu)
   🔓 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
@@ -886,6 +898,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
+- [Nummerschilderen.com shop advisor](https://nummerschilderen.com/) `https://mcp.nummerschilderen.com/mcp`
+  [![Nummerschilderen.com shop advisor MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/nummerschilderen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/nummerschilderen)
+  🔓 - Search paint-by-number kits, get size and price advice for your own photo, shop info. No login.
 - [OneFindMe](https://onefindme.com) `https://onefindme.com/mcp`
   [![OneFindMe MCP connector](https://glama.ai/mcp/connectors/com.onefindme/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.onefindme/search)
   🔓 - Search AliExpress in any language and get listings with price, rating, orders and a link.
@@ -1647,6 +1662,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
   🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
 
+- [AI Rechtshulp](https://ai-rechtshulp.nl/) `https://app.ai-rechtshulp.nl/mcp`
+  [![AI Rechtshulp MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/ai-rechtshulp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/ai-rechtshulp)
+  🔐 - Search Dutch and EU case law with ECLI sources and verify quotes against the judgment.
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
   🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
@@ -1704,6 +1722,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [Backlinksbeheer](https://backlinksbeheer.nl/) `https://backlinksbeheer.nl/mcp`
+  [![Backlinksbeheer MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/backlinksbeheer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/backlinksbeheer)
+  🔐 - Read your stored backlinks, link checks and lost-link alerts per domain. Read-only.
+- [Backlinkswinkel](https://backlinkswinkel.nl/) `https://backlinkswinkel.nl/mcp`
+  [![Backlinkswinkel MCP connector](https://glama.ai/mcp/connectors/io.github.backlinkswinkel/backlinks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.backlinkswinkel/backlinks)
+  🔐 - Search Dutch websites for backlinks, check metrics and prices, order after confirmation, track.
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
@@ -1995,6 +2019,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MockClip](https://mockclip.com/integrations) `https://mockclip.com/api/mcp`
   [![MockClip MCP connector](https://glama.ai/mcp/connectors/com.mockclip/mockclip/badges/score.svg)](https://glama.ai/mcp/connectors/com.mockclip/mockclip)
   🔑 - Create fake chat and phone-screen videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit) as MP4.
+- [Muziek maken met AI](https://muziekmakenmetai.nl/) `https://muziekmakenmetai.nl/mcp`
+  [![Muziek maken met AI MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/muziekmakenmetai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/muziekmakenmetai)
+  🔐 - Make an original song from a prompt or your own lyrics. Two versions per song, MP3 download.
 - [Phoenix Labs](https://phoenixlabs.space/developers) `https://api.phoenixlabs.space/mcp`
   [![Phoenix Labs MCP connector](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs)
   🔐 - Restore old video and turn stills into clips with sound; you approve a spending limit, top-ups by card or USDC.
@@ -2010,6 +2037,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
+- [Samautomation Video](https://samautomation.work/) `https://samautomation.work/mcp`
+  [![Samautomation Video MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/samautomation-video/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/samautomation-video)
+  🔐 - Render an MP4 from your own images, clips, voice-over and timed captions. JSON to video.
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
@@ -2106,6 +2136,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GTD Brain](https://gtdbrain.com/connect?source=awesome-remote-mcp-servers) `https://mcp.gtdbrain.com/api/gtdbrain/v1/mcp`
   [![GTD Brain MCP connector](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain)
   🔐 - Getting Things Done board: inbox capture, next actions by context, projects and weekly review.
+- [Klussenbeheer](https://samdesk.nl/klussenbeheer/) `https://samdesk.nl/mcp`
+  [![Klussenbeheer MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/klussenbeheer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/klussenbeheer)
+  🔐 - Job management for Dutch service companies: jobs, customers, planning, quotes and invoices.
 - [Laraue Boards](https://boards.laraue.com) `https://boards.laraue.com/boards-mcp/mcp`
   [![Laraue Boards MCP connector](https://glama.ai/mcp/connectors/com.laraue/boards/badges/score.svg)](https://glama.ai/mcp/connectors/com.laraue/boards)
   🔑 - List, view, create, edit, and move issues in your Laraue Boards organization.
@@ -2504,6 +2537,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
+- [Scamchecker.nl](https://scamchecker.nl/) `https://scamchecker.nl/mcp`
+  [![Scamchecker.nl MCP connector](https://glama.ai/mcp/connectors/nl.scamchecker/scamchecker/badges/score.svg)](https://glama.ai/mcp/connectors/nl.scamchecker/scamchecker)
+  🔓 - Check a suspicious email, SMS, WhatsApp message or link for scam signals (Netherlands, Belgium).
 - [ScanMalware](https://scanmalware.com) `https://mcp.scanmalware.com/mcp`
   [![ScanMalware MCP connector](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp)
   🔓 - Scan URLs in a sandboxed browser and pivot across past scans by domain, IP, ASN or fingerprint.
@@ -2682,6 +2718,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ORYKSA AI Employees](https://mcp.oryksa.com) `https://mcp.oryksa.com`
   [![ORYKSA AI Employees MCP connector](https://glama.ai/mcp/connectors/com.oryksa/ai-employees/badges/score.svg)](https://glama.ai/mcp/connectors/com.oryksa/ai-employees)
   🔐 - Add an AI support agent to the site you build: it learns every page and answers visitors by chat and voice.
+- [SamDesk Support](https://samdesk.nl/support/plugin/) `https://samdesk.nl/support/mcp`
+  [![SamDesk Support MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/samdesk-support/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/samdesk-support)
+  🔐 - Read your SamDesk support inbox, find customer agreements and draft replies. Read-only.
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
@@ -2889,6 +2928,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pally](https://pally.com/mcp) `https://agent.pally.com/mcp`
   [![Pally MCP connector](https://glama.ai/mcp/connectors/com.pally/pally/badges/score.svg)](https://glama.ai/mcp/connectors/com.pally/pally)
   🔐 - AI personal assistant you text: manage inbox, calendar, tasks and follow-ups over iMessage, WhatsApp and Telegram.
+- [PDF Samenvoegen](https://pdfsamenvoegen.nl/) `https://pdfsamenvoegen.nl/mcp`
+  [![PDF Samenvoegen MCP connector](https://glama.ai/mcp/connectors/io.github.smrht/pdfsamenvoegen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.smrht/pdfsamenvoegen)
+  🔐 - Merge your own PDFs in a confirmed order and get one downloadable PDF.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
