@@ -1990,7 +1990,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Klox MCP connector](https://glama.ai/mcp/connectors/ai.klox/klox/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klox/klox)
   🔐 - Plan and edit AI videos on canvases: script, storyboard, shots and final cut.
 - [LivePair](https://livepairai.com) `https://livepairai.com/mcp`
-  🔑 - Private image and video generation (t2i/i2i/t2v/i2v) plus text completions across open-weight models; per-call pricing via an `lp_` key or x402 USDC on Base — catalog and prompt-library tools are free.
+  [![livepair-hub MCP connector](https://glama.ai/mcp/connectors/com.livepairai/livepair-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.livepairai/livepair-hub)
+  🔓 - Private image and video generation (t2i/i2i/t2v/i2v) plus text completions across open-weight models; per-call pricing via an `lp_` key or x402 USDC on Base — catalog and prompt-library tools are free.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
