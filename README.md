@@ -2180,7 +2180,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance or HOA document, with its date and source quote.
 - [Propely Singapore Property](https://propely.sg) `https://mcp.propely.sg/`
-  [![Propely Singapore Property MCP connector](https://glama.ai/mcp/connectors/sg.propely/property-calculators/badges/score.svg)](https://glama.ai/mcp/connectors/sg.propely/property-calculators)
+  [![Propely Singapore Property MCP connector](https://glama.ai/mcp/connectors/sg.propely/singapore-property/badges/score.svg)](https://glama.ai/mcp/connectors/sg.propely/singapore-property)
   🔓 - Singapore stamp duty (BSD, ABSD, SSD), TDSR, loan tenure and net proceeds calculators, from Propely.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
