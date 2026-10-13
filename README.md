@@ -1484,6 +1484,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Blocks](https://blocks.zone/ai) `https://blocks.zone/api/mcp`
   [![Blocks MCP connector](https://glama.ai/mcp/connectors/zone.blocks/blocks/badges/score.svg)](https://glama.ai/mcp/connectors/zone.blocks/blocks)
   🔐 - Plan and review cycling and running: training calendar, synced rides, sleep and HRV.
+- [FindADoctor.si](https://findadoctor.si/us/) `https://api.findadoctor.si/mcp`
+  [![FindADoctor.si MCP connector](https://glama.ai/mcp/connectors/si.findadoctor.api/us-doctor-finder/badges/score.svg)](https://glama.ai/mcp/connectors/si.findadoctor.api/us-doctor-finder)
+  🔓 - Find US doctors for a condition, procedure or place, with sourced evidence from official records and Medicare data.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
