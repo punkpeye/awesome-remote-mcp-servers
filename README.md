@@ -2647,6 +2647,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
   🔓 - Results, fixtures, tables, goal timing and season projections for 93 football leagues, lower divisions included.
+- [HKRacing.live](https://hkracing.live) `https://hkracing.live/mcp`
+  [![HKRacing.live MCP connector](https://glama.ai/mcp/connectors/live.hkracing/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.hkracing/mcp)
+  🔓 - Hong Kong horse racing: race cards, odds, results and dividends, horse form, jockey and draw stats, with AI win chances sealed at the off.
 - [Pickleball3](https://pickleball3.com) `https://pickleball3.com/mcp`
   [![Pickleball3 MCP connector](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3)
   🔓 - Compare 152 reviewed pickleball paddles by score and specs, with purchase links.
