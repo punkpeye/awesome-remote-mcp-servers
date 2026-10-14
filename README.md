@@ -1208,6 +1208,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
   [![Kyrodata MCP connector](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata/badges/score.svg)](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata)
   🔐 - Brazilian exports and imports by HS code and partner, plus crop production, climate and commodity forecasts.
+- [Lacuna Markets](https://lacuna.markets) `https://mcp.lacuna.markets/mcp`
+  [![Lacuna Markets MCP connector](https://glama.ai/mcp/connectors/markets.lacuna/prediction-market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/markets.lacuna/prediction-market-intelligence)
+  🔓 - Read-only Polymarket research: market rules, real fill costs, who is trading, biggest moves and any public wallet.
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
