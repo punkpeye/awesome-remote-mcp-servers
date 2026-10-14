@@ -1095,6 +1095,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Economy Intel](https://datakoot.com/economy-intel) `https://economy.datakoot.com/mcp`
   [![Datakoot Economy Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment)
   🔓 - World Bank indicators for any country plus US BLS series such as CPI, unemployment and payrolls.
+- [Docs-to-JSON](https://jsonexlab.com/document-to-json/) `https://document-to-json-mcp.mcpize.run/mcp`
+  [![Docs-to-JSON MCP connector](https://glama.ai/mcp/connectors/run.mcpize.document-to-json-mcp/document-to-json/badges/score.svg)](https://glama.ai/mcp/connectors/run.mcpize.document-to-json-mcp/document-to-json)
+  🔓 - Convert any document (invoice, receipt, contract) to structured JSON in ~2 seconds. 100+ types.
+
 - [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
   [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
   🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
