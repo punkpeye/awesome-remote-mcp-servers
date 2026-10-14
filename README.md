@@ -1179,6 +1179,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [InsiderAlpha](https://insideralpha.ai/docs/mcp) `https://mcp.insideralpha.ai/mcp`
+  [![InsiderAlpha MCP connector](https://glama.ai/mcp/connectors/ai.insideralpha/insider-alpha/badges/score.svg)](https://glama.ai/mcp/connectors/ai.insideralpha/insider-alpha)
+  🔐 - SEC Form 4 insider buys, deduplicated, with 10b5-1 flags, 8-K catalysts and a pre-open daily plan; needs an account.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
