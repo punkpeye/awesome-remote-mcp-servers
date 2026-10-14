@@ -215,6 +215,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [Agent Account Index](https://agent-account-index.vercel.app) `https://agent-account-index.vercel.app/mcp`
+  [![Agent Account Index MCP connector](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index)
+  🔓 - Says whether a service's terms let an AI agent hold an account, and who answers for it.
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
