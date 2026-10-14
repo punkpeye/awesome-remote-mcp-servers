@@ -1902,6 +1902,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
+- [Oh Dear](https://ohdear.app) `https://ohdear.app/mcp`
+  [![Oh Dear MCP connector](https://glama.ai/mcp/connectors/app.ohdear/ohdear/badges/score.svg)](https://glama.ai/mcp/connectors/app.ohdear/ohdear)
+  🔐 - Check uptime, SSL certificates, broken links, DNS, cron jobs and status pages for your Oh Dear sites.
 - [Everframe](https://everframe.dev) `https://everframe.dev/mcp`
   [![Everframe MCP connector](https://glama.ai/mcp/connectors/dev.everframe/everframe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.everframe/everframe)
   🔐 - Read in-app bug reports, crashes and tickets with screenshots, console, network and device context.
