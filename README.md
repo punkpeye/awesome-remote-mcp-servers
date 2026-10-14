@@ -2251,7 +2251,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Due diligence on scientific claims, graded against the published record.
 - [Zovo Time Tracker](https://mcp.zovo.one/mcp/time-tracker) `https://mcp.zovo.one/mcp/time-tracker`
   [![Zovo Time Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/time-tracker-timesheet-billable-hours/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/time-tracker-timesheet-billable-hours)
-  🔑 - Log billable hours per client/project, daily and weekly summaries and CSV export; free browser-minted token, no account.
+  🔓 - Log billable hours per client/project, daily and weekly summaries and CSV export; free browser-minted token, no account.
 - [Agent Council](https://cyberwarex.com/assets/council-quickstart.html) `https://council.cyberwarex.com/mcp`
   [![Agent Council MCP connector](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council/badges/score.svg)](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council)
   🔓 - One question goes to 3-4 models; a chair returns one verdict with a confidence score and the dissent that held.
