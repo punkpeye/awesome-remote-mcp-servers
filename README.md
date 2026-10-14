@@ -1561,6 +1561,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [knowsme](https://knowsme.dev) `https://mcp.knowsme.dev/mcp`
   [![knowsme MCP connector](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme)
   🔐 - One memory for you and your AI agents: your notes, rules and projects follow you across machines, AI apps and agents.
+- [Marvnor](https://api.marvnor.com/home?lang=en) `https://api.marvnor.com/v1/mcp`
+  [![Marvnor MCP connector](https://glama.ai/mcp/connectors/io.github.wendelxia/marvnor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wendelxia/marvnor)
+  🔑 - Hosted agent fact memory with record verification and conflict handling; free trial available.
 - [MemoryRouter](https://memoryrouter.ai) `https://mcp.memoryrouter.ai/mcp`
   [![MemoryRouter MCP connector](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter)
   🔓 - Cross-AI persistent memory for ChatGPT, Claude, Codex and other MCP clients: one user-scoped vault. OAuth unlocks it.
