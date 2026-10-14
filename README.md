@@ -2445,6 +2445,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [arifOS](https://mcp.arif-fazil.com) `https://mcp.arif-fazil.com/mcp`
+  🔓 - Constitutional governance kernel: judges proposed agent actions against policy floors F1-F13 and answers SEAL, HOLD, SABAR, PARTIAL or VOID, with a hash-chained decision ledger.
 - [Agent Verifier](https://packet.guru/agents/mcp) `https://fp.packet.guru/api/v1/mcp`
   [![Agent Verifier MCP connector](https://glama.ai/mcp/connectors/guru.packet/agent-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/guru.packet/agent-verifier)
   🔓 - Test and debug your AI agent's Web Bot Auth (RFC 9421) signature and see exactly what to fix.
