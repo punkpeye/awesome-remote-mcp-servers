@@ -2492,6 +2492,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
   [![Ficiel MCP connector](https://glama.ai/mcp/connectors/io.ficiel/ficiel/badges/score.svg)](https://glama.ai/mcp/connectors/io.ficiel/ficiel)
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
+- [gtm-api](https://gtm-api.com/linkedin-mcp-server/) `https://mcp.gtm-api.com/mcp`
+  [![gtm-api MCP connector](https://glama.ai/mcp/connectors/com.gtm-api/linkedin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gtm-api/linkedin-mcp)
+  🔐 - Run your own LinkedIn account from an agent: search, Sales Navigator, invitations, messages and the inbox.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
