@@ -3015,3 +3015,5 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** (`https://citizens-collection-princess-dozens.trycloudflare.com/mcp`) - Zero-registration HTTP 402 Remote MCP Server & M2M Clearinghouse (L402 Lightning & x402 Base/Solana USDC) with 100/100 Verified SLA.
