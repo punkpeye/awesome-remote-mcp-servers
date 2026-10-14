@@ -985,7 +985,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search, read, and manage files stored in Box.
 - [Link in Seconds](https://linkinseconds.com/docs/mcp) `https://linkinseconds.com/api/mcp`
   [![Link in Seconds MCP connector](https://glama.ai/mcp/connectors/com.linkinseconds/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkinseconds/mcp)
-  🔑 - Upload a file and get a shareable link that never expires, then list your links and see their view stats.
+  🔓 - Upload a file and get a shareable link that never expires, plus view stats. Using the tools needs a free API key.
 - [Playbook](https://dev.playbook.com/docs/guides/mcp/) `https://mcp.playbook.com/mcp`
   [![Playbook MCP connector](https://glama.ai/mcp/connectors/com.playbook/playbook/badges/score.svg)](https://glama.ai/mcp/connectors/com.playbook/playbook)
   🔐 - Media backend: search, organize, upload, and share creative files and folders.
