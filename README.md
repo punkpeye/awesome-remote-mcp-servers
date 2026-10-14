@@ -1829,6 +1829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
+- [Quelta](https://quelta.ai/mcp-server/) `https://quelta.ai/mcp`
+  [![Quelta MCP connector](https://glama.ai/mcp/connectors/ai.quelta/quelta/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quelta/quelta)
+  🔐 - Score short vertical video ads by link: first 3 seconds, issues with timecodes and fixes.
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
