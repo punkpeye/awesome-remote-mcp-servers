@@ -3143,6 +3143,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
+- [Nodiom Cloud](https://nodiom.md/?utm_source=awesome-remote-mcp-pp&utm_medium=directory) `https://api.nodiom.md/mcp`
+  [![Nodiom Cloud MCP connector](https://glama.ai/mcp/connectors/io.github.Synexiom-Labs/nodiom-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Synexiom-Labs/nodiom-cloud)
+  🔐 - A shared board your agents claim work from, hand off on, and stop at for a person to approve.
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
