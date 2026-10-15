@@ -1927,6 +1927,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BizIntel](https://mcp-bizintel-production.up.railway.app) `https://mcp-bizintel-production.up.railway.app/mcp`
   [![BizIntel MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel)
   🔓 - Audit websites, detect tech stacks, and find and score local businesses without a website.
+- [Book a Sponsor](https://bookasponsor.com) `https://bookasponsor.com/mcp`
+  [![Book a Sponsor MCP connector](https://glama.ai/mcp/connectors/com.bookasponsor/book-a-sponsor/badges/score.svg)](https://glama.ai/mcp/connectors/com.bookasponsor/book-a-sponsor)
+  🔓 - Brands that sponsor newsletters like yours, with where each ad ran, plus newsletter sponsorship rates.
+
 - [CalmSEO](https://calmseo.com) `https://mcp.calmseo.com/mcp`
   [![CalmSEO MCP connector](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp)
   🔐 - Free Google Search Console analytics plus credit-based SERP, keyword, and page audit tools.
@@ -2485,6 +2489,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
   🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
 ### 🚗 <a name="sales"></a>Sales
+
+- [ConferenceDB](https://conferencedatabase.com) `https://conferencedatabase.com/api/mcp`
+  [![ConferenceDB MCP connector](https://glama.ai/mcp/connectors/com.conferencedatabase/conferencedb/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencedatabase/conferencedb)
+  🔓 - Which companies sponsor and exhibit at conferences, with event dates and published sponsorship packages.
 
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
