@@ -893,6 +893,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
+- [TuringCorp Decider](https://mcp.turingcorp.net/) `https://mcp.turingcorp.net/mcp`
+  [![TuringCorp Decider MCP connector](https://glama.ai/mcp/connectors/net.turingcorp.mcp/decider/badges/score.svg)](https://glama.ai/mcp/connectors/net.turingcorp.mcp/decider)
+  🔑 - Judge which of two defensible options is better, returning the pick, a calibrated confidence, and the reason.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
