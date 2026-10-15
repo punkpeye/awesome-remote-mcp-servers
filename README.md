@@ -1343,6 +1343,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
   [![Regime MCP connector](https://glama.ai/mcp/connectors/xyz.regimetoken/regime/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.regimetoken/regime)
   🔓 - Checks crypto trading claims on real price history: leverage liquidations, drawdown, DCA, stop-loss, seasonality.
+- [roic.ai](https://www.roic.ai/) `https://mcp.roic.ai/mcp`
+  [![roic.ai MCP connector](https://glama.ai/mcp/connectors/ai.roic/roic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.roic/roic)
+  🔐 - Financial statements, ratios and earnings call transcripts for 68k+ public companies.
 
 - [RWA Data MCP Server](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp) `https://rwa-data-mcp.dave-a-bear.workers.dev/mcp`
   [![RWA Data MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp)
