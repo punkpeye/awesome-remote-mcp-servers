@@ -1619,6 +1619,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
+- [Foundplay](https://foundplay.io/connect) `https://foundplay.io/mcp`
+  [![Foundplay MCP connector](https://glama.ai/mcp/connectors/io.foundplay/foundplay/badges/score.svg)](https://glama.ai/mcp/connectors/io.foundplay/foundplay)
+  🔓 - Search free indie browser games by genre, phone support or multiplayer, with a link to each game's page.
 - [Playable Gift](https://playablegift.com) `https://playablegift.com/mcp`
   [![Playable Gift MCP connector](https://glama.ai/mcp/connectors/com.playablegift/playable-gift/badges/score.svg)](https://glama.ai/mcp/connectors/com.playablegift/playable-gift)
   🔓 - Make, save and revise personal browser games, then share a gift link with the recipient.
