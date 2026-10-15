@@ -491,6 +491,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PlaceCall](https://voygr.tech/placecall/) `https://api.voygr.tech/mcp`
   [![PlaceCall MCP connector](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall)
   🔐 - Place real phone calls to US businesses to book, ask questions or get quotes, then read the outcome and transcript.
+- [Poofbox](https://poofboxmail.com) `https://poofboxmail.com/mcp`
+  [![Poofbox MCP connector](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox)
+  🔐 - Disposable receive-only inboxes for agents: create an address, wait for the email, get the code or verify link.
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
@@ -611,6 +614,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
 - [Convex](https://convex.dev) `https://mcp.convex.dev/mcp`
   🔓 - Query and manage Convex deployments, tables, and functions.
+- [LakehouseBox](https://lakehousebox.com/docs/mcp/) `https://mcp.lakehousebox.com/mcp`
+  [![LakehouseBox MCP connector](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox/badges/score.svg)](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox)
+  🔐 - Query and write Apache Iceberg tables hosted in Europe, and open public datasets, with DuckDB SQL.
 - [MongoDB](https://mongodb.com) `https://mcp.mongodb.com/mcp`
   🔐 - Query MongoDB Atlas clusters and manage collections and indexes.
 - [Neon](https://neon.tech) `https://mcp.neon.tech/mcp`
@@ -784,6 +790,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offline Protocol](https://www.offlineprotocol.com/docs/tools/overview) `https://mcp.offlineprotocol.com/public/mcp`
   [![Offline Protocol MCP connector](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted/badges/score.svg)](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted)
   🔓 - Find Offline Protocol SDK packages, integration guides and workflows for apps that keep working without the internet.
+- [Omnara](https://www.omnara.com) `https://app.omnara.com/mcp`
+  [![Omnara MCP connector](https://glama.ai/mcp/connectors/com.omnara/omnara/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnara/omnara)
+  🔐 - Launch AI agents on any model and machine, message them, read their events, and approve their tool calls.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
