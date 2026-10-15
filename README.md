@@ -2888,6 +2888,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sitelemetry](https://sitelemetry.com/mcp-guide) `https://sitelemetry.com/mcp`
   [![Sitelemetry MCP connector](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry)
   🔐 - Audit sites you own for security, SEO, AI readiness, accessibility, performance and integrations.
+- [Solana Pulse](https://solana-pulse-gateway-1021990235790.us-central1.run.app) `https://solana-pulse-gateway-1021990235790.us-central1.run.app/mcp`
+  [![Solana Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.Timothymycompc/solana-pulse-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Timothymycompc/solana-pulse-gateway)
+  🔓 - Safety checks for AI agents on Solana: transaction preflight, intent matching and token safety verdicts.
 - [Tanod](https://tanod.dev) `https://tanod.dev/mcp`
   [![Tanod MCP connector](https://glama.ai/mcp/connectors/dev.tanod/tanod/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tanod/tanod)
   🔓 - Pre-transaction address checks, agent skill and MCP package scans, Solidity scans; paid per call via x402.
