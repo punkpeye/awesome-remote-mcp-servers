@@ -2191,6 +2191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Laraue Boards](https://boards.laraue.com) `https://boards.laraue.com/boards-mcp/mcp`
   [![Laraue Boards MCP connector](https://glama.ai/mcp/connectors/com.laraue/boards/badges/score.svg)](https://glama.ai/mcp/connectors/com.laraue/boards)
   🔑 - List, view, create, edit, and move issues in your Laraue Boards organization.
+- [Leemu](https://leemu.io/claude-integration) `https://app.leemu.io/api/mcp`
+  [![Leemu MCP connector](https://glama.ai/mcp/connectors/io.leemu/okr/badges/score.svg)](https://glama.ai/mcp/connectors/io.leemu/okr)
+  🔐 - Read OKRs, submit key-result check-ins, find at-risk goals, and generate progress reports.
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
