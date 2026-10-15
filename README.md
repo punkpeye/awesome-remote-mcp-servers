@@ -344,6 +344,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MagicScreenshots](https://www.magicscreenshots.com/agents) `https://www.magicscreenshots.com/api/mcp`
   [![MagicScreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp)
   🔓 - Search App Store screenshots and preview references; generation and Pro tools require a user key.
+- [MiroMiro](https://miromiro.app/api/mcp) `https://miromiro.app/mcp`
+  [![MiroMiro MCP connector](https://glama.ai/mcp/connectors/app.miromiro/miromiro/badges/score.svg)](https://glama.ai/mcp/connectors/app.miromiro/miromiro)
+  🔐 - Rebuild any website section as Elementor, Shopify Liquid or Tailwind/React code, plus brand tokens and assets.
 - [Nano Studio Pro](https://nanostudiopro.com) `https://nanostudiopro.com/api/mcp`
   [![Nano Studio Pro MCP connector](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro/badges/score.svg)](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro)
   🔐 - Find any photo or video you own by what is inside it; generate, restyle, cut out, and build sprite sheets.
