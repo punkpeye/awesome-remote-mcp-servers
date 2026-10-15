@@ -1242,6 +1242,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CVR Lookup](https://cvrlookup.dk/mcp) `https://cvrlookup.dk/api/mcp`
   [![CVR Lookup MCP connector](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup)
   🔓 - Danish company register: lookups, name search and annual-report financials; data needs a free key.
+- [DearmasTrader](https://dearmastrader.com) `https://app.dearmastrader.com/api/mcp`
+  [![DearmasTrader MCP connector](https://glama.ai/mcp/connectors/com.dearmastrader/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dearmastrader/mcp)
+  🔐 - Run DCA and grid crypto bots on Binance, Bybit, MEXC, OKX and Bitget and backtest them on years of history.
 - [DEBYKO](https://debyko.com) `https://mcp.debyko.com/mcp`
   [![DEBYKO MCP connector](https://glama.ai/mcp/connectors/com.debyko/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.debyko/mcp)
   🔐 - Live and historical crypto derivatives data across venues: books, funding, candles and DQL screens.
