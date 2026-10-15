@@ -2326,6 +2326,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AssetFare](https://assetfare.dev) `https://api.assetfare.dev/mcp`
   [![AssetFare MCP connector](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare)
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
+- [Checkout Page](https://checkoutpage.com) `https://mcp.checkoutpage.com`
+  [![Checkout Page MCP connector](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page/badges/score.svg)](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page)
+  🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
