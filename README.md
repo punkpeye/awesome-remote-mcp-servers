@@ -878,6 +878,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
+- [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
+  [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
+  🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
 - [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
