@@ -2580,6 +2580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Company Index](https://agentcompanyindex.com) `https://agentcompanyindex.com/mcp`
   [![Agent Company Index MCP connector](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory)
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
+- [Agent Verification Tools](https://apify.com/nickatnite79) `https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-listing-rechecker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier`
+  [![Agent Verification Tools MCP connector](https://glama.ai/mcp/connectors/io.github.JackPT79/agent-verification-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JackPT79/agent-verification-tools)
+  🔐 - Google Trends, job-post status, RFP addendum diffs, and exact-SKU offer checks on Apify.
 - [Ambolt](https://ambolt.dev) `https://api.ambolt.dev/mcp`
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
