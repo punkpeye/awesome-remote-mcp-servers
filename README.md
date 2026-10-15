@@ -170,6 +170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and OpenAI-compatible chat completions.
+- [Index Agentica](https://indexagentica.com/?utm_source=awesome-list&utm_medium=pr&utm_campaign=launch-2026q4) `https://mcp.indexagentica.com/mcp`
+  [![Index Agentica MCP connector](https://glama.ai/mcp/connectors/com.indexagentica/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.indexagentica/mcp)
+  🔓 - Search an agent-first directory of agent tools, MCP servers, skills, protocols and APIs; no key needed.
 - [ISHOB](https://ishob.com) `https://api.ishob.com/mcp`
   [![ISHOB MCP connector](https://glama.ai/mcp/connectors/com.ishob/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.ishob/archive)
   🔓 - 35 pay-per-call tools: web extraction, crypto token and wallet risk, SEC company data, weather risk; x402 USDC.
