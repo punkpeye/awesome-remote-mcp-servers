@@ -2285,6 +2285,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
 - [Shortform Kit](https://shortformkit.com/mcp-server/) `https://shortformkit.com/mcp`
+  [![Shortform Kit MCP connector](https://glama.ai/mcp/connectors/io.github.diegobruegger-prog/shortformkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.diegobruegger-prog/shortformkit)
   🔓 - Transcribe, read and download public Instagram Reels, TikToks and YouTube videos, plus sourced creator data: upload specs for 9 platforms, monetization programs, loudness targets and YouTube channel IDs.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
