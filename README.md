@@ -872,6 +872,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sato Hub](https://satohub.ai/mcp) `https://satohub.ai/api/mcp`
   [![Sato Hub MCP connector](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents/badges/score.svg)](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents)
   🔓 - Search a scored index of crypto-agent tooling, then preflight a repo, package, endpoint or token.
+- [Settlens](https://settlens.com) `https://settlens.com/mcp`
+  [![Settlens MCP connector](https://glama.ai/mcp/connectors/com.settlens/settlens/badges/score.svg)](https://glama.ai/mcp/connectors/com.settlens/settlens)
+  🔓 - Evaluate x402 V2 payment requirements against spending policies, without signing or sending payments.
 - [Show It Works](https://showitworks.app) `https://showitworks.app/api/mcp`
   [![Show It Works MCP connector](https://glama.ai/mcp/connectors/app.showitworks/show-it-works/badges/score.svg)](https://glama.ai/mcp/connectors/app.showitworks/show-it-works)
   🔓 - Public tool discovery; uploading verification videos and sharing viewer links require an API key.
