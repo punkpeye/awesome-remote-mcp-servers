@@ -3323,6 +3323,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
+- [Routine Run writer](https://routinerun.com/assistants) `https://api.routinerun.com/mcp/public`
+  [![Routine Run writer MCP connector](https://glama.ai/mcp/connectors/com.routinerun/routine-writer/badges/score.svg)](https://glama.ai/mcp/connectors/com.routinerun/routine-writer)
+  🔓 - Write a step-by-step routine and get a link that opens it in Routine Run on iPhone, or find a ready one.
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
