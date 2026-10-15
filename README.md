@@ -467,6 +467,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PlaceCall](https://voygr.tech/placecall/) `https://api.voygr.tech/mcp`
   [![PlaceCall MCP connector](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall)
   🔐 - Place real phone calls to US businesses to book, ask questions or get quotes, then read the outcome and transcript.
+- [Poofbox](https://poofboxmail.com) `https://poofboxmail.com/mcp`
+  [![Poofbox MCP connector](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox)
+  🔐 - Disposable receive-only inboxes for agents: create an address, wait for the email, get the code or verify link.
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
