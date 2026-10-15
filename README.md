@@ -1016,6 +1016,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tiana & Co. Seller Compliance](https://www.tiana-co.com/for-ai) `https://www.tiana-co.com/api/mcp`
   [![Tiana & Co. Seller Compliance MCP connector](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks)
   🔓 - Which certificate (CPC, GCC, FCC, FDA), what marketplaces ask, supplier blacklists, customs holds.
+- [Trisport](https://www.trisport.ro/asistent-ai/) `https://www.trisport.ro/mcp`
+  [![Trisport MCP connector](https://glama.ai/mcp/connectors/ro.trisport/store/badges/score.svg)](https://glama.ai/mcp/connectors/ro.trisport/store)
+  🔓 - Shop a Romanian sports store: live stock, sizes and delivery, accessories and cart links; OAuth for orders and points.
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
