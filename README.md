@@ -2070,6 +2070,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
+- [Revnu](https://revnu.com/mcp) `https://revnu.com/api/mcp`
+  [![Revnu MCP connector](https://glama.ai/mcp/connectors/com.revnu/revnu/badges/score.svg)](https://glama.ai/mcp/connectors/com.revnu/revnu)
+  🔐 - Review growth work, browse leads and results, message your growth agent, and schedule workflows.
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
