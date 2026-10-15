@@ -2382,6 +2382,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
+- [Hyperresearch](https://hyperresearch.ai/docs/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory) `https://mcp.hyperresearch.ai/mcp`
+  [![Hyperresearch MCP connector](https://glama.ai/mcp/connectors/ai.hyperresearch/hyperresearch/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hyperresearch/hyperresearch)
+  🔐 🔑 - Start cited deep-research runs, read the reports, search the kept sources and verify citations.
 - [Lenz Fact-Check](https://lenz.io/integrations/mcp-server) `https://lenz.io/mcp`
   [![Lenz Fact-Check MCP connector](https://glama.ai/mcp/connectors/io.lenz/fact-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.lenz/fact-check)
   🔐 - Checks the factual claims in a text against independent sources: a quick verdict, or a deep check with sources.
