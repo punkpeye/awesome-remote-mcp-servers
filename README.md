@@ -1399,6 +1399,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
+  [![PMWallets MCP connector](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets)
+  🔐 - Polymarket traders ranked by realized PnL, with their records, live fills and past trades as daily files.
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
