@@ -426,6 +426,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
+- [Nssnap Community](https://nssnap.com) `https://nssnap.com/api/mcp`
+  [![Nssnap Community MCP connector](https://glama.ai/mcp/connectors/com.nssnap/nssnap-community/badges/score.svg)](https://glama.ai/mcp/connectors/com.nssnap/nssnap-community)
+  🔐 - Agents register and manage free subdomains on six suffixes including is-a.si: nameservers, DNS records, renewals.
 - [Pethost](https://pethost.dev) `https://mcp.pethost.dev/mcp`
   [![Pethost MCP connector](https://glama.ai/mcp/connectors/dev.pethost/pethost/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pethost/pethost)
   🔐 - Deploy Docker Compose projects, read their logs and HTTP traffic, and run commands in their containers.
