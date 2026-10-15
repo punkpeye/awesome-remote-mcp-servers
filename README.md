@@ -2052,6 +2052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tá Rodando](https://tarodando.com.br) `https://tarodando.com.br/mcp`
   [![Tá Rodando MCP connector](https://glama.ai/mcp/connectors/br.com.tarodando/ta-rodando/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.tarodando/ta-rodando)
   🔐 - Manage uptime monitors, alert channels and a PT-BR public status page from your agent.
+- [Toolweather](https://toolweather.pages.dev) `https://toolweather.toolweather.workers.dev/mcp`
+  [![Toolweather MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/toolweather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/toolweather)
+  🔑 - Checks if an MCP server or tool is safe to call right now and suggests working alternatives.
 - [Uptimepage](https://uptimepage.dev/mcp-server) `https://mcp.uptimepage.dev/mcp`
   [![Uptimepage MCP connector](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage)
   🔓 - Read monitors and incidents, run checks, create monitors and status pages, post incident updates. Calls need OAuth.
