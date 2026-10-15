@@ -1026,6 +1026,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zebu Data - Amazon & eBay Product Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/ecommerce-product-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/ecommerce-product-data)
   🔐 - Amazon and eBay search results, product details, prices, variants and seller reviews.
 
+- [Zineps](https://mcp.zineps.com/docs/login) `https://mcp.zineps.com/mcp`
+  [![Zineps MCP connector](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps/badges/score.svg)](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps)
+  🔐 - Manage shipments, shipping labels, orders, invoices, and partner operations with a Zineps account.
+
 ### 🎓 <a name="education"></a>Education
 
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
