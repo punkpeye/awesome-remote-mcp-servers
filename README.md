@@ -747,6 +747,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Package Intel](https://datakoot.com/package-intel) `https://package.datakoot.com/mcp`
   [![Datakoot Package Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages)
   🔓 - npm, PyPI and crates.io package health, versions, downloads, dependencies and advisories.
+- [Decide Runtime](https://www.decide.fyi/mcp#connect-runtime) `https://mcp-live.decide.fyi/developer-prepaid/v1/mcp`
+  [![Decide Runtime MCP connector](https://glama.ai/mcp/connectors/io.github.nodeblur/decide-runtime/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nodeblur/decide-runtime)
+  🔐 🔑 - Evaluate supplied rules; save/read/export decisions. $10/1,000 completed records. EU27/UK/US pilot; no execution.
 - [DeepWiki](https://deepwiki.com) `https://mcp.deepwiki.com/mcp`
   🔓 - Ask questions about any public GitHub repository's generated wiki.
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
