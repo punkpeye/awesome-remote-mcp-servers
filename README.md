@@ -2270,6 +2270,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
   [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
   🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
+- [apipj](https://apipj.com.br/guias/consultar-cnpj-ia-mcp) `https://apipj.com.br/mcp`
+  [![apipj MCP connector](https://glama.ai/mcp/connectors/br.com.apipj/cnpj/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.apipj/cnpj)
+  🔓 🔐 - Brazilian company data (CNPJ) from Receita Federal open data: lookup and validation; 50k free lookups/month.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
