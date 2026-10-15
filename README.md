@@ -1031,6 +1031,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
+- [Spelling Bee Hive](https://www.spellingbeehive.com/spelling-bee-mcp) `https://www.spellingbeehive.com/mcp`
+  [![Spelling Bee Hive MCP connector](https://glama.ai/mcp/connectors/com.spellingbeehive/spelling-bee/badges/score.svg)](https://glama.ai/mcp/connectors/com.spellingbeehive/spelling-bee)
+  🔓 - Look up spelling bee words with pronunciations, meanings and origins, and run practice rounds at nine levels.
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
