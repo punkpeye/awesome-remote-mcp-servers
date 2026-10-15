@@ -2874,6 +2874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
+- [satledger](https://satledger.org) `https://api.satledger.org/mcp`
+  [![satledger MCP connector](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt/badges/score.svg)](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt)
+  🔓 - RFC 3161 timestamp over a digest you supply; USDC per call over x402, no account, verifies offline.
 - [ScanMalware](https://scanmalware.com) `https://mcp.scanmalware.com/mcp`
   [![ScanMalware MCP connector](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp)
   🔓 - Scan URLs in a sandboxed browser and pivot across past scans by domain, IP, ASN or fingerprint.
