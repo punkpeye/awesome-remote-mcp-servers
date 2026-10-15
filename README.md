@@ -445,6 +445,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish a live website from an agent in one tool call, expiring or permanent, with human review hooks.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Liquid Compute GPU Test](https://liquidcompute.com/gpu-test) `https://api.liquidcompute.co/mcp`
+  [![Liquid Compute GPU Test MCP connector](https://glama.ai/mcp/connectors/com.liquidcompute/gcat/badges/score.svg)](https://glama.ai/mcp/connectors/com.liquidcompute/gcat)
+  🔐 - Run GPU acceptance tests on NVIDIA nodes you administer, over SSH: DCGM, GEMM, HBM/PCIe bandwidth and NCCL.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
 - [Pethost](https://pethost.dev) `https://mcp.pethost.dev/mcp`
