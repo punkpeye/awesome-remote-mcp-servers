@@ -401,6 +401,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Floot](https://floot.com) `https://mcp.floot.com/mcp`
   [![Floot MCP connector](https://glama.ai/mcp/connectors/com.floot/floot/badges/score.svg)](https://glama.ai/mcp/connectors/com.floot/floot)
   🔐 - Build React apps with serverless endpoints, Postgres and auth, run SQL, and publish to a live URL.
+- [FutureInfra](https://futureinfra.ai/docs/mcp/) `https://futureinfra.ai/v1/mcp`
+  [![FutureInfra MCP connector](https://glama.ai/mcp/connectors/ai.futureinfra/futureinfra/badges/score.svg)](https://glama.ai/mcp/connectors/ai.futureinfra/futureinfra)
+  🔐 - Create and manage cloud servers, Docker apps, DNS and domains on a Korean cloud provider.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
