@@ -3057,6 +3057,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
+- [Corebee](https://corebee.ai/docs/mcp) `https://corebee.ai/api/v1/mcp/stream`
+  🔐 - Work a Corebee support inbox: triage conversations, send replies on web chat, WhatsApp, email and SMS, look up customers, and update the knowledge base.
 - [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
   [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
   🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
