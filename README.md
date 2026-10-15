@@ -2119,6 +2119,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
+- [Vaneform](https://vaneform.com/docs/api) `https://vaneform.com/mcp`
+  [![Vaneform MCP connector](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp)
+  🔓 - Free website traffic lookups: monthly visits, sources, countries and domain compares; initialize/tools/list open, tools/call needs API key.
 - [VertoDigital](https://vertodigital.com) `https://mcp.vertodigital.com/mcp`
   [![VertoDigital MCP Server MCP connector](https://glama.ai/mcp/connectors/com.vertodigital/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertodigital/mcp)
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
