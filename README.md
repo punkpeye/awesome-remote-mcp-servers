@@ -2916,6 +2916,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
+- [canhelpto](https://canhelpto.com/docs/agents?utm_source=awesome-remote-mcp-servers) `https://canhelpto.com/api/mcp`
+  [![canhelpto MCP connector](https://glama.ai/mcp/connectors/com.canhelpto/support/badges/score.svg)](https://glama.ai/mcp/connectors/com.canhelpto/support)
+  🔐 - Work a support inbox from your agent: list, read and answer tickets that carry the failed tool call.
 - [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
   [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
   🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
