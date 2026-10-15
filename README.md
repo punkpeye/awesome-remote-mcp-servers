@@ -2541,6 +2541,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScrapingBee](https://www.scrapingbee.com) `https://mcp.scrapingbee.com/mcp`
   [![ScrapingBee MCP connector](https://glama.ai/mcp/connectors/com.scrapingbee.mcp/scraping-bee/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrapingbee.mcp/scraping-bee)
   🔓 - Fetch any page as text, markdown, HTML or a screenshot past JS and anti-bot blocks; API key needed for tool calls.
+  - [Serpel](https://serpel.app) `https://serpel.app/mcp`
+  [![Serpel MCP connector](https://glama.ai/mcp/connectors/app.serpel/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.serpel/mcp)
+  🔐 - SEO infrastructure for rankings, site audits, keyword research and AI visibility.
+
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   🔐 - Scrape websites and run saved extraction recipes.
 - [Singapore Proxy](https://singaporemobileproxy.com/client/mcp) `https://mcp.singaporemobileproxy.com/mcp`
