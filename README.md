@@ -2506,6 +2506,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
+- [Docspeed](https://api.docspeed.ai/agent-tools/) `https://api.docspeed.ai/mcp/`
+  [![Docspeed MCP connector](https://glama.ai/mcp/connectors/ai.docspeed/docspeed/badges/score.svg)](https://glama.ai/mcp/connectors/ai.docspeed/docspeed)
+  🔑 - Extract fields and answer questions about PDFs and images with source evidence.
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
   [![Exa MCP connector](https://glama.ai/mcp/connectors/ai.exa/exa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exa/exa)
   🔓 - Neural web search that returns full page contents.
