@@ -2833,6 +2833,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DechoNet](https://dechonet.com/mcp) `https://dechonet.com/mcp`
   [![DechoNet MCP connector](https://glama.ai/mcp/connectors/com.dechonet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dechonet/mcp)
   🔓 - Phishing-link checks opened like a Korean phone, plus DNS, TLS, headers, email auth and domain history.
+- [DemiSignal](https://demisignal.com/tools/mcp-server?utm_source=awesome-mcp-servers&utm_medium=mcp-directory) `https://demisignal.com/mcp?utm_source=awesome-mcp-servers`
+  [![DemiSignal MCP connector](https://glama.ai/mcp/connectors/com.demisignal/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.demisignal/mcp)
+  🔓 - Grade a domain's live DMARC, SPF, DKIM, MX, BIMI and MTA-STS records, and generate SPF and DMARC records.
 - [Domain Intelligence](https://oti-labs.com/mcp-server) `https://oti-labs.com/mcp`
   [![Domain Intelligence MCP connector](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence)
   🔓 - WHOIS/RDAP, DNS, SSL, live subdomains with IPs and SPF/DMARC/DKIM for any domain; 1,000 free lookups a month.
