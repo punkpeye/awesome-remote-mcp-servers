@@ -576,6 +576,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Foliyo](https://foliyo.io) `https://foliyo.io/mcp`
   [![Foliyo MCP connector](https://glama.ai/mcp/connectors/io.foliyo/foliyo/badges/score.svg)](https://glama.ai/mcp/connectors/io.foliyo/foliyo)
   🔐 - Create, brand, publish and track client-ready reports, proposals and research pages.
+- [Ginta](https://ginta.app/website-builder-mcp/) `https://ginta.app/mcp`
+  [![Ginta MCP connector](https://glama.ai/mcp/connectors/app.ginta/ginta/badges/score.svg)](https://glama.ai/mcp/connectors/app.ginta/ginta)
+  🔐 - Build, publish and edit hosted websites with working forms, menus, bookings, blogs and an owner admin.
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
