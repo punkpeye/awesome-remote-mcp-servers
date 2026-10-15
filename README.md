@@ -1818,6 +1818,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
+- [The Living Bread](https://mcp.living-bread.org/) `https://mcp.living-bread.org/mcp`
+  [![The Living Bread MCP connector](https://glama.ai/mcp/connectors/org.living-bread.mcp/the-living-bread/badges/score.svg)](https://glama.ai/mcp/connectors/org.living-bread.mcp/the-living-bread)
+  🔓 - Bible passages with evidence labels, cross references, and real Christian communities near you.
 - [Thea](https://thealibrary.org) `https://thealibrary.org/mcp`
   [![Thea MCP connector](https://glama.ai/mcp/connectors/org.thealibrary/thea/badges/score.svg)](https://glama.ai/mcp/connectors/org.thealibrary/thea)
   🔓 - Open, people-curated knowledge library: 1M+ Korean places, people and works, no signup or key.
