@@ -1082,6 +1082,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Korea Ocean Leisure](https://korea-ocean-mcp.picks-site.workers.dev/) `https://korea-ocean-mcp.picks-site.workers.dev/mcp`
   [![Korea Ocean Leisure MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp)
   🔓 - Korean tide times for 42 stations plus fishing, mudflat, beach, surf and scuba forecasts.
+- [MicoRadar](https://micoradar.com/mcp/docs) `https://micoradar.com/mcp`
+  [![MicoRadar MCP connector](https://glama.ai/mcp/connectors/com.micoradar/forecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.micoradar/forecast)
+  🔐 - Wild mushroom forecast for Spain: best areas, point scores and outlooks per species, plus permit-zone checks.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
