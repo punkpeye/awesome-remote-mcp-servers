@@ -3077,6 +3077,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [SiteSpeak](https://sitespeak.ai/docs/managing-your-chatbot/ai-agents) `https://api.sitespeak.ai/mcp`
+  [![SiteSpeak MCP connector](https://glama.ai/mcp/connectors/ai.sitespeak.api/site-speak-chatbot-manager/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sitespeak.api/site-speak-chatbot-manager)
+  🔐 - Manage your SiteSpeak AI website chatbots: analytics, prompts, knowledge sources, leads and the support inbox.
 
 ### 🌍 <a name="translation--localization"></a>Translation & Localization
 
