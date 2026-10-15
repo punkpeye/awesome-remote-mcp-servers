@@ -2321,6 +2321,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet)
   🔓 - Read-only view of the Aether testnet: balances, transactions, miners and its directory of x402-paid services.
 - [AgentaOS](https://agentaos.ai) `https://mcp.agentaos.ai/mcp`
+  [![AgentaOS MCP connector](https://glama.ai/mcp/connectors/ai.agentaos.mcp/agenta-os/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentaos.mcp/agenta-os)
   🔐 - Merchant of record: create products, payment links, checkouts, subscriptions and invoices, with VAT and sales tax handled.
 - [AurasPay](https://auraspay.com/mcp) `https://mcp.auraspay.com/api/mcp`
   [![AurasPay MCP connector](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments/badges/score.svg)](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments)
