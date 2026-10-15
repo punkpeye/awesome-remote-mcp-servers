@@ -2229,6 +2229,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [FastClip](https://fastclips.app/ai-agents) `https://api.fastclip.it/mcp`
+  [![FastClip MCP connector](https://glama.ai/mcp/connectors/app.fastclips/fastclip/badges/score.svg)](https://glama.ai/mcp/connectors/app.fastclips/fastclip)
+  🔐 - Import a video or podcast, find the moment, and cut it into a captioned vertical or original-frame MP4 clip.
 - [FXI Studio](https://www.fxi.studio/mcp/info) `https://mcp.fxi.studio/mcp`
   [![FXI Studio MCP connector](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio)
   🔐 - Generate cinematic images and video clips and frame-chain shots into continuous motion, billed to your FXI credits.
