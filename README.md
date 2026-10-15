@@ -3124,6 +3124,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [esimoa](https://www.esimoa.com) `https://api.esimoa.com/mcp`
   [![esimoa MCP connector](https://glama.ai/mcp/connectors/com.esimoa/esim/badges/score.svg)](https://glama.ai/mcp/connectors/com.esimoa/esim)
   🔓 - Search and compare travel eSIM plans by country, days, data, local number and network, with links to buy on esimoa.
+- [eSIMpass](https://www.esimpass.com/mcp) `https://www.esimpass.com/mcp`
+  🔓 - Travel eSIMs for 200+ countries: live plans and prices, phone check, checkout link, then one-tap install links after purchase.
 - [ExplorersMap Travel Log](https://explorersmap.net/mcp) `https://explorersmap.net/mcp`
   [![ExplorersMap Travel Log MCP connector](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log/badges/score.svg)](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log)
   🔓 - Travel log: mark countries, regions and places, build trips, read stats and rankings; tools need a key.
@@ -3176,6 +3178,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
   [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
   🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
+- [Portugal Internet eSIM](https://www.portugalinternet.com/mcp) `https://www.portugalinternet.com/mcp`
+  🔓 - Unlimited-data eSIM for Portugal, Madeira and the Azores: live price for the trip dates and a booking link with them chosen.
 - [PriceWin](https://www.price.win/) `https://mcp.price.win/mcp`
   [![PriceWin MCP connector](https://glama.ai/mcp/connectors/win.price/pricewin/badges/score.svg)](https://glama.ai/mcp/connectors/win.price/pricewin)
   🔓 - Compare live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, in USD.
