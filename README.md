@@ -2249,6 +2249,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Propely Singapore Property](https://propely.sg) `https://mcp.propely.sg/`
   [![Propely Singapore Property MCP connector](https://glama.ai/mcp/connectors/sg.propely/singapore-property/badges/score.svg)](https://glama.ai/mcp/connectors/sg.propely/singapore-property)
   🔓 - Singapore stamp duty (BSD, ABSD, SSD), TDSR, loan tenure and net proceeds calculators, from Propely.
+- [RealtyCrawl](https://realtycrawl.dev) `https://realtycrawl.dev/mcp`
+  [![RealtyCrawl MCP connector](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl/badges/score.svg)](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl)
+  🔓 - Discover real estate capabilities and source-linked observations; data calls require an API key and credits.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
