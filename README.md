@@ -2251,6 +2251,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klox](https://klox.ai/agent) `https://klox.ai/mcp`
   [![Klox MCP connector](https://glama.ai/mcp/connectors/ai.klox/klox/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klox/klox)
   🔐 - Plan and edit AI videos on canvases: script, storyboard, shots and final cut.
+- [MakeAIVideo](https://makeaivideo.ai/docs/mcp) `https://mcp.makeaivideo.ai`
+  [![MakeAIVideo MCP connector](https://glama.ai/mcp/connectors/ai.makeaivideo/video-generator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.makeaivideo/video-generator)
+  🔐 - Create short AI videos with voiceover, scenes, captions and music, then post them to your connected social accounts.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
