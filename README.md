@@ -579,6 +579,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [Kleap](https://kleap.co/mcp) `https://kleap.co/api/mcp`
+  [![Kleap MCP connector](https://glama.ai/mcp/connectors/co.kleap/kleap/badges/score.svg)](https://glama.ai/mcp/connectors/co.kleap/kleap)
+  🔓 - Build, edit, publish and manage real websites and web apps from your AI agent.
 - [Lediv](https://lediv.com) `https://lediv.app/mcp`
   [![Lediv MCP connector](https://glama.ai/mcp/connectors/app.lediv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.lediv/mcp)
   🔐 - Visual website builder synced with real code: edit files, publish, roll back, manage domains and previews.
