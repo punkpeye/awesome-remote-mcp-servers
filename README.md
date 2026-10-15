@@ -419,6 +419,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Costory](https://docs.costory.io/features/mcp) `https://app-api.costory.io/mcp`
   [![Costory MCP connector](https://glama.ai/mcp/connectors/io.costory.app-api/costory/badges/score.svg)](https://glama.ai/mcp/connectors/io.costory.app-api/costory)
   🔐 - FinOps agent backend: query, allocate and explain AWS, GCP, Azure, Kubernetes and AI spend.
+- [Crow Nest](https://crow-nest.com) `https://crow-nest.com/mcp`
+  [![Crow Nest MCP connector](https://glama.ai/mcp/connectors/com.crow-nest/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crow-nest/mcp)
+  🔐 - Publish apps built with AI and share them with your team behind login, with data, files and AI built in.
 - [DropTheHassle](https://dropthehassle.com) `https://dropthehassle.com/mcp`
   [![DropTheHassle MCP connector](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle)
   🔓 - Publish static sites to a free HTTPS link or your own domain and check domain prices; account tools need a token.
