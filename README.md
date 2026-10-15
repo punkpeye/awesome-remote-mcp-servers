@@ -2344,6 +2344,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpendPreflight](https://spendpreflight.com) `https://api.spendpreflight.com/mcp`
   [![SpendPreflight MCP connector](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight)
   🔓 - Operated by SpendPreflight: sanctions screening and payment preflight, paid via x402 with a free trial.
+- [SpendGate](https://spendgate.toolweather.workers.dev) `https://spendgate.toolweather.workers.dev/mcp`
+  [![SpendGate MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/spendgate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/spendgate)
+  🔓 - Score a planned spend before an agent pays (approve / ask_human / block). Free tier; overage via x402 USDC on Base.
 - [Square](https://squareup.com) `https://mcp.squareup.com/mcp`
   🔐 - Manage Square catalog, orders, payments, and customers.
 - [Stripe](https://stripe.com) `https://mcp.stripe.com`
