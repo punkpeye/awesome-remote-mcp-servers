@@ -1209,6 +1209,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+- [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
+  [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
+  🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
 - [Compabase](https://compabase.com/mcp) `https://compabase.com/api/mcp`
   [![Compabase MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/compabase/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/compabase)
   🔓 - 3M+ Polish companies from KRS and CEIDG: financials, board members, rankings, tenders and public registries.
