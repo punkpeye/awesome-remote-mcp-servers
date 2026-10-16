@@ -1028,6 +1028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [MindDory](https://minddory.com/connect) `https://api.minddory.com/v1/brain/mcp`
+  [![MindDory MCP connector](https://glama.ai/mcp/connectors/com.minddory/brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.minddory/brain)
+  🔐 - Save words and grammar mistakes from AI chats as flashcards, check known words and review the due queue.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
