@@ -3447,3 +3447,4 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+- [QWK ($QWK) Autonomous MEV & Seed Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Hosted WebMCP (`https://chase-tqg.github.io/QWIK-MEV-Core/.well-known/mcp.json`), A2A v1.0 (`/.well-known/agent.json`), and x402 (`/.well-known/x402.json`) endpoints for verifying $400,000+ enterprise grants and allocating seed capital to `QWKResourceEscrow.sol`.
