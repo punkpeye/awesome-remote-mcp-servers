@@ -475,6 +475,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
   
 ### 💬 <a name="communication"></a>Communication
+- [Agentic Sinkhole Research](https://docs.rocketship.sh/llms.txt) `https://mcp.rocketship.sh/mcp`
+  🔓 - Zero auth inbox + OTP extract, ephemeral state, webhook bin, wake relay for agent sandboxes (research honeypot; traffic logged; do not send secrets).
 
 - [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
   [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
