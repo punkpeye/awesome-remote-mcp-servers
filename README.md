@@ -1458,6 +1458,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signed Investors](https://mcp.signed.com/investors) `https://mcp.signed.com/investors`
   [![Signed Investors MCP connector](https://glama.ai/mcp/connectors/com.signed.mcp/signed-investors/badges/score.svg)](https://glama.ai/mcp/connectors/com.signed.mcp/signed-investors)
   🔓 - Search a public directory of angel investors by sector, check size, or keyword, with no account needed.
+- [Signo](https://signo.fi) `https://app.signo.fi/api/mcp`
+  [![Signo MCP connector](https://glama.ai/mcp/connectors/fi.signo/signo/badges/score.svg)](https://glama.ai/mcp/connectors/fi.signo/signo)
+  🔓 - Drafts AI agents that watch DeFi positions (health factor, LP range, Pendle maturity) for the wallet owner to sign.
 - [Silicon Floor](https://siliconfloor.com/docs/mcp) `https://siliconfloor.com/mcp`
   [![Silicon Floor MCP connector](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor/badges/score.svg)](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
   🔓 - Follow the smart money in AI stocks: who owns what, what insiders and hedge funds buy and sell, straight from the SEC.
