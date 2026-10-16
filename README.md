@@ -2866,6 +2866,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [Prompt Injection Scanner](https://tools.openkrill.app/#injection-scan) `https://injectionscan.openkrill.app/mcp`
+  [![Prompt Injection Scanner MCP connector](https://glama.ai/mcp/connectors/app.openkrill/injection-scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/injection-scan)
+  🔓 - Check text before your agent reads it: hidden instructions, invisible characters and links that leak data.
 - [PromptBrake Free Tools](https://promptbrake.com/free-tools) `https://promptbrake.com/free-tools/mcp`
   [![PromptBrake Free Tools MCP connector](https://glama.ai/mcp/connectors/io.github.AJ888/promptbrake-free-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AJ888/promptbrake-free-tools)
   🔓 - Prompt-injection payloads, OWASP LLM risk guidance, release planning, and CI test-pack creation.
