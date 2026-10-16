@@ -1264,7 +1264,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
 - [FactIQ](https://www.factiq.com) `https://api.factiq.com/mcp`
-  [![FactIQ MCP connector](https://glama.ai/mcp/connectors/com.factiq/factiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.factiq/factiq)
+  [![FactIQ MCP connector](https://glama.ai/mcp/connectors/com.factiq.api/factiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.factiq.api/factiq)
   🔐 - Official economic statistics, company filings, earnings calls and market data, with sources cited.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
