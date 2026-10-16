@@ -386,6 +386,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Whimsical](https://whimsical.com/mcp) `https://mcp.whimsical.com/mcp`
   [![Whimsical MCP connector](https://glama.ai/mcp/connectors/com.whimsical/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.whimsical/mcp)
   🔐 - Turn prompts into editable flowcharts, mind maps, sequence diagrams and wireframes, and search your Whimsical workspace.
+- [WikiBrand](https://wikibrand.org) `https://wikibrand.org/api/mcp`
+  [![WikiBrand MCP connector](https://glama.ai/mcp/connectors/org.wikibrand/wikibrand/badges/score.svg)](https://glama.ai/mcp/connectors/org.wikibrand/wikibrand)
+  🔓 - Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from its own website.
   
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
