@@ -2486,7 +2486,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
 ### 🚗 <a name="sales"></a>Sales
 
-- [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
+- [EximAgent](https://eximagent.ai/connectors) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
