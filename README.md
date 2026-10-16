@@ -3115,6 +3115,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EasyGroupFlights](https://easygroupflights.com/group-flights-mcp/) `https://mcp.easygroupflights.com/mcp`
   [![EasyGroupFlights MCP connector](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights/badges/score.svg)](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights)
   🔓 - Request group flight quotes for 10+ travellers from a human specialist desk; live fares for smaller parties.
+- [entityindex.ai](https://entityindex.ai/mcp-info/) `https://entityindex.ai/mcp`
+  [![entityindex.ai MCP connector](https://glama.ai/mcp/connectors/ai.entityindex/entityindex/badges/score.svg)](https://glama.ai/mcp/connectors/ai.entityindex/entityindex)
+  🔓 - Verified hotels in Andorra with spa, pets, ski-in and family filters and official booking links.
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only data for Polish short-term rental owners: reservations, availability, pricing and reviews.
