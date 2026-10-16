@@ -1621,7 +1621,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
 - [Ludo AI](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo AI MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
-  🔓 - Generate game assets: sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; calls need a Ludo API key.
+  🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
 - [Playable Gift](https://playablegift.com) `https://playablegift.com/mcp`
   [![Playable Gift MCP connector](https://glama.ai/mcp/connectors/com.playablegift/playable-gift/badges/score.svg)](https://glama.ai/mcp/connectors/com.playablegift/playable-gift)
   🔓 - Make, save and revise personal browser games, then share a gift link with the recipient.
