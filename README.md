@@ -1419,6 +1419,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Radicado Uno](https://radicadouno.co/mcp) `https://mcp.radicadouno.co/mcp`
   [![Radicado Uno MCP connector](https://glama.ai/mcp/connectors/co.radicadouno/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.radicadouno/mcp)
   🔓 - Colombian company and procurement data by NIT (registry, contracts, sanctions). Free lookup; data tools need a key.
+- [Radikabunavi](https://radikabunavi.com/mcp-service) `https://radikabunavi.com/mcp`
+  [![Radikabunavi MCP connector](https://glama.ai/mcp/connectors/com.radikabunavi/japan-stock-edinet/badges/score.svg)](https://glama.ai/mcp/connectors/com.radikabunavi/japan-stock-edinet)
+  🔐 - Japanese listed-company data from EDINET and TDnet: financials, 6-axis score, ideal price, DCF, screening.
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
