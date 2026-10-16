@@ -2972,6 +2972,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostNext](https://postnext.io/mcp) `https://mcp.postnext.io/api`
   [![PostNext MCP connector](https://glama.ai/mcp/connectors/io.postnext/postnext/badges/score.svg)](https://glama.ai/mcp/connectors/io.postnext/postnext)
   🔐 - Draft, schedule and publish to X, Instagram, LinkedIn, TikTok and more, plus channel analytics.
+- [PostWharf](https://postwharf.com/developers) `https://mcp.postwharf.com/mcp`
+  [![PostWharf MCP connector](https://glama.ai/mcp/connectors/com.postwharf/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.postwharf/mcp)
+  🔑 - Schedule and publish posts to Instagram, TikTok, X, LinkedIn, YouTube and five more social networks.
 - [PostWire](https://postwire.io/mcp/) `https://postwire.io/api/mcp`
   [![PostWire MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp)
   🔓 - Write a native post per network from one idea and publish it to TikTok, Instagram, YouTube and more; tools need OAuth.
