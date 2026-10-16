@@ -3396,6 +3396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
+- [NatalChart.AI](https://www.natalchart.ai/astrology-mcp-server) `https://www.natalchart.ai/mcp`
+  [![NatalChart.AI MCP connector](https://glama.ai/mcp/connectors/ai.natalchart/astrology/badges/score.svg)](https://glama.ai/mcp/connectors/ai.natalchart/astrology)
+  🔓 - Swiss Ephemeris natal charts, transits, synastry, solar returns and astrocartography; calls need a free API key.
 - [Penny Press](https://www.pennypress.org) `https://www.pennypress.org/mcp`
   [![Penny Press MCP connector](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press)
   🔓 - Original essays on freedom, economics and philosophy; free for humans, pay-per-read for machines via x402 micropayments.
