@@ -890,6 +890,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
+- [Stresix](https://stresix.com/mcp/) `https://stresix.com/mcp`
+  [![Stresix MCP connector](https://glama.ai/mcp/connectors/com.stresix/stresix/badges/score.svg)](https://glama.ai/mcp/connectors/com.stresix/stresix)
+  🔑 - Load test your app on a real server: builds a repo or Docker image, sends up to 10,000 users, and reports p95, errors and what ran out first.
 - [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
