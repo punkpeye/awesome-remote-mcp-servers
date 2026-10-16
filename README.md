@@ -1173,6 +1173,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BackPow PoW Oracle](https://backpow.com/mcp) `https://mcp.backpow.com/mcp`
   [![BackPow PoW Oracle MCP connector](https://glama.ai/mcp/connectors/com.backpow/pow-mining-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.backpow/pow-mining-oracle)
   🔓 - Live PoW mining data for 126+ networks: difficulty, hashrate, solo-mining odds, cost of production, hardware profit.
+- [Bankday](https://bankday.dev) `https://bankday.dev/mcp`
+  [![Bankday MCP connector](https://glama.ai/mcp/connectors/io.github.ParsingMAINFRAME/bankday/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ParsingMAINFRAME/bankday)
+  🔑 - Business days, bank holidays and settlement dates for ACH, TARGET2, Bacs, 28 stock exchanges and 247 countries.
 - [Barakah Halal Stock Screen](https://barakahprofits.com) `https://app.barakahprofits.com/mcp`
   [![Barakah Halal Stock Screen MCP connector](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen/badges/score.svg)](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen)
   🔓 - Halal (Sharia) screen for US stocks: AAOIFI-style checks plus the dated history of each verdict change.
