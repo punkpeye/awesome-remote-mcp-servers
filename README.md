@@ -2502,6 +2502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
   [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
   🔐 - Find buyers, run LinkedIn, email and X outreach from your own accounts, and approve drafted replies.
+- [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
+  [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
+  🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
