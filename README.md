@@ -1019,6 +1019,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
+- [Vouchernaut](https://vouchernaut.com/mcp) `https://vouchernaut.com/mcp`
+  [![Vouchernaut MCP connector](https://glama.ai/mcp/connectors/com.vouchernaut/deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.vouchernaut/deals)
+  🔓 - 13 read-only UK tools for discount codes, product prices/drops, phone/SIM deals, events, parking, software and polls.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
