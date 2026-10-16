@@ -875,6 +875,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Show It Works](https://showitworks.app) `https://showitworks.app/api/mcp`
   [![Show It Works MCP connector](https://glama.ai/mcp/connectors/app.showitworks/show-it-works/badges/score.svg)](https://glama.ai/mcp/connectors/app.showitworks/show-it-works)
   🔓 - Public tool discovery; uploading verification videos and sharing viewer links require an API key.
+- [sinatra.dev](https://www.sinatra.dev) `https://api.sinatra.dev/v1/mcp`
+  [![sinatra.dev MCP connector](https://glama.ai/mcp/connectors/dev.sinatra/sinatra/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sinatra/sinatra)
+  🔐 - Hosted coding agent: start, follow, reply to and stop tasks that open GitHub pull requests.
 - [SkillAgent](https://skillagent.dev) `https://skillagent.dev/mcp`
   [![SkillAgent MCP connector](https://glama.ai/mcp/connectors/dev.skillagent/skills/badges/score.svg)](https://glama.ai/mcp/connectors/dev.skillagent/skills)
   🔓 - Search, rank and get install steps for AI agent skills, rules files and MCP servers indexed from GitHub.
