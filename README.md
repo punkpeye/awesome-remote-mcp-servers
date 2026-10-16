@@ -303,6 +303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Consignatarias](https://www.consignatarias.com.ar) `https://www.consignatarias.com.ar/api/mcp`
   [![Consignatarias MCP connector](https://glama.ai/mcp/connectors/ar.com.consignatarias/cattle-market/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.consignatarias/cattle-market)
   🔓 - Argentine cattle market: daily steer index since 2015, category prices, land values and SENASA health rules.
+- [Lawn Care Center](https://lawncare.center/docs/agents/connect-mcp) `https://lawncare.center/mcp`
+  [![Lawn Care Center MCP connector](https://glama.ai/mcp/connectors/center.lawncare/lawncare-center/badges/score.svg)](https://glama.ai/mcp/connectors/center.lawncare/lawncare-center)
+  🔓 - Lawn care guides with state- and city-specific timing; search, read full guides and cite sources.
 - [upCampo](https://suporte.upcampo.com.br/mcp/) `https://mcp.upcampo.com.br/mcp`
   [![upCampo MCP connector](https://glama.ai/mcp/connectors/br.com.upcampo/upi/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.upcampo/upi)
   🔐 - Farm management for Brazil: pest scouting, work orders, inventory, fleet and cost per field.
@@ -1709,6 +1712,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [BuildFeed](https://buildfeed.tech/docs/mcp/overview) `https://buildfeed.tech/api/mcp`
+  [![BuildFeed MCP connector](https://glama.ai/mcp/connectors/tech.buildfeed/buildfeed/badges/score.svg)](https://glama.ai/mcp/connectors/tech.buildfeed/buildfeed)
+  🔓 - Startup, product and design takes from curated tech YouTube, with timestamped transcript passages to cite.
 - [Continuity](https://continuitywriter.com) `https://continuitywriter.com/mcp`
   [![Continuity MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity)
   🔓 - Remembers your writing project across chats: story bible, characters, timeline and continuity checks.
