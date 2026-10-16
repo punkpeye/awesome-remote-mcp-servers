@@ -2589,6 +2589,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
+- [BOIM](https://boim.io) `https://boim.io/api/mcp`
+  [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
+  🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
