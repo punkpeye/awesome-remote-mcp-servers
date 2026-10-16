@@ -1664,6 +1664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
+- [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
+  [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
+  🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
