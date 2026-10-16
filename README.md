@@ -894,6 +894,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
+- [TheySaid](https://www.theysaid.io) `https://ai.theysaid.io/api/mcp`
+  [![TheySaid MCP connector](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said/badges/score.svg)](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said)
+  🔐 - Search customer feedback and run AI usability tests on any website or design.
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
 - [ToolForte](https://toolforte.com/mcp) `https://toolforte.com/api/mcp`
