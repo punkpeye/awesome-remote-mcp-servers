@@ -362,6 +362,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PartForge](https://www.partforge.ai) `https://www.partforge.ai/mcp`
   [![PartForge MCP connector](https://glama.ai/mcp/connectors/ai.partforge/partforge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.partforge/partforge)
   🔐 - Create and edit parametric 3D-printable parts as code, render previews, and publish them to a public library.
+- [Pastefield](https://pastefield.com/mcp) `https://pastefield.com/api/mcp`
+  [![Pastefield MCP connector](https://glama.ai/mcp/connectors/com.pastefield/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pastefield/mcp)
+  🔐 - Give Claude a whiteboard: place notes, links, images and diagrams on a board you both edit.
 - [ProfessionalHeadshot.io](https://professionalheadshot.io) `https://professionalheadshot.io/api/mcp`
   [![ProfessionalHeadshot.io MCP connector](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot)
   🔓 - Official LinkedIn, Slack and GitHub profile photo specs with sources, headshot style guides and a free headshot audit.
