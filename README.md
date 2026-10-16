@@ -2317,6 +2317,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💳 <a name="payments"></a>Payments
 
+- [402MCP](https://402mcp.org) `https://402mcp.org/api/v1/mcp`
+  [![402MCP MCP connector](https://glama.ai/mcp/connectors/org.402mcp/registry/badges/score.svg)](https://glama.ai/mcp/connectors/org.402mcp/registry)
+  🔓 - Decodes HTTP 402 challenges (L402, x402, MPP) and recommends agent payment rails from an open registry.
 - [Aether](https://explorer.157-245-252-221.sslip.io) `https://explorer.157-245-252-221.sslip.io/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet)
   🔓 - Read-only view of the Aether testnet: balances, transactions, miners and its directory of x402-paid services.
