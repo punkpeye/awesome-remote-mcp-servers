@@ -2556,6 +2556,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [Research Methods Library](https://research-methods-mcp.vercel.app/) `https://research-methods-mcp.vercel.app/mcp`
+  [![Research Methods Library MCP connector](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp)
+  🔓 - Study designs, assumptions, runnable R and Python code, and citations from research methods textbooks.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
