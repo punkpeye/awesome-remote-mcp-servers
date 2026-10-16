@@ -3442,6 +3442,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – servers you run locally
 * [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) – clients that speak MCP
 * [glama.ai/mcp/connectors](https://glama.ai/mcp/connectors) – searchable directory of remote servers
+- [wealth-agent](https://github.com/jukky-source/wealth-agent) - Pay-per-call MCP tools over x402 plus a free tier. Streamable HTTP, no account or API key. [Live](https://wealth-agent.wealthagent-app.workers.dev)
 
 ## Contributing
 
