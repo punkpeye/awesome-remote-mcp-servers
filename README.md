@@ -3380,6 +3380,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
+- [Fair Random](https://tools.intoperson.com/) `https://tools.intoperson.com/mcp/random`
+  [![Fair Random MCP connector](https://glama.ai/mcp/connectors/com.intoperson.tools/fair-random/badges/score.svg)](https://glama.ai/mcp/connectors/com.intoperson.tools/fair-random)
+  🔓 - Dice, coin flips, random integers, list picks and shuffles, each with a seed so anyone can replay and check the result.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
@@ -3393,6 +3396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
+- [Lottery Numbers](https://tools.intoperson.com/) `https://tools.intoperson.com/mcp/lottery`
+  [![Lottery Numbers MCP connector](https://glama.ai/mcp/connectors/com.intoperson.tools/lottery-numbers/badges/score.svg)](https://glama.ai/mcp/connectors/com.intoperson.tools/lottery-numbers)
+  🔓 - Lottery picks for Lotto 6/45, Powerball and Mega Millions, past winning numbers and ticket checks.
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
