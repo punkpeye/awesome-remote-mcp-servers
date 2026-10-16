@@ -2580,6 +2580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Company Index](https://agentcompanyindex.com) `https://agentcompanyindex.com/mcp`
   [![Agent Company Index MCP connector](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory)
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
+- [Agent Data Co](https://agentdataco.com) `https://agentdataco.com/mcp`
+  [![Agent Data Co MCP connector](https://glama.ai/mcp/connectors/com.agentdataco/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentdataco/api)
+  🔓 🔑 - Daily AI-ecosystem feeds with history: GitHub AI/MCP repos, MCP registry, HF trending, LLM pricing.
 - [Ambolt](https://ambolt.dev) `https://api.ambolt.dev/mcp`
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
