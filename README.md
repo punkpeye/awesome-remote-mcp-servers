@@ -1052,6 +1052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cigo Aircare & Carsafe](https://cigo-mcp-system-wzoy.onrender.com/docs) `https://cigo-mcp-system-wzoy.onrender.com/mcp/`
   [![Cigo Aircare & Carsafe MCP connector](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp)
   🔓 - HVAC filter specifications and power comparisons, vehicle cabin filter matching, and regional air-quality guidance.
+- [Criora](https://criora.com) `https://criora.com/mcp`
+  [![Criora MCP connector](https://glama.ai/mcp/connectors/com.criora/criora/badges/score.svg)](https://glama.ai/mcp/connectors/com.criora/criora)
+  🔓 - Climate and disaster risk for any place: floods, heat, storms, wildfires and earthquakes nearby, 7-day weather risk, climate projections to 2050/2080, country risk and an interactive map.
 - [Datakoot Weather & Geo](https://datakoot.com/weather-geo) `https://weather.datakoot.com/mcp`
   [![Datakoot Weather & Geo MCP connector](https://glama.ai/mcp/connectors/com.datakoot/us-weather-forecast-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/us-weather-forecast-alerts)
   🔓 - NWS forecasts and alerts, current conditions, USGS earthquakes, elevation and US address geocoding.
