@@ -2854,6 +2854,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Movahedi Privacy](https://movahedi.ca/mcp) `https://movahedi.ca/mcp`
   [![Movahedi Privacy API MCP server](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api/badges/score.svg)](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api)
   🔓 - Canadian privacy compliance: enforcement actions, glossary and Law 25 checks.
+- [NetAPI](https://netapi.com/help/mcp/) `https://mcp.netapi.com/mcp`
+  [![NetAPI MCP connector](https://glama.ai/mcp/connectors/com.netapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.netapi/mcp)
+  🔐 - Domain intelligence: compromised domain and IP checks, TLD stats, Top 1M ranks, new domains, registrars and DNS.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
