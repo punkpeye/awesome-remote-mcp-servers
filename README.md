@@ -2046,6 +2046,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NumberBroom](https://numberbroom.com/mcp-server) `https://numberbroom.com/mcp`
   [![NumberBroom MCP connector](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp)
   🔓 - Check a US phone's line type, carrier and TCPA litigator status before dialing; tools need a prepaid key.
+- [Nuqti](https://nuqti.com/mcp) `https://nuqti.com/api/public/mcp`
+  [![Nuqti MCP connector](https://glama.ai/mcp/connectors/com.nuqti/nuqti-ahrefs-alternative-seo-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.nuqti/nuqti-ahrefs-alternative-seo-data)
+  🔓 - SEO data: domain overview, backlinks, referring domains, link history, keyword ideas and on-page checks.
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
