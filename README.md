@@ -2703,6 +2703,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pollar News](https://mcp.pollar.news/) `https://mcp.pollar.news/mcp`
   [![Pollar News MCP connector](https://glama.ai/mcp/connectors/news.pollar/pollar-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.pollar/pollar-news)
   🔓 - Independent European news in four languages: search with sources, explainers with maps, briefs and live stories.
+- [PrintFriendly](https://www.printfriendly.com/help/api-mcp) `https://mcp.printfriendly.com`
+  [![PrintFriendly MCP connector](https://glama.ai/mcp/connectors/com.printfriendly/printfriendly/badges/score.svg)](https://glama.ai/mcp/connectors/com.printfriendly/printfriendly)
+  🔑 - Read any web page as clean Markdown, or make a PDF, Word or Markdown file from a URL, HTML or Markdown.
 - [Proxmint](https://proxmint.com) `https://proxmint.com/api/mcp`
   [![Proxmint MCP connector](https://glama.ai/mcp/connectors/com.proxmint/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxmint/mcp)
   🔓 - Proxy prices, balance, usage, geo-targeted proxy lines and connection checks; account tools need an API key.
