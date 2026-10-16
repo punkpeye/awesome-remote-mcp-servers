@@ -2146,6 +2146,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Codex Reset](https://codex-reset.com/developers) `https://codex-reset.com/mcp`
   [![Codex Reset MCP connector](https://glama.ai/mcp/connectors/com.codex-reset/codex-reset/badges/score.svg)](https://glama.ai/mcp/connectors/com.codex-reset/codex-reset)
   🔓 - Codex usage-limit reset odds for the next 24/48h, past resets and Codex service status.
+- [ConnectorReport](https://connectorreport.com/mcp) `https://connectorreport.com/api/mcp`
+  [![ConnectorReport MCP connector](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport/badges/score.svg)](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport)
+  🔓 - Dated, hands-on test results for remote MCP servers: pass rate, sign-in method, gotchas and fix recipes.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
