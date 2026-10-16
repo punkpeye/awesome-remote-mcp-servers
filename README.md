@@ -1016,7 +1016,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tiana & Co. Seller Compliance](https://www.tiana-co.com/for-ai) `https://www.tiana-co.com/api/mcp`
   [![Tiana & Co. Seller Compliance MCP connector](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks)
   🔓 - Which certificate (CPC, GCC, FCC, FDA), what marketplaces ask, supplier blacklists, customs holds.
-- [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
+- [Ucun Select](https://ucunhome.com) `https://ucunhome.com/mcp`
+  [![Ucun Select MCP connector](https://glama.ai/mcp/connectors/com.ucunhome/ucunhome/badges/score.svg)](https://glama.ai/mcp/connectors/com.ucunhome/ucunhome)
+  🔓 - Search in-stock home textiles & fabrics (bedding sets, blankets, fabrics) from Nantong, China: live prices, stock and MOQ via remote MCP.
+   [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
