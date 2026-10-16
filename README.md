@@ -921,6 +921,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![VibeRaven Guides MCP connector](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides)
   🔓 - Explains VibeRaven findings and returns launch guides and checklists for Vercel + Supabase apps, read-only.
 - [wealth-agent](https://wealth-agent.wealthagent-app.workers.dev) `https://wealth-agent.wealthagent-app.workers.dev/api/mcp`
+  [![wealth-agent MCP connector](https://glama.ai/mcp/connectors/io.github.jukky-source/wealth-agent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jukky-source/wealth-agent)
+  🔓 - Seven pay-per-call utility tools for agents (research briefs, data cleaning, code review, URL metadata, CSV/JSON conversion, regex extraction, diff), paid per call with x402 in USDC on Base and Solana, so no account or API key is needed.
 - [web3ctx](https://web3ctx.scarai.xyz) `https://mcp.scarai.xyz/mcp`
   [![web3ctx MCP connector](https://glama.ai/mcp/connectors/io.github.FarseenSh/web3ctx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FarseenSh/web3ctx)
   🔓 - Version-true web3 context: validated integration recipes, EIPs, ABIs and contract addresses.
