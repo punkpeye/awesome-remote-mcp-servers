@@ -2980,7 +2980,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
 - [ScrapeLads](https://scrapelads.com/mcp-server/) `https://scrapelads.com/mcp`
   [![ScrapeLads MCP connector](https://glama.ai/mcp/connectors/com.scrapelads/scrapelads/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrapelads/scrapelads)
-  🔐 - Find TikTok creators with contact emails, resolve YouTube channel emails, and transcribe videos from TikTok, Instagram, YouTube and X.
+  🔓 - Find TikTok creators with contact emails, resolve YouTube channel emails, and transcribe videos from TikTok, Instagram, YouTube and X. Tool calls need a free Apify API key.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
