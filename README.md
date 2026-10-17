@@ -1913,6 +1913,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [Appie.run](https://appie.run) `https://appie.run/mcp`
+  [![Appie.run MCP connector](https://glama.ai/mcp/connectors/io.github.appierun/appie/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.appierun/appie)
+  🔑 - Write brand-voice articles, update brand context, train and query website chatbots, and create short links.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
