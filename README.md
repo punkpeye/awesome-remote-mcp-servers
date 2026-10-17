@@ -1028,6 +1028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [Laplace’s Mini World](https://world.lapla.si/en/api/) `https://world.lapla.si/mcp`
+  [![Laplace’s Mini World MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp)
+  🔓 - Find and open 100+ interactive 3D science models live in the chat, in Chinese and English; read-only.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
@@ -1971,6 +1974,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Formgong](https://formgong.com) `https://formgong.com/mcp`
   [![Formgong MCP connector](https://glama.ai/mcp/connectors/com.formgong/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.formgong/mcp)
   🔓 - Create contact forms and get HTML/React/Next.js snippets; discovery is open, every tool call needs a sign-in.
+- [Formquote](https://pcba-quote-lab.pages.dev/en/) `https://formquote-mcp.chen-yu-d1.workers.dev/mcp`
+  [![Formquote MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/formquote-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/formquote-mcp)
+  🔓 - Compare email verification credit prices, sound-effect licences and font licences from a live public catalogue.
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
