@@ -1391,6 +1391,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OptionsAhoy](https://optionsahoy.com/for-agents) `https://optionsahoy.com/mcp`
   [![OptionsAhoy MCP connector](https://glama.ai/mcp/connectors/io.github.AlvisoOculus/optionsahoy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AlvisoOculus/optionsahoy-mcp)
   🔓 - US equity-comp tax math: ISO/AMT exercise plans, RSU and NSO sell-or-hold, QSBS, hedges, cash-goal sell plans.
+- [OwlChart](https://owlchart.com) `https://owlchart.com/mcp`
+  [![OwlChart MCP connector](https://glama.ai/mcp/connectors/com.owlchart/owlchart/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlchart/owlchart)
+  🔐 - Live crypto and stock data: liquidity magnets, open interest on 13 exchanges, order books, ETF flows, insiders.
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
