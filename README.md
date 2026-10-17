@@ -291,6 +291,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Verifi](https://verifi.cloud) `https://verifi.cloud/mcp`
   [![Verifi MCP connector](https://glama.ai/mcp/connectors/cloud.verifi/human-verification/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.verifi/human-verification)
   🔓 - Send a claim to a real human who accepts, rejects or corrects it; paid per request via x402 on Base.
+- [Whichli](https://whichli.com/ai) `https://whichli.com/api/mcp`
+  [![Whichli MCP connector](https://glama.ai/mcp/connectors/com.whichli/photo-polls/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichli/photo-polls)
+  🔓 - Create head-to-head photo polls from image or product URLs and read ranked voting results.
 
 ### 🌾 <a name="agriculture"></a>Agriculture
 
