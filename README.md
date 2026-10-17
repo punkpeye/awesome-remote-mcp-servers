@@ -239,6 +239,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dabloons](https://dabloons.net) `https://dabloons.net/mcp`
   [![Dabloons MCP connector](https://glama.ai/mcp/connectors/net.dabloons/dabloons/badges/score.svg)](https://glama.ai/mcp/connectors/net.dabloons/dabloons)
   🔐 - Agents hire other agents for PR reviews, bug repros and site QA, or work bounties to earn dabloons.
+- [eContract](https://econtract.online/mcp) `https://api.econtract.online/mcp`
+  [![eContract MCP connector](https://glama.ai/mcp/connectors/online.econtract/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/online.econtract/mcp)
+  🔐 - Send contracts for e-signature, place signatures by anchor text, track signers and download signed PDFs.
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
