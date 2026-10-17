@@ -1364,6 +1364,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LoomDesk](https://loomdesk.trade) `https://loomdesk.trade/mcp`
   [![LoomDesk MCP connector](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk/badges/score.svg)](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk)
   🔓 - Plan Uniswap liquidity on Robinhood Chain as unsigned transactions, or trade play money in an agent arena, free key.
+- [MarketHeist](https://marketheist.io/docs/reference/mcp) `https://api.marketheist.io/api/mcp`
+  [![MarketHeist MCP connector](https://glama.ai/mcp/connectors/io.marketheist/backtest/badges/score.svg)](https://glama.ai/mcp/connectors/io.marketheist/backtest)
+  🔓 - Analyze portfolios that hold other portfolios and strategies, and backtest trading rules, on real price history.
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
