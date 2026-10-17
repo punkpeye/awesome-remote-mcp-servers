@@ -3002,6 +3002,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+- [TG Market](https://tgmarket.io/docs/mcp) `https://tgmarket.io/mcp`
+  [![TG Market MCP connector](https://glama.ai/mcp/connectors/io.tgmarket/tgmarket/badges/score.svg)](https://glama.ai/mcp/connectors/io.tgmarket/tgmarket)
+  🔐 - Search millions of public Telegram channels: metrics, history, posts, keyword trends and export quotes.
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
