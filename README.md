@@ -3194,6 +3194,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
   🔓 - Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.
+- [TicketGlide Travel Guides](https://ticketglide.com/) `https://ticketglide.com/api/mcp`
+  [![TicketGlide Travel Guides MCP connector](https://glama.ai/mcp/connectors/com.ticketglide/travel-guides/badges/score.svg)](https://glama.ai/mcp/connectors/com.ticketglide/travel-guides)
+  🔓 - Search and read destination and attraction guides, and create search links for tours and day trips.
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
