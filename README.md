@@ -1595,6 +1595,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RestaurantDoctorAI Profit Check](https://restaurantdoctorai.com/ai-assistants) `https://restaurantdoctorai.com/api/mcp`
   [![RestaurantDoctorAI Profit Check MCP connector](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check)
   🔓 - Free 12-question restaurant profit check that returns a grade and the biggest money leak.
+- [Scern](https://scern.app) `https://api.scern.app/mcp`
+  [![Scern MCP connector](https://glama.ai/mcp/connectors/app.scern.api/scern/badges/score.svg)](https://glama.ai/mcp/connectors/app.scern.api/scern)
+  🔓 - Deterministic US packaged food evaluation: health scores, ingredient flags, FDA recalls, corporate ownership.
 - [TableJourney](https://tablejourney.com/agents/) `https://tablejourney.com/mcp`
   [![TableJourney MCP connector](https://glama.ai/mcp/connectors/com.tablejourney/food-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.tablejourney/food-travel)
   🔓 - Restaurants, markets and street food in 200+ cities, plus food festivals and bookable tours.
