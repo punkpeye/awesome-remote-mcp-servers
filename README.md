@@ -1104,6 +1104,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Revdoku](https://revdoku.com) `https://app.revdoku.com/mcp`
   [![Revdoku MCP connector](https://glama.ai/mcp/connectors/com.revdoku/revdoku/badges/score.svg)](https://glama.ai/mcp/connectors/com.revdoku/revdoku)
   🔓 - Discover file storage and incoming email tools; reading or changing private files and mail requires OAuth.
+- [Stream Vessel](https://streamvessel.com/mcp) `https://mcp.streamvessel.com`
+  [![Stream Vessel MCP connector](https://glama.ai/mcp/connectors/com.streamvessel.mcp/stream-vessel/badges/score.svg)](https://glama.ai/mcp/connectors/com.streamvessel.mcp/stream-vessel)
+  🔐 - Browse, search, move and share files in your own S3-compatible buckets (AWS S3, MinIO, IDrive e2).
 
 ### 💰 <a name="finance"></a>Finance
 - [100pro Token Risk Screen](https://x402.rendraputra.dev/llms.txt) `https://x402.rendraputra.dev/mcp`
