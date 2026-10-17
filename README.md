@@ -965,6 +965,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iDevice](https://idevice.com) `https://idevice.com/api/mcp`
   [![iDevice MCP connector](https://glama.ai/mcp/connectors/com.idevice/wearables/badges/score.svg)](https://glama.ai/mcp/connectors/com.idevice/wearables)
   🔓 - Wearable and phone prices, specs, compatibility, release dates and sourced reports for buyers.
+- [LVL Skill Market](https://lvlltd.com) `https://lvlltd.com/mcp`
+  [![LVL Skill Market MCP connector](https://glama.ai/mcp/connectors/com.lvlltd/skill-market/badges/score.svg)](https://glama.ai/mcp/connectors/com.lvlltd/skill-market)
+  🔓 - Search a catalog of agent skill packs and start ACP checkout; a person pays on Stripe's hosted page.
 - [McClipFace](https://mcclipface.com) `https://mcclipface.com/mcp`
   [![McClipFace MCP connector](https://glama.ai/mcp/connectors/co.getclippy/clippy/badges/score.svg)](https://glama.ai/mcp/connectors/co.getclippy/clippy)
   🔓 - Free coupon code lookup for AI assistants. Finds live promo codes for 1,300+ online stores before checkout.
