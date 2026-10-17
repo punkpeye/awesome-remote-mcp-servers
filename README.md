@@ -2978,6 +2978,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
+- [Reddit Scraper](https://apify.com/harshmaur/reddit-scraper) `https://mcp.apify.com/?tools=harshmaur/reddit-scraper`
+  [![Reddit Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.harshmaur/reddit-scraper/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.harshmaur/reddit-scraper)
+  🔐 - Search Reddit and scrape posts, comment threads, subreddits and user profiles as JSON, with no Reddit API key.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
