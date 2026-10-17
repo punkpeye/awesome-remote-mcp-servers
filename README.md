@@ -1161,6 +1161,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ankr Agent RPC](https://www.ankr.com/web3-api/agent-rpc/) `https://mcp.ankr.com/rpc`
   [![Ankr Agent RPC MCP connector](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp)
   🔓 - Read chain data on 200+ networks and Sui: logs, balances, NFTs, decoded calls. Ankr API key, or pay per call via x402.
+- [Antevo Executive Brief](https://antevo.ch/executive/) `https://api.antevo.ch/mcp/executive/mcp`
+  [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-executive-brief/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-executive-brief)
+  🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
+- [Antevo Wealth](https://antevo.ch/wealth/) `https://api.antevo.ch/mcp/wealth/mcp`
+  [![Antevo Wealth MCP connector](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-wealth/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo.api/antevo-wealth)
+  🔐 - A household's own balance sheet: net worth, holdings, exposure to a country or sector, risk, real assets and goals.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
@@ -1845,6 +1851,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
   🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
+- [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
+  [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
+  🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
 - [Claim Done](https://claimdone.com.au/connect-your-ai-assistant/) `https://claimdone.com.au/mcp`
   [![Claim Done MCP connector](https://glama.ai/mcp/connectors/au.com.claimdone/claimdone/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.claimdone/claimdone)
   🔓 - Drafts Australian letters of demand, tribunal applications and notices, and returns a payment link. Not a law firm.
