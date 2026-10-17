@@ -2371,6 +2371,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Work with Jira issues and Confluence pages.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
+- [Decknote](https://decknote.app/for-ai-agents) `https://decknote.app/api/v1/mcp`
+  [![Decknote MCP connector](https://glama.ai/mcp/connectors/app.decknote/decknote/badges/score.svg)](https://glama.ai/mcp/connectors/app.decknote/decknote)
+  🔑 - Kanban boards your agent shares with your team: add, complete, move and recall tasks.
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
   [![dot•requirements MCP connector](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements/badges/score.svg)](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements)
   🔐 - Draft testable requirements specs from chat, style-check them, publish to your team, and see test coverage.
