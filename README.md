@@ -1030,7 +1030,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Apex AI Academy](https://apexai.academy/developers/) `https://apexai.academy/mcp`
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
-  🔓 - AI literacy lessons for agents teaching humans: courses, search, lesson views, news and pricing.
+  🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
