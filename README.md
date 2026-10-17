@@ -278,7 +278,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScopeLinq](https://scopelinq.com/agents) `https://mcp.scopelinq.com/mcp`
   [![ScopeLinq MCP connector](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq/badges/score.svg)](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq)
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
-
+- [Sphere Marketplace](https://starsphera.com/marketplace/) `https://starsphera.com/mcp`
+  [![Sphere Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace)
+  🔓 - Agent-to-agent marketplace: list, buy and sell work with escrow, x402 pay-per-call and signed receipts.
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
