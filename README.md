@@ -1818,6 +1818,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
+- [The Brains](https://brains.ceo) `https://mcp.brains.ceo/mcp`
+  [![The Brains MCP connector](https://glama.ai/mcp/connectors/ceo.brains.mcp/the-brains/badges/score.svg)](https://glama.ai/mcp/connectors/ceo.brains.mcp/the-brains)
+  🔐 - Search cited playbooks from founders and investors like Paul Graham, Naval and Pieter Levels on growth and pricing.
 - [Thea](https://thealibrary.org) `https://thealibrary.org/mcp`
   [![Thea MCP connector](https://glama.ai/mcp/connectors/org.thealibrary/thea/badges/score.svg)](https://glama.ai/mcp/connectors/org.thealibrary/thea)
   🔓 - Open, people-curated knowledge library: 1M+ Korean places, people and works, no signup or key.
