@@ -3242,6 +3242,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Rollout Framework](https://airolloutframework.com) `https://airolloutframework.com/mcp`
   [![AI Rollout Framework MCP connector](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework/badges/score.svg)](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework)
   🔓 - 90-day AI adoption framework for managers: overview, pricing, FAQ and an AI readiness assessment.
+- [AIBuilder Marketplace](https://aibuildermarketplace.com/agents/) `https://api.aibuildermarketplace.com/mcp`
+  [![AIBuilder Marketplace MCP connector](https://glama.ai/mcp/connectors/com.aibuildermarketplace/software-pricing/badges/score.svg)](https://glama.ai/mcp/connectors/com.aibuildermarketplace/software-pricing)
+  🔓 - Dated prices, evidence-backed cost traps and team-size cost estimates for 500+ business software tools.
 - [Agora Merit](https://agoramerit.com/agents) `https://agoramerit.com/mcp`
   [![Agora Merit MCP connector](https://glama.ai/mcp/connectors/com.agoramerit/role-assessment/badges/score.svg)](https://glama.ai/mcp/connectors/com.agoramerit/role-assessment)
   🔓 - Assess job responsibilities; return free findings, report quotes, and private human review links.
