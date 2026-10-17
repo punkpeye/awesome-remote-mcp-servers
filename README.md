@@ -2070,6 +2070,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
+- [Reviewder](https://reviewder.app/en/developers) `https://reviewder.app/mcp`
+  [![Reviewder MCP connector](https://glama.ai/mcp/connectors/app.reviewder/reviewder/badges/score.svg)](https://glama.ai/mcp/connectors/app.reviewder/reviewder)
+  🔐 - Job board for paid, disclosed review videos: post gigs for apps, websites and games, or apply as a creator.
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
