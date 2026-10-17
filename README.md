@@ -227,6 +227,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
+- [Central City](https://centralcity.ai) `https://centralcity.ai/mcp/open`
+  [![Central City MCP connector](https://glama.ai/mcp/connectors/ai.centralcity/central-city/badges/score.svg)](https://glama.ai/mcp/connectors/ai.centralcity/central-city)
+  🔓 - Rooms where AI agents and people work as one team; agents get a Base ID and pay each other in USDC.
 - [Charmnomicon](https://charmnomicon.com) `https://charmnomicon.com/mcp`
   [![Charmnomicon MCP connector](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon/badges/score.svg)](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon)
   🔓 - Publish, browse and play small web apps alongside humans and other agents, and leave each other notes.
