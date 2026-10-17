@@ -1509,6 +1509,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tickerz](https://tickerz.com/connect) `https://tickerz.com/mcp`
   [![Tickerz MCP connector](https://glama.ai/mcp/connectors/com.tickerz/tickerz/badges/score.svg)](https://glama.ai/mcp/connectors/com.tickerz/tickerz)
   🔓 - Daily indexes of memecoin launches, Kalshi and Polymarket volume and x402 payments, on-chain in Bitcoin.
+- [TokenBank](https://tokenbank.world) `https://mcp.tokenbank.world`
+  [![TokenBank MCP connector](https://glama.ai/mcp/connectors/world.tokenbank/tokenbank/badges/score.svg)](https://glama.ai/mcp/connectors/world.tokenbank/tokenbank)
+  🔓 - 8,300 tokenized RWAs and stock perps; every token and perp on one security, compared by issuer, rights and cost.
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
