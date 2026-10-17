@@ -1592,6 +1592,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
+  [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
+  🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
 - [RestaurantDoctorAI Profit Check](https://restaurantdoctorai.com/ai-assistants) `https://restaurantdoctorai.com/api/mcp`
   [![RestaurantDoctorAI Profit Check MCP connector](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check)
   🔓 - Free 12-question restaurant profit check that returns a grade and the biggest money leak.
