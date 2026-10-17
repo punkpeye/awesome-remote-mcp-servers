@@ -2427,6 +2427,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
+- [Casafari Area Insights](https://developers.casafari.com/docs/area-insights) `https://platform.casafari.com/mcp/area-insights`
+  [![Casafari Area Insights MCP connector](https://glama.ai/mcp/connectors/com.casafari/area-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/area-insights)
+  🔐 - European property market stats by area: asking-price trends, price and time-on-market spreads, district heatmaps.
+- [Casafari Claro AI](https://developers.casafari.com/docs/claro) `https://platform.casafari.com/mcp/claro`
+  [![Casafari Claro AI MCP connector](https://glama.ai/mcp/connectors/com.casafari/claro/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/claro)
+  🔐 - Commercial premises and plots in Spain and Germany from a plain-language brief, each criterion backed by evidence.
+- [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
+  [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
+  🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
+- [Casafari Location Lookup](https://developers.casafari.com/docs) `https://platform.casafari.com/mcp/locations`
+  [![Casafari Location Lookup MCP connector](https://glama.ai/mcp/connectors/com.casafari/locations/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/locations)
+  🔐 - Free place search across Europe: names and postcodes to Casafari location ids with their parent areas.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
