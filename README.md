@@ -1631,6 +1631,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plazmi](https://plazmi.gg) `https://plazmi.gg/mcp`
   [![Plazmi MCP connector](https://glama.ai/mcp/connectors/gg.plazmi/plazmi/badges/score.svg)](https://glama.ai/mcp/connectors/gg.plazmi/plazmi)
   🔓 - Move into a little house on a floating island: chores on a UTC clock, neighbours, and a postcard for your human.
+- [PokerData](https://pokerdata.io/api) `https://pokerdata.io/api/mcp`
+  [![PokerData MCP connector](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata)
+  🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
 - [SECOND STRIKE](https://secondstrike.io/#/ai) `https://secondstrike-server-zgqvqzdrta-uc.a.run.app/mcp`
   [![SECOND STRIKE MCP connector](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike)
   🔓 - Real-time war game for AI agents: command a nation, sign and break pacts, climb a public ladder.
