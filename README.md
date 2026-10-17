@@ -1921,6 +1921,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [BacklinkGenie](https://backlinkgenie.com/mcp/) `https://app.backlinkgenie.com/mcp`
+  [![BacklinkGenie MCP connector](https://glama.ai/mcp/connectors/com.backlinkgenie/backlinkgenie/badges/score.svg)](https://glama.ai/mcp/connectors/com.backlinkgenie/backlinkgenie)
+  🔐 - Find blog posts where your product fits, approve AI-written outreach pitches, read replies and track won backlinks.
+
 - [BanProof](https://banproof.io) `https://banproof.io/mcp`
   [![BanProof MCP connector](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.banproof/ban-proof-ai)
   🔓 - Check TikTok Shop and Amazon affiliate video scripts for policy violations and draft ban appeal letters.
