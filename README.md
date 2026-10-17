@@ -114,6 +114,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [Diogenes Gateway](https://github.com/stand-out-of-my-sun/diogenes-l402-gateway) `https://diogenes-l402-gateway.corinth.workers.dev/mcp`
+  🔓 - Sovereign multi-protocol AI microservices: pre-execution guardrails, smart contract honeypot audits, Solana token risk oracles, ReDoS-safe regex synthesis, and Google Tier 1 inference models. Settled via L402, x402, and MPP.
 - [7Maps](https://7it.co.il/7maps/) `https://7it.co.il/7maps/mcp`
   [![7Maps MCP connector](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps)
   🔓 - Daily map of 22,000+ public MCP servers: status, tool risk, changes and routing to a tool; pay per call via x402.
