@@ -3002,7 +3002,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
-- [Uniscript](https://uniscript.app/mcp/) `https://us-central1-contentum-97362.cloudfunctions.net/carousel/mcp`
+- [Uniscript](https://uniscript.app/mcp/) `https://carousel.uniscript.app/mcp`
   [![Uniscript MCP connector](https://glama.ai/mcp/connectors/app.uniscript/carousels/badges/score.svg)](https://glama.ai/mcp/connectors/app.uniscript/carousels)
   🔐 - Turn a topic, your photos or a video into a finished TikTok/Instagram carousel, edit any layer by asking and export layered PSD and SVG.
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
