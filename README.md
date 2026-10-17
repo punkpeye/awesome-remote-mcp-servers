@@ -2284,6 +2284,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
+- [Songlinks](https://songlinks.io/mcp-server) `https://songlinks.io/mcp`
+  [![Songlinks MCP connector](https://glama.ai/mcp/connectors/io.songlinks/songlinks/badges/score.svg)](https://glama.ai/mcp/connectors/io.songlinks/songlinks)
+  🔓 - Find which real songwriter a name or IPI number belongs to, with a stable person ID and their registered works.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
