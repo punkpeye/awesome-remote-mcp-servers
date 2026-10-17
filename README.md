@@ -324,6 +324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
+- [Clear Line Ops](https://clear-line-operations.com) `https://mcp.clear-line-operations.com/mcp`
+  [![Clear Line Ops MCP connector](https://glama.ai/mcp/connectors/io.github.mfarrell628/clear-line-ops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mfarrell628/clear-line-ops)
+  🔓 - 150+ tools: describe-to-build CAD, scan-to-CAD, architecture floor plans with live pricing, web research and media conversion. Discovery is unauthenticated; tool calls require a paid API key.
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
