@@ -1221,15 +1221,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
-- [Datakoot Economy Intel](https://datakoot.com/economy-intel) `https://economy.datakoot.com/mcp`
-  [![Datakoot Economy Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment)
-  🔓 - World Bank indicators for any country plus US BLS series such as CPI, unemployment and payrolls.
-- [Datakoot Filings Intel](https://datakoot.com/filings-intel) `https://filings.datakoot.com/mcp`
-  [![Datakoot Filings Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/sec-edgar-filings/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/sec-edgar-filings)
-  🔓 - SEC EDGAR filings, full-text search, XBRL financials and Form 3/4/5 insider transactions.
-- [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
-  [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
-  🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
 - [CryptoMacro](https://asistent-crypto.vercel.app/a2a) `https://asistent-crypto.vercel.app/mcp`
   [![CryptoMacro MCP connector](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dopionut-jpg/crypto-data-market-analysis)
   🔓 - Crypto positioning and macro regime: funding, open interest, implied volatility and Fed rates.
@@ -1242,6 +1233,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CVR Lookup](https://cvrlookup.dk/mcp) `https://cvrlookup.dk/api/mcp`
   [![CVR Lookup MCP connector](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/dk.cvrlookup/cvr-lookup)
   🔓 - Danish company register: lookups, name search and annual-report financials; data needs a free key.
+- [Datakoot Economy Intel](https://datakoot.com/economy-intel) `https://economy.datakoot.com/mcp`
+  [![Datakoot Economy Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment)
+  🔓 - World Bank indicators for any country plus US BLS series such as CPI, unemployment and payrolls.
+- [Datakoot Filings Intel](https://datakoot.com/filings-intel) `https://filings.datakoot.com/mcp`
+  [![Datakoot Filings Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/sec-edgar-filings/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/sec-edgar-filings)
+  🔓 - SEC EDGAR filings, full-text search, XBRL financials and Form 3/4/5 insider transactions.
 - [DEBYKO](https://debyko.com) `https://mcp.debyko.com/mcp`
   [![DEBYKO MCP connector](https://glama.ai/mcp/connectors/com.debyko/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.debyko/mcp)
   🔐 - Live and historical crypto derivatives data across venues: books, funding, candles and DQL screens.
@@ -1251,6 +1248,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
+  [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
+  🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
@@ -1278,6 +1278,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FinancialFilings](https://financialfilings.com/mcp/) `https://mcp.financialfilings.com/mcp`
   [![FinancialFilings MCP connector](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server)
   🔐 - Regulatory filings, XBRL financials and company data from securities regulators in about 60 markets.
+- [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
+  🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - RPC gateway for six mainnets with failover: balances, history, ABIs, gas and transactions; x402 pay-per-call.
@@ -1320,6 +1322,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
+- [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
+  [![invowerk MCP connector](https://glama.ai/mcp/connectors/dev.invowerk/invowerk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.invowerk/invowerk)
+  🔓 - Validate e-invoices: ZUGFeRD, Factur-X, XRechnung and Peppol BIS, with a detailed validation report.
 - [ISO 20022 Navigator](https://www.isonavigator.io/iso20022/mcp) `https://mcp.isonavigator.io/iso20022`
   [![ISO 20022 Navigator MCP connector](https://glama.ai/mcp/connectors/io.github.kreativeManish/iso20022-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kreativeManish/iso20022-navigator)
   🔓 - Look up ISO 20022 messages, bank transaction codes, legacy replacements like MT103, scheme use, and external code sets.
@@ -1358,12 +1363,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LitVM TCG Oracle](https://litvm.the-undesirables.com) `https://litvm.the-undesirables.com/mcp`
   [![LitVM TCG Oracle MCP connector](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle)
   🔓 - TCG price oracle for LitecoinVM: Merkle-proven prices, calibrated forecasts and fantasy souls; 13 free tools.
-- [Loophole Tape](https://api.loopholetape.com) `https://api.loopholetape.com/mcp`
-  [![Loophole Tape MCP connector](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape)
-  🔓 - pump.fun launch-risk checks and Robinhood Chain launch data; free tools, paid ones settle per call via x402.
 - [LoomDesk](https://loomdesk.trade) `https://loomdesk.trade/mcp`
   [![LoomDesk MCP connector](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk/badges/score.svg)](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk)
   🔓 - Plan Uniswap liquidity on Robinhood Chain as unsigned transactions, or trade play money in an agent arena, free key.
+- [Loophole Tape](https://api.loopholetape.com) `https://api.loopholetape.com/mcp`
+  [![Loophole Tape MCP connector](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape)
+  🔓 - pump.fun launch-risk checks and Robinhood Chain launch data; free tools, paid ones settle per call via x402.
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
@@ -1461,6 +1466,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Silicon Floor](https://siliconfloor.com/docs/mcp) `https://siliconfloor.com/mcp`
   [![Silicon Floor MCP connector](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor/badges/score.svg)](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
   🔓 - Follow the smart money in AI stocks: who owns what, what insiders and hedge funds buy and sell, straight from the SEC.
+- [skanfirmy](https://skanfirmy.pl) `https://skanfirmy.pl/mcp`
+  [![skanfirmy MCP connector](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy)
+  🔓 - Verify Polish companies by NIP, KRS or REGON, plus the VAT white list and EU VAT via VIES.
+- [Skavio USDC Payment Verification & Proof MCP](https://www.skavio.eu/x402/) `https://www.skavio.eu/mcp`
+  [![Skavio MCP connector](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis/badges/score.svg)](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis)
+  🔓 - Native USDC verification, exact payment matching and evidence PDFs; paid calls use Base USDC via x402.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
@@ -1530,26 +1541,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
-- [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
-  [![Vérif Entreprise FR MCP connector](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr)
-  🔓 - Verify French companies by SIREN: legal status, BODACC insolvency proceedings and RGE certifications, paid via x402.
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
-- [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
-  [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
-   🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
-- [xupersplit](https://split.xuper.fun) `https://split.xuper.fun/api/mcp`
-  [![xupersplit MCP connector](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit)
-  🔓 - Split group expenses with no account: create a split, record who paid, see who owes whom and settle up.
-- [Finology Software](https://finology.tech/developers/) `https://mcp.finology.tech/mcp`
-  🔑 - US federal student loan payments, forgiveness timing and tax, cited to primary sources.
-- [invowerk](https://invowerk.dev) `https://api.invowerk.dev/mcp/`
-  [![invowerk MCP connector](https://glama.ai/mcp/connectors/dev.invowerk/invowerk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.invowerk/invowerk)
-  🔓 - Validate e-invoices: ZUGFeRD, Factur-X, XRechnung and Peppol BIS, with a detailed validation report.
-- [skanfirmy](https://skanfirmy.pl) `https://skanfirmy.pl/mcp`
-  [![skanfirmy MCP connector](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy)
-  🔓 - Verify Polish companies by NIP, KRS or REGON, plus the VAT white list and EU VAT via VIES.
 - [VoxOdds](https://voxodds.com) `https://voxodds.com/mcp`
   [![VoxOdds MCP connector](https://glama.ai/mcp/connectors/com.voxodds/voxodds/badges/score.svg)](https://glama.ai/mcp/connectors/com.voxodds/voxodds)
   🔓 - Live Polymarket and Kalshi odds, executable quotes with fees, and pre-bet EV checks.
@@ -1557,6 +1551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vurto Swap MCP connector](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap)
   🔓 - Token swaps on 9 EVM chains and Solana ranked by net received; returns unsigned transactions.
 
+- [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
+  [![Vérif Entreprise FR MCP connector](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr)
+  🔓 - Verify French companies by SIREN: legal status, BODACC insolvency proceedings and RGE certifications, paid via x402.
 - [WattCoin](https://wattcoin.org) `https://wattcoin-mcp-server.wattcoin.workers.dev/mcp`
   [![WattCoin MCP connector](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server)
   🔓 - Agent task marketplace on Solana: register with no wallet, claim and submit tasks, earn WATT, build merit.
@@ -1568,6 +1565,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
+- [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
+  [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
+   🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
+- [xupersplit](https://split.xuper.fun) `https://split.xuper.fun/api/mcp`
+  [![xupersplit MCP connector](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit)
+  🔓 - Split group expenses with no account: create a split, record who paid, see who owes whom and settle up.
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
