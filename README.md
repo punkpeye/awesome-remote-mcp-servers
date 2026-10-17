@@ -324,6 +324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
+- [Delve to Life](https://delvetolife.com/ai/) `https://mcp.delvetolife.com/mcp`
+  [![Delve to Life MCP connector](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life/badges/score.svg)](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life)
+  🔓 - Dress codes explained, outfit formulas by occasion and weather, and clothing colour combinations.
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
