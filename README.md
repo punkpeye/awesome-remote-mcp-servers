@@ -2061,7 +2061,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Proxy](https://useproxy.dev) `https://mcp.useproxy.dev/mcp`
   [![Proxy MCP connector](https://glama.ai/mcp/connectors/dev.useproxy/proxy/badges/score.svg)](https://glama.ai/mcp/connectors/dev.useproxy/proxy)
   🔐 - Search Meta, Google, LinkedIn and TikTok ad libraries for competitor ads, creatives and transcripts.
-
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
