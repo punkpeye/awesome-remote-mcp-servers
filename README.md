@@ -458,6 +458,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage domains, DNS, nameservers, DNSSEC, URL forwarding and static site deploys on your Porkbun account.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
+- [Roxyon](https://roxyon.com) `https://mcp.roxyon.com/mcp`
+  [![Roxyon MCP connector](https://glama.ai/mcp/connectors/io.github.bea-technology/roxyon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bea-technology/roxyon)
+  🔐 - Add hosts and domains, deploy static sites and apps, create databases and mailboxes, read logs, and order servers within a monthly budget.
 - [Shipvela](https://shipvela.com) `https://shipvela.com/mcp`
   [![Shipvela MCP connector](https://glama.ai/mcp/connectors/com.shipvela/shipvela/badges/score.svg)](https://glama.ai/mcp/connectors/com.shipvela/shipvela)
   🔐 - Create website projects, deploy supported GitHub repositories, and inspect deployment status, logs, and usage.
