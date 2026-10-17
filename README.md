@@ -2556,6 +2556,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [RRM Academy Library](https://rrmacademy.org/connect) `https://mcp.rrmacademy.org/mcp`
+  [![RRM Academy Library MCP connector](https://glama.ai/mcp/connectors/org.rrmacademy/library/badges/score.svg)](https://glama.ai/mcp/connectors/org.rrmacademy/library)
+  🔐 - Searches a curated library of 5,000+ peer-reviewed papers on restorative reproductive medicine, returns citations, and verifies statistical claims against the sources.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
