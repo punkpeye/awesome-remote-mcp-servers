@@ -2664,6 +2664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [jopp](https://getjopp.app) `https://getjopp.app/mcp`
   [![jopp MCP connector](https://glama.ai/mcp/connectors/app.getjopp/jopp/badges/score.svg)](https://glama.ai/mcp/connectors/app.getjopp/jopp)
   🔓 - Search open jobs in Switzerland and Liechtenstein and read job details.
+- [Jsonify](https://jsonify.com) `https://factory.jsonify.com/mcp`
+  [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
+  🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
