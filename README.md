@@ -1715,6 +1715,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [CloneKit](https://clonekit.ai) `https://clonekit.ai/mcp`
+  [![CloneKit MCP connector](https://glama.ai/mcp/connectors/ai.clonekit/clonekit/badges/score.svg)](https://glama.ai/mcp/connectors/ai.clonekit/clonekit)
+  🔓 🔐 - Expert know-how your AI can run: search and use kits (steps, prompts, tools, checks) from any MCP client.
 - [Continuity](https://continuitywriter.com) `https://continuitywriter.com/mcp`
   [![Continuity MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/continuity)
   🔓 - Remembers your writing project across chats: story bible, characters, timeline and continuity checks.
