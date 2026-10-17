@@ -1405,6 +1405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
+- [pumpdata](https://pumpdata.fun/?utm_source=github&utm_medium=listing&utm_campaign=open) `https://pumpdata.fun/mcp`
+  [![pumpdata MCP connector](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata/badges/score.svg)](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata)
+  🔓 - pump.fun base rates from every PumpSwap trade: how many coins in a band went 2x or 10x in 3h; x402 USDC.
 - [PumpPill](https://www.pumppill.org/for-agents) `https://api.pumppill.org/mcp`
   [![PumpPill MCP connector](https://glama.ai/mcp/connectors/org.pumppill/token-safety/badges/score.svg)](https://glama.ai/mcp/connectors/org.pumppill/token-safety)
   🔓 - Token safety reads, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
