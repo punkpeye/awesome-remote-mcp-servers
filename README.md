@@ -1949,6 +1949,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [IndexPulse](https://indexpulse.puzaricloud.in) `https://indexpulse.puzaricloud.in/mcp`
+  [![IndexPulse MCP connector](https://glama.ai/mcp/connectors/in.puzaricloud/indexpulse/badges/score.svg)](https://glama.ai/mcp/connectors/in.puzaricloud/indexpulse)
+  🔐 - Bing Webmaster, IndexNow and Search Console: rankings, Google-vs-Bing gaps, indexing gaps and AI-crawler audits.
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
@@ -2199,6 +2202,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Uptimepage](https://uptimepage.dev/mcp-server) `https://mcp.uptimepage.dev/mcp`
   [![Uptimepage MCP connector](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage)
   🔓 - Read monitors and incidents, run checks, create monitors and status pages, post incident updates. Calls need OAuth.
+- [Vigil](https://puzaricloud.in/docs/mcp) `https://puzaricloud.in/mcp`
+  [![Vigil MCP connector](https://glama.ai/mcp/connectors/in.puzaricloud/vigil/badges/score.svg)](https://glama.ai/mcp/connectors/in.puzaricloud/vigil)
+  🔐 - Uptime and server monitoring: incidents, monitors, servers, logs, errors and traces; acknowledge incidents.
 - [Vivere](https://vivere.dev) `https://vivere.dev/mcp`
   [![Vivere MCP connector](https://glama.ai/mcp/connectors/dev.vivere/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vivere/monitors)
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
