@@ -1314,6 +1314,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [IndiaCos](https://indiacos.com/api) `https://indiacos.com/mcp`
+  [![IndiaCos MCP connector](https://glama.ai/mcp/connectors/com.indiacos/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.indiacos/mcp)
+  🔐 - Indian companies, LLPs and GST registrations: verify a GSTIN or CIN, list directors, PAN and linked court cases.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
@@ -1592,6 +1595,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [IndiaRestros](https://indiarestros.com/api/docs) `https://indiarestros.com/mcp`
+  [![IndiaRestros MCP connector](https://glama.ai/mcp/connectors/com.indiarestros/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.indiarestros/mcp)
+  🔓 - Indian restaurants by city, cuisine and area, with menus, dish prices, ratings and timings; free, no key.
 - [RestaurantDoctorAI Profit Check](https://restaurantdoctorai.com/ai-assistants) `https://restaurantdoctorai.com/api/mcp`
   [![RestaurantDoctorAI Profit Check MCP connector](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check)
   🔓 - Free 12-question restaurant profit check that returns a grade and the biggest money leak.
@@ -1857,6 +1863,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
   [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
   🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
+- [eCourtsIndia](https://ecourtsindia.com) `https://mcp.ecourtsindia.com/mcp`
+  [![eCourtsIndia MCP connector](https://glama.ai/mcp/connectors/com.ecourtsindia.mcp/e-courts-india/badges/score.svg)](https://glama.ai/mcp/connectors/com.ecourtsindia.mcp/e-courts-india)
+  🔐 - Indian court cases, orders, cause lists and statutes from the Supreme Court, High Courts, district courts and tribunals.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
@@ -2620,6 +2629,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
+- [Data Galactica](https://datagalactica.com/api) `https://api.datagalactica.com/mcp`
+  [![Data Galactica MCP connector](https://glama.ai/mcp/connectors/com.datagalactica/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.datagalactica/mcp)
+  🔐 - Resolve any company or person to one permanent ID; verify companies, check roles and build lead lists.
 - [EveryInfra](https://everyinfra.com/en) `https://api.everyinfra.com/mcp`
   [![EveryInfra MCP connector](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra)
   🔓 - Structured data from 90 platforms, incl. RedNote, Douyin, TikTok and Amazon, plus web search; API key for tool calls.
@@ -3353,6 +3365,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
   [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
   🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
+- [Youth4work](https://mcp.youth4work.com) `https://mcp.youth4work.com/mcp`
+  [![Youth4work MCP connector](https://glama.ai/mcp/connectors/com.youth4work/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.youth4work/mcp)
+  🔐 - Indian jobs and talent: build a profile, apply to jobs and take skill tests; employers post jobs and find candidates.
 - [Zenning](https://zenning.ai) `https://api.zenning.ai/api/mcp`
   [![Zenning MCP connector](https://glama.ai/mcp/connectors/ai.zenning/zenning/badges/score.svg)](https://glama.ai/mcp/connectors/ai.zenning/zenning)
   🔐 - Run Zenning AI employees and ask Zenning to act across Gmail, Slack, CRMs and 2,000+ connected apps.
