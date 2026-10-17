@@ -2272,6 +2272,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
+- [Sakaira](https://sakaira.com) `https://mcp.sakaira.com/mcp`
+  [![Sakaira MCP connector](https://glama.ai/mcp/connectors/com.sakaira/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sakaira/mcp)
+  🔐 - Make AI images, video, voiceovers and music, and edit video, from Claude, ChatGPT or any assistant.
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
