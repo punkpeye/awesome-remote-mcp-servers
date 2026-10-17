@@ -1915,7 +1915,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Appie.run](https://appie.run) `https://appie.run/mcp`
   [![Appie.run MCP connector](https://glama.ai/mcp/connectors/io.github.appierun/appie/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.appierun/appie)
-  🔑 - Write brand-voice articles, update brand context, train and query website chatbots, and create short links.
+  🔑 - Find Reddit threads and draft replies, track LinkedIn profiles and leads, write brand-voice articles, train and query website chatbots, and create short links.
 
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
