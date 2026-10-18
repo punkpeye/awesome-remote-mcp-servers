@@ -2860,6 +2860,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Callejear Madrid](https://callejear.com/mcp/) `https://callejear.com/api/mcp`
   [![Callejear Madrid MCP connector](https://glama.ai/mcp/connectors/com.callejear/madrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.callejear/madrid)
   🔓 - Search Madrid's 9,400 official streets and compare partial service counts within 500 m; read-only.
+- [Clarity Today](https://theclarity.today/agents?utm_source=awesome-remote-mcp-servers) `https://theclarity.today/mcp`
+  [![Clarity Today MCP connector](https://glama.ai/mcp/connectors/today.theclarity/clarity-today/badges/score.svg)](https://glama.ai/mcp/connectors/today.theclarity/clarity-today)
+  🔓 - Today's tech news, checked: what changed, why it matters, the key figures, and each claim's verdict with its source.
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
