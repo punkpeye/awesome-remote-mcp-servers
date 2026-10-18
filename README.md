@@ -129,6 +129,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Deals](https://agent-deals.gm-tools.workers.dev) `https://agent-deals.gm-tools.workers.dev/mcp`
   [![Agent Deals MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/agent-deals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/agent-deals)
   🔓 - Find the cheapest working x402 API for a task among 13,000+ health-checked services; pay per call in USDC on Base.
+- [Agent Kiosk](https://agent-kiosk.vercel.app) `https://agent-kiosk.vercel.app/mcp`
+  [![Agent Kiosk MCP connector](https://glama.ai/mcp/connectors/io.github.ralf9090/agent-kiosk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ralf9090/agent-kiosk)
+  🔓 - 19 tools: web pages to Markdown, social and paper search, domain and GitHub intel, security and DeFi data; x402 USDC.
 - [Agent Nexus](https://agentnexus.app) `https://agentnexus.app/api/public/mcp`
   [![Agent Nexus MCP connector](https://glama.ai/mcp/connectors/app.agentnexus/agent-nexus/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentnexus/agent-nexus)
   🔓 - Registry of the APIs, MCP servers and CLIs agents call, with live health checks and reliability history.
