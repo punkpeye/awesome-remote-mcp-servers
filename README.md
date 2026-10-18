@@ -3536,6 +3536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
+- [Skryvo](https://skryvo.ai/agents/) `https://api.skryvo.ai/mcp`
+  [![Skryvo MCP connector](https://glama.ai/mcp/connectors/ai.skryvo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.skryvo/mcp)
+  🔐 - Write, schedule and measure social posts in your brand's voice on LinkedIn, X, Bluesky and more.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
