@@ -2281,12 +2281,28 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Convertlyft](https://convertlyft.com/developers) `https://mcp.convertlyft.com/mcp`
   [![Convertlyft MCP connector](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft/badges/score.svg)](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft)
   🔓 - Web analytics that names the fix: funnels, replays, errors, speed and SEO. Free SEO scan; account tools use OAuth.
+- [CRAFT Content](https://tools.gtmhelix.com/connectors/) `https://craft-content.gtmhelix.com/mcp`
+  [![CRAFT Content MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-content-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-content-mcp)
+  🔓 - Eight B2B content tools: case studies, newsletters, webinars, repurposing and thought leadership.
+
+- [CRAFT GTM](https://tools.gtmhelix.com/connectors/) `https://craft-gtm.gtmhelix.com/mcp`
+  [![CRAFT GTM MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-gtm-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-gtm-mcp)
+  🔓 - Eight go to market tools: product market fit, launch, retention, partners, crisis and competitive intelligence.
+
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
+
+- [GTM Alpha](https://tools.gtmhelix.com/connectors/) `https://gtmalpha.gtmhelix.com/mcp`
+  [![GTM Alpha MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/gtm-alpha-consultant/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/gtm-alpha-consultant)
+  🔓 - Positioning gap brief: compares a seller's positioning with how a named B2B buying committee receives it.
+
+- [IMPACT](https://tools.gtmhelix.com/connectors/) `https://impact.gtmhelix.com/mcp`
+  [![IMPACT MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/impact-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/impact-mcp)
+  🔓 - Eight B2B positioning and messaging tools built on the IMPACT method.
 
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
@@ -2930,6 +2946,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
   [![Ficiel MCP connector](https://glama.ai/mcp/connectors/io.ficiel/ficiel/badges/score.svg)](https://glama.ai/mcp/connectors/io.ficiel/ficiel)
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
+- [ICP Intelligence](https://tools.gtmhelix.com/connectors/) `https://icp-intelligence.gtmhelix.com/mcp`
+  [![ICP Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/icp-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/icp-intelligence-mcp)
+  🔓 - Nine ideal customer profile tools: pattern detection, B2B targeting and account prioritization.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
@@ -2940,6 +2959,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
   [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
   🔐 - Find buyers, run LinkedIn, email and X outreach from your own accounts, and approve drafted replies.
+- [Revenue Enablement](https://tools.gtmhelix.com/connectors/) `https://revenue-enablement.gtmhelix.com/mcp`
+  [![Revenue Enablement MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp)
+  🔓 - Twelve deal strategy and sales enablement tools for B2B revenue teams.
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
