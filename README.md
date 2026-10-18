@@ -170,6 +170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and OpenAI-compatible chat completions.
+- [Hydracept](https://hydracept.com) `https://api.hydracept.com/mcp/compact`
+  [![Hydracept MCP connector](https://glama.ai/mcp/connectors/com.hydracept/hydracept/badges/score.svg)](https://glama.ai/mcp/connectors/com.hydracept/hydracept)
+  🔓 🔑 - Discover and run external AI capabilities with durable jobs, quotes, artifacts, receipts, and BYOK.
 - [ISHOB](https://ishob.com) `https://api.ishob.com/mcp`
   [![ISHOB MCP connector](https://glama.ai/mcp/connectors/com.ishob/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.ishob/archive)
   🔓 - 35 pay-per-call tools: web extraction, crypto token and wallet risk, SEC company data, weather risk; x402 USDC.
