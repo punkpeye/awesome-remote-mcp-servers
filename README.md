@@ -1407,7 +1407,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
 - [pumpdata](https://pumpdata.fun/?utm_source=github&utm_medium=listing&utm_campaign=open) `https://pumpdata.fun/mcp`
   [![pumpdata MCP connector](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata/badges/score.svg)](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata)
-  🔓 - Every PumpSwap trade, ever. pump.fun market-cap band base rates (share of coins starting in a band that peaked at 2x, 5x, 10x or 20x within 3 h), wallet and deployer records, and pick-list replays (graduated coins only, filled at the PumpSwap pool). Paid per call in USDC over x402 on Solana, from $0.005.
+  🔓 - Every pump.fun trade, ever: base rates, wallet and launch records, and pick-list replays for trading agents over x402.
 - [PumpPill](https://www.pumppill.org/for-agents) `https://api.pumppill.org/mcp`
   [![PumpPill MCP connector](https://glama.ai/mcp/connectors/org.pumppill/token-safety/badges/score.svg)](https://glama.ai/mcp/connectors/org.pumppill/token-safety)
   🔓 - Token safety reads, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
