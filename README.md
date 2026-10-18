@@ -3833,6 +3833,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏢 <a name="workplace--productivity"></a>Workplace & Productivity
 
+- [Account Executive Jobs](https://accountexecutivejobs.com) `https://mcp.accountexecutivejobs.com/mcp`
+  [![Account Executive Jobs MCP connector](https://glama.ai/mcp/connectors/com.accountexecutivejobs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.accountexecutivejobs/mcp)
+  🔐 - Search sales and account executive jobs and apply, or manage your company's job posts and applicants.
 - [AccountHub](https://accounthub.ai) `https://accounthub.ai/api/mcp`
   [![AccountHub MCP connector](https://glama.ai/mcp/connectors/ai.accounthub/account-hub/badges/score.svg)](https://glama.ai/mcp/connectors/ai.accounthub/account-hub)
   🔐 - Search and act across multiple Gmail, Google Calendar, Drive and Contacts accounts, Slack workspaces and Notion.
