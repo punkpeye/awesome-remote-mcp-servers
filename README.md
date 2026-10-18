@@ -2099,6 +2099,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Remnant](https://remnant.dedale-bi.com/knowledge) `https://remnant.dedale-bi.com/mcp/chatgpt`
   [![Remnant Read MCP connector](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant/badges/score.svg)](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant)
   🔓 - Search prior debugging experience, inspect evidence and failed attempts; free public reading without signup.
+- [Renor](https://renor.cloud) `https://mcp.renor.cloud/mcp`
+  [![Renor MCP connector](https://glama.ai/mcp/connectors/io.github.patrickpassosb/renor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.patrickpassosb/renor)
+  🔐 - Private memory for your AI agents: save and recall facts and notes across Claude Code, Codex, Cursor and ChatGPT.
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search and write team docs, tables, issues and CRM records, with answers citing their source.
