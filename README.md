@@ -1374,6 +1374,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitquery](https://bitquery.io/products/bitquery-mcp-server) `https://mcp.bitquery.io`
   [![Bitquery MCP connector](https://glama.ai/mcp/connectors/io.bitquery/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.bitquery/mcp)
   🔐 - Crypto investigations and trading data: fund tracing, address labels, AML risk, DEX trades, OHLCV and trader PnL.
+- [Booksmate](https://booksmate.com/agents) `https://mcp.booksmate.com`
+  [![Booksmate MCP connector](https://glama.ai/mcp/connectors/com.booksmate.mcp/booksmate/badges/score.svg)](https://glama.ai/mcp/connectors/com.booksmate.mcp/booksmate)
+  🔐 - Fetch invoices and receipts from 500+ portals and email, search them, and export to Xero, DATEV, sevDesk or Lexware.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
