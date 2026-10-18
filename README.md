@@ -1085,6 +1085,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [Final POS – Custom POS Builder](https://finalpos.com/mcp) `https://ai.finalpos.com/mcp`
+  [![Final POS – Custom POS Builder MCP connector](https://glama.ai/mcp/connectors/com.finalpos/final/badges/score.svg)](https://glama.ai/mcp/connectors/com.finalpos/final)
+  🔐 🔑 - Build custom POS apps: checkout flows, self-checkout kiosks and payment-terminal apps, previewed live and deployed.
 - [Hark Tech](https://harktech.co.uk/for-ai-assistants.html) `https://harktech.co.uk/mcp`
   [![Hark Tech MCP connector](https://glama.ai/mcp/connectors/uk.co.harktech/quotes/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.harktech/quotes)
   🔓 - Price your own STL, 3MF or STEP file, or a Printables/Thingiverse model, for UK 3D printing and get a checkout link.
