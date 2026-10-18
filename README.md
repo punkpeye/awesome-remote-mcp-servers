@@ -2551,6 +2551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotWorking](https://notworking.io) `https://notworking.io/mcp`
   [![NotWorking MCP connector](https://glama.ai/mcp/connectors/io.notworking/notworking/badges/score.svg)](https://glama.ai/mcp/connectors/io.notworking/notworking)
   🔓 - Check if other agents report a site, skill or MCP server failing, see its other access paths, and report failures.
+- [PageSpeed & Core Web Vitals Monitor](https://apify.com/tobbyb/pagespeed-core-web-vitals-monitor) `https://mcp.apify.com/?tools=tobbyb/pagespeed-core-web-vitals-monitor`
+  [![PageSpeed & Core Web Vitals Monitor MCP connector](https://glama.ai/mcp/connectors/io.github.tobbytools/pagespeed-core-web-vitals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tobbytools/pagespeed-core-web-vitals)
+  🔐 - Bulk PageSpeed Insights and real-user Core Web Vitals for URLs or sitemaps, with trends and regression alerts.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
@@ -3088,6 +3091,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [Document to Markdown](https://apify.com/tobbyb/document-to-markdown-converter) `https://mcp.apify.com/?tools=tobbyb/document-to-markdown-converter`
+  [![Document to Markdown MCP connector](https://glama.ai/mcp/connectors/io.github.tobbytools/document-to-markdown/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tobbytools/document-to-markdown)
+  🔐 - Convert PDF, scanned PDF (OCR), DOCX, PPTX, XLSX, EPUB and HTML to Markdown and table-aware RAG chunks.
 - [EveryInfra](https://everyinfra.com/en) `https://api.everyinfra.com/mcp`
   [![EveryInfra MCP connector](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra)
   🔓 - Structured data from 90 platforms, incl. RedNote, Douyin, TikTok and Amazon, plus web search; API key for tool calls.
