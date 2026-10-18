@@ -1590,6 +1590,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
+- [More AI](https://accounting.amore.cloud/en/fortnox-mcp/) `https://accounting.amore.cloud/mcp`
+  [![More AI MCP connector](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox)
+  🔐 - Fortnox (Swedish accounting): read invoices, ledger, VAT and reports; changes only after the user approves.
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
   🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
