@@ -2421,6 +2421,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
+
+- [Recomma](https://recomma.ai) `https://api.recomma.ai/mcp`
+  [![Recomma MCP connector](https://glama.ai/mcp/connectors/ai.recomma/recomma/badges/score.svg)](https://glama.ai/mcp/connectors/ai.recomma/recomma)
+  🔐 - Read how ChatGPT, Gemini and Google AI Overviews describe your brand, which sources they cite, and what to fix.
+
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
