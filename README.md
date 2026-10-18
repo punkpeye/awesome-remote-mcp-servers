@@ -1614,6 +1614,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Optionscanner](https://optionscanner.ai/learn/mcp) `https://optionscanner.ai/mcp`
   [![Optionscanner MCP connector](https://glama.ai/mcp/connectors/ai.optionscanner/optionscanner/badges/score.svg)](https://glama.ai/mcp/connectors/ai.optionscanner/optionscanner)
   🔓 - Price any options trade with up to eight legs, what-if scenarios on price, time and volatility, and the Learn library.
+- [OwlChart](https://owlchart.com/developers.html) `https://owlchart.com/mcp`
+  🔓 - Live crypto and stock market data: prices and candles, liquidity heatmap and magnets, order book walls, open interest on 13 exchanges, funding, liquidations and spot ETF flows.
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
