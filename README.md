@@ -2245,6 +2245,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [Appie.run](https://appie.run) `https://appie.run/mcp`
+  [![Appie.run MCP connector](https://glama.ai/mcp/connectors/io.github.appierun/appie/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.appierun/appie)
+  🔑 - Find Reddit threads and draft replies, track LinkedIn profiles and leads, write brand-voice articles, train and query website chatbots, and create short links.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
