@@ -2952,6 +2952,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [BlockWerk](https://blockwerk.tech/connect-ai) `https://blockwerk-mcp-worker.blockwerk.workers.dev/`
+  [![BlockWerk MCP connector](https://glama.ai/mcp/connectors/tech.blockwerk/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tech.blockwerk/mcp)
+  🔓 - Build, run and analyse block-diagram simulations: PID, Bode, FFT and optimisation.
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
