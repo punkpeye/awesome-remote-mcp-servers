@@ -1176,6 +1176,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [CELPass](https://celpass.com/mcp-server) `https://celpass.com/mcp`
+  [![CELPass MCP connector](https://glama.ai/mcp/connectors/com.celpass/celpip/badges/score.svg)](https://glama.ai/mcp/connectors/com.celpass/celpip)
+  🔓 - CELPIP English test practice questions with answers, sample answers, and Canada's Nov 2026 CRS points calculator.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
