@@ -1064,6 +1064,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
+- [BidProwl](https://bidprowl.com/developers) `https://bidprowl.com/api/v1/mcp`
+  [![BidProwl MCP connector](https://glama.ai/mcp/connectors/com.bidprowl/bidprowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidprowl/bidprowl)
+  🔓 - Search live US government surplus auctions from 26 sources, plus sold-price history and a deal score per lot.
 - [BirkinBagStock](https://birkinbagstock.com) `https://birkinbagstock.com/mcp`
   [![BirkinBagStock MCP connector](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp)
   🔓 - Independent Hermès resale index: inventory, market prices, auction calendar and results.
