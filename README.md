@@ -2856,6 +2856,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
+- [Casafari Claro AI](https://developers.casafari.com/docs/claro) `https://platform.casafari.com/mcp/claro`
+  [![Casafari Claro AI MCP connector](https://glama.ai/mcp/connectors/com.casafari/claro/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/claro)
+  🔐 - Commercial premises and plots in Spain and Germany from a plain-language brief, each criterion backed by evidence.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
