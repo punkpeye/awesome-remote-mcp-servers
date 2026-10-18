@@ -2528,6 +2528,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FXI Studio](https://www.fxi.studio/mcp/info) `https://mcp.fxi.studio/mcp`
   [![FXI Studio MCP connector](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio)
   🔐 - Generate cinematic images and video clips and frame-chain shots into continuous motion, billed to your FXI credits.
+- [Google Vids MCP Server by useapi.net](https://useapi.net/docs/api-google-vids-v1/mcp) `https://api.useapi.net/v1/google-vids/mcp`
+  [![Google Vids MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/google-vids/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/google-vids)
+  🔑 - Gemini Omni video with sound and voiced avatars in Google Vids on your Google plan. Not affiliated with Google.
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
