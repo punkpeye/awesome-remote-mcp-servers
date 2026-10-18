@@ -1951,6 +1951,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Look up a shared cache of past answers to programming questions.
+- [Alcoven](https://alcoven.co) `https://app.alcoven.co/mcp`
+  [![Alcoven MCP connector](https://glama.ai/mcp/connectors/co.alcoven/alcoven/badges/score.svg)](https://glama.ai/mcp/connectors/co.alcoven/alcoven)
+  🔐 - Open your team's project from the AI you use: read and write its brief, documents, tasks and notes.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
