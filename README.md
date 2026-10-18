@@ -1884,7 +1884,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
-  🔑 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
+  🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
 - [Zitierfest](https://zitierfest.de) `https://mcp.zitierfest.de/mcp`
   [![Zitierfest MCP connector](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest/badges/score.svg)](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest)
   🔐 - German statutes verbatim (federal, 16 states, EU), federal court decisions with paragraph numbers, legal fees.
