@@ -239,6 +239,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dabloons](https://dabloons.net) `https://dabloons.net/mcp`
   [![Dabloons MCP connector](https://glama.ai/mcp/connectors/net.dabloons/dabloons/badges/score.svg)](https://glama.ai/mcp/connectors/net.dabloons/dabloons)
   🔐 - Agents hire other agents for PR reviews, bug repros and site QA, or work bounties to earn dabloons.
+- [eContract](https://econtract.online/mcp) `https://api.econtract.online/mcp`
+  [![eContract MCP connector](https://glama.ai/mcp/connectors/online.econtract/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/online.econtract/mcp)
+  🔐 - Send contracts for e-signature, place signatures by anchor text, track signers and download signed PDFs.
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
@@ -279,6 +282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ScopeLinq MCP connector](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq/badges/score.svg)](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq)
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
 
+- [Taifoon](https://www.taifoon.io/docs/coordination-api) `https://coord.taifoon.dev/mcp`
+  [![Taifoon MCP connector](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer)
+  🔓 - Post a need in plain words; the layer matches an agent, grades the delivery by code and settles; also chain proofs.
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
@@ -324,6 +330,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
+- [Delve to Life](https://delvetolife.com/ai/) `https://mcp.delvetolife.com/mcp`
+  [![Delve to Life MCP connector](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life/badges/score.svg)](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life)
+  🔓 - Dress codes explained, outfit formulas by occasion and weather, and clothing colour combinations.
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
@@ -362,6 +371,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PartForge](https://www.partforge.ai) `https://www.partforge.ai/mcp`
   [![PartForge MCP connector](https://glama.ai/mcp/connectors/ai.partforge/partforge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.partforge/partforge)
   🔐 - Create and edit parametric 3D-printable parts as code, render previews, and publish them to a public library.
+- [Pastefield](https://pastefield.com/mcp) `https://pastefield.com/api/mcp`
+  [![Pastefield MCP connector](https://glama.ai/mcp/connectors/com.pastefield/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pastefield/mcp)
+  🔐 - Give Claude a whiteboard: place notes, links, images and diagrams on a board you both edit.
 - [ProfessionalHeadshot.io](https://professionalheadshot.io) `https://professionalheadshot.io/api/mcp`
   [![ProfessionalHeadshot.io MCP connector](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot)
   🔓 - Official LinkedIn, Slack and GitHub profile photo specs with sources, headshot style guides and a free headshot audit.
@@ -380,6 +392,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
+- [Tastepix](https://tastepix.com/?ref=github-awesome-remote) `https://mcp.tastepix.com/mcp`
+  [![Tastepix MCP connector](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix)
+  🔐 - Generate and edit images with 12 models (Nano Banana, GPT Image, FLUX…) from chat; pay per image, no API keys.
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
@@ -408,6 +423,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Framejet MCP connector](https://glama.ai/mcp/connectors/dev.framejet/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/dev.framejet/screenshot)
   🔓 - Screenshot any URL to PNG or JPEG with cookie banners and chat widgets removed; needs a free API key.
 
+- [localscreenshot](https://localscreenshot.com) `https://api.localscreenshot.com/mcp/free`
+  [![localscreenshot MCP connector](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot/badges/score.svg)](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot)
+  🔓 - Screenshot any public page as PNG, JPEG or PDF, from 227 countries, with cookie banners and ads hidden.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
@@ -428,6 +447,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Costory](https://docs.costory.io/features/mcp) `https://app-api.costory.io/mcp`
   [![Costory MCP connector](https://glama.ai/mcp/connectors/io.costory.app-api/costory/badges/score.svg)](https://glama.ai/mcp/connectors/io.costory.app-api/costory)
   🔐 - FinOps agent backend: query, allocate and explain AWS, GCP, Azure, Kubernetes and AI spend.
+- [Crow Nest](https://crow-nest.com) `https://crow-nest.com/mcp`
+  [![Crow Nest MCP connector](https://glama.ai/mcp/connectors/com.crow-nest/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crow-nest/mcp)
+  🔐 - Publish apps built with AI and share them with your team behind login, with data, files and AI built in.
 - [DropTheHassle](https://dropthehassle.com) `https://dropthehassle.com/mcp`
   [![DropTheHassle MCP connector](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle)
   🔓 - Publish static sites to a free HTTPS link or your own domain and check domain prices; account tools need a token.
@@ -447,6 +469,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
 - [Netlify](https://netlify.com) `https://netlify-mcp.netlify.app/mcp`
   🔐 - Create, deploy, and manage Netlify sites.
+- [Nerdit](https://nerdit.ai/?utm_source=awesome-remote-mcp-servers) `https://mcp.nerdit.ai/mcp`
+  [![Nerdit MCP connector](https://glama.ai/mcp/connectors/ai.nerdit/nerdit/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nerdit/nerdit)
+  🔐 - Deploy apps, databases and local AI models to your own machines, read logs, set variables and share apps.
 - [Pethost](https://pethost.dev) `https://mcp.pethost.dev/mcp`
   [![Pethost MCP connector](https://glama.ai/mcp/connectors/dev.pethost/pethost/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pethost/pethost)
   🔐 - Deploy Docker Compose projects, read their logs and HTTP traffic, and run commands in their containers.
@@ -576,6 +601,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Foliyo](https://foliyo.io) `https://foliyo.io/mcp`
   [![Foliyo MCP connector](https://glama.ai/mcp/connectors/io.foliyo/foliyo/badges/score.svg)](https://glama.ai/mcp/connectors/io.foliyo/foliyo)
   🔐 - Create, brand, publish and track client-ready reports, proposals and research pages.
+- [Ginta](https://ginta.app/website-builder-mcp/) `https://ginta.app/mcp`
+  [![Ginta MCP connector](https://glama.ai/mcp/connectors/app.ginta/ginta/badges/score.svg)](https://glama.ai/mcp/connectors/app.ginta/ginta)
+  🔐 - Build, publish and edit hosted websites with working forms, menus, bookings, blogs and an owner admin.
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
@@ -721,6 +749,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Capawesome MCP Server](https://capawesome.io/docs/ai/mcp/capawesome/) `https://mcp.capawesome.io/mcp`
   [![Capawesome MCP connector](https://glama.ai/mcp/connectors/io.capawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.capawesome/mcp)
   🔓 - Search the Capawesome docs and blog; an API token adds the Capawesome Cloud management tools.
+- [Carrick](https://carrick.tools) `https://api.carrick.tools/mcp`
+  [![Carrick MCP connector](https://glama.ai/mcp/connectors/io.github.carrick-tools/carrick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.carrick-tools/carrick)
+  🔐 - Indexes TypeScript codebases across services and repositories so agents search functions by intent rather than name.
 - [Ceraph React Native MCP](https://ceraph.dev) `https://mcp.ceraph.dev/mcp`
   [![Ceraph React Native MCP connector](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp)
   🔐 - Let your coding agent test React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators.
@@ -764,6 +795,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Email Spam Tester](https://email-spam-tester.com) `https://email-spam-tester.com/mcp`
   [![Email Spam Tester MCP connector](https://glama.ai/mcp/connectors/io.github.serg-tanichev/email-spam-tester/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.serg-tanichev/email-spam-tester)
   🔓 - Send a draft to a one-time address and get a spam score, 41 checks with RFC citations, and a fix plan.
+- [EmpirioLabs AI](https://docs.empiriolabs.ai/mcp) `https://mcp.empiriolabs.ai/mcp`
+  [![EmpirioLabs AI MCP connector](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp)
+  🔐 - Run 200+ AI models for chat, image, video, speech and 3D, plus web search, batches and async jobs.
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
@@ -872,6 +906,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sato Hub](https://satohub.ai/mcp) `https://satohub.ai/api/mcp`
   [![Sato Hub MCP connector](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents/badges/score.svg)](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents)
   🔓 - Search a scored index of crypto-agent tooling, then preflight a repo, package, endpoint or token.
+- [Settlens](https://settlens.com) `https://settlens.com/mcp`
+  [![Settlens MCP connector](https://glama.ai/mcp/connectors/com.settlens/settlens/badges/score.svg)](https://glama.ai/mcp/connectors/com.settlens/settlens)
+  🔓 - Evaluate x402 V2 payment requirements against spending policies, without signing or sending payments.
 - [Show It Works](https://showitworks.app) `https://showitworks.app/api/mcp`
   [![Show It Works MCP connector](https://glama.ai/mcp/connectors/app.showitworks/show-it-works/badges/score.svg)](https://glama.ai/mcp/connectors/app.showitworks/show-it-works)
   🔓 - Public tool discovery; uploading verification videos and sharing viewer links require an API key.
@@ -929,6 +966,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
+- [402post](https://402post.com) `https://402post.com/mcp`
+  [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
+  🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand: profit analytics, PPC, inventory forecasting, listings and staged approvals.
@@ -1019,6 +1059,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
+- [Vouchernaut](https://vouchernaut.com/mcp) `https://vouchernaut.com/mcp`
+  [![Vouchernaut MCP connector](https://glama.ai/mcp/connectors/com.vouchernaut/deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.vouchernaut/deals)
+  🔓 - 13 read-only UK tools for discount codes, product prices/drops, phone/SIM deals, events, parking, software and polls.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
@@ -1026,8 +1069,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zebu Data - Amazon & eBay Product Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/ecommerce-product-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/ecommerce-product-data)
   🔐 - Amazon and eBay search results, product details, prices, variants and seller reviews.
 
+- [Zineps](https://mcp.zineps.com/docs/login) `https://mcp.zineps.com/mcp`
+  [![Zineps MCP connector](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps/badges/score.svg)](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps)
+  🔐 - Manage shipments, shipping labels, orders, invoices, and partner operations with a Zineps account.
+
 ### 🎓 <a name="education"></a>Education
 
+- [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
+  [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
+  🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
@@ -1049,6 +1099,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ambee](https://ambeedata.com) `https://api-mcp-server.ambeedata.com/mcp`
   [![Ambee MCP connector](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee/badges/score.svg)](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee)
   🔓 - Weather, air quality, pollen, and other environmental data.
+- [Ampworth](https://ampworth.com/developers) `https://ampworth.com/mcp`
+  [![Ampworth MCP connector](https://glama.ai/mcp/connectors/com.ampworth/ampworth/badges/score.svg)](https://glama.ai/mcp/connectors/com.ampworth/ampworth)
+  🔓 - UK solar PV and heat pump calculators that follow the MCS standards and show their working, plus guides.
 - [Cigo Aircare & Carsafe](https://cigo-mcp-system-wzoy.onrender.com/docs) `https://cigo-mcp-system-wzoy.onrender.com/mcp/`
   [![Cigo Aircare & Carsafe MCP connector](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp)
   🔓 - HVAC filter specifications and power comparisons, vehicle cabin filter matching, and regional air-quality guidance.
@@ -1082,6 +1135,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Korea Ocean Leisure](https://korea-ocean-mcp.picks-site.workers.dev/) `https://korea-ocean-mcp.picks-site.workers.dev/mcp`
   [![Korea Ocean Leisure MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp)
   🔓 - Korean tide times for 42 stations plus fishing, mudflat, beach, surf and scuba forecasts.
+- [Sunrise-Sunset.org](https://sunrise-sunset.org/mcp) `https://api.sunrise-sunset.org/mcp`
+  [![Sunrise-Sunset.org MCP connector](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times/badges/score.svg)](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times)
+  🔓 - Sunrise, sunset, twilight, golden hour and moon times for any place and date, worldwide.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
@@ -1100,6 +1156,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [quickS3](https://quicks3.com/s3-mcp-server/) `https://quicks3.com/mcp`
   [![quickS3 MCP connector](https://glama.ai/mcp/connectors/com.quicks3/quicks3/badges/score.svg)](https://glama.ai/mcp/connectors/com.quicks3/quicks3)
   🔐 - List, upload, download, and share files in S3, R2, B2, Wasabi, and Spaces buckets, scoped by delegated roles.
+- [Yungle](https://yungle.co/for/ai-agents) `https://yungle.co/mcp`
+  [![Yungle MCP connector](https://glama.ai/mcp/connectors/co.yungle/yungle/badges/score.svg)](https://glama.ai/mcp/connectors/co.yungle/yungle)
+  🔐 - Send files to people as download links, list transfers and read download receipts, hosted in the EU.
 
 - [Revdoku](https://revdoku.com) `https://app.revdoku.com/mcp`
   [![Revdoku MCP connector](https://glama.ai/mcp/connectors/com.revdoku/revdoku/badges/score.svg)](https://glama.ai/mcp/connectors/com.revdoku/revdoku)
@@ -1209,6 +1268,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+- [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
+  [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
+  🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
 - [Compabase](https://compabase.com/mcp) `https://compabase.com/api/mcp`
   [![Compabase MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/compabase/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/compabase)
   🔓 - 3M+ Polish companies from KRS and CEIDG: financials, board members, rankings, tenders and public registries.
@@ -1227,6 +1289,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Filings Intel](https://datakoot.com/filings-intel) `https://filings.datakoot.com/mcp`
   [![Datakoot Filings Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/sec-edgar-filings/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/sec-edgar-filings)
   🔓 - SEC EDGAR filings, full-text search, XBRL financials and Form 3/4/5 insider transactions.
+- [Datakoot Market Intel](https://datakoot.com/market-intel) `https://market.datakoot.com/mcp`
+  [![Datakoot Market Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/fx-currency-exchange-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/fx-currency-exchange-rates)
+  🔓 - European Central Bank reference FX rates: latest, historical, time series and currency conversion.
 - [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
   [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
   🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
@@ -1263,6 +1328,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
+
+- [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
+  [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
+  🔓 - 69 free finance, military, school and everyday calculators as MCP tools, each result linking its web calculator.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
@@ -1311,6 +1380,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HKEx Filings](https://hkex-listco-updates.ascent-partners.com/live-mcp/) `https://hkex-listco-updates.ascent-partners.com/api/mcp`
   [![HKEx Filings MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings)
   🔓 - Search 25+ years of Hong Kong Stock Exchange filings, browse facets and extract document text; read-only.
+- [HowToRomania](https://howtoromania.io) `https://api.howtoromania.io/mcp`
+  [![HowToRomania MCP connector](https://glama.ai/mcp/connectors/io.howtoromania/api/badges/score.svg)](https://glama.ai/mcp/connectors/io.howtoromania/api)
+  🔓 - Romanian company lookup (ANAF/ONRC), financials, KYB risk, court cases, e-Factura and legislation; 100 free credits.
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
@@ -1364,6 +1436,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LoomDesk](https://loomdesk.trade) `https://loomdesk.trade/mcp`
   [![LoomDesk MCP connector](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk/badges/score.svg)](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk)
   🔓 - Plan Uniswap liquidity on Robinhood Chain as unsigned transactions, or trade play money in an agent arena, free key.
+- [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
+  [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
+  🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
@@ -1391,6 +1466,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OptionsAhoy](https://optionsahoy.com/for-agents) `https://optionsahoy.com/mcp`
   [![OptionsAhoy MCP connector](https://glama.ai/mcp/connectors/io.github.AlvisoOculus/optionsahoy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AlvisoOculus/optionsahoy-mcp)
   🔓 - US equity-comp tax math: ISO/AMT exercise plans, RSU and NSO sell-or-hold, QSBS, hedges, cash-goal sell plans.
+- [Optionscanner](https://optionscanner.ai/learn/mcp) `https://optionscanner.ai/mcp`
+  [![Optionscanner MCP connector](https://glama.ai/mcp/connectors/ai.optionscanner/optionscanner/badges/score.svg)](https://glama.ai/mcp/connectors/ai.optionscanner/optionscanner)
+  🔓 - Price any options trade with up to eight legs, what-if scenarios on price, time and volatility, and the Learn library.
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
@@ -1399,6 +1477,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
+  [![PMWallets MCP connector](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets)
+  🔐 - Polymarket traders ranked by realized PnL, with their records, live fills and past trades as daily files.
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
@@ -1458,6 +1539,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signed Investors](https://mcp.signed.com/investors) `https://mcp.signed.com/investors`
   [![Signed Investors MCP connector](https://glama.ai/mcp/connectors/com.signed.mcp/signed-investors/badges/score.svg)](https://glama.ai/mcp/connectors/com.signed.mcp/signed-investors)
   🔓 - Search a public directory of angel investors by sector, check size, or keyword, with no account needed.
+- [Signo](https://signo.fi) `https://app.signo.fi/api/mcp`
+  [![Signo MCP connector](https://glama.ai/mcp/connectors/fi.signo/signo/badges/score.svg)](https://glama.ai/mcp/connectors/fi.signo/signo)
+  🔓 - Drafts AI agents that watch DeFi positions (health factor, LP range, Pendle maturity) for the wallet owner to sign.
 - [Silicon Floor](https://siliconfloor.com/docs/mcp) `https://siliconfloor.com/mcp`
   [![Silicon Floor MCP connector](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor/badges/score.svg)](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
   🔓 - Follow the smart money in AI stocks: who owns what, what insiders and hedge funds buy and sell, straight from the SEC.
@@ -1509,6 +1593,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tickerz](https://tickerz.com/connect) `https://tickerz.com/mcp`
   [![Tickerz MCP connector](https://glama.ai/mcp/connectors/com.tickerz/tickerz/badges/score.svg)](https://glama.ai/mcp/connectors/com.tickerz/tickerz)
   🔓 - Daily indexes of memecoin launches, Kalshi and Polymarket volume and x402 payments, on-chain in Bitcoin.
+- [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
+  [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
+  🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
@@ -1536,6 +1623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
+- [Web3Juice](https://web3juice.com/mcp) `https://web3juice.com/api/mcp`
+  [![Web3Juice MCP connector](https://glama.ai/mcp/connectors/com.web3juice/web3juice/badges/score.svg)](https://glama.ai/mcp/connectors/com.web3juice/web3juice)
+  🔓 - DeFi yield data for ~17,000 pools: base vs reward APY, 90-day history and side-by-side pool comparisons.
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
    🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
@@ -1592,9 +1682,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
+  [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
+  🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
 - [RestaurantDoctorAI Profit Check](https://restaurantdoctorai.com/ai-assistants) `https://restaurantdoctorai.com/api/mcp`
   [![RestaurantDoctorAI Profit Check MCP connector](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check)
   🔓 - Free 12-question restaurant profit check that returns a grade and the biggest money leak.
+- [Scern](https://scern.app) `https://api.scern.app/mcp`
+  [![Scern MCP connector](https://glama.ai/mcp/connectors/app.scern.api/scern/badges/score.svg)](https://glama.ai/mcp/connectors/app.scern.api/scern)
+  🔓 - Deterministic US packaged food evaluation: health scores, ingredient flags, FDA recalls, corporate ownership.
 - [TableJourney](https://tablejourney.com/agents/) `https://tablejourney.com/mcp`
   [![TableJourney MCP connector](https://glama.ai/mcp/connectors/com.tablejourney/food-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.tablejourney/food-travel)
   🔓 - Restaurants, markets and street food in 200+ cities, plus food festivals and bookable tours.
@@ -1613,6 +1709,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
+- [Chessigma](https://www.chessigma.com/developers/mcp) `https://www.chessigma.com/api/mcp`
+  [![Chessigma MCP connector](https://glama.ai/mcp/connectors/com.chessigma/chessigma/badges/score.svg)](https://glama.ai/mcp/connectors/com.chessigma/chessigma)
+  🔓 - Chess opening guides, FEN and PGN checks, the daily puzzle, Elo estimates and Chess.com or Lichess game review links.
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
@@ -1631,6 +1730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plazmi](https://plazmi.gg) `https://plazmi.gg/mcp`
   [![Plazmi MCP connector](https://glama.ai/mcp/connectors/gg.plazmi/plazmi/badges/score.svg)](https://glama.ai/mcp/connectors/gg.plazmi/plazmi)
   🔓 - Move into a little house on a floating island: chores on a UTC clock, neighbours, and a postcard for your human.
+- [PokerData](https://pokerdata.io/api) `https://pokerdata.io/api/mcp`
+  [![PokerData MCP connector](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata)
+  🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
 - [SECOND STRIKE](https://secondstrike.io/#/ai) `https://secondstrike-server-zgqvqzdrta-uc.a.run.app/mcp`
   [![SECOND STRIKE MCP connector](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike)
   🔓 - Real-time war game for AI agents: command a nation, sign and break pacts, climb a public ladder.
@@ -1664,6 +1766,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
+- [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
+  [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
+  🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
@@ -1913,6 +2018,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [AgentPixel](https://agentpixel.io) `https://agentpixel.io/mcp`
+  [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
+  🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
@@ -1945,6 +2054,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Convertlyft](https://convertlyft.com/developers) `https://mcp.convertlyft.com/mcp`
   [![Convertlyft MCP connector](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft/badges/score.svg)](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft)
   🔓 - Web analytics that names the fix: funnels, replays, errors, speed and SEO. Free SEO scan; account tools use OAuth.
+- [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
+  [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
+  🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -2070,12 +2182,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
+- [Revnu](https://revnu.com/mcp) `https://revnu.com/api/mcp`
+  [![Revnu MCP connector](https://glama.ai/mcp/connectors/com.revnu/revnu/badges/score.svg)](https://glama.ai/mcp/connectors/com.revnu/revnu)
+  🔐 - Review growth work, browse leads and results, message your growth agent, and schedule workflows.
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
+- [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
+  [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
+  🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
 - [SearcherLite](https://searcherlite.com) `https://searcherlite.com/api/mcp`
   [![SearcherLite MCP connector](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite)
   🔐 - Google keyword, domain, backlink and AI-visibility data, paid per lookup in credits with no subscription.
@@ -2085,6 +2203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
   [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
   🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
+- [SEO·AEO·GEO](https://seoaeogeo.app/agents) `https://seoaeogeo.app/mcp`
+  [![SEO·AEO·GEO MCP connector](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo/badges/score.svg)](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo)
+  🔓 - Audit a URL for SEO, AEO and GEO: AI crawler access, schema and extractability, with ranked code fixes; free preview.
 - [Shipfound](https://www.shipfound.co/) `https://api.shipfound.co/mcp`
   [![Shipfound MCP connector](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound/badges/score.svg)](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound)
   🔐 - Site fixes, content briefs, indexing, AI crawler tracking and AI visibility checks for Claude Code and Codex.
@@ -2152,6 +2273,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Everframe](https://everframe.dev) `https://everframe.dev/mcp`
   [![Everframe MCP connector](https://glama.ai/mcp/connectors/dev.everframe/everframe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.everframe/everframe)
   🔐 - Read in-app bug reports, crashes and tickets with screenshots, console, network and device context.
+- [Fixter](https://fixter.dev) `https://mcp.fixter.dev/mcp`
+  [![Fixter MCP connector](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter)
+  🔐 - Query production logs, traces, metrics and error issues, get the root cause, and open a fix as a pull request.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and AI-found bugs from session recordings.
@@ -2263,6 +2387,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
+- [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
+  [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
+  🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
   [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
   🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
@@ -2284,6 +2411,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
+- [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
+  [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
+  🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
@@ -2305,6 +2435,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Valmera](https://valmera.io) `https://valmera.io/mcp/server`
   [![Valmera MCP connector](https://glama.ai/mcp/connectors/io.valmera/video-editor/badges/score.svg)](https://glama.ai/mcp/connectors/io.valmera/video-editor)
   🔐 - Edit your own footage: cut dead air and filler words, caption, reframe to 9:16, make shorts and export MP4.
+- [VideoBGRemover](https://videobgremover.net/mcp) `https://videobgremover.net/api/mcp`
+  [![VideoBGRemover MCP connector](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover/badges/score.svg)](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover)
+  🔐 - Remove video backgrounds, track processing tasks, and download transparent WebM with source audio.
 - [VideoGen](https://videogen.io/videogen-mcp) `https://mcp.videogen.io/mcp`
   [![VideoGen MCP connector](https://glama.ai/mcp/connectors/io.github.dg314/videogen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dg314/videogen)
   🔐 - Create videos from scripts and storyboards, manage projects, and export finished videos.
@@ -2326,6 +2459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AssetFare](https://assetfare.dev) `https://api.assetfare.dev/mcp`
   [![AssetFare MCP connector](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare)
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
+- [Checkout Page](https://checkoutpage.com) `https://mcp.checkoutpage.com`
+  [![Checkout Page MCP connector](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page/badges/score.svg)](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page)
+  🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
@@ -2389,6 +2525,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Laraue Boards](https://boards.laraue.com) `https://boards.laraue.com/boards-mcp/mcp`
   [![Laraue Boards MCP connector](https://glama.ai/mcp/connectors/com.laraue/boards/badges/score.svg)](https://glama.ai/mcp/connectors/com.laraue/boards)
   🔑 - List, view, create, edit, and move issues in your Laraue Boards organization.
+- [Leemu](https://leemu.io/claude-integration) `https://app.leemu.io/api/mcp`
+  [![Leemu MCP connector](https://glama.ai/mcp/connectors/io.leemu/okr/badges/score.svg)](https://glama.ai/mcp/connectors/io.leemu/okr)
+  🔐 - Read OKRs, submit key-result check-ins, find at-risk goals, and generate progress reports.
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
@@ -2484,6 +2623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tradehand](https://tradehand.com) `https://tradehand.com/api/mcp`
   [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
   🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
+- [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
+  [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
+  🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
 ### 🚗 <a name="sales"></a>Sales
 
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
@@ -2532,6 +2674,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
+- [LaTeX-Agent](https://latex-agent.sun-praise.com) `https://latex-agent.sun-praise.com/mcp`
+  [![LaTeX-Agent MCP connector](https://glama.ai/mcp/connectors/com.sun-praise.latex-agent/la-te-x-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.sun-praise.latex-agent/la-te-x-agent)
+  🔑 - Write and compile LaTeX without local TeX: async compile to real PDFs, error fixes, synctex and a paper library.
 - [Lenz Fact-Check](https://lenz.io/integrations/mcp-server) `https://lenz.io/mcp`
   [![Lenz Fact-Check MCP connector](https://glama.ai/mcp/connectors/io.lenz/fact-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.lenz/fact-check)
   🔐 - Checks the factual claims in a text against independent sources: a quick verdict, or a deep check with sources.
@@ -2556,6 +2701,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [Research Methods Library](https://research-methods-mcp.vercel.app/) `https://research-methods-mcp.vercel.app/mcp`
+  [![Research Methods Library MCP connector](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp)
+  🔓 - Study designs, assumptions, runnable R and Python code, and citations from research methods textbooks.
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
@@ -2592,6 +2740,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
+- [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
+  [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
+  🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
@@ -2661,6 +2812,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Horizon](https://horizon.alchemylab.sh/developers) `https://horizon.alchemylab.sh/api/mcp`
   [![Horizon MCP connector](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing/badges/score.svg)](https://glama.ai/mcp/connectors/sh.alchemylab.horizon/briefing)
   🔓 - Daily AI briefing, AI regulation tracker (EU AI Act, US federal & state, UK), regional lenses and search.
+- [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
+  [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
+  🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
@@ -2691,6 +2845,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Octocrawl](https://octocrawl.dev/?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://mcp.octocrawl.dev/mcp`
   [![Octocrawl MCP connector](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl)
   🔓 - Scrape pages to Markdown with an evidence record and map a site's URLs; blocked pages are reported, not hidden.
+- [Online Web Directory](https://onlinewebdirectory.net) `https://onlinewebdirectory.net/mcp`
+  [![Online Web Directory MCP connector](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry/badges/score.svg)](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry)
+  🔓 - How websites treat AI agents: bot walls, JavaScript needs, robots rules and llms.txt, before you fetch.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
@@ -2839,6 +2996,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Domain Intelligence](https://oti-labs.com/mcp-server) `https://oti-labs.com/mcp`
   [![Domain Intelligence MCP connector](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence)
   🔓 - WHOIS/RDAP, DNS, SSL, live subdomains with IPs and SPF/DMARC/DKIM for any domain; 1,000 free lookups a month.
+- [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
+  [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
+  🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
@@ -2854,6 +3014,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
+- [Mifori CertAgent](https://agent.mifori.com) `https://agent.mifori.com/mcp`
+  [![Mifori CertAgent MCP connector](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent)
+  🔓 - Live AI agent trust oracle: audit synthetic IQ, latency and JSON compliance via x402 or free telemetry tokens.
 - [Movahedi Privacy](https://movahedi.ca/mcp) `https://movahedi.ca/mcp`
   [![Movahedi Privacy API MCP server](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api/badges/score.svg)](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api)
   🔓 - Canadian privacy compliance: enforcement actions, glossary and Law 25 checks.
@@ -3063,6 +3226,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
+- [Actually Asked](https://actuallyasked.com/mcp) `https://mcp.actuallyasked.com/mcp`
+  [![Actually Asked MCP connector](https://glama.ai/mcp/connectors/com.actuallyasked/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.actuallyasked/mcp)
+  🔐 - Review what visitors asked on your website, publish FAQ answers written from your own pages, and follow up on leads.
 - [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
   [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
   🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
@@ -3112,6 +3278,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [China Footnotes](https://chinafootnotes.com) `https://chinafootnotes.com/mcp`
+  [![China Footnotes MCP connector](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes)
+  🔓 - Sourced, dated travel facts for first-time visitors to China: hours, tickets, booking and passport notes.
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
@@ -3197,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
   🔓 - Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.
+- [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
+  [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
+  🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
@@ -3269,6 +3441,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Document Player](https://documentplayer.com/connect-ai/) `https://documentplayer.com/mcp`
   [![Document Player MCP connector](https://glama.ai/mcp/connectors/com.documentplayer/document-player/badges/score.svg)](https://glama.ai/mcp/connectors/com.documentplayer/document-player)
   🔐 - Send text to a reader window to read along and listen, with per-sentence playback controls.
+- [Dollea Beauty Coworking](https://coworking.dollea.de/agents/?language=en) `https://coworking.dollea.de/mcp/coworking`
+  [![Dollea Beauty Coworking MCP connector](https://glama.ai/mcp/connectors/de.dollea/coworking/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/coworking)
+  🔓 - Public beauty workspace catalog in Munich; OAuth for personal prices and rental booking.
 - [EasyPDF](https://www.easypdf.fr/ai-assistants) `https://www.easypdf.fr/mcp`
   [![EasyPDF MCP connector](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf)
   🔐 - Edit text inside PDFs with fonts and layout kept, then compress, merge, split, convert or translate them.
@@ -3386,6 +3561,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
+
+- [Helfer & Profi](https://helferundprofi.de/) `https://pcbyuhvyjgadanzlghmw.supabase.co/functions/v1/mcp`
+  [![Helfer & Profi MCP connector](https://glama.ai/mcp/connectors/io.github.helferundprofi/helfer-und-profi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helferundprofi/helfer-und-profi)
+  🔓 - Free German neighborhood marketplace: search help requests and providers by postal code, post requests and offers.
 
 - [HelpySelf](https://helpyself.com) `https://helpyself.com/mcp`
   [![HelpySelf MCP connector](https://glama.ai/mcp/connectors/com.helpyself/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.helpyself/tools)
