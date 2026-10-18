@@ -2867,6 +2867,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Eigenheim Invest](https://eigenheim-invest.de/immobilienpreise-berlin/) `https://eigenheim-invest.de/mcp/`
   [![Eigenheim Invest MCP connector](https://glama.ai/mcp/connectors/io.github.magicSEO/eigenheim-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magicSEO/eigenheim-mcp)
   🔓 - Berlin property prices per m² by locality, rental yields, land values 2026, population forecast and active listings.
+- [Energy North Journal](https://energynorth.uk/developers) `https://energynorth.uk/api/mcp`
+  🔓 - Plain-English guides on electrical safety, EICRs, landlord duties and EV chargers in London; search, read and newest, no key.
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
