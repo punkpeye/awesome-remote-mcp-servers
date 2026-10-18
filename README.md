@@ -2800,6 +2800,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Electronics Architect](https://electronics-architect.com/developers) `https://electronics-architect.com/mcp`
   [![Electronics Architect MCP connector](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect/badges/score.svg)](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect)
   🔐 - Solves DC/DC power trees with real parts: each rail's current, efficiency, dissipation and tolerance corners.
+- [hedwigai](https://www.hedwigai.com/overleaf-mcp) `https://mcp.hedwigai.com`
+  [![hedwigai MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
+  🔐 - Checks every reference in a paper against Crossref and doi.org, compiles LaTeX to PDF, and keeps cited workbooks.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
@@ -3669,9 +3672,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoundRole](https://www.foundrole.com/ai-search-mcp) `https://www.foundrole.com/mcp`
   [![FoundRole MCP connector](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy)
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
-- [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
-  [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
-  🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
