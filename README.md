@@ -1462,6 +1462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
+- [Fairquery EDGAR](https://apify.com/fairquery/edgar-company-facts-filings) `https://mcp.apify.com/?tools=fetch-actor-details,fairquery/edgar-company-facts-filings`
+  [![Fairquery EDGAR MCP connector](https://glama.ai/mcp/connectors/io.github.fairquery/edgar-company-facts-filings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fairquery/edgar-company-facts-filings)
+  🔐 - SEC EDGAR filings and XBRL financial facts by ticker, CIK or company name; runs bill to your Apify account.
 - [Fast GST Refund](https://fastgstrefund.com/for-agents/) `https://fastgstrefund.com/mcp`
   [![Fast GST Refund MCP connector](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund/badges/score.svg)](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund)
   🔓 - Indian GST refund guidance, validation and Statement 3/Annexure B JSON; free checks, optional OAuth for downloads.
