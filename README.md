@@ -1140,6 +1140,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [STEADYWRK](https://steadywrk.app/developers/mcp?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-listing) `https://steadywrk.app/api/mcp`
+  [![STEADYWRK MCP connector](https://glama.ai/mcp/connectors/app.steadywrk/mcp-dispatch/badges/score.svg)](https://glama.ai/mcp/connectors/app.steadywrk/mcp-dispatch)
+  🔓 - Keyless storefront readiness probe for AI shopping agents, with a Store Guard audit link, plus dispatch estimates.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
