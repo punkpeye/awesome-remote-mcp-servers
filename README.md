@@ -2448,6 +2448,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SEO·AEO·GEO](https://seoaeogeo.app/agents) `https://seoaeogeo.app/mcp`
   [![SEO·AEO·GEO MCP connector](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo/badges/score.svg)](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo)
   🔓 - Audit a URL for SEO, AEO and GEO: AI crawler access, schema and extractability, with ranked code fixes; free preview.
+- [seoskills.sh](https://seoskills.sh) `https://seoskills.sh/api/mcp`
+  [![seoskills.sh MCP connector](https://glama.ai/mcp/connectors/sh.seoskills/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/sh.seoskills/catalog)
+  🔓 - Search 400+ SEO skills for AI agents by keyword or category, and get each one's install command and SKILL.md.
 - [Shipfound](https://www.shipfound.co/) `https://api.shipfound.co/mcp`
   [![Shipfound MCP connector](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound/badges/score.svg)](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound)
   🔐 - Site fixes, content briefs, indexing, AI crawler tracking and AI visibility checks for Claude Code and Codex.
