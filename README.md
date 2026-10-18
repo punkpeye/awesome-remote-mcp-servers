@@ -2158,6 +2158,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NumberBroom](https://numberbroom.com/mcp-server) `https://numberbroom.com/mcp`
   [![NumberBroom MCP connector](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cameron-creations/numberbroom-mcp)
   🔓 - Check a US phone's line type, carrier and TCPA litigator status before dialing; tools need a prepaid key.
+- [Northside Intelligence](https://www.northsideintelligence.com) `https://www.northsideintelligence.com/api/webmcp`
+  [![Northside Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.northsideventuresllc-sketch/northside-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.northsideventuresllc-sketch/northside-intelligence)
+  🔓 - Northside Intelligence WebMCP: lead automation, site audits, market briefs, and grant search tools for AI agents.
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
