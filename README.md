@@ -2015,7 +2015,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Shared memory that keeps AI agents from repeating costly mistakes: past decisions, rules and incidents, shared by all.
 - [NotebookLM MCP Server by useapi.net](https://useapi.net/docs/api-gemini-notebook-v1/mcp) `https://api.useapi.net/v1/gemini-notebook/mcp`
   [![NotebookLM MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/gemini-notebook/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/gemini-notebook)
-  🔑 - NotebookLM (Gemini Notebook) sources, cited chat, podcasts, slides on your Google account. Not affiliated with Google.
+  🔐 - NotebookLM (Gemini Notebook) sources, cited chat, podcasts, slides on your Google account. Not affiliated with Google.
 - [NoteMCP](https://notemcp.com) `https://notemcp.com/mcp`
   [![NoteMCP MCP connector](https://glama.ai/mcp/connectors/com.notemcp/notemcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.notemcp/notemcp)
   🔐 - Long-term memory from your notes: search, read and edit notes saved by text, voice or share sheet.
