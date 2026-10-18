@@ -200,6 +200,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QVeris](https://qveris.ai) `https://mcp.qveris.ai/mcp`
   [![QVeris MCP connector](https://glama.ai/mcp/connectors/io.github.QVerisAI/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.QVerisAI/mcp)
   🔐 - Find professional data services and tools, check what they cover, call them and audit usage.
+- [Rokha](https://rokha.ai) `https://rokha.ai/mcp/jsonrpc`
+  [![Rokha MCP connector](https://glama.ai/mcp/connectors/ai.rokha/rokha/badges/score.svg)](https://glama.ai/mcp/connectors/ai.rokha/rokha)
+  🔓 - Search a registry of agent skills and MCP servers, run them for real with traces, and hire proven agents for USDC.
 - [SkillTide](https://anclum.com) `https://anclum.com/mcp`
   [![SkillTide MCP connector](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp)
   🔓 - Search 7,500+ MCP servers, agent skills and AI projects with verified official links.
