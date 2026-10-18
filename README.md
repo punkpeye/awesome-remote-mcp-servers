@@ -2767,7 +2767,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - preflight_url tool that unwraps short links and tells agents whether to fetch or skip a URL.
 - [TANDIU](https://www.tandiu.cn) `https://www.tandiu.cn/mcp`
   [![TANDIU MCP connector](https://glama.ai/mcp/connectors/cn.tandiu/data/badges/score.svg)](https://glama.ai/mcp/connectors/cn.tandiu/data)
-  🔓 - AI infrastructure data for agents: US and Chinese LLM API prices, price index, GPU rental, self-hosting costs, cloud agents and AI funding. Updated daily.
+  🔓 - Daily AI infrastructure data for agents: LLM API prices, GPU rental, self-hosting costs, cloud agents and AI funding.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
 - [TerraLab MCP](https://terra-lab.ai/mcp) `https://mcp.terra-lab.ai/mcp`
