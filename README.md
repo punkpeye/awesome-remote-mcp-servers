@@ -1459,6 +1459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
   🔓 - 69 free finance, military, school and everyday calculators as MCP tools, each result linking its web calculator.
+- [FactIQ](https://www.factiq.com) `https://api.factiq.com/mcp`
+  [![FactIQ MCP connector](https://glama.ai/mcp/connectors/com.factiq.api/factiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.factiq.api/factiq)
+  🔐 - Official economic statistics, company filings, earnings calls and market data, with sources cited.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
