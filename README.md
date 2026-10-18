@@ -1160,6 +1160,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vouchernaut](https://vouchernaut.com/mcp) `https://vouchernaut.com/mcp`
   [![Vouchernaut MCP connector](https://glama.ai/mcp/connectors/com.vouchernaut/deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.vouchernaut/deals)
   🔓 - 13 read-only UK tools for discount codes, product prices/drops, phone/SIM deals, events, parking, software and polls.
+- [Whale Coupons](https://whalecoupons.co) `https://whalecoupons.co/mcp`
+  [![Whale Coupons MCP connector](https://glama.ai/mcp/connectors/co.whalecoupons/whale-coupons/badges/score.svg)](https://glama.ai/mcp/connectors/co.whalecoupons/whale-coupons)
+  🔓 - Store-issued coupon and promo codes for thousands of independent online stores; search by store, URL or category.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
