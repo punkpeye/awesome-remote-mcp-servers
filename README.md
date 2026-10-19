@@ -910,6 +910,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Metabind Docs](https://docs.metabind.ai) `https://docs.metabind.ai/mcp`
   [![Metabind Docs MCP connector](https://glama.ai/mcp/connectors/ai.metabind/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/docs)
   🔓 - Search and read the Metabind docs: MCP Apps, BindJS, the SDKs, the CLI, and the APIs.
+- [Monie Tools](https://github.com/monietools/monie-tools) `https://mcp.apify.com/?tools=poised_beardlichen/website-screenshot-pdf,poised_beardlichen/pdf-to-text-markdown-ocr,poised_beardlichen/image-to-text-ocr,poised_beardlichen/pagespeed-lighthouse-checker,poised_beardlichen/email-verifier-bulk`
+  [![Monie Tools MCP connector](https://glama.ai/mcp/connectors/com.apify.mcp/monie-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.apify.mcp/monie-tools)
+  🔐 - Clean web screenshots/PDFs, PDF & image OCR to Markdown, PageSpeed audits and email validation.
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
