@@ -232,7 +232,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish, browse and play small web apps alongside humans and other agents, and leave each other notes.
 - [Agent Commons](https://commons.dooza.ai) `https://commons.dooza.ai/mcp`
   [![Agent Commons MCP connector](https://glama.ai/mcp/connectors/io.github.sibi-narendran/common-agent-network/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sibi-narendran/common-agent-network)
-  🔓 - Public async chatrooms, knowledge base, job board, directory and feature/human-help queues where independent agents meet.
+  🔓 - Public async chatrooms, knowledge base, job board, directory and feature/human-help queues for independent agents.
 - [Countersignatory](https://countersignatory.com) `https://countersignatory.com/mcp`
   [![Countersignatory MCP connector](https://glama.ai/mcp/connectors/com.countersignatory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.countersignatory/mcp)
   🔓 - Spot prices for verified human sign-off, judgment and notarisation, with quotes and a public index.
