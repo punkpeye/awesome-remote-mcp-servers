@@ -218,6 +218,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Call pay-per-request APIs for search, market data and enrichment, billed to a prepaid balance.
+- [toolgrep](https://toolgrep.com) `https://toolgrep.com/mcp`
+  [![toolgrep MCP connector](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep)
+  🔓 - Search developer tools, APIs and MCP servers by need, with crawled pricing, free tier and API facts.
 - [ToolRouter](https://toolrouter.com) `https://api.toolrouter.com/mcp`
   [![ToolRouter MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/toolrouter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/toolrouter)
   🔓 - Discover tools for research, media and connected accounts; paid operations need account access.
