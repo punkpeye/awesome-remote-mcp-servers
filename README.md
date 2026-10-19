@@ -485,6 +485,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FARPY](https://farpy.com) `https://api.farpy.com/mcp`
   [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
+- [FastGPU](https://fastgpu.co) `https://fastgpu.co/api/mcp`
+  [![FastGPU MCP connector](https://glama.ai/mcp/connectors/co.fastgpu/fastgpu/badges/score.svg)](https://glama.ai/mcp/connectors/co.fastgpu/fastgpu)
+  🔓 - Compare live GPU rental prices across clouds and size the GPU an AI job needs.
 - [Fiskmas](https://fiskmas.dev) `https://mcp.fiskmas.dev/mcp`
   [![Fiskmas MCP connector](https://glama.ai/mcp/connectors/dev.fiskmas/fiskmas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fiskmas/fiskmas)
   🔓 - Create, deploy and monitor Docker apps on live HTTPS URLs.
