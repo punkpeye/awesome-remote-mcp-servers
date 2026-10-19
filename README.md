@@ -613,6 +613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
+- [TimelinesAI](https://timelines.ai/whatsapp-mcp?utm_source=punkpeye&utm_medium=mcp_directory&utm_campaign=mcp_launch) `https://mcp.services.timelines.ai/mcp`
+  [![TimelinesAI MCP connector](https://glama.ai/mcp/connectors/io.github.InitechSoftware/whatsapp-mcp-by-timelinesai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.InitechSoftware/whatsapp-mcp-by-timelinesai)
+  🔐 - Read, reply to, label and assign chats in your team's WhatsApp inbox, including WhatsApp Business API numbers.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
