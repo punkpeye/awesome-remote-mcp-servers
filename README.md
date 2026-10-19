@@ -2930,6 +2930,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
   [![Ficiel MCP connector](https://glama.ai/mcp/connectors/io.ficiel/ficiel/badges/score.svg)](https://glama.ai/mcp/connectors/io.ficiel/ficiel)
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
+- [LinkedNav](https://www.linkednav.com/mcp?utm_source=awesome-remote-mcp&utm_medium=listing) `https://mcp.linkednav.com/`
+  [![LinkedNav MCP connector](https://glama.ai/mcp/connectors/io.github.linglistack/linkednav-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.linglistack/linkednav-mcp)
+  🔐 - Detect LinkedIn buying signals and run outreach you approve, on your own LinkedNav account. Not made by LinkedIn.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
