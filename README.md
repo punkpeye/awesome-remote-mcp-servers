@@ -2406,6 +2406,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plainrouter Sandbox](https://plainrouter.com/docs/mcp/setup) `https://plainrouter.com/mcp/sandbox`
   [![Plainrouter Sandbox MCP connector](https://glama.ai/mcp/connectors/com.plainrouter/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plainrouter/mcp)
   🔓 - Test Meta advertising account, signal-health, and performance tools with synthetic data.
+- [PoachSearch Brand Check](https://poachsearch.com/developers) `https://poachsearch.com/mcp`
+  [![PoachSearch Brand Check MCP connector](https://glama.ai/mcp/connectors/com.poachsearch/brand-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.poachsearch/brand-check)
+  🔑 - Find affiliates bidding on your brand in search ads, by country. First 100 searches free.
 - [Proxy](https://useproxy.dev) `https://mcp.useproxy.dev/mcp`
   [![Proxy MCP connector](https://glama.ai/mcp/connectors/dev.useproxy/proxy/badges/score.svg)](https://glama.ai/mcp/connectors/dev.useproxy/proxy)
   🔐 - Search Meta, Google, LinkedIn and TikTok ad libraries for competitor ads, creatives and transcripts.
