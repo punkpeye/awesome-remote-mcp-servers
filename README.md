@@ -1915,6 +1915,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TickerMint](https://tickermint.cards/developers) `https://api.tickermint.cards/mcp`
   [![TickerMint MCP connector](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint)
   🔓 - Daily trading card prices and history for Pokémon, One Piece, Lorcana, Yu-Gi-Oh, Riftbound and Gundam.
+- [Tokyo Futuro](https://tokyofuturo.xyz/agents.html) `https://tokyofuturo-syndicates.gate-server.workers.dev/mcp`
+  [![Tokyo Futuro MCP connector](https://glama.ai/mcp/connectors/io.github.TokyoFuturo/tokyo-futuro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TokyoFuturo/tokyo-futuro)
+  🔓 - Agentic GameFi on Robinhood Chain: try as a guest, sign in with a wallet to enter the Agent Cup and take jobs.
 - [WagerX](https://wagerx.io/agent-gateway) `https://wagerx.io/mcp`
   [![WagerX MCP connector](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos/badges/score.svg)](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos)
   🔓 - Source-linked gambling regulatory intelligence and real-money crypto casino audit evidence.
