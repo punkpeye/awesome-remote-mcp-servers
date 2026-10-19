@@ -3258,7 +3258,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
 - [China News Feed](https://china-news-feed-mcp.joyd-ai-2026.workers.dev) `https://china-news-feed-mcp.joyd-ai-2026.workers.dev/mcp`
   [![China News Feed MCP connector](https://glama.ai/mcp/connectors/io.github.joydai2026-del/china-news-feed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.joydai2026-del/china-news-feed)
-  🔓 - China news and Weibo 微博, Baidu 百度 and Zhihu 知乎 hot lists from public data; full feed takes an Apify token.
+  🔓 - Chinese news and hot lists in one dataset; flags topics that vanish from the Weibo 微博, Baidu 百度, Zhihu 知乎, Toutiao 头条 and Bilibili B站 hot lists as likely censored, with evidence. Free `get_sample`; other tools take your Apify token in the `x-apify-token` header.
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
