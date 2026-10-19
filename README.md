@@ -3370,6 +3370,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [IP99](https://ip99.com/) `https://ip99.com/mcp`
   [![IP99 MCP connector](https://glama.ai/mcp/connectors/com.ip99/ip99/badges/score.svg)](https://glama.ai/mcp/connectors/com.ip99/ip99)
   🔓 - IP risk and geolocation lookup where every verdict carries the age of its evidence.
+- [ISMS Copilot](https://www.ismscopilot.com/mcp?ref=awesome-remote) `https://account.ismscopilot.com/v1/account/mcp`
+  [![ISMS Copilot MCP connector](https://glama.ai/mcp/connectors/io.github.tristanroth1/ismscopilot-account/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tristanroth1/ismscopilot-account)
+  🔐 - The compliance specialist your AI calls: ISO 27001, SOC 2, GDPR, NIS 2, DORA and more.
 - [Jid](https://jid.com/agents) `https://jid.com/mcp`
   [![Jid MCP connector](https://glama.ai/mcp/connectors/com.jid/jid/badges/score.svg)](https://glama.ai/mcp/connectors/com.jid/jid)
   🔓 - Checks a business against US registries, sanctions and its domain before an agent pays or signs, with signed receipts.
