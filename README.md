@@ -1981,7 +1981,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
-    - [Azquo](https://azquo.com) `https://data.azquo.ai/mcp`
+- [Azquo](https://azquo.com) `https://data.azquo.ai/mcp`
   [![Azquo MCP connector](https://glama.ai/mcp/connectors/ai.azquo/azquo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.azquo/azquo)
   🔐 - Shared, auditable memory for multiple agents: hierarchical data whose totals add up and every write is attributed.
 - [Bilg](https://app.bilgai.com/docs/connect?ref=mcp-directory) `https://mcp.bilgai.com/mcp`
