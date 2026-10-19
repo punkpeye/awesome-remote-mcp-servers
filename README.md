@@ -729,6 +729,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prisma](https://prisma.io) `https://mcp.prisma.io/mcp`
   [![Prisma MCP connector](https://glama.ai/mcp/connectors/io.prisma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.prisma/mcp)
   🔐 - Manage Prisma Postgres databases and run migrations.
+- [Scribase](https://scribase.com/mcp) `https://api.scribase.com/mcp`
+  [![Scribase MCP connector](https://glama.ai/mcp/connectors/com.scribase/scribase/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribase/scribase)
+  🔐 - Create Supabase-compatible Postgres projects and branches, run SQL, and manage auth, storage, and email.
 - [Supabase](https://supabase.com) `https://mcp.supabase.com/mcp`
   [![Supabase MCP connector](https://glama.ai/mcp/connectors/com.supabase/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.supabase/mcp)
   🔐 - Manage Supabase projects, run SQL, and inspect schemas.
