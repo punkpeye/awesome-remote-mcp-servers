@@ -3551,6 +3551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialFaktory](https://www.socialfaktory.com) `https://www.socialfaktory.com/mcp`
   [![SocialFaktory MCP connector](https://glama.ai/mcp/connectors/com.socialfaktory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialfaktory/mcp)
   🔐 - Write, schedule and publish a brand's social content on TikTok, Instagram, YouTube, X and more.
+- [Sociality MCP](https://sociality.io/mcp) `https://api.sociality.io/mcp`
+  [![Sociality MCP connector](https://glama.ai/mcp/connectors/io.sociality/sociality-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sociality/sociality-mcp)
+  🔐 - Analyze social account performance, published posts, and competitors across six social networks.
 - [SocialRobot](https://socialrobot.io/mcp) `https://socialrobot.io/api/mcp`
   [![SocialRobot MCP connector](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp)
   🔓 - Schedule and analyze posts on 9 platforms, including Instagram, LinkedIn, X and TikTok; tools need OAuth.
