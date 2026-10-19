@@ -2329,6 +2329,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Hermoso MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso)
   🔓 - Research competitor ads, generate image and video ads, schedule social posts and run paid ad campaigns.
 
+- [How It Spread](https://howitspread.com/mcp) `https://howitspread.com/api/mcp`
+  [![How It Spread MCP connector](https://glama.ai/mcp/connectors/com.howitspread/howitspread/badges/score.svg)](https://glama.ai/mcp/connectors/com.howitspread/howitspread)
+  🔓 - Viral marketing precedents with dated, sourced spread timelines and a Spread Score. No sign-in.
+
 - [iMario](https://imario.ai) `https://mcp.imario.ai/mcp`
   [![iMario MCP connector](https://glama.ai/mcp/connectors/ai.imario/imario/badges/score.svg)](https://glama.ai/mcp/connectors/ai.imario/imario)
   🔐 - Ask synthetic audiences built from real people how they react to copy, pages, prices and images.
