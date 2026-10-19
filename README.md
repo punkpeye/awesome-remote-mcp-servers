@@ -1606,7 +1606,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![OpenChainBench MCP connector](https://glama.ai/mcp/connectors/io.github.Flotapponnier/openchainbench/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Flotapponnier/openchainbench)
   🔓 - Live crypto infra benchmarks: RPC latency, bridge fees, aggregator head lag, perp funding, with PromQL access.
 - [OptimistFi](https://optimistfi.com/mcp) `https://mcp.optimistfi.com/mcp`
-  [![OptimistFi MCP connector](https://glama.ai/mcp/connectors/com.optimistfi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.optimistfi/mcp)
+  [![OptimistFi MCP connector](https://glama.ai/mcp/connectors/com.optimistfi/optimistfi/badges/score.svg)](https://glama.ai/mcp/connectors/com.optimistfi/optimistfi)
   🔓 - Perpetual futures on 40 venues, 21 prop firms' rules and prices, and SEC-sourced theses on 6,100+ US stocks.
 - [OptionsAhoy](https://optionsahoy.com/for-agents) `https://optionsahoy.com/mcp`
   [![OptionsAhoy MCP connector](https://glama.ai/mcp/connectors/io.github.AlvisoOculus/optionsahoy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AlvisoOculus/optionsahoy-mcp)
