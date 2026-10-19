@@ -1085,6 +1085,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
+  [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
+  🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
 - [Hark Tech](https://harktech.co.uk/for-ai-assistants.html) `https://harktech.co.uk/mcp`
   [![Hark Tech MCP connector](https://glama.ai/mcp/connectors/uk.co.harktech/quotes/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.harktech/quotes)
   🔓 - Price your own STL, 3MF or STEP file, or a Printables/Thingiverse model, for UK 3D printing and get a checkout link.
