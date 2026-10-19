@@ -2337,6 +2337,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![IndustryLens MCP connector](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public/badges/score.svg)](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public)
   🔓 - Competitive intelligence on B2B SaaS markets: competitor profiles, strategic moves, pricing changes and reports.
   
+- [Karma.Domains](https://karma.domains/en/expired-domains-mcp/) `https://mcp.karma.domains/mcp`
+  [![Karma.Domains MCP connector](https://glama.ai/mcp/connectors/domains.karma.mcp/expired-domains-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/domains.karma.mcp/expired-domains-mcp)
+  🔐 - Find expired, auction and backorder domains with Wayback history and SEO metrics; run WHOIS, DNS and backlink checks.
+
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
