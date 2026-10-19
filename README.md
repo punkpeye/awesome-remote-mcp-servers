@@ -854,6 +854,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FernTool](https://www.ferntool.com/api) `https://www.ferntool.com/mcp`
   [![FernTool IP Lookup MCP connector](https://glama.ai/mcp/connectors/com.ferntool/ip/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferntool/ip)
   🔓 - IP lookup and validation with ASN, geo and VPN/Tor flags, plus WHOIS, DNS, reverse DNS and subnet tools.
+- [Firedrill](https://firedrill.run/agents) `https://mcp.firedrill.run/mcp`
+  [![Firedrill MCP connector](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill)
+  🔐 - Prepare AI agent simulations, scenarios and synthetic tools, and inspect saved outcomes and evidence. Free to use.
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
