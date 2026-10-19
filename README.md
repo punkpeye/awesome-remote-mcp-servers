@@ -1634,6 +1634,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PumpPill](https://www.pumppill.org/for-agents) `https://api.pumppill.org/mcp`
   [![PumpPill MCP connector](https://glama.ai/mcp/connectors/org.pumppill/token-safety/badges/score.svg)](https://glama.ai/mcp/connectors/org.pumppill/token-safety)
   🔓 - Token safety reads, deployer history and measured outcomes for Robinhood Chain and Solana contracts.
+- [Pyxmark](https://pyxmark.com) `https://mcp.pyxmark.com/mcp`
+  [![Pyxmark MCP connector](https://glama.ai/mcp/connectors/com.pyxmark/pyxmark/badges/score.svg)](https://glama.ai/mcp/connectors/com.pyxmark/pyxmark)
+  🔓 - Checks a company or person before you pay them: sanctions lists, SEC filings and domain age, with sources.
 - [Qotien](https://qotien.fr) `https://app.qotien.fr/api/fiscal/v1/mcp`
   [![Qotien MCP connector](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement)
   🔓 - French income tax, IFI, PER and 32 pension schemes, sourced to primary law and dated; x402 pay-per-call.
