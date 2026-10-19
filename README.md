@@ -2888,6 +2888,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kvartiry-Phuket](https://kvartiry-phuket.com/otkrytye-dannye/#english) `https://kvartiry-phuket.com/mcp`
   [![Kvartiry-Phuket MCP connector](https://glama.ai/mcp/connectors/com.kvartiry-phuket/phuket/badges/score.svg)](https://glama.ai/mcp/connectors/com.kvartiry-phuket/phuket)
   🔓 - Russian-language Phuket property guides, districts, asking prices and condo assessment rates, plus weather and beaches.
+- [LenDb.ai](https://lendb.ai/developers) `https://lendb.ai/mcp`
+  [![LenDb.ai MCP connector](https://glama.ai/mcp/connectors/ai.lendb/lendb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lendb/lendb)
+  🔓 - Find US mortgage loan officers by loan type, place and language, with sourced, dated facts.
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
   🔓 - Street-level Australian property data: price forecasts, crime, sales and zoning; data needs a key.
