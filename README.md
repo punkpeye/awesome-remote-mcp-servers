@@ -2203,6 +2203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zitierfest MCP connector](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest/badges/score.svg)](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest)
   🔐 - German statutes verbatim (federal, 16 states, EU), federal court decisions with paragraph numbers, legal fees.
 
+- [wjorg 律师教你怎么做 (Chinese legal resources)](https://wjorg.com) `https://wjorg.com/mcp`
+  🔓 - Article-level full text across 2,527 PRC statutes (87,336 articles), lawyer-written practice guides, crime definitions, provincial personal-injury compensation standards, judicial service centres in 335 cities and 56 legal calculators. Read-only, no sign-up, no API key.
+
 ### 🎯 <a name="marketing"></a>Marketing
 
 - [402registry](https://402registry.com) `https://402registry.com/mcp`
