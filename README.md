@@ -851,6 +851,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EmpirioLabs AI](https://docs.empiriolabs.ai/mcp) `https://mcp.empiriolabs.ai/mcp`
   [![EmpirioLabs AI MCP connector](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp)
   🔐 - Run 200+ AI models for chat, image, video, speech and 3D, plus web search, batches and async jobs.
+- [Evolize](https://evolize.com/mcp) `https://evolize.com/api/mcp`
+  [![Evolize MCP connector](https://glama.ai/mcp/connectors/com.evolize/accessibility-scanner/badges/score.svg)](https://glama.ai/mcp/connectors/com.evolize/accessibility-scanner)
+  🔓 - Scan a public website for accessibility issues and re-check it after deploying a fix.
 - [FernTool](https://www.ferntool.com/api) `https://www.ferntool.com/mcp`
   [![FernTool IP Lookup MCP connector](https://glama.ai/mcp/connectors/com.ferntool/ip/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferntool/ip)
   🔓 - IP lookup and validation with ASN, geo and VPN/Tor flags, plus WHOIS, DNS, reverse DNS and subnet tools.
