@@ -939,6 +939,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PDFOven](https://pdfoven.com) `https://pdfoven.com/mcp`
   [![PDFOven MCP connector](https://glama.ai/mcp/connectors/com.pdfoven/pdfoven/badges/score.svg)](https://glama.ai/mcp/connectors/com.pdfoven/pdfoven)
   🔓 - Render PDFs and PNG images from HTML, Markdown, URLs or Handlebars templates; tools need a free key (100 renders/mo).
+- [Pinafly Guides](https://pinafly.com/agents) `https://pinafly.com/mcp/guides`
+  [![Pinafly Guides MCP connector](https://glama.ai/mcp/connectors/com.pinafly/guides/badges/score.svg)](https://glama.ai/mcp/connectors/com.pinafly/guides)
+  🔐 - Step-by-step guides for tasks in other products, found or drafted by your agent for a person to publish.
+- [Pinafly UAT](https://pinafly.com/agents) `https://pinafly.com/mcp/uat`
+  [![Pinafly UAT MCP connector](https://glama.ai/mcp/connectors/com.pinafly/uat/badges/score.svg)](https://glama.ai/mcp/connectors/com.pinafly/uat)
+  🔐 - Your coding agent writes a walkthrough of its work, you pin what is wrong, and it fixes each pin.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
