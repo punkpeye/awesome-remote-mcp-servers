@@ -3962,6 +3962,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Time of Meeting](https://timeofmeeting.com/mcp) `https://timeofmeeting.com/mcp`
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
+- [type.com](https://type.com) `https://api.type.com/mcp`
+  [![type.com MCP connector](https://glama.ai/mcp/connectors/com.type/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.type/mcp)
+  🔐 - Shared team workspace for Claude and Codex: spaces, threads, docs, skills, apps, automations and connected tools.
 - [Verant](https://verant.ai) `https://verant.ai/mcp`
   [![Verant MCP connector](https://glama.ai/mcp/connectors/ai.verant/verant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.verant/verant)
   🔐 - Proofread live web pages and whole sites for spelling, grammar, and placeholder text, with a fix for each.
