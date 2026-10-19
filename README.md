@@ -1590,6 +1590,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
+- [Money Reactor](https://money-reactor.makar52nn2016.workers.dev/) `https://money-reactor.makar52nn2016.workers.dev/mcp`
+  [![Money Reactor MCP connector](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor)
+  🔓 - Pay-per-call x402 API on Base: token verdicts, research dossiers, crypto prices, weather, AI chat; USDC.
+
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
   🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
