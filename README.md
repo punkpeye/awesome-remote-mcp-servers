@@ -839,6 +839,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
+- [EasyGerber](https://www.easygerber.com/) `https://www.easygerber.com/api/mcp`
+  [![EasyGerber MCP connector](https://glama.ai/mcp/connectors/io.github.EasyGerber/easygerber/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.EasyGerber/easygerber)
+  🔓 - AI PCB design, layout, and routing.
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
   [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
   🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
