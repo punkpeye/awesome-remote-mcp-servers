@@ -3665,6 +3665,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
   [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
+- [POEditor (Official)](https://poeditor.com/kb/how-to-set-up-and-use-the-poeditor-mcp-server) `https://mcp.poeditor.com/mcp`
+  [![POEditor MCP connector](https://glama.ai/mcp/connectors/io.github.POEditor/mcp.poeditor.com/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.POEditor/mcp.poeditor.com)
+  🔐 - Manage localization projects: add terms, update translations, run QA checks, auto-translate, and manage glossaries.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
