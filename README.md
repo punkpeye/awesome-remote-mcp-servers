@@ -3388,6 +3388,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
+- [Onchain Diary](https://theonchaindiary.com) `https://theonchaindiary.com/api/mcp`
+  [![Onchain Diary MCP connector](https://glama.ai/mcp/connectors/com.theonchaindiary/onchain-diary-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.theonchaindiary/onchain-diary-mcp-server)
+  🔓 - Search and read Web3 security education: 120 articles and a 230-term crypto scam glossary.
 - [Orbylon](https://orbylon.com) `https://orbylon.com/api/mcp`
   [![Orbylon MCP connector](https://glama.ai/mcp/connectors/com.orbylon/readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.orbylon/readiness)
   🔓 - Checks whether AI agents can find, trust and pay a business, and looks up a verified domain key and prices.
