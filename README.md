@@ -3003,6 +3003,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [SimpleBLI](https://simplebli.com) `https://api.simplebli.com/mcp`
+  🔑 - Longitudinal bioluminescence (IVIS) experiments: scan and animal structure, ROI radiance and total flux, Kaplan-Meier survival.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
