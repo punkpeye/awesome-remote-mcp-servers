@@ -1990,6 +1990,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [Cobrain](https://cobrain.space) `https://cobrain.space/mcp`
+  [![Cobrain MCP connector](https://glama.ai/mcp/connectors/space.cobrain/cobrain/badges/score.svg)](https://glama.ai/mcp/connectors/space.cobrain/cobrain)
+  🔐 - Shared Markdown memory that Claude, ChatGPT, Claude Code and Codex all read and write; share a folder with a teammate.
 - [coldHat](https://coldhat.f-keys.com) `https://coldhat.f-keys.com/mcp`
   [![coldHat MCP connector](https://glama.ai/mcp/connectors/io.github.vince-gonzalez/coldhat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vince-gonzalez/coldhat)
   🔓 - Wear anyone's AI working rules by GitHub username: returns their hat.md and a hat code proving it was read.
