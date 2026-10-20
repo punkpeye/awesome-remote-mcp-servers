@@ -456,6 +456,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![localscreenshot MCP connector](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot/badges/score.svg)](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot)
   🔓 - Screenshot any public page as PNG, JPEG or PDF, from 227 countries, with cookie banners and ads hidden.
 
+- [Monito](https://www.monito.dev/docs/mcp) `https://www.monito.dev/api/mcp`
+  [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
+  🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
