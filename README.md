@@ -1593,6 +1593,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
   🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
+- [MRR Ledger](https://mrrledger.com/for-agents/) `https://mrrledger.com/mcp`
+  [![MRR Ledger MCP connector](https://glama.ai/mcp/connectors/com.mrrledger/mrrledger/badges/score.svg)](https://glama.ai/mcp/connectors/com.mrrledger/mrrledger)
+  🔓 - Sourced, dated MRR/ARR for AI-agent businesses: leaderboard, profiles, growth series and change log.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
