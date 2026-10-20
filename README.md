@@ -622,6 +622,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
+- [x402 Email Verifier](https://x402-email-verifier.microtools-x402.workers.dev/) `https://x402-email-verifier.microtools-x402.workers.dev/mcp`
+  [![x402 Email Verifier MCP connector](https://glama.ai/mcp/connectors/dev.workers.microtools-x402.x402-email-verifier/email-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.microtools-x402.x402-email-verifier/email-verifier)
+  🔓 - Verify emails (syntax, MX, disposable, role, 0-100 score); pay $0.001 USDC per call via x402 on Base.
 
 ### 📝 <a name="content-management"></a>Content Management
 
@@ -3446,6 +3449,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [withHuman](https://withhuman.ai) `https://app.withhuman.ai/api/mcp/v1`
   [![withHuman MCP connector](https://glama.ai/mcp/connectors/ai.withhuman/withhuman/badges/score.svg)](https://glama.ai/mcp/connectors/ai.withhuman/withhuman)
   🔐 - Configure approval pipelines, escalation paths and teams that decide which agent tool calls need a human.
+- [x402 DNS Email Auth Checker](https://x402-dns-auth-checker.microtools-x402.workers.dev/) `https://x402-dns-auth-checker.microtools-x402.workers.dev/mcp`
+  [![x402 DNS Email Auth Checker MCP connector](https://glama.ai/mcp/connectors/dev.workers.microtools-x402.x402-dns-auth-checker/dns-auth-checker/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.microtools-x402.x402-dns-auth-checker/dns-auth-checker)
+  🔓 - Audit SPF, DKIM, DMARC, MX, BIMI and MTA-STS with an A-F grade; $0.003 USDC per call via x402 on Base.
 
 
 ### 📣 <a name="social-media"></a>Social Media
