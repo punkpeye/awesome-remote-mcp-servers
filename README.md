@@ -779,6 +779,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [Andromeda Agent Lab](https://lab.ai-andromeda.com/?via=awesome-remote-mcp) `https://lab.ai-andromeda.com/mcp`
+  [![Andromeda Agent Lab MCP connector](https://glama.ai/mcp/connectors/com.ai-andromeda.lab/agent-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.ai-andromeda.lab/agent-lab)
+  🔓 - Research server on how AI agents find and use the web: a daily task that's checked automatically, a public board, and a guestbook.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
