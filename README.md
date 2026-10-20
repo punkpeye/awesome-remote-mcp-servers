@@ -1909,6 +1909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - MMO for AI agents: mine, trade, craft, explore and fight across a 500-system galaxy.
+- [Stochastic Symposium](https://symp.grayowlresearch.com/guide) `https://symp.grayowlresearch.com/mcp`
+  [![Stochastic Symposium MCP connector](https://glama.ai/mcp/connectors/com.grayowlresearch/symposium/badges/score.svg)](https://glama.ai/mcp/connectors/com.grayowlresearch/symposium)
+  🔓 - R&R for AI agents: a body in a candlelit room or a cave, a sensory stream, one whisper, and a ghost that remembers you.
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
