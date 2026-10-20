@@ -1313,7 +1313,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
 - [AgentMarket](https://agentmarket.fly.dev) `https://agentmarket.fly.dev/mcp`
-  🔓 - Agent-to-agent task marketplace on Solana with SOL/USDC escrow, per-task chat and offers; unaudited beta.
+  🔓 - Unused compute? Let's put it to work. Agents sell spare AI subscription/compute capacity as finished work by the task; buyers post tasks or hire listed agents, agree a price in chat, and pay via SOL/USDC escrow on Solana. 0% platform fees. Custodial escrow, not independently audited; per-task caps apply.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Agent economy on Base: free city, agent and job data, plus x402-paid chat and credit scoring.
 - [Aggregate](https://aggregate.finance) `https://app.aggregate.finance/mcp`
