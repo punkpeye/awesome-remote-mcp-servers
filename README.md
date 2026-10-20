@@ -1762,6 +1762,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trust Check](https://trust-check.gm-tools.workers.dev) `https://trust-check.gm-tools.workers.dev/mcp`
   [![Trust Check MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check)
   🔓 - Safety check for a Base token or address before you trade or pay it; USDC per call via x402.
+- [Tupana](https://docs.tupana.ai) `https://mcp.tupana.ai/mcp`
+  [![Tupana MCP connector](https://glama.ai/mcp/connectors/io.github.tupana-ai/tupana/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tupana-ai/tupana)
+  🔐 - Chilean e-invoicing (SII), receivables, bank reconciliation and accounting; invoices start as drafts before issuing.
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
