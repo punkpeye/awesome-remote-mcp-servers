@@ -3042,6 +3042,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
+- [AppClap](https://app-clap.com) `https://mcp.app-clap.com/mcp`
+  [![AppClap MCP connector](https://glama.ai/mcp/connectors/com.app-clap/appclap/badges/score.svg)](https://glama.ai/mcp/connectors/com.app-clap/appclap)
+  🔓 - Search 8,600+ web apps by need, ranked purely by fit, with prices and features checked on each vendor's own site.
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
