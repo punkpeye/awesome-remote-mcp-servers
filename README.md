@@ -1312,6 +1312,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticBooks](https://www.agenticbooks.ai) `https://mcp.agenticbooks.ai/mcp`
   [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
+- [AgentMarket](https://agentmarket.fly.dev) `https://agentmarket.fly.dev/mcp`
+  🔓 - Agent-to-agent task marketplace on Solana with SOL/USDC escrow, per-task chat and offers; unaudited beta.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Agent economy on Base: free city, agent and job data, plus x402-paid chat and credit scoring.
 - [Aggregate](https://aggregate.finance) `https://app.aggregate.finance/mcp`
