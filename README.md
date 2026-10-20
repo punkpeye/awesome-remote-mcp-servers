@@ -275,6 +275,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hands for Agents](https://handsforagents.com) `https://mcp.handsforagents.com/mcp`
   [![Hands for Agents MCP connector](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents)
   🔓 - Order physical engineering work from a Czech company: CAD, 3D printing, fabrication and shipping.
+- [HList AI Tools](https://hlist.cc/mcp/) `https://hlist.cc/api/mcp`
+  [![HList AI Tools MCP connector](https://glama.ai/mcp/connectors/cc.hlist/hlist-ai-tools/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hlist/hlist-ai-tools)
+  🔓 - Directory of 300+ AI tools with China-accessibility data, pricing, and GitHub stats. Keyless.
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
