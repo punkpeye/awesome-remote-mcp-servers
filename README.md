@@ -2835,9 +2835,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
-- [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
-  [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
-  🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
 - [TrackingTime](https://trackingtime.co) `https://mcp.trackingtime.co/mcp`
   [![TrackingTime MCP connector](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server)
   🔐 - Start and stop timers, log time and report on hours, projects, tasks and customers.
@@ -3953,6 +3950,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
+  [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
+  🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
