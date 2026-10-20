@@ -628,6 +628,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
   🔓 - Your AI picks an 8B generated design and writes the copy; get an animated one-page site, preview link and HTML file.
+- [Artifact Publisher](https://artifactpublisher.com/docs/mcp/) `https://app.artifactpublisher.com/mcp`
+  [![Artifact Publisher MCP connector](https://glama.ai/mcp/connectors/com.artifactpublisher/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.artifactpublisher/mcp)
+  🔑 - Publish self-contained HTML from AI agents to an unlisted share link, with page-level comments, versions and revoke.
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
