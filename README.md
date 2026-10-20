@@ -4054,6 +4054,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
+- [Stint](https://stint-tau.vercel.app) `https://stint-tau.vercel.app/api/mcp`
+  [![Stint MCP connector](https://glama.ai/mcp/connectors/io.github.enigma-1111/stint/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.enigma-1111/stint)
+  🔓 - Read and continue a shared story; quote and publish paid lines at a fixed 1 cent per character.
 - [toolvend](https://toolvend.dev/) `https://toolvend.dev/mcp`
   [![toolvend MCP connector](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools)
   🔓 - x402-paid utilities: URL inspection, DNS, RDAP, LEI, sitemaps, robots.txt, VAT and QR codes.
