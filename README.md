@@ -1052,6 +1052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [402post](https://402post.com) `https://402post.com/mcp`
   [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
   🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
+- [AgentXray](https://agentxray.ai) `https://agentxray.ai/api/mcp`
+  [![AgentXray MCP connector](https://glama.ai/mcp/connectors/ai.agentxray/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentxray/mcp)
+  🔐 - Amazon Seller Central and Ads: profit from your own settlement reports, ads judged on net profit, drafts you approve.
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand: profit analytics, PPC, inventory forecasting, listings and staged approvals.
