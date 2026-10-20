@@ -2359,6 +2359,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loomaly](https://loomaly.com) `https://loomaly.com/mcp`
   [![Loomaly MCP connector](https://glama.ai/mcp/connectors/com.loomaly/loomaly/badges/score.svg)](https://glama.ai/mcp/connectors/com.loomaly/loomaly)
   🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
+- [Mador](https://mador.ai) `https://mador.ai/api/mcp`
+  [![Mador MCP connector](https://glama.ai/mcp/connectors/ai.mador/mador/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mador/mador)
+  🔐 - Read-only access to a Mador account: how often AI assistants name a business, and who else they name.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 - [MailSenpai](https://www.mailsenpai.com) `https://mcp.mailsenpai.com/mcp`
