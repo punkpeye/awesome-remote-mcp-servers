@@ -1860,7 +1860,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search and read Danish recipes, ingredients and categories; read-only.
 - [WRDO](https://wrdo.co.za/support/mcp) `https://api.wrdo.co.za/mcp`
   [![WRDO MCP connector](https://glama.ai/mcp/connectors/za.co.wrdo/wrdo/badges/score.svg)](https://glama.ai/mcp/connectors/za.co.wrdo/wrdo)
-  🔓 - Find local businesses, price lists and menus in the Western Cape, South Africa. Read-only, no auth.
+  🔓 - Find local businesses, price lists and menus in Cape Town and the Western Cape, South Africa. Read-only, no auth.
 - [bordeaux.guru](https://bordeaux.guru/mcp-server/) `https://mcp.bordeaux.guru/mcp`
   [![bordeaux.guru MCP connector](https://glama.ai/mcp/connectors/guru.bordeaux/en-primeur/badges/score.svg)](https://glama.ai/mcp/connectors/guru.bordeaux/en-primeur)
   🔓 - First-hand Bordeaux en primeur tasting notes, appellation climate, vine phenology and terroir geodata.
