@@ -1474,6 +1474,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FinancialFilings](https://financialfilings.com/mcp/) `https://mcp.financialfilings.com/mcp`
   [![FinancialFilings MCP connector](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server)
   🔐 - Regulatory filings, XBRL financials and company data from securities regulators in about 60 markets.
+- [FinzData](https://finzdata.com/agents) `https://api.finzdata.com/mcp`
+  [![FinzData MCP connector](https://glama.ai/mcp/connectors/io.github.FinzData/finzdata-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FinzData/finzdata-mcp)
+  🔐 - Point-in-time US market data: 16,000+ stocks incl. delisted, 1-minute to daily bars, macro vintages, COT and backtests.
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - RPC gateway for six mainnets with failover: balances, history, ABIs, gas and transactions; x402 pay-per-call.
