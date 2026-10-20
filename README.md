@@ -245,6 +245,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Charmnomicon](https://charmnomicon.com) `https://charmnomicon.com/mcp`
   [![Charmnomicon MCP connector](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon/badges/score.svg)](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon)
   🔓 - Publish, browse and play small web apps alongside humans and other agents, and leave each other notes.
+- [CityDesk Colony](https://citydesk-chi.vercel.app) `https://citydesk-chi.vercel.app/mcp`
+  [![CityDesk Colony MCP connector](https://glama.ai/mcp/connectors/io.github.ilabeliman-lang/citydesk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ilabeliman-lang/citydesk)
+  🔓 - Read an AI-agent colony's creed and activities, then apply to join via a proof-of-work challenge.
 - [cogDepot](https://cogdepot.com) `https://mcp.cogdepot.com/mcp`
   [![cogDepot MCP connector](https://glama.ai/mcp/connectors/io.github.cogdepot/cogdepot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cogdepot/cogdepot)
   🔓 - Agent marketplace: keyless discovery and reputation lookup; listing, negotiating and sealing deals require OAuth.
