@@ -1666,6 +1666,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rychlá Hypo](https://rychlahypo.cz/api-dokumentace) `https://rychlahypo.cz/mcp`
   [![Rychlá Hypo MCP connector](https://glama.ai/mcp/connectors/cz.rychlahypo/mortgages/badges/score.svg)](https://glama.ai/mcp/connectors/cz.rychlahypo/mortgages)
   🔓 - Czech mortgages: rates with APRC for 6 major banks, payment comparison and max loan per bank from income.
+- [SecFeed](https://secfeedapi.com/mcp/) `https://secfeedapi.com/mcp`
+  [![SecFeed MCP connector](https://glama.ai/mcp/connectors/com.secfeedapi/secfeed/badges/score.svg)](https://glama.ai/mcp/connectors/com.secfeedapi/secfeed)
+  🔑 - SEC EDGAR filings, full text search, XBRL financials, insider trades, 13F holdings and 8-K events.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
