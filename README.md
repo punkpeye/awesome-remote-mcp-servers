@@ -582,6 +582,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![MepMail MCP connector](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail)
   🔐 - Send email, manage broadcasts and domains, and read or reply to Correio mailboxes within granted permissions.
 - [Odile](https://odilelabs.com/developers#connecting) `https://odilelabs.com/mcp`
+  [![Odile MCP connector](https://glama.ai/mcp/connectors/com.odilelabs/odile/badges/score.svg)](https://glama.ai/mcp/connectors/com.odilelabs/odile)
   🔑 - Give an AI agent a real phone line: set up a line that answers calls in 32 languages, takes messages and texts the owner; read calls and messages, or look up a business line and leave it a message.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
