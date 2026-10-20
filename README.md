@@ -2479,6 +2479,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [Trillboards Campaign Planner](https://trillboards.com/plan/) `https://api.trillboards.com/mcp/advertiser`
+  [![Trillboards Campaign Planner MCP connector](https://glama.ai/mcp/connectors/com.trillboards/planner/badges/score.svg)](https://glama.ai/mcp/connectors/com.trillboards/planner)
+  🔐 - Plan and price DOOH and CTV campaigns without an account, then book and pay after OAuth sign-in.
+- [Trillboards DOOH Advertising](https://api.trillboards.com/docs) `https://api.trillboards.com/mcp`
+  [![Trillboards DOOH Advertising MCP connector](https://glama.ai/mcp/connectors/com.trillboards/dooh/badges/score.svg)](https://glama.ai/mcp/connectors/com.trillboards/dooh)
+  🔓 - Browse 757,000+ digital out-of-home screens with prices and measured audience data, then book AdCP media buys.
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
