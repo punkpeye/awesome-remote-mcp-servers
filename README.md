@@ -1578,6 +1578,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
   [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
+- [Market Eyes Live](https://marketeyeslive.com/mcp-server) `https://marketeyeslive.com/mcp`
+  [![Market Eyes Live MCP connector](https://glama.ai/mcp/connectors/io.github.marketeyeslive/market-eyes-live/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marketeyeslive/market-eyes-live)
+  🔓 - MELANY ratings for 11,000+ U.S. stocks and ETFs, plus a daily U.S. mortgage-rate read; free and read-only.
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
