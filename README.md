@@ -3434,6 +3434,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tanod](https://tanod.dev) `https://tanod.dev/mcp`
   [![Tanod MCP connector](https://glama.ai/mcp/connectors/dev.tanod/tanod/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tanod/tanod)
   🔓 - Pre-transaction address checks, agent skill and MCP package scans, Solidity scans; paid per call via x402.
+- [TokenGuard](https://nessyuhh.github.io/tokenguard/) `https://gdzlcxskuhupymyxywzm.supabase.co/functions/v1/tokenguard-mcp`
+  🔓 - Solana token rug check before a trade: SAFE/CAUTION/DANGER with freeze and mint authority, Token-2022 traps, holder concentration and pump.fun creator signals.
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
