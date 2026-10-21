@@ -2952,6 +2952,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [3GPP Scout](https://3gppscout.com/mcp/) `https://api.3gppscout.com/mcp/`
+  [![3GPP Scout MCP connector](https://glama.ai/mcp/connectors/com.3gppscout/scout/badges/score.svg)](https://glama.ai/mcp/connectors/com.3gppscout/scout)
+  🔐 - Search 3GPP specs (Rel-15 to Rel-20), TDocs, meeting decisions and company positions with citations; free tier.
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
