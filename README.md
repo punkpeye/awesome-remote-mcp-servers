@@ -2856,6 +2856,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
+- [Ceny nieruchomości PL (ceny-nieruchomosci-mcp)](https://ceny.compabase.com) `https://ceny.compabase.com/mcp`
+  [![Ceny nieruchomości PL (ceny-nieruchomosci-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/ceny-nieruchomosci-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/ceny-nieruchomosci-mcp)
+  🔓 - Real sale prices of Polish flats, houses and plots from notarial deeds: median price per m², trends, recent sales.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
