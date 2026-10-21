@@ -530,6 +530,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
   🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
 
+- [screenshot.com.ar](https://screenshot.com.ar) `https://screenshot.com.ar/mcp`
+  [![screenshot.com.ar MCP connector](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot)
+  🔐 - Read any public page as clean markdown or capture it as an image in real Chrome; free tier, plans in ARS.
+
 - [Shotkiln](https://shotkiln.com/mcp-screenshot-server) `https://shotkiln.com/mcp`
   [![Shotkiln MCP connector](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln/badges/score.svg)](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln)
   🔓 - Screenshot pages as PNG, JPEG or WebP, render a URL or HTML to PDF, and make 1200x630 OG images; key optional.
