@@ -3177,6 +3177,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Online Web Directory](https://onlinewebdirectory.net) `https://onlinewebdirectory.net/mcp`
   [![Online Web Directory MCP connector](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry/badges/score.svg)](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry)
   🔓 - How websites treat AI agents: bot walls, JavaScript needs, robots rules and llms.txt, before you fetch.
+- [OpenGeocoding](https://opengeocoding.com/docs/mcp) `https://opengeocoding.com/mcp`
+  [![OpenGeocoding MCP connector](https://glama.ai/mcp/connectors/com.opengeocoding/geocoding/badges/score.svg)](https://glama.ai/mcp/connectors/com.opengeocoding/geocoding)
+  🔐 - Geocode addresses, reverse geocode coordinates and autocomplete places, built on open map data.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
