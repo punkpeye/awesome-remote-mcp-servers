@@ -901,6 +901,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
+- [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
+  [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
+  🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
 - [MemorySync Documentation](https://docs.memorysync.io/mcp/overview) `https://docs.memorysync.io/mcp`
   [![MemorySync Docs MCP connector](https://glama.ai/mcp/connectors/io.memorysync/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/docs)
   🔓 - Search and read MemorySync's API, SDK and integration docs.
