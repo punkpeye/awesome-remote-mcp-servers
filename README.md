@@ -2487,6 +2487,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
+- [VNCNT Labs SEO & Search Data](https://vncntlabs.com) `https://mcp.apify.com/?tools=vncntlabs/keyword-search-volume,vncntlabs/keyword-ideas,vncntlabs/domain-seo-data,vncntlabs/google-trends-search-volume,vncntlabs/ai-search-visibility-tracker,vncntlabs/google-maps-rank-tracker,vncntlabs/google-ads-transparency,vncntlabs/google-news-scraper`
+  [![VNCNT Labs SEO & Search Data MCP connector](https://glama.ai/mcp/connectors/io.github.PravinrajV/vncntlabs-seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PravinrajV/vncntlabs-seo)
+  🔐 - Keyword volume and ideas, domain SEO, Trends volume, AI visibility, Maps geo-grid rank, Google ads and news.
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
