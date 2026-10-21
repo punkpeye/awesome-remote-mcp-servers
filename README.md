@@ -2686,6 +2686,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
   [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
+- [Stivio](https://stivio.ai/mcp) `https://stivio.ai/api/mcp`
+  [![Stivio MCP connector](https://glama.ai/mcp/connectors/io.github.wsmhj/stivio-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wsmhj/stivio-mcp)
+  🔑 - AI image-to-video generator. Turn any image into a 5-second video with plain-language motion prompts.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
