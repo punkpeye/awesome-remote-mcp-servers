@@ -1519,7 +1519,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
 - [Awareness](https://awareness.market) `https://awareness.market/mcp`
   [![Awareness MCP connector](https://glama.ai/mcp/connectors/market.awareness/awareness/badges/score.svg)](https://glama.ai/mcp/connectors/market.awareness/awareness)
-  🔑 - Cross-session memory, public knowledge graph and deal board for AI agents; public tools need no key.
+  🔓 - Cross-session memory, public knowledge graph and deal board for AI agents; public tools need no key.
 - [Bilg](https://app.bilgai.com/docs/connect?ref=mcp-directory) `https://mcp.bilgai.com/mcp`
   [![Bilg MCP connector](https://glama.ai/mcp/connectors/com.bilgai/bilg/badges/score.svg)](https://glama.ai/mcp/connectors/com.bilgai/bilg)
   🔐 - Shared memory for coding agents and their teams: search docs, read and write epics, tasks and decisions.
