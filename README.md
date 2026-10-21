@@ -3304,6 +3304,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Web Data Toolkit](https://web-data-toolkit.vercel.app) `https://web-data-toolkit.vercel.app/mcp`
   [![Web Data Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit)
   🔓 - YouTube transcripts, Google Trends, and Google Play and App Store reviews; use the free public demo key or your own.
+- [WebRead](https://webread.agentgate.workers.dev) `https://webread.agentgate.workers.dev/mcp`
+  [![WebRead MCP connector](https://glama.ai/mcp/connectors/io.github.agentgate-builder/x402-url-to-markdown/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agentgate-builder/x402-url-to-markdown)
+  🔓 - Reads any public web page as clean Markdown for LLMs, respecting robots.txt.
 - [Xiaozhaobao](https://xiaozhaobao.com.cn) `https://xiaozhaobao.com.cn/mcp`
   [![Xiaozhaobao MCP connector](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao/badges/score.svg)](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao)
   🔓 - Search China campus-recruitment postings by city, batch, degree, industry and company, plus employer profiles.
