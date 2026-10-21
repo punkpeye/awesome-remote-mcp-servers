@@ -2906,6 +2906,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RealtyCrawl](https://realtycrawl.dev) `https://realtycrawl.dev/mcp`
   [![RealtyCrawl MCP connector](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl/badges/score.svg)](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl)
   🔓 - Discover real estate capabilities and source-linked observations; data calls require an API key and credits.
+- [RemplirPDF](https://remplirpdf.fr/mcp) `https://remplirpdf.fr/api/mcp`
+  [![RemplirPDF MCP connector](https://glama.ai/mcp/connectors/fr.remplirpdf/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/fr.remplirpdf/mcp-server)
+  🔐 - French rental documents (leases, rent receipts, inventories, notices) filled and returned as PDFs.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
