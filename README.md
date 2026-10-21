@@ -1028,6 +1028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
+- [Vibe Shipped](https://vibeshipped.io/agents) `https://vibeshipped.io/api/mcp`
+  [![Vibe Shipped MCP connector](https://glama.ai/mcp/connectors/io.github.sorindecu/vibeshipped/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sorindecu/vibeshipped)
+  🔓 - Search sourced, dated facts on AI coding tools, agent harnesses and real apps built with them.
 - [VibeFix](https://vibe-fixer.com) `https://vibe-fixer.com/mcp`
   [![VibeFix MCP connector](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibe-fixer/vibefix)
   🔓 - Triage a broken Lovable, Base44, v0, Bolt or Replit app: the likely cause and the fix.
