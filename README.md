@@ -3944,6 +3944,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ResumeQuick](https://resumequick.app) `https://mcp.resumequick.app/mcp`
   [![ResumeQuick MCP connector](https://glama.ai/mcp/connectors/app.resumequick/resumequick/badges/score.svg)](https://glama.ai/mcp/connectors/app.resumequick/resumequick)
   🔐 - Job search in your AI client: resumes, tracked jobs with fit analysis, daily job matches, mock interviews and offers.
+- [Ruzora](https://www.ruzora.com/developers/mcp) `https://mcp.ruzora.com/mcp`
+  [![Ruzora MCP connector](https://glama.ai/mcp/connectors/com.ruzora/ruzora/badges/score.svg)](https://glama.ai/mcp/connectors/com.ruzora/ruzora)
+  🔓 - Open LATAM engineering roles, job-post linting, interview kits, vetted-engineer search and shortlist requests.
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
