@@ -2009,6 +2009,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [Faroz](https://faroz.uz/faroz-mcp/) `https://faroz.uz/mcp`
+  [![Faroz MCP connector](https://glama.ai/mcp/connectors/uz.faroz/faroz/badges/score.svg)](https://glama.ai/mcp/connectors/uz.faroz/faroz)
+  🔐 - Kids' learning platform (ages 8–17): build courses, lessons, interactive exercises and games; review homework.
 - [FRCEM Mentor](https://www.frcementor.com/blog/frcem-practice-questions-claude-chatgpt) `https://www.frcementor.com/mcp`
   [![FRCEM Mentor MCP connector](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor/badges/score.svg)](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor)
   🔓 - FRCEM Final SBA exam practice for UK emergency medicine doctors: free questions marked with explanations and references.
