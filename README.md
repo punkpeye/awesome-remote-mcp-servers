@@ -3944,6 +3944,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ResumeQuick](https://resumequick.app) `https://mcp.resumequick.app/mcp`
   [![ResumeQuick MCP connector](https://glama.ai/mcp/connectors/app.resumequick/resumequick/badges/score.svg)](https://glama.ai/mcp/connectors/app.resumequick/resumequick)
   🔐 - Job search in your AI client: resumes, tracked jobs with fit analysis, daily job matches, mock interviews and offers.
+- [Roomtone](https://roomtone.io/mcp) `https://mcp.roomtone.io/mcp`
+  🔐 - Your recorded meetings: list them, read the write-up, ask questions answered from the transcript, and pull the transcript.
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
