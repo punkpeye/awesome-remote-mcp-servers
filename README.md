@@ -1389,6 +1389,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+- [Clear Street](https://docs.clearstreet.com/guides/mcp?utm_source=github&utm_medium=developer&utm_campaign=api_listings&utm_content=awesome_remote_mcp) `https://api.clearstreet.com/v1/mcp/trading`
+  [![Clear Street MCP connector](https://glama.ai/mcp/connectors/com.clearstreet.api/clear-street/badges/score.svg)](https://glama.ai/mcp/connectors/com.clearstreet.api/clear-street)
+  🔐 - Trade US equities and options, plus account balances, positions, orders, market data, fundamentals and news.
+- [Clear Street Read-Only](https://docs.clearstreet.com/guides/mcp?utm_source=github&utm_medium=developer&utm_campaign=api_listings&utm_content=awesome_remote_mcp) `https://api.clearstreet.com/v1/mcp`
+  [![Clear Street Read-Only MCP connector](https://glama.ai/mcp/connectors/com.clearstreet.api/clear-street-read-only/badges/score.svg)](https://glama.ai/mcp/connectors/com.clearstreet.api/clear-street-read-only)
+  🔐 - Read-only access to Clear Street account balances, positions, orders, market data, fundamentals and news; cannot trade.
 - [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
   [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
   🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
