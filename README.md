@@ -1160,6 +1160,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vouchernaut](https://vouchernaut.com/mcp) `https://vouchernaut.com/mcp`
   [![Vouchernaut MCP connector](https://glama.ai/mcp/connectors/com.vouchernaut/deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.vouchernaut/deals)
   🔓 - 13 read-only UK tools for discount codes, product prices/drops, phone/SIM deals, events, parking, software and polls.
+- [Worth](https://worthapp.app) `https://worth.area21.io/mcp?src=other`
+  [![Worth MCP connector](https://glama.ai/mcp/connectors/io.github.a21ai/worth/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.a21ai/worth)
+  🔓 - Price any item from a photo or name: new, used and resale ranges, plus where to buy or sell it.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
