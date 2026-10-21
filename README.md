@@ -3142,10 +3142,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
   [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
   🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
-- [Job Market & EU Supplier Data](https://github.com/gleanery-works/job-and-supplier-data-mcp) `https://mcp.apify.com?tools=gleanery_actors/ats-job-search,gleanery_actors/career-site-jobs-scraper,gleanery_actors/arbeitsagentur-jobs-scraper,gleanery_actors/wellfound-jobs-scraper,gleanery_actors/europages-scraper`
+- [Job Market & EU Supplier Data](https://apify.com/gleanery_actors) `https://mcp.apify.com?tools=gleanery_actors/ats-job-search,gleanery_actors/career-site-jobs-scraper,gleanery_actors/arbeitsagentur-jobs-scraper,gleanery_actors/wellfound-jobs-scraper,gleanery_actors/europages-scraper`
   [![Job Market & EU Supplier Data MCP connector](https://glama.ai/mcp/connectors/io.github.gleanery-works/job-and-supplier-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gleanery-works/job-and-supplier-data)
   🔐 - Live jobs from 10,000+ company career sites, Germany's Arbeitsagentur and Wellfound, plus EU suppliers with VAT IDs.
-
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
