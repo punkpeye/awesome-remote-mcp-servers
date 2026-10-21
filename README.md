@@ -3319,6 +3319,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Verifier](https://packet.guru/agents/mcp) `https://fp.packet.guru/api/v1/mcp`
   [![Agent Verifier MCP connector](https://glama.ai/mcp/connectors/guru.packet/agent-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/guru.packet/agent-verifier)
   🔓 - Test and debug your AI agent's Web Bot Auth (RFC 9421) signature and see exactly what to fix.
+- [AgentGate](https://agentgate.agentgate.workers.dev) `https://agentgate.agentgate.workers.dev/mcp`
+  [![AgentGate MCP connector](https://glama.ai/mcp/connectors/io.github.agentgate-builder/agentgate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agentgate-builder/agentgate)
+  🔓 - Checks if an AI agent is registered, Active and Verified in the Concordium Agent Registry (CIS-8004).
 - [AgentGlass](https://agentglass.net) `https://agentglass.net/mcp`
   [![AgentGlass MCP connector](https://glama.ai/mcp/connectors/net.agentglass/agentglass/badges/score.svg)](https://glama.ai/mcp/connectors/net.agentglass/agentglass)
   🔓 - Scans a public URL for hidden instructions aimed at AI agents and returns a risk level with evidence.
