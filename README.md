@@ -2554,6 +2554,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
+- [Rius](https://docs.glassflow.ai/rius/mcp) `https://mcp.eu.console.rius-glassflow.com/mcp`
+  [![Rius MCP connector](https://glama.ai/mcp/connectors/ai.glassflow/rius/badges/score.svg)](https://glama.ai/mcp/connectors/ai.glassflow/rius)
+  🔐 - Query AI agent traces, errors, cost and alerts, compare agent versions, and manage alert rules.
 - [Rootly](https://rootly.com) `https://mcp.rootly.com/mcp`
   🔐 - Manage Rootly incidents, alerts, and on-call schedules.
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
