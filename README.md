@@ -3388,6 +3388,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
+- [Odile Gate](https://gate.odilelabs.com) `https://gate.odilelabs.com/mcp`
+  [![Odile Gate MCP connector](https://glama.ai/mcp/connectors/com.odilelabs/gate/badges/score.svg)](https://glama.ai/mcp/connectors/com.odilelabs/gate)
+  🔓 - Put a gateway in front of the API your AI-built app or agent calls: per-app keys, allowed calls, a loop breaker for repeated identical calls, approvals for risky writes and an audit log; the coding agent sets it up in-session.
 - [Orbylon](https://orbylon.com) `https://orbylon.com/api/mcp`
   [![Orbylon MCP connector](https://glama.ai/mcp/connectors/com.orbylon/readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.orbylon/readiness)
   🔓 - Checks whether AI agents can find, trust and pay a business, and looks up a verified domain key and prices.
