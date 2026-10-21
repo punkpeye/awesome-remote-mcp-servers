@@ -2909,6 +2909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
+- [The Roofing List](https://theroofinglist.com/mcp/) `https://mcp.theroofinglist.com/mcp`
+  [![The Roofing List MCP connector](https://glama.ai/mcp/connectors/io.github.redpath1/the-roofing-list/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.redpath1/the-roofing-list)
+  🔓 - Checked US roofing, siding and gutter contractors by city in 50 states and DC, open firms only, no paid boost.
 - [TrueFixR + AtlasCast](https://atlasunited.io/api) `https://mcp.atlasunited.io/mcp`
   [![TrueFixR + AtlasCast MCP connector](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr)
   🔓 - Address-level storm event data and forecasted property risk API for AI agents.
