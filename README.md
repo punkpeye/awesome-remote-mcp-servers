@@ -711,6 +711,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
+- [Workspace369](https://workspace369.com) `https://mcp.workspace369.com/mcp`
+  [![Workspace369 MCP connector](https://glama.ai/mcp/connectors/com.workspace369/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.workspace369/mcp)
+  🔐 - Manage clients, proposals, e-sign contracts, invoices, projects, calendar and time tracking for client-work businesses.
 
 ### 🗄️ <a name="databases"></a>Databases
 
