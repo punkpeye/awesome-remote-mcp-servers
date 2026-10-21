@@ -1645,6 +1645,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Radicado Uno](https://radicadouno.co/mcp) `https://mcp.radicadouno.co/mcp`
   [![Radicado Uno MCP connector](https://glama.ai/mcp/connectors/co.radicadouno/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.radicadouno/mcp)
   🔓 - Colombian company and procurement data by NIT (registry, contracts, sanctions). Free lookup; data tools need a key.
+- [Realtap](https://realtap.app/developers/ai) `https://realtap.app/api/mcp`
+  [![Realtap MCP connector](https://glama.ai/mcp/connectors/io.github.CSteenkamp/realtap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CSteenkamp/realtap)
+  🔓 - Live Cardano data from the chain: token prices, DEX trades, liquidity pools, wallets, NFTs, staking and governance.
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
