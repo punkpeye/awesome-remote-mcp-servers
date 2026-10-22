@@ -1537,6 +1537,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jithox E-Invoice](https://jithox.com/mcp/einvoice) `https://mcp.jithox.com/mcp`
   [![Jithox E-Invoice MCP connector](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness)
   🔓 - Read-only EU e-invoice checks: invoice structure, VAT format, VIES and Peppol lookup; tools need OAuth.
+- [Johto Data](https://johtodata.com) `https://johto-x402-api.johtodata.workers.dev/mcp`
+  [![Johto Data MCP connector](https://glama.ai/mcp/connectors/com.johtodata/johto-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.johtodata/johto-data)
+  🔓 - Japan invoice-number checks, SEC 13F and 8-K filings, sanctions screening and tenders; pay per call via x402.
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
