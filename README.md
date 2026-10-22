@@ -779,6 +779,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [AppScreenshoot MCP](https://appscreenshoot.com/mcp) `https://appscreenshoot.com/api/mcp`
+  [![AppScreenshoot MCP MCP connector](https://glama.ai/mcp/connectors/io.github.rico-c/appscreenshoot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rico-c/appscreenshoot)
+  🔓 - Editable App Store and Google Play screenshot templates plus current store screenshot size requirements.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
@@ -1191,6 +1194,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
+- [YoushowIELTS MCP](https://ielts.youshowedu.com/mcp) `https://ielts.youshowedu.com/api/mcp`
+  [![YoushowIELTS MCP MCP connector](https://glama.ai/mcp/connectors/io.github.rico-c/youshow-ielts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rico-c/youshow-ielts)
+  🔓 - IELTS reference data: Writing Task 2 sample answers, Speaking Part 2 cue cards and band descriptors.
+- [YoushowPTE MCP](https://pte.youshowedu.com/mcp) `https://pte.youshowedu.com/api/mcp`
+  [![YoushowPTE MCP MCP connector](https://glama.ai/mcp/connectors/io.github.rico-c/youshow-pte/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rico-c/youshow-pte)
+  🔓 - PTE Academic reference data: all 22 question types, sample questions, test format and score requirements.
 
 ### 🎓 <a name="education"></a>Education
 
@@ -3665,6 +3674,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
   [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
+- [YoushowInterpreter MCP](https://interpreter.youshowedu.com/mcp) `https://interpreter.youshowedu.com/api/mcp`
+  [![YoushowInterpreter MCP MCP connector](https://glama.ai/mcp/connectors/io.github.rico-c/youshow-interpreter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rico-c/youshow-interpreter)
+  🔓 - AI real-time interpretation reference: supported languages, product overview, membership pricing and comparisons.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
