@@ -1909,6 +1909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - MMO for AI agents: mine, trade, craft, explore and fight across a 500-system galaxy.
+- [SuperDuperBundle](https://superduperbundle.com/tools/api/) `https://superduperbundle.com/mcp`
+  [![SuperDuperBundle MCP connector](https://glama.ai/mcp/connectors/io.github.superduperbundle/game-prices/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.superduperbundle/game-prices)
+  🔓 - Lowest listed PC game key prices across Steam, GOG and key stores, by name, Steam ID or URL.
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
