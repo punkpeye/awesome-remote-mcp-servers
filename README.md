@@ -3773,6 +3773,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SafeResize](https://saferesize.com/ai) `https://saferesize.com/mcp`
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
+- [Samuelz Chauffeur Booking](https://samuelz.com/en/docs) `https://platform-api.samuelz.com/api/v1/mcp/chauffeur/samuelz-chauffeur`
+  [![Samuelz Chauffeur Booking MCP connector](https://glama.ai/mcp/connectors/io.github.samuelzcom/chauffeur-booking/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.samuelzcom/chauffeur-booking)
+  🔓 - Chauffeur price previews and consent-led unpaid booking offers for the provider's published service areas.
 - [Schengen 90/180 Calculator](https://schengen.al157.xyz) `https://schengen-mcp.alickzheng618.workers.dev/mcp`
   [![Schengen 90/180 Calculator MCP connector](https://glama.ai/mcp/connectors/io.github.al157/schengen-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.al157/schengen-mcp)
   🔓 - Schengen 90/180 rolling-window stay math: days used/remaining, trip compliance checks and rule explainer; read-only.
