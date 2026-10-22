@@ -462,6 +462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
+- [AgentSandboxes](https://agentsandboxes.fyi) `https://agentsandboxes.fyi/mcp`
+  [![AgentSandboxes MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/agentsandboxes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/agentsandboxes)
+  🔓 - Index of 25 cloud sandbox providers for AI agents, with isolation, pricing and free tier linked to vendor docs.
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
@@ -1061,6 +1064,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [AuctionFinder](https://auctionfinder.fyi) `https://auctionfinder.fyi/mcp`
+  [![AuctionFinder MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/auctionfinder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/auctionfinder)
+  🔓 - Auction houses, online platforms and government surplus by city and category, with the source of each fact.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
@@ -1179,6 +1185,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [Driving Schools](https://drivingschools.fyi) `https://drivingschools.fyi/mcp`
+  [![Driving Schools MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/drivingschool/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/drivingschool)
+  🔓 - Driving schools by city: 33 listings with address, phone number and source links.
+- [French4PR](https://french4pr.com) `https://french4pr.com/mcp`
+  [![French4PR MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/french4pr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/french4pr)
+  🔓 - TEF Canada and TCF Canada test centres, French schools and tutors by country and city: 29 providers.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
@@ -1404,6 +1416,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
+- [CreditUnions](https://creditunions.fyi) `https://creditunions.fyi/mcp`
+  [![CreditUnions MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/creditunions/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/creditunions)
+  🔓 - Federally insured credit unions from the NCUA register: 34 listings by place, with contact details.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
@@ -1825,6 +1840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cork & Curve](https://corkandcurve.com/agents/) `https://corkandcurve.com/mcp`
   [![Cork & Curve MCP connector](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel)
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
+- [Dish Directory](https://dishdirectory.com) `https://dishdirectory.com/mcp`
+  [![Dish Directory MCP connector](https://glama.ai/mcp/connectors/com.dishdirectory/dishdirectory/badges/score.svg)](https://glama.ai/mcp/connectors/com.dishdirectory/dishdirectory)
+  🔓 - Restaurant directory for the US and Canada: browse by country, region, city and cuisine.
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
   🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
@@ -1852,6 +1870,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scern](https://scern.app) `https://api.scern.app/mcp`
   [![Scern MCP connector](https://glama.ai/mcp/connectors/app.scern.api/scern/badges/score.svg)](https://glama.ai/mcp/connectors/app.scern.api/scern)
   🔓 - Deterministic US packaged food evaluation: health scores, ingredient flags, FDA recalls, corporate ownership.
+- [Sober Bars](https://soberbars.fyi) `https://soberbars.fyi/mcp`
+  [![Sober Bars MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/soberbars/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/soberbars)
+  🔓 - Alcohol-free bars and bottle shops by city: 22 venues with source links.
 - [TableJourney](https://tablejourney.com/agents/) `https://tablejourney.com/mcp`
   [![TableJourney MCP connector](https://glama.ai/mcp/connectors/com.tablejourney/food-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.tablejourney/food-travel)
   🔓 - Restaurants, markets and street food in 200+ cities, plus food festivals and bookable tours.
@@ -1924,6 +1945,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [ADHDEvaluations](https://adhdevaluations.fyi) `https://adhdevaluations.fyi/mcp`
+  [![ADHDEvaluations MCP connector](https://glama.ai/mcp/connectors/fyi.adhdevaluations/adhdevaluations/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.adhdevaluations/adhdevaluations)
+  🔓 - ADHD evaluation providers: 9,846 across 54 US states and territories from the CMS NPI Registry.
 - [Biohacking Kompakt](https://biohackingkompakt.de) `https://mcp.biohackingkompakt.de/mcp`
   [![Biohacking Kompakt MCP connector](https://glama.ai/mcp/connectors/de.biohackingkompakt/biohacking-kompakt/badges/score.svg)](https://glama.ai/mcp/connectors/de.biohackingkompakt/biohacking-kompakt)
   🔓 - Evidence ratings for 340+ supplements, peptides and longevity methods, with study sources and podcast (German).
@@ -1933,24 +1957,45 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
+- [Doulas](https://doulas.fyi) `https://doulas.fyi/mcp`
+  [![Doulas MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/doulas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/doulas)
+  🔓 - Birth, postpartum and end-of-life doulas by city: 18 listings with services and source links.
+- [Eating Disorder Directory](https://eatingdisorder.fyi) `https://eatingdisorder.fyi/mcp`
+  [![Eating Disorder Directory MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/eatingdisorder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/eatingdisorder)
+  🔓 - US eating disorder treatment programs by place: 36 listings with levels of care and source links.
+- [FertilityClinics](https://fertilityclinics.fyi) `https://fertilityclinics.fyi/mcp`
+  [![FertilityClinics MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/fertilityclinics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/fertilityclinics)
+  🔓 - US fertility and IVF clinics from the CDC registry: 30 listings by place.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
 - [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
   [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
   🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
+- [MemoryCareHomes.fyi](https://memorycarehomes.fyi) `https://memorycarehomes.fyi/mcp`
+  [![MemoryCareHomes.fyi MCP connector](https://glama.ai/mcp/connectors/fyi.memorycarehomes/memorycarehomes/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.memorycarehomes/memorycarehomes)
+  🔓 - Licensed memory care homes in the UK and US by place, checkable against the public register.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
+- [MRIPrices](https://mriprices.fyi) `https://mriprices.fyi/mcp`
+  [![MRIPrices MCP connector](https://glama.ai/mcp/connectors/fyi.mriprices/mriprices/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.mriprices/mriprices)
+  🔓 - Cash-pay MRI prices at 5,419 US hospitals, read from the price files hospitals must publish.
 - [Peptide Library](https://peptidelibrary.app/developers/mcp) `https://peptidelibrary.app/mcp`
   [![Peptide Library MCP connector](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library/badges/score.svg)](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library)
   🔓 - Peptide research profiles with evidence by study type, comparisons, educational search and unit math.
+- [PeptideClinic](https://peptideclinic.fyi) `https://peptideclinic.fyi/mcp`
+  [![PeptideClinic MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/peptideclinic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/peptideclinic)
+  🔓 - Licensed peptide providers in the United States by place: 17 listings with source links.
 - [Phi Longevity PRISM](https://philongevity.com/for-agents) `https://philongevity.com/mcp?src=awesome`
   [![Phi Longevity PRISM MCP connector](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism)
   🔓 - Guideline-cited lab-results analysis for chronic conditions; flags missing or overdue tests with citations.
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
+- [Psilocybin Centers](https://psilocybincenters.fyi) `https://psilocybincenters.fyi/mcp`
+  [![Psilocybin Centers MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/psilocybincenters/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/psilocybincenters)
+  🔓 - State-licensed psilocybin service centers by place: 50 listings with source links.
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
@@ -2165,6 +2210,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
   [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
   🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
+- [ImmigrationHelp](https://immigrationhelp.fyi) `https://immigrationhelp.fyi/mcp`
+  [![ImmigrationHelp MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/immigrationhelp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/immigrationhelp)
+  🔓 - DOJ-authorized immigration legal providers by US place: 45 listings, not legal advice.
+- [ITINAgents](https://itinagents.fyi) `https://itinagents.fyi/mcp`
+  [![ITINAgents MCP connector](https://glama.ai/mcp/connectors/fyi.itinagents/itinagents/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.itinagents/itinagents)
+  🔓 - IRS acceptance agents for ITIN applications: 9,838 across the US, Canada, UK and India.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
@@ -2183,12 +2234,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [MarriageLicense.fyi](https://marriagelicense.fyi) `https://marriagelicense.fyi/mcp`
+  [![MarriageLicense.fyi MCP connector](https://glama.ai/mcp/connectors/fyi.marriagelicense/marriagelicense/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.marriagelicense/marriagelicense)
+  🔓 - Marriage licence offices across GB, IE, NZ, AU, CA and US: requirements, fees and hours.
 - [Patent by Ouroboros](https://ouroborosapps.com/docs/patent) `https://patent-mcp.vercel.app/mcp`
   [![Patent by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent)
   🔓 - US patent search and prior art lookup that returns only records the patent office returned; not legal advice.
 - [Precleared](https://precleared.dev) `https://precleared.dev/mcp`
   [![Precleared MCP connector](https://glama.ai/mcp/connectors/dev.precleared/contact-check/badges/score.svg)](https://glama.ai/mcp/connectors/dev.precleared/contact-check)
   🔓 - Checks if a cold marketing email to one address is allowed under UK, US, Canadian, German or French law, with a receipt.
+- [Public Adjusters Directory](https://publicadjusters.fyi) `https://publicadjusters.fyi/mcp`
+  [![Public Adjusters Directory MCP connector](https://glama.ai/mcp/connectors/fyi.publicadjusters/publicadjusters/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.publicadjusters/publicadjusters)
+  🔓 - Licensed public adjusters: 1,679 across US states, from the public registers.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
@@ -2734,6 +2791,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aether](https://explorer.157-245-252-221.sslip.io) `https://explorer.157-245-252-221.sslip.io/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet)
   🔓 - Read-only view of the Aether testnet: balances, transactions, miners and its directory of x402-paid services.
+- [Agent Wallet Index](https://agentwalletindex.fyi) `https://agentwalletindex.fyi/mcp`
+  [![Agent Wallet Index MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/agentwalletindex/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/agentwalletindex)
+  🔓 - Index of 26 agent wallets and payment rails, with specs and pricing linked to each vendor's docs.
 - [agentpay](https://entangleit.com/agentpay/) `https://entangleit.com/api/agentpay/mcp`
   [![agentpay MCP connector](https://glama.ai/mcp/connectors/com.entangleit/agentpay/badges/score.svg)](https://glama.ai/mcp/connectors/com.entangleit/agentpay)
   🔓 - Pay-per-call LLM (Fuse) and x402 APIs paid in BSV sats from prepaid agent wallets; free trial wallet, chat needs a key.
@@ -2870,6 +2930,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [ForeclosureListings](https://foreclosurelistings.fyi) `https://foreclosurelistings.fyi/mcp`
+  [![ForeclosureListings MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/foreclosurelistings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/foreclosurelistings)
+  🔓 - Where US foreclosure sales are held and who helps, by city: 47 resources, not legal advice.
 - [GigNGo](https://gigngo.org/mcp-server) `https://gigngo.org/mcp`
   [![GigNGo MCP connector](https://glama.ai/mcp/connectors/org.gigngo/gigngo/badges/score.svg)](https://glama.ai/mcp/connectors/org.gigngo/gigngo)
   🔓 - Find US locals for home jobs and errands, watch videos of their real work, and draft a job post the person reviews.
@@ -3667,6 +3730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Robotaxis](https://robotaxis.fyi) `https://robotaxis.fyi/mcp`
+  [![Robotaxis MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/robotaxis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/robotaxis)
+  🔓 - Robotaxi services by city: 40 services with status and service area, each fact linked to its source.
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
@@ -4010,6 +4076,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
+- [Dating Coaches Directory](https://datingcoaches.fyi) `https://datingcoaches.fyi/mcp`
+  [![Dating Coaches Directory MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/datingcoaches/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/datingcoaches)
+  🔓 - Dating coaches and matchmakers by city: 13 listings with services and source links.
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
@@ -4039,6 +4108,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate a decision from every side; debates need a Pro key.
+- [PetCremation](https://petcremation.fyi) `https://petcremation.fyi/mcp`
+  [![PetCremation MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/petcremation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/petcremation)
+  🔓 - Pet crematories and aftercare providers by city: 31 listings with services and source links.
 - [Private SuperIntelligence](https://privatesuperintelligence.si) `https://privatesuperintelligence.si/mcp`
   [![Private SuperIntelligence MCP connector](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence/badges/score.svg)](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence)
   🔓 - Read about Private SuperIntelligence, a private AI concierge, search its guides and join the waitlist.
