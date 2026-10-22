@@ -3045,6 +3045,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [BidCatch](https://bidcatch.co/partners) `https://bidcatch.co/mcp`
+  [![BidCatch MCP connector](https://glama.ai/mcp/connectors/co.bidcatch/bidcatch/badges/score.svg)](https://glama.ai/mcp/connectors/co.bidcatch/bidcatch)
+  🔓 - Live US government contracting data: free relevance-ranked bid search without a key (top 5); optional API key unlocks 700,000+ awards, expiring contracts, agency forecasts and protest rulings (300 calls/day).
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
