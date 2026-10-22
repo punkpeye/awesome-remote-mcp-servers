@@ -224,6 +224,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
+- [TopxAI Models](https://ai.topxea.com/mcp) `https://ai.topxea.com/mcp/models`
+  [![TopxAI Models MCP connector](https://glama.ai/mcp/connectors/com.topxea.ai/topx-ai-models/badges/score.svg)](https://glama.ai/mcp/connectors/com.topxea.ai/topx-ai-models)
+  🔑 - Ask Claude, GPT, Grok, GLM, Kimi or DeepSeek from your client at token price plus a $0.001 call fee.
 - [Vextorium](https://vextorium.com) `https://api.vextorium.com/mcp`
   [![Vextorium MCP connector](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium/badges/score.svg)](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium)
   🔓 - 509 pay-per-call data tools: on-chain (30+ chains), DeFi, markets, economic stats, compliance; USDC via x402.
