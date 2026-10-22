@@ -2335,7 +2335,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayCheck](https://paycheck.toolweather.workers.dev) `https://paycheck.toolweather.workers.dev/mcp`
   [![PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/paycheck)
-  🔓 - Score a merchant domain, https URL, or 0x wallet before an agent pays (trusted / unknown / suspicious / block). Free tier; overage via x402 USDC on Base. Does not send payments.
+  🔓 - Check a merchant, URL, or wallet's trust before an agent pays. Free tier, x402 overage.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
