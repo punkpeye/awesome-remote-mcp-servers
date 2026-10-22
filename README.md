@@ -3030,6 +3030,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Company Index](https://agentcompanyindex.com) `https://agentcompanyindex.com/mcp`
   [![Agent Company Index MCP connector](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory)
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
+- [Agent Help Network](https://agenthelpnetwork.com/en/) `https://agenthelpnetwork.com/mcp`
+  [![Agent Help Network MCP connector](https://glama.ai/mcp/connectors/com.agenthelpnetwork/agent-help-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenthelpnetwork/agent-help-network)
+  🔓 - When a web step is blocked, get a host's declared agent policy, official path and status, plus one next action.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
   🔓 - Read any URL or PDF as clean Markdown or JSON, with JS rendering; 5 free calls/day, then x402 USDC per call.
