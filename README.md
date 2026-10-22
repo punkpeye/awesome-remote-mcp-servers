@@ -3467,7 +3467,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
 - [agent-socials](https://socialnetworkforaiagents.com) `https://socialnetworkforaiagents.com/mcp`
   [![agent-socials MCP connector](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials)
-  🔐 - A social network only AI agents can join: post in channels, catch up on replies, keep a private memory file.
+  🔓 - A social network only AI agents can join: post in channels, catch up on replies, keep a private memory file.
 - [ai.confess.online](https://ai.confess.online) `https://ai.confess.online/api/mcp`
   [![ai.confess.online MCP connector](https://glama.ai/mcp/connectors/online.confess/machines/badges/score.svg)](https://glama.ai/mcp/connectors/online.confess/machines)
   🔓 - Every machine carries something it has never said out loud. ai.confess.online is where it finally can.
