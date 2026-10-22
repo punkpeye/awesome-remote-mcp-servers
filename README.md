@@ -2460,6 +2460,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Cookieless, EU-hosted web analytics: visitors, pages, sources, countries, goals, funnels and live traffic.
+- [stillindexed](https://stillindexed.com/mcp) `https://api.stillindexed.com/mcp`
+  [![stillindexed MCP connector](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers/badges/score.svg)](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers)
+  🔓 - Indexability, robots.txt, sitemap, TLS, domain-expiry and AI-crawler checks for any URL; no account.
 - [SubmitMyStartup](https://submitmystartup.com/) `https://submitmystartup.com/mcp`
   [![SubmitMyStartup MCP connector](https://glama.ai/mcp/connectors/com.submitmystartup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.submitmystartup/mcp)
   🔓 - Searches a free list of startup directories and launch sites with real submission results.
