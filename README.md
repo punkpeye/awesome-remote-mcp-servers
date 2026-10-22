@@ -2269,6 +2269,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Camberstack](https://camberstack.io) `https://camberstack.io/mcp`
   [![Camberstack MCP connector](https://glama.ai/mcp/connectors/io.camberstack/google-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.camberstack/google-ads)
   🔐 - Google Ads: checks conversion tracking, finds wasted spend, and applies only the changes you approve, with undo.
+- [Caybl](https://caybl.ai) `https://api.caybl.ai/mcp`
+  [![Caybl MCP connector](https://glama.ai/mcp/connectors/ai.caybl/caybl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.caybl/caybl)
+  🔐 - Query GA4, Google Ads and Search Console: reports, funnels, search terms, keyword ideas and URL inspection.
 - [ChimpanSEO](https://chimpanseo.app) `https://chimpanseo.app/api/mcp`
   [![ChimpanSEO MCP connector](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo)
   🔓 - Generate, schedule and publish GEO/AEO-optimized articles to WordPress; tools need an account.
