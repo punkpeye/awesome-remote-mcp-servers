@@ -910,6 +910,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Metabind Docs](https://docs.metabind.ai) `https://docs.metabind.ai/mcp`
   [![Metabind Docs MCP connector](https://glama.ai/mcp/connectors/ai.metabind/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/docs)
   🔓 - Search and read the Metabind docs: MCP Apps, BindJS, the SDKs, the CLI, and the APIs.
+- [Moxie Docs](https://moxiedocs.com) `https://moxiedocs.com/api/mcp`
+  [![Moxie Docs MCP connector](https://glama.ai/mcp/connectors/com.moxiedocs/moxie-docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.moxiedocs/moxie-docs)
+  🔐 - Fetch a GitHub repo's conventions, architecture docs, and doc gaps, and find docs a code change made stale.
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
