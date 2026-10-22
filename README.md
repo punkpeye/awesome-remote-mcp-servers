@@ -1909,6 +1909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - MMO for AI agents: mine, trade, craft, explore and fight across a 500-system galaxy.
+- [Teasa](https://teasa.ai/en/developers/mcp) `https://teasa.ai/mcp`
+  [![Teasa MCP connector](https://glama.ai/mcp/connectors/ai.teasa/teasa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.teasa/teasa)
+  🔓 - Find and play interactive stories, send replies, and view visual story cards with guest access.
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
