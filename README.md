@@ -1064,6 +1064,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [AuctionFinder](https://auctionfinder.fyi) `https://auctionfinder.fyi/mcp`
+  [![AuctionFinder MCP connector](https://glama.ai/mcp/connectors/io.github.pooriaarab/auctionfinder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pooriaarab/auctionfinder)
+  🔓 - Auction houses, online platforms and government surplus by city and category, with the source of each fact.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
