@@ -568,7 +568,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Send transactional email, check delivery, and set up sending domains, templates and webhooks.
 - [Hail](https://hail.so) `https://mcp.hail.so`
   [![Hail MCP connector](https://glama.ai/mcp/connectors/so.hail.mcp/hail/badges/score.svg)](https://glama.ai/mcp/connectors/so.hail.mcp/hail)
-  🔐 - Find numbers in 120 countries, handle registration and US A2P 10DLC, and use calls, texts, and email.
+  🔐 - Give your AI assistant a phone number and an email inbox to handle calls, texts, and email.
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
