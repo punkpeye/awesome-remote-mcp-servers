@@ -3370,6 +3370,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [IP99](https://ip99.com/) `https://ip99.com/mcp`
   [![IP99 MCP connector](https://glama.ai/mcp/connectors/com.ip99/ip99/badges/score.svg)](https://glama.ai/mcp/connectors/com.ip99/ip99)
   🔓 - IP risk and geolocation lookup where every verdict carries the age of its evidence.
+- [Iris](https://iriscan.app/mcp) `https://iriscan.app/mcp`
+  [![Iris MCP connector](https://glama.ai/mcp/connectors/io.github.0xVector0/iris/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xVector0/iris)
+  🔑 - Investigate who funded a wallet and where its money went on 10 chains, with sourced labels and mixer and bridge traces.
 - [Jid](https://jid.com/agents) `https://jid.com/mcp`
   [![Jid MCP connector](https://glama.ai/mcp/connectors/com.jid/jid/badges/score.svg)](https://glama.ai/mcp/connectors/com.jid/jid)
   🔓 - Checks a business against US registries, sanctions and its domain before an agent pays or signs, with signed receipts.
