@@ -1882,6 +1882,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Foundplay](https://foundplay.io/connect) `https://foundplay.io/mcp`
   [![Foundplay MCP connector](https://glama.ai/mcp/connectors/io.foundplay/foundplay/badges/score.svg)](https://glama.ai/mcp/connectors/io.foundplay/foundplay)
   🔓 - Search free indie browser games by genre, phone support or multiplayer, with a link to each game's page.
+- [Gaitkit](https://gaitkit.com/agents) `https://gaitkit.com/mcp`
+  [![Gaitkit MCP connector](https://glama.ai/mcp/connectors/com.gaitkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gaitkit/mcp)
+  🔓 - Low-poly 3D assets as code for three.js, Godot and Unity; creatures walk with IK, vehicles roll.
 - [Playable Gift](https://playablegift.com) `https://playablegift.com/mcp`
   [![Playable Gift MCP connector](https://glama.ai/mcp/connectors/com.playablegift/playable-gift/badges/score.svg)](https://glama.ai/mcp/connectors/com.playablegift/playable-gift)
   🔓 - Make, save and revise personal browser games, then share a gift link with the recipient.
