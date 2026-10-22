@@ -2337,6 +2337,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![IndustryLens MCP connector](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public/badges/score.svg)](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public)
   🔓 - Competitive intelligence on B2B SaaS markets: competitor profiles, strategic moves, pricing changes and reports.
   
+- [IQFluence](https://iqfluence.io/docs/mcp) `https://mcp.iqfluence.io/mcp`
+  [![IQFluence MCP connector](https://glama.ai/mcp/connectors/io.iqfluence/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.iqfluence/mcp)
+  🔐 - Search 455M+ Instagram, TikTok and YouTube creators, open audience reports and build influencer media plans.
+
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
