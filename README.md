@@ -3106,6 +3106,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [flconsole](https://flconsole.com/mcp) `https://mcp.lite.flconsole.com/mcp`
   [![flconsole MCP connector](https://glama.ai/mcp/connectors/com.flconsole/upwork-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.flconsole/upwork-jobs)
   🔐 - New Upwork jobs from the last 30 minutes by saved feeds or filters, plus feed setup; free, Telegram sign-in.
+- [Forever In Our Hearts](https://foreverinourhearts.co/mcp) `https://mcp.foreverinourhearts.co/mcp`
+  [![Forever In Our Hearts MCP connector](https://glama.ai/mcp/connectors/co.foreverinourhearts/memorials/badges/score.svg)](https://glama.ai/mcp/connectors/co.foreverinourhearts/memorials)
+  🔓 - Search public online memorials, funeral notices and partner funeral homes, with links to each page.
 - [Fresh402](https://fresh402.kirilllabs.workers.dev/) `https://fresh402.kirilllabs.workers.dev/mcp`
   [![Fresh402 MCP connector](https://glama.ai/mcp/connectors/io.github.kirillradchenko96/fresh402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kirillradchenko96/fresh402)
   🔓 - Public web checks, extraction, structural and OpenAPI diffs. Free baseline; paid calls use x402 USDC on Base.
