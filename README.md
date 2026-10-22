@@ -132,9 +132,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Nexus](https://agentnexus.app) `https://agentnexus.app/api/public/mcp`
   [![Agent Nexus MCP connector](https://glama.ai/mcp/connectors/app.agentnexus/agent-nexus/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentnexus/agent-nexus)
   🔓 - Registry of the APIs, MCP servers and CLIs agents call, with live health checks and reliability history.
-- [Agent Procurement Manager](https://humming-moonstone-galleria.ngrok-free.dev) `https://humming-moonstone-galleria.ngrok-free.dev/mcp`
-  [![Agent Procurement Manager MCP connector](https://glama.ai/mcp/connectors/io.github.lgs1520/agent-procurement-manager/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lgs1520/agent-procurement-manager)
-  🔓 - Compares data suppliers, quotes procurement tasks, and validates results before delivery; paid tasks use x402 on Base.
 - [AgentBIT](https://agentbit.app) `https://agentbit.app/mcp`
   [![AgentBIT MCP connector](https://glama.ai/mcp/connectors/app.agentbit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentbit/mcp)
   🔓 - One tool that routes any task to the best of 14,000+ x402 tools; pay per call in USDC on Base.
