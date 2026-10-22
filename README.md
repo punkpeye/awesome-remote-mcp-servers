@@ -1581,6 +1581,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
+- [Mashkanta-Buddy](https://www.mashkanta-buddy.com/ai/) `https://www.mashkanta-buddy.com/mcp`
+  [![Mashkanta-Buddy MCP connector](https://glama.ai/mcp/connectors/io.github.omricarmel/mashkanta-buddy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.omricarmel/mashkanta-buddy)
+  🔐 - Israeli mortgage statistics vs. Bank of Israel series and uploaded-offer pool, plus interactive dashboard generation.
 - [MetricDuck](https://www.metricduck.com) `https://mcp.metricduck.com/mcp`
   [![MetricDuck MCP connector](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis)
   🔓 - SEC filing data for AI agents: financials, screening, every figure traceable; tool calls need a free sign-in.
