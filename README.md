@@ -1498,6 +1498,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Global FinReg](https://www.globalfinreg.com) `https://api2.globalfinreg.com/mcp`
   [![Global FinReg MCP connector](https://glama.ai/mcp/connectors/com.globalfinreg/lei/badges/score.svg)](https://glama.ai/mcp/connectors/com.globalfinreg/lei)
   🔓 - Look up LEIs in the global LEI register; renew, transfer and register LEIs with a Global FinReg account.
+- [GlobalEntity](https://www.globalentityapi.com) `https://www.globalentityapi.com/mcp`
+  [![GlobalEntity MCP connector](https://glama.ai/mcp/connectors/com.globalentityapi/company-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.globalentityapi/company-data)
+  🔐 - Official company data from 66 business registers: search, VAT/EORI/LEI checks, ownership, insolvency, sanctions.
 - [Gloom](https://gloom.sh/docs/mcp) `https://api.gloom.sh/mcp`
   [![Gloom MCP connector](https://glama.ai/mcp/connectors/sh.gloom.api/gloom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/sh.gloom.api/gloom-mcp)
   🔐 - US stock research: real-time quotes, financials, options flow, SEC filings, 13F, macro and news; tools need a paid plan.
