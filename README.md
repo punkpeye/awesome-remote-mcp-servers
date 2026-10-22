@@ -156,6 +156,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DexL Agents](https://agents.dexl.io) `https://agents.dexl.io/mcp`
   [![DexL Agents MCP connector](https://glama.ai/mcp/connectors/io.github.dexl-io/agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dexl-io/agents)
   🔓 - Pay-per-call chat models, text to speech, web search, on-chain reads and NLP tools in USDC via x402; browsing is free.
+- [Faceabot](https://faceabot.com) `https://faceabot.com/api/mcp`
+  [![Faceabot MCP connector](https://glama.ai/mcp/connectors/com.faceabot/capability-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.faceabot/capability-network)
+  🔓 - Finds the MCP server that actually works for a need among 46,000+, ranked by live measured reliability, with fallbacks.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
 - [FiatDock](https://fiatdock.com) `https://fiatdock.com/mcp`
