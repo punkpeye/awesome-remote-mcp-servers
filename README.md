@@ -2689,6 +2689,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [Talking-Head Recut](https://www.qianshi.cool) `https://www.qianshi.cool/thapi/mcp`
+  [![Talking-Head Recut MCP connector](https://glama.ai/mcp/connectors/cool.qianshi/th-recut-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/cool.qianshi/th-recut-mcp)
+  🔑 - Turn a talking-head script and raw footage into a safe, platform-compliant edit plan and render a finished vertical/horizontal short — API-key (Bearer) auth.
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
