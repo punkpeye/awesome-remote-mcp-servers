@@ -3617,7 +3617,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Live scores, play-by-play, schedules and odds for NFL, NCAA football, NBA, MLB, NHL and soccer; calls need a free key.
 - [SportAPI](https://sportapi.ai/mcp-server) `https://sportapi.ai/mcp`
   [![SportAPI MCP connector](https://glama.ai/mcp/connectors/ai.sportapi/football/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sportapi/football)
-  🔑 - Football fixtures, live scores, standings, match events, lineups, teams and players for 117 leagues and cups.
+  🔓 - Football fixtures, live scores, standings, lineups, teams and players for 117 leagues; tool calls need a free API key.
 - [Squadcard](https://squadcard.app/agents) `https://squadcard.app/api/mcp`
   [![Squadcard MCP connector](https://glama.ai/mcp/connectors/io.github.iuliczki/squadcard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.iuliczki/squadcard)
   🔐 - Run a weekly football game: fair teams, fixtures, squads with invite links, who's in and the score.
