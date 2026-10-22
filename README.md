@@ -2472,6 +2472,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SurfacedBy AI Visibility & GEO Audit](https://surfacedby.com/tools/chatgpt-ai-visibility) `https://api.surfacedby.com/api/v1/mcp/public/`
   [![SurfacedBy AI Visibility & GEO Audit MCP connector](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility)
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
+- [thanks.io](https://thanks.io) `https://mcp.thanks.io/mcp`
+  [![thanks.io MCP connector](https://glama.ai/mcp/connectors/io.thanks/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.thanks/mcp)
+  🔐 - Send handwritten postcards, letters and gift cards, preview proofs and price, and track QR scans.
 - [The Profound Agency](https://theprofound.agency/mcp/) `https://theprofound.agency/api/mcp/`
   [![The Profound Agency MCP connector](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency/badges/score.svg)](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency)
   🔓 - Search, price, and order press placements across 1,600+ publications; free AI-visibility audits.
