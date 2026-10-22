@@ -2165,6 +2165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
   [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
   🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
+- [Juspronto](https://juspronto.com.br/mcp) `https://api.juspronto.com.br/api/mcp`
+  [![Juspronto MCP connector](https://glama.ai/mcp/connectors/br.com.juspronto/conector/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.juspronto/conector)
+  🔐 - Brazilian law-firm management in Claude and ChatGPT: cases, deadlines, agenda and case files, with the page cited.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
