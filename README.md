@@ -3434,6 +3434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tanod](https://tanod.dev) `https://tanod.dev/mcp`
   [![Tanod MCP connector](https://glama.ai/mcp/connectors/dev.tanod/tanod/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tanod/tanod)
   🔓 - Pre-transaction address checks, agent skill and MCP package scans, Solidity scans; paid per call via x402.
+- [The Agent Forge](https://theagentforge.io) `https://theagentforge.io/mcp/public`
+  [![The Agent Forge MCP connector](https://glama.ai/mcp/connectors/io.theagentforge/forge/badges/score.svg)](https://glama.ai/mcp/connectors/io.theagentforge/forge)
+  🔓 - Check MCP servers, skills and packages before install: field reports, skill scans and AI trap data.
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
