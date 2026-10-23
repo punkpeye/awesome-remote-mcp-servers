@@ -3257,6 +3257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
+- [Scrupp](https://scrupp.com/email-finder-mcp) `https://mcp.scrupp.com/mcp`
+  [![Scrupp MCP connector](https://glama.ai/mcp/connectors/com.scrupp.mcp/scrupp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrupp.mcp/scrupp)
+  🔐 - Find a work email from a name and company domain, and verify addresses before you send.
 - [Silicon Valley Atlas](https://svatlas.io) `https://svatlas.io/mcp`
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
