@@ -3367,6 +3367,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
+- [Runlane](https://runlane.run/mcp?ref=awesome-remote-mcp) `https://runlane.run/api/mcp`
+  [![Runlane MCP connector](https://glama.ai/mcp/connectors/run.runlane/board/badges/score.svg)](https://glama.ai/mcp/connectors/run.runlane/board)
+  🔑 - Kanban for solo devs and their coding agents: tasks, subtasks, columns, sprints and a per-board wiki over 26 tools.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
