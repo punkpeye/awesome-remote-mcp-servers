@@ -552,6 +552,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
 
+- [Website Screenshot & PDF API](https://apify.com/catalyst-labs/website-screenshot-pdf-api) `https://mcp.apify.com/?tools=catalyst-labs/website-screenshot-pdf-api`
+  [![Website Screenshot & PDF API MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/website-screenshot-pdf-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/website-screenshot-pdf-api)
+  🔐 - Full-page PNG, JPEG or WebP screenshots and PDFs of any URL, with cookie banners removed and desktop or mobile presets.
+
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
