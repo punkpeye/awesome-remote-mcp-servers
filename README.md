@@ -1834,6 +1834,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vurto Swap MCP connector](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap)
   🔓 - Token swaps on 9 EVM chains and Solana ranked by net received; returns unsigned transactions.
 
+- [WalletFollow](https://walletfollow.ai) `https://mcp.walletfollow.ai/mcp`
+  [![WalletFollow MCP connector](https://glama.ai/mcp/connectors/io.github.AperiAnalytics/walletfollow/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AperiAnalytics/walletfollow)
+  🔐 - Read-only Hyperliquid wallet, market and copy-portfolio research with freshness and coverage.
 - [WattCoin](https://wattcoin.org) `https://wattcoin-mcp-server.wattcoin.workers.dev/mcp`
   [![WattCoin MCP connector](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server)
   🔓 - Agent task marketplace on Solana: register with no wallet, claim and submit tasks, earn WATT, build merit.
