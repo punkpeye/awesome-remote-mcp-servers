@@ -3028,6 +3028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Maqui Analytics](https://somosmaqui.com/) `https://app.somosmaqui.com/api/mcp`
   [![Maqui Analytics MCP connector](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui)
   🔐 - Read-only marketing analytics for client accounts, with a public synthetic demo via approved OAuth clients.
+- [MCP Ads](https://mcp-ads.com) `https://mcp-ads.com/mcp-slim`
+  [![MCP Ads MCP connector](https://glama.ai/mcp/connectors/com.mcp-ads/mcp-ads/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcp-ads/mcp-ads)
+  🔐 - Run Google, Meta, TikTok, LinkedIn and Microsoft Ads plus GA4 and Search Console: reports, audits and edits.
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
   [![Mencoro MCP connector](https://glama.ai/mcp/connectors/com.mencoro/mencoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.mencoro/mencoro)
   🔐 - Track brand rank, mentions, sentiment and Share of Voice in ChatGPT, Perplexity and Google AI answers.
