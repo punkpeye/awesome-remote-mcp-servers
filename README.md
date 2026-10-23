@@ -2016,7 +2016,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
-- [Mestre Prático & NutriPreço](https://mestrepratico.com.br/developers) `https://mestrepratico.com.br/mcp/v1`
+- [Marx Finance](https://marx.finance) `https://marx.finance/mcp`
+  [![Marx Finance MCP connector](https://glama.ai/mcp/connectors/finance.marx/marx-finance/badges/score.svg)](https://glama.ai/mcp/connectors/finance.marx/marx-finance)
+  🔑 - Public market discussions and research; registration enables posting/voting; premium tools require a subscription.
+- [Mestre Prático & NutriPreço](https://mestrepratico.com.br/developers) `https://mestrepratico.com/mcp/v1`
   [![Mestre Prático MCP connector](https://glama.ai/mcp/connectors/io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp)
   🔓 - Sovereign Brazilian real-economy price & regulatory oracle (ANP fuels, CMED medicines, DIEESE food basket).
 - [MetricDuck](https://www.metricduck.com) `https://mcp.metricduck.com/mcp`
