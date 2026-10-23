@@ -1193,6 +1193,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tiana & Co. Seller Compliance](https://www.tiana-co.com/for-ai) `https://www.tiana-co.com/api/mcp`
   [![Tiana & Co. Seller Compliance MCP connector](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks)
   🔓 - Which certificate (CPC, GCC, FCC, FDA), what marketplaces ask, supplier blacklists, customs holds.
+- [Ucun Select](https://ucunhome.com) `https://ucunhome.com/mcp`
+  [![Ucun Select MCP connector](https://glama.ai/mcp/connectors/com.ucunhome/ucunhome/badges/score.svg)](https://glama.ai/mcp/connectors/com.ucunhome/ucunhome)
+  🔓 - Search in-stock home textiles & fabrics (bedding sets, blankets, fabrics) from Nantong, China: live prices, stock and MOQ via remote MCP.
 - [Undercart](https://undercart.co/docs/mcp) `https://undercart.co/api/mcp`
   [![Undercart MCP connector](https://glama.ai/mcp/connectors/co.undercart/undercart/badges/score.svg)](https://glama.ai/mcp/connectors/co.undercart/undercart)
   🔐 - Research Shopify brands: revenue estimates, installed apps, live ads and captured marketing emails.
