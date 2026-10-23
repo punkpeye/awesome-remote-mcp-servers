@@ -650,7 +650,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
 - [JustBlogged](https://justblogged.com/ai) `https://justblogged.com/mcp`
   [![JustBlogged MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/justblogged/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/justblogged)
-  🔓 - Create, schedule and publish posts and pages on a hosted blog; manage tags, collections, redirects, domains and themes; tools need OAuth.
+  🔓 - Create, schedule and publish posts and pages; manage tags, collections, redirects, domains and themes. Tools use OAuth.
 - [Keepp](https://keepp.link/developers) `https://api.keepp.link/mcp`
   [![Keepp MCP connector](https://glama.ai/mcp/connectors/link.keepp/keepp/badges/score.svg)](https://glama.ai/mcp/connectors/link.keepp/keepp)
   🔐 - Build and edit a Keepp page (links, shop, bookings, forms) at keepp.link/yourname.
