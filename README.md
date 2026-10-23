@@ -4059,6 +4059,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
+- [Uplika](https://uplika.com/en) `https://api.uplika.com/mcp`
+  [![Uplika MCP connector](https://glama.ai/mcp/connectors/com.uplika/uplika/badges/score.svg)](https://glama.ai/mcp/connectors/com.uplika/uplika)
+  🔐 - Publish, schedule and read replies on Threads, Instagram, YouTube, TikTok, Bluesky and Telegram.
 - [ViralDecoder](https://viraldecoder.online/claude) `https://viraldecoder.online/mcp`
   [![ViralDecoder MCP connector](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder/badges/score.svg)](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder)
   🔐 - Breaks down Instagram Reels, Shorts and TikToks: hook score, why it went viral, a script for yours.
