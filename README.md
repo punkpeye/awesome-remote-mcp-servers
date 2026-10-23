@@ -1978,6 +1978,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![RevExOS MCP connector](https://glama.ai/mcp/connectors/com.revexos/revexos/badges/score.svg)](https://glama.ai/mcp/connectors/com.revexos/revexos)
   🔓 - Quote-to-cash tools: parse invoices and POs, 3-way match, proration, revenue schedules, dunning emails.
 
+- [Roundhouse](https://roundhouseai.io/docs/api/mcp?utm_source=awesome-remote-mcp&utm_medium=mcp_directory) `https://api.roundhouseai.io/v0/mcp`
+  [![Roundhouse MCP connector](https://glama.ai/mcp/connectors/io.roundhouseai/roundhouse/badges/score.svg)](https://glama.ai/mcp/connectors/io.roundhouseai/roundhouse)
+  🔐 - Read-only analytics on x402 agent payments and ERC-8004 agent identity: settlements, wallets, reputation and SQL.
+
 - [RWA Data MCP Server](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp) `https://rwa-data-mcp.dave-a-bear.workers.dev/mcp`
   [![RWA Data MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp)
     🔓 - Stablecoin & RWA market data for AI agents: metrics, peg monitoring, prices, claim verification; x402 USDC pay-per-call.
