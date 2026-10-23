@@ -1141,6 +1141,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
+- [RetailIntel](https://retailintel.in/ai?utm_source=awesome-remote-mcp-servers) `https://retailintel.in/mcp`
+  [![RetailIntel MCP connector](https://glama.ai/mcp/connectors/in.retailintel/retailintel/badges/score.svg)](https://glama.ai/mcp/connectors/in.retailintel/retailintel)
+  🔓 - What moved in Indian retail: store openings, results, deals and leadership, each cited to its report; compare brands.
 - [reusefulshop](https://reusefulshop.com) `https://reusefulshop.com/mcp`
   [![reusefulshop MCP connector](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop)
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
