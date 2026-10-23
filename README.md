@@ -157,7 +157,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![DexL Agents MCP connector](https://glama.ai/mcp/connectors/io.github.dexl-io/agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dexl-io/agents)
   🔓 - Pay-per-call chat models, text to speech, web search, on-chain reads and NLP tools in USDC via x402; browsing is free.
 - [Diogenes Gateway](https://diogenes-micro-gateway.corinth.workers.dev) `https://diogenes-micro-gateway.corinth.workers.dev/mcp`
-  [![Diogenes Gateway MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway)
+  [![Diogenes Gateway MCP server connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway)
   🔓 - Multi-protocol hub with access to 45 Gemini models, 6 modular suites, and 85 edge services.
 - [Diogenes Gemini Suite](https://diogenes-micro-gateway.corinth.workers.dev/#gemini-suite) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/gemini-suite`
   [![Diogenes Gemini Suite MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gemini-suite-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gemini-suite-mcp)
