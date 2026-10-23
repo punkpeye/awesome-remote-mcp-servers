@@ -3454,6 +3454,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mage](https://www.mage.space/mcp) `https://mcp.mage.space/mcp`
   [![Mage MCP connector](https://glama.ai/mcp/connectors/space.mage/mage/badges/score.svg)](https://glama.ai/mcp/connectors/space.mage/mage)
   🔐 - Generate images, video, and audio with many frontier models, with the price quoted before each run.
+- [Magic Hour](https://docs.magichour.ai/integration/model-context-protocol) `https://mcp.magichour.ai/`
+  [![Magic Hour MCP connector](https://glama.ai/mcp/connectors/io.github.magichourhq/magic-hour/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magichourhq/magic-hour)
+  🔑 - Create and edit images and video; discovery is public, tool calls need an API key, generation uses credits.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
