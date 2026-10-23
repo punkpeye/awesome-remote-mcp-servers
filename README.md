@@ -1868,6 +1868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
   🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
+- [MyFinance MCP](https://myfinance-mcp.com) `https://myfinance-mcp.com/mcp`
+  [![MyFinance MCP MCP connector](https://glama.ai/mcp/connectors/io.github.alex-odoo/myfinance-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.alex-odoo/myfinance-mcp)
+  🔐 - Personal finance by chat: expenses, income, budgets and net worth in 150+ currencies; any bank via statement import.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
