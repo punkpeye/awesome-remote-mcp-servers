@@ -3937,6 +3937,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fieldproxy](https://www.fieldproxy.ai/mcp) `https://api-us-east-1.fieldproxy.ai/mcp`
   [![Fieldproxy MCP connector](https://glama.ai/mcp/connectors/io.github.Fieldproxy/fieldproxy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fieldproxy/fieldproxy-mcp)
   🔐 - Run field service jobs, dispatch, invoices and quotes, and build new screens, with a person confirming each change.
+- [Hooky](https://heyhooky.com/en/docs/#mcp) `https://api.heyhooky.com/mcp`
+  [![Hooky MCP connector](https://glama.ai/mcp/connectors/com.heyhooky/hooky/badges/score.svg)](https://glama.ai/mcp/connectors/com.heyhooky/hooky)
+  🔐 - Read and answer your website live chat visitors, manage sites and the chat bubble, and check notifications and stats.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
 - [NexTool MCP for GLPI](https://nextoolsolutions.com/mcp) `https://mcp.nextoolsolutions.com/mcp`
