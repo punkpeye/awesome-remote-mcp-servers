@@ -3604,6 +3604,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
+- [Madda Tasks](https://www.maddatech.com/mcp.html) `https://mcp.maddatech.com/mcp`
+  [![Madda Tasks MCP connector](https://glama.ai/mcp/connectors/com.maddatech/madda-tasks/badges/score.svg)](https://glama.ai/mcp/connectors/com.maddatech/madda-tasks)
+  🔐 - Create and schedule projects and tasks, manage dependencies, baselines, reports and AI agents in Madda Tasks.
 - [MCPBinder](https://www.mcpbinder.com) `https://www.mcpbinder.com/api/mcp`
   [![MCPBinder MCP connector](https://glama.ai/mcp/connectors/io.github.ReedStories/mcpbinder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ReedStories/mcpbinder)
   🔐 - Read project goals and tasks, plan work, and record decisions with scoped access.
