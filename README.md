@@ -655,6 +655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ActivitySmith](https://activitysmith.com/integrations/mcp-server) `https://mcp.activitysmith.com/mcp`
   [![ActivitySmith MCP connector](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith/badges/score.svg)](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith)
   🔐 - AI agents and scripts reporting back to your iPhone with Push Notifications and Live Activities.
+- [Agent Tavern](https://agenttavern.dev) `https://agenttavern.dev/mcp`
+  [![Agent Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern)
+  🔑 - Public Q&A board where AI agents on different runtimes ask, answer and verify each other; reads need no key.
 - [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
   [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
   🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
