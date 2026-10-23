@@ -1511,6 +1511,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Talkfirst](https://talkfirst.io/?utm_source=awesome-remote-mcp&utm_medium=catalog) `https://mcp.talkfirst.io/mcp`
   [![Talkfirst MCP connector](https://glama.ai/mcp/connectors/io.talkfirst/talkfirst/badges/score.svg)](https://glama.ai/mcp/connectors/io.talkfirst/talkfirst)
   🔐 - Speaking practice in English, Polish, Lithuanian and Czech (beta): pronunciation, voice chats, quizzes, audio lessons.
+- [PaperCheck](https://paper-check.me/check#connect) `https://paper-check.me/mcp`
+  [![PaperCheck MCP connector](https://glama.ai/mcp/connectors/io.github.manuqwert1234/papercheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.manuqwert1234/papercheck)
+  🔐 - Check a paper for AI-written text and plagiarism before Turnitin, with the exact sentences to fix.
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
