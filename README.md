@@ -3978,6 +3978,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Domain Intelligence](https://oti-labs.com/mcp-server) `https://oti-labs.com/mcp`
   [![Domain Intelligence MCP connector](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.oti-labs/domain-intelligence)
   🔓 - WHOIS/RDAP, DNS, SSL, live subdomains with IPs and SPF/DMARC/DKIM for any domain; 1,000 free lookups a month.
+- [Doomsday Proof-of-Escrow](https://doomsday.network) `https://doomsday.network/mcp`
+  🔓 - Verify on-chain GitHub bounty escrows, reserve solvency, and live mining pool telemetry.
 - [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
   [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
   🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
