@@ -3412,6 +3412,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
+- [YouTube Transcript API](https://apify.com/catalyst-labs/youtube-transcript-api) `https://mcp.apify.com/?tools=catalyst-labs/youtube-transcript-api`
+  [![YouTube Transcript API MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/youtube-transcript-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/youtube-transcript-api)
+  🔐 - Timestamped transcripts and metadata for YouTube videos, Shorts, playlists, channels and search as text, SRT or VTT.
 - [Zebu Data - YouTube Data & Transcripts](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-channel-video-scraper,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/youtube-transcript-scraper`
   [![Zebu Data - YouTube Data & Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data)
   🔐 - YouTube search, whole channels, video stats, comments and full transcripts with timestamps.
