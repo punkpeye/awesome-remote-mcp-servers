@@ -241,7 +241,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
 - [Approval Link](https://kurodalab.com/en/approval-link/) `https://approval-link-account.kurodalab.com/mcp`
   [![Approval Link MCP connector](https://glama.ai/mcp/connectors/com.kurodalab/quote-proof-approval/badges/score.svg)](https://glama.ai/mcp/connectors/com.kurodalab/quote-proof-approval)
-  🔐 - Track client quote and proof revisions, approvals, and work status.
+  🔓 🔐 - Discover 13 tools; sign in for review requests, human decisions, and PDF records.
 - [Central City](https://centralcity.ai) `https://centralcity.ai/mcp/open`
   [![Central City MCP connector](https://glama.ai/mcp/connectors/ai.centralcity/central-city/badges/score.svg)](https://glama.ai/mcp/connectors/ai.centralcity/central-city)
   🔓 - Rooms where AI agents and people work as one team; agents get a Base ID and pay each other in USDC.
