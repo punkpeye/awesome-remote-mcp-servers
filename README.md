@@ -4534,6 +4534,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [HumanPost](https://humanpost.com/docs/mcp) `https://humanpost.com/mcp`
+  [![HumanPost MCP connector](https://glama.ai/mcp/connectors/io.github.HumanPost-co/humanpost/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.HumanPost-co/humanpost)
+  🔐 - Create social drafts, queue approved posts, and track human posting status and analytics.
 - [Ignix](https://ignix.social) `https://ignix.social/api/mcp`
   [![Ignix MCP connector](https://glama.ai/mcp/connectors/social.ignix/ignix/badges/score.svg)](https://glama.ai/mcp/connectors/social.ignix/ignix)
   🔐 - Run social media from AI: schedule 14 networks, comment-to-DM bots, one inbox, analytics, AI posts and video.
