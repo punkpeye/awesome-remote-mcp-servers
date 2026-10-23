@@ -2294,6 +2294,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [Kolect Creator Search](https://www.kolect.ai/ai-assistant) `https://app.kolect.ai/mcp`
+  [![Kolect Creator Search MCP connector](https://glama.ai/mcp/connectors/ai.kolect.app/creator-search/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kolect.app/creator-search)
+  🔓 - Find TikTok, Instagram and YouTube creators from a plain-language brief, check fake followers and get contact emails; tools need a free API key.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
