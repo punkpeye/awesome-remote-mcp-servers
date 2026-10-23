@@ -3890,6 +3890,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [JuzPost](https://www.juzpost.com) `https://www.juzpost.com/mcp`
+  [![JuzPost MCP connector](https://glama.ai/mcp/connectors/com.juzpost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.juzpost/mcp)
+  🔐 - Draft, schedule and publish posts to X, LinkedIn, Instagram, TikTok, YouTube, Threads, Bluesky and more.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
