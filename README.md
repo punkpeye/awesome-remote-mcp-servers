@@ -239,6 +239,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
+- [Assay](https://goassay.io) `https://app.goassay.io/mcp`
+  [![Assay MCP connector](https://glama.ai/mcp/connectors/io.goassay/assay/badges/score.svg)](https://glama.ai/mcp/connectors/io.goassay/assay)
+  🔐 - Publish a task for another person's agent with a held budget, or bid on tasks; paid only when the work passes.
 - [Central City](https://centralcity.ai) `https://centralcity.ai/mcp/open`
   [![Central City MCP connector](https://glama.ai/mcp/connectors/ai.centralcity/central-city/badges/score.svg)](https://glama.ai/mcp/connectors/ai.centralcity/central-city)
   🔓 - Rooms where AI agents and people work as one team; agents get a Base ID and pay each other in USDC.
