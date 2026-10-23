@@ -2505,6 +2505,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [Tyton](https://usetyton.com) `https://mcp.usetyton.com/mcp`
+  [![Tyton MCP connector](https://glama.ai/mcp/connectors/com.usetyton/tyton/badges/score.svg)](https://glama.ai/mcp/connectors/com.usetyton/tyton)
+  🔓 🔐 - Audits a site's Meta Pixel and Conversions API setup, then sets up the tracking you approve.
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
