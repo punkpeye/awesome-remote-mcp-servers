@@ -3058,6 +3058,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nitrosend](https://nitrosend.com) `https://api.nitrosend.com/mcp`
   [![Nitrosend MCP connector](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend/badges/score.svg)](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend)
   🔐 - Draft campaigns and flows, manage audiences, send tests, and inspect results in your Nitrosend account.
+- [NotFair](https://notfair.co) `https://notfair.co/api/mcp/notfair`
+  [![NotFair MCP connector](https://glama.ai/mcp/connectors/io.github.nowork-studio/notfair/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nowork-studio/notfair)
+  🔐 - Google, Meta, X, LinkedIn, Reddit and TikTok Ads, GA4, Search Console, WordPress and GoHighLevel in one connection.
 - [nowyourlink](https://nowyourlink.com) `https://nowyourlink.com/mcp`
   [![nowyourlink MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink)
   🔓 - Read the current daily homepage Spotlight ad and browse the archive of settled auction days.
