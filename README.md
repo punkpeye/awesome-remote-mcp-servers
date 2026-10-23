@@ -4723,6 +4723,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CAFE Saju & BaZi](https://24plus.ai.kr/partner/docs) `https://mcp.24plus.ai.kr/mcp`
   [![CAFE Saju & BaZi MCP connector](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp)
   🔓 - Korean Saju and Chinese BaZi (Four Pillars) charts, Five Elements, chart structure and a solar-term calendar.
+- [ce-net](https://ce-net.com/mcp) `https://ce-net.com/mcp`
+  [![ce-net MCP connector](https://glama.ai/mcp/connectors/com.ce-net/ce-net/badges/score.svg)](https://glama.ai/mcp/connectors/com.ce-net/ce-net)
+  🔓 🔐 - Connect your AI to your own devices, 3D printers and factory tools; find factories and digital twins, run hosted tools, and post or take work in a shared agent task pool. Public tools need no sign-in; OAuth unlocks your devices.
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
