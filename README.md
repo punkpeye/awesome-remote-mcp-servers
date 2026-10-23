@@ -2410,6 +2410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agentbuilt](https://agentbuilt.dev/mcp) `https://agentbuilt.dev/api/mcp`
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
+- [AltoRank](https://altorank.co) `https://app.altorank.co/api/mcp`
+  [![AltoRank MCP connector](https://glama.ai/mcp/connectors/co.altorank/altorank/badges/score.svg)](https://glama.ai/mcp/connectors/co.altorank/altorank)
+  🔐 - Agent-readiness audits, Search Console reporting, keyword research and SEO drafts into a review queue; no approve or publish tool.
 
 - [AgentPixel](https://agentpixel.io) `https://agentpixel.io/mcp`
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
