@@ -2399,6 +2399,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
+- [GeoGridAPI](https://geogridapi.io) `https://api.geogridapi.io/mcp`
+  [![GeoGridAPI MCP connector](https://glama.ai/mcp/connectors/io.geogridapi/geogridapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.geogridapi/geogridapi)
+  🔐 🔑 - Local SEO geo-grids: a listing's Google Maps rank at every point around it, competitors ahead and weekly tracking.
 - [GetAppNiche](https://getappniche.com/mcp) `https://api.getappniche.com/mcp`
   [![GetAppNiche MCP connector](https://glama.ai/mcp/connectors/com.getappniche/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappniche/mcp)
   🔓 - App Store and Google Play data: app search, revenue and download estimates, keywords, reviews; API key for calls.
