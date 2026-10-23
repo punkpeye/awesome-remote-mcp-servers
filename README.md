@@ -4190,6 +4190,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
+- [Front Sentinel](https://frontsentinel.com/mcp) `https://frontsentinel.com/mcp`
+  [![Front Sentinel MCP connector](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security/badges/score.svg)](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security)
+  🔓 - Read-only dApp and website domain checks: registrar and registry locks, DNSSEC, CAA, SRI, SEAL DNS & Registrar controls.
 - [HallucC](https://aihcc.cloud) `https://aihcc.cloud/mcp`
   [![HallucC MCP connector](https://glama.ai/mcp/connectors/io.github.fredyee/hallucc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fredyee/hallucc)
   🔓 - Claim-by-claim AI hallucination detection with sources, agent trajectory verification, and prompt-injection guard.
