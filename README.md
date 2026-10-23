@@ -1671,6 +1671,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
+- [NythosX Market Data](https://market.nythosx.com/docs/api#mcp) `https://market.nythosx.com/mcp`
+  [![NythosX Market Data MCP connector](https://glama.ai/mcp/connectors/com.nythosx.market/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.nythosx.market/market-data)
+  🔓 - Crypto and US stock trade setups, signal bias, support/resistance, regime and target odds; free graded track record; x402.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
