@@ -3334,6 +3334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
+- [Podcast Transcript API](https://apify.com/catalyst-labs/podcast-transcript-api) `https://mcp.apify.com/?tools=catalyst-labs/podcast-transcript-api`
+  [![Podcast Transcript API MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/podcast-transcript-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/podcast-transcript-api)
+  🔐 - Podcast transcripts from RSS, Apple Podcasts or audio URLs: publisher transcript or Whisper STT.
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
