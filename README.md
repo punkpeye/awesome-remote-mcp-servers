@@ -2953,6 +2953,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
+- [Website Audit Tools](https://mcp.gptshopltd.com/#site-audit) `https://mcp.apify.com/?tools=chris_elder/on-page-seo-audit,chris_elder/broken-link-checker,chris_elder/lighthouse-batch-auditor,chris_elder/sitemap-url-extractor,chris_elder/open-graph-meta-checker,chris_elder/ssl-domain-expiry-checker`
+  [![Website Audit Tools MCP connector](https://glama.ai/mcp/connectors/com.gptshopltd/site-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.gptshopltd/site-audit)
+  🔐 - SEO, broken links, Lighthouse, sitemaps, Open Graph and SSL checks for any URL list.
 - [Wrendex](https://wrendex.com) `https://app.wrendex.com/mcp`
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
