@@ -4261,6 +4261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [Himalayas](https://himalayas.app/docs/remote-jobs-mcp) `https://mcp.himalayas.app/mcp`
+  [![Himalayas MCP connector](https://glama.ai/mcp/connectors/app.himalayas.mcp/himalayas-remote-jobs-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.himalayas.mcp/himalayas-remote-jobs-mcp-server)
+  🔓 🔐 - Remote jobs: job search, salary data and application tracking, or post a job and hire candidates.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
