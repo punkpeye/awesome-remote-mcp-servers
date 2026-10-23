@@ -1390,6 +1390,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [AutoIsto](https://www.autoisto.sk/ai-asistenti) `https://www.autoisto.sk/mcp`
+  [![AutoIsto MCP connector](https://glama.ai/mcp/connectors/sk.autoisto/used-cars/badges/score.svg)](https://glama.ai/mcp/connectors/sk.autoisto/used-cars)
+  🔓 - Used cars for sale in Slovakia: plain-language search, price verdict per car and typical model prices in EUR.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
