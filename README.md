@@ -4998,6 +4998,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Routine Run](https://routinerun.com/assistants) `https://api.routinerun.com/mcp`
   [![Routine Run MCP connector](https://glama.ai/mcp/connectors/com.routinerun/routine-run/badges/score.svg)](https://glama.ai/mcp/connectors/com.routinerun/routine-run)
   🔐 - Start, plan and move step-by-step routines on your iPhone, review your week, and suggest changes you approve.
+- [Routine Run writer](https://routinerun.com/assistants) `https://api.routinerun.com/mcp/public`
+  [![Routine Run writer MCP connector](https://glama.ai/mcp/connectors/com.routinerun/routine-writer/badges/score.svg)](https://glama.ai/mcp/connectors/com.routinerun/routine-writer)
+  🔓 - Write a step-by-step routine and get a link that opens it in Routine Run on iPhone, or find a ready one.
 - [Ruzora](https://www.ruzora.com/developers/mcp) `https://mcp.ruzora.com/mcp`
   [![Ruzora MCP connector](https://glama.ai/mcp/connectors/com.ruzora/ruzora/badges/score.svg)](https://glama.ai/mcp/connectors/com.ruzora/ruzora)
   🔓 - Open LATAM engineering roles, job-post linting, interview kits, vetted-engineer search and shortlist requests.
