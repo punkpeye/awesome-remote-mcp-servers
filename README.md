@@ -2415,6 +2415,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
   🔐 - Find competitors' longest-running Meta and TikTok ads, scored by hook, angle and audience.
 
+- [Ads Editor](https://adseditor.app/mcp) `https://mcp.adseditor.app/mcp`
+  [![Ads Editor MCP connector](https://glama.ai/mcp/connectors/br.com.adseditor/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.adseditor/mcp)
+  🔐 - Meta Ads and Google Ads: 250+ tools to report, clone campaigns across accounts, build audiences, edit budgets and rules.
+
 - [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
   [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
