@@ -616,6 +616,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Subo](https://subo.gg/blog/connect-discord-community-to-ai-agent/) `https://api.subo.ai/mcp`
   [![Subo MCP connector](https://glama.ai/mcp/connectors/gg.subo/survey-bot/badges/score.svg)](https://glama.ai/mcp/connectors/gg.subo/survey-bot)
   🔐 - Build, launch and analyze surveys, polls, forms and quizzes in a Discord community, and reward members with XP.
+- [SuperMailOS](https://supermailos.com) `https://supermailos.com/mcp`
+  [![SuperMailOS MCP connector](https://glama.ai/mcp/connectors/com.supermailos/mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.supermailos/mail)
+  🔐 - Read, search, organize, draft and send business email in mailboxes on your own domains.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
