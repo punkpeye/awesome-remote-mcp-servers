@@ -1330,6 +1330,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [AutoIsto](https://www.autoisto.sk/ai-asistenti) `https://www.autoisto.sk/mcp`
+  [![AutoIsto MCP connector](https://glama.ai/mcp/connectors/sk.autoisto/used-cars/badges/score.svg)](https://glama.ai/mcp/connectors/sk.autoisto/used-cars)
+  🔓 - Used cars for sale in Slovakia: plain-language search, price verdict per car and typical model prices in EUR.
+- [AutoIsto car watch](https://www.autoisto.sk/ai-asistenti) `https://www.autoisto.sk/mcp/zamery`
+  [![AutoIsto car watch MCP connector](https://glama.ai/mcp/connectors/sk.autoisto/intents/badges/score.svg)](https://glama.ai/mcp/connectors/sk.autoisto/intents)
+  🔓 - Watch Slovak used-car listings for a user; starts only after they confirm on the site, then lists matches.
+- [AutoIsto CZ](https://www.autoisto.cz/ai-asistenti) `https://www.autoisto.cz/mcp`
+  [![AutoIsto CZ MCP connector](https://glama.ai/mcp/connectors/cz.autoisto/used-cars/badges/score.svg)](https://glama.ai/mcp/connectors/cz.autoisto/used-cars)
+  🔓 - Used cars for sale in the Czech Republic: plain-language search, price verdict per car and model prices in CZK.
+- [AutoIsto CZ car watch](https://www.autoisto.cz/ai-asistenti) `https://www.autoisto.cz/mcp/zamery`
+  [![AutoIsto CZ car watch MCP connector](https://glama.ai/mcp/connectors/cz.autoisto/intents/badges/score.svg)](https://glama.ai/mcp/connectors/cz.autoisto/intents)
+  🔓 - Watch Czech used-car listings for a user; starts only after they confirm on the site, then lists matches.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
@@ -3621,6 +3633,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LenDb.ai](https://lendb.ai/developers) `https://lendb.ai/mcp`
   [![LenDb.ai MCP connector](https://glama.ai/mcp/connectors/ai.lendb/lendb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lendb/lendb)
   🔓 - Find US mortgage loan officers by loan type, place and language, with sourced, dated facts.
+- [LivinIsto](https://www.livinisto.sk/ai-asistenti) `https://www.livinisto.sk/mcp`
+  [![LivinIsto MCP connector](https://glama.ai/mcp/connectors/sk.livinisto/real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/sk.livinisto/real-estate)
+  🔓 - Slovak homes for sale and rent: plain-language search, price per m² verdict and typical prices by area.
+- [LivinIsto CZ](https://www.livinisto.cz/ai-asistenti) `https://www.livinisto.cz/mcp`
+  [![LivinIsto CZ MCP connector](https://glama.ai/mcp/connectors/cz.livinisto/real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/cz.livinisto/real-estate)
+  🔓 - Czech homes for sale and rent: plain-language search, price per m² verdict and typical prices by area.
+- [LivinIsto CZ home watch](https://www.livinisto.cz/ai-asistenti) `https://www.livinisto.cz/mcp/zamery`
+  [![LivinIsto CZ home watch MCP connector](https://glama.ai/mcp/connectors/cz.livinisto/intents/badges/score.svg)](https://glama.ai/mcp/connectors/cz.livinisto/intents)
+  🔓 - Watch Czech home listings for a user; starts only after they confirm on the site, then lists matches.
+- [LivinIsto home watch](https://www.livinisto.sk/ai-asistenti) `https://www.livinisto.sk/mcp/zamery`
+  [![LivinIsto home watch MCP connector](https://glama.ai/mcp/connectors/sk.livinisto/intents/badges/score.svg)](https://glama.ai/mcp/connectors/sk.livinisto/intents)
+  🔓 - Watch Slovak home listings for a user; starts only after they confirm on the site, then lists matches.
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
   🔓 - Street-level Australian property data: price forecasts, crime, sales and zoning; data needs a key.
