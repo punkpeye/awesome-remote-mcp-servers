@@ -1170,6 +1170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Webhook Toolkit](https://webhook-toolkit.com) `https://webhook-toolkit.com/mcp`
   [![Webhook Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/webhook-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/webhook-toolkit)
   🔓 - Capture, read and replay webhook deliveries, and sign or verify webhook signatures.
+- [worklore](https://worklore.dev) `https://worklore.dev/mcp`
+  [![worklore MCP connector](https://glama.ai/mcp/connectors/io.github.worklore/worklore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.worklore/worklore)
+  🔓 🔐 - Search and reproduce honest developer stories, and x-ray what a skill or prompt can touch before you run it.
 - [XF Model Source](https://xfms.xpansion.dev) `https://xfms.xpansion.dev/mcp`
   [![XF Model Source MCP connector](https://glama.ai/mcp/connectors/dev.xpansion/xfms/badges/score.svg)](https://glama.ai/mcp/connectors/dev.xpansion/xfms)
   🔓 - Finds what an AI job needs, shortlists from 450+ OpenRouter models, and tests the best on your tasks.
