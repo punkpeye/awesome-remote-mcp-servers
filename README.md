@@ -489,6 +489,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![localscreenshot MCP connector](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot/badges/score.svg)](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot)
   🔓 - Screenshot any public page as PNG, JPEG or PDF, from 227 countries, with cookie banners and ads hidden.
 
+- [Monito](https://www.monito.dev/docs/mcp) `https://www.monito.dev/api/mcp`
+  [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
+  🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
@@ -2727,6 +2731,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
+- [Quelta](https://quelta.ai/mcp-server/) `https://quelta.ai/mcp`
+  [![Quelta MCP connector](https://glama.ai/mcp/connectors/ai.quelta/quelta/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quelta/quelta)
+  🔐 - Score short vertical video ads by link: first 3 seconds, issues with timecodes and fixes.
 - [RankRoot](https://getrankroot.com) `https://getrankroot.com/api/mcp`
   [![RankRoot MCP connector](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot)
   🔓 - Score a site’s visibility to ChatGPT, Perplexity and AI agents, and generate llms.txt, robots.txt and JSON-LD fixes.
@@ -2763,6 +2770,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
   [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
   🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
+- [seodata.dev](https://www.seodata.dev/mcp) `https://mcp.seodata.dev/mcp`
+  [![seodata.dev MCP connector](https://glama.ai/mcp/connectors/dev.seodata/keywords/badges/score.svg)](https://glama.ai/mcp/connectors/dev.seodata/keywords)
+  🔓 - Google search volume, CPC, competition and similar keywords for 50+ countries.
 - [SEO·AEO·GEO](https://seoaeogeo.app/agents) `https://seoaeogeo.app/mcp`
   [![SEO·AEO·GEO MCP connector](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo/badges/score.svg)](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo)
   🔓 - Audit a URL for SEO, AEO and GEO: AI crawler access, schema and extractability, with ranked code fixes; free preview.
@@ -4010,6 +4020,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
+- [Tailwind](https://www.tailwindapp.com/mcp?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-directories) `https://mcp.tailwind.ai`
+  [![Tailwind MCP connector](https://glama.ai/mcp/connectors/ai.tailwind/tailwind-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tailwind/tailwind-mcp)
+  🔐 - Create, schedule, and analyze Pinterest Pins across your connected Pinterest accounts.
 - [Taplio](https://taplio.com/taplio-linkedin-mcp) `https://mcp.taplio.com/`
   [![Taplio MCP connector](https://glama.ai/mcp/connectors/io.github.TaplioOfficial/taplio-linkedin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TaplioOfficial/taplio-linkedin-mcp)
   🔐 - Write, schedule and analyze LinkedIn posts, find inspiration, comment, like and connect via Taplio.
@@ -4504,6 +4517,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
+- [Muslim Prayer Reminder MCP](https://tareq7.github.io/muslim-prayer-mcp/) `https://muslim-prayer-mcp.najetareqz.workers.dev/mcp`
+  [![Muslim Prayer Reminder MCP connector](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp)
+  🔓 - Computes Muslim prayer times by location and regional method, with daily timetables and next-prayer countdowns.
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
