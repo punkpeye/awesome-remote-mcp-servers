@@ -2326,6 +2326,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PrepSheet](https://getprepsheet.com) `https://getprepsheet.com/mcp`
   [![PrepSheet MCP connector](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet)
   🔓 - Cost recipes, set menu prices, work out UK GP, scale recipes to covers and build kitchen prep lists for chefs.
+- [RecipeBee](https://recipebee.app) `https://recipebee.app/mcp`
+  [![RecipeBee MCP connector](https://glama.ai/mcp/connectors/io.github.praisondani/recipebee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.praisondani/recipebee)
+  🔐 - Discover and preview recipes, privately save recipes and meal plans, and add food images on request.
 - [RegPulse Compliance Oracle](https://www.reg-bot.ai/developers) `https://www.reg-bot.ai/api/mcp`
   [![RegPulse Compliance Oracle MCP connector](https://glama.ai/mcp/connectors/ai.reg-bot/compliance-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/ai.reg-bot/compliance-oracle)
   🔓 - Read-only US food license data: verified state food rules, Florida license lookup and renewal dates.
