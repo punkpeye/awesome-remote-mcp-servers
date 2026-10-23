@@ -5119,7 +5119,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
-  [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
+  [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/com.tokenrip/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.tokenrip/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
 - [Verant](https://verant.ai) `https://verant.ai/mcp`
   [![Verant MCP connector](https://glama.ai/mcp/connectors/ai.verant/verant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.verant/verant)
