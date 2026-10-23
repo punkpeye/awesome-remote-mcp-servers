@@ -1314,9 +1314,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elecz](https://elecz.com) `https://elecz.com/mcp`
   [![Elecz MCP connector](https://glama.ai/mcp/connectors/com.elecz/elecz/badges/score.svg)](https://glama.ai/mcp/connectors/com.elecz/elecz)
   🔓 - Real-time electricity prices, cheapest hours and contract comparison across 40+ countries and 100+ market zones.
-- [FindEnergyRates](https://findenergyrates.com) `https://findenergyrates.com/mcp`
+- [FindEnergyRates](https://findenergyrates.com/developers/mcp) `https://findenergyrates.com/mcp/public`
   [![FindEnergyRates MCP connector](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates)
-  🔐 - Live US retail electricity plans and price-to-compare rates by utility or ZIP; free key by email.
+  🔓 - Live US retail electricity plans, utility price-to-compare rates and ZIP-to-utility lookup; no key needed.
 - [GreenCalculus](https://greencalculus.com/developers/) `https://mcp.greencalculus.com`
   [![GreenCalculus MCP connector](https://glama.ai/mcp/connectors/com.greencalculus/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.greencalculus/api)
   🔓 - Sourced greenhouse-gas emission factors and audit-traced carbon calculations.
