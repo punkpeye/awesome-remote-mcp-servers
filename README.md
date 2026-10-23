@@ -2130,6 +2130,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
+- [Plover Swap](https://plover.markets) `https://plover-mcp-probe.pages.dev/mcp`
+  [![Plover Swap MCP connector](https://glama.ai/mcp/connectors/io.github.kai-morgan-dev/plover-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kai-morgan-dev/plover-swap)
+  🔓 - Keyless Solana swap quotes (Jupiter) and token facts, plus a swap link the human signs. Holds no keys.
 - [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
   [![PMWallets MCP connector](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets)
   🔐 - Polymarket traders ranked by realized PnL, with their records, live fills and past trades as daily files.
