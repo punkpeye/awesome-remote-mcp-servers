@@ -1980,6 +1980,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jornalo](https://jornalo.com/en/mcp) `https://jornalo.com/api/mcp`
   [![Jornalo MCP connector](https://glama.ai/mcp/connectors/com.jornalo/journal/badges/score.svg)](https://glama.ai/mcp/connectors/com.jornalo/journal)
   🔐 - Futures trading journal: performance, setups, prop-firm drawdown risk, trade tagging and chart screenshots.
+- [Kabuken](https://kabuken.intellics.ai) `https://kabuken.intellics.ai/mcp`
+  [![Kabuken MCP connector](https://glama.ai/mcp/connectors/io.github.Intellics-ai/kabuken/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Intellics-ai/kabuken)
+  🔐 - Japanese listed-company financials, segments and shareholders from EDINET filings, each figure with its source filing.
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
