@@ -2812,6 +2812,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
+- [CleoLM](https://cleolm.com/agents) `https://cleolm.com/mcp`
+  [![CleoLM MCP connector](https://glama.ai/mcp/connectors/com.cleolm/cleolm/badges/score.svg)](https://glama.ai/mcp/connectors/com.cleolm/cleolm)
+  🔐 - Search timestamped transcripts of 158 synced YouTube and podcast channels plus any link you ingest.
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
