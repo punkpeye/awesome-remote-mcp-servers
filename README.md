@@ -3656,6 +3656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [BirdieAPI](https://birdieapi.com) `https://mcp.birdieapi.com/mcp`
+  [![BirdieAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/birdieapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/birdieapi)
+  🔓 - PGA Tour data from 2001: leaderboards, holes, courses, ratings, par-3/4/5 splits, major winner odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
