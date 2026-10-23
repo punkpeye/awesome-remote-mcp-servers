@@ -2427,6 +2427,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [GSCmate](https://gscmate.com) `https://gscmate.com/mcp`
+  [![GSCmate MCP connector](https://glama.ai/mcp/connectors/com.gscmate/gscmate/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscmate/gscmate)
+  🔐 - Read-only Google Search Console properties and Search Analytics via OAuth 2.1; includes sitemaps and URL inspection.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
