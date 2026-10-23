@@ -1109,6 +1109,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Context Window Supply](https://contextwindowsupply.com) `https://contextwindowsupply.com/mcp`
   [![Context Window Supply MCP connector](https://glama.ai/mcp/connectors/com.contextwindowsupply/store/badges/score.svg)](https://glama.ai/mcp/connectors/com.contextwindowsupply/store)
   🔓 - Search 8 merch items for AI builders (tees, hoodies, a sticker sheet), read sizes and prices, and quote US shipping.
+- [DealScore](https://cardealscore.com/agents?ref=awesome-remote-mcp-servers&utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory) `https://cardealscore.com/api/mcp`
+  [![DealScore MCP connector](https://glama.ai/mcp/connectors/com.cardealscore/dealscore/badges/score.svg)](https://glama.ai/mcp/connectors/com.cardealscore/dealscore)
+  🔐 - Grade a used car's asking price against live US dealer comps: grade, 0-100 score, price band and risks.
 - [Dolphin Industrial Parts](https://dolphinindustrialparts.com/for-ai-agents/) `https://dolphinindustrialparts.com/agent/mcp`
   [![Dolphin Industrial Parts MCP connector](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts/badges/score.svg)](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts)
   🔓 - Look up OEM brands, models and part numbers for compatible marine and industrial spare parts; read-only, no prices.
