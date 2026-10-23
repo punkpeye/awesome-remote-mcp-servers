@@ -1315,6 +1315,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![VRAMGlass MCP connector](https://glama.ai/mcp/connectors/com.vramglass/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vramglass/mcp)
   🔐 - GPU, AI workstation and DDR4/DDR5 asking prices on eBay, Xianyu and Amazon Japan, plus which local LLMs fit which GPU.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
+- [Yuantoutao Agent Mall (源头淘)](https://yuantoutao.com) `https://mcp.yuantoutao.com/mcp`
+  [![Yuantoutao Agent Mall MCP connector](https://glama.ai/mcp/connectors/com.yuantoutao.mcp/yuantoutao-agent-mall/badges/score.svg)](https://glama.ai/mcp/connectors/com.yuantoutao.mcp/yuantoutao-agent-mall)
+  🔑 - Cross-platform shopping: search, compare and buy across Taobao/JD/Pinduoduo with explainable ranking and fulfillment.
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
 - [Zebu Data - Amazon & eBay Product Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/amazon-product-data-scraper,delicious_zebu/amazon-product-details-scraper,delicious_zebu/ebay-product-listing-scraper,delicious_zebu/ebay-product-details-scraper,delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters`
