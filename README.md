@@ -1026,6 +1026,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cherry Notes](https://cherrynotes.app) `https://api.cherrynotes.app/mcp`
   [![Cherry Notes MCP connector](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes)
   🔐 - Capture features, ideas and tasks on your phone; your AI coding agent picks them up and ships them.
+- [Clerk](https://clerk.com/docs/guides/ai/mcp/clerk-mcp-server) `https://mcp.clerk.com/mcp`
+  [![Clerk MCP connector](https://glama.ai/mcp/connectors/io.github.clerk/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.clerk/mcp-server)
+  🔐 - Clerk auth SDK snippets and quickstarts, plus tools to manage Clerk apps, users, and instance settings.
 - [Cloudflare Docs](https://developers.cloudflare.com) `https://docs.mcp.cloudflare.com/mcp`
 - [CodeRifts](https://coderifts.com) `https://app.coderifts.com/mcp`
   [![CodeRifts MCP connector](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance)
