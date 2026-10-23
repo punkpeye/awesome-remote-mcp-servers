@@ -3952,6 +3952,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
+- [Rolês em SP](https://rolesemsp.com.br) `https://rolesemsp.com.br/mcp`
+  [![Rolês em SP MCP connector](https://glama.ai/mcp/connectors/br.com.rolesemsp/roles-catalogue-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.rolesemsp/roles-catalogue-mcp)
+  🔐 - São Paulo cultural concierge with semantic discovery, companion web schedule checks, and OAuth access.
 - [SafeResize](https://saferesize.com/ai) `https://saferesize.com/mcp`
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
