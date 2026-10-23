@@ -756,6 +756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
+- [OutreachGenie](https://www.outreachgenie.ai/linkedin-mcp) `https://api.outreachgenie.ai/mcp`
+  [![OutreachGenie MCP connector](https://glama.ai/mcp/connectors/ai.outreachgenie/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.outreachgenie/workspace)
+  🔐 - Manage LinkedIn prospect lists, notes, outreach flows and campaign drafts in an OutreachGenie workspace.
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
