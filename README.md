@@ -2804,6 +2804,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 📊 <a name="monitoring"></a>Monitoring
 
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
+  [![APIzone MCP connector](https://glama.ai/mcp/connectors/io.github.HappyMealSteak/apizone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.HappyMealSteak/apizone)
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
   [![Baromio MCP connector](https://glama.ai/mcp/connectors/io.baromio/baromio/badges/score.svg)](https://glama.ai/mcp/connectors/io.baromio/baromio)
