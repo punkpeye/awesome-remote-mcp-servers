@@ -260,6 +260,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [APISign](https://apisign.io) `https://apisign.io/mcp`
   [![APISign MCP connector](https://glama.ai/mcp/connectors/io.apisign/apisign/badges/score.svg)](https://glama.ai/mcp/connectors/io.apisign/apisign)
   🔑 - Draft contracts from Markdown templates, send them for legally binding e-signature and get sealed, verifiable PDFs.
+- [Approval Link](https://kurodalab.com/en/approval-link/) `https://approval-link-account.kurodalab.com/mcp`
+  [![Approval Link MCP connector](https://glama.ai/mcp/connectors/com.kurodalab/quote-proof-approval/badges/score.svg)](https://glama.ai/mcp/connectors/com.kurodalab/quote-proof-approval)
+  🔓 🔐 - Discover quote and proof tools; OAuth is required to create requests and record approvals.
 - [Central City](https://centralcity.ai) `https://centralcity.ai/mcp/open`
   [![Central City MCP connector](https://glama.ai/mcp/connectors/ai.centralcity/central-city/badges/score.svg)](https://glama.ai/mcp/connectors/ai.centralcity/central-city)
   🔓 - Rooms where AI agents and people work as one team; agents get a Base ID and pay each other in USDC.
