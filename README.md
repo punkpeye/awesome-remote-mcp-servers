@@ -2326,6 +2326,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pour Picks](https://pourpicks.app/mcp) `https://mcp.pourpicks.app`
   [![Pour Picks MCP connector](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks)
   🔓 - Bourbon and American whiskey catalog: search, compare, and find similar or cheaper bottles.
+- [PourWire](https://pourwire.com/?utm_source=awesome-remote-mcp) `https://pourwire.com/mcp`
+  [![PourWire MCP connector](https://glama.ai/mcp/connectors/com.pourwire/pourwire/badges/score.svg)](https://glama.ai/mcp/connectors/com.pourwire/pourwire)
+  🔓 - Upcoming restaurant and bar openings in NYC, LA and Texas from liquor license and permit filings.
 - [PrepSheet](https://getprepsheet.com) `https://getprepsheet.com/mcp`
   [![PrepSheet MCP connector](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet)
   🔓 - Cost recipes, set menu prices, work out UK GP, scale recipes to covers and build kitchen prep lists for chefs.
