@@ -1261,6 +1261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Runx](https://runx.ai) `https://api.runx.ai/mcp`
   [![Runx MCP connector](https://glama.ai/mcp/connectors/ai.runx/runx/badges/score.svg)](https://glama.ai/mcp/connectors/ai.runx/runx)
   🔓 - Search the skill catalog and inspect a skill's manifest, authority, and install command.
+- [Rush](https://getrush.ai/docs/concepts/mcp-server/) `https://api.prix.dev/mcp`
+  [![Rush MCP connector](https://glama.ai/mcp/connectors/ai.getrush/rush/badges/score.svg)](https://glama.ai/mcp/connectors/ai.getrush/rush)
+  🔑 - Hand an agent a task in its own cloud sandbox and get back a PR, report or files with the trajectory.
 - [Sato Hub](https://satohub.ai/mcp) `https://satohub.ai/api/mcp`
   [![Sato Hub MCP connector](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents/badges/score.svg)](https://glama.ai/mcp/connectors/ai.satohub/onchain-agents)
   🔓 - Search a scored index of crypto-agent tooling, then preflight a repo, package, endpoint or token.
