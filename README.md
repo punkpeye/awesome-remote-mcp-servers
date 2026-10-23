@@ -2183,6 +2183,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
   [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
   🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
+- [Double AIgents DSAR](https://www.doubleaigents.com/free-tools) `https://www.doubleaigents.com/api/mcp`
+  [![Double AIgents DSAR MCP connector](https://glama.ai/mcp/connectors/com.doubleaigents.www/dsar/badges/score.svg)](https://glama.ai/mcp/connectors/com.doubleaigents.www/dsar)
+  🔓 - GDPR subject access deadlines, 72-hour breach triage, DSAR letter templates, HR retention periods and AI-tool DPIA checks for the UK, EU and Switzerland.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
