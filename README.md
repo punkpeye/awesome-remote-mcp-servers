@@ -2711,6 +2711,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GleanMark](https://gleanmark.com/integrations) `https://gleanmark.com/mcp`
   [![GleanMark MCP connector](https://glama.ai/mcp/connectors/com.gleanmark/trademark-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.gleanmark/trademark-search)
   🔓 - Search 14M USPTO trademark records, mark status and history, Office Actions and TTAB cases; OAuth for your portfolios.
+- [Identik Firma Electrónica](https://identik.me/developers/) `https://electronica.identik.me/api/mcp`
+  [![Identik Firma Electrónica MCP connector](https://glama.ai/mcp/connectors/me.identik/electronica/badges/score.svg)](https://glama.ai/mcp/connectors/me.identik/electronica)
+  🔑 - Create and send e-signature requests, track signers, and download signed PDFs and evidence in Argentina.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
