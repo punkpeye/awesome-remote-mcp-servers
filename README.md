@@ -1911,6 +1911,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
+- [factureaza.ro](https://factureaza.ro) `https://factureaza.ro/mcp/generic`
+  [![factureaza.ro MCP connector](https://glama.ai/mcp/connectors/ro.factureaza/factureazaro/badges/score.svg)](https://glama.ai/mcp/connectors/ro.factureaza/factureazaro)
+  🔐 - Romanian invoicing: issue and search invoices, see clients and payments, send to RO e-Factura (SPV ANAF).
 - [Fair Value Calculator](https://www.fairvalue-calculator.com/mcp) `https://www.fairvalue-calculator.com/mcp`
   [![Fair Value Calculator MCP connector](https://glama.ai/mcp/connectors/com.fairvalue-calculator/fair-value/badges/score.svg)](https://glama.ai/mcp/connectors/com.fairvalue-calculator/fair-value)
   🔐 - Fair value estimates, quality scores and screening for 35,000+ stocks worldwide, plus watchlist and price alerts.
