@@ -600,6 +600,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
   [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
   🔐 - Turn a slide deck into a rehearsable talk with a voice-following script and slides that advance as you speak.
+- [anon.li](https://anon.li/mcp) `https://anon.li/api/mcp`
+  [![anon.li MCP connector](https://glama.ai/mcp/connectors/li.anon/anonli/badges/score.svg)](https://glama.ai/mcp/connectors/li.anon/anonli)
+  🔐 - Create, list and toggle private email aliases, list recipients, and manage encrypted file drop metadata.
 - [AskOne](https://askone.org) `https://askone.org/api/mcp`
   [![AskOne MCP connector](https://glama.ai/mcp/connectors/io.github.phuryn/askone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.phuryn/askone)
   🔐 - Run live audience Q&A and polls with free AI moderation: start rooms, launch polls, answer questions, draft a FAQ.
