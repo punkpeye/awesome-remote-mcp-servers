@@ -2583,6 +2583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConnectorReport](https://connectorreport.com/mcp) `https://connectorreport.com/api/mcp`
   [![ConnectorReport MCP connector](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport/badges/score.svg)](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport)
   🔓 - Dated, hands-on test results for remote MCP servers: pass rate, sign-in method, gotchas and fix recipes.
+- [Enterno.io](https://enterno.io/en/mcp-server) `https://enterno.io/mcp`
+  [![Enterno.io MCP connector](https://glama.ai/mcp/connectors/io.enterno/site-diagnostics/badges/score.svg)](https://glama.ai/mcp/connectors/io.enterno/site-diagnostics)
+  🔑 - Check HTTP, DNS, SSL, WHOIS, redirects and security headers for any site with 43 diagnostic tools.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
