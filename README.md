@@ -2358,6 +2358,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hunchful](https://hunchful.io) `https://hunchful.io/mcp`
   [![Hunchful MCP connector](https://glama.ai/mcp/connectors/io.hunchful/hunchful/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunchful/hunchful)
   🔐 - Your AI's inbox and people search: message friends, find people by how they work, knock with consent.
+- [khive](https://khive.ai) `https://khive.ai/v1/mcp`
+  [![khive MCP connector](https://glama.ai/mcp/connectors/ai.khive/khive/badges/score.svg)](https://glama.ai/mcp/connectors/ai.khive/khive)
+  🔐 - Hosted memory, knowledge graph and task list for agents, kept in your workspace across sessions and clients.
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
