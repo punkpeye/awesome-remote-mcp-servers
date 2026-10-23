@@ -3365,7 +3365,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
 
 ### 🎥 <a name="multimedia"></a>Multimedia
-
+- [aicut](https://www.aicut.pro/mcp) `https://mcp.aicut.pro/mcp`
+  [![aicut MCP connector](https://glama.ai/mcp/connectors/pro.aicut/aicut/badges/score.svg)](https://glama.ai/mcp/connectors/pro.aicut/aicut)
+  🔐 - Make AI videos, images, voiceovers and story episodes on Veo, Kling and Seedance, then post them to TikTok.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
