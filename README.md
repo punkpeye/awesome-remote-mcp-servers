@@ -4476,6 +4476,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nolizi Calendar](https://calendar.nolizi.com/agents) `https://calendar.nolizi.com/mcp`
   [![Nolizi Calendar MCP connector](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/com.nolizi.calendar/calendar)
   🔓 - Free scheduling: list event types, read availability, book, verify and cancel; tools need a key.
+- [OpenHelm](https://www.openhelm.ai) `https://mcp.openhelm.ai/main/mcp`
+  [![OpenHelm MCP connector](https://glama.ai/mcp/connectors/ai.openhelm/openhelm/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openhelm/openhelm)
+  🔐 - Lets an AI client drive the agent crew for your product, which writes content and answers customer email.
 - [Pally](https://pally.com/mcp) `https://agent.pally.com/mcp`
   [![Pally MCP connector](https://glama.ai/mcp/connectors/com.pally/pally/badges/score.svg)](https://glama.ai/mcp/connectors/com.pally/pally)
   🔐 - AI personal assistant you text: manage inbox, calendar, tasks and follow-ups over iMessage, WhatsApp and Telegram.
