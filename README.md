@@ -657,6 +657,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MepMail](https://mepmail.dev) `https://api.mepmail.dev/mcp`
   [![MepMail MCP connector](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail)
   🔐 - Send email, manage broadcasts and domains, and read or reply to Correio mailboxes within granted permissions.
+- [Odile](https://odilelabs.com/developers#connecting) `https://odilelabs.com/mcp`
+  [![Odile MCP connector](https://glama.ai/mcp/connectors/com.odilelabs/odile/badges/score.svg)](https://glama.ai/mcp/connectors/com.odilelabs/odile)
+  🔓 🔐 - Give an AI agent a real phone line that answers in 32 languages, takes messages and texts the owner.
 - [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
   [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
   🔓 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
