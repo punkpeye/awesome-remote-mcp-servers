@@ -2826,6 +2826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Assign coding tasks to Claude Code, Codex or OpenCode on your own infrastructure and get PRs back.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
+- [Nyna](https://nyna.ai/assistants) `https://nyna.ai/mcp`
+  [![Nyna MCP connector](https://glama.ai/mcp/connectors/ai.nyna/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nyna/mcp)
+  🔐 - AI wedding planner: real vendor directory (rating, reviews, address), guest list, budget and the wedding-day run sheet; directory tools open, wedding tools behind OAuth 2.1 scopes.
 - [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
   [![Orbit MCP connector](https://glama.ai/mcp/connectors/io.github.Noveum/orbit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noveum/orbit)
   🔐 - Manage issues, projects, sprints, docs and files.
