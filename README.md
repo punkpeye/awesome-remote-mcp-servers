@@ -3656,6 +3656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [DunkAPI](https://dunkapi.com) `https://mcp.dunkapi.com/mcp`
+  [![DunkAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi)
+  🔓 - NBA, WNBA and college basketball data: play-by-play, shot locations, box scores, odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
