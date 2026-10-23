@@ -1098,6 +1098,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReMCP](https://remcp.site) `https://remcp.site/mcp`
   [![ReMCP MCP connector](https://glama.ai/mcp/connectors/site.remcp/re-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/site.remcp/re-mcp)
   🔐 - Remote access to paired computers: files, terminals, screenshots, search, and processes.
+- [Remote Desktop Commander](https://mcp.desktopcommander.app) `https://mcp.desktopcommander.app/mcp`
+  [![Remote Desktop Commander MCP connector](https://glama.ai/mcp/connectors/app.desktopcommander/remote-desktop-commander/badges/score.svg)](https://glama.ai/mcp/connectors/app.desktopcommander/remote-desktop-commander)
+  🔐 - Use files, terminal and processes on your own computers from any AI app.
 - [Review Times](https://reviewtimes.fyi) `https://reviewtimes.fyi/mcp`
   [![Review Times MCP connector](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times)
   🔓 - Live review times for AI app, connector and plugin stores: ChatGPT, Claude, Muse, Grok, Cursor and more.
