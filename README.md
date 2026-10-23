@@ -439,6 +439,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pastefield](https://pastefield.com/mcp) `https://pastefield.com/api/mcp`
   [![Pastefield MCP connector](https://glama.ai/mcp/connectors/com.pastefield/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pastefield/mcp)
   🔐 - Give Claude a whiteboard: place notes, links, images and diagrams on a board you both edit.
+- [PickShade](https://pickshade.com/mcp) `https://pickshade.com/api/mcp`
+  [![PickShade MCP connector](https://glama.ai/mcp/connectors/com.pickshade/pickshade/badges/score.svg)](https://glama.ai/mcp/connectors/com.pickshade/pickshade)
+  🔓 - 18 color tools: OKLCH conversion, WCAG 2 and APCA contrast checks and fixes, palette audits for color blindness, gradients, Tailwind and DTCG tokens.
 - [ProfessionalHeadshot.io](https://professionalheadshot.io) `https://professionalheadshot.io/api/mcp`
   [![ProfessionalHeadshot.io MCP connector](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot)
   🔓 - Official LinkedIn, Slack and GitHub profile photo specs with sources, headshot style guides and a free headshot audit.
