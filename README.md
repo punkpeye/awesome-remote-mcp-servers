@@ -699,6 +699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [JustBlogged](https://justblogged.com/ai) `https://justblogged.com/mcp`
+  [![JustBlogged MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/justblogged/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/justblogged)
+  🔓 - Create, schedule and publish posts and pages; manage tags, collections, redirects, domains and themes. Tools use OAuth.
 - [Keepp](https://keepp.link/developers) `https://api.keepp.link/mcp`
   [![Keepp MCP connector](https://glama.ai/mcp/connectors/link.keepp/keepp/badges/score.svg)](https://glama.ai/mcp/connectors/link.keepp/keepp)
   🔐 - Build and edit a Keepp page (links, shop, bookings, forms) at keepp.link/yourname.
@@ -4445,4 +4448,3 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
-
