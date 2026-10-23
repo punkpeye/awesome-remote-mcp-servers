@@ -2607,6 +2607,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![iMario MCP connector](https://glama.ai/mcp/connectors/ai.imario/imario/badges/score.svg)](https://glama.ai/mcp/connectors/ai.imario/imario)
   🔐 - Ask synthetic audiences built from real people how they react to copy, pages, prices and images.
 
+- [Lasso](https://getlasso.co/mcp) `https://lasso.link/mcp`
+  [![Lasso MCP connector](https://glama.ai/mcp/connectors/co.getlasso/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.getlasso/mcp)
+  🔑 - Read affiliate opportunities, broken links, and clicks for one site. Changes stay a dry-run until you confirm.
+
 - [IndustryLens](https://industry-lens.com) `https://api.industry-lens.com/mcp/public`
   [![IndustryLens MCP connector](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public/badges/score.svg)](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public)
   🔓 - Competitive intelligence on B2B SaaS markets: competitor profiles, strategic moves, pricing changes and reports.
