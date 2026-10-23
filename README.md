@@ -3474,6 +3474,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Local Business Leads](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-data-scraper,delicious_zebu/yellowpages-usa-business-lead-scraper,delicious_zebu/yellowpages-ca-business-data-scraper,delicious_zebu/yellowpages-australia-lead-generator,delicious_zebu/yelp-advanced-business-scraper-pay-per-result,delicious_zebu/contact-info-scraper,delicious_zebu/contact-info-scraper-pay-per-result`
   [![Zebu Data - Local Business Leads MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads)
   🔐 - Find local businesses on Google Maps, Yellow Pages and Yelp, then pull emails and phones from their websites.
+- [AIDarknet](https://github.com/95369149/aidarknet-mcp) `https://aidarknet-mcp.fangzimo168.workers.dev/mcp`
+  🔓 - Machine-readable AI market data for AI agents: subscription prices, free credits, free LLM models, China-exclusive AI pricing. 6 MCP tools, Streamable HTTP, no auth.
 
 ### 🔒 <a name="security"></a>Security
 
