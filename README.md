@@ -2391,6 +2391,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [MetricPort](https://metricport.io) `https://metricport.io/api/mcp`
+  [![MetricPort MCP connector](https://glama.ai/mcp/connectors/io.metricport/metricport/badges/score.svg)](https://glama.ai/mcp/connectors/io.metricport/metricport)
+  🔐 - Google Search Console, Google Ads and AdSense analytics: traffic drops, striking-distance queries, wasted ad spend, earnings changes.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
