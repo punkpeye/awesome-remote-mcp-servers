@@ -3144,6 +3144,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CrateWire](https://cratewire.com) `https://cratewire.com/mcp`
   [![CrateWire MCP connector](https://glama.ai/mcp/connectors/com.cratewire/cratewire/badges/score.svg)](https://glama.ai/mcp/connectors/com.cratewire/cratewire)
   🔐 - Find the tracks DJs play in Instagram, TikTok and set links; follow DJs, scan link lists and read your Radar.
+- [Cucutime](https://cucutime.org/developers) `https://cucutime.org/mcp`
+  [![Cucutime MCP connector](https://glama.ai/mcp/connectors/org.cucutime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.cucutime/mcp)
+  🔓 - Kids-song ideas, name song pages and CucuTime YouTube catalog search; an optional key adds AI songs for adult apps.
 - [CWI Discovery Engine](https://github.com/CumulativeWebInc/cwi-learn) `https://cwi-machine-data.hp-ace.workers.dev/mcp`
   [![CWI Discovery Engine MCP connector](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine)
   🔓 - Machine-readable catalog of the Cumulative Web Inc label: track search, sync briefs, live Radio 365, playlist pitching.
