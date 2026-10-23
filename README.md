@@ -2361,6 +2361,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [Nearius](https://www.nearius.com/conectar/) `https://mcp.nearius.com/mcp`
+  [![Nearius MCP connector](https://glama.ai/mcp/connectors/com.nearius/nearius/badges/score.svg)](https://glama.ai/mcp/connectors/com.nearius/nearius)
+  🔐 - Spanish case law with ECLI and official links, consolidated BOE legislation and tax doctrine.
 - [Patent by Ouroboros](https://ouroborosapps.com/docs/patent) `https://patent-mcp.vercel.app/mcp`
   [![Patent by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent)
   🔓 - US patent search and prior art lookup that returns only records the patent office returned; not legal advice.
