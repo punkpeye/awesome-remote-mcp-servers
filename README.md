@@ -4378,6 +4378,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [Talk To Gina](https://talktogina.ai/connect/) `https://app.talktogina.ai/api/mcp`
+  [![Talk To Gina MCP connector](https://glama.ai/mcp/connectors/ai.talktogina/gina/badges/score.svg)](https://glama.ai/mcp/connectors/ai.talktogina/gina)
+  🔐 - Send tasks to Gina, an AI Chief of Staff; read its threads and files, answer its approvals and run its schedules.
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
