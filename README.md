@@ -715,6 +715,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MyOTP.App](https://myotp.app/mcp/) `https://mcp.myotp.app/mcp`
   [![MyOTP.App MCP connector](https://glama.ai/mcp/connectors/io.github.brntech/myotp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brntech/myotp)
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
+- [Oryah Mail](https://mail.infinihash.com) `https://mail-mcp.infinihash.com/mcp`
+  [![Oryah Mail MCP connector](https://glama.ai/mcp/connectors/com.infinihash/oryah-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.infinihash/oryah-mail)
+  🔐 - Gmail, Microsoft 365 and IMAP mailboxes and calendars with per-mailbox permissions, a send allowlist and an audit log.
 - [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
   [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
   🔓 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
