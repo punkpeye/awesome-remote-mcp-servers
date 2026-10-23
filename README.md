@@ -4422,6 +4422,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JustBacked](https://justbacked.com/developers) `https://justbacked.com/api/mcp`
   [![JustBacked MCP connector](https://glama.ai/mcp/connectors/com.justbacked/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.justbacked/jobs)
   🔓 - Search open roles at startups that raised venture funding in the last 6 months, with round and investors.
+- [Karma Compass](https://compass.karmahq.org/agents) `https://nonprofitsapi.karmahq.org/mcp`
+  [![Karma Compass MCP connector](https://glama.ai/mcp/connectors/org.karmahq.nonprofitsapi/karma-compass/badges/score.svg)](https://glama.ai/mcp/connectors/org.karmahq.nonprofitsapi/karma-compass)
+  🔐 - Manage nonprofit board agendas, draft minutes, decisions, and action items with human approval.
 - [KDAN PDF](https://pdf-reader.kdandoc.com/products/mcp/claude) `https://mcp.kdandoc.com/mcp`
   [![KDAN PDF MCP connector](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp)
   🔓 - Compress, delete pages, redact PII, compare versions, and add or remove password protection on PDFs.
