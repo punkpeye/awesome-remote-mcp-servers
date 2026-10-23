@@ -2799,6 +2799,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klox](https://klox.ai/agent) `https://klox.ai/mcp`
   [![Klox MCP connector](https://glama.ai/mcp/connectors/ai.klox/klox/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klox/klox)
   🔐 - Plan and edit AI videos on canvases: script, storyboard, shots and final cut.
+- [Kuro](https://meetkuro.com/agents/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=2026-10-distribution) `https://api.meetkuro.com/mcp`
+  [![Kuro MCP connector](https://glama.ai/mcp/connectors/io.github.meetkuro/kuro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meetkuro/kuro)
+  🔐 - Create AI images, video clips, voice-overs and music, and direct, render and export storyboard films.
 - [LiveReacting](https://www.livereacting.com/mcp) `https://mcp.livereacting.com/mcp`
   [![LiveReacting MCP connector](https://glama.ai/mcp/connectors/com.livereacting/livereacting/badges/score.svg)](https://glama.ai/mcp/connectors/com.livereacting/livereacting)
   🔐 - Run 24/7 live streams of pre-recorded videos, or stream a recorded video at a set time to YouTube, Facebook and more.
