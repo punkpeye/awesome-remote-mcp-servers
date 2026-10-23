@@ -1097,6 +1097,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
+- [TestMu AI](https://www.testmuai.com/mcp/) `https://mcp.lambdatest.com/mcp`
+  [![TestMu AI MCP connector](https://glama.ai/mcp/connectors/com.lambdatest.mcp/mcp-server-by-test-mu-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.lambdatest.mcp/mcp-server-by-test-mu-ai)
+  🔐 - Orchestrate HyperExecute runs, triage automation failures, manage test cases, and run accessibility audits.
 - [The Aggregate](https://theaggregate.ai/mcp) `https://theaggregate.ai/mcp`
   [![The Aggregate MCP connector](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate/badges/score.svg)](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate)
   🔓 - LLM rankings fitted across public benchmarks: leaderboard, model profiles, comparisons and source-linked scores.
