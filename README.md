@@ -637,6 +637,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SofortFax](https://sofortfax.de/ki-fax.html) `https://sofortfax.de/api/mcp.php`
   [![SofortFax MCP connector](https://glama.ai/mcp/connectors/de.sofortfax/fax/badges/score.svg)](https://glama.ai/mcp/connectors/de.sofortfax/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to Germany, Austria and 40+ countries; pay per fax or prepaid credits.
+- [Spun WhatsApp MCP](https://spun.com/mcp/) `https://api.spun.com/api/mcp`
+  [![Spun WhatsApp MCP connector](https://glama.ai/mcp/connectors/com.spun/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/com.spun/whatsapp)
+  🔐 - Business WhatsApp for your AI: chats, digests, team stats and sends you approve.
 - [Subo](https://subo.gg/blog/connect-discord-community-to-ai-agent/) `https://api.subo.ai/mcp`
   [![Subo MCP connector](https://glama.ai/mcp/connectors/gg.subo/survey-bot/badges/score.svg)](https://glama.ai/mcp/connectors/gg.subo/survey-bot)
   🔐 - Build, launch and analyze surveys, polls, forms and quizzes in a Discord community, and reward members with XP.
