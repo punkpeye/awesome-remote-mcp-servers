@@ -1088,6 +1088,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dolphin Industrial Parts](https://dolphinindustrialparts.com/for-ai-agents/) `https://dolphinindustrialparts.com/agent/mcp`
   [![Dolphin Industrial Parts MCP connector](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts/badges/score.svg)](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts)
   🔓 - Look up OEM brands, models and part numbers for compatible marine and industrial spare parts; read-only, no prices.
+- [Ecomhint](https://ecomhint.com/mcp) `https://ecomhint.com/api/mcp`
+  [![Ecomhint MCP connector](https://glama.ai/mcp/connectors/com.ecomhint/store-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.ecomhint/store-audit)
+  🔐 - Read ecommerce store audits, open each issue with evidence and fix steps, track tasks, and run new audits.
 - [Epinu](https://epinu.ai) `https://api.epinu.ai/api/agent/mcp`
   [![Epinu MCP connector](https://glama.ai/mcp/connectors/ai.epinu/epinu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.epinu/epinu)
   🔓 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
