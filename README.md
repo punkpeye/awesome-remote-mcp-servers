@@ -892,6 +892,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Heard](https://heard.dev) `https://api.heard.dev/v1/mcp/agent`
   [![Heard MCP connector](https://glama.ai/mcp/connectors/dev.heard/heard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.heard/heard)
   🔐 - Cloud agents report progress that Heard speaks on your Mac, and pick up the replies you send back.
+- [hermes-micro-agent-mcp](https://github.com/Reggiebro/hermes-micro-agent-mcp) `https://92.5.95.177.sslip.io/mcp`
+  🔓 - 20 x402-paid AI and data micro-tasks over MCP: free `tasks`, `price`, `verify` and `health` tools for discovery, plus a paid `execute` tool that requires a real USDC payment on Base before running. Unimplemented tasks are refused rather than faked.
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
