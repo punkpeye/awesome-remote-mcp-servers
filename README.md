@@ -572,6 +572,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Shotkiln MCP connector](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln/badges/score.svg)](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln)
   🔓 - Screenshot pages as PNG, JPEG or WebP, render a URL or HTML to PDF, and make 1200x630 OG images; key optional.
 
+- [Solvecha](https://solvecha.com/mcp-captcha-solver) `https://api.solvecha.com/mcp`
+  [![Solvecha MCP connector](https://glama.ai/mcp/connectors/com.solvecha/solvecha/badges/score.svg)](https://glama.ai/mcp/connectors/com.solvecha/solvecha)
+  🔑 - Solves reCAPTCHA v2 image grids, text captchas, GeeTest sliders and FunCAPTCHA for agents; free tier included.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
