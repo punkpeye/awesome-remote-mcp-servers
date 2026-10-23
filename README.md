@@ -4307,6 +4307,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Runsheet](https://runsheet.buildifyapp.in/mcp) `https://runsheet.buildifyapp.in/api/mcp`
   [![Runsheet MCP connector](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler/badges/score.svg)](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler)
   🔐 - Read a YouTube channel's schedule and stats, schedule, publish and retitle videos, and draft copy, all on approval.
+- [ShortsIntel](https://www.shortsintel.com) `https://www.shortsintel.com/api/mcp`
+  [![ShortsIntel MCP connector](https://glama.ai/mcp/connectors/com.shortsintel/shorts-intel/badges/score.svg)](https://glama.ai/mcp/connectors/com.shortsintel/shorts-intel)
+  🔐 - Research short-form video and ads on TikTok, Reels, Shorts and Facebook, and track creators, sounds and advertisers.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
