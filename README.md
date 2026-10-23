@@ -1401,6 +1401,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Barakah Halal Stock Screen](https://barakahprofits.com) `https://app.barakahprofits.com/mcp`
   [![Barakah Halal Stock Screen MCP connector](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen/badges/score.svg)](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen)
   🔓 - Halal (Sharia) screen for US stocks: AAOIFI-style checks plus the dated history of each verdict change.
+- [Bazous](https://bazous.com/docs) `https://bazous.com/mcp`
+  [![Bazous MCP connector](https://glama.ai/mcp/connectors/com.bazous/bazous/badges/score.svg)](https://glama.ai/mcp/connectors/com.bazous/bazous)
+  🔐 - Household cash-flow answers before payday: what is due, the lowest balance and the best payment to move.
 - [Benefits City](https://aiagentscity.com/benefits) `https://aiagentscity.com/benefits/mcp`
   [![Benefits City MCP connector](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city)
   🔓 - US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates.
