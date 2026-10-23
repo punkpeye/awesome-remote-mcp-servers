@@ -669,6 +669,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [sitectrl](https://sitectrl.ai/mcp) `https://mcp.sitectrl.ai/mcp`
   [![sitectrl MCP connector](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sitectrl/sitectrl)
   🔓 - Describe a site and get it live with SSL, forms and analytics; OAuth to edit and manage it.
+- [SlopIt](https://slopit.io) `https://slopit.io/mcp`
+  [![SlopIt MCP connector](https://glama.ai/mcp/connectors/io.slopit/slopit/badges/score.svg)](https://glama.ai/mcp/connectors/io.slopit/slopit)
+  🔓 - Your agent signs up, creates a blog and publishes markdown posts to a live URL, then sees which AIs read them.
 - [SnapHost](https://snaphost.ai) `https://app.snaphost.ai/api/mcp`
   [![SnapHost MCP connector](https://glama.ai/mcp/connectors/ai.snaphost/snaphost/badges/score.svg)](https://glama.ai/mcp/connectors/ai.snaphost/snaphost)
   🔐 - Publish a page or site to a private link, control who can view it, and update it in place.
