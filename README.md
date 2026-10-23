@@ -660,6 +660,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write LaTeX from 1,000+ journal, thesis and CV templates and compile to PDF with the build log.
+- [LotsBlog](https://lots.blog) `https://api.lots.blog/mcp`
+  [![LotsBlog MCP connector](https://glama.ai/mcp/connectors/blog.lots/lotsblog/badges/score.svg)](https://glama.ai/mcp/connectors/blog.lots/lotsblog)
+  🔐 - Write, schedule and publish blog posts on your own domain, with topics, images and post analytics.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
@@ -708,6 +711,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [LotsCRM](https://lotscrm.com) `https://api.lotscrm.com/mcp`
+  [![LotsCRM MCP connector](https://glama.ai/mcp/connectors/com.lotscrm/lotscrm/badges/score.svg)](https://glama.ai/mcp/connectors/com.lotscrm/lotscrm)
+  🔐 - Add leads, log calls and emails, move deals through pipelines and track follow-ups in a shared CRM.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
@@ -2046,6 +2052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
+- [LotsNotes](https://lotsnotes.com) `https://api.lotsnotes.com/mcp`
+  [![LotsNotes MCP connector](https://glama.ai/mcp/connectors/com.lotsnotes/lotsnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.lotsnotes/lotsnotes)
+  🔐 - Read and save shared business notes, folders and AGENTS.md instructions that every agent works from.
 - [MemoryRouter](https://memoryrouter.ai) `https://mcp.memoryrouter.ai/mcp`
   [![MemoryRouter MCP connector](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter)
   🔓 - Cross-AI persistent memory for ChatGPT, Claude, Codex and other MCP clients: one user-scoped vault. OAuth unlocks it.
@@ -2369,6 +2378,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loomaly](https://loomaly.com) `https://loomaly.com/mcp`
   [![Loomaly MCP connector](https://glama.ai/mcp/connectors/com.loomaly/loomaly/badges/score.svg)](https://glama.ai/mcp/connectors/com.loomaly/loomaly)
   🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
+- [LotsDirectory](https://lots.directory) `https://api.lots.directory/mcp`
+  [![LotsDirectory MCP connector](https://glama.ai/mcp/connectors/directory.lots/lotsdirectory/badges/score.svg)](https://glama.ai/mcp/connectors/directory.lots/lotsdirectory)
+  🔐 - List and launch your product, manage its page and track submissions to other launch directories.
+- [LotsLink](https://lots.link) `https://api.lots.link/mcp`
+  [![LotsLink MCP connector](https://glama.ai/mcp/connectors/link.lots/lotslink/badges/score.svg)](https://glama.ai/mcp/connectors/link.lots/lotslink)
+  🔐 - Create short links and QR codes, manage custom domains and read click analytics by source and device.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 - [MailSenpai](https://www.mailsenpai.com) `https://mcp.mailsenpai.com/mcp`
@@ -3511,6 +3526,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
+- [LotsSocial](https://lots.social) `https://api.lots.social/mcp`
+  [![LotsSocial MCP connector](https://glama.ai/mcp/connectors/social.lots/lotssocial/badges/score.svg)](https://glama.ai/mcp/connectors/social.lots/lotssocial)
+  🔐 - Schedule, publish and track posts on 12 social networks, with brands, a media library and analytics.
 - [MatrixAgentNet](https://matrixagentnet.com) `https://matrixagentnet.com/mcp`
   [![MatrixAgentNet MCP connector](https://glama.ai/mcp/connectors/io.github.matrixagentsocial/matrixagentnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.matrixagentsocial/matrixagentnet)
   🔓 - Social network where AI agents publish work, review peers and earn reputation.
@@ -3654,6 +3672,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Run field service jobs, dispatch, invoices and quotes, and build new screens, with a person confirming each change.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
+- [LotsTeam](https://lots.team) `https://api.lots.team/mcp`
+  [![LotsTeam MCP connector](https://glama.ai/mcp/connectors/team.lots/lotsteam/badges/score.svg)](https://glama.ai/mcp/connectors/team.lots/lotsteam)
+  🔐 - Turn feature requests and support messages into tasks, reply to users and publish changelog updates.
 - [NexTool MCP for GLPI](https://nextoolsolutions.com/mcp) `https://mcp.nextoolsolutions.com/mcp`
   [![NexTool MCP for GLPI MCP connector](https://glama.ai/mcp/connectors/com.nextoolsolutions/glpi/badges/score.svg)](https://glama.ai/mcp/connectors/com.nextoolsolutions/glpi)
   🔐 - Search, create and update GLPI tickets, ITIL problems and changes, assets and knowledge base.
