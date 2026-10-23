@@ -3656,6 +3656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [InsightSocial](https://www.insightsocial.app/mcp) `https://api.insightsocial.app/mcp`
+  [![InsightSocial MCP connector](https://glama.ai/mcp/connectors/app.insightsocial/insightsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.insightsocial/insightsocial)
+  🔐 - Public profiles, posts, comments, followers and search from 25 social platforms, priced per call.
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
