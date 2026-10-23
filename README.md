@@ -2797,6 +2797,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hermoso](https://hermoso.ai) `https://app.hermoso.ai/mcp`
   [![Hermoso MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso)
   🔓 - Research competitor ads, generate image and video ads, schedule social posts and run paid ad campaigns.
+- [Howseen](https://howseen.ai/mcp) `https://app.howseen.ai/api/mcp`
+  [![Howseen MCP connector](https://glama.ai/mcp/connectors/ai.howseen/howseen-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.howseen/howseen-mcp)
+  🔑 - Brand visibility in ChatGPT, Gemini, Perplexity and Google AI: competitors, cited sources, gaps, and article publishing.
 
 - [How It Spread](https://howitspread.com/mcp) `https://howitspread.com/api/mcp`
   [![How It Spread MCP connector](https://glama.ai/mcp/connectors/com.howitspread/howitspread/badges/score.svg)](https://glama.ai/mcp/connectors/com.howitspread/howitspread)
