@@ -2836,6 +2836,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signal by StackEnhance](https://stackenhance.com/signal) `https://mcp.stackenhance.com/mcp`
   [![Signal by StackEnhance MCP connector](https://glama.ai/mcp/connectors/com.stackenhance/signal/badges/score.svg)](https://glama.ai/mcp/connectors/com.stackenhance/signal)
   🔓 - How often Nordic and German e-commerce brands send marketing email: send counts, dates and the most active senders.
+- [Social Growth Engineers](https://www.socialgrowthengineers.com) `https://www.socialgrowthengineers.com/mcp`
+  [![Social Growth Engineers MCP connector](https://glama.ai/mcp/connectors/com.socialgrowthengineers/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialgrowthengineers/mcp)
+  🔐 - Research viral TikTok and Instagram app-marketing videos, hook trends and growth case studies.
 - [Spytrend](https://spytrend.com/mcp/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-launch) `https://mcp.spytrend.com/mcp`
   [![Spytrend MCP connector](https://glama.ai/mcp/connectors/com.spytrend/spytrend/badges/score.svg)](https://glama.ai/mcp/connectors/com.spytrend/spytrend)
   🔐 - Search Meta and TikTok ads, find the advertisers behind them, and rank what is scaling.
