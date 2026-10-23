@@ -1894,7 +1894,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
 - [MetricDuck](https://www.metricduck.com) `https://mcp.metricduck.com/mcp`
   [![MetricDuck MCP connector](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis)
-  🔓 - SEC filing data for AI agents: financials, screening, every figure traceable; tool calls need a free sign-in.
+  🔐 - Research U.S. public companies from their SEC filings: financials, XBRL facts, filing text and EDGAR full-text search.
 - [Midpoint Card Prices](https://www.cardcenteringtool.com/mcp) `https://mcp.cardcenteringtool.com/mcp`
   [![Midpoint Card Prices MCP connector](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices)
   🔓 - Trading card prices and grading ROI for 1.5M+ Pokémon, TCG and sports cards: raw and PSA 9/10 values, movers.
