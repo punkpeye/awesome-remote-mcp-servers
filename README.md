@@ -1487,7 +1487,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search 1.8M+ live Brazilian used-car and motorcycle listings with FIPE prices, price ranges and cheapest states.
 - [Pokemon TCG Restock Alerts - bujusjujus](https://bujusjujus.com/api) `https://bujusjuj.us/mcp`
   [![Pokemon TCG Restock Alerts - bujusjujus MCP connector](https://glama.ai/mcp/connectors/com.bujusjujus/alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.bujusjujus/alerts)
-  🔑 - Pokémon TCG restock alerts across US retailers: recent drops, MSRP lookups, restock timing and signed webhooks.
+  🔓 🔑 - Pokémon TCG restock alerts across US retailers: recent drops, MSRP lookups, restock timing and signed webhooks.
 - [Pollen](https://pollen.elytron.in) `https://pollen.elytron.in/mcp`
   [![Pollen MCP connector](https://glama.ai/mcp/connectors/in.elytron/pollen/badges/score.svg)](https://glama.ai/mcp/connectors/in.elytron/pollen)
   🔓 - Score, enrich, and publish your Shopify or WooCommerce catalog so AI agents can find and recommend it.
