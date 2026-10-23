@@ -1787,6 +1787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Business Verify](https://mbiyepyh.gensparkclaw.com/docs) `https://mbiyepyh.gensparkclaw.com/mcp`
   [![Business Verify MCP connector](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify/badges/score.svg)](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify)
   🔑 - Check a US business's status, formation date and registered agent by name and state; $0.05 a call.
+- [Buzzberg](https://buzzberg.ai/mcp) `https://mcp.buzzberg.ai/mcp`
+  [![Buzzberg MCP connector](https://glama.ai/mcp/connectors/ai.buzzberg/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.buzzberg/mcp)
+  🔐 - Trade ideas, author track records and sentiment from X, YouTube, Reddit and Substack, plus earnings calls and 13F.
 - [CalcBright](https://calcbright.com/developers) `https://calcbright.com/mcp`
   [![CalcBright MCP connector](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright)
   🔓 - 100+ calculators: mortgage, take-home pay, sales tax/VAT, BMI, dates, units, live currency and gold prices.
