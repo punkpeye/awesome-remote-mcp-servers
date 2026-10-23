@@ -3328,6 +3328,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arifOS](https://mcp.arif-fazil.com) `https://mcp.arif-fazil.com/mcp`
   [![arifOS MCP connector](https://glama.ai/mcp/connectors/io.github.ariffazil/arifos/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ariffazil/arifos)
   🔓 - Fail-closed governance and separation of powers for MCP-enabled AI agents.
+- [ATK Security Checks](https://atkvn.com/agent/) `https://atkvn.com/agent/mcp`
+  [![ATK Security Checks MCP connector](https://glama.ai/mcp/connectors/com.atkvn/security-checks/badges/score.svg)](https://glama.ai/mcp/connectors/com.atkvn/security-checks)
+  🔓 - Post-quantum TLS and certificate checks, Wazuh rules tested on a real manager, and a PHP2Shell CVE check.
 - [Auth Posture](https://auth-posture.rowb.app) `https://auth-posture.rowb.app/mcp`
   [![Auth Posture MCP connector](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit)
   🔓 - One-call domain audit: MX receiving, SPF/DMARC/DKIM spoofing protection, disposable-address risk.
