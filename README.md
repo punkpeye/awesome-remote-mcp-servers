@@ -1992,6 +1992,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trust Check](https://trust-check.gm-tools.workers.dev) `https://trust-check.gm-tools.workers.dev/mcp`
   [![Trust Check MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check)
   🔓 - Safety check for a Base token or address before you trade or pay it; USDC per call via x402.
+- [Truthifi](https://truthifi.com/features/mcp) `https://api.truthifi.com/mcp`
+  [![Truthifi MCP connector](https://glama.ai/mcp/connectors/com.truthifi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.truthifi/mcp)
+  🔐 - One verified household record for your AI: accounts, holdings, fees and Score. Can't move money.
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
