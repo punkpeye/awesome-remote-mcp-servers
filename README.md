@@ -1748,6 +1748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DEBYKO](https://debyko.com) `https://mcp.debyko.com/mcp`
   [![DEBYKO MCP connector](https://glama.ai/mcp/connectors/com.debyko/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.debyko/mcp)
   🔐 - Live and historical crypto derivatives data across venues: books, funding, candles and DQL screens.
+- [Deep Blue Alpha](https://deepbluealpha.io/mcp) `https://deepbluealpha.io/mcp`
+  [![Deep Blue Alpha MCP connector](https://glama.ai/mcp/connectors/io.deepbluealpha/whale-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.deepbluealpha/whale-data)
+  🔓 - Live Ethereum whale flows: exchange withdrawals/deposits vs DEX swaps, top tokens, whale moves, sentiment index.
 - [DeepLedger](https://deepledger.ai) `https://mcp.deepledger.ai/mcp`
   [![DeepLedger MCP connector](https://glama.ai/mcp/connectors/ai.deepledger/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deepledger/mcp)
   🔐 - AI accountant for QuickBooks: record transactions, run reports, manage AR/AP and close the month.
