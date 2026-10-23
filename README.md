@@ -4090,6 +4090,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Present of AI](https://presentofai.com/developers) `https://presentofai.com/mcp`
   [![Present of AI MCP connector](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai)
   🔓 - Sourced data on 4,900 AI companies, open AI jobs and dated AI news; every result links to its page.
+- [PrintFriendly](https://www.printfriendly.com/help/api-mcp) `https://mcp.printfriendly.com`
+  [![PrintFriendly MCP connector](https://glama.ai/mcp/connectors/com.printfriendly/printfriendly/badges/score.svg)](https://glama.ai/mcp/connectors/com.printfriendly/printfriendly)
+  🔑 - Read any web page as clean Markdown, or make a PDF, Word or Markdown file from a URL, HTML or Markdown.
 - [Proxmint](https://proxmint.com) `https://proxmint.com/api/mcp`
   [![Proxmint MCP connector](https://glama.ai/mcp/connectors/com.proxmint/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxmint/mcp)
   🔓 - Proxy prices, balance, usage, geo-targeted proxy lines and connection checks; account tools need an API key.
