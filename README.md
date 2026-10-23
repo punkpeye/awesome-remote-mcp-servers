@@ -2189,6 +2189,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [OpenCase](https://www.opencase.com) `https://www.opencase.com/mcp`
+  [![OpenCase MCP connector](https://glama.ai/mcp/connectors/com.opencase/opencase/badges/score.svg)](https://glama.ai/mcp/connectors/com.opencase/opencase)
+  🔐 - US case law: check citations and quotes against the source, flag negative treatment, answer research questions.
 - [Patent by Ouroboros](https://ouroborosapps.com/docs/patent) `https://patent-mcp.vercel.app/mcp`
   [![Patent by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent)
   🔓 - US patent search and prior art lookup that returns only records the patent office returned; not legal advice.
