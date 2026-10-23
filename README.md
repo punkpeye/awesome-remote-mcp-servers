@@ -4894,6 +4894,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Time of Meeting](https://timeofmeeting.com/mcp) `https://timeofmeeting.com/mcp`
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
+- [ToDowl](https://todowl.com) `https://mcp.todowl.com/`
+  [![ToDowl MCP connector](https://glama.ai/mcp/connectors/io.github.supafast-tech/todowl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supafast-tech/todowl)
+  🔐 - Manage tasks, calendar events, notes and habits in ToDowl from your AI client.
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
