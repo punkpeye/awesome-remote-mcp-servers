@@ -2613,6 +2613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LogoKit](https://logokit.com) `https://mcp.logokit.com/mcp`
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
+- [Lomen](https://lomenanalytics.com/) `https://lomenanalytics.com/mcp`
+  [![Lomen MCP connector](https://glama.ai/mcp/connectors/io.github.MrBananKaka123/lomen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MrBananKaka123/lomen)
+  🔐 - Cookie-free website analytics: ask about your site's pageviews, visitors, top pages and sources, plus AI insights.
 - [Loomaly](https://loomaly.com) `https://loomaly.com/mcp`
   [![Loomaly MCP connector](https://glama.ai/mcp/connectors/com.loomaly/loomaly/badges/score.svg)](https://glama.ai/mcp/connectors/com.loomaly/loomaly)
   🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
