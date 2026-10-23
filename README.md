@@ -2245,6 +2245,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [knowsme](https://knowsme.dev) `https://mcp.knowsme.dev/mcp`
   [![knowsme MCP connector](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme)
   🔐 - One memory for you and your AI agents: your notes, rules and projects follow you across machines, AI apps and agents.
+- [Lexpad](https://lexpad.app/features/assistants) `https://api.lexpad.app/mcp`
+  [![Lexpad MCP connector](https://glama.ai/mcp/connectors/app.lexpad/lexpad/badges/score.svg)](https://glama.ai/mcp/connectors/app.lexpad/lexpad)
+  🔐 - Vocabulary notebook with spaced repetition: search, add and edit your saved words, list due words, record practice.
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
