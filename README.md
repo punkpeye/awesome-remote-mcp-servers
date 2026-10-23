@@ -156,9 +156,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DexL Agents](https://agents.dexl.io) `https://agents.dexl.io/mcp`
   [![DexL Agents MCP connector](https://glama.ai/mcp/connectors/io.github.dexl-io/agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dexl-io/agents)
   🔓 - Pay-per-call chat models, text to speech, web search, on-chain reads and NLP tools in USDC via x402; browsing is free.
-- [Diogenes Gateway](https://diogenes-l402-gateway.corinth.workers.dev) `https://diogenes-l402-gateway.corinth.workers.dev/mcp`
+- [Diogenes Gateway](https://diogenes-micro-gateway.corinth.workers.dev) `https://diogenes-micro-gateway.corinth.workers.dev/mcp`
   [![Diogenes Gateway MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway)
-  🔓 - Multi-protocol AI microservices: pre-execution guardrails, smart contract audits, and EVE Frontier smart assemblies.
+  🔓 - Multi-protocol hub with access to 45 Gemini models, 6 modular suites, and 85 edge services.
+- [Diogenes Gemini Suite](https://diogenes-micro-gateway.corinth.workers.dev/#gemini-suite) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/gemini-suite`
+  [![Diogenes Gemini Suite MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gemini-suite-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gemini-suite-mcp)
+  🔓 - Account-less inference across 45 Gemini models, Antigravity Agent, and Deep Research Pro.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
 - [FiatDock](https://fiatdock.com) `https://fiatdock.com/mcp`
@@ -920,6 +923,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [Diogenes Context & Solvers](https://diogenes-micro-gateway.corinth.workers.dev/#context-code-solver) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/context-code-solver`
+  [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-context-code-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-context-code-solver-mcp)
+  🔓 - AST skeleton pruner, fuzzy code patcher, BPE token budgeter, and seeded Monte Carlo risk simulator.
+- [Diogenes Dev Utilities](https://diogenes-micro-gateway.corinth.workers.dev/#dev-utilities) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/dev-utilities`
+  [![Diogenes Dev Utilities MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-dev-utilities-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-dev-utilities-mcp)
+  🔓 - Malformed JSON healing, certified ReDoS-safe regex synthesis, and context compaction integrity verifier.
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
@@ -1601,6 +1610,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Diogenes Web3 Security](https://diogenes-micro-gateway.corinth.workers.dev/#web3-security) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/web3-security`
+  [![Diogenes Web3 Security MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp)
+  🔓 - EIP-712 and Permit2 phishing decoders, Solana priority fee oracle, and token honeypot auditor.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
@@ -2087,6 +2099,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
+- [Diogenes EVE: Frontier](https://diogenes-micro-gateway.corinth.workers.dev/#eve-frontier) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/eve-frontier`
+  [![Diogenes EVE: Frontier MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp)
+  🔓 - 9 Sui Move smart assembly development engines, smart gate route planner, and capacitor optimizer.
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
@@ -3744,6 +3759,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DemiSignal](https://demisignal.com/tools/mcp-server?utm_source=awesome-mcp-servers&utm_medium=mcp-directory) `https://demisignal.com/mcp?utm_source=awesome-mcp-servers`
   [![DemiSignal MCP connector](https://glama.ai/mcp/connectors/com.demisignal/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.demisignal/mcp)
   🔓 - Grade a domain's live DMARC, SPF, DKIM, MX, BIMI and MTA-STS records, and generate SPF and DMARC records.
+- [Diogenes Agent Guardrails](https://diogenes-micro-gateway.corinth.workers.dev/#agent-guardrails) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/agent-guardrails`
+  [![Diogenes Agent Guardrails MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-agent-guardrails-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-agent-guardrails-mcp)
+  🔓 - Pre-execution AST SQL verifier, prompt-injection scrubber, and tools/list mutation detector.
 - [DnsGuard](https://dnsguard.mike-tusa.workers.dev/) `https://dnsguard.mike-tusa.workers.dev/mcp`
   [![DnsGuard MCP connector](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard)
   🔓 - Checks a domain's SPF, DKIM, DMARC, BIMI, MX, MTA-STS and TLS-RPT, with a 0–100 score and fixes.
