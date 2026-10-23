@@ -2497,6 +2497,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
 - [Vibe Prospecting](https://vibeprospecting.ai) `https://vibeprospecting.explorium.ai/mcp`
   🔐 - Search companies and contacts, enrich lead lists, and research B2B business signals.
+- [WalletPassBuilder](https://walletpassbuilder.com/integrations) `https://walletpassbuilder.com/api/mcp`
+  [![WalletPassBuilder MCP connector](https://glama.ai/mcp/connectors/com.walletpassbuilder/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.walletpassbuilder/mcp)
+  🔐 - Create, update and message Apple Wallet and Google Wallet passes, and run loyalty stamp cards.
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
