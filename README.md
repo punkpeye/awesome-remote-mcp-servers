@@ -2411,6 +2411,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nuqti](https://nuqti.com/mcp) `https://nuqti.com/api/public/mcp`
   [![Nuqti MCP connector](https://glama.ai/mcp/connectors/com.nuqti/nuqti-ahrefs-alternative-seo-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.nuqti/nuqti-ahrefs-alternative-seo-data)
   🔓 - SEO data: domain overview, backlinks, referring domains, link history, keyword ideas and on-page checks.
+- [nvoke](https://nvoke.run) `https://api.nvoke.run/mcp`
+  [![nvoke MCP connector](https://glama.ai/mcp/connectors/run.nvoke/nvoke/badges/score.svg)](https://glama.ai/mcp/connectors/run.nvoke/nvoke)
+  🔐 - Find companies and decision makers, wait for verification, and get back working email addresses.
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
