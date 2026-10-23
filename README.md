@@ -654,6 +654,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Keepp](https://keepp.link/developers) `https://api.keepp.link/mcp`
   [![Keepp MCP connector](https://glama.ai/mcp/connectors/link.keepp/keepp/badges/score.svg)](https://glama.ai/mcp/connectors/link.keepp/keepp)
   🔐 - Build and edit a Keepp page (links, shop, bookings, forms) at keepp.link/yourname.
+- [KudoWrite](https://kudowrite.com) `https://kudowrite.com/mcp`
+  [![KudoWrite MCP connector](https://glama.ai/mcp/connectors/com.kudowrite/kudowrite/badges/score.svg)](https://glama.ai/mcp/connectors/com.kudowrite/kudowrite)
+  🔐 - Read and edit your novels in KudoWrite: chapters, beats, story bible and the running book summary.
 - [Lediv](https://lediv.com) `https://lediv.app/mcp`
   [![Lediv MCP connector](https://glama.ai/mcp/connectors/app.lediv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.lediv/mcp)
   🔐 - Visual website builder synced with real code: edit files, publish, roll back, manage domains and previews.
