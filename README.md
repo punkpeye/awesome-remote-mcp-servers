@@ -1991,6 +1991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
+- [LCX Liberty DEX](https://dex.lcx.com/docs/mcp-server) `https://swap-api.lcx.com/mcp`
+  [![LCX Liberty DEX MCP connector](https://glama.ai/mcp/connectors/io.github.LCX-AG/lcx-liberty-dex/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LCX-AG/lcx-liberty-dex)
+  🔑 - Best-route swap quotes, token search and USD prices across EVM chains; read-only, never executes a trade.
 - [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
   [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
   🔓 - Verify Dutch and Belgian companies (KVK, KBO), EU VAT, sanctions and PEPs, with a risk score; key or x402.
