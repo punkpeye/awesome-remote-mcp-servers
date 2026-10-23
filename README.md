@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jinero](https://jinero.online/dev/mcp) `https://jinero.online/mcp`
   [![Jinero MCP connector](https://glama.ai/mcp/connectors/online.jinero/jinero/badges/score.svg)](https://glama.ai/mcp/connectors/online.jinero/jinero)
   🔓 - Fonts, font recognition from images, palettes, color math and contrast, code and SVG tools for design work.
+- [Kalpana Designer](https://kalpana.one/mcp/designer) `https://mcp.kalpana.one/mcp/designer`
+  [![Kalpana Designer MCP connector](https://glama.ai/mcp/connectors/one.kalpana/designer/badges/score.svg)](https://glama.ai/mcp/connectors/one.kalpana/designer)
+  🔐 - Design editable social posts, banners and ads from a brief, with layout checks, previews and motion.
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
@@ -2911,6 +2914,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jepto](https://www.jepto.com/integration/mcp) `https://mcp.jepto.com`
   [![Jepto MCP connector](https://glama.ai/mcp/connectors/com.jepto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.jepto/mcp)
   🔐 - Query live Google Ads, GA4, Search Console, Meta Ads and Google Business Profile data, and manage KPIs and budgets.
+
+- [Kalpana Batch](https://kalpana.one/mcp) `https://mcp.kalpana.one/mcp/batch`
+  [![Kalpana Batch MCP connector](https://glama.ai/mcp/connectors/one.kalpana/batch/badges/score.svg)](https://glama.ai/mcp/connectors/one.kalpana/batch)
+  🔐 - Fill design templates from a product list or spreadsheet and render banners, ads and listing images in bulk.
 
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
