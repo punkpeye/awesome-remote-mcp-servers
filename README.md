@@ -3402,6 +3402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [file2markdown](https://www.file2markdown.ai) `https://mcp.file2markdown.ai/mcp`
   [![file2markdown MCP connector](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown/badges/score.svg)](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown)
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
+- [Find your role first](https://findyourrolefirst.click) `https://findyourrolefirst.click/mcp`
+  [![Find your role first MCP connector](https://glama.ai/mcp/connectors/click.findyourrolefirst/jobfeed/badges/score.svg)](https://glama.ai/mcp/connectors/click.findyourrolefirst/jobfeed)
+  🔐 - New jobs from 15,000+ company career sites (Greenhouse, Lever, Ashby, Workday, big tech), searched newest first.
 - [Firecrawl](https://firecrawl.dev) `https://mcp.firecrawl.dev/v2/mcp`
   [![Firecrawl MCP connector](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp)
   🔓 - Crawl, scrape, and extract structured data from websites.
