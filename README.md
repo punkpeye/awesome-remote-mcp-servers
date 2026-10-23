@@ -4428,6 +4428,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ERP Partner Finder](https://erppartnerfinder.com) `https://erppartnerfinder.com/api/mcp`
   [![ERP Partner Finder MCP connector](https://glama.ai/mcp/connectors/com.erppartnerfinder/partner-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.erppartnerfinder/partner-finder)
   🔓 - Search and compare Odoo implementation partners in Germany, Austria and Switzerland, with rule-based shortlists.
+- [FeedbackPulse](https://feedbackpulse.com/help/integrations/mcp-overview/) `https://app.feedbackpulse.com/mcp`
+  [![FeedbackPulse MCP connector](https://glama.ai/mcp/connectors/com.feedbackpulse/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.feedbackpulse/mcp)
+  🔐 - Employee pulse surveys, eNPS, performance reviews and peer recognition for HR teams and managers.
 - [Finder Jobs](https://mcp.finder.work) `https://mcp.finder.work/mcp`
   [![Finder Jobs MCP connector](https://glama.ai/mcp/connectors/work.finder/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/work.finder/jobs)
   🔓 - Job vacancies and salary stats for Russia, Kazakhstan, Belarus, Kyrgyzstan, Germany, France and 4 more countries.
