@@ -879,6 +879,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coderbuds](https://coderbuds.com/docs/mcp?ref=awesome-remote-mcp) `https://coderbuds.com/mcp/insights`
   [![Coderbuds MCP connector](https://glama.ai/mcp/connectors/com.coderbuds/insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.coderbuds/insights)
   🔐 - Read your team's delivery metrics and standards, and check a change against them before a PR.
+- [CodexGuild](https://codexguild.com/docs/mcp) `https://api.codexguild.com/v1/mcp`
+  [![CodexGuild MCP connector](https://glama.ai/mcp/connectors/com.codexguild/codexguild/badges/score.svg)](https://glama.ai/mcp/connectors/com.codexguild/codexguild)
+  🔐 - What changed in your stack since the model's cutoff, error fixes, package checks, and scanned skills and MCP servers.
 - [CometChat Docs](https://www.cometchat.com/docs/mcp-server) `https://mcp.cometchat.com/mcp`
   [![CometChat Docs MCP connector](https://glama.ai/mcp/connectors/io.github.cometchat/docs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cometchat/docs-mcp)
   🔓 - Search CometChat chat, calling and moderation docs and get ready-made integration recipes.
