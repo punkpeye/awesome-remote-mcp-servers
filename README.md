@@ -3822,6 +3822,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [B2B Email & Domain Scorer](https://rapidapi.com/MohamedBahaa/api/b2b-email-domain-scorer) `https://email-scorer.mohamed-bahaa53000.workers.dev/demo/mcp`
+  [![B2B Email & Domain Scorer MCP connector](https://glama.ai/mcp/connectors/dev.workers.mohamed-bahaa53000.email-scorer/b2b-email-domain-scorer/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mohamed-bahaa53000.email-scorer/b2b-email-domain-scorer)
+  🔓 - Keep/fix/review/drop decision for sales lead emails: typo fixes, disposable, free and role inboxes, MX and provider.
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
