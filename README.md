@@ -471,6 +471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ankra](https://docs.ankra.ai/platform/mcp-server) `https://platform.ankra.app/api/v1/mcp`
   [![Ankra MCP connector](https://glama.ai/mcp/connectors/ai.ankra/platform/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ankra/platform)
   🔐 - Deploy and operate Kubernetes: build or import clusters, ship apps, read logs and metrics, and triage CVEs.
+- [CitadelHosts](https://docs.citadelhosts.com/ai-integration/mcp.html) `https://citadelhosts.com/api/mcp`
+  [![CitadelHosts MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.citadelhosts/citadel-hosts/badges/score.svg)](https://glama.ai/mcp/connectors/com.citadelhosts/citadel-hosts)
+  🔑 - Manage your own cloud with AI: deploy apps, push and ship custom Docker images, run territories, read logs, and manage backups/billing via scope-limited API keys.
 - [Cloud World Model](https://www.cloudworldmodel.ai/mcp-quickstart) `https://www.cloudworldmodel.ai/mcp`
   [![Cloud World Model MCP connector](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model)
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
