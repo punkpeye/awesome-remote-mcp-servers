@@ -1266,6 +1266,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [Faroz](https://faroz.uz/faroz-mcp/) `https://faroz.uz/mcp`
+  [![Faroz MCP connector](https://glama.ai/mcp/connectors/uz.faroz/faroz/badges/score.svg)](https://glama.ai/mcp/connectors/uz.faroz/faroz)
+  🔐 - Kids' learning platform (ages 8–17): build courses, lessons, interactive exercises and games; review homework.
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
