@@ -4414,6 +4414,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
+- [Klype AI](https://klype.ai) `https://api.klype.ai/api/v1/mcp`
+  [![Klype AI MCP connector](https://glama.ai/mcp/connectors/ai.klype/klype/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klype/klype)
+  🔐 - Draft posts in your own measured voice from saved business context and check drafts before you post.
 - [KreatorMesh](https://kreatormesh.com/claude) `https://api.kreatormesh.com/api/mcp`
   [![KreatorMesh MCP connector](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh/badges/score.svg)](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh)
   🔐 - Schedule posts to 10 platforms and check drafts against hook rules learned from your own audience.
