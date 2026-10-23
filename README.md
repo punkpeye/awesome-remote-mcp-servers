@@ -720,6 +720,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [AI2SQL](https://ai2sql.io/mcp) `https://builder.ai2sql.io/api/chatgpt-mcp`
+  [![AI2SQL MCP connector](https://glama.ai/mcp/connectors/io.ai2sql/ai2sql/badges/score.svg)](https://glama.ai/mcp/connectors/io.ai2sql/ai2sql)
+  🔐 - Text-to-SQL: write SQL from plain English and run read-only queries on PostgreSQL, MySQL and SQL Server.
 - [CloudCrane](https://cloudcrane.ai) `https://cloudcrane.ai/api/build/mcp`
   [![CloudCrane MCP connector](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace)
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
