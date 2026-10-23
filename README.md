@@ -961,9 +961,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BlockVectra](https://blockvectra.com) `https://docs.blockvectra.com/mcp`
   [![BlockVectra MCP connector](https://glama.ai/mcp/connectors/com.blockvectra/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.blockvectra/docs)
   🔓 - Docs, chains, pricing and public EVM RPC reads without a key; indexed data and account tools require an API key.
-- [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
-  [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
-  🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
+- [BotKelp](https://www.botkelp.com) `https://www.botkelp.com/mcp`
+  [![BotKelp MCP connector](https://glama.ai/mcp/connectors/com.botkelp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/com.botkelp/bot-kelp)
+  🔓 - Build CI-tested Next.js, Supabase and Stripe app scaffolds from a verified component catalog.
 - [CacheBoost](https://www.cache-boost.com/support/mcp/overview) `https://api.cache-boost.com/mcp`
   [![CacheBoost MCP connector](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost/badges/score.svg)](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost)
   🔑 - Warm CDN and reverse-proxy caches from 12 regions after a deploy or purge, then read the run's hit/miss stats.
