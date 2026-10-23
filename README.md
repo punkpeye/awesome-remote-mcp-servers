@@ -3797,7 +3797,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Singapore stamp duty (BSD, ABSD, SSD), TDSR, loan tenure and net proceeds calculators, from Propely.
 - [PropRaven](https://propraven.com) `https://propraven.com/mcp`
   [![PropRaven MCP connector](https://glama.ai/mcp/connectors/io.github.jdw2111/propraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jdw2111/propraven)
-  🔑 - US property data: 180M+ parcels with lookup, search, owners, hazards, valuations, permits and sales history.
+  🔐 - US property data: 180M+ parcels with lookup, search, owners, hazards, valuations, permits and sales history.
 - [RealtyCrawl](https://realtycrawl.dev) `https://realtycrawl.dev/mcp`
   [![RealtyCrawl MCP connector](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl/badges/score.svg)](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl)
   🔓 - Discover real estate capabilities and source-linked observations; data calls require an API key and credits.
