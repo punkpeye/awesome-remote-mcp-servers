@@ -3901,6 +3901,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pickleball3](https://pickleball3.com) `https://pickleball3.com/mcp`
   [![Pickleball3 MCP connector](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3)
   🔓 - Compare 152 reviewed pickleball paddles by score and specs, with purchase links.
+- [Polymarket & Kalshi Odds vs Pinnacle](https://apify.com/sharplinelabs/polymarket-kalshi-odds-mcp) `https://sharplinelabs--polymarket-kalshi-odds-mcp.apify.actor/mcp`
+  [![Polymarket & Kalshi Odds vs Pinnacle MCP connector](https://glama.ai/mcp/connectors/io.github.mirowbek-droid/polymarket-kalshi-odds/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mirowbek-droid/polymarket-kalshi-odds)
+  🔑 - Pinnacle no-vig fair odds vs live Polymarket and Kalshi sports prices, with the edge after fees.
 - [RallyIQ](https://bigballi.com/RallyIQ/connect) `https://bigballi.com/RallyIQ/mcp`
   [![RallyIQ MCP connector](https://glama.ai/mcp/connectors/com.bigballi/rallyiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/rallyiq)
   🔓 - Tennis game plans, player scouting and match breakdowns from shot-by-shot charted ATP and WTA matches.
