@@ -3680,6 +3680,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Movahedi Privacy](https://movahedi.ca/mcp) `https://movahedi.ca/mcp`
   [![Movahedi Privacy API MCP server](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api/badges/score.svg)](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api)
   🔓 - Canadian privacy compliance: enforcement actions, glossary and Law 25 checks.
+- [Ncrypt](https://ncrypt-imagio-labs.vercel.app) `https://ncrypt-imagio-labs.vercel.app/api/mcp`
+  [![Ncrypt MCP connector](https://glama.ai/mcp/connectors/io.github.andyrzr-bot/ncrypt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.andyrzr-bot/ncrypt)
+  🔐 - Private document sharing for agents. Upload a document and get back a link that only opens after the reader identifies themselves. Downloads are requested rather than assumed, and every view is attributed to a named person. The agent can share a document; it cannot read one, because the tool returns a link and not a file. Four tools: create a share link, add another link with its own trace code, list documents, and read view analytics.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
