@@ -2216,6 +2216,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [past.dev](https://past.dev/docs/mcp/overview) `https://app.past.dev/mcp`
   [![past.dev MCP connector](https://glama.ai/mcp/connectors/dev.past/past/badges/score.svg)](https://glama.ai/mcp/connectors/dev.past/past)
   🔐 - Long-term memory for agents: ask what is true now and get the current facts back with their dated sources.
+- [Patricia](https://www.patricia.app/mcp) `https://api.patricia.app/v1/mcp`
+  [![Patricia MCP connector](https://glama.ai/mcp/connectors/app.patricia.api/patricia/badges/score.svg)](https://glama.ai/mcp/connectors/app.patricia.api/patricia)
+  🔐 - Search a team's Patricia memory and files, read its connected tools, and hand tasks to Patricia with approvals.
 - [Pinto Notes](https://pintonotes.com) `https://mcp.pintonotes.com`
   [![Pinto Notes MCP connector](https://glama.ai/mcp/connectors/com.pintonotes/pinto-notes/badges/score.svg)](https://glama.ai/mcp/connectors/com.pintonotes/pinto-notes)
   🔐 - Search, read and edit your notes; every AI edit is highlighted in the app, with version history and undo.
