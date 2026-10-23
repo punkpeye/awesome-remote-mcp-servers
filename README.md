@@ -2632,6 +2632,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
 
+- [AskAiRank](https://askairank.com/claude?utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory&utm_campaign=mcp_listing) `https://mcp.askairank.com/mcp?src=awesome-remote`
+  [![AskAiRank MCP connector](https://glama.ai/mcp/connectors/com.askairank/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.askairank/mcp)
+  🔐 - Track how often ChatGPT, Claude, Perplexity and Gemini name your brand, and compare with competitors.
+
 - [AskWatch Google Search Console MCP](https://askwatch.ai/free-tools/google-search-console-mcp) `https://mcp.askwatch.ai/gsc`
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
