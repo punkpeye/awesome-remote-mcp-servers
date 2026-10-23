@@ -1455,6 +1455,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Panda Greetings](https://www.pandagreetings.com/ai-assistants) `https://www.pandagreetings.com/mcp/designs`
   [![Panda Greetings MCP connector](https://glama.ai/mcp/connectors/com.pandagreetings/cards/badges/score.svg)](https://glama.ai/mcp/connectors/com.pandagreetings/cards)
   🔓 - Greeting card designs with your message inside, each linking to order it printed and mailed in the US.
+- [PedalBro](https://pedalbro.com/mcp) `https://api.pedalbro.com/mcp`
+  [![PedalBro MCP connector](https://glama.ai/mcp/connectors/com.pedalbro/pedalbro/badges/score.svg)](https://glama.ai/mcp/connectors/com.pedalbro/pedalbro)
+  🔓 - Guitar pedal specs, new and used prices, 90-day price history, review scores, pedalboard checks and buying guides.
 - [PegaRex](https://pegarex.com.br) `https://pegarex.com.br/api/mcp`
   [![PegaRex MCP connector](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex)
   🔓 - Search 1.8M+ live Brazilian used-car and motorcycle listings with FIPE prices, price ranges and cheapest states.
