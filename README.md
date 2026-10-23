@@ -924,7 +924,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
 - [Diogenes Context & Solvers](https://diogenes-micro-gateway.corinth.workers.dev/#context-code-solver) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/context-code-solver`
-  [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-context-code-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-context-code-solver-mcp)
+  [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp)
   🔓 - AST skeleton pruner, fuzzy code patcher, BPE token budgeter, and seeded Monte Carlo risk simulator.
 - [Diogenes Dev Utilities](https://diogenes-micro-gateway.corinth.workers.dev/#dev-utilities) `https://diogenes-micro-gateway.corinth.workers.dev/mcp/dev-utilities`
   [![Diogenes Dev Utilities MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-dev-utilities-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-dev-utilities-mcp)
