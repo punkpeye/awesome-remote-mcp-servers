@@ -3410,6 +3410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Government surplus auctions in the US, UK, CA and AU, with sold-price comps and resale scores.
+- [GovCon MCP by G2X](https://g2x.com/mcp) `https://mcp.g2x.com/mcp`
+  [![GovCon MCP by G2X MCP connector](https://glama.ai/mcp/connectors/com.g2x/govcon/badges/score.svg)](https://glama.ai/mcp/connectors/com.g2x/govcon)
+  🔐 - Federal opportunities, awards, agencies and companies from G2X, in any AI agent.
 - [GovContractScout](https://scout.govbidportals.com) `https://scout.govbidportals.com/mcp`
   [![GovContractScout MCP connector](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout/badges/score.svg)](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout)
   🔐 - Search US state & local government contracts, NAICS codes, and AI match scoring via OAuth 2.1.
