@@ -2699,6 +2699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
+- [Stackpulse](https://stackpulse.app/mcp) `https://stackpulse.app/mcp`
+  [![Stackpulse MCP connector](https://glama.ai/mcp/connectors/app.stackpulse/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.stackpulse/mcp)
+  🔐 - Official status of 9,700+ services, and your own dashboards, incidents and URL monitors; needs Pro.
 - [Tá Rodando](https://tarodando.com.br) `https://tarodando.com.br/mcp`
   [![Tá Rodando MCP connector](https://glama.ai/mcp/connectors/br.com.tarodando/ta-rodando/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.tarodando/ta-rodando)
   🔐 - Manage uptime monitors, alert channels and a PT-BR public status page from your agent.
