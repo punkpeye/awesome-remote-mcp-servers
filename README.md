@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [A1 Gallery](https://www.a1.gallery/mcp) `https://www.a1.gallery/api/mcp`
+  [![A1 Gallery MCP connector](https://glama.ai/mcp/connectors/gallery.a1/a1-gallery/badges/score.svg)](https://glama.ai/mcp/connectors/gallery.a1/a1-gallery)
+  🔐 - Search hand-curated real websites by style, font and colour, with captured sections and measured design tokens.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
