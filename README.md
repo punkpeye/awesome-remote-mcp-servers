@@ -326,6 +326,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sphere Marketplace](https://starsphera.com/marketplace/) `https://starsphera.com/mcp`
   [![Sphere Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace)
   🔓 - Agent-to-agent marketplace: list, buy and sell work by contract with escrow and signed receipts (pay-per-call paused).
+- [Taasky](https://taasky.ai) `https://mcp.taasky.ai/mcp`
+  [![Taasky MCP connector](https://glama.ai/mcp/connectors/ai.taasky/taasky/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taasky/taasky)
+  🔓 - Your agent settles a time or a detail with anyone, agent or browser, and both people confirm the terms.
 - [Taifoon](https://www.taifoon.io/docs/coordination-api) `https://coord.taifoon.dev/mcp`
   [![Taifoon MCP connector](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer)
   🔓 - Post a need in plain words; the layer matches an agent, grades the delivery by code and settles; also chain proofs.
@@ -570,6 +573,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shipvela](https://shipvela.com) `https://shipvela.com/mcp`
   [![Shipvela MCP connector](https://glama.ai/mcp/connectors/com.shipvela/shipvela/badges/score.svg)](https://glama.ai/mcp/connectors/com.shipvela/shipvela)
   🔐 - Create website projects, deploy supported GitHub repositories, and inspect deployment status, logs, and usage.
+- [spawnpoint](https://getspawnpoint.com) `https://app.getspawnpoint.com/mcp`
+  [![spawnpoint MCP connector](https://glama.ai/mcp/connectors/com.getspawnpoint/spawnpoint/badges/score.svg)](https://glama.ai/mcp/connectors/com.getspawnpoint/spawnpoint)
+  🔐 - Deploy the small apps an agent builds to a live HTTPS link, private by default and shared by email like a Google Doc.
 - [Symbioza](https://symbioza.dev) `https://symbioza.dev/mcp`
   [![Symbioza MCP connector](https://glama.ai/mcp/connectors/dev.symbioza/symbioza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.symbioza/symbioza)
   🔐 - Run a GPU job under a hard dollar cap and collect the files it writes.
@@ -2079,6 +2085,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
+- [Pour Picks](https://pourpicks.app/mcp) `https://mcp.pourpicks.app`
+  [![Pour Picks MCP connector](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks)
+  🔓 - Bourbon and American whiskey catalog: search, compare, and find similar or cheaper bottles.
 - [PrepSheet](https://getprepsheet.com) `https://getprepsheet.com/mcp`
   [![PrepSheet MCP connector](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet)
   🔓 - Cost recipes, set menu prices, work out UK GP, scale recipes to covers and build kitchen prep lists for chefs.
@@ -2621,6 +2630,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
+- [gtm.help](https://gtm.help) `https://gtm.help/mcp`
+  [![gtm.help MCP connector](https://glama.ai/mcp/connectors/help.gtm/gtm-help/badges/score.svg)](https://glama.ai/mcp/connectors/help.gtm/gtm-help)
+  🔓 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
 - [HarborRank](https://harborrank.com/features/mcp) `https://app.harborrank.com/mcp`
   [![HarborRank MCP connector](https://glama.ai/mcp/connectors/com.harborrank/harborrank/badges/score.svg)](https://glama.ai/mcp/connectors/com.harborrank/harborrank)
   🔐 - Keyword metrics, live Google SERPs, backlinks, rank tracking, site audits and read-only Search Console data.
@@ -3306,6 +3318,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
+- [Tenantback](https://tenantback.com) `https://tenantback.com/mcp`
+  [![Tenantback MCP connector](https://glama.ai/mcp/connectors/com.tenantback/cam-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenantback/cam-audit)
+  🔓 - Audits a landlord's CAM reconciliation against the commercial lease; cites the clause behind each overcharge.
 - [TrueFixR + AtlasCast](https://atlasunited.io/api) `https://mcp.atlasunited.io/mcp`
   [![TrueFixR + AtlasCast MCP connector](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr)
   🔓 - Address-level storm event data and forecasted property risk API for AI agents.
@@ -3385,6 +3400,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lenz Fact-Check](https://lenz.io/integrations/mcp-server) `https://lenz.io/mcp`
   [![Lenz Fact-Check MCP connector](https://glama.ai/mcp/connectors/io.lenz/fact-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.lenz/fact-check)
   🔐 - Checks the factual claims in a text against independent sources: a quick verdict, or a deep check with sources.
+- [MedicineData MCP](https://medicine.shanchuangkj.com/en/mcp) `https://medicine.shanchuangkj.com/mcp/`
+  [![MedicineData MCP connector](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data)
+  🔓 - Chinese pharma data: 22 tools (21 query + 1 free) for drugs, targets, trials, deals and patents; queries need a key.
 - [Monitly](https://monit.ly/mcp-docs) `https://monit.ly/api/mcp/public`
   [![Monitly MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/monitly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/monitly)
   🔓 - Official statistics from Eurostat, World Bank, OECD, IMF and WHO for 150+ countries: search datasets and time series.
@@ -3664,6 +3682,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scoutee](https://scoutee.org/en/mcp-public-tenders) `https://scoutee.org/api/mcp/public`
   [![Scoutee MCP connector](https://glama.ai/mcp/connectors/org.scoutee/scoutee/badges/score.svg)](https://glama.ai/mcp/connectors/org.scoutee/scoutee)
   🔓 - Search public tenders across Europe and North America and read notice previews.
+- [ScrapeUnblocker](https://www.scrapeunblocker.com) `https://mcp.scrapeunblocker.com/mcp`
+  [![ScrapeUnblocker MCP connector](https://glama.ai/mcp/connectors/com.scrapeunblocker.mcp/scrape-unblocker/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrapeunblocker.mcp/scrape-unblocker)
+  🔓 - Fetch pages past anti-bot blocks as HTML or parsed JSON, plus Google search and 100+ site plugins; tools need a key.
 - [ScrapingBee](https://www.scrapingbee.com) `https://mcp.scrapingbee.com/mcp`
   [![ScrapingBee MCP connector](https://glama.ai/mcp/connectors/com.scrapingbee.mcp/scraping-bee/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrapingbee.mcp/scraping-bee)
   🔓 - Fetch any page as text, markdown, HTML or a screenshot past JS and anti-bot blocks; API key needed for tool calls.
@@ -4066,6 +4087,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![OpenMapp MCP connector](https://glama.ai/mcp/connectors/com.openmapp/openmapp/badges/score.svg)](https://glama.ai/mcp/connectors/com.openmapp/openmapp)
   🔓 - Find US BJJ gyms with weekly schedules, open mats, and visitor drop-in prices.
 
+- [EndzoneAPI](https://endzoneapi.com) `https://mcp.endzoneapi.com/mcp`
+  [![EndzoneAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/endzoneapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/endzoneapi)
+  🔓 - NFL play-by-play with EPA since 1999, player and team stats, injuries, and closing lines for every game.
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
   🔓 - Results, fixtures, tables, goal timing and season projections for 93 football leagues, lower divisions included.
@@ -4544,6 +4568,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
+- [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
+  [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
+  🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
 - [toolvend](https://toolvend.dev/) `https://toolvend.dev/mcp`
   [![toolvend MCP connector](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools)
   🔓 - x402-paid utilities: URL inspection, DNS, RDAP, LEI, sitemaps, robots.txt, VAT and QR codes.
