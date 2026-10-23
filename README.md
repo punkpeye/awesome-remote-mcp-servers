@@ -1338,6 +1338,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ankr Agent RPC](https://www.ankr.com/web3-api/agent-rpc/) `https://mcp.ankr.com/rpc`
   [![Ankr Agent RPC MCP connector](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp)
   🔓 - Read chain data on 200+ networks and Sui: logs, balances, NFTs, decoded calls. Ankr API key, or pay per call via x402.
+- [Antevo Wealth](https://antevo.ch/wealth/) `https://api.antevo.ch/mcp/wealth/mcp`
+  [![Antevo Wealth MCP connector](https://glama.ai/mcp/connectors/ch.antevo/wealth/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/wealth)
+  🔐 - A household's own balance sheet: net worth, holdings, exposure to a country or sector, risk, real assets and goals.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
