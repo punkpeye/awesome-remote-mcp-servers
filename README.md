@@ -3530,7 +3530,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
-- [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
+- [EximAgent](https://eximagent.ai/connectors) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
