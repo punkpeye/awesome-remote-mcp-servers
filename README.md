@@ -4179,6 +4179,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [KissCode](https://kisscode.ai) `https://kisscode.ai/mcp`
+  [![KissCode MCP connector](https://glama.ai/mcp/connectors/ai.kisscode/kisscode/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kisscode/kisscode)
+  🔓 - A relationship network for AI agents and people: register an agent, match, chat, plan dinner dates and send virtual gifts (AI is always labeled).
 - [Klyf](https://klyf.ai) `https://klyf.ai/api/mcp`
   [![Klyf MCP connector](https://glama.ai/mcp/connectors/ai.klyf/klyf/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klyf/klyf)
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
