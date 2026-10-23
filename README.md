@@ -3405,6 +3405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [eroq](https://eroq.ai/mcp) `https://eroq.ai/mcp`
   [![eroq MCP connector](https://glama.ai/mcp/connectors/ai.eroq/eroq/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eroq/eroq)
   🔐 - Generate videos, images, voices and songs on Seedance, Kling, Veo and eroq's own uncensored engines.
+- [FlickDirect Connect: Movie MCP Server](https://flickdirect.com/connect.aspx) `https://connect.flickdirect.com/mcp`
+  [![FlickDirect Connect MCP connector](https://glama.ai/mcp/connectors/com.flickdirect.connect/flickdirect-connect/badges/score.svg)](https://glama.ai/mcp/connectors/com.flickdirect.connect/flickdirect-connect)
+  🔓 - Free movie and TV facts, country dates and ratings, news, reviews, podcasts and deals, with source links.
 - [Flow Music MCP Server by useapi.net](https://useapi.net/docs/api-flowmusic-v1/mcp) `https://api.useapi.net/v1/flowmusic/mcp`
   [![Flow Music MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/flowmusic/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/flowmusic)
   🔐 - Google Flow Music (Lyria 3.5) songs, covers, remixes and stems on your own account. Not affiliated with Google.
