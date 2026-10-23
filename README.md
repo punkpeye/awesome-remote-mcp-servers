@@ -1204,6 +1204,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prompeteer](https://prompeteer.ai) `https://prompeteer.ai/mcp`
   [![Prompeteer MCP connector](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer/badges/score.svg)](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer)
   🔐 - Generates contextual prompts and agent skills for 140+ AI platforms, with a 16-dimension Prompt Score.
+- [Proxlai](https://proxlai.com) `https://proxlai.com/api/mcp`
+  [![Proxlai MCP connector](https://glama.ai/mcp/connectors/com.proxlai/proxlai/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxlai/proxlai)
+  🔓 - Look up and compare verified, dated prices for 231 AI APIs in 38 markets, ranked in one unit per market.
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
