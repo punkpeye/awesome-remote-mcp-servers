@@ -548,6 +548,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [9bot](https://9bot.com.br) `https://mcp.9bot.com.br/mcp`
+  [![9bot MCP connector](https://glama.ai/mcp/connectors/br.com.9bot/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.9bot/mcp)
+  🔐 - Manage WhatsApp groups and communities: moderation, anti-spam, scheduled messages, members and analytics.
 - [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
   [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
   🔐 - Turn a slide deck into a rehearsable talk with a voice-following script and slides that advance as you speak.
