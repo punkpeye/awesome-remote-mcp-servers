@@ -4381,6 +4381,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
+- [Spacebring](https://www.spacebring.com/docs/ai-agents/mcp-server) `https://mcp.spacebring.com/mcp`
+  [![Spacebring MCP connector](https://glama.ai/mcp/connectors/com.spacebring.mcp/spacebring/badges/score.svg)](https://glama.ai/mcp/connectors/com.spacebring.mcp/spacebring)
+  🔐 - Ask your AI assistant about members, bookings, invoices, check-ins and events in your coworking space.
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
