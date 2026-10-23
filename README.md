@@ -874,6 +874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
   [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
   🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
+- [BillDog](https://billdog.io/docs/mcp-server) `https://api.billdog.io/mcp`
+  [![BillDog MCP connector](https://glama.ai/mcp/connectors/io.github.billdogai/billdog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.billdogai/billdog-mcp)
+  🔐 - Set up and inspect app paywalls, subscriptions, products and revenue analytics for mobile and web apps.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
