@@ -786,6 +786,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
+- [WhatSync for WhatsApp Business](https://whatsync.app/whatsapp-business) `https://whatsync.app/api/mcp/business`
+  [![WhatSync for WhatsApp Business MCP connector](https://glama.ai/mcp/connectors/app.whatsync/whatsapp-business/badges/score.svg)](https://glama.ai/mcp/connectors/app.whatsync/whatsapp-business)
+  🔐 - WhatsApp Business API only: customer chats, approved templates, opt-in campaigns and Meta prices.
 - [Widely](https://widely-mobile.com/mcp) `https://mcp.widely-mobile.com/mcp`
   [![Widely MCP connector](https://glama.ai/mcp/connectors/com.widely-mobile/widely/badges/score.svg)](https://glama.ai/mcp/connectors/com.widely-mobile/widely)
   🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts, and AI receptionists.
