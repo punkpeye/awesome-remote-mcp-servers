@@ -1757,9 +1757,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
-- [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
-  [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
-  🔓 - Verify Dutch and Belgian companies (KVK, KBO), EU VAT, sanctions and PEPs, with a risk score; key or x402.
+- [Limitguard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
+  [![Limitguard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/limitguard/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/limitguard)
+  🔑 - Verify Dutch and Belgian companies and sales leads (KVK, KBO, EU VAT, sanctions) and screen crypto wallets on Base and Solana; free previews, key or x402.
 - [LiquidVision](https://liquidvision.app) `https://liquidvision.app/mcp`
   [![LiquidVision MCP connector](https://glama.ai/mcp/connectors/app.liquidvision/derivatives/badges/score.svg)](https://glama.ai/mcp/connectors/app.liquidvision/derivatives)
   🔓 - Crypto derivatives across 13 venues: open interest, funding, liquidations, Hyperliquid whale positions.
