@@ -2819,6 +2819,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GleanMark](https://gleanmark.com/integrations) `https://gleanmark.com/mcp`
   [![GleanMark MCP connector](https://glama.ai/mcp/connectors/com.gleanmark/trademark-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.gleanmark/trademark-search)
   🔓 - Search 14M USPTO trademark records, mark status and history, Office Actions and TTAB cases; OAuth for your portfolios.
+- [imzala.net](https://imzala.net/yapay-zeka) `https://mcp.imzala.net/mcp`
+  [![imzala.net MCP connector](https://glama.ai/mcp/connectors/net.imzala/ictihat/badges/score.svg)](https://glama.ai/mcp/connectors/net.imzala/ictihat)
+  🔐 - Search 11.5M Turkish court and agency decisions, read full texts with official links, and verify case citations.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
