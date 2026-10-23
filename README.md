@@ -233,6 +233,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Call pay-per-request APIs for search, market data and enrichment, billed to a prepaid balance.
+- [Terraphim Skills](https://terraphim-skills.md) `https://mcp.terraphim-skills.md/mcp`
+  🔓 - Anonymous catalogue of curated agent skills: search, preview and discover SKILL.md packages; an OAuth-gated account endpoint unlocks premium skill bodies.
 - [ToolRouter](https://toolrouter.com) `https://api.toolrouter.com/mcp`
   [![ToolRouter MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/toolrouter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/toolrouter)
   🔓 - Discover tools for research, media and connected accounts; paid operations need account access.
