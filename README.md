@@ -4085,6 +4085,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [KreatorMesh](https://kreatormesh.com/claude) `https://api.kreatormesh.com/api/mcp`
   [![KreatorMesh MCP connector](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh/badges/score.svg)](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh)
   🔐 - Schedule posts to 10 platforms and check drafts against hook rules learned from your own audience.
+- [LeadShark Apex](https://leadshark.io/linkedin-mcp-server) `https://apex.leadshark.io/mcp`
+  [![LeadShark Apex MCP connector](https://glama.ai/mcp/connectors/io.leadshark/apex/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadshark/apex)
+  🔐 - Post, comment, DM and run LinkedIn comment-to-DM automations, inside your own limits and approvals.
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
