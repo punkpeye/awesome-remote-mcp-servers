@@ -2967,6 +2967,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Electronics Architect](https://electronics-architect.com/developers) `https://electronics-architect.com/mcp`
   [![Electronics Architect MCP connector](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect/badges/score.svg)](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect)
   🔐 - Solves DC/DC power trees with real parts: each rail's current, efficiency, dissipation and tolerance corners.
+- [Fengshui Calculator](https://fengshuicalculator.com/docs/mcp/) `https://fengshuicalculator.com/v1/mcp`
+  [![Fengshui Calculator MCP connector](https://glama.ai/mcp/connectors/com.fengshuicalculator/fengshui-calculator/badges/score.svg)](https://glama.ai/mcp/connectors/com.fengshuicalculator/fengshui-calculator)
+  🔓 - Verifiable Chinese calendar & feng shui: BaZi, flying stars, Kua, almanac with SHA-256 replayable provenance.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
