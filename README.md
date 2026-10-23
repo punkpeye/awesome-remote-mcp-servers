@@ -3656,6 +3656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [AcesAPI](https://acesapi.com) `https://mcp.acesapi.com/mcp`
+  [![AcesAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi)
+  🔓 - ATP and WTA tennis since 2007: sets, draws, rankings, head to head, surface Elo, sportsbook lines.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
