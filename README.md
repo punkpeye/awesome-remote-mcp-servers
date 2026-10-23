@@ -3840,6 +3840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [call402](https://call402.com) `https://call402.com/mcp`
   [![call402 MCP connector](https://glama.ai/mcp/connectors/io.github.lgs1520/call402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lgs1520/call402)
   🔓 - MCP access to structured data utilities and 12 x402 pay-per-call API endpoints on Base.
+- [Career Site Jobs Scraper](https://apify.com/catalyst-labs/career-site-jobs-scraper) `https://mcp.apify.com/?tools=catalyst-labs/career-site-jobs-scraper`
+  [![Career Site Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/career-site-jobs-scraper/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/career-site-jobs-scraper)
+  🔐 - Open jobs from company career sites on Workday, Greenhouse, Lever, Ashby and 13 more ATS as normalized JSON.
 - [CareJobs.Now](https://carejobs.now/data) `https://carejobs.now/api/mcp`
   [![CareJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs)
   🔓 - Search 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each one posts.
