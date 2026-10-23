@@ -2887,6 +2887,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Peak Answer](https://peakanswer.com) `https://peakanswer.com/api/mcp`
   [![Peak Answer MCP connector](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer/badges/score.svg)](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer)
   🔐 - Whether AI search recommends your brand, which buying questions competitors win, and the technical faults stopping engines reading you.
+- [PerfBee](https://perfbee.com/mcp) `https://dashboard.perfbee.com/mcp`
+  [![PerfBee MCP connector](https://glama.ai/mcp/connectors/com.perfbee/perfbee/badges/score.svg)](https://glama.ai/mcp/connectors/com.perfbee/perfbee)
+  🔐 - Crawl your sites for broken links, SEO and AI-readiness issues, with the HTML element behind each one.  
 - [Pineprompt](https://pineprompt.com) `https://pineprompt.com/mcp`
   [![Pineprompt MCP connector](https://glama.ai/mcp/connectors/com.pineprompt/pineprompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.pineprompt/pineprompt)
   🔐 - Track how ChatGPT, Gemini, Perplexity, Claude and Google AI answers mention your brand, sources and competitors.
