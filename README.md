@@ -3580,6 +3580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Scrape public social media profiles, posts, comments and transcripts, live on every request.
+- [SocialDataX X (Twitter)](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/x/mcp`
+  [![SocialDataX X (Twitter) MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/x-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/x-insights)
+  🔓 - Search X posts and users, and read details, replies and profiles; API key for tool calls.
 - [SocialFaktory](https://www.socialfaktory.com) `https://www.socialfaktory.com/mcp`
   [![SocialFaktory MCP connector](https://glama.ai/mcp/connectors/com.socialfaktory/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialfaktory/mcp)
   🔐 - Write, schedule and publish a brand's social content on TikTok, Instagram, YouTube, X and more.
