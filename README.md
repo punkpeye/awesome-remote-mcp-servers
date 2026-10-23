@@ -153,6 +153,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DDMarketer](https://www.ddmarketer.com) `https://www.ddmarketer.com/api/mcp`
   [![DDMarketer MCP connector](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp)
   🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for intent; search and scores need no key.
+- [DeyeCloud](https://developer.deyecloud.com/skills) `https://developer.deyecloud.com/openmcp/mcp`
+  🔓 - Query and control solar PV / battery storage stations in natural language — 49 tools covering station status, generation, battery strategy, device diagnostics and device control across EU / Americas / India data centers.
 - [DexL Agents](https://agents.dexl.io) `https://agents.dexl.io/mcp`
   [![DexL Agents MCP connector](https://glama.ai/mcp/connectors/io.github.dexl-io/agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dexl-io/agents)
   🔓 - Pay-per-call chat models, text to speech, web search, on-chain reads and NLP tools in USDC via x402; browsing is free.
