@@ -4905,6 +4905,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions and build invitations.
+- [Desloppy](https://desloppy.com) `https://desloppy.com/mcp`
+  [![Desloppy MCP connector](https://glama.ai/mcp/connectors/com.desloppy/desloppy/badges/score.svg)](https://glama.ai/mcp/connectors/com.desloppy/desloppy)
+  🔐 - Find the lines that make writing sound like AI, with a plain fix for each; checks text and .docx, .pptx, .pdf files.
 - [Document Player](https://documentplayer.com/connect-ai/) `https://documentplayer.com/mcp`
   [![Document Player MCP connector](https://glama.ai/mcp/connectors/com.documentplayer/document-player/badges/score.svg)](https://glama.ai/mcp/connectors/com.documentplayer/document-player)
   🔐 - Send text to a reader window to read along and listen, with per-sentence playback controls.
