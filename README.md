@@ -4275,3 +4275,4 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+- **[Base of AGI & StackPilot](https://baseofagi.com/mcp)** - Read-only AI news (TR/EN/ES/RU), daily stack brief, and 2,660+ verified MCP/agent tools catalog (`https://baseofagi.com/stackpilot`). Streamable HTTP, stateless, no API key required.
