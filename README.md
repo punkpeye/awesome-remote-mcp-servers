@@ -2310,6 +2310,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Engram - Second Brain](https://engram.rootcause.ro) `https://engram.rootcause.ro/mcp/directory`
   [![Engram - Second Brain MCP connector](https://glama.ai/mcp/connectors/ro.rootcause/engram/badges/score.svg)](https://glama.ai/mcp/connectors/ro.rootcause/engram)
   🔐 - A second brain for Claude: remembers your work, plans your day, encrypted under a key only you hold.
+- [Enhanciar](https://enhanciar.in) `https://enhanciar.in/enhanciar/mcp/`
+  [![Enhanciar MCP connector](https://glama.ai/mcp/connectors/in.enhanciar/enhanciar/badges/score.svg)](https://glama.ai/mcp/connectors/in.enhanciar/enhanciar)
+  🔑 - Ask your team's Slack, Gmail, Notion, Drive and GitHub; get answers with source links and drafted follow-ups.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
