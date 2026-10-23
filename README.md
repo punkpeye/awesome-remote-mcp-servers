@@ -2562,6 +2562,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [knowsme](https://knowsme.dev) `https://mcp.knowsme.dev/mcp`
   [![knowsme MCP connector](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme)
   🔐 - One memory for you and your AI agents: your notes, rules and projects follow you across machines, AI apps and agents.
+- [Kythene](https://www.kythene.com) `https://kythene.com/mcp/kythene`
+  [![Kythene MCP connector](https://glama.ai/mcp/connectors/com.kythene/kythene/badges/score.svg)](https://glama.ai/mcp/connectors/com.kythene/kythene)
+  🔐 - Shared context for AI-native teams: publish AI output, review it, and recall it across the team.
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
