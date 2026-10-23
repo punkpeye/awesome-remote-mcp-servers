@@ -4215,6 +4215,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zebu Data - Local Business Leads MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads)
   🔐 - Find local businesses on Google Maps, Yellow Pages and Yelp, then pull emails and phones from their websites.
 
+- [Clify](https://github.com/ToukoUrsin/clify) `https://bold-cloud-h4u6s.run.mcp-use.com/mcp`
+  🔓 - Read-only JSON APIs and a hosted MCP server for 135 public websites, with 1,619 live-verified commands.
+
 ### 🔒 <a name="security"></a>Security
 
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
