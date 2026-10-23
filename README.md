@@ -1088,6 +1088,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolForte](https://toolforte.com/mcp) `https://toolforte.com/api/mcp`
   [![ToolForte MCP connector](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte)
   🔓 - IBAN/VAT/BSN checks, Dutch tax and dates, cron, regex, conversions and PDF or screenshot rendering.
+- [Tools That Don't Upload](https://toolsthatdontupload.com) `https://toolsthatdontupload.com/mcp`
+  [![Tools That Don't Upload MCP connector](https://glama.ai/mcp/connectors/com.toolsthatdontupload/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsthatdontupload/tools)
+  🔓 - 500+ stateless utility tools — text, hashing, encoding, dates, PDF, colors, network — via three meta-tools; nothing stored.
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
