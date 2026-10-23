@@ -548,6 +548,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
   [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
   🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
+- [Busymail](https://busymail.app) `https://busymail.app/mcp`
+  [![Busymail MCP connector](https://glama.ai/mcp/connectors/app.busymail/busymail/badges/score.svg)](https://glama.ai/mcp/connectors/app.busymail/busymail)
+  🔑 - Read, search, archive and draft from your own mailboxes; nothing sends until you approve it.
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
