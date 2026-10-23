@@ -4105,6 +4105,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jsonify](https://jsonify.com) `https://factory.jsonify.com/mcp`
   [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
   🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
+- [KI-Radar24](https://ki-radar24.de/ki-assistenten/) `https://ki-radar24.de/mcp`
+  [![KI-Radar24 MCP connector](https://glama.ai/mcp/connectors/de.ki-radar24/ki-radar24/badges/score.svg)](https://glama.ai/mcp/connectors/de.ki-radar24/ki-radar24)
+  🔓 - Search 2,800+ AI tools, AI agencies and AI freelancers in Germany, Austria and Switzerland, and compare them.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
