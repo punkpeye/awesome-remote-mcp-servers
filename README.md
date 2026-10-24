@@ -1411,6 +1411,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Context Window Supply](https://contextwindowsupply.com) `https://contextwindowsupply.com/mcp`
   [![Context Window Supply MCP connector](https://glama.ai/mcp/connectors/com.contextwindowsupply/store/badges/score.svg)](https://glama.ai/mcp/connectors/com.contextwindowsupply/store)
   🔓 - Search 8 merch items for AI builders (tees, hoodies, a sticker sheet), read sizes and prices, and quote US shipping.
+- [Corporate Gift Picks](https://corporategiftpicks.com/) `https://corporategiftpicks.com/mcp`
+  [![Corporate Gift Picks MCP connector](https://glama.ai/mcp/connectors/com.corporategiftpicks/gift-picks/badges/score.svg)](https://glama.ai/mcp/connectors/com.corporategiftpicks/gift-picks)
+  🔓 - Corporate gift ideas by budget and recipient, USPS holiday ship-by dates and a gift budget estimator.
 - [datawebot](https://www.datawebot.com) `https://mcp.datawebot.com/mcp`
   [![datawebot MCP connector](https://glama.ai/mcp/connectors/com.datawebot/datawebot/badges/score.svg)](https://glama.ai/mcp/connectors/com.datawebot/datawebot)
   🔐 - Product search across online shops worldwide, with every seller's price and a direct link to the product page.
