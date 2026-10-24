@@ -4024,7 +4024,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Internet traffic, routing, and security trends from Cloudflare Radar.
 - [CN Evidence](https://cnevidence.com) `https://mcp.cnevidence.com/mcp`
   [![CN Evidence MCP connector](https://glama.ai/mcp/connectors/dev.workers.mikeyang7789.cn-evidence-mcp-public/cn-evidence-china-supplier-due-diligence/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mikeyang7789.cn-evidence-mcp-public/cn-evidence-china-supplier-due-diligence)
-  🔓 - Selected China supplier registration and risk records; paid queries via x402 on Base.
+  🔓 - Chinese company registration and risk screening for AI agents, with pay-per-call x402 access.
 - [cn-intel-mcp](https://github.com/lory69060/cn-intel-mcp) `https://cn-intel-mcp.lory69060.workers.dev/mcp`
   [![cn-intel-mcp MCP connector](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp)
   🔓 - China hard-tech supply-chain signals with a track record: chips, batteries, eVTOL and pharma.
