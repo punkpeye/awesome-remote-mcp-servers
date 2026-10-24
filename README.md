@@ -4587,6 +4587,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Runsheet](https://runsheet.buildifyapp.in/mcp) `https://runsheet.buildifyapp.in/api/mcp`
   [![Runsheet MCP connector](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler/badges/score.svg)](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler)
   🔐 - Read a YouTube channel's schedule and stats, schedule, publish and retitle videos, and draft copy, all on approval.
+- [Simplo](https://getsimplo.ai/mcp/) `https://api.getsimplo.ai/mcp`
+  [![Simplo MCP connector](https://glama.ai/mcp/connectors/ai.getsimplo/simplo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.getsimplo/simplo)
+  🔐 - Write on-brand posts with pictures from your logo, then schedule them to Instagram, Facebook, X and TikTok.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
