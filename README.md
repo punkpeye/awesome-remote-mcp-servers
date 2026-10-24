@@ -700,6 +700,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
+- [email59](https://email59.com/docs.html#mcp) `https://email59.com/v1/mcp`
+  [![email59 MCP connector](https://glama.ai/mcp/connectors/com.email59/email59/badges/score.svg)](https://glama.ai/mcp/connectors/com.email59/email59)
+  🔓 - Send email from agents with no domain setup, check and validate addresses; sending needs a free key, which agents get by email code.
+
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Make and take real phone calls.
