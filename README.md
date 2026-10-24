@@ -1179,6 +1179,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Metabind Docs](https://docs.metabind.ai) `https://docs.metabind.ai/mcp`
   [![Metabind Docs MCP connector](https://glama.ai/mcp/connectors/ai.metabind/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/docs)
   🔓 - Search and read the Metabind docs: MCP Apps, BindJS, the SDKs, the CLI, and the APIs.
+- [Mode VC Radar](https://modevc.com) `https://modevc.com/api/mcp`
+  [![Mode VC Radar MCP connector](https://glama.ai/mcp/connectors/com.modevc/radar/badges/score.svg)](https://glama.ai/mcp/connectors/com.modevc/radar)
+  🔓 - Venture capital intelligence: 3,650 VC firms and 13,039 partners, SEC Form D startup filings, 39 AI market charts, and 8 founder calculators.
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
