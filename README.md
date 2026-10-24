@@ -4989,6 +4989,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
+- [CVEmber](https://cvember.com/integrations) `https://mcp.cvember.com/mcp`
+  [![CVEmber MCP connector](https://glama.ai/mcp/connectors/com.cvember/cvember/badges/score.svg)](https://glama.ai/mcp/connectors/com.cvember/cvember)
+  🔐 - Tailor a resume to any job, get an ATS score with fixes, keep a version per job and export the PDF.
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions and build invitations.
