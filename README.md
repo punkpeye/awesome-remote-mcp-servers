@@ -2315,7 +2315,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Ask questions about cloud cost and usage data.
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
-  🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
+  🔐 - See which customers and features cost most, compare model prices and check spending against provider bills.
 - [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
   [![Vérif Entreprise FR MCP connector](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr)
   🔓 - Verify French companies by SIREN: legal status, BODACC insolvency proceedings and RGE certifications, paid via x402.
