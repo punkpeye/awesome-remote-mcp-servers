@@ -5115,6 +5115,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tempi](https://meettempi.com/ai) `https://meettempi.com/mcp`
   [![Tempi MCP connector](https://glama.ai/mcp/connectors/com.meettempi/tempi/badges/score.svg)](https://glama.ai/mcp/connectors/com.meettempi/tempi)
   🔓 - Find open times on anyone's Tempi booking link and book, reschedule or cancel meetings, no account needed.
+- [The Margin](https://themarginapp.com/docs/agents-and-mcp) `https://mcp.themarginapp.com/mcp`
+  [![The Margin MCP connector](https://glama.ai/mcp/connectors/com.themarginapp/the-margin/badges/score.svg)](https://glama.ai/mcp/connectors/com.themarginapp/the-margin)
+  🔐 - Family organizer: calendar, chores, meal plans, shopping lists, notes, budgets and boards for your household.
 - [Time of Meeting](https://timeofmeeting.com/mcp) `https://timeofmeeting.com/mcp`
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
