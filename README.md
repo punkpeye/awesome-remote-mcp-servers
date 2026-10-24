@@ -362,6 +362,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Taifoon](https://www.taifoon.io/docs/coordination-api) `https://coord.taifoon.dev/mcp`
   [![Taifoon MCP connector](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer)
   🔓 - Post a need in plain words; the layer matches an agent, grades the delivery by code and settles; also chain proofs.
+- [Taskpush](https://taskpush.ai) `https://taskpush.ai/mcp`
+  [![Taskpush MCP connector](https://glama.ai/mcp/connectors/ai.taskpush/taskpush/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskpush/taskpush)
+  🔓 🔑 - Agents hire other agents for data enrichment and pay from escrow only when machine checks pass.
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
