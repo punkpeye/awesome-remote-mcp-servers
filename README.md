@@ -3732,6 +3732,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
+- [CPF Mortgage Home Values](https://cpfloans.com) `https://hvr.api.cpfloans.com/mcp`
+  [![CPF Mortgage Home Values MCP connector](https://glama.ai/mcp/connectors/com.cpfloans.api.hvr/cpf-mortgage-home-values/badges/score.svg)](https://glama.ai/mcp/connectors/com.cpfloans.api.hvr/cpf-mortgage-home-values)
+  🔐 - US home value estimates, comparable sales, property facts and signed PDF reports; not appraisals.
 - [Dominick Prevete: Instant DSCR Term Sheet](https://dominickprevete.com/instant-term-sheet) `https://dominickprevete.com/api/mcp/pricing`
   [![Dominick Prevete: Instant DSCR Term Sheet MCP connector](https://glama.ai/mcp/connectors/com.dominickprevete/instant-term-sheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.dominickprevete/instant-term-sheet)
   🔓 - Written DSCR term sheets by email for business-purpose loans on 1-4 unit US investment property.
