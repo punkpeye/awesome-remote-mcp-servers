@@ -1894,7 +1894,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
 - [Edgrapi](https://edgrapi.com) `https://api.edgrapi.com/mcp`
   [![Edgrapi MCP connector](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills)
-  🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
+  🔓 - US government data as JSON: SAM.gov opportunities, USAspending awards, grants, congress trades, SEC filings; data tools need a free key.
 - [egrul.org](https://egrul.org) `https://egrul.org/mcp/`
   [![egrul.org MCP connector](https://glama.ai/mcp/connectors/org.egrul/egrulorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.egrul/egrulorg)
   🔓 - Russian company/individual checks: EGRUL/EGRIP, sanctions, foreign-agent, bankruptcy; most tools need a subscription.
