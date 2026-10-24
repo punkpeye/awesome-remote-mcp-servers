@@ -5028,6 +5028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoundRole](https://www.foundrole.com/ai-search-mcp) `https://www.foundrole.com/mcp`
   [![FoundRole MCP connector](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy)
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
+- [GigHQ.ai](https://www.gighq.ai/mcp-server/) `https://mcp.gighq.ai/mcp`
+  [![GigHQ.ai MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/ai.gighq/gighq/badges/score.svg)](https://glama.ai/mcp/connectors/ai.gighq/gighq)
+  🔐 - Track job applications, flag stale ones, analyze skills gaps and look up H-1B sponsorship.
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
