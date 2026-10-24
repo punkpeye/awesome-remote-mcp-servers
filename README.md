@@ -667,6 +667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wawesome](https://wawesome.io) `https://api.wawesome.io/v1/mcp`
   [![wawesome MCP connector](https://glama.ai/mcp/connectors/io.wawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.wawesome/mcp)
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
+- [Webly](https://webly.ai) `https://api.webly.ai/v1/mcp`
+  [![Webly MCP connector](https://glama.ai/mcp/connectors/ai.webly.api/webly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.webly.api/webly)
+  🔐 - Build, preview and publish websites as drafts a person approves, with custom domains, rollback, forms and analytics.
   
 ### 💬 <a name="communication"></a>Communication
 
