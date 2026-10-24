@@ -4563,6 +4563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OmniSocials](https://omnisocials.com) `https://mcp.omnisocials.com/`
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
+- [PicJury](https://picjury.app/claude) `https://picjury.app/mcp/link`
+  [![PicJury MCP connector](https://glama.ai/mcp/connectors/io.github.VKarich/picjury/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.VKarich/picjury)
+  🔓 - Photo polls: friends vote on which of 2 to 6 photos is best through one link, without signing up.
 - [Pith](https://pith.day/connect/mcp) `https://pith.day/api/mcp`
   [![Pith MCP connector](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing/badges/score.svg)](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing)
   🔐 - Publish your photo and caption to Instagram, and review and approve daily AI story drafts.
