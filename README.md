@@ -3568,6 +3568,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [402MCP](https://402mcp.org) `https://402mcp.org/api/v1/mcp`
   [![402MCP MCP connector](https://glama.ai/mcp/connectors/org.402mcp/registry/badges/score.svg)](https://glama.ai/mcp/connectors/org.402mcp/registry)
   🔓 - Decodes HTTP 402 challenges (L402, x402, MPP) and recommends agent payment rails from an open registry.
+- [AbaPay](https://agents.abapays.com) `https://agents.abapays.com/api/mcp`
+  [![AbaPay MCP connector](https://glama.ai/mcp/connectors/io.github.investorphem/abapay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.investorphem/abapay)
+  🔓 - Pay real bills in stablecoins on Celo or Base: airtime, data, electricity, cable TV and 140+ country top-ups.
 - [Aether](https://explorer.157-245-252-221.sslip.io) `https://explorer.157-245-252-221.sslip.io/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet)
   🔓 - Read-only view of the Aether testnet: balances, transactions, miners and its directory of x402-paid services.
