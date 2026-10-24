@@ -48,6 +48,8 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.base.ref }}
 
+      - name: Test auth detection
+        run: node --test .github/scripts/check-submission.test.cjs
       - name: Validate PR submission
         uses: actions/github-script@v7
         with:
@@ -141,7 +143,12 @@ jobs:
                 });
                 if (res.status === 401 || res.status === 403) {
                   const wa = res.headers.get('www-authenticate') || '';
-                  return { ok: true, auth: /resource_metadata|Bearer/i.test(wa) ? '🔐' : '🔑', status: res.status };
+                  // Bearer describes token transport, not how it was issued (RFC 6750 §1).
+                  // Only advertised OAuth metadata identifies OAuth here. A bare Bearer
+                  // challenge may be either a personal API token or legacy OAuth.
+                  const oauth = /\bresource_metadata\s*=/i.test(wa);
+                  const bearer = /(?:^|,)\s*Bearer(?:\s|,|$)/i.test(wa);
+                  return { ok: true, auth: oauth ? '🔐' : bearer ? null : '🔑', status: res.status };
                 }
                 const text = (await res.text()).slice(0, 20000);
                 const payload = text.includes('data:')
@@ -175,8 +182,12 @@ jobs:
               const r = await probe(e.endpoint);
               if (!r.ok) {
                 unreachable.push(`\`${e.endpoint}\` – ${r.why}`);
-              } else if (e.marks && !e.marks.includes(r.auth)) {
-                authMismatch.push(`\`${e.endpoint}\` – responded with ${r.auth}, entry says ${e.marks}`);
+              } else if (e.marks) {
+                // Ambiguous Bearer still requires a protected marker; never accept 🔓.
+                const allowedAuth = r.auth ? [r.auth] : ['🔑', '🔐'];
+                if (!allowedAuth.some(a => e.marks.includes(a))) {
+                  authMismatch.push(`\`${e.endpoint}\` – responded with ${r.auth || 'Bearer (🔑 or 🔐)'}, entry says ${e.marks}`);
+                }
               }
               if (e.badge && !(await connectorExists(e.badge))) {
                 badBadges.push(`\`${e.badge}\` – no such connector on Glama`);
