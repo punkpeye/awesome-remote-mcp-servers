@@ -2986,6 +2986,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [mailfloss](https://developers.mailfloss.com/mcp) `https://api.mailfloss.com/mcp`
+  [![mailfloss MCP connector](https://glama.ai/mcp/connectors/com.mailfloss/mailfloss/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailfloss/mailfloss)
+  🔐 - Email verification: verify addresses and lists, check credits and usage, and manage connected email platforms.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
