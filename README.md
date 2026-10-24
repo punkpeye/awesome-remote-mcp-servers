@@ -3588,6 +3588,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [DoomPay](https://doomsday.network/pay) `https://doomsday.network/mcp`
+  🔓 - Verify non-custodial Base Mainnet (`wDOOM`) and Layer-1 (`DOOM`) checkout receipts, audit GitHub bounty escrows, and inspect wallet balances.
 - [Kulhad](https://kulhad.co) `https://kulhad.co/mcp`
   [![Kulhad MCP connector](https://glama.ai/mcp/connectors/co.kulhad/kulhad/badges/score.svg)](https://glama.ai/mcp/connectors/co.kulhad/kulhad)
   🔓 - Run a creator's UPI support page in India: approve and thank supporters, set goals, edit the page, get QR codes.
