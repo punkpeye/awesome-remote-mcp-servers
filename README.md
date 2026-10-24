@@ -3478,9 +3478,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
-- [ProClipper](https://proclipper.app) `https://proclipper.app/mcp`
+- [ProClipper: YouTube Connector](https://proclipper.app) `https://proclipper.app/mcp`
   [![ProClipper MCP connector](https://glama.ai/mcp/connectors/app.proclipper/pro-clipper-bulk-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/app.proclipper/pro-clipper-bulk-transcripts)
-  🔐 - List YouTube videos from channels and playlists, request transcripts, and download results.
+  🔐 - Connect YouTube to AI assistants to list channel and playlist videos, request transcripts, and download results in bulk.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
   [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
   🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
