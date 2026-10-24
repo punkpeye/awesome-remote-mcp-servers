@@ -1291,6 +1291,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
+- [SPOE](https://spoe.ai/docs/api#mcp) `https://spoe.ai/api/mcp`
+  [![SPOE MCP connector](https://glama.ai/mcp/connectors/ai.spoe/spoe/badges/score.svg)](https://glama.ai/mcp/connectors/ai.spoe/spoe)
+  🔓 🔑 - Check a name on 29 platforms and the main domains, and build, list and follow apps you own on SPOE.
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
