@@ -4430,6 +4430,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PkgGuard](https://api.youraitools.co/pkgguard/) `https://api.youraitools.co/pkgguard/mcp`
   [![PkgGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/pkgguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/pkgguard)
   🔓 - Checks packages and lockfiles against OSV.dev for known vulnerabilities and malware; 30 free calls/day, then x402 USDC.
+- [Preloop](https://preloop.ai) `https://preloop.ai/mcp/v1`
+  [![Preloop MCP connector](https://glama.ai/mcp/connectors/io.github.preloop/preloop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.preloop/preloop)
+  🔐 - Open-source AI agent control plane and software factory: allow, deny or hold each tool call for human approval.
 - [Prompt Injection Scanner](https://tools.openkrill.app/#injection-scan) `https://injectionscan.openkrill.app/mcp`
   [![Prompt Injection Scanner MCP connector](https://glama.ai/mcp/connectors/app.openkrill/injection-scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/injection-scan)
   🔓 - Check text before your agent reads it: hidden instructions, invisible characters and links that leak data.
