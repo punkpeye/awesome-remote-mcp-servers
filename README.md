@@ -872,6 +872,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sitelas](https://sitelas.com) `https://sitelas.com/api/mcp`
   [![Sitelas MCP connector](https://glama.ai/mcp/connectors/com.sitelas/sitelas/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelas/sitelas)
   🔐 - Build a website from a template, preview it, publish on approval, then edit it and read its form messages.
+- [SlopIt](https://slopit.io) `https://slopit.io/mcp`
+  [![SlopIt MCP connector](https://glama.ai/mcp/connectors/io.slopit/slopit/badges/score.svg)](https://glama.ai/mcp/connectors/io.slopit/slopit)
+  🔓 - Your agent signs up, creates a blog and publishes markdown posts to a live URL, then sees which AIs read them.
 - [SnapHost](https://snaphost.ai) `https://app.snaphost.ai/api/mcp`
   [![SnapHost MCP connector](https://glama.ai/mcp/connectors/ai.snaphost/snaphost/badges/score.svg)](https://glama.ai/mcp/connectors/ai.snaphost/snaphost)
   🔐 - Publish a page or site to a private link, control who can view it, and update it in place.
