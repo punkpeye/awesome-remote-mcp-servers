@@ -2849,6 +2849,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Patlas](https://patlas.dev) `https://patlas.dev/mcp`
   [![Patlas MCP connector](https://glama.ai/mcp/connectors/dev.patlas/patlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.patlas/patlas)
   🔐 - Patent prior-art search over USPTO and EPO data, claim comparison, and codebase scans for patentable tech.
+- [Pravida](https://pravida.ru/mcp/) `https://lk.pravida.ru/mcp`
+  [![Pravida MCP connector](https://glama.ai/mcp/connectors/ru.pravida/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.pravida/mcp)
+  🔐 - Russian statutes with edition dates, Supreme Court guidance and court decisions, in Russian, with sources.
 - [Precleared](https://precleared.dev) `https://precleared.dev/mcp`
   [![Precleared MCP connector](https://glama.ai/mcp/connectors/dev.precleared/contact-check/badges/score.svg)](https://glama.ai/mcp/connectors/dev.precleared/contact-check)
   🔓 - Checks if a cold marketing email to one address is allowed under UK, US, Canadian, German or French law, with a receipt.
