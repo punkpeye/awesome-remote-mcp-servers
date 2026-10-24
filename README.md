@@ -2536,6 +2536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
+- [myself.md](https://myself.md) `https://myself.md/mcp`
+  [![myself.md MCP connector](https://glama.ai/mcp/connectors/md.myself/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/md.myself/mcp)
+  🔐 - Query owner-approved phone health, screen-time and recorded location data, and read shared cloud exports.
 - [NobetciEczane.org](https://nobetcieczane.org/) `https://nobetcieczane.org/mcp`
   [![NobetciEczane.org MCP connector](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane/badges/score.svg)](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane)
   🔓 - Today's on-duty pharmacies in all 81 provinces of Türkiye and the TRNC, by district or nearest to a location.
