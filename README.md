@@ -2871,6 +2871,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [Vadyu](https://vadyu.com) `https://vadyu.com/api/mcp`
+  [![Vadyu MCP connector](https://glama.ai/mcp/connectors/com.vadyu/vadyu/badges/score.svg)](https://glama.ai/mcp/connectors/com.vadyu/vadyu)
+  🔑 - Turn product photos and image URLs into commercial multi-shot AI video ads (9:16 TikTok/Reels, 4:5 Meta Feed, 1:1 Square, 16:9 YouTube) with automated product-label coherence grading.
+
 - [402registry](https://402registry.com) `https://402registry.com/mcp`
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
