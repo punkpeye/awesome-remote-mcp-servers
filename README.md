@@ -1902,6 +1902,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
 
+- [EU VAT & Peppol Check](https://mcpize.com/mcp/mcp-peppol) `https://mcp-peppol.mcpize.run/mcp`
+  [![EU VAT & Peppol Check MCP connector](https://glama.ai/mcp/connectors/io.github.DouglasGouvea/mcp-peppol/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DouglasGouvea/mcp-peppol)
+  🔑 - EU VAT checks in VIES and Peppol e-invoicing lookup, each fact with its source and date.
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
   🔓 - 69 free finance, military, school and everyday calculators as MCP tools, each result linking its web calculator.
