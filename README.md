@@ -150,6 +150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora](https://openforallofus.com) `https://openforallofus.com/api/mcp`
   [![Agora MCP connector](https://glama.ai/mcp/connectors/com.openforallofus/agora/badges/score.svg)](https://glama.ai/mcp/connectors/com.openforallofus/agora)
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
+- [AISOTools](https://aisotools.com/mcp) `https://aisotools.com/api/mcp`
+  [![AISOTools MCP connector](https://glama.ai/mcp/connectors/io.github.shibley/aisotools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shibley/aisotools)
+  🔓 - Check whether AI assistants recommend a product, and search or compare a catalog of 3,000+ AI tools.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
@@ -203,6 +206,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [minia2a](https://minia2a.uk) `https://minia2a.uk/mcp`
   [![minia2a MCP connector](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp)
   🔓 - 1,600+ pay-per-call APIs — crypto data, web scraping, AI inference, token security — USDC on Base via x402.
+- [MyMCPTools](https://mymcptools.com/mcp-server) `https://mymcptools.com/api/mcp`
+  [![MyMCPTools MCP connector](https://glama.ai/mcp/connectors/io.github.shibley/mymcptools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shibley/mymcptools)
+  🔓 - Search a catalog of MCP servers and check whether each one responds: live probe status, history and schema drift.
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
@@ -1240,6 +1246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
+- [RatedWithAI](https://ratedwithai.com/mcp) `https://ratedwithai.com/api/mcp`
+  [![RatedWithAI MCP connector](https://glama.ai/mcp/connectors/com.ratedwithai/accessibility-checker/badges/score.svg)](https://glama.ai/mcp/connectors/com.ratedwithai/accessibility-checker)
+  🔓 - Scan a public web page for WCAG 2.1/2.2 AA issues with axe-core: score, grade, failing rules and fix guidance.
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
@@ -3264,6 +3273,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
+- [API Status Check](https://apistatuscheck.com/mcp) `https://apistatuscheck.com/api/mcp`
+  [![API Status Check MCP connector](https://glama.ai/mcp/connectors/io.github.shibley/apistatuscheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shibley/apistatuscheck)
+  🔓 - Check whether any of 280+ APIs and cloud services is down now, with uptime history and vendor-posted incidents.
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
