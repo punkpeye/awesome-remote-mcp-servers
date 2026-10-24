@@ -3238,6 +3238,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
+- [Urlsome](https://urlsome.com) `https://urlsome.com/mcp`
+  [![Urlsome MCP connector](https://glama.ai/mcp/connectors/com.urlsome/urlsome/badges/score.svg)](https://glama.ai/mcp/connectors/com.urlsome/urlsome)
+  🔐 - Create and edit short links and password-protected links or files, and read their click counts.
 - [TubeText Ad Intelligence](https://apify.com/tubetext/meta-ad-library-videos) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/meta-ad-library-videos,tubetext/video-ad-analyzer,tubetext/shot-by-shot-video-analysis`
   [![TubeText Ad Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence)
   🔐 - A brand's Facebook/Instagram ads from Meta Ad Library, plus AI teardowns of Meta and YouTube video ads.
