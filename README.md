@@ -4412,6 +4412,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Onchain Diary](https://theonchaindiary.com) `https://theonchaindiary.com/api/mcp`
   [![Onchain Diary MCP connector](https://glama.ai/mcp/connectors/com.theonchaindiary/onchain-diary-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.theonchaindiary/onchain-diary-mcp-server)
   🔓 - Search and read Web3 security education: 120 articles and a 230-term crypto scam glossary.
+- [OpenBait Lookalike Domains](https://openbait.com/tools/typosquat-check) `https://openbait.com/api/mcp`
+  [![OpenBait Lookalike Domains MCP connector](https://glama.ai/mcp/connectors/com.openbait/lookalike-domains/badges/score.svg)](https://glama.ai/mcp/connectors/com.openbait/lookalike-domains)
+  🔓 - Lists lookalike domains of a brand's website and shows which resolve and what their front page shows.
 - [Orbylon](https://orbylon.com) `https://orbylon.com/api/mcp`
   [![Orbylon MCP connector](https://glama.ai/mcp/connectors/com.orbylon/readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.orbylon/readiness)
   🔓 - Checks whether AI agents can find, trust and pay a business, and looks up a verified domain key and prices.
