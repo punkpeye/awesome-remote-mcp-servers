@@ -1920,6 +1920,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
+- [FilingSpy](https://filingspy.com/developers/mcp) `https://filingspy.com/api/mcp`
+  [![FilingSpy MCP connector](https://glama.ai/mcp/connectors/com.filingspy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.filingspy/mcp)
+  🔐 - SEC filings as tools: superinvestor 13F portfolios, Form 4 insider trades, as-filed financials and filing text.
 - [Financial Evidence](https://beepboop2025.github.io/financial-evidence-skills/) `https://liquilens.in/mcp/financial-evidence`
   [![Financial Evidence MCP connector](https://glama.ai/mcp/connectors/io.github.beepboop2025/financial-evidence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beepboop2025/financial-evidence)
   🔓 - Route and retrieve cited funding, bank-risk and market-liquidity evidence, preserving source dates and missingness.
