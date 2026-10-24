@@ -3445,6 +3445,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klox](https://klox.ai/agent) `https://klox.ai/mcp`
   [![Klox MCP connector](https://glama.ai/mcp/connectors/ai.klox/klox/badges/score.svg)](https://glama.ai/mcp/connectors/ai.klox/klox)
   🔐 - Plan and edit AI videos on canvases: script, storyboard, shots and final cut.
+- [KreatorFlow](https://kreatorflow.ai/mcp) `https://kreatorflow.ai/api/mcp`
+  [![KreatorFlow MCP connector](https://glama.ai/mcp/connectors/ai.kreatorflow/kreatorflow/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kreatorflow/kreatorflow)
+  🔐 - Make Seedance 2.5 video, Seedream images, voiceovers, sound, face swaps and video edits on your KreatorFlow plan.
+- [KreatorFlow Seedance API](https://kreatorflow.ai/seedance-api) `https://kreatorflow.ai/v1/mcp`
+  [![KreatorFlow Seedance API MCP connector](https://glama.ai/mcp/connectors/ai.kreatorflow/seedance-api/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kreatorflow/seedance-api)
+  🔑 - Seedance 2.5 and 2.0 video and Seedream image generation for developers, with a KreatorFlow API key.
 - [Lexu](https://www.lexu.io/en/developers) `https://www.lexu.io/mcp`
   [![Lexu MCP connector](https://glama.ai/mcp/connectors/io.lexu/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.lexu/mcp)
   🔐 - Generate images, videos, music and voice-overs on one credit balance, priced before each job.
