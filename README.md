@@ -2934,6 +2934,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [b59.link](https://b59.link/mcp) `https://b59.link/api/mcp`
+  [![b59.link MCP connector](https://glama.ai/mcp/connectors/link.b59/b59link/badges/score.svg)](https://glama.ai/mcp/connectors/link.b59/b59link)
+  🔓 - Short links, tracked QR codes, plain QR images and cookie-free page-view trackers, with stats pages.
+
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
