@@ -1702,7 +1702,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aether](https://aether-x402.vercel.app/llms.txt) `https://aether-x402.vercel.app/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether)
   🔓 - Base token risk verdicts (honeypot and tax simulation), prices, balances and tx data; pay per call in USDC via x402.
-- [Agent Data API](https://ca-tax-api-mainnet.lxtap.workers.dev/) `https://ca-tax-api-mainnet.lxtap.workers.dev/mcp`
+- [OnchainCheck](https://onchaincheck.dev/) `https://onchaincheck.dev/mcp`
   🔓 - 64 tools: token risk score on 6 chains, wallet profiles, OFAC screening, whale trades, new pools, ECB rates; $0.001–$0.02 via x402.
 - [Agent Einstein](https://emc2ai.io/mcp) `https://emc2ai.io/api/mcp`
   [![Agent Einstein MCP connector](https://glama.ai/mcp/connectors/io.emc2ai/einstein/badges/score.svg)](https://glama.ai/mcp/connectors/io.emc2ai/einstein)
