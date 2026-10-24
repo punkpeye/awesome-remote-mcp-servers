@@ -2022,6 +2022,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Knoww](https://knoww.app) `https://mcp.knoww.app/mcp`
   [![Knoww MCP connector](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww/badges/score.svg)](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww)
   🔐 - Read-only Polymarket search, market details, order books, price history, and interactive market cards.
+- [Kova](https://kovatools.com) `https://kovatools.com/mcp`
+  [![Kova MCP connector](https://glama.ai/mcp/connectors/com.kovatools/kova/badges/score.svg)](https://glama.ai/mcp/connectors/com.kovatools/kova)
+  🔐 - Saves a declared investment strategy so any agent can check a portfolio against it.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence on Base; x402 pay-per-call in USDC.
 - [Kunkafa](https://kunkafa.com) `https://kunkafa.com/mcp`
