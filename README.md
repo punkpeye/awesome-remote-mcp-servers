@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+- [cinder.fi](https://cinder.fi/mcp/) `https://mcp.cinder.fi/mcp`
+  [![cinder.fi MCP connector](https://glama.ai/mcp/connectors/com.cinderfi/retirement-planning/badges/score.svg)](https://glama.ai/mcp/connectors/com.cinderfi/retirement-planning)
+  🔐 - Retirement and budget planning for Canada and the US: projections, tax, CPP/OAS and Social Security timing, Monte Carlo.
 - [Clear Tape](https://cleartape.ai/mcp) `https://app.cleartape.ai/mcp`
   [![Clear Tape MCP connector](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape)
   🔓 - Exact trading calculators (position size, R:R, expectancy, ATR stop, Kelly), system rules, glossary and lesson search.
