@@ -1258,6 +1258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Routebase](https://routebase.dev/mcp-server/) `https://mcp.routebase.dev`
   [![Routebase MCP connector](https://glama.ai/mcp/connectors/dev.routebase.mcp/routebase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.routebase.mcp/routebase)
   🔐 - Design, mock, test, document and monitor your APIs from one living OpenAPI spec.
+- [RowAttest](https://rowattest.com/mcp) `https://app.rowattest.com/mcp`
+  [![RowAttest MCP connector](https://glama.ai/mcp/connectors/com.rowattest.app/row-attest/badges/score.svg)](https://glama.ai/mcp/connectors/com.rowattest.app/row-attest)
+  🔑 - Runs an eight-stage isolation test against your staging Supabase and issues a signed attestation.
 - [Runx](https://runx.ai) `https://api.runx.ai/mcp`
   [![Runx MCP connector](https://glama.ai/mcp/connectors/ai.runx/runx/badges/score.svg)](https://glama.ai/mcp/connectors/ai.runx/runx)
   🔓 - Search the skill catalog and inspect a skill's manifest, authority, and install command.
