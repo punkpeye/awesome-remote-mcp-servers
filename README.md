@@ -3967,6 +3967,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Evidence API](https://agent-evidence.thx93.dev/) `https://agent-evidence.thx93.dev/mcp`
   [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
   🔓 - Cited web evidence for a claim: supporting and contradicting passages with source, time and hash.
+- [AgentRead](https://agentread.omar-cv.workers.dev) `https://agentread.omar-cv.workers.dev/mcp`
+  [![AgentRead MCP connector](https://glama.ai/mcp/connectors/io.github.omarhassanatef/agentread/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.omarhassanatef/agentread)
+  🔓 - Web page to clean Markdown, metadata, headings and links; free inspect, paid extraction via x402.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
   🔓 - Read any URL or PDF as clean Markdown or JSON, with JS rendering; 5 free calls/day, then x402 USDC per call.
