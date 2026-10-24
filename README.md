@@ -3699,6 +3699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
+- [Stride](https://www.stride.page/integrations/claude-code) `https://www.stride.page/api/mcp/stride`
+  [![Stride MCP connector](https://glama.ai/mcp/connectors/page.stride/stride/badges/score.svg)](https://glama.ai/mcp/connectors/page.stride/stride)
+  🔐 - Read and update stories with their acceptance criteria, designs, docs, tests, sprints and defects.
 - [TrackingTime](https://trackingtime.co) `https://mcp.trackingtime.co/mcp`
   [![TrackingTime MCP connector](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server)
   🔐 - Start and stop timers, log time and report on hours, projects, tasks and customers.
