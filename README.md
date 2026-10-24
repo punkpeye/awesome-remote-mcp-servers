@@ -3606,7 +3606,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
 - [SpendPreflight](https://spendpreflight.com) `https://api.spendpreflight.com/mcp`
   [![SpendPreflight MCP connector](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight)
-  🔓 - Operated by SpendPreflight: sanctions screening and payment preflight, paid via x402 with a free trial.
+  🔓 - Operated by SpendPreflight: free x402 Lint risk scores, paid Listing Guard and seller monitoring.
 - [SpendGate](https://spendgate.toolweather.workers.dev) `https://spendgate.toolweather.workers.dev/mcp`
   [![SpendGate MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/spendgate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/spendgate)
   🔓 - Score a planned spend before an agent pays (approve / ask_human / block). Free tier; overage via x402 USDC on Base.
