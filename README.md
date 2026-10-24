@@ -688,6 +688,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
   [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
   🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
+- [BootForm](https://bootform.com/docs/mcp-and-ai-agents) `https://mcp.bootform.com/mcp`
+  [![BootForm MCP connector](https://glama.ai/mcp/connectors/com.bootform/bootform/badges/score.svg)](https://glama.ai/mcp/connectors/com.bootform/bootform)
+  🔐 - Create forms for static sites, get the HTML snippet, add email or Discord notifications and read submissions.
 - [BumbleBox](https://bumblebox.ai/integrations) `https://api.bumblebox.ai/api/mcp`
   [![BumbleBox MCP connector](https://glama.ai/mcp/connectors/ai.bumblebox/mail/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebox/mail)
   🔓 - Search, triage and draft replies across Gmail, Outlook and IMAP mailboxes; sending only at the level you set.
