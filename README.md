@@ -3831,6 +3831,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
   [![Ficiel MCP connector](https://glama.ai/mcp/connectors/io.ficiel/ficiel/badges/score.svg)](https://glama.ai/mcp/connectors/io.ficiel/ficiel)
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
+- [Jobs API: Greenhouse, Lever, Ashby + Hiring Signals](https://apify.com/northloop-hq/jobs-api-ats-feed) `https://mcp.apify.com/?tools=northloop-hq/jobs-api-ats-feed`
+  [![Jobs API: Greenhouse, Lever, Ashby + Hiring Signals MCP connector](https://glama.ai/mcp/connectors/com.apify.mcp/jobs-api-greenhouse-lever-ashby-hiring-signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.apify.mcp/jobs-api-greenhouse-lever-ashby-hiring-signals)
+  🔐 - New and closed jobs from Greenhouse, Lever, Ashby and 6 more ATSs by company domain, plus hiring-signal rows.
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
