@@ -1429,6 +1429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [GenesisPay Catalog](https://genesispay.finance/docs/mcp#catalog-connector) `https://catalog.genesispay.finance/mcp/catalog`
+  [![GenesisPay Catalog MCP connector](https://glama.ai/mcp/connectors/finance.genesispay/genesispay-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/finance.genesispay/genesispay-catalog)
+  🔓 - Search products, services and shops on GenesisPay and read verified-purchase reviews; read-only, cannot pay.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
@@ -3588,6 +3591,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [GenesisPay](https://genesispay.finance/docs/mcp) `https://genesispay.finance/mcp`
+  [![GenesisPay MCP connector](https://glama.ai/mcp/connectors/finance.genesispay/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/finance.genesispay/mcp)
+  🔐 - Pay x402 APIs and buy products in USDC on Base from an agent wallet within owner-set limits; larger buys need approval.
 - [Kulhad](https://kulhad.co) `https://kulhad.co/mcp`
   [![Kulhad MCP connector](https://glama.ai/mcp/connectors/co.kulhad/kulhad/badges/score.svg)](https://glama.ai/mcp/connectors/co.kulhad/kulhad)
   🔓 - Run a creator's UPI support page in India: approve and thank supporters, set goals, edit the page, get QR codes.
