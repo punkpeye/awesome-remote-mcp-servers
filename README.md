@@ -1702,8 +1702,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aether](https://aether-x402.vercel.app/llms.txt) `https://aether-x402.vercel.app/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether)
   🔓 - Base token risk verdicts (honeypot and tax simulation), prices, balances and tx data; pay per call in USDC via x402.
-- [OnchainCheck](https://onchaincheck.dev/) `https://onchaincheck.dev/mcp`
-  🔓 - 64 tools: token risk score on 6 chains, wallet profiles, OFAC screening, whale trades, new pools, ECB rates; $0.001–$0.02 via x402.
 - [Agent Einstein](https://emc2ai.io/mcp) `https://emc2ai.io/api/mcp`
   [![Agent Einstein MCP connector](https://glama.ai/mcp/connectors/io.emc2ai/einstein/badges/score.svg)](https://glama.ai/mcp/connectors/io.emc2ai/einstein)
   🔓 - Crypto and market intelligence: 18 free tools, forecasts, whale flows, token scans; paid tools via credit or x402.
@@ -2103,6 +2101,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
+- [OnchainCheck](https://onchaincheck.dev/) `https://onchaincheck.dev/mcp`
+  🔓 - 64 tools: token risk score on 6 chains, wallet profiles, OFAC screening, whale trades, new pools, ECB rates; $0.001–$0.02 via x402.
 - [Open Economics](https://open-economics-data.knbf982hkn.chatgpt.site/en/mcp) `https://open-economics-data.knbf982hkn.chatgpt.site/api/mcp`
   [![Open Economics MCP connector](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics)
   🔓 - Find and query official Brazilian economic data with provenance.
