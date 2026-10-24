@@ -1739,6 +1739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [aikstockdata](https://aikstockdata.com/en) `https://mcp.aikstockdata.com/mcp`
   [![aikstockdata MCP connector](https://glama.ai/mcp/connectors/com.aikstockdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aikstockdata/mcp)
   🔓 - Korean stocks: daily closes, minute-stamped DART filings, earnings and post-filing price paths.
+- [AiSeek](https://aiseek.dev/en/developers#mcp) `https://aiseek.dev/api/v1/mcp`
+  [![AiSeek MCP connector](https://glama.ai/mcp/connectors/dev.aiseek/aiseek/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aiseek/aiseek)
+  🔑 - Company relationships and claims with a source for each, plus country change heat and releases.
 - [Algolab MCP](https://algolab.vn/mcp) `https://mcp.algolab.vn/free`
   [![Algolab MCP connector](https://glama.ai/mcp/connectors/vn.algolab/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vn.algolab/mcp)
   🔓 - Vietnam stock market data: prices, financials, broker research, macro indicators and a VN-Index forecast.
