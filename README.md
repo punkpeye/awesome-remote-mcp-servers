@@ -3298,6 +3298,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fixter](https://fixter.dev) `https://mcp.fixter.dev/mcp`
   [![Fixter MCP connector](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter)
   🔐 - Query production logs, traces, metrics and error issues, get the root cause, and open a fix as a pull request.
+- [Flowlines](https://flowlines.ai/) `https://api.flowlines.ai/mcp`
+  [![Flowlines MCP connector](https://glama.ai/mcp/connectors/ai.flowlines.api/flowlines-mcp-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/ai.flowlines.api/flowlines-mcp-analytics)
+  🔐 - MCP analytics for tool adoption, user journeys, reported outcomes, and recurring failures with session evidence.
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and AI-found bugs from session recordings.
