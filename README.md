@@ -2922,6 +2922,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [App Store & Google Trends](https://apify.com/webatola/app-store-trends-mcp-server) `https://mcp.apify.com/?tools=webatola/app-store-trends-mcp-server`
+  [![App Store & Google Trends MCP connector](https://glama.ai/mcp/connectors/com.apify.mcp/app-store-and-google-trends/badges/score.svg)](https://glama.ai/mcp/connectors/com.apify.mcp/app-store-and-google-trends)
+  🔐 - App Store charts, keyword rank and app details, plus Google Trends trending searches; billed per call via Apify.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
