@@ -1766,6 +1766,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
+- [auregistre](https://auregistre.fr/api) `https://auregistre.fr/api/mcp`
+  [![auregistre MCP connector](https://glama.ai/mcp/connectors/fr.auregistre/auregistre/badges/score.svg)](https://glama.ai/mcp/connectors/fr.auregistre/auregistre)
+  🔓 - French companies: dated registry changes and insolvencies (BODACC), filed accounts, state aid, weekly failure barometer.
 - [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
   [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
   🔓 - Read-only Australian economic data from ABS, RBA and APRA, including GDP, inflation and interest rates.
