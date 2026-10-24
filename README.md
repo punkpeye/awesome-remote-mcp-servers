@@ -3166,6 +3166,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
+- [Ripplewatch](https://www.ripplewatch.ai) `https://www.ripplewatch.ai/api/mcp`
+  [![Ripplewatch MCP connector](https://glama.ai/mcp/connectors/ai.ripplewatch/ripplewatch/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ripplewatch/ripplewatch)
+  🔐 - Competitive analyst inside Claude or ChatGPT. Momentum scores and signals checked against your own won and lost deals.
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
