@@ -3142,6 +3142,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
+- [QRsome](https://qrsome.com) `https://qrsome.com/mcp`
+  [![QRsome MCP connector](https://glama.ai/mcp/connectors/com.qrsome/qrsome/badges/score.svg)](https://glama.ai/mcp/connectors/com.qrsome/qrsome)
+  🔐 - Create branded static and dynamic QR codes, change where printed codes point, and read scan counts.
 - [Quelta](https://quelta.ai/mcp-server/) `https://quelta.ai/mcp`
   [![Quelta MCP connector](https://glama.ai/mcp/connectors/ai.quelta/quelta/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quelta/quelta)
   🔐 - Score short vertical video ads by link: first 3 seconds, issues with timecodes and fixes.
