@@ -718,6 +718,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
+- [Kaption WhatsApp](https://kaptionai.com/mcp/) `https://mcp.kaptionai.com/mcp`
+  [![Kaption WhatsApp MCP connector](https://glama.ai/mcp/connectors/io.github.Kaption-AI/mcp-extension-remote/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Kaption-AI/mcp-extension-remote)
+  🔐 - Search and summarize your WhatsApp chats, manage labels and reminders, and schedule messages via the Kaption extension.
 - [Mailbox MCP](https://mailbox-mcp.com) `https://mcp.mailbox-mcp.com/db/mcp`
   [![Mailbox MCP MCP connector](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp)
   🔐 - Read, search, file, draft and send email in your own Gmail, Outlook, Microsoft 365, iCloud or IMAP inbox.
