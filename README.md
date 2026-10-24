@@ -1055,6 +1055,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CompatLab](https://compatlab.me/) `https://compatlab.me/mcp`
   [![CompatLab MCP connector](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab)
   🔓 - Read recorded npm loading results across pinned Node.js, Bun and Deno versions, with coverage and report links.
+- [ContactLint](https://contactlint.com) `https://contactlint.com/mcp`
+  [![ContactLint MCP connector](https://glama.ai/mcp/connectors/com.contactlint/contactlint/badges/score.svg)](https://glama.ai/mcp/connectors/com.contactlint/contactlint)
+  🔓 - Validate email syntax, DNS/MX, disposable domains, role addresses and typos, plus E.164 phones; API key for calls.
 - [ContextStream](https://contextstream.io) `https://mcp.contextstream.io/mcp`
   [![ContextStream MCP connector](https://glama.ai/mcp/connectors/io.contextstream/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.contextstream/mcp)
   🔐 - Shared project context for Cursor, Claude Code, Codex, and Grok. Intelligence isn’t the bottleneck. Context is.
