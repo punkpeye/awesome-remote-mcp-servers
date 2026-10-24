@@ -4455,6 +4455,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
+- [Ship Check](https://uxcontinuum.com/ship-check) `https://uxcontinuum.com/api/mcp`
+  [![Ship Check MCP connector](https://glama.ai/mcp/connectors/com.uxcontinuum/ship-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.uxcontinuum/ship-check)
+  🔓 - Scans a deployed app URL for exposed keys, open Supabase tables and missing security headers, with a fix each.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
   [![Site Passport MCP connector](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness)
   🔓 - Check whether AI agents can safely operate a WordPress site: llms.txt, robots.txt and schema.org.
