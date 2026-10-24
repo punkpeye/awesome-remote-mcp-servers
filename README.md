@@ -1203,6 +1203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Omniyond](https://omniyond.com/#mcp) `https://omniyond.com/mcp`
   [![Omniyond MCP connector](https://glama.ai/mcp/connectors/com.omniyond/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.omniyond/mcp)
   🔑 - Schedule HTTP calls, screenshots, PDFs, OG images, QR codes, short links and page extract on one API key.
+- [OnlineCompiler.io](https://onlinecompiler.io/mcp-code-execution?utm_source=awesome-remote-mcp-servers) `https://api.onlinecompiler.io/mcp`
+  [![OnlineCompiler.io MCP connector](https://glama.ai/mcp/connectors/io.onlinecompiler/compiler/badges/score.svg)](https://glama.ai/mcp/connectors/io.onlinecompiler/compiler)
+  🔑 - Compile and run code in 46 languages in a fresh offline sandbox, and judge it against test cases.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
