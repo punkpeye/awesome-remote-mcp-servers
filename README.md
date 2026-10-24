@@ -2934,6 +2934,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [ASO Atlas](https://asoatlas.com) `https://asoatlas.com/mcp`
+  [![ASO Atlas MCP connector](https://glama.ai/mcp/connectors/com.asoatlas/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.asoatlas/mcp)
+  🔐 - App Store and Google Play keyword research, rank tracking, app performance, in-app feedback and analytics.
+
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
