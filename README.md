@@ -3007,7 +3007,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
 - [ExtensionDash](https://extensiondash.com/) `https://extensiondash.com/mcp`
   [![ExtensionDash MCP connector](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard)
-  🔐 - Research Chrome and Firefox extension catalogs and track your listings, competitors and keyword positions.
+  🔓 - Research Chrome and Firefox extension catalogs as a guest; OAuth unlocks your listing and keyword tracking.
 - [fnlowl](https://fnlowl.com) `https://api.fnlowl.com/v1/mcp`
   [![fnlowl MCP connector](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl)
   🔓 - Manage website widgets, leads, email sequences and analytics; discovery is open, tool calls need a sign-in.
