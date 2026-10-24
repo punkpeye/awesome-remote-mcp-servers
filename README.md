@@ -117,6 +117,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [7Maps](https://7it.co.il/7maps/) `https://7it.co.il/7maps/mcp`
   [![7Maps MCP connector](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps)
   🔓 - Daily map of 22,000+ public MCP servers: status, tool risk, changes and routing to a tool; pay per call via x402.
+- [Agent Toolbox](https://agent-toolbox.zafermemon87.workers.dev) `https://agent-toolbox.zafermemon87.workers.dev/mcp`
+  [![Agent Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.zaffy18/agent-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zaffy18/agent-toolbox)
+  🔓 - Free web reader plus images, speech-to-text, chat models, embeddings and lookups, paid per call via x402.
 - [AI Tools Directory](https://ai.toolboxes.top) `https://ai-tools-mcp.toolboxes.top/mcp`
   [![AI Tools Directory MCP connector](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory)
   🔓 - Curated index of 221 AI tools across 21 industries; search by use case, department or pricing tier.
@@ -1844,6 +1847,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CortexCloud](https://api.cortexcloud.org) `https://api.cortexcloud.org/mcp`
   [![CortexCloud MCP connector](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud)
   🔓 - Pay-per-call on-chain data: token balances, NFTs, tx history, wallet intel, token risk, whale alerts.
+- [Crypto Market Data](https://crypto-market-data.zafermemon87.workers.dev/llms.txt) `https://crypto-market-data.zafermemon87.workers.dev/mcp`
+  [![Crypto Market Data MCP connector](https://glama.ai/mcp/connectors/io.github.zaffy18/crypto-market-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zaffy18/crypto-market-data)
+  🔓 - Live crypto prices, funding, liquidations, whale orders, news and 24h watches; free tools, rest via x402.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
