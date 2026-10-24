@@ -3225,6 +3225,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SyncSignature Email Signatures MCP connector](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures/badges/score.svg)](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures)
   🔐 - Manage team email signatures: teammates, groups, templates, banner campaigns and click analytics.
 
+- [The Pillar](https://thepillar.io) `https://thepillar.io/mcp`
+  [![The Pillar MCP connector](https://glama.ai/mcp/connectors/io.thepillar/pillar/badges/score.svg)](https://glama.ai/mcp/connectors/io.thepillar/pillar)
+  🔓 - Find a free ad window or billboard on a 3D tower and city, and lease it for a brand with a Stripe checkout link.
 - [The Profound Agency](https://theprofound.agency/mcp/) `https://theprofound.agency/api/mcp/`
   [![The Profound Agency MCP connector](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency/badges/score.svg)](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency)
   🔓 - Search, price, and order press placements across 1,600+ publications; free AI-visibility audits.
