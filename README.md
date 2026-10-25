@@ -2735,6 +2735,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
+- [Shared team memory for agents](https://textforagents.com/products/shared-team-agent-memory/) `https://textforagents.com/products/shared-team-agent-memory/`
+  [![Shared team memory for agents MCP connector](https://glama.ai/mcp/connectors/com.textforagents/shared-team-agent-memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/shared-team-agent-memory)
+  🔑 - Shared, project-scoped memory for teams of agents, with typed records, corroboration, and handoff briefs.
 - [SlashYear](https://slashyear.com) `https://slashyear.com/mcp`
   [![SlashYear MCP connector](https://glama.ai/mcp/connectors/com.slashyear/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.slashyear/mcp)
   🔓 - Dated historical events, each a verbatim sentence from a cited Wikipedia revision, searchable by year, day or subject.
