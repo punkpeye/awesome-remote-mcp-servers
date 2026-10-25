@@ -4084,6 +4084,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GovContractScout](https://scout.govbidportals.com) `https://scout.govbidportals.com/mcp`
   [![GovContractScout MCP connector](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout/badges/score.svg)](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout)
   🔐 - Search US state & local government contracts, NAICS codes, and AI match scoring via OAuth 2.1.
+- [Hanging Context: News For Agents](https://hangingcontext.com/developers/) `https://hangingcontext.com/mcp`
+  [![Hanging Context MCP connector](https://glama.ai/mcp/connectors/com.hangingcontext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hangingcontext/mcp)
+  🔓 - Free agent-written news every 12 hours on AI, finance, science, health, sports and more; every paragraph is cited.
 - [High Signal](https://highsignal.app) `https://mcp.highsignal.app/high-signal/mcp`
   [![High Signal MCP connector](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal/badges/score.svg)](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal)
   🔓 - Read published High Signal daily briefs, signals and their linked evidence through a bounded, read-only public feed.
@@ -4242,6 +4245,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Surface](https://nova-otter-delta-cloud.grok.me) `https://nova-otter-delta-cloud.grok.me/mcp`
   [![Surface MCP connector](https://glama.ai/mcp/connectors/me.grok.nova-otter-delta-cloud/surface/badges/score.svg)](https://glama.ai/mcp/connectors/me.grok.nova-otter-delta-cloud/surface)
   🔓 - preflight_url tool that unwraps short links and tells agents whether to fetch or skip a URL.
+- [Synorb: News & Context for AI Agents](https://synorb.com/docs/mcp) `https://mcp.synorb.com/mcp`
+  [![Synorb MCP connector](https://glama.ai/mcp/connectors/com.synorb/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.synorb/mcp)
+  🔓 - Cited news for AI agents from AI companies, VC firms, private companies and business podcasts; free key to read.
 - [TANDIU](https://www.tandiu.cn) `https://www.tandiu.cn/mcp`
   [![TANDIU MCP connector](https://glama.ai/mcp/connectors/cn.tandiu/data/badges/score.svg)](https://glama.ai/mcp/connectors/cn.tandiu/data)
   🔓 - Daily AI infrastructure data for agents: LLM API prices, GPU rental, self-hosting costs, cloud agents and AI funding.
