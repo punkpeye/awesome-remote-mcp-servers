@@ -2098,6 +2098,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
+- [NYO E-invoice Validator](https://nyo-agentti.github.io/api.html?ref=armcp#mcp) `https://einvoice-validator-k2qw.onrender.com/mcp`
+  [![NYO E-invoice Validator MCP connector](https://glama.ai/mcp/connectors/io.github.nyo-agentti/einvoice-validator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nyo-agentti/einvoice-validator)
+  🔓 - Validate XRechnung, Peppol BIS 3 and EN 16931 e-invoices with the KoSIT validator, explain rules, check auto-repair.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
