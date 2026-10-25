@@ -5240,6 +5240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ValorAI MCP](https://www.tryvalor.ai) `https://www.tryvalor.ai/mcp/public`
   [![ValorAI MCP connector](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp)
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
+- [Wenbu](https://wenbu.app) `https://wenbu.app/mcp`
+  [![Wenbu MCP connector](https://glama.ai/mcp/connectors/app.wenbu/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.wenbu/mcp)
+  🔓 - Free BaZi, I Ching, tarot and Zi Wei tools with transparent methods over MCP.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 
