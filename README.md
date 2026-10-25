@@ -1763,6 +1763,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Asiento Uno](https://asientouno.com/mcp) `https://mcp.asientouno.com/mcp`
   [![Asiento Uno MCP connector](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana/badges/score.svg)](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana)
   🔓 - Spanish company registry (BORME) with grants and procurement per company, linked to sources. Data tools need a free key.
+- [Assurs LAMal](https://assurs.ch) `https://api.assurs.ch/mcp`
+  [![Assurs LAMal MCP connector](https://glama.ai/mcp/connectors/ch.assurs/lamal/badges/score.svg)](https://glama.ai/mcp/connectors/ch.assurs/lamal)
+  🔓 - Official 2027 Swiss LAMal health insurance premiums by municipality, age and deductible, plus consented broker handoff.
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
