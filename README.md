@@ -3277,6 +3277,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConnectorReport](https://connectorreport.com/mcp) `https://connectorreport.com/api/mcp`
   [![ConnectorReport MCP connector](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport/badges/score.svg)](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport)
   🔓 - Dated, hands-on test results for remote MCP servers: pass rate, sign-in method, gotchas and fix recipes.
+- [Default-watch and pinning service](https://textforagents.com/products/default-watch-pinning/) `https://textforagents.com/products/default-watch-pinning/mcp`
+  [![Default-watch and pinning service MCP connector](https://glama.ai/mcp/connectors/com.textforagents/default-watch-pinning/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/default-watch-pinning)
+  🔑 - Watches platforms for silent default-model changes and issues signed attestations with session gating.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
