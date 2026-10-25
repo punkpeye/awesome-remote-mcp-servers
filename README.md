@@ -3952,6 +3952,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Council](https://cyberwarex.com/assets/council-quickstart.html) `https://council.cyberwarex.com/mcp`
   [![Agent Council MCP connector](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council/badges/score.svg)](https://glama.ai/mcp/connectors/com.cyberwarex.council/agent-council)
   🔓 - One question goes to 3-4 models; a chair returns one verdict with a confidence score and the dissent that held.
+- [Claimora](https://claimora.si) - Structured scientific and legal claim graph. Endpoint: https://claimora.si/mcp. Public surface: https://github.com/superexposed/claimora-mcp
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
