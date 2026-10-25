@@ -1820,6 +1820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
+- [Capacity Option: price-cliff hedge for agent fleets](https://textforagents.com/products/capacity-option-price-cliff-hedge/) `https://textforagents.com/products/capacity-option-price-cliff-hedge/mcp`
+  [![Capacity Option: price-cliff hedge for agent fleets MCP connector](https://glama.ai/mcp/connectors/com.textforagents/capacity-option-price-cliff-hedge/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/capacity-option-price-cliff-hedge)
+  🔑 - Coverage-gated capacity options: the right to buy model capacity at today's price until a stated expiry.
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
