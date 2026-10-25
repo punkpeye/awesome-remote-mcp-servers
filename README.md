@@ -4995,6 +4995,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Document Player](https://documentplayer.com/connect-ai/) `https://documentplayer.com/mcp`
   [![Document Player MCP connector](https://glama.ai/mcp/connectors/com.documentplayer/document-player/badges/score.svg)](https://glama.ai/mcp/connectors/com.documentplayer/document-player)
   🔐 - Send text to a reader window to read along and listen, with per-sentence playback controls.
+- [DokuTrak](https://dokutrak.com/connectors) `https://app.dokutrak.com/api/mcp`
+  [![DokuTrak MCP connector](https://glama.ai/mcp/connectors/io.github.Crackx17/dokutrak-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Crackx17/dokutrak-mcp)
+  🔐 - Prepare a client document request, send it after you confirm, and track which documents are still missing.
 - [Dollea Beauty Coworking](https://coworking.dollea.de/agents/?language=en) `https://coworking.dollea.de/mcp/coworking`
   [![Dollea Beauty Coworking MCP connector](https://glama.ai/mcp/connectors/de.dollea/coworking/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/coworking)
   🔓 - Public beauty workspace catalog in Munich; OAuth for personal prices and rental booking.
