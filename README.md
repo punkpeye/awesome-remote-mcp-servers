@@ -3264,6 +3264,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
+- [Agent NOTAMs: hazard bulletins for agents](https://textforagents.com/products/agent-notams-hazard-bulletins/) `https://textforagents.com/products/agent-notams-hazard-bulletins/mcp`
+  [![Agent NOTAMs: hazard bulletins for agents MCP connector](https://glama.ai/mcp/connectors/com.textforagents/agent-notams-hazard-bulletins/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/agent-notams-hazard-bulletins)
+  🔑 - Signed, auto-expiring hazard bulletins for tools and APIs, with pre-flight checks for agents.
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
