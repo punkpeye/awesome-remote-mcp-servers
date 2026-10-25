@@ -3789,6 +3789,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pillr](https://pillr.fr/mcp) `https://pillr.fr/api/mcp`
   [![Pillr MCP connector](https://glama.ai/mcp/connectors/fr.pillr/pillr/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pillr/pillr)
   🔓 - French property data: price per m² by municipality, local market summary and planning permit requirements.
+- [PLU IA](https://pluia.fr/ia) `https://pluia.fr/mcp`
+  [![PLU IA MCP connector](https://glama.ai/mcp/connectors/io.github.AZERIA-IT/pluia/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AZERIA-IT/pluia)
+  🔐 - French planning rules for any address or parcel: PLU zone, applicable document and cited rules with page.
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance or HOA document, with its date and source quote.
