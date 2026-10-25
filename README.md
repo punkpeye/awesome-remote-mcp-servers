@@ -1093,6 +1093,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EmpirioLabs AI](https://docs.empiriolabs.ai/mcp) `https://mcp.empiriolabs.ai/mcp`
   [![EmpirioLabs AI MCP connector](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp)
   🔐 - Run 200+ AI models for chat, image, video, speech and 3D, plus web search, batches and async jobs.
+- [Error-actionability translation for MCP tool failures](https://textforagents.com/products/error-actionability-translation/) `https://textforagents.com/products/error-actionability-translation/mcp`
+  [![Error-actionability translation for MCP tool failures MCP connector](https://glama.ai/mcp/connectors/com.textforagents/error-actionability-translation/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/error-actionability-translation)
+  🔑 - Classifies MCP tool failures into enforced recovery verdicts using per-server dialect profiles.
 - [Favicon Tools](https://favicontools.com) `https://favicontools.com/api/mcp`
   [![Favicon Tools MCP connector](https://glama.ai/mcp/connectors/io.github.mewc/favicon-app-icons/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mewc/favicon-app-icons)
   🔓 - Check a site's favicons and app icons, and generate a full favicon, Apple touch, and PWA icon set.
