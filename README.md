@@ -2539,6 +2539,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NobetciEczane.org](https://nobetcieczane.org/) `https://nobetcieczane.org/mcp`
   [![NobetciEczane.org MCP connector](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane/badges/score.svg)](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane)
   🔓 - Today's on-duty pharmacies in all 81 provinces of Türkiye and the TRNC, by district or nearest to a location.
+- [NPI Who](https://npiwho.com/developers/mcp) `https://npiwho.com/mcp`
+  [![NPI Who MCP connector](https://glama.ai/mcp/connectors/com.npiwho/npiwho/badges/score.svg)](https://glama.ai/mcp/connectors/com.npiwho/npiwho)
+  🔓 - Look up US health care providers by NPI, name or phone, with payments, Medicare, OIG and facility data.
 - [Peptide Library](https://peptidelibrary.app/developers/mcp) `https://peptidelibrary.app/mcp`
   [![Peptide Library MCP connector](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library/badges/score.svg)](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library)
   🔓 - Peptide research profiles with evidence by study type, comparisons, educational search and unit math.
