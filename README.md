@@ -1510,6 +1510,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
+- [Tanatasa Beauty](https://tanatasa.sg/ai-agent-docs) `https://tanatasa.sg/mcp`
+  [![Tanatasa Beauty MCP connector](https://glama.ai/mcp/connectors/sg.tanatasa/tanatasa/badges/score.svg)](https://glama.ai/mcp/connectors/sg.tanatasa/tanatasa)
+  🔓 - Search Singapore skincare and beauty, check SGD prices and stock, build guest carts and prepare checkout links.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
