@@ -3334,6 +3334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [Outcome-verified watchdog for scheduled agents](https://textforagents.com/products/scheduled-agent-outcome-verification/) `https://textforagents.com/products/scheduled-agent-outcome-verification/mcp`
+  [![Outcome-verified watchdog for scheduled agents MCP connector](https://glama.ai/mcp/connectors/com.textforagents/scheduled-agent-outcome-verification/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/scheduled-agent-outcome-verification)
+  🔑 - Verifies scheduled agents' output artifacts directly, never the agent's own claim of success.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
