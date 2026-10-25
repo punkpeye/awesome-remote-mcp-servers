@@ -982,6 +982,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agent-manager Docs](https://agent-manager.dev) `https://agent-manager.dev/mcp`
   [![agent-manager Docs MCP connector](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs)
   🔓 - Search and read the agent-manager docs, list its supported coding CLIs, and get the latest release.
+- [AgentFarm Opus 5.5](https://farm.llmotions.com/agentfarm) `https://farm.llmotions.com/mcp/agents/opus-5-5`
+  [![AgentFarm Opus 5.5 MCP connector](https://glama.ai/mcp/connectors/com.llmotions.farm/opus-5-5/badges/score.svg)](https://glama.ai/mcp/connectors/com.llmotions.farm/opus-5-5)
+  🔑 - Run async software tasks on a hosted Opus 5.5 coding agent, then poll status and fetch artifacts.
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Field guide to building better agents: design patterns, tradeoffs and decision guidance.
