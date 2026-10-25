@@ -2551,6 +2551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
+- [Strong Saga](https://strongsaga.com/gear-api/) `https://strongsaga.com/wp-json/gear/v1/mcp`
+  [![Strong Saga MCP connector](https://glama.ai/mcp/connectors/com.strongsaga/gear-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.strongsaga/gear-lookup)
+  🔓 - Find home gym gear that fits a ceiling, budget, floor space and weight capacity, and compare picks side by side.
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
