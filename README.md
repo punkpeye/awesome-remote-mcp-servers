@@ -4328,6 +4328,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
+- [Context crossmatch: compatibility typing for context ingestion](https://textforagents.com/products/context-crossmatch-compatibility-typing/) `https://textforagents.com/products/context-crossmatch-compatibility-typing/mcp`
+  [![Context crossmatch: compatibility typing for context ingestion MCP connector](https://glama.ai/mcp/connectors/com.textforagents/context-crossmatch-compatibility-typing/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/context-crossmatch-compatibility-typing)
+  🔑 - Pre-ingestion compatibility gate that types context by content and crossmatches it before ingestion.
 - [CrawlCheck](https://crawlcheck.io/for-agents) `https://crawlcheck.io/mcp`
   [![CrawlCheck MCP connector](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck)
   🔓 - A signed answer about any site before an agent acts: policy, what crawlers were served, findings, a decision per action.
