@@ -4382,6 +4382,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [IP99](https://ip99.com/) `https://ip99.com/mcp`
   [![IP99 MCP connector](https://glama.ai/mcp/connectors/com.ip99/ip99/badges/score.svg)](https://glama.ai/mcp/connectors/com.ip99/ip99)
   🔓 - IP risk and geolocation lookup where every verdict carries the age of its evidence.
+- [Iris](https://iriscan.app/mcp) `https://iriscan.app/mcp`
+  [![Iris MCP connector](https://glama.ai/mcp/connectors/io.github.0xVector0/iris/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xVector0/iris)
+  🔓 - Investigate who funded a wallet and where its money went on 10 chains, with sourced labels and mixer and bridge traces.
 - [ISMS Copilot](https://www.ismscopilot.com/mcp?ref=awesome-remote) `https://account.ismscopilot.com/v1/account/mcp`
   [![ISMS Copilot MCP connector](https://glama.ai/mcp/connectors/io.github.tristanroth1/ismscopilot-account/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tristanroth1/ismscopilot-account)
   🔐 - The compliance specialist your AI calls: ISO 27001, SOC 2, GDPR, NIS 2, DORA and more.
