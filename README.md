@@ -3817,6 +3817,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
+### 🤖 <a name="robotics--industrial"></a>Robotics & Industrial
+
+- [RoboParts](https://roboparts.cc) `https://roboparts.cc/mcp`
+  [![RoboParts MCP connector](https://glama.ai/mcp/connectors/cc.roboparts/roboparts/badges/score.svg)](https://glama.ai/mcp/connectors/cc.roboparts/roboparts)
+  🔓 - Vendor-neutral robot hardware compatibility checker. Three-state verdicts across 868 entities; printable adapters.
+
 ### 🚗 <a name="sales"></a>Sales
 
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
