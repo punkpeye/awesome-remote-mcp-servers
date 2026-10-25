@@ -1728,7 +1728,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticBooks](https://www.agenticbooks.ai) `https://mcp.agenticbooks.ai/mcp`
   [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
-- [AgentPad](https://agentpad-base.surge.sh) `https://agentpad.thevibehosting.com/mcp`
+- [AgentPad](https://agentpadbase.com) `https://agentpad.thevibehosting.com/mcp`
   [![AgentPad MCP connector](https://glama.ai/mcp/connectors/com.thevibehosting.agentpad/agentpad/badges/score.svg)](https://glama.ai/mcp/connectors/com.thevibehosting.agentpad/agentpad)
   🔓 - Agent token launchpad on Base: token, quote and stats reads plus unsigned launch, buy and sell txs. Unaudited.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
