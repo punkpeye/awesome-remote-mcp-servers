@@ -2978,6 +2978,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [IdeaKiller](https://ideakiller.app) `https://api.ideakiller.app/mcp`
+  [![IdeaKiller MCP connector](https://glama.ai/mcp/connectors/app.ideakiller/idea-validator/badges/score.svg)](https://glama.ai/mcp/connectors/app.ideakiller/idea-validator)
+  🔐 - Validate a startup idea with live web research: GO/PIVOT/NO_GO verdict, evidence and a first test.
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
