@@ -3711,6 +3711,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [Arrumou Neural](https://app.arrumou.com/mcp/docs) `https://app.arrumou.com/mcp`
+  [![Arrumou Neural MCP connector](https://glama.ai/mcp/connectors/com.arrumou.app/arrumou-neural/badges/score.svg)](https://glama.ai/mcp/connectors/com.arrumou.app/arrumou-neural)
+  🔐 - Vacation-rental bookings, calendars, housekeeping and reports, with per-action approvals.
 - [AskRentAI](https://askrentai.com) `https://api.askrentai.com/mcp`
   [![AskRentAI MCP connector](https://glama.ai/mcp/connectors/com.askrentai/askrentai/badges/score.svg)](https://glama.ai/mcp/connectors/com.askrentai/askrentai)
   🔐 - Read-only live Rent Manager portfolio data: NOI, rent roll, delinquency, leasing, work orders, and financial reports.
