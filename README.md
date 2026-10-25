@@ -3366,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [apimodels.app](https://apimodels.app/docs/mcp) `https://api.apimodels.app/mcp`
+  [![apimodels.app MCP connector](https://glama.ai/mcp/connectors/io.github.stimQQ/apimodels-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stimQQ/apimodels-mcp)
+  🔐 - Generate and edit images, make videos, synthesize speech and chat with 110+ AI models through one account.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
