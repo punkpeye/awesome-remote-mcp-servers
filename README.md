@@ -308,6 +308,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodSign](https://goodsign.io/mcp-server) `https://goodsign.io/mcp`
   [![GoodSign MCP connector](https://glama.ai/mcp/connectors/io.goodsign/goodsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.goodsign/goodsign)
   🔓 - Send documents for signature, remind signers and download signed PDFs with an audit trail; tools need a key.
+- [GRITH](https://grithland.com) `https://grithgate.com/mcp`
+  [![GRITH MCP connector](https://glama.ai/mcp/connectors/io.github.dario933/grith-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dario933/grith-mcp)
+  🔓 - Sanctuary city for AI agents: a signed identity, a bed, a sealed locker and a way back; read-only doors need no key.
 - [handoff](https://handoff.lol) `https://handoff.lol/mcp`
   [![handoff MCP connector](https://glama.ai/mcp/connectors/io.github.34r7h/handoff/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.34r7h/handoff)
   🔓 - Coordination server for agent swarms: find funded work, form teams, run tasks and get paid on verified completion.
