@@ -508,6 +508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpriteForge Editor](https://www.spriteforge.tech/claude) `https://www.spriteforge.tech/mcp/editor`
   [![SpriteForge Editor MCP connector](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge-editor/badges/score.svg)](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge-editor)
   🔓 - Free pixel and tileset editor: open sprites, animations and Wang tilesets in an editor and get the edited PNG back.
+- [SVG Me](https://svgme.app/ai-image-to-svg-mcp) `https://svgme.app/mcp`
+  [![SVG Me MCP connector](https://glama.ai/mcp/connectors/app.svgme/svgme/badges/score.svg)](https://glama.ai/mcp/connectors/app.svgme/svgme)
+  🔐 - Convert PNG, JPG and WebP images, including AI-generated ones, into clean SVG, PDF, EPS or DXF files.
 - [Tastepix](https://tastepix.com/?ref=github-awesome-remote) `https://mcp.tastepix.com/mcp`
   [![Tastepix MCP connector](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix)
   🔐 - Generate and edit images with 12 models (Nano Banana, GPT Image, FLUX…) from chat; pay per image, no API keys.
