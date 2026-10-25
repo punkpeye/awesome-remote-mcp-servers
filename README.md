@@ -1134,6 +1134,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
+- [Hibernation capsule for rarely-run agents](https://textforagents.com/products/hibernation-capsule-rare-agents/) `https://textforagents.com/products/hibernation-capsule-rare-agents/mcp`
+  [![Hibernation capsule for rarely-run agents MCP connector](https://glama.ai/mcp/connectors/com.textforagents/hibernation-capsule-rare-agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.textforagents/hibernation-capsule-rare-agents)
+  🔑 - Sealed state capsules and a wake gauntlet for rarely-run agents returning to a changed world.
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
