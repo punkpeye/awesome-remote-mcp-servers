@@ -3643,6 +3643,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
   [![Critical Path Partners MCP connector](https://glama.ai/mcp/connectors/io.github.danafitkowski/cpp-cpm-engine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danafitkowski/cpp-cpm-engine)
   🔓 - Forensic delay analysis of Primavera P6 schedules: windows analysis, time impact, DCMA-14 checks and Monte Carlo risk.
+- [Demiton](https://demiton.io/mcp) `https://api.demiton.io/mcp`
+  [![Demiton MCP connector](https://glama.ai/mcp/connectors/io.demiton/demiton/badges/score.svg)](https://glama.ai/mcp/connectors/io.demiton/demiton)
+  🔐 - Answers questions across a civil contractor's connected systems on rework, claims, disputes, cost and compliance.
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
   [![dot•requirements MCP connector](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements/badges/score.svg)](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements)
   🔐 - Draft testable requirements specs from chat, style-check them, publish to your team, and see test coverage.
