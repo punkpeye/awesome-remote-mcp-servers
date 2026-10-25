@@ -2095,6 +2095,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NakamotoNotes Bitcoin Barometer](https://nakamotonotes.com/open) `https://nakamotonotes.com/mcp`
   [![NakamotoNotes Bitcoin Barometer MCP connector](https://glama.ai/mcp/connectors/com.nakamotonotes/barometer/badges/score.svg)](https://glama.ai/mcp/connectors/com.nakamotonotes/barometer)
   🔓 - Bitcoin Barometer heat score, BTC price, on-chain and sentiment indicators, and daily history since 2014.
+- [NetArz FX Rates](https://netarz.ir/docs/fx/mcp) `https://netarz.ir/api/fx/mcp`
+  [![NetArz FX Rates MCP connector](https://glama.ai/mcp/connectors/ir.netarz/fx-rates/badges/score.svg)](https://glama.ai/mcp/connectors/ir.netarz/fx-rates)
+  🔓 - Live Iranian rial and toman rates for about 30 currencies, conversion, a year of history and gold prices.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
