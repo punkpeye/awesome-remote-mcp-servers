@@ -1505,6 +1505,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [Shootika](https://shootika.com/ai-assistants/) `https://mcp.shootika.com`
+  [![Shootika MCP connector](https://glama.ai/mcp/connectors/com.shootika/shootika/badges/score.svg)](https://glama.ai/mcp/connectors/com.shootika/shootika)
+  🔐 - Shoot store products on AI fashion models, review the frames, and publish to Shopify or download for any store.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
