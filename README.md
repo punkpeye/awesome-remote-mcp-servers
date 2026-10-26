@@ -613,7 +613,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Builds complete small-business websites with local SEO, a logo and hosting in 5 minutes; also hosts HTML.
 - [WeInc](https://we.inc) `https://my.we.inc/api/mcp`
   [![WeInc MCP connector](https://glama.ai/mcp/connectors/io.github.umairalisadaqat/weinc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.umairalisadaqat/weinc)
-  🔐 - Build websites from a prompt, request changes, get preview links and analytics, and manage projects and clients.
+  🔓 - Start small-business websites from a prompt; sign in with OAuth to edit, preview and manage your sites and clients.
 - [Wix](https://wix.com) `https://mcp.wix.com/mcp`
   [![Wix MCP connector](https://glama.ai/mcp/connectors/com.wix/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wix/mcp)
   🔐 - Manage Wix sites, business data, and bookings.
