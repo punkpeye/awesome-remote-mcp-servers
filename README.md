@@ -3235,6 +3235,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tracetify](https://tracetify.com/mcp) `https://tracetify.com/api/mcp`
   [![Tracetify MCP connector](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp)
   🔓 - Find competitors, trace how they grew from dated public sources, and see their ads; tools need an account.
+- [Triremes](https://triremes.com) `https://triremes.com/mcp`
+  [![Triremes MCP connector](https://glama.ai/mcp/connectors/com.triremes/triremes/badges/score.svg)](https://glama.ai/mcp/connectors/com.triremes/triremes)
+  🔓 - Search real problems people have and business websites with poor SEO / AEO; read-only, with links to buy leads.
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
