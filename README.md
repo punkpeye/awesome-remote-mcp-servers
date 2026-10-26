@@ -2637,6 +2637,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and search your RSS feeds and articles, plus save, tag, highlight and add notes on paid plans; OAuth sign-in.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
+- [FLOGVIT.bible](https://bible.flogvit.com/en/mcp) `https://mcp.bible.flogvit.com/mcp`
+  [![FLOGVIT.bible MCP connector](https://glama.ai/mcp/connectors/io.github.flogvit/bible/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.flogvit/bible)
+  🔓 - Read and search the Bible in open translations and Hebrew/Greek, with cross-references and study notes.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
   🔑 - Hybrid search over vectors, full text and structured filters, with auto-embeddings.
