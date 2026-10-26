@@ -2277,6 +2277,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TickFeed](https://tickfeed.pro) `https://api.tickfeed.pro/mcp`
   [![TickFeed MCP connector](https://glama.ai/mcp/connectors/pro.tickfeed/tickfeed/badges/score.svg)](https://glama.ai/mcp/connectors/pro.tickfeed/tickfeed)
   🔐 - Live bid/ask and OHLC candles for 60 forex pairs and 11 metals, with freshness labels and gap reports.
+- [Token Safety (Base)](https://product-katalog.restockalarm.workers.dev/go/token-safety?src=awesome-mcp) `https://token-safety-mcp.restockalarm.workers.dev/mcp`
+  [![Token Safety MCP connector](https://glama.ai/mcp/connectors/dev.workers.restockalarm.token-safety-mcp/token-safety/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.restockalarm.token-safety-mcp/token-safety)
+  🔓 - Base ERC-20 verdict, risk score, rug check, holders and momentum; $0.02/call via x402. Launch offer: 10 calls for $0.02 (90% off, 7 days).
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
