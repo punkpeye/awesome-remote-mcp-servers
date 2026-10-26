@@ -4476,6 +4476,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [vuln-intel](https://vulntel.com) `https://mcp.rozetyp.com/mcp`
   [![vuln-intel MCP connector](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel)
   🔓 - CVE intel for bug-bounty agents: CVE claim fact-checks, attack approaches from HackerOne reports. Free key for calls.
+- [Warnwell](https://warnwell.com/agents/) `https://warnwell.com/mcp`
+  🔓 - Check one or many domains for expiry, broken websites and email spoofing (SPF, DMARC, DKIM), with the exact fix.
 - [Weio site check](https://weio.ai/services/site-check-api.html?utm_source=github&utm_medium=list&utm_campaign=awesome-mcp) `https://weio.ai/mcp`
   [![Weio site check MCP connector](https://glama.ai/mcp/connectors/ai.weio/site-check/badges/score.svg)](https://glama.ai/mcp/connectors/ai.weio/site-check)
   🔓 - HTTPS certificate check and published business facts (CMS, mobile viewport, role emails, phones) for any site.
