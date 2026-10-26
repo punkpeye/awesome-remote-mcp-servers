@@ -4872,6 +4872,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
   [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
   🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
+- [OohWeGo](https://oohwego.com/docs/ai) `https://oohwego.com/mcp`
+  [![OohWeGo MCP connector](https://glama.ai/mcp/connectors/com.oohwego/ooh-we-go/badges/score.svg)](https://glama.ai/mcp/connectors/com.oohwego/ooh-we-go)
+  🔐 - Plan group trips: read and edit itineraries, find places, split the group into lanes, and manage lists and expenses.
 - [Portmans Motor Lodge](https://www.portmans.co.nz/) `https://portmans-mcp.portmanshastings.workers.dev/mcp`
   [![Portmans Motor Lodge MCP connector](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp)
   🔓 - Hotel availability, public BAR rates, and a direct booking link for Portmans Motor Lodge in Hastings, New Zealand.
