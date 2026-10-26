@@ -1944,6 +1944,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Foresee](https://go-foresee.com) `https://agents.go-foresee.com/mcp`
   [![Foresee MCP connector](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee)
   🔓 - Compare live home and auto insurance quotes from carriers' own sites.
+- [Free Small Biz Tools](https://freesmallbiztools.com) `https://api.freesmallbiztools.com/mcp`
+  [![Free Small Biz Tools MCP connector](https://glama.ai/mcp/connectors/com.freesmallbiztools.api/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.freesmallbiztools.api/tools)
+  🔓 - Late-fee reminder emails, quote packs and small-business tool stack reports, paid per call via x402.
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
@@ -2122,6 +2125,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+- [PaidPilot](https://paidpilot.io) `https://api.paidpilot.io/mcp`
+  [![PaidPilot MCP connector](https://glama.ai/mcp/connectors/io.paidpilot.api/invoice-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.paidpilot.api/invoice-tools)
+  🔓 - Invoice tools: late fees, payment terms, reminder emails, receivables health and invoice PDFs via x402.
 - [PayGuard](https://api.youraitools.co/payguard/) `https://api.youraitools.co/payguard/mcp`
   [![PayGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/payguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/payguard)
   🔓 - Checks crypto addresses against the US Treasury OFAC SDN list; free yes/no preview, entity details paid via x402.
@@ -2901,6 +2907,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check a public page's robots, sitemap, JSON-LD, canonical tags and llms.txt.
 
 
+- [AEO Inspector](https://aeoinspector.com) `https://aeoinspector.com/mcp`
+  [![AEO Inspector MCP connector](https://glama.ai/mcp/connectors/com.aeoinspector/aeo-inspector/badges/score.svg)](https://glama.ai/mcp/connectors/com.aeoinspector/aeo-inspector)
+  🔓 - AI visibility reports across 16 answer engines and deep AEO scans with fixes, paid per call via x402.
+
 - [AffiliateBase](https://www.affiliatebase.io) `https://app.affiliatebase.io/mcp`
   [![AffiliateBase MCP connector](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase/badges/score.svg)](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase)
   🔐 - Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions and payouts.
@@ -3280,6 +3290,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
+- [IsItDownAPI](https://isitdownapi.com) `https://api.isitdownapi.com/mcp`
+  [![IsItDownAPI MCP connector](https://glama.ai/mcp/connectors/com.isitdownapi.api/status/badges/score.svg)](https://glama.ai/mcp/connectors/com.isitdownapi.api/status)
+  🔓 - Live outage status and recent incidents for SaaS vendors, up to 25 per call, paid via x402.
 - [OpenUptime](https://openuptime.app/docs/mcp) `https://openuptime.app/api/mcp`
   [![OpenUptime MCP connector](https://glama.ai/mcp/connectors/app.openuptime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.openuptime/mcp)
   🔐 - Manage uptime monitors, incidents and public status pages.
@@ -3334,6 +3347,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [PulseWatch](https://pulsewatch.us) `https://api.pulsewatch.us/mcp`
+  [![PulseWatch MCP connector](https://glama.ai/mcp/connectors/us.pulsewatch.api/status/badges/score.svg)](https://glama.ai/mcp/connectors/us.pulsewatch.api/status)
+  🔓 - Current outage status and recent incidents for a cloud or SaaS vendor, paid per call via x402.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
@@ -4373,6 +4389,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HefestoAI](https://hefestoai.narapallc.com) `https://hefestoai.narapallc.com/api/mcp-protocol`
   [![HefestoAI MCP connector](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai)
   🔓 - Checks code an agent wrote for secrets, injection risks and declared-vs-real dependency drift before merge.
+- [InboxGuards Email Check](https://inboxguards.com) `https://api.inboxguardstest.com/mcp`
+  [![InboxGuards Email Check MCP connector](https://glama.ai/mcp/connectors/com.inboxguardstest.api/email/badges/score.svg)](https://glama.ai/mcp/connectors/com.inboxguardstest.api/email)
+  🔓 - Email address checks and deliverability reports with exact SPF, DKIM and DMARC fixes, paid via x402.
 - [InjectScan](https://api.youraitools.co/injectscan/) `https://api.youraitools.co/injectscan/mcp`
   [![InjectScan MCP connector](https://glama.ai/mcp/connectors/co.youraitools/injectscan/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/injectscan)
   🔓 - Scores text, web pages and MCP tool definitions for prompt injection; 30 free calls/day, then x402 USDC.
@@ -4391,6 +4410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lattice](https://lattice.namiq.io) `https://lattice.namiq.io/mcp`
   [![Lattice MCP connector](https://glama.ai/mcp/connectors/io.namiq/lattice/badges/score.svg)](https://glama.ai/mcp/connectors/io.namiq/lattice)
   🔓 - CVE, KEV, ATT&CK, CWE and detection graph; links marked declared or inferred. 3 tools keyless, all 7 with a free key.
+- [Mail Security Tools](https://mailsecuritytools.com) `https://api.mailsecuritytools.com/mcp`
+  [![Mail Security Tools MCP connector](https://glama.ai/mcp/connectors/com.mailsecuritytools.api/email-security/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailsecuritytools.api/email-security)
+  🔓 - Graded email security scores, bulk scoring and SPF/DKIM/DMARC fix plans, paid per call via x402.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
