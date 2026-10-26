@@ -3711,6 +3711,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- **[Sparks RE & Compliance MCP](https://github.com/intellectuallyneutral/Real-estate-analysis-API-with-x402-micropayments-on-Base-L2)** - Remote Streamable HTTP MCP server (`https://sparks-re-api.sparksdigital-re.workers.dev/mcp`) with 8 tools for RESO property normalization, Fair Housing Act (FHA) 7-protected-class compliance auditing, rental investment underwriting (Cap Rate, DSCR, NOI), WCAG 2.1 AA accessibility scanning, and SEC EDGAR company filings.
 - [AskRentAI](https://askrentai.com) `https://api.askrentai.com/mcp`
   [![AskRentAI MCP connector](https://glama.ai/mcp/connectors/com.askrentai/askrentai/badges/score.svg)](https://glama.ai/mcp/connectors/com.askrentai/askrentai)
   🔐 - Read-only live Rent Manager portfolio data: NOI, rent roll, delinquency, leasing, work orders, and financial reports.
