@@ -4052,6 +4052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [file2markdown](https://www.file2markdown.ai) `https://mcp.file2markdown.ai/mcp`
   [![file2markdown MCP connector](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown/badges/score.svg)](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown)
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
+- [FindAIforWork](https://findaiforwork.com) `https://findaiforwork.com/mcp`
+  [![FindAIforWork MCP connector](https://glama.ai/mcp/connectors/io.github.brand-lc/findaiforwork/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brand-lc/findaiforwork)
+  🔓 - Search and compare AI tools for work from a curated, read-only directory.
 - [Firecrawl](https://firecrawl.dev) `https://mcp.firecrawl.dev/v2/mcp`
   [![Firecrawl MCP connector](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp)
   🔓 - Crawl, scrape, and extract structured data from websites.
