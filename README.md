@@ -1312,6 +1312,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Aggregate](https://theaggregate.ai/mcp) `https://theaggregate.ai/mcp`
   [![The Aggregate MCP connector](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate/badges/score.svg)](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate)
   🔓 - LLM rankings fitted across public benchmarks: leaderboard, model profiles, comparisons and source-linked scores.
+- [TestLens](https://testlens.bigfloppy.net) `https://testlens.bigfloppy.net/mcp`
+  [![TestLens MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.testlens/testlens/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.testlens/testlens)
+  🔓 - Mutation-tests Python code: your tests are run against small mutants; reports score and survivors. No signup.
 - [Toolbox](https://toolbox.allthepossibles.com) `https://toolbox.allthepossibles.com/mcp`
   [![Toolbox MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox)
   🔓 - Thirteen small deterministic tools for agent builders, from CLAUDE.md lint to JWT decoding.
