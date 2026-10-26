@@ -3387,6 +3387,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
+- [ClipSpeed](https://www.clipspeed.ai/mcp/) `https://api.clipspeed.ai/mcp`
+  [![ClipSpeed MCP connector](https://glama.ai/mcp/connectors/io.github.thestockgoatballs/clipspeed-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thestockgoatballs/clipspeed-mcp)
+  🔐 - Generate AI videos and images, build AI influencers, swap characters into clips and clip long videos into shorts.
 - [ClipUGC](https://clipugc.com) `https://clipugc.com/mcp`
   [![ClipUGC MCP connector](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc)
   🔐 - Make UGC videos for mobile apps with AI influencers who keep the same face.
