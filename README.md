@@ -2978,6 +2978,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [IMPACT](https://tools.gtmhelix.com/connectors/) `https://impact.gtmhelix.com/mcp`
+  [![IMPACT MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/impact-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/impact-mcp)
+  🔓 - Eight B2B positioning and messaging tools built on the IMPACT method.
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
