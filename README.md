@@ -1461,6 +1461,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Brazil's Correios for merchants: shipping quotes (frete), parcel tracking (rastreio) and labels (etiqueta).
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
+- [Nexscope](https://www.nexscope.ai/?co-from=punkpeye-remote-mcp) `https://api.nexscope.ai/mcp`
+  [![Nexscope MCP connector](https://glama.ai/mcp/connectors/io.github.nexscope/ecommerce/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nexscope/ecommerce)
+  🔓 - Amazon, TikTok Shop, Walmart, Temu, Shopee and 1688 product, keyword, review and competitor data.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
