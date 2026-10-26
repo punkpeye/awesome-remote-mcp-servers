@@ -1321,6 +1321,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolForte](https://toolforte.com/mcp) `https://toolforte.com/api/mcp`
   [![ToolForte MCP connector](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte)
   🔓 - IBAN/VAT/BSN checks, Dutch tax and dates, cron, regex, conversions and PDF or screenshot rendering.
+- [ToolSchema Forge](https://toolschema-forge.toolschemaforge.workers.dev/) `https://toolschema-forge.toolschemaforge.workers.dev/mcp`
+  [![ToolSchema Forge MCP connector](https://glama.ai/mcp/connectors/dev.workers.toolschemaforge.toolschema-forge/toolschema-forge/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.toolschemaforge.toolschema-forge/toolschema-forge)
+  🔓 - Convert, lint and generate LLM tool schemas across OpenAI, Anthropic, Gemini and MCP; free tier, then x402.
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
