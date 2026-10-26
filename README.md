@@ -911,6 +911,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [LiveCRM](https://livecrm.ai/mcp) `https://api.livecrm.ai/mcp`
+  [![LiveCRM MCP connector](https://glama.ai/mcp/connectors/ai.livecrm/livecrm/badges/score.svg)](https://glama.ai/mcp/connectors/ai.livecrm/livecrm)
+  🔐 - Find and merge duplicates, enrich, normalize, assign owners and flag job changes in Salesforce and HubSpot.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
