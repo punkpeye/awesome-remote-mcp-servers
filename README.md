@@ -621,6 +621,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish a live website from an agent in one tool call, expiring or permanent, with human review hooks.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Just Publish](https://justpublish.ai) `https://mcp.justpublish.ai/`
+  [![Just Publish MCP connector](https://glama.ai/mcp/connectors/ai.justpublish/just-publish/badges/score.svg)](https://glama.ai/mcp/connectors/ai.justpublish/just-publish)
+  🔐 - Publishes a website built with AI to a live URL.
 - [Lium](https://docs.lium.io/developers/mcp) `https://docs.lium.io/mcp`
   [![Lium MCP connector](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs)
   🔓 - Search and read the docs of Lium, a GPU rental marketplace: rent GPU pods by the second via CLI, SDK or REST API.
@@ -4105,6 +4108,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jsonify](https://jsonify.com) `https://factory.jsonify.com/mcp`
   [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
   🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
+- [Just Domain](https://justdomain.ai) `https://mcp.justdomain.ai/`
+  [![Just Domain MCP connector](https://glama.ai/mcp/connectors/ai.justdomain/just-domain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.justdomain/just-domain)
+  🔓 - Domain availability, both prices as full-term totals, and transfer eligibility. No account needed.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
