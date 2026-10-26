@@ -3175,6 +3175,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
   [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
   🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
+- [ScriptGrain](https://scriptgrain.com) `https://mcp.scriptgrain.com/mcp`
+  [![ScriptGrain MCP connector](https://glama.ai/mcp/connectors/com.scriptgrain.mcp/script-grain/badges/score.svg)](https://glama.ai/mcp/connectors/com.scriptgrain.mcp/script-grain)
+  🔐 - Builds a voice profile from your own writing, drafts in that voice and scores any text against it.
 - [SearcherLite](https://searcherlite.com) `https://searcherlite.com/api/mcp`
   [![SearcherLite MCP connector](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite)
   🔐 - Google keyword, domain, backlink and AI-visibility data, paid per lookup in credits with no subscription.
