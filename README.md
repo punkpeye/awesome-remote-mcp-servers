@@ -4040,6 +4040,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [Dipper](https://dipper-search.com) `https://dipper-search.com/mcp/free`
+  [![Dipper MCP connector](https://glama.ai/mcp/connectors/com.dipper-search/dipper/badges/score.svg)](https://glama.ai/mcp/connectors/com.dipper-search/dipper)
+  🔓 - Web search and page fetch as Markdown from a shared cache; keyless with an hourly limit, API key for more.
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
