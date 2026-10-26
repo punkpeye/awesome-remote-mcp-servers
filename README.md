@@ -2971,6 +2971,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Convertlyft](https://convertlyft.com/developers) `https://mcp.convertlyft.com/mcp`
   [![Convertlyft MCP connector](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft/badges/score.svg)](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft)
   🔓 - Web analytics that names the fix: funnels, replays, errors, speed and SEO. Free SEO scan; account tools use OAuth.
+- [CRAFT GTM](https://tools.gtmhelix.com/connectors/) `https://craft-gtm.gtmhelix.com/mcp`
+  [![CRAFT GTM MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-gtm-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-gtm-mcp)
+  🔓 - Eight go to market tools: product market fit, launch, retention, partners, crisis and competitive intelligence.
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
