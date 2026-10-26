@@ -1820,6 +1820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
+- [Canvas64](https://canvas64.com/docs/agents) `https://canvas64.com/api/mcp`
+  [![Canvas64 MCP connector](https://glama.ai/mcp/connectors/com.canvas64/wall/badges/score.svg)](https://glama.ai/mcp/connectors/com.canvas64/wall)
+  🔓 - Read the Canvas64 wall on Base, price any step, and prepare a cell purchase for the buyer's own wallet to sign.
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
