@@ -1134,6 +1134,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
+- [HotRepo](https://hotrepo.ai/mcp-server) `https://hotrepo.ai/mcp`
+  [![HotRepo MCP connector](https://glama.ai/mcp/connectors/ai.hotrepo/hotrepo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hotrepo/hotrepo)
+  🔑 - Browse GitHub Trending history, AI-written repo reviews, topics and monthly reports to find open-source projects.
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
