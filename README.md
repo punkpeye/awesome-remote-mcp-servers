@@ -2190,6 +2190,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
+- [Sell My Company Data](https://sellmycompanydata.com) `https://sellmycompanydata.com/mcp`
+  [![Sell My Company Data MCP connector](https://glama.ai/mcp/connectors/com.sellmycompanydata/valuation/badges/score.svg)](https://glama.ai/mcp/connectors/com.sellmycompanydata/valuation)
+  🔓 - Estimates a company's data licensing value from counts only, with an opt-in request for human review.
 - [Sentio Connect](https://connect.sentio.xyz) `https://connect.sentio.xyz/v1/mcp`
   [![Sentio Connect MCP connector](https://glama.ai/mcp/connectors/xyz.sentio/connect/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.sentio/connect)
   🔐 - Wallet balances, token prices, portfolio value, DeFi positions and holding history across EVM chains and Sui.
