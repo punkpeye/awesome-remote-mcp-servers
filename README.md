@@ -3756,6 +3756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GigNGo](https://gigngo.org/mcp-server) `https://gigngo.org/mcp`
   [![GigNGo MCP connector](https://glama.ai/mcp/connectors/org.gigngo/gigngo/badges/score.svg)](https://glama.ai/mcp/connectors/org.gigngo/gigngo)
   🔓 - Find US locals for home jobs and errands, watch videos of their real work, and draft a job post the person reviews.
+- [GISDB](https://gisdb.io) `https://gisdb.io/mcp`
+  [![GISDB MCP connector](https://glama.ai/mcp/connectors/io.github.mooshee/gisdb/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mooshee/gisdb)
+  🔓 - County property records, owner-name portfolios, geographic catalog discovery, saved lead searches, and CSV lead delivery.
 - [GlaziersEdge Knowledge](https://glazing-mcp.glazingkb.workers.dev/) `https://glazing-mcp.glazingkb.workers.dev/mcp`
   [![GlaziersEdge Knowledge MCP connector](https://glama.ai/mcp/connectors/io.github.shanethelion/glazing-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shanethelion/glazing-mcp)
   🔓 - US commercial glass and glazing reference: code topics, IGU performance data, glass and framing or-equals, budgets.
