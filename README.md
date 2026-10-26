@@ -4839,6 +4839,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Korea Nationwide Data MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp)
   🔓 - Korean tourist attractions in Korean and English, bus stops across 138 cities, and 30-year weather normals.
 
+- [Leave Hacker](https://leavehacker.app/mcp-server) `https://leavehacker.app/mcp`
+  [![Leave Hacker MCP connector](https://glama.ai/mcp/connectors/app.leavehacker/leave-hacker/badges/score.svg)](https://glama.ai/mcp/connectors/app.leavehacker/leave-hacker)
+  🔓 - Bank holidays, which days of leave to book around them for the most days off, year plans and cheap flights.
+
 - [MAQAMI Travel](https://maqami.co) `https://mcp.maqami.co/`
   [![MAQAMI Travel MCP connector](https://glama.ai/mcp/connectors/co.maqami.mcp/maqami-travel/badges/score.svg)](https://glama.ai/mcp/connectors/co.maqami.mcp/maqami-travel)
   🔓 - Search hotels and flights with live rates and hotel details, then send a secure checkout link on book.maqami.co.
