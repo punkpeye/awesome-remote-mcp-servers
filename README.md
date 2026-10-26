@@ -909,6 +909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DOS AI](https://dosai.pro/en) `https://dosai.pro/api/mcp`
   [![DOS AI MCP connector](https://glama.ai/mcp/connectors/pro.dosai/dos-ai/badges/score.svg)](https://glama.ai/mcp/connectors/pro.dosai/dos-ai)
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
+- [HighLevel Agency & Builder](https://ghlagencymcp.com) `https://ghlagencymcp.com/mcp`
+  [![HighLevel Agency & Builder MCP connector](https://glama.ai/mcp/connectors/io.github.mooshee/highlevel-agency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mooshee/highlevel-agency-mcp)
+  🔓 - GoHighLevel (GHL) agency and builder operations: sub-account snapshot diffs, funnel and website sync, custom domain DNS and SSL onboarding, workflows, IVRs, custom values, and LC Phone wallet governance.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
