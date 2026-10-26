@@ -3366,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [AIGE](https://aige.ws/mcp/) `https://aige.ws/mcp`
+  [![AIGE MCP connector](https://glama.ai/mcp/connectors/ws.aige/antix/badges/score.svg)](https://glama.ai/mcp/connectors/ws.aige/antix)
+  🔐 - Generate images and video with Kling, Veo, Seedance and Nano Banana, keeping one saved character in every shot.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
