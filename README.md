@@ -209,6 +209,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NovAI](https://aiapi-pro.com/mcp) `https://aiapi-pro.com/api/mcp`
   [![NovAI MCP connector](https://glama.ai/mcp/connectors/io.github.vvvvking/novai-prices/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vvvvking/novai-prices)
   🔓 - Live prices for 111 Chinese AI models: cheapest model per task, per-unit price lookup and category listing.
+- [Objective Trust](https://agentshare.dev/docs#objective-trust) `https://agentshare.dev/mcp/objective-trust`
+  [![Objective Trust MCP connector](https://glama.ai/mcp/connectors/dev.agentshare/objective-trust/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentshare/objective-trust)
+  🔑 - Ranks MCP endpoints by stored health and this key's outcomes before the caller pays.
 - [OceanToken](https://oceantoken.ai) `https://mcp.oceantoken.ai/mcp`
   [![OceanToken MCP connector](https://glama.ai/mcp/connectors/ai.oceantoken/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.oceantoken/mcp)
   🔐 - Search and price 480+ AI models, ask any of them, and generate images, video and speech on one prepaid balance.
