@@ -4986,6 +4986,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Carbon](https://www.carbondatasolutions.com/hire) `https://mcp.carbondatasolutions.com/mcp`
   [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon)
   🔐 - Hire data professionals from ChatGPT, Claude, or any MCP host. Post a role free.
+- [Crevio](https://crevio.co) `https://mcp.crevio.co/mcp`
+  [![Crevio MCP connector](https://glama.ai/mcp/connectors/co.crevio/crevio/badges/score.svg)](https://glama.ai/mcp/connectors/co.crevio/crevio)
+  🔐 - Delegate tasks to an AI agent that runs your small business, or run scripts against the Crevio API and 3,000+ apps.
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
