@@ -756,6 +756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
   [![SendFaxFast MCP connector](https://glama.ai/mcp/connectors/com.sendfaxfast/fax/badges/score.svg)](https://glama.ai/mcp/connectors/com.sendfaxfast/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to the US, Canada, Australia, New Zealand and 39 more countries.
+- [Sendfeather](https://sendfeather.com/docs/mcp) `https://sendfeather.com/api/mcp`
+  [![Sendfeather MCP connector](https://glama.ai/mcp/connectors/com.sendfeather/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sendfeather/mcp)
+  🔑 - Send transactional email, trace each message's delivery, see stats by mailbox provider and manage suppressions.
 - [Sending](https://sending.dev) `https://sending.dev/api/mcp`
   [![Sending MCP connector](https://glama.ai/mcp/connectors/dev.sending/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sending/mcp)
   🔐 - Email, WhatsApp and Telegram for agents: send, campaigns, automations, contacts, agent inboxes.
