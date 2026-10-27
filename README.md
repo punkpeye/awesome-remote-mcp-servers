@@ -1844,6 +1844,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CortexCloud](https://api.cortexcloud.org) `https://api.cortexcloud.org/mcp`
   [![CortexCloud MCP connector](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud)
   🔓 - Pay-per-call on-chain data: token balances, NFTs, tx history, wallet intel, token risk, whale alerts.
+- [contix herramientas](https://contix.es/mcp/) `https://api.contix.es/api/v1/mcp/herramientas`
+  [![contix herramientas MCP connector](https://glama.ai/mcp/connectors/es.contix/herramientas/badges/score.svg)](https://glama.ai/mcp/connectors/es.contix/herramientas)
+  🔓 - Free Spanish business checks: IBAN with bank and BIC, EU VAT number (VIES), Modelo 303 figures, AEAT filing dates.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
