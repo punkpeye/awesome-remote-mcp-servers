@@ -3801,6 +3801,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RemplirPDF](https://remplirpdf.fr/mcp) `https://remplirpdf.fr/api/mcp`
   [![RemplirPDF MCP connector](https://glama.ai/mcp/connectors/fr.remplirpdf/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/fr.remplirpdf/mcp-server)
   🔐 - French rental documents (leases, rent receipts, inventories, notices) filled and returned as PDFs.
+- [RentReboot](https://rentreboot.com) `https://rentreboot.com/api/mcp`
+  [![RentReboot MCP connector](https://glama.ai/mcp/connectors/io.github.imiraoui/rentreboot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.imiraoui/rentreboot)
+  🔓 🔐 - Public NYC rent data and guides; scoped OAuth for apartment alerts, saved searches, and Housing Lottery status.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
