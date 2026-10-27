@@ -3366,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [agent-media](https://agent-media.ai/claude) `https://api.agent-media.ai/mcp`
+  [![agent-media MCP connector](https://glama.ai/mcp/connectors/io.github.yuvalsuede/agent-media/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yuvalsuede/agent-media)
+  🔐 - AI short drama creator: make micro drama series with consistent casts from Claude, ChatGPT or Codex.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
