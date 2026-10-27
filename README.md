@@ -4650,6 +4650,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+- [0xinsider](https://0xinsider.com) `https://api.0xinsider.com/api/v1/mcp`
+  [![0xinsider MCP connector](https://glama.ai/mcp/connectors/io.github.0xinsider/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xinsider/mcp)
+  🔓 🔐 - Polymarket sports and esports analytics: wallet grades on settled P&L, both sides of every game, and large trades.
 - [Ball Ranks](https://ballranks.com) `https://ballranks.com/api/mcp`
   [![Ball Ranks MCP connector](https://glama.ai/mcp/connectors/io.github.Ollynov/ball-ranks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ollynov/ball-ranks)
   🔓 - NFL and NBA fantasy rankings and player projections, with weekly NFL and season-long data.
