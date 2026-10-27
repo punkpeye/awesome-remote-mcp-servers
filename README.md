@@ -3618,6 +3618,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Teppi](https://teppi.xyz) `https://api.teppi.xyz/mcp`
   [![Teppi MCP connector](https://glama.ai/mcp/connectors/xyz.teppi/teppi/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.teppi/teppi)
   🔓 - Before paying an x402 endpoint or MCP server, read what paying it delivered: checked, signed, reproducible.
+- [Trickl](https://trickl.app) `https://api.trickl.app/mcp/dev`
+-   [![Trickl MCP connector](https://glama.ai/mcp/connectors/app.trickl/trickl/badges/score.svg)](https://glama.ai/mcp/connectors/app.trickl/trickl)
+-     🔓 - Gives AI coding assistants a setup plan, full docs, and sandbox tools to test round-up purchases end to end.
 - [Veyra](https://veyra.money) `https://veyra.money/api/mcp`
   [![Veyra MCP connector](https://glama.ai/mcp/connectors/money.veyra/veyra/badges/score.svg)](https://glama.ai/mcp/connectors/money.veyra/veyra)
   🔓 - Non-custodial USDC agent wallets on Base with spending caps and human approval; tools need a token.
