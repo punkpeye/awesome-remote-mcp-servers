@@ -2883,6 +2883,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Adrails MCP connector](https://glama.ai/mcp/connectors/ai.adrails/adrails/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adrails/adrails)
   🔐 - Meta and Google Ads for Shopify stores: store revenue next to ad spend, and new campaigns prepared paused for approval.
 
+- [Ads MCP](https://adsmcp.dev) `https://adsmcp.dev/mcp`
+  🔐 - Read-only Google Ads: finds search terms that spend without converting and builds the negative keyword file you upload yourself.
+
 - [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
   [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
