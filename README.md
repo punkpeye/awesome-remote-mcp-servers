@@ -203,6 +203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [minia2a](https://minia2a.uk) `https://minia2a.uk/mcp`
   [![minia2a MCP connector](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp)
   🔓 - 1,600+ pay-per-call APIs — crypto data, web scraping, AI inference, token security — USDC on Base via x402.
+- [Neblex Integration Fabric](https://www.neblex.com/integration-fabric/docs/guide/mcp) `https://if.neblex.com/mcp`
+  [![Neblex Integration Fabric MCP connector](https://glama.ai/mcp/connectors/com.neblex.if/neblex/badges/score.svg)](https://glama.ai/mcp/connectors/com.neblex.if/neblex)
+  🔐 - Build, test and run integrations, workflows and AI agents across 300+ apps, with approval before production.
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
