@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [Feeling Search](https://xiximm.cloud) `https://xiximm.cloud/mcp`
+  [![Feeling Search MCP connector](https://glama.ai/mcp/connectors/cloud.xiximm/feeling-search/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.xiximm/feeling-search)
+  🔓 - Turn one plain-language feeling into the best-matching visual art styles, each with a definition, an image-generation prompt and reference images (762 feeling words to 598 named styles).
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
