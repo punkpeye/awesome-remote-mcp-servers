@@ -3850,6 +3850,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Quibbly](https://quibbly.co/linkedin-mcp) `https://server.quibbly.co/mcp`
   [![Quibbly MCP connector](https://glama.ai/mcp/connectors/co.quibbly/linkedin-inbox/badges/score.svg)](https://glama.ai/mcp/connectors/co.quibbly/linkedin-inbox)
   🔐 - Read your LinkedIn inbox, see who watched your videos, set follow-ups and draft replies you send yourself.
+- [Reachkit](https://reachkit.ai/ai-assistants) `https://reachkit.ai/mcp`
+  [![Reachkit MCP connector](https://glama.ai/mcp/connectors/ai.reachkit/reachkit/badges/score.svg)](https://glama.ai/mcp/connectors/ai.reachkit/reachkit)
+  🔐 - Cold email from your AI: find B2B leads with verified emails, write sequences, launch campaigns and answer replies.
 - [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
   [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
   🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
