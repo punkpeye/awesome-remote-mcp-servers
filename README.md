@@ -1300,6 +1300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synap](https://synap.linkrra.com) `https://pool.linkrra.com/mcp`
   [![Synap MCP connector](https://glama.ai/mcp/connectors/com.linkrra/synap/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkrra/synap)
   🔓 - OpenAI-compatible inference on open models: list models and prices, estimate cost, run chat billed per token.
+- [Systra Tools](https://systra.tools) `https://systra.tools/api/mcp`
+  [![Systra Tools MCP connector](https://glama.ai/mcp/connectors/tools.systra/systra-tools/badges/score.svg)](https://glama.ai/mcp/connectors/tools.systra/systra-tools)
+  🔓 - Search and fetch animated React and Tailwind CSS sections and page recipes; the full library needs a Premium key.
 - [TechFabric](https://www.techfabric.com) `https://www.techfabric.com/mcp`
   [![TechFabric MCP connector](https://glama.ai/mcp/connectors/com.techfabric/techfabric/badges/score.svg)](https://glama.ai/mcp/connectors/com.techfabric/techfabric)
   🔓 - Search and read TechFabric's Databricks and AI content: blog posts with FAQs, services, case studies.
