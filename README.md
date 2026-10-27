@@ -762,6 +762,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sessy](https://sessy.do/docs/mcp) `https://api.sessy.do/mcp`
   [![Sessy MCP connector](https://glama.ai/mcp/connectors/io.github.marckohlbrugge/sessy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marckohlbrugge/sessy)
   🔐 - Read-only Amazon SES observability: search events, inspect bounces and complaints, and pull delivery stats.
+- [Shipmail](https://shipmail.to) `https://shipmail.to/api/mcp`
+  [![Shipmail MCP connector](https://glama.ai/mcp/connectors/io.github.shipmail-to/shipmail-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shipmail-to/shipmail-mcp)
+  🔐 - Business email on your own domain: read, search, send and reply, plus domains, mailboxes, calendars and newsletters.
 - [Signatoro](https://signatoro.com) `https://signatoro.com/mcp`
   [![Signatoro MCP connector](https://glama.ai/mcp/connectors/com.signatoro/signatoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.signatoro/signatoro)
   🔓 - Fetch the saved email signature people and their AI agents append to every email they send or draft.
