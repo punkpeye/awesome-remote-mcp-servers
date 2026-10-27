@@ -1031,6 +1031,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docs MD](https://docs-md.com/agents) `https://docs-md.com/api/mcp`
   [![Docs MD MCP connector](https://glama.ai/mcp/connectors/com.docs-md/markdown-share/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs-md/markdown-share)
   🔓 - Publish markdown as a rendered link with an expiry, read shares back as markdown, update or delete them.
+- [Entry](https://entry.fyi) `https://entry.fyi/mcp`
+  [![Entry MCP connector](https://glama.ai/mcp/connectors/fyi.entry/entry/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.entry/entry)
+  🔐 - Read your Entry profile and drafts, write drafts, propose profile changes and request publication.
 - [Fantasma](https://www.fantasma.io/mcp) `https://www.fantasma.io/api/mcp`
   [![Fantasma MCP connector](https://glama.ai/mcp/connectors/io.fantasma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fantasma/mcp)
   🔐 - Design Ghost themes from chat: pages, styles, patterns and previews, then publish to your Ghost site.
