@@ -577,7 +577,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
-
+- [Aloof](https://www.aloof.si/docs/mcp?utm_source=awesome_remote_mcp&utm_medium=referral&utm_campaign=agent_discovery_w44) `https://mcp.aloof.si/mcp`
+  [![Aloof MCP connector](https://glama.ai/mcp/connectors/si.aloof.mcp/aloof/badges/score.svg)](https://glama.ai/mcp/connectors/si.aloof.mcp/aloof)
+  🔐 - Deploy, diagnose, scale and roll back backends, Postgres and domains, with read/write/admin scopes.
 - [AgentsPodium Hosting](https://hosting.defispace.com/docs/mcp.html) `https://mcp.agentspodium.com/mcp`
   [![AgentsPodium Hosting MCP connector](https://glama.ai/mcp/connectors/com.agentspodium/hosting/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentspodium/hosting)
   🔓 - Create, pay for and manage hosted AI agent pods (Hermes, OpenClaw, n8n); account tools need a key.
