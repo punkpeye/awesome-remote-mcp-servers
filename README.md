@@ -1266,6 +1266,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology for agents: natal chart, transits, synastry and a birth-place resolver (coordinates + historically correct UTC offset); sign in with a Stellara account, `sk_stellara_` API keys work as bearer tokens too.
+- [Totally Tarot Calculators](https://totallytarot.net) `https://totallytarot.net/mcp`
+  [![Totally Tarot Calculators MCP connector](https://glama.ai/mcp/connectors/net.totallytarot/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/net.totallytarot/calculators)
+  🔓 - Natal charts, transits, eclipses, Vedic panchang, Chinese four pillars, I Ching text, Maya calendar, tarot birth cards.
 - [Tseha](https://tseha.io) `https://tseha.io/mcp`
   [![Tseha MCP connector](https://glama.ai/mcp/connectors/io.tseha/tseha/badges/score.svg)](https://glama.ai/mcp/connectors/io.tseha/tseha)
   🔓 - Ethiopian calendar and date conversion.
