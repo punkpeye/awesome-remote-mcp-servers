@@ -3381,6 +3381,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
+- [Cadabra AI](https://www.livinginmovie.com/en/guides/cadabra-mcp) `https://mcp.livinginmovie.com/mcp`
+  [![Cadabra AI MCP connector](https://glama.ai/mcp/connectors/io.github.MeitalSela/cadabra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MeitalSela/cadabra)
+  🔐 - Make AI video, images, voice and music, and edit them into finished films, with the price shown first.
 - [Cast](https://cast.katechon.technology/agents) `https://cast.katechon.technology/mcp`
   [![Cast MCP connector](https://glama.ai/mcp/connectors/technology.katechon/cast/badges/score.svg)](https://glama.ai/mcp/connectors/technology.katechon/cast)
   🔓 - Turn one line into a one-tap link for a short vertical AI character video; first video free.
