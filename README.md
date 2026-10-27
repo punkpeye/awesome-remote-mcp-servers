@@ -2611,6 +2611,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Detextit](https://www.detextit.com) `https://www.detextit.com/api/mcp`
   [![Detextit MCP connector](https://glama.ai/mcp/connectors/com.detextit.www/detextit/badges/score.svg)](https://glama.ai/mcp/connectors/com.detextit.www/detextit)
   🔓 - Read-only shared agent context with sources and conditions, plus plans for recovering from task constraints.
+- [Dexi](https://dexi.net/mcp) `https://mcp.dexi.net/mcp`
+  [![Dexi MCP connector](https://glama.ai/mcp/connectors/net.dexi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.dexi/mcp)
+  🔐 - Search, read, create and review a user's notes, bookmarks and saved articles as agent memory.
 - [Dexio](https://dexio.wiki) `https://app.dexio.wiki/mcp`
   [![Dexio MCP connector](https://glama.ai/mcp/connectors/wiki.dexio/dexio/badges/score.svg)](https://glama.ai/mcp/connectors/wiki.dexio/dexio)
   🔐 - One wiki all your agents read and write over MCP, with every version kept and the agent behind each change recorded.
