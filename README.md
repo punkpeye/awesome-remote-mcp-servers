@@ -4766,6 +4766,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AirFreightPrice](https://airfreightprice.com) `https://mcp.airfreightprice.com/mcp`
   [![AirFreightPrice MCP connector](https://glama.ai/mcp/connectors/com.airfreightprice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.airfreightprice/mcp)
   🔓 - Air cargo routes, airports and carriers with dated Freightos Air Index rates; submit quote requests.
+- [Airport Lounge List](https://airportloungelist.com) `https://mcp.airportloungelist.com/mcp`
+  [![Airport Lounge List MCP connector](https://glama.ai/mcp/connectors/com.airportloungelist.mcp/lounges/badges/score.svg)](https://glama.ai/mcp/connectors/com.airportloungelist.mcp/lounges)
+  🔐 - Search 8,500+ airport lounges and check access by card or membership.
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights via Israeli travel app Alice, with English and Hebrew results.
