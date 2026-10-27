@@ -4784,6 +4784,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [China Footnotes](https://chinafootnotes.com) `https://chinafootnotes.com/mcp`
   [![China Footnotes MCP connector](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes)
   🔓 - Sourced, dated travel facts for first-time visitors to China: hours, tickets, booking and passport notes.
+- [CruiseHops](https://cruisehops.com) `https://cruisehops.com/mcp`
+  [![CruiseHops MCP connector](https://glama.ai/mcp/connectors/com.cruisehops/cruisehops/badges/score.svg)](https://glama.ai/mcp/connectors/com.cruisehops/cruisehops)
+  🔓 - Search Carnival and Royal Caribbean cruises, compare offers and price history, and find Viator port experiences.
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
