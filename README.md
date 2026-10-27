@@ -4262,6 +4262,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Theyond](https://theyond.com) `https://theyond.com/mcp`
   [![Theyond MCP connector](https://glama.ai/mcp/connectors/com.theyond/theyond/badges/score.svg)](https://glama.ai/mcp/connectors/com.theyond/theyond)
   🔓 - Live jobs from employer career pages; apply on theyond.com.
+- [TinyToolbox](https://tinytoolbox.bigfloppy.net) `https://tinytoolbox.bigfloppy.net/mcp`
+  [![TinyToolbox MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.tinytoolbox/tinytoolbox/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.tinytoolbox/tinytoolbox)
+  🔓 - Tiny utility server: extract PDF text, shorten links and mint trial API keys for your own tools.
 - [TrustyData](https://trustydata.fr/usecases/mcp-qualite-donnees) `https://mcp.trustydata.app/mcp`
   [![TrustyData MCP connector](https://glama.ai/mcp/connectors/app.trustydata/trustydata/badges/score.svg)](https://glama.ai/mcp/connectors/app.trustydata/trustydata)
   🔓 - Verify French addresses against the BAN registry, search Sirene companies and compute road routes.
