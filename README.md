@@ -3478,6 +3478,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
+- [PrismPoster Studio](https://www.prismposter.com/mcp) `https://www.prismposter.com/api/mcp/studio`
+  [![PrismPoster Studio MCP connector](https://glama.ai/mcp/connectors/com.prismposter/studio/badges/score.svg)](https://glama.ai/mcp/connectors/com.prismposter/studio)
+  🔐 - Make videos with sound, images, characters, Remake and music from chat, using your own PrismPoster account.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
   [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
   🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
@@ -4581,6 +4584,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostWire](https://postwire.io/mcp/) `https://postwire.io/api/mcp`
   [![PostWire MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp)
   🔓 - Write a native post per network from one idea and publish it to TikTok, Instagram, YouTube and more; tools need OAuth.
+- [PrismPoster Creator Tools](https://www.prismposter.com/mcp) `https://www.prismposter.com/api/mcp`
+  [![PrismPoster Creator Tools MCP connector](https://glama.ai/mcp/connectors/com.prismposter/creator-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.prismposter/creator-tools)
+  🔓 - Exact platform sizes, safe areas, aspect ratios, bitrate and tempo estimates, and subtitle conversion.
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
