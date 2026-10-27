@@ -1011,6 +1011,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
   [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
   🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
+- [BANKSapi Docs](https://docs.banksapi.de/guide/docs-mcp.html) `https://banksapi.io/docs-mcp`
+  [![BANKSapi Docs MCP connector](https://glama.ai/mcp/connectors/io.banksapi/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.banksapi/docs)
+  🔓 - Search the BANKSapi Open Banking docs and fetch exact OpenAPI operations for integration code.
 - [Benchline](https://tools.fabwaseem.com/mcp/guide) `https://tools.fabwaseem.com/mcp`
   [![Benchline MCP connector](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline/badges/score.svg)](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline)
   🔓 - 72 dev tools: JSON, PDF, images, OCR, JWT, hashes, DNS, TLS, headers, llms.txt and OG images.
