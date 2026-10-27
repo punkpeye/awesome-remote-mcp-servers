@@ -3729,6 +3729,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
+- [Close Knit](https://github.com/bmsdave/close-knit-mcp) `https://getcloseknit.com/mcp`
+  [![Close Knit MCP connector](https://glama.ai/mcp/connectors/com.getcloseknit/close-knit/badges/score.svg)](https://glama.ai/mcp/connectors/com.getcloseknit/close-knit)
+  🔓 - London areas and homes from official open data: prices, rents, crime, schools, flood, commute, each with sources.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
