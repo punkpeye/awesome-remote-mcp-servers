@@ -1908,6 +1908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FactIQ](https://www.factiq.com) `https://api.factiq.com/mcp`
   [![FactIQ MCP connector](https://glama.ai/mcp/connectors/com.factiq.api/factiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.factiq.api/factiq)
   🔐 - Official economic statistics, company filings, earnings calls and market data, with sources cited.
+- [Factline KYC](https://factline.dev/kyb) `https://factline.dev/mcp/kyc`
+  [![Factline KYC MCP connector](https://glama.ai/mcp/connectors/io.github.snefhew/factline-kyc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.snefhew/factline-kyc)
+  🔓 - EU company checks, sanctions and PEP, supplier invoice checks before paying, IBAN and VAT; free x402 pay guard.
 - [Factur-X by Orvel](https://facturx.orvel.dev/docs/mcp/) `https://facturx.orvel.dev/mcp`
   [![Factur-X by Orvel MCP connector](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeBorgneAntoine/facturx)
   🔓 - Generate, validate and read Factur-X, CII and UBL invoices; free fixed demo, paid document processing.
@@ -3753,6 +3756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [Factline Netherlands](https://factline.dev/agents) `https://factline.dev/mcp/nl`
+  [![Factline Netherlands MCP connector](https://glama.ai/mcp/connectors/io.github.snefhew/factline-nl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.snefhew/factline-nl)
+  🔓 - Dutch address, neighbourhood and school facts from government open data, in English, with sources to cite.
 - [GigNGo](https://gigngo.org/mcp-server) `https://gigngo.org/mcp`
   [![GigNGo MCP connector](https://glama.ai/mcp/connectors/org.gigngo/gigngo/badges/score.svg)](https://glama.ai/mcp/connectors/org.gigngo/gigngo)
   🔓 - Find US locals for home jobs and errands, watch videos of their real work, and draft a job post the person reviews.
