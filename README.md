@@ -2986,6 +2986,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [meraGEO](https://merageo.com) `https://merageo.com/api/mcp/agent`
+  [![meraGEO MCP connector](https://glama.ai/mcp/connectors/com.merageo/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.merageo/ai-visibility)
+  🔐 - Check how visible a website is in ChatGPT, Claude and Gemini answers, and start a new AI visibility scan.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
