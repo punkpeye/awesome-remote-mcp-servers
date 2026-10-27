@@ -4105,6 +4105,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jsonify](https://jsonify.com) `https://factory.jsonify.com/mcp`
   [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
   🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
+- [Landed](https://landed.jobs) `https://mcp.landed.jobs/mcp`
+  [![Landed MCP connector](https://glama.ai/mcp/connectors/io.github.landedjobs/landed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.landedjobs/landed)
+  🔓 - Search AI and tech jobs ranked against a role brief, read application forms, and fetch interview prep.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
