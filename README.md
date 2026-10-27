@@ -2370,6 +2370,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [YABA](https://yaba.day) `https://app.yaba.day/mcp`
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
   🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
+- [Yield.xyz](https://docs.yield.xyz/documentation/ai-agents/mcp-server) `https://mcp.yield.xyz/mcp`
+  [![Yield.xyz MCP connector](https://glama.ai/mcp/connectors/xyz.yield.mcp/yieldxyz-agent-kit/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.yield.mcp/yieldxyz-agent-kit)
+  🔓 - Discover, enter, exit and track 4,000+ DeFi, lending, RWA and staking yields across 85+ networks via one API.
 
 - [Zovo Price Tracker](https://mcp.zovo.one/s/price-tracker) `https://mcp.zovo.one/mcp/price-tracker`
   [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch)
