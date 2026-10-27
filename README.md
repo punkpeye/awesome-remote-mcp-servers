@@ -3565,7 +3565,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Write, schedule and analyze LinkedIn posts, find inspiration, comment, like and connect via Taplio.
 - [TRYIT](https://inctryit.com/en/mcp) `https://inctryit.com/mcp`
   [![TRYIT MCP connector](https://glama.ai/mcp/connectors/com.inctryit/tryit/badges/score.svg)](https://glama.ai/mcp/connectors/com.inctryit/tryit)
-  🔐 - Short-form trend research: viral Shorts, Reels and TikTok by topic and country, rising keywords and creators, YouTube channel breakdowns and long-running Meta ads.
+  🔐 - Short-form trend research: viral Shorts, Reels and TikTok by country, rising keywords, channel breakdowns and Meta ads.
 - [TubeGrade](https://www.tubegrade.com/mcp/) `https://api.tubegrade.com/mcp`
   [![TubeGrade MCP connector](https://glama.ai/mcp/connectors/com.tubegrade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tubegrade/mcp)
   🔐 - YouTube research: channel and video stats, transcripts, outlier videos, viral title formats and competitor tracking.
