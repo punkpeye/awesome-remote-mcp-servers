@@ -3601,6 +3601,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
   [![Pink Agentic AI Payments MCP connector](https://glama.ai/mcp/connectors/com.pinkwallet/agentic-payments-sandbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.pinkwallet/agentic-payments-sandbox)
   🔐 - Approval layer for AI agent payments: per-agent budgets and rules allow, ask a human, or block; test-money sandbox.
+- [RevClamp](https://revclamp.com/mcp) `https://api.revclamp.com/api/mcp`
+  [![RevClamp MCP connector](https://glama.ai/mcp/connectors/com.revclamp.api/rev-clamp-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.revclamp.api/rev-clamp-mcp-server)
+  🔓 - B2B revenue protection, Stripe `2025-03-31.basil` entitlement auditing, Visa CE 3.0 dispute staging, and EU-VAT VIES validation; stateless sandbox works without a key.
 - [send21](https://send21.io) `https://send21.io/mcp`
   [![send21 MCP connector](https://glama.ai/mcp/connectors/io.github.send21io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.send21io/mcp)
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
