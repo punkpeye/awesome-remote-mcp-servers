@@ -1167,6 +1167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
+- [MBEstudio](https://vectorstreamsystems.com/agents) `https://studio.vectorstreamsystems.com/mcp`
+  [![MBEstudio MCP connector](https://glama.ai/mcp/connectors/com.vectorstreamsystems/mbestudio/badges/score.svg)](https://glama.ai/mcp/connectors/com.vectorstreamsystems/mbestudio)
+  🔐 - Generate, verify, simulate and trade-study SysML v2 system models from a spec; paid jobs show a cost cap first.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
