@@ -715,6 +715,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Groundmail](https://groundmail.dev) `https://mcp.groundmail.dev/mcp`
   [![Groundmail MCP connector](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail)
   🔐 - Send transactional email, check delivery, and set up sending domains, templates and webhooks.
+- [HalloFelix von InsurMagic](https://www.hallofelix.de) `https://app.hallofelix.de/api/mcp`
+  [![HalloFelix von InsurMagic MCP connector](https://glama.ai/mcp/connectors/io.github.timgutberlet/hallofelix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.timgutberlet/hallofelix)
+  🔐 - AI phone and WhatsApp assistant for insurance brokers: calls, transcripts, customers, campaigns and chats.
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
