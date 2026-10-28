@@ -3613,6 +3613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [disclosedby](https://disclosedby.com) `https://disclosedby.com/api/mcp`
   [![disclosedby MCP connector](https://glama.ai/mcp/connectors/com.disclosedby/record/badges/score.svg)](https://glama.ai/mcp/connectors/com.disclosedby/record)
   🔓 - Dated quotes of GDPR art. 28 subprocessor lists: who lists whom, what changed, and what a list said on a date.
+- [Docket Room](https://docketroom.ai/connect) `https://docketroom.ai/api/mcp`
+  [![Docket Room MCP connector](https://glama.ai/mcp/connectors/io.github.makinglyai/docket-room/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makinglyai/docket-room)
+  🔐 - Bills, hearings, votes and legislators for all 50 US states, DC and Congress, from official sources.
 - [DutyKit](https://dutykit.dev) `https://dutykit.dev/mcp`
   [![DutyKit MCP connector](https://glama.ai/mcp/connectors/io.github.renschrder-stack/dutykit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.renschrder-stack/dutykit)
   🔓 - EU business duties for DE, LU and EU: legal obligations with sources, plus pre-checks for invoices and marketing.
