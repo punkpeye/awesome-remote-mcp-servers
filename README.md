@@ -2934,6 +2934,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [Atlas Data - Ad Library, Jobs & Trends](https://getatlasdata.com) `https://mcp.apify.com/?tools=atlasdata/google-ads-transparency-scraper-reliable,atlasdata/facebook-ad-library-scraper-reliable,atlasdata/linkedin-ad-library-scraper-reliable,atlasdata/tiktok-ad-library-scraper-reliable,atlasdata/indeed-jobs-scraper-reliable,atlasdata/google-jobs-scraper-reliable,atlasdata/glassdoor-jobs-scraper-reliable,atlasdata/google-trends-scraper-reliable`
+  [![Atlas Data - Ad Library, Jobs & Trends MCP connector](https://glama.ai/mcp/connectors/io.github.AtlasDataDenmark/atlas-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AtlasDataDenmark/atlas-data)
+  🔐 - Competitor ads from Google, Meta, LinkedIn and TikTok ad libraries, plus Indeed, Google Jobs, Glassdoor and Trends data.
+
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
