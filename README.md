@@ -931,6 +931,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
 - [Convex](https://convex.dev) `https://mcp.convex.dev/mcp`
   🔓 - Query and manage Convex deployments, tables, and functions.
+- [Dadeland](https://docs.dadeland.ir/space/mcp-server) `https://api.dadeland.ir/mcp`
+  [![Dadeland MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/ir.dadeland.api/dadeland/badges/score.svg)](https://glama.ai/mcp/connectors/ir.dadeland.api/dadeland)
+  🔐 - Connect AI agents to Dadeland Cloud Data Warehouse and BI: schema introspection, data modeling, analytical queries, and Reverse ETL.
 - [LakehouseBox](https://lakehousebox.com/docs/mcp/) `https://mcp.lakehousebox.com/mcp`
   [![LakehouseBox MCP connector](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox/badges/score.svg)](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox)
   🔐 - Query and write Apache Iceberg tables hosted in Europe, and open public datasets, with DuckDB SQL.
