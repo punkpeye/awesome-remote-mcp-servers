@@ -739,6 +739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
   [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
   🔓 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
+- [PieterPost](https://pieterpost.com/api/docs/mcp/) `https://pieterpost.com/mcp/setup/`
+  [![PieterPost MCP connector](https://glama.ai/mcp/connectors/io.github.pieterpost-com/pieterpost-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pieterpost-com/pieterpost-mcp)
+  🔐 - Prepare, price, review, and send physical letters and postcards, upload files, and check postal status.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
