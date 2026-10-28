@@ -4953,6 +4953,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏢 <a name="workplace--productivity"></a>Workplace & Productivity
 
+- [3Q Tools](https://getwold.com) `https://getwold.com/mcp`
+  [![3Q PDF MCP connector](https://glama.ai/mcp/connectors/com.getwold/3q-pdf/badges/score.svg)](https://glama.ai/mcp/connectors/com.getwold/3q-pdf)
+  🔓 - Two buy-once desktop tools with a direct checkout link each: a Windows PDF utility (36 offline commands) and 8 auto-calculating Excel templates; no subscription.
 - [Account Executive Jobs](https://accountexecutivejobs.com) `https://mcp.accountexecutivejobs.com/mcp`
   [![Account Executive Jobs MCP connector](https://glama.ai/mcp/connectors/com.accountexecutivejobs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.accountexecutivejobs/mcp)
   🔐 - Search sales and account executive jobs and apply, or manage your company's job posts and applicants.
