@@ -4983,9 +4983,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
-- [Carbon](https://www.carbondatasolutions.com/hire) `https://mcp.carbondatasolutions.com/mcp`
-  [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon)
-  🔐 - Hire data professionals from ChatGPT, Claude, or any MCP host. Post a role free.
+- [Carbon](https://www.carbondatasolutions.com/mcp) `https://mcp.carbondatasolutions.com/mcp`
+  [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.CarbonDataSolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CarbonDataSolutions/carbon)
+  🔐 - Hire skills-assessed data professionals from any MCP host. Post your role free.
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
