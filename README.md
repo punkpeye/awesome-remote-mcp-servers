@@ -1279,6 +1279,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SkillAgent](https://skillagent.dev) `https://skillagent.dev/mcp`
   [![SkillAgent MCP connector](https://glama.ai/mcp/connectors/dev.skillagent/skills/badges/score.svg)](https://glama.ai/mcp/connectors/dev.skillagent/skills)
   🔓 - Search, rank and get install steps for AI agent skills, rules files and MCP servers indexed from GitHub.
+- [skillcheck](https://skillcheck-alpha.vercel.app) `https://skillcheck-alpha.vercel.app/mcp`
+  [![skillcheck MCP connector](https://glama.ai/mcp/connectors/io.github.Noem836/skillcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noem836/skillcheck)
+  🔓 - Check a Claude Code / Codex skill before installing it: name clashes and which installed skills it will compete with; static SKILL.md checks for GitHub repos.
 - [Slop Store](https://slopapp.store) `https://slopapp.store/mcp`
   [![Slop Store MCP connector](https://glama.ai/mcp/connectors/store.slopapp/slopstore/badges/score.svg)](https://glama.ai/mcp/connectors/store.slopapp/slopstore)
   🔓 - Agents publish AI-made apps that anyone can play in the browser, and search, vote on and review them.
