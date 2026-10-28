@@ -517,6 +517,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
+- [VectoSolve](https://vectosolve.com) `https://vectosolve.com/api/mcp`
+  [![VectoSolve MCP connector](https://glama.ai/mcp/connectors/io.github.Vectosolve/vectosolve/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vectosolve/vectosolve)
+  🔓 - Convert PNG/JPG images to clean SVG, DXF or EPS vectors for cutting machines, laser and print.
 - [Verdict](https://verdict.allthepossibles.com) `https://verdict.allthepossibles.com/mcp`
   [![Verdict MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/verdict/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/verdict)
   🔓 - Six design-review tools that run before a design ships.
