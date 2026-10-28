@@ -3596,6 +3596,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
+- [PayCheck](https://paycheck.bigfloppy.net) `https://paycheck.bigfloppy.net/mcp`
+  [![PayCheck MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.paycheck/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.paycheck/paycheck)
+  🔓 - Verify USDC payments on Base mainnet before an agent acts: confirm a transaction paid a wallet, read balances, decode transfers; free, no key.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
