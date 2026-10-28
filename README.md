@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nerdit](https://nerdit.ai/?utm_source=awesome-remote-mcp-servers) `https://mcp.nerdit.ai/mcp`
   [![Nerdit MCP connector](https://glama.ai/mcp/connectors/ai.nerdit/nerdit/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nerdit/nerdit)
   🔐 - Deploy apps, databases and local AI models to your own machines, read logs, set variables and share apps.
+- [Ownkube](https://ownkube.io/agents) `https://app.ownkube.io/api/mcp`
+  [![Ownkube MCP connector](https://glama.ai/mcp/connectors/io.ownkube/ownkube/badges/score.svg)](https://glama.ai/mcp/connectors/io.ownkube/ownkube)
+  🔐 - Deploy apps, Postgres and Valkey from GitHub or the Marketplace, then read logs, metrics and deployment status.
 - [Pethost](https://pethost.dev) `https://mcp.pethost.dev/mcp`
   [![Pethost MCP connector](https://glama.ai/mcp/connectors/dev.pethost/pethost/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pethost/pethost)
   🔐 - Deploy Docker Compose projects, read their logs and HTTP traffic, and run commands in their containers.
