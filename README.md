@@ -3853,6 +3853,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
   [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
   🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
+- [Reqbeat](https://reqbeat.com/mcp/) `https://mcp.reqbeat.com/mcp`
+  [![Reqbeat MCP connector](https://glama.ai/mcp/connectors/com.reqbeat/hiring-signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.reqbeat/hiring-signals)
+  🔓 - Hiring signals you subscribe to: find companies hiring for a role and geo, qualify them, and watch them for new reqs pushed to a webhook.
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
