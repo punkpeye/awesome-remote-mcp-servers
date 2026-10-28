@@ -3052,6 +3052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Jepto MCP connector](https://glama.ai/mcp/connectors/com.jepto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.jepto/mcp)
   🔐 - Query live Google Ads, GA4, Search Console, Meta Ads and Google Business Profile data, and manage KPIs and budgets.
 
+- [Lasso](https://getlasso.co/mcp) `https://lasso.link/mcp`
+  [![Lasso MCP connector](https://glama.ai/mcp/connectors/co.getlasso/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.getlasso/mcp)
+  🔑 - Find unpaid Amazon links, dry-run higher-rate hops, and report clicks for one site.
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
