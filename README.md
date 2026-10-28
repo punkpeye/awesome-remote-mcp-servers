@@ -1429,6 +1429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [GenesisPay Catalog](https://genesispay.finance/docs/mcp#catalog-connector) `https://catalog.genesispay.finance/mcp/catalog`
+  [![GenesisPay Catalog MCP connector](https://glama.ai/mcp/connectors/finance.genesispay/genesispay-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/finance.genesispay/genesispay-catalog)
+  🔓 - Search products and shops listed on GenesisPay and read verified-purchase reviews; read-only, cannot pay.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
