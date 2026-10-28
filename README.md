@@ -1643,6 +1643,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
   [![Powietrze PL (powietrze-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp)
   🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
+- [ROFilter](https://rofilter.cn?src=awesome-remote) `https://rofilter.cn/mcp`
+  🔑 - Reverse osmosis membrane system design: feed pressure, permeate TDS, energy use, flux distribution and per-stage results. 733 membrane elements across 8 manufacturers, plus LSI/CCPP scaling analysis.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
