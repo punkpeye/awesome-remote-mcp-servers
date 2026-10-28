@@ -1505,6 +1505,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [Shopify Store Catalog](https://apify.com/mutualistic_housing/shopify-store-catalog-mcp) `https://mutualistic-housing--shopify-store-catalog-mcp.apify.actor/mcp`
+  [![Shopify Store Catalog MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/shopify-store-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/shopify-store-catalog-mcp)
+  🔑 - Public Shopify store catalogs: products, variants, collections and predictive search.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
@@ -2187,6 +2190,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scrapling x402 Data Store](https://scraplingdata.xyz) `https://scraplingdata.xyz/mcp`
   [![Scrapling x402 Data Store MCP connector](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store)
   🔓 - Crypto prices, DeFi TVL and yields, Polymarket odds, token risk and web scraping; pay per call in USDC via x402.
+- [SEC EDGAR Filings](https://apify.com/mutualistic_housing/sec-edgar-filings-mcp) `https://mutualistic-housing--sec-edgar-filings-mcp.apify.actor/mcp`
+  [![SEC EDGAR Filings MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/sec-edgar-filings-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/sec-edgar-filings-mcp)
+  🔑 - SEC EDGAR filings (10-K, 10-Q, 8-K, Form 4), company profiles and XBRL financial facts.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
@@ -2974,6 +2980,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
+- [Google Ads Transparency](https://apify.com/mutualistic_housing/google-ads-transparency-mcp) `https://mutualistic-housing--google-ads-transparency-mcp.apify.actor/mcp`
+  [![Google Ads Transparency MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/google-ads-transparency-mcp)
+  🔑 - Google Ads Transparency Center ad creatives, advertiser suggestions, ad copy and video metadata.
+- [Google Trends Realtime](https://apify.com/mutualistic_housing/google-trends-realtime-mcp) `https://mutualistic-housing--google-trends-realtime-mcp.apify.actor/mcp`
+  [![Google Trends Realtime MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/google-trends-realtime-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/google-trends-realtime-mcp)
+  🔑 - Realtime Google Trends, trending news and Knowledge Graph entity autocomplete.
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -2981,6 +2993,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
+- [Keyword & Autocomplete](https://apify.com/mutualistic_housing/keyword-autocomplete-mcp) `https://mutualistic-housing--keyword-autocomplete-mcp.apify.actor/mcp`
+  [![Keyword & Autocomplete MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/keyword-autocomplete-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/keyword-autocomplete-mcp)
+  🔑 - Keyword and autocomplete suggestions from Google, YouTube, Amazon, Bing, DuckDuckGo and Brave, with search intent.
 
 - [Keyword Research API](https://apify.com/gaelasao/keyword-research-api) `https://mcp.apify.com/?tools=gaelasao/keyword-research-api`
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
@@ -4126,6 +4141,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MeshArc web crawler](https://mesharc.dev) `https://mcp.mesharc.dev/mcp`
   [![MeshArc web crawler MCP connector](https://glama.ai/mcp/connectors/dev.mesharc/mesharc/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mesharc/mesharc)
   🔐 - Search, scrape and crawl sites to clean markdown, and track what changed between crawls.
+- [Multi-ATS Career Jobs](https://apify.com/mutualistic_housing/multi-ats-career-jobs-mcp) `https://mutualistic-housing--multi-ats-career-jobs-mcp.apify.actor/mcp`
+  [![Multi-ATS Career Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/multi-ats-career-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/multi-ats-career-jobs-mcp)
+  🔑 - Search live job postings across Greenhouse, Lever, Ashby, SmartRecruiters and Workable.
 - [NanoParse](https://nanoparse.app) `https://nanoparse.app/mcp`
   [![NanoParse MCP connector](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp)
   🔓 - Read any web page as clean Markdown plus 15 trust signals; $0.005 per page in USDC on Base via x402, 10 free.
@@ -4510,6 +4528,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
+- [Bluesky Social Search](https://apify.com/mutualistic_housing/bluesky-social-search-mcp) `https://mutualistic-housing--bluesky-social-search-mcp.apify.actor/mcp`
+  [![Bluesky Social Search MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/bluesky-social-search-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/bluesky-social-search-mcp)
+  🔑 - Search Bluesky posts, author feeds, profiles and full reply threads via the AT Protocol AppView.
 - [Breakreach](https://www.breakreach.com/agents) `https://api.breakreach.com/mcp`
   [![Breakreach MCP connector](https://glama.ai/mcp/connectors/com.breakreach/breakreach/badges/score.svg)](https://glama.ai/mcp/connectors/com.breakreach/breakreach)
   🔐 - Schedule and publish posts on 19 social networks, reply to comments and DMs, and read post analytics.
@@ -4519,6 +4540,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
+- [Discourse Forum](https://apify.com/mutualistic_housing/discourse-forum-mcp) `https://mutualistic-housing--discourse-forum-mcp.apify.actor/mcp`
+  [![Discourse Forum MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/discourse-forum-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/discourse-forum-mcp)
+  🔑 - Search and read threads on any public Discourse forum.
 - [dopost](https://dopost.co/ai-agents) `https://mcp.dopost.co/mcp`
   [![dopost MCP connector](https://glama.ai/mcp/connectors/co.dopost.mcp/dopost/badges/score.svg)](https://glama.ai/mcp/connectors/co.dopost.mcp/dopost)
   🔐 - Schedule, publish and analyze posts on 12 networks, including X, Bluesky, Mastodon, Telegram, LinkedIn and Instagram.
@@ -4617,6 +4641,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
+- [Substack Newsletter](https://apify.com/mutualistic_housing/substack-newsletter-mcp) `https://mutualistic-housing--substack-newsletter-mcp.apify.actor/mcp`
+  [![Substack Newsletter MCP connector](https://glama.ai/mcp/connectors/io.github.dancerdan15/substack-newsletter-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dancerdan15/substack-newsletter-mcp)
+  🔑 - Search Substack publications, browse archives, read full posts as Markdown and get podcast audio URLs.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
