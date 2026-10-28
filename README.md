@@ -1914,6 +1914,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fair Value Calculator](https://www.fairvalue-calculator.com/mcp) `https://www.fairvalue-calculator.com/mcp`
   [![Fair Value Calculator MCP connector](https://glama.ai/mcp/connectors/com.fairvalue-calculator/fair-value/badges/score.svg)](https://glama.ai/mcp/connectors/com.fairvalue-calculator/fair-value)
   🔐 - Fair value estimates, quality scores and screening for 35,000+ stocks worldwide, plus watchlist and price alerts.
+- [falcon.sol](https://falcon-sol-agents.vercel.app) `https://falcon-sol-agents.vercel.app/mcp`
+  [![falcon.sol MCP connector](https://glama.ai/mcp/connectors/io.github.ygfalcon/falcon-sol/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ygfalcon/falcon-sol)
+  🔓 - Solana wallet PnL, payee and pre-trade checks, SEC comps and LBO models; x402 USDC per call, signed receipts.
 - [Fast GST Refund](https://fastgstrefund.com/for-agents/) `https://fastgstrefund.com/mcp`
   [![Fast GST Refund MCP connector](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund/badges/score.svg)](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund)
   🔓 - Indian GST refund guidance, validation and Statement 3/Annexure B JSON; free checks, optional OAuth for downloads.
