@@ -917,6 +917,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ppl](https://withppl.com) `https://withppl.com/mcp`
   [![ppl MCP connector](https://glama.ai/mcp/connectors/io.github.ppl-crm/ppl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ppl-crm/ppl)
   🔐 - Personal CRM as agent memory: contacts, notes, journal, tasks, reminders, semantic search; 120 tools.
+- [Relaticle](https://relaticle.com) `https://mcp.relaticle.com`
+  [![Relaticle MCP connector](https://glama.ai/mcp/connectors/com.relaticle/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.relaticle/crm)
+  🔐 - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks, notes and custom fields.
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
