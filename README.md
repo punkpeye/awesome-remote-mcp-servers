@@ -655,6 +655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [spawnpoint](https://getspawnpoint.com) `https://app.getspawnpoint.com/mcp`
   [![spawnpoint MCP connector](https://glama.ai/mcp/connectors/com.getspawnpoint/spawnpoint/badges/score.svg)](https://glama.ai/mcp/connectors/com.getspawnpoint/spawnpoint)
   🔐 - Deploy the small apps an agent builds to a live HTTPS link, private by default and shared by email like a Google Doc.
+- [StableDomains](https://stabledomains.net) `https://stabledomains.net/api/mcp`
+  [![StableDomains MCP connector](https://glama.ai/mcp/connectors/net.stabledomains/registrar/badges/score.svg)](https://glama.ai/mcp/connectors/net.stabledomains/registrar)
+  🔓 - Search, buy, renew and transfer domains and manage DNS, paid in USDC/USDT on 7 chains via x402.
 - [Symbioza](https://symbioza.dev) `https://symbioza.dev/mcp`
   [![Symbioza MCP connector](https://glama.ai/mcp/connectors/dev.symbioza/symbioza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.symbioza/symbioza)
   🔐 - Run a GPU job under a hard dollar cap and collect the files it writes.
