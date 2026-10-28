@@ -4450,6 +4450,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScanMalware](https://scanmalware.com) `https://mcp.scanmalware.com/mcp`
   [![ScanMalware MCP connector](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp)
   🔓 - Scan URLs in a sandboxed browser and pivot across past scans by domain, IP, ASN or fingerprint.
+- [ScanPay](https://github.com/Misterio070/scanpay) `https://scanpay-ob3w.onrender.com/mcp`
+  🔓 - Deterministic static security scan for Python, JavaScript and TypeScript plus pre-flight transaction checks; 65 rules in about 0.2 ms, paid per call in USDC over x402.
 - [ScreenSeal](https://apify.com/wthall05/screenseal-screen) `https://screenseal-mcp.agent-tollbooth.workers.dev/mcp`
   [![ScreenSeal MCP connector](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp)
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
