@@ -4054,7 +4054,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
 - [FastAF](https://fastaf.co) `https://api.fastaf.co/mcp`
   [![FastAF MCP connector](https://glama.ai/mcp/connectors/co.fastaf/fastaf/badges/score.svg)](https://glama.ai/mcp/connectors/co.fastaf/fastaf)
-  🔓 - 16 tools: Amazon search and products, Google search and other public web data as JSON; API key or x402 per call.
+  🔓 - Web scraping, Google SERP/search and JSON Schema extraction for AI agents; API key or x402 per call, only 200 responses are charged. 500 free credits every month after email verification (not on x402). [Docs](https://fastaf.co/docs/#mcp) · [Claude Code setup](https://fastaf.co/integrations/claude-code/) · [Cursor setup](https://fastaf.co/integrations/cursor/)
 - [Firecrawl](https://firecrawl.dev) `https://mcp.firecrawl.dev/v2/mcp`
   [![Firecrawl MCP connector](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp)
   🔓 - Crawl, scrape, and extract structured data from websites.
