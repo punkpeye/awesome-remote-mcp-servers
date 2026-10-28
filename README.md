@@ -2560,6 +2560,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [Phasoric](https://phasoric.com) `https://phasoric.com/api/mcp`
+  [![Phasoric MCP connector](https://glama.ai/mcp/connectors/io.github.aketchel/phasoric/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aketchel/phasoric)
+  🔐 - Search, read, and safely update Markdown notes in connected Phasoric knowledge vaults.
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
