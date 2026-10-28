@@ -2783,6 +2783,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
   🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
 
+- [Akari Crypto Intel](https://github.com/edvyno/akari-x402-mcp) `https://akari-x402.puzzling-marten.workers.dev/mcp`
+  🔓 - Paid crypto intelligence, billed per call in USDC over x402 with no signup and no API key: Hyperliquid perp funding and open interest, TradingView technicals on 1h/4h/1d/1w, Base wallet vetting (one address or 50 at once), Polymarket in-play edges, Reddit sentiment, and a $1.00 decision tool that returns only the LONG/SHORT edges clearing a funding x momentum gate, with size, ATR stop and target. One free tool (`akari_board`); list of MCP tools: `https://akari-x402.puzzling-marten.workers.dev/market.json`.
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
   🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
