@@ -1128,6 +1128,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HALLUX](https://blvkware.dev/hallux/) `https://api.blvkware.dev/hallux/mcp`
   [![HALLUX MCP connector](https://glama.ai/mcp/connectors/dev.blvkware/hallux/badges/score.svg)](https://glama.ai/mcp/connectors/dev.blvkware/hallux)
   🔓 - Check that a package, module or DOI exists in its registry before an agent installs, imports or cites it.
+- [Havoptic](https://www.havoptic.com/api-docs) `https://mcp.havoptic.com/mcp`
+  [![Havoptic MCP connector](https://glama.ai/mcp/connectors/com.havoptic/releases/badges/score.svg)](https://glama.ai/mcp/connectors/com.havoptic/releases)
+  🔓 - Release intelligence for AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, Copilot, …): releases, typed changes, breaking changes and cadence.
 - [Heard](https://heard.dev) `https://api.heard.dev/v1/mcp/agent`
   [![Heard MCP connector](https://glama.ai/mcp/connectors/dev.heard/heard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.heard/heard)
   🔐 - Cloud agents report progress that Heard speaks on your Mac, and pick up the replies you send back.
