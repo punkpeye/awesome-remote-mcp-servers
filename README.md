@@ -4581,6 +4581,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostWire](https://postwire.io/mcp/) `https://postwire.io/api/mcp`
   [![PostWire MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/postwire-mcp)
   🔓 - Write a native post per network from one idea and publish it to TikTok, Instagram, YouTube and more; tools need OAuth.
+- [ProLevelMax](https://prolevelmax.com/?ref=awesome-remote-mcp) `https://prolevelmax.com/mcp`
+  [![ProLevelMax MCP connector](https://glama.ai/mcp/connectors/com.prolevelmax/prolevelmax/badges/score.svg)](https://glama.ai/mcp/connectors/com.prolevelmax/prolevelmax)
+  🔐 - Search and read public posts, comments and profiles from 150+ platforms, including Reddit, TikTok and Xiaohongshu.
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
