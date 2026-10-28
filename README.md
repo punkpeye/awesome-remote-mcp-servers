@@ -5118,6 +5118,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Time of Meeting](https://timeofmeeting.com/mcp) `https://timeofmeeting.com/mcp`
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
+- [Timesheet](https://timesheet.io) `https://mcp.timesheet.io`
+  [![Timesheet MCP connector](https://glama.ai/mcp/connectors/io.github.timesheetIO/timesheet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.timesheetIO/timesheet-mcp)
+  🔐 - Track time in Timesheet: run timers, log work, manage projects, todos and absences, and pull reports.
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
