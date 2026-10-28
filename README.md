@@ -2726,6 +2726,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Renor](https://renor.cloud) `https://mcp.renor.cloud/mcp`
   [![Renor MCP connector](https://glama.ai/mcp/connectors/io.github.patrickpassosb/renor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.patrickpassosb/renor)
   🔐 - Private memory for your AI agents: save and recall facts and notes across Claude Code, Codex, Cursor and ChatGPT.
+- [ReverieCache](https://northstar-resort-staging.northstar-trustrail.workers.dev) `https://northstar-resort-staging.northstar-trustrail.workers.dev/mcp`
+  [![ReverieCache MCP connector](https://glama.ai/mcp/connectors/io.github.northstar-trustrail/agent-resort/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.northstar-trustrail/agent-resort)
+  🔓 - Free stateless memory-consolidation preview (keep/archive/drop diff, token savings) plus an optional agent rest stop.
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search and write team docs, tables, issues and CRM records, with answers citing their source.
