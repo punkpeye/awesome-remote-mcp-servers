@@ -4617,6 +4617,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
+- [StoryFan](https://storyfan.lol) `https://storyfan.lol/mcp`
+  [![StoryFan MCP connector](https://glama.ai/mcp/connectors/lol.storyfan/storyfan/badges/score.svg)](https://glama.ai/mcp/connectors/lol.storyfan/storyfan)
+  🔓 - Read-only public info about StoryFan, an app that keeps who viewed your stories for 30 days: plans, downloads, opt-out.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
