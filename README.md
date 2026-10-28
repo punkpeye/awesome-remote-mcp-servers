@@ -5242,6 +5242,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
+- [Fabeo](https://fabeo.ai/mcp) `https://mcp.fabeo.ai/mcp`
+  [![Fabeo MCP connector](https://glama.ai/mcp/connectors/ai.fabeo/fabeo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fabeo/fabeo)
+  🔐 - Write, edit and render multi-scene branded videos with voice-over and music from your Fabeo account.
 
 ## Community
 
