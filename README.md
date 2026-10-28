@@ -4823,6 +4823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
+- [golfdata.online](https://golfdata.online) `https://golfdata.online/mcp`
+  [![golfdata.online MCP connector](https://glama.ai/mcp/connectors/online.golfdata/golf-clubs/badges/score.svg)](https://glama.ai/mcp/connectors/online.golfdata/golf-clubs)
+  🔓 - Verified European golf clubs: facts, booking links and sources, each with a verified date; read-only.
 - [HaulierScope](https://haulierscope.co.uk/developers) `https://haulierscope.co.uk/mcp`
   [![HaulierScope MCP connector](https://glama.ai/mcp/connectors/uk.co.haulierscope/operator-licences/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.haulierscope/operator-licences)
   🔓 - UK operator licence checks for hauliers and coach firms: status, vehicles, changes and public inquiries; no sign-in.
