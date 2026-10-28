@@ -883,6 +883,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Writing studio for novels and screenplays: cited fact-checks and continuity checks on your drafts; never writes prose.
 - [Storyblok](https://storyblok.com) `https://mcp.storyblok.com/mcp`
   🔓 - Manage Storyblok spaces, stories, and components.
+- [Total CMS Docs](https://docs.totalcms.co/mcp/server) `https://totalcms.co/mcp`
+  [![Total CMS Docs MCP connector](https://glama.ai/mcp/connectors/co.totalcms/docs/badges/score.svg)](https://glama.ai/mcp/connectors/co.totalcms/docs)
+  🔓 - Total CMS docs, guides and comparisons: Twig signatures, field types, schema options, CLI and REST API reference.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
