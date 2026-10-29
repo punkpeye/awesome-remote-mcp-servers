@@ -3454,6 +3454,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mage](https://www.mage.space/mcp) `https://mcp.mage.space/mcp`
   [![Mage MCP connector](https://glama.ai/mcp/connectors/space.mage/mage/badges/score.svg)](https://glama.ai/mcp/connectors/space.mage/mage)
   🔐 - Generate images, video, and audio with many frontier models, with the price quoted before each run.
+- [MakeViral](https://www.makeviral.ai) `https://www.makeviral.ai/mcp`
+  [![MakeViral MCP connector](https://glama.ai/mcp/connectors/ai.makeviral/makeviral/badges/score.svg)](https://glama.ai/mcp/connectors/ai.makeviral/makeviral)
+  🔓 🔐 - Find the newest viral AI video and photo trends and make them from your photos, or make AI videos from a prompt.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
