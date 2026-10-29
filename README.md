@@ -685,6 +685,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AskOne](https://askone.org) `https://askone.org/api/mcp`
   [![AskOne MCP connector](https://glama.ai/mcp/connectors/io.github.phuryn/askone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.phuryn/askone)
   🔐 - Run live audience Q&A and polls with free AI moderation: start rooms, launch polls, answer questions, draft a FAQ.
+- [asms](https://asms.ai/agents) `https://asms.ai/mcp`
+  [![asms MCP connector](https://glama.ai/mcp/connectors/ai.asms/asms/badges/score.svg)](https://glama.ai/mcp/connectors/ai.asms/asms)
+  🔓 🔐 🔑 - Get SMS verification codes on one-time numbers and rent phone numbers that receive SMS, paid from a wallet.
 - [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
   [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
   🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
