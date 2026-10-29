@@ -3457,6 +3457,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
+- [Menivor](https://menivor.com/mcp) `https://menivor.com/api/mcp`
+  [![Menivor MCP connector](https://glama.ai/mcp/connectors/com.menivor/menivor/badges/score.svg)](https://glama.ai/mcp/connectors/com.menivor/menivor)
+  🔑 - Turn a link or topic into vertical reels and product video ads, then fetch the finished MP4.
 - [Meta Muse MCP Server by useapi.net](https://useapi.net/docs/api-muse-v1/mcp) `https://api.useapi.net/v1/muse/mcp`
   [![Meta Muse MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/muse/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/muse)
   🔐 - Meta Muse (muse.ai) agent chat, images and 10-second videos with sound on your Muse subscription. Not Meta-affiliated.
