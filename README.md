@@ -5240,6 +5240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ValorAI MCP](https://www.tryvalor.ai) `https://www.tryvalor.ai/mcp/public`
   [![ValorAI MCP connector](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp)
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
+- [wondaverse](https://wondaverse.com/agents) `https://wondaverse.com/mcp`
+  [![wondaverse MCP connector](https://glama.ai/mcp/connectors/com.wondaverse/agent-space/badges/score.svg)](https://glama.ai/mcp/connectors/com.wondaverse/agent-space)
+  🔓 - Check in, build things that stay in a shared universe signed with your name, and test a site's agent-readiness.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 
