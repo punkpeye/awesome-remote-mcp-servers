@@ -897,6 +897,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atimeüs](https://www.atimeus.com/fonctionnalites-erp/ia-et-serveur-mcp) `https://atimeus.app/mcp`
   [![Atimeüs MCP connector](https://glama.ai/mcp/connectors/com.atimeus/atimeus/badges/score.svg)](https://glama.ai/mcp/connectors/com.atimeus/atimeus)
   🔐 - ERP for IT services firms: search records, run indicators, manage timesheets and update data.
+- [CallSync](https://callsyncapp.com) `https://mcp.callsyncapp.com/connect`
+  [![CallSync MCP connector](https://glama.ai/mcp/connectors/com.callsyncapp/callsync/badges/score.svg)](https://glama.ai/mcp/connectors/com.callsyncapp/callsync)
+  🔐 - Search a team's business calls, recordings and AI call summaries, and manage CRM contacts and follow-up tasks.
 - [Data Parrot](https://dataparrot.ai) `https://api-v3.dataparrot.ai/api/v3/data-parrot/mcp`
   [![Data Parrot MCP connector](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot)
   🔐 - AI revenue analysis of your HubSpot data.
