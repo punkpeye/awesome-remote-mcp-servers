@@ -2033,6 +2033,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [KzCalc](https://kzcalc.com/ru/mcp/) `https://mcp.kzcalc.com/mcp`
   [![KzCalc MCP connector](https://glama.ai/mcp/connectors/com.kzcalc/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/com.kzcalc/calculators)
   🔓 - Kazakhstan 2026 salary, tax, benefit and mortgage estimates with primary-source links.
+- [Lava](https://lava.ai-dolphin.com/subscribe) `https://lava.ai-dolphin.com/subscribe/v1/mcp`
+  [![Lava MCP connector](https://glama.ai/mcp/connectors/io.github.dustinliang666-blip/lava-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dustinliang666-blip/lava-mcp)
+  🔐 - China A-share news-flow heat: trending concept sectors and tickers with summary key points and timestamps.
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
