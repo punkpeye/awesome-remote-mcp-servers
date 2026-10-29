@@ -2901,6 +2901,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check a public page's robots, sitemap, JSON-LD, canonical tags and llms.txt.
 
 
+- [AEORank](https://aeorank.app) `https://aeorank.app/mcp`
+  [![AEORank MCP connector](https://glama.ai/mcp/connectors/app.aeorank/aeorank/badges/score.svg)](https://glama.ai/mcp/connectors/app.aeorank/aeorank)
+  🔓 - Audit any URL across 62 SEO, AEO and GEO rules, check AI crawler readiness and generate llms.txt.
+
 - [AffiliateBase](https://www.affiliatebase.io) `https://app.affiliatebase.io/mcp`
   [![AffiliateBase MCP connector](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase/badges/score.svg)](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase)
   🔐 - Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions and payouts.
