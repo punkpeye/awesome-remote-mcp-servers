@@ -718,6 +718,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
+- [Lead Friendly](https://www.leadfriendly.com/mcp) `https://www.leadfriendly.com/api/mcp/v1`
+  [![Lead Friendly MCP connector](https://glama.ai/mcp/connectors/com.leadfriendly/lead-friendly/badges/score.svg)](https://glama.ai/mcp/connectors/com.leadfriendly/lead-friendly)
+  🔑 - Place AI phone calls, send SMS and update CRM records in one account, behind consent, opt-out and quiet-hours checks.
 - [Mailbox MCP](https://mailbox-mcp.com) `https://mcp.mailbox-mcp.com/db/mcp`
   [![Mailbox MCP MCP connector](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp)
   🔐 - Read, search, file, draft and send email in your own Gmail, Outlook, Microsoft 365, iCloud or IMAP inbox.
