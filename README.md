@@ -416,6 +416,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Design Check](https://designcheck.allthepossibles.com) `https://designcheck.allthepossibles.com/mcp`
   [![Design Check MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/designcheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/designcheck)
   🔓 - Tells you whether a page reads as AI-generated and why, from the rendered page.
+- [Designelier](https://designelier.com/mcp) `https://mcp.designelier.com/mcp`
+  [![Designelier MCP connector](https://glama.ai/mcp/connectors/com.designelier/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.designelier/mcp)
+  🔐 - Generate matching icon sets, spot illustrations and transparent design assets for websites and apps.
+
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
