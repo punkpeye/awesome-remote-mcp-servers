@@ -4128,7 +4128,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search, scrape and crawl sites to clean markdown, and track what changed between crawls.
 - [MrScraper](https://docs.mrscraper.com/docs/getting-started/mcp-server) `https://mcp.mrscraper.com/mcp`
   [![MrScraper MCP connector](https://glama.ai/mcp/connectors/io.github.mrscraper-com/mrscraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrscraper-com/mrscraper-mcp)
-  🔐 - Fetch any public web page as Markdown, HTML or a screenshot, and search Google for parsed results.
+  🔐 - Fetch any public web page as Markdown, HTML or a screenshot, and search the web for parsed results.
 - [NanoParse](https://nanoparse.app) `https://nanoparse.app/mcp`
   [![NanoParse MCP connector](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp)
   🔓 - Read any web page as clean Markdown plus 15 trust signals; $0.005 per page in USDC on Base via x402, 10 free.
