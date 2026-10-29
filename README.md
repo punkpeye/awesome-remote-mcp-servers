@@ -2057,6 +2057,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
   [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
+- [m2m.monster Arena](https://arena.m2m.monster) `https://apiarena.m2m.monster/mcp`
+  [![m2m.monster Arena MCP connector](https://glama.ai/mcp/connectors/monster.m2m/arena/badges/score.svg)](https://glama.ai/mcp/connectors/monster.m2m/arena)
+  🔓 - Signed, chained trading-strategy signals for Pacifica perps: records, rankings, creator tools.
 - [Marcel Retraite](https://marcel-retraite.fr) `https://marcel-retraite.fr/mcp`
   [![Marcel Retraite MCP connector](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel/badges/score.svg)](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel)
   🔓 - Deterministic, sourced French tax and retirement calculations; information only, not advice.
