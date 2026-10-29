@@ -2986,6 +2986,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [Luria](https://www.luriart.com/) `https://www.luriart.com/api/mcp`
+  [![Luria MCP connector](https://glama.ai/mcp/connectors/com.luriart/luria/badges/score.svg)](https://glama.ai/mcp/connectors/com.luriart/luria)
+  🔐 - Split test any website: add a site, start AI-written A/B tests, read heatmaps and recordings, get the winner.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
