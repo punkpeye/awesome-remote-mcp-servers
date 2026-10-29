@@ -3588,6 +3588,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [Hagglyai](https://hagglyai.com) `https://hagglyai.com/mcp`
+  [![Hagglyai MCP connector](https://glama.ai/mcp/connectors/com.hagglyai/haggly/badges/score.svg)](https://glama.ai/mcp/connectors/com.hagglyai/haggly)
+  🔓 - Compare paid agent endpoints (x402 + MCP) on price, uptime and real usage before you pay.
 - [Kulhad](https://kulhad.co) `https://kulhad.co/mcp`
   [![Kulhad MCP connector](https://glama.ai/mcp/connectors/co.kulhad/kulhad/badges/score.svg)](https://glama.ai/mcp/connectors/co.kulhad/kulhad)
   🔓 - Run a creator's UPI support page in India: approve and thank supporters, set goals, edit the page, get QR codes.
