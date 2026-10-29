@@ -1081,6 +1081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
+- [E3D Pilot](https://pilot.e3d.ai) `https://pilot.e3d.ai/mcp`
+  [![E3D Pilot MCP connector](https://glama.ai/mcp/connectors/ai.e3d.pilot/e3d-pilot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.e3d.pilot/e3d-pilot)
+  🔓 - Multi-model second opinions with consensus and dissent; discovery is public, paid debates require OAuth.
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
   [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
   🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
