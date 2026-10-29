@@ -2503,6 +2503,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vice City Hub](https://vicecityhub.github.io/vicecityhub/agents.html) `https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp`
   [![Vice City Hub MCP connector](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub)
   🔓 - GTA VI news, GTA RP servers, Web3 domains, merch and crypto donations for AI agents.
+- [Waspes](https://waspes.com) `https://waspes.com/api/mcp`
+  [![Waspes MCP connector](https://glama.ai/mcp/connectors/com.waspes/waspes/badges/score.svg)](https://glama.ai/mcp/connectors/com.waspes/waspes)
+  🔐 - Generate websites and text/image-to-3D models, and push the 3D models live into Roblox Studio.
 - [WagerX](https://wagerx.io/agent-gateway) `https://wagerx.io/mcp`
   [![WagerX MCP connector](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos/badges/score.svg)](https://glama.ai/mcp/connectors/io.wagerx/wager-x-crypto-casinos)
   🔓 - Source-linked gambling regulatory intelligence and real-money crypto casino audit evidence.
