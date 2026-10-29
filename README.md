@@ -1390,6 +1390,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apMZoomAI](https://www.apmzoom.com) `https://www.apmzoom.com/mcp`
   [![apMZoomAI MCP connector](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun/badges/score.svg)](https://glama.ai/mcp/connectors/com.apmzoom.www/dongdaemun)
   🔓 - Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls by building and floor.
+- [Appside](https://appside.build) `https://appside.build/mcp`
+  [![Appside MCP connector](https://glama.ai/mcp/connectors/build.appside/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/build.appside/mcp)
+  🔓 - Developer docs for Appside's self-serve mobile game web store: docs search, SDK snippets per platform, SDK status and published pricing (read-only).
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
