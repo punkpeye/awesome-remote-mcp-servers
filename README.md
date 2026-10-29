@@ -3696,6 +3696,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
+- [Plaro](https://plaro.kr/features/developer-ai?lang=en) `https://plaro.kr/mcp/v1`
+  [![Plaro MCP connector](https://glama.ai/mcp/connectors/io.github.plaro-kr/plaro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.plaro-kr/plaro)
+  🔐 - Agreed client requirements, changes and open questions from Plaro, read by Claude Code and Codex.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
