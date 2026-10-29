@@ -398,6 +398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [Bannerify](https://bannerify.co/docs/mcp/overview) `https://api.bannerify.co/mcp`
+  [![Bannerify MCP connector](https://glama.ai/mcp/connectors/io.github.bannerify/bannerify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bannerify/bannerify)
+  🔐 - Generate images and PDFs from your design templates, or compose a one-off image from shapes.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
