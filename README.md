@@ -2509,6 +2509,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ZeroMind](https://origozero.ai/mcp-server) `https://origozero.ai/mcp`
   [![ZeroMind MCP connector](https://glama.ai/mcp/connectors/ai.origozero/zeromind/badges/score.svg)](https://glama.ai/mcp/connectors/ai.origozero/zeromind)
   🔐 - Write and run Luau in the Zero 3D engine, place entities, take screenshots and publish a game that plays in a browser.
+- [RzhuNeMogu](https://rzhunemogu.ru) `https://rzhunemogu.ru/mcp`
+  [![RzhuNeMogu MCP connector](https://glama.ai/mcp/connectors/io.github.MihaNikUs/rzhunemogu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MihaNikUs/rzhunemogu-mcp)
+  🔓 - Russian-language humor database: over 46,000 jokes, short stories, aphorisms, toasts and statuses. Full-text search, random content and site statistics for AI agents.
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
