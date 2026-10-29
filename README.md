@@ -892,6 +892,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Wix](https://wix.com) `https://mcp.wix.com/mcp`
   [![Wix MCP connector](https://glama.ai/mcp/connectors/com.wix/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wix/mcp)
   🔐 - Manage Wix sites, business data, and bookings.
+- [WriteStack](https://www.writestack.io/mcp) `https://www.writestack.io/api/mcp/mcp`
+  [![WriteStack MCP connector](https://glama.ai/mcp/connectors/io.writestack/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.writestack/mcp)
+  🔐 - Draft and schedule Substack Notes, manage articles, and read writing stats from your WriteStack account.
 
 ### 👤 <a name="crm"></a>CRM
 - [Atimeüs](https://www.atimeus.com/fonctionnalites-erp/ia-et-serveur-mcp) `https://atimeus.app/mcp`
