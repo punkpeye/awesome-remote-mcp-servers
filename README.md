@@ -774,6 +774,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuguFAX](https://sugufax.com/ai) `https://sugufax.com/api/mcp.php`
   [![SuguFAX MCP connector](https://glama.ai/mcp/connectors/com.sugufax/fax-payperuse/badges/score.svg)](https://glama.ai/mcp/connectors/com.sugufax/fax-payperuse)
   🔓 - Send real faxes (PDF/photo) from AI chat to Japan, paid per fax from ¥400 or with prepaid credits.
+- [SuprSend](https://www.suprsend.com) `https://mcp.suprsend.com/mcp`
+  [![SuprSend MCP connector](https://glama.ai/mcp/connectors/com.suprsend/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.suprsend/mcp)
+  🔐 - Manage notification workflows, templates, users, preferences and delivery logs across email, SMS, push and in-app.  
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
