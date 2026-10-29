@@ -4198,6 +4198,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
+- [Safe Web Reader for AI](https://apify.com/bigochelo/safe-web-reader) `https://mcp.apify.com/?tools=bigochelo/safe-web-reader`
+  [![Safe Web Reader for AI MCP connector](https://glama.ai/mcp/connectors/io.github.marcepalacios12/safe-web-reader/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marcepalacios12/safe-web-reader)
+  🔐 - Web pages, JS sites and PDFs to clean Markdown, prompt injections removed. Apify token or OAuth; pay per use on Apify.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
   🔓 - AI-industry news as deduplicated, classified events; a free key unlocks listing, search and archive.
@@ -4394,6 +4397,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
+- [MCP Tool Poisoning Scanner](https://apify.com/bigochelo/mcp-poisoning-scanner) `https://mcp.apify.com/?tools=bigochelo/mcp-poisoning-scanner`
+  [![MCP Tool Poisoning Scanner MCP connector](https://glama.ai/mcp/connectors/io.github.marcepalacios12/mcp-poisoning-scanner/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marcepalacios12/mcp-poisoning-scanner)
+  🔐 - Audits MCP servers for tool poisoning, hidden instructions and rug pulls. Apify token or OAuth; pay per use on Apify.
 - [Mifori CertAgent](https://agent.mifori.com) `https://agent.mifori.com/mcp`
   [![Mifori CertAgent MCP connector](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent)
   🔓 - Live AI agent trust oracle: audit synthetic IQ, latency and JSON compliance via x402 or free telemetry tokens.
