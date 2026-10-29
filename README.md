@@ -4054,7 +4054,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
 - [FastAF](https://fastaf.co) `https://api.fastaf.co/mcp`
   [![FastAF MCP connector](https://glama.ai/mcp/connectors/co.fastaf/fastaf/badges/score.svg)](https://glama.ai/mcp/connectors/co.fastaf/fastaf)
-  🔓 - Web search, scraping and schema-validated extraction for AI agents, 22 read-only tools.
+  🔓 - Web search, Amazon products, scraping and schema-validated extraction for AI agents, 23 read-only tools.
 - [Firecrawl](https://firecrawl.dev) `https://mcp.firecrawl.dev/v2/mcp`
   [![Firecrawl MCP connector](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp)
   🔓 - Crawl, scrape, and extract structured data from websites.
