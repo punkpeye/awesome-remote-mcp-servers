@@ -4424,6 +4424,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [PickleCheck](https://picklecheck.onrender.com) `https://picklecheck.onrender.com/mcp`
+  [![PickleCheck MCP connector](https://glama.ai/mcp/connectors/io.github.PickleCheck/picklecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PickleCheck/picklecheck)
+  🔓 - Base token scam checks, x402 endpoint checks, and payment checks on Base, Ethereum, Arbitrum, Solana, Bitcoin.
 - [Preflight](https://preflight.allthepossibles.com) `https://preflight.allthepossibles.com/mcp`
   [![Preflight MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/preflight)
   🔓 - Scans an MCP server for security gaps before your agent connects.
