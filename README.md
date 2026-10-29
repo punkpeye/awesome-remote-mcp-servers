@@ -5076,6 +5076,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pally](https://pally.com/mcp) `https://agent.pally.com/mcp`
   [![Pally MCP connector](https://glama.ai/mcp/connectors/com.pally/pally/badges/score.svg)](https://glama.ai/mcp/connectors/com.pally/pally)
   🔐 - AI personal assistant you text: manage inbox, calendar, tasks and follow-ups over iMessage, WhatsApp and Telegram.
+- - [PDFHaul](https://www.pdfhaul.com/mcp-server) `https://mcp.pdfhaul.com/mcp`
+  [![PDFHaul MCP MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.pdfhaul.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pdfhaul.www/mcp)
+  🔑 🔐 - PDF tools for Claude: merge, split, compress, OCR, extract tables, remove duplicate pages.
 - [PDFLean](https://pdflean.com) `https://mcp.pdflean.com/mcp`
   [![PDFLean MCP connector](https://glama.ai/mcp/connectors/com.pdflean.mcp/pdflean/badges/score.svg)](https://glama.ai/mcp/connectors/com.pdflean.mcp/pdflean)
   🔐 - PDF tools for AI agents: validate, extract, merge, split, compress, OCR, sign and redact PDFs.
