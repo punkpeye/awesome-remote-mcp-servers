@@ -2539,6 +2539,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NobetciEczane.org](https://nobetcieczane.org/) `https://nobetcieczane.org/mcp`
   [![NobetciEczane.org MCP connector](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane/badges/score.svg)](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane)
   🔓 - Today's on-duty pharmacies in all 81 provinces of Türkiye and the TRNC, by district or nearest to a location.
+- [Nolio](https://www.nolio.io) `https://mcp.nolio.io/mcp`
+  [![Nolio MCP connector](https://glama.ai/mcp/connectors/io.nolio/nolio/badges/score.svg)](https://glama.ai/mcp/connectors/io.nolio/nolio)
+  🔐 - Plan and review endurance, strength and Hyrox training: calendar, structured workouts, templates, load and HRV.
 - [Peptide Library](https://peptidelibrary.app/developers/mcp) `https://peptidelibrary.app/mcp`
   [![Peptide Library MCP connector](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library/badges/score.svg)](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library)
   🔓 - Peptide research profiles with evidence by study type, comparisons, educational search and unit math.
