@@ -2277,6 +2277,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TickFeed](https://tickfeed.pro) `https://api.tickfeed.pro/mcp`
   [![TickFeed MCP connector](https://glama.ai/mcp/connectors/pro.tickfeed/tickfeed/badges/score.svg)](https://glama.ai/mcp/connectors/pro.tickfeed/tickfeed)
   🔐 - Live bid/ask and OHLC candles for 60 forex pairs and 11 metals, with freshness labels and gap reports.
+- [TokenBank](https://tokenbank.world) `https://mcp.tokenbank.world`
+  [![TokenBank MCP connector](https://glama.ai/mcp/connectors/world.tokenbank/tokenbank/badges/score.svg)](https://glama.ai/mcp/connectors/world.tokenbank/tokenbank)
+  🔓 - 9,000 tokenized RWAs and stock perps; every token and perp on one security, compared by issuer, rights and cost.
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
