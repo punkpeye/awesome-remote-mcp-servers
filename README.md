@@ -4656,6 +4656,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BankrollSZN](https://bankrollszn.com/ai) `https://bankrollszn.com/api/mcp`
   [![BankrollSZN MCP connector](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn)
   🔐 - DFS projections, ownership, lineup optimizers and model picks for NFL, MLB, NBA, NHL, PGA and MMA.
+- [Chalk Golf](https://www.chalkgolfapp.com/golf-mcp-server) `https://api.chalkgolfapp.com/mcp`
+  [![Chalk Golf MCP connector](https://glama.ai/mcp/connectors/com.chalkgolfapp/golf/badges/score.svg)](https://glama.ai/mcp/connectors/com.chalkgolfapp/golf)
+  🔐 - Your golf rounds, scorecards, stats, handicap record and swing analyses; logs practice and rounds with your OK.
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
