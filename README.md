@@ -3405,6 +3405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [eroq](https://eroq.ai/mcp) `https://eroq.ai/mcp`
   [![eroq MCP connector](https://glama.ai/mcp/connectors/ai.eroq/eroq/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eroq/eroq)
   🔐 - Generate videos, images, voices and songs on Seedance, Kling, Veo and eroq's own uncensored engines.
+- [Fabeo](https://fabeo.ai/mcp) `https://mcp.fabeo.ai/mcp`
+  [![Fabeo MCP connector](https://glama.ai/mcp/connectors/ai.fabeo/fabeo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fabeo/fabeo)
+  🔐 - Write, edit and render multi-scene branded videos with voice-over and music from your Fabeo account.
 - [Flow Music MCP Server by useapi.net](https://useapi.net/docs/api-flowmusic-v1/mcp) `https://api.useapi.net/v1/flowmusic/mcp`
   [![Flow Music MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/flowmusic/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/flowmusic)
   🔐 - Google Flow Music (Lyria 3.5) songs, covers, remixes and stems on your own account. Not affiliated with Google.
@@ -5242,9 +5245,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
-- [Fabeo](https://fabeo.ai/mcp) `https://mcp.fabeo.ai/mcp`
-  [![Fabeo MCP connector](https://glama.ai/mcp/connectors/ai.fabeo/fabeo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fabeo/fabeo)
-  🔐 - Write, edit and render multi-scene branded videos with voice-over and music from your Fabeo account.
 
 ## Community
 
