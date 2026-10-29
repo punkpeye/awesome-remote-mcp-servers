@@ -813,6 +813,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
+- [Cockatoo](https://cockatoo.com.au/agents/) `https://app.cockatoo.com.au/mcp`
+  [![Cockatoo MCP connector](https://glama.ai/mcp/connectors/io.github.louisblythe/cockatoo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.louisblythe/cockatoo)
+  🔐 - Create, edit, preview and publish hosted business websites with owner-approved access.
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [Convika](https://convika.com) `https://mcp.convika.com/mcp`
