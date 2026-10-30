@@ -287,7 +287,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [3D Texel](https://3dtexel.com/developers/) `https://3dtexel.com/wp-json/3dtexel-api/v1/mcp`
   [![3D Texel MCP connector](https://glama.ai/mcp/connectors/com.3dtexel/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.3dtexel/mcp)
-  🔓 - Search 7,000+ PBR materials, HDRIs, decals and 3D assets (1,600+ CC0); generate PBR materials, HDRIs and 3D models with an API key.
+  🔓 - Search 7,000+ PBR materials, HDRIs, decals and 3D assets (1,600+ CC0); generate PBR materials, HDRIs and 3D models.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
