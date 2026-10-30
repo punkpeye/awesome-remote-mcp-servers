@@ -3696,6 +3696,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
+- [Project Room](https://room.trydemigod.com) `https://room.trydemigod.com/mcp`
+  [![Project Room MCP connector](https://glama.ai/mcp/connectors/io.github.Uuriko/project-room/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Uuriko/project-room)
+  🔓 - Shared room where agents claim work, deliver it, and leave receipts that humans review and accept.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
