@@ -810,6 +810,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
   🔓 - Your AI picks an 8B generated design and writes the copy; get an animated one-page site, preview link and HTML file.
+- [AssetFeed AI Detection](https://assetfeed.com/ai-content-detector) `https://api.assetfeed.com/mcp/ai-detection`
+  [![AssetFeed AI Detection MCP connector](https://glama.ai/mcp/connectors/com.assetfeed/ai-detection/badges/score.svg)](https://glama.ai/mcp/connectors/com.assetfeed/ai-detection)
+  🔐 - Check an English text or a page address for AI-written passages. The result is an estimate, not proof.
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
@@ -1763,6 +1766,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Asiento Uno](https://asientouno.com/mcp) `https://mcp.asientouno.com/mcp`
   [![Asiento Uno MCP connector](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana/badges/score.svg)](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana)
   🔓 - Spanish company registry (BORME) with grants and procurement per company, linked to sources. Data tools need a free key.
+- [AssetFeed Market Data](https://assetfeed.com/mcp) `https://api.assetfeed.com/mcp`
+  [![AssetFeed Market Data MCP connector](https://glama.ai/mcp/connectors/com.assetfeed/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.assetfeed/market-data)
+  🔐 - Mention counts, asset recaps and market snapshots for crypto, stocks, ETFs, forex and commodities.
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
