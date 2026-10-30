@@ -3466,6 +3466,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MomentClip](https://momentclip.com) `https://momentclip.com/mcp`
   [![MomentClip MCP connector](https://glama.ai/mcp/connectors/com.momentclip/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.momentclip/mcp)
   🔐 - Find moments in YouTube videos by what's said or shown, ask cited questions and export clips and transcripts.
+- [Motioneed](https://www.motioneed.com/developers?ref=mcp) `https://www.motioneed.com/mcp`
+  [![Motioneed MCP connector](https://glama.ai/mcp/connectors/com.motioneed/motioneed/badges/score.svg)](https://glama.ai/mcp/connectors/com.motioneed/motioneed)
+  🔓 - Turn a product URL or one sentence into a launch video (MP4) with your real UI; making one needs a paid API key.
 - [Mureka MCP Server by useapi.net](https://useapi.net/docs/api-mureka-v1/mcp) `https://api.useapi.net/v1/mureka/mcp`
   [![Mureka MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/mureka/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/mureka)
   🔐 - Mureka songs in your own voice, stems, sheet music and speech on your Mureka account. Not affiliated with Mureka.
