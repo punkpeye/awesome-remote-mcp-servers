@@ -398,6 +398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [Archboard](https://getarchboard.app/ai-agents) `https://getarchboard.app/mcp`
+  [![Archboard MCP connector](https://glama.ai/mcp/connectors/app.getarchboard/archboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.getarchboard/archboard)
+  🔐 - Create, read and edit architecture, Kubernetes, C4, flowchart and ER diagrams on a live, shared canvas.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
