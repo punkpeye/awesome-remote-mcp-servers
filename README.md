@@ -3553,6 +3553,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vidova](https://vidova.ai) `https://mcp.vidova.ai/mcp`
   [![Vidova MCP connector](https://glama.ai/mcp/connectors/ai.vidova/vidova/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vidova/vidova)
   🔐 - Edit videos on a real timeline, generate clips, music and voice, track faces and render finished cuts.
+- [Whiteboard Animation](https://whiteboardanimation.ai/mcp) `https://mcp.whiteboardanimation.ai/mcp`
+  [![Whiteboard Animation MCP connector](https://glama.ai/mcp/connectors/ai.whiteboardanimation/whiteboard-animation/badges/score.svg)](https://glama.ai/mcp/connectors/ai.whiteboardanimation/whiteboard-animation)
+  🔐 - Turn any picture into a hand-drawn whiteboard animation video, rendered as MP4, transparent WebM or PNG.
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
