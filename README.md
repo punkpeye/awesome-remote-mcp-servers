@@ -1324,6 +1324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
+- [TuringCorp Decider](https://mcp.turingcorp.net/) `https://mcp.turingcorp.net/mcp`
+  [![TuringCorp Decider MCP connector](https://glama.ai/mcp/connectors/net.turingcorp.mcp/decider/badges/score.svg)](https://glama.ai/mcp/connectors/net.turingcorp.mcp/decider)
+  🔑 - Judge which of two defensible options is better, returning the pick, a calibrated confidence, and the reason.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
