@@ -4516,6 +4516,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkPublish](https://www.bulkpublish.com) `https://mcp.bulkpublish.com/mcp`
   [![BulkPublish MCP connector](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish/badges/score.svg)](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish)
   🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
+- [Clipping Alpha](https://clippingalpha.com) `https://clippingalpha.com/mcp`
+  [![Clipping Alpha MCP connector](https://glama.ai/mcp/connectors/com.clippingalpha/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.clippingalpha/mcp)
+  🔓 - Rank live clipping and UGC campaigns by Alpha Score, with pay per 1K views, budget left, briefs and the moments to clip.
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
