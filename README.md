@@ -3310,6 +3310,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HTTPStatus](https://httpstatus.com/mcp/) `https://mcp.httpstatus.com/mcp`
   [![HTTPStatus MCP connector](https://glama.ai/mcp/connectors/com.httpstatus/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.httpstatus/mcp-server)
   🔐 - Create API mocks and run tests, security checks, automation workflows, and uptime monitors.
+- [InfraNest](https://infranest.io) `https://api.infranest.io/mcp`
+  [![InfraNest MCP connector](https://glama.ai/mcp/connectors/io.infranest/infranest/badges/score.svg)](https://glama.ai/mcp/connectors/io.infranest/infranest)
+  🔐 - Read servers, monitors, incidents, DNS, domains and certificates; acknowledge incidents and run maintenance windows.
 - [is it DNS?](https://isitdns.net) `https://isitdns.net/mcp`
   [![is it DNS? MCP connector](https://glama.ai/mcp/connectors/net.isitdns/isitdns/badges/score.svg)](https://glama.ai/mcp/connectors/net.isitdns/isitdns)
   🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, read the live resolver board; no key.
