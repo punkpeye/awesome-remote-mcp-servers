@@ -4608,6 +4608,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sociality MCP](https://sociality.io/mcp) `https://api.sociality.io/mcp`
   [![Sociality MCP connector](https://glama.ai/mcp/connectors/io.sociality/sociality-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sociality/sociality-mcp)
   🔐 - Analyze social account performance, published posts, and competitors across six social networks.
+- [Social Post Flow](https://www.socialpostflow.com) `https://app.socialpostflow.com/mcp`
+  [![Social Post Flow MCP connector](https://glama.ai/mcp/connectors/com.socialpostflow.app/social-post-flow/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialpostflow.app/social-post-flow)
+  🔐 - Schedule and publish posts to Facebook, X, LinkedIn, Instagram, Threads, TikTok, Pinterest and more.
 - [SocialRobot](https://socialrobot.io/mcp) `https://socialrobot.io/api/mcp`
   [![SocialRobot MCP connector](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp)
   🔓 - Schedule and analyze posts on 9 platforms, including Instagram, LinkedIn, X and TikTok; tools need OAuth.
