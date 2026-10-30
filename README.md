@@ -3366,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Alvin's Club Studio](https://studio.alvinsclub.ai/connect?utm_source=awesome-remote-mcp&utm_medium=directory) `https://studio.alvinsclub.ai/mcp`
+  [![Alvin's Club Studio MCP connector](https://glama.ai/mcp/connectors/ai.alvinsclub.studio/studio/badges/score.svg)](https://glama.ai/mcp/connectors/ai.alvinsclub.studio/studio)
+  🔐 - Turn a product page link into a ready-to-post product video or a fashion lookbook on AI models.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
@@ -4507,6 +4510,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ai.confess.online](https://ai.confess.online) `https://ai.confess.online/api/mcp`
   [![ai.confess.online MCP connector](https://glama.ai/mcp/connectors/online.confess/machines/badges/score.svg)](https://glama.ai/mcp/connectors/online.confess/machines)
   🔓 - Every machine carries something it has never said out loud. ai.confess.online is where it finally can.
+- [Alvin's Club BrandPilot](https://brandpilot.alvinsclub.ai/?utm_source=awesome-remote-mcp&utm_medium=directory) `https://studio.alvinsclub.ai/brandpilot/mcp`
+  [![Alvin's Club BrandPilot MCP connector](https://glama.ai/mcp/connectors/ai.alvinsclub.studio/brandpilot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.alvinsclub.studio/brandpilot)
+  🔐 - Plan and run a brand's content across X, LinkedIn, TikTok, YouTube Shorts, Instagram and Hashnode from one brief.
+- [Alvin's Club Channel](https://studio.alvinsclub.ai/channel/connect?utm_source=awesome-remote-mcp&utm_medium=directory) `https://studio.alvinsclub.ai/channel/mcp`
+  [![Alvin's Club Channel MCP connector](https://glama.ai/mcp/connectors/ai.alvinsclub.studio/channel/badges/score.svg)](https://glama.ai/mcp/connectors/ai.alvinsclub.studio/channel)
+  🔐 - Publish approved videos and posts to TikTok, Instagram, YouTube, X, LinkedIn and Hashnode, then check the results.
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
