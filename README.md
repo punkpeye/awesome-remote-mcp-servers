@@ -3266,6 +3266,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
+- [Apparent](https://apparent.fyi/app-analytics-mcp) `https://app.apparent.fyi/mcp`
+  [![Apparent MCP connector](https://glama.ai/mcp/connectors/fyi.apparent/apparent/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.apparent/apparent)
+  🔑 - Ask how your iOS and Android apps are doing: live activity, sales, reviews and why a number changed.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
   [![Baromio MCP connector](https://glama.ai/mcp/connectors/io.baromio/baromio/badges/score.svg)](https://glama.ai/mcp/connectors/io.baromio/baromio)
   🔐 - Read uptime, incidents, SSL, domain expiry and Core Web Vitals; create, edit and pause monitors on paid plans.
