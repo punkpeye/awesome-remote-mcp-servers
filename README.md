@@ -3220,6 +3220,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SurfacedBy AI Visibility & GEO Audit](https://surfacedby.com/tools/chatgpt-ai-visibility) `https://api.surfacedby.com/api/v1/mcp/public/`
   [![SurfacedBy AI Visibility & GEO Audit MCP connector](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility)
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
+- [SurveyNinja](https://surveyninja.io) `https://mcp.surveyninja.io/mcp/v1`
+  [![SurveyNinja MCP connector](https://glama.ai/mcp/connectors/io.surveyninja/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.surveyninja/mcp)
+  🔐 - Build surveys, read responses and reports, and export them to CSV, Excel, SPSS or PDF.
 
 - [SyncSignature Email Signatures](https://syncsignature.com/mcp/) `https://mcp.syncsignature.com/mcp`
   [![SyncSignature Email Signatures MCP connector](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures/badges/score.svg)](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures)
