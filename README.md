@@ -5115,6 +5115,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tempi](https://meettempi.com/ai) `https://meettempi.com/mcp`
   [![Tempi MCP connector](https://glama.ai/mcp/connectors/com.meettempi/tempi/badges/score.svg)](https://glama.ai/mcp/connectors/com.meettempi/tempi)
   🔓 - Find open times on anyone's Tempi booking link and book, reschedule or cancel meetings, no account needed.
+- [ThinkSpace](https://thinkspace-app.com) `https://mcp.thinkspace-app.com/mcp`
+  [![ThinkSpace MCP connector](https://glama.ai/mcp/connectors/com.thinkspace-app/thinkspace/badges/score.svg)](https://glama.ai/mcp/connectors/com.thinkspace-app/thinkspace)
+  🔐 - Send notes from Claude, ChatGPT or Claude Code to your ThinkSpace inbox (iPhone, iPad, Mac) and arrange them into cards on an infinite canvas. One write-only tool.
 - [Time of Meeting](https://timeofmeeting.com/mcp) `https://timeofmeeting.com/mcp`
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
