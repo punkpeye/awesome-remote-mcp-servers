@@ -1757,6 +1757,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Executive Brief](https://antevo.ch/executive/) `https://api.antevo.ch/mcp/executive/mcp`
   [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/executive/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/executive)
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
+- [Argos Bot CTS Bridge Lookup](https://www.argosbot.io/x402) `https://arcus-api.argosbot.io/mcp`
+  [![Argos Bot CTS Bridge Lookup MCP connector](https://glama.ai/mcp/connectors/io.argosbot.arcus-api/argos-bot-cts-bridge-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/io.argosbot.arcus-api/argos-bot-cts-bridge-lookup)
+  🔓 - Inspect Arc/Base CTS bridges and wrapped supply; lookups cost 0.007 USDC on Arc via x402.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
