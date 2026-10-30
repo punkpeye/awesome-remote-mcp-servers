@@ -188,6 +188,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ISHOB](https://ishob.com) `https://api.ishob.com/mcp`
   [![ISHOB MCP connector](https://glama.ai/mcp/connectors/com.ishob/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.ishob/archive)
   🔓 - 35 pay-per-call tools: web extraction, crypto token and wallet risk, SEC company data, weather risk; x402 USDC.
+- [Kin](https://kinlab.ai) `https://app.kinlab.ai/mcp`
+  [![Kin MCP connector](https://glama.ai/mcp/connectors/ai.kinlab/kin/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kinlab/kin)
+  🔐 - One MCP address for your accounts, with Allow, Ask me or Block per account, enforced when each action runs.
 - [MCP Charts](https://mcpcharts.com) `https://mcpcharts.com/mcp`
   [![MCP Charts MCP connector](https://glama.ai/mcp/connectors/com.mcpcharts/mcpcharts/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcharts/mcpcharts)
   🔓 - Find MCP servers, skills, plugins, agents, prompts and rules for a task, with compatibility evidence.
