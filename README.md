@@ -694,6 +694,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
+- [Cedric](https://meet-cedric.com) `https://app.meet-cedric.com/api/v1/mcp`
+  [![Cedric MCP connector](https://glama.ai/mcp/connectors/io.github.meet-cedric/cedric/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meet-cedric/cedric)
+  🔐 - AI employee for Slack, Telegram and Discord: team memory, channels, meetings, files and 3,000+ connected apps.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
