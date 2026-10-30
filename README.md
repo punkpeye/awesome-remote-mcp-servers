@@ -2366,7 +2366,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [x402 Agent Hub](https://x402-agent-hub.x402-agent-hub.workers.dev) `https://x402-agent-hub.x402-agent-hub.workers.dev/mcp`
   [![x402 Agent Hub MCP connector](https://glama.ai/mcp/connectors/io.github.BlackCat-cyber-creator/x402-agent-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.BlackCat-cyber-creator/x402-agent-hub)
-  🔓 - Token honeypot and DEX liquidity audits, ECN CFD/Forex spreads, ICT killzones and prop-firm sizing; Base USDC via x402.
+  🔓 - Base/EVM/Solana token honeypot and DEX liquidity audits, ECN CFD/Forex spreads, ICT killzones and prop sizing via x402.
 - [x402-agent-data](https://x402-agent.majighufron.workers.dev) `https://x402-agent.majighufron.workers.dev/mcp`
   [![x402-agent-data MCP connector](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AjiGhufron9999/x402-agent-data)
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
