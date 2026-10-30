@@ -2978,6 +2978,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
+- [IndexPulse](https://indexpulse.puzaricloud.in) `https://indexpulse.puzaricloud.in/mcp`
+  [![IndexPulse MCP connector](https://glama.ai/mcp/connectors/in.puzaricloud/indexpulse/badges/score.svg)](https://glama.ai/mcp/connectors/in.puzaricloud/indexpulse)
+  🔐 - Bing Webmaster, IndexNow and Search Console: rankings, Google vs Bing gaps, indexing gaps and AI crawler audits.
+
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
