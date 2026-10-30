@@ -2840,6 +2840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [Mandate Office](https://mandateoffice.com) `https://mandateoffice.com/mcp`
+  [![Mandate Office MCP connector](https://glama.ai/mcp/connectors/com.mandateoffice/mandate/badges/score.svg)](https://glama.ai/mcp/connectors/com.mandateoffice/mandate)
+  🔓 - Official links to EU and national law in all 27 EU states, public company register data and company formation guides.
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
