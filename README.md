@@ -1667,6 +1667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [quickS3](https://quicks3.com/s3-mcp-server/) `https://quicks3.com/mcp`
   [![quickS3 MCP connector](https://glama.ai/mcp/connectors/com.quicks3/quicks3/badges/score.svg)](https://glama.ai/mcp/connectors/com.quicks3/quicks3)
   🔐 - List, upload, download, and share files in S3, R2, B2, Wasabi, and Spaces buckets, scoped by delegated roles.
+- [The Drive AI](https://thedrive.ai/mcp) `https://mcp.thedrive.ai/mcp`
+  [![The Drive AI MCP connector](https://glama.ai/mcp/connectors/ai.thedrive/thedriveai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.thedrive/thedriveai)
+  🔐 - Find, read and reorganize files across Google Drive, OneDrive, SharePoint and Dropbox, with preview and undo.
 - [Yungle](https://yungle.co/for/ai-agents) `https://yungle.co/mcp`
   [![Yungle MCP connector](https://glama.ai/mcp/connectors/co.yungle/yungle/badges/score.svg)](https://glama.ai/mcp/connectors/co.yungle/yungle)
   🔐 - Send files to people as download links, list transfers and read download receipts, hosted in the EU.
