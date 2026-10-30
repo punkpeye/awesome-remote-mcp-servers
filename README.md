@@ -3366,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Aisma](https://aisma.ai) `https://api.aisma.ai/mcp`
+  [![Aisma MCP connector](https://glama.ai/mcp/connectors/ai.aisma/aisma/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aisma/aisma)
+  🔐 - Edit clips you already shot from a plain-words brief and up to 10 photos; framing and audio stay.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
