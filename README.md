@@ -4150,6 +4150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Openpath](https://openpath.sh) `https://openpath.sh/mcp/search`
   [![Openpath MCP connector](https://glama.ai/mcp/connectors/sh.openpath/openpath/badges/score.svg)](https://glama.ai/mcp/connectors/sh.openpath/openpath)
   🔓 - Live jobs (Austin, TX and remote) and Austin-area local businesses, each with an Apply link or an Openpath inbox.
+- [page2md](https://page2md.bigfloppy.net) `https://page2md.bigfloppy.net/mcp`
+  [![page2md MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.page2md/page2md/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.page2md/page2md)
+  🔓 - Convert any web page to clean Markdown for LLM/RAG use, or fetch an RSS/Atom feed as JSON; 3 free URLs/day, paid credits, no account.
 - [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
   [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
   🔓 - Read any public page as clean Markdown, page metadata, or a page plus 4 same-site pages; USDC per call via x402.
