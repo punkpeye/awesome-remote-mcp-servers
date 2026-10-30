@@ -1562,6 +1562,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
+- [prefrosh.ai](https://prefrosh.ai/connector) `https://prefrosh.ai/mcp`
+  [![prefrosh.ai MCP connector](https://glama.ai/mcp/connectors/ai.prefrosh/prefrosh/badges/score.svg)](https://glama.ai/mcp/connectors/ai.prefrosh/prefrosh)
+  🔓 - US college admissions: admit rates by round, your odds, college comparisons and a mock admissions committee.
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
