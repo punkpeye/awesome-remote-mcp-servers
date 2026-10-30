@@ -2298,6 +2298,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradingMCP](https://tradingmcp.ai) `https://mcp.cryptosieve.com/mcp`
   [![TradingMCP MCP connector](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp)
   🔓 - Market screeners, technical analysis, backtests and charts for crypto, stocks and FX; tool calls need an API key.
+- [Tradoshi](https://tradoshi.com/en/developers) `https://tradoshi.com/mcp`
+  [![Tradoshi MCP connector](https://glama.ai/mcp/connectors/com.tradoshi/rankings/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradoshi/rankings)
+  🔓 - 2027 rankings of trading schools and prop firms, every criterion with its source, plus trading journal market data.
 - [TronOrb](https://tronorb.com/developers/mcp) `https://tronorb.com/mcp`
   [![TronOrb MCP connector](https://glama.ai/mcp/connectors/com.tronorb/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tronorb/mcp)
   🔓 - Live TRON data: USDT TRC-20 fees with and without energy, address checks, Tether freezes, dApp and exchange rankings.
