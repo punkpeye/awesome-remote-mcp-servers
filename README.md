@@ -4587,6 +4587,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Runsheet](https://runsheet.buildifyapp.in/mcp) `https://runsheet.buildifyapp.in/api/mcp`
   [![Runsheet MCP connector](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler/badges/score.svg)](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler)
   🔐 - Read a YouTube channel's schedule and stats, schedule, publish and retitle videos, and draft copy, all on approval.
+- [ScraperSocial](https://scrapersocial.com/mcp/?utm_source=awesome-remote-mcp-punkpeye) `https://mcp.scrapersocial.com`
+  [![ScraperSocial MCP connector](https://glama.ai/mcp/connectors/com.scrapersocial.mcp/scraper-social/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrapersocial.mcp/scraper-social)
+  🔐 - Public profiles, posts, comments, search and video transcripts from TikTok, Instagram, LinkedIn and 30+ platforms.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
