@@ -4334,7 +4334,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
-- [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
+- [Curbi](https://curbi.io) `https://curbi.io/api/mcp`
+  [![Curbi MCP connector](https://glama.ai/mcp/connectors/io.curbi/curbi/badges/score.svg)](https://glama.ai/mcp/connectors/io.curbi/curbi)
+  🔓 - Check AI agent replies against your policy before they reach a customer. Deterministic, no model calls.
+ [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
   [![CVE Risk Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/cve/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/cve)
   🔓 - Checks CVEs and dependency lists against OSV, NVD, EPSS and CISA KEV, and ranks what to fix first.
 - [Datakoot Domain & Company](https://datakoot.com/domain-company) `https://domain.datakoot.com/mcp`
