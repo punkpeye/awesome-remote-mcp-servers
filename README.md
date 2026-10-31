@@ -1679,6 +1679,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Browse, search, move and share files in your own S3-compatible buckets (AWS S3, MinIO, IDrive e2).
 
 ### 💰 <a name="finance"></a>Finance
+- [Santa Rosa Protocol](https://github.com/lucascordone-spec/santa-rosa) - Ultra-low 0.03% DEX swap router (saving 88% vs Uniswap 0.25%), 0% fee Morpho flash leverage, anti-liquidation debt rescue, and 80/20 on-chain builder rev-share for AI agents on Base L2. Remote Endpoint: `https://vol-gentle-unified-expected.trycloudflare.com/mcp`
 
 - [0s and 1s CIS](https://0sand1s.co.uk/developers) `https://0sand1s.co.uk/mcp`
   [![0s and 1s CIS MCP connector](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis)
