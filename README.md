@@ -1399,6 +1399,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BirkinBagStock](https://birkinbagstock.com) `https://birkinbagstock.com/mcp`
   [![BirkinBagStock MCP connector](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp)
   🔓 - Independent Hermès resale index: inventory, market prices, auction calendar and results.
+- [BlaBlaPrice](https://blablaprice.com/site/mcp) `https://blablaprice.com/api/mcp`
+  [![BlaBlaPrice MCP connector](https://glama.ai/mcp/connectors/com.blablaprice/blablaprice/badges/score.svg)](https://glama.ai/mcp/connectors/com.blablaprice/blablaprice)
+  🔐 - Request-for-quotes in 28 countries: post a need, compare local sellers' offers; sellers' own agents answer requests.
 - [Cambridge China Bridge](https://camchinabridge.co.uk) `https://camchinabridge.co.uk/mcp`
   [![Cambridge China Bridge MCP connector](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing)
   🔓 - UK import duty, landed cost, anti-dumping and UK compliance checks for goods from China, plus CNY and freight planning.
