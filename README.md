@@ -3430,7 +3430,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Generate and edit videos from a prompt.
 - [Kelpo](https://kelpo.app) `https://kelpo.app/api/mcp`
   [![Kelpo MCP connector](https://glama.ai/mcp/connectors/app.kelpo/kelpo/badges/score.svg)](https://glama.ai/mcp/connectors/app.kelpo/kelpo)
-  🔐 - Create vertical UGC-style videos with AI actors or your own photo and voice, with automatic Shorts-style editing.
+  🔐 - Make AI videos by chatting: TikTok, Reels, Shorts or long-form YouTube, starring you (from your photos and voice) or AI actors.
 - [Kinetune](https://kinetune.com/developers#mcp) `https://kinetune.com/mcp`
   [![Kinetune MCP connector](https://glama.ai/mcp/connectors/com.kinetune/kinetune/badges/score.svg)](https://glama.ai/mcp/connectors/com.kinetune/kinetune)
   🔐 - Word-synced lyric videos (9:16, 16:9, 1:1) and Spotify Canvas loops from your songs, quoted in credits first.
