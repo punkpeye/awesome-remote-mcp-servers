@@ -646,6 +646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roar AI](https://roar-ai.com/docs/mcp) `https://cloud.roar-ai.com/mcp`
   [![Roar AI MCP connector](https://glama.ai/mcp/connectors/com.roar-ai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.roar-ai/mcp)
   🔐 - Deploy apps from GitHub with databases and domains, manage API keys and spend, and call 200+ AI models.
+- [Sevalla](https://docs.sevalla.com/ai-agents/overview) `https://mcp.sevalla.com/mcp`
+  [![Sevalla MCP connector](https://glama.ai/mcp/connectors/io.github.sevalla/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sevalla/mcp)
+  🔐 - Deploy and debug apps, static sites and databases on Sevalla: deployments, logs, metrics, scaling and env vars.
 - [ShipStatic](https://shipstatic.com) `https://mcp.shipstatic.com`
   [![ShipStatic MCP connector](https://glama.ai/mcp/connectors/com.shipstatic/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.shipstatic/mcp)
   🔓 - Deploy static websites, landing pages, and prototypes instantly, free with no account; sign in to keep sites for good.
