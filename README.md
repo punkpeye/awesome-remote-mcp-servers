@@ -3005,6 +3005,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
+- [Exepal](https://exepal.com/docs#mcp) `https://api.exepal.com/mcp`
+  [![Exepal MCP connector](https://glama.ai/mcp/connectors/com.exepal/exepal/badges/score.svg)](https://glama.ai/mcp/connectors/com.exepal/exepal)
+  🔓 - AI brand visibility, company enrichment, creator vetting, ad scoring and SERP checks; pay per call in USDC via x402.
 - [fnlowl](https://fnlowl.com) `https://api.fnlowl.com/v1/mcp`
   [![fnlowl MCP connector](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl)
   🔓 - Manage website widgets, leads, email sequences and analytics; discovery is open, tool calls need a sign-in.
