@@ -2905,10 +2905,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AEO Backlink MCP connector](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-backlink/badges/score.svg)](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-backlink)
   🔓 - Link-building research: brand mentions, prospects, competitor link sources and page link checks.
 
-- [AEO Search](https://docs.advancelabs.dev/aeo-toolkit/reference/mcp-registry-install/) `https://aeo.advancelabs.dev/api/mcp/search/mcp`
-  [![AEO Search MCP connector](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-search/badges/score.svg)](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-search)
-  🔐 - Read-only Google Search Console, GA4 and Bing Webmaster data for SEO analysis: queries, pages, CTR gaps, drops.
-
 - [AffiliateBase](https://www.affiliatebase.io) `https://app.affiliatebase.io/mcp`
   [![AffiliateBase MCP connector](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase/badges/score.svg)](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase)
   🔐 - Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions and payouts.
