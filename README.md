@@ -556,6 +556,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Framejet MCP connector](https://glama.ai/mcp/connectors/dev.framejet/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/dev.framejet/screenshot)
   🔓 - Screenshot any URL to PNG or JPEG with cookie banners and chat widgets removed; needs a free API key.
 
+- [Irmu](https://irmu.com) `https://app.irmu.com/mcp`
+  [![Irmu MCP connector](https://glama.ai/mcp/connectors/com.irmu.app/irmu/badges/score.svg)](https://glama.ai/mcp/connectors/com.irmu.app/irmu)
+  🔐 - Web scraping, browser automation, screenshots and AI data extraction; OAuth or API key.
+
 - [localscreenshot](https://localscreenshot.com) `https://api.localscreenshot.com/mcp/free`
   [![localscreenshot MCP connector](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot/badges/score.svg)](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot)
   🔓 - Screenshot any public page as PNG, JPEG or PDF, from 227 countries, with cookie banners and ads hidden.
