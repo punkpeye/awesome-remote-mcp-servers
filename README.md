@@ -3588,6 +3588,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [HitPay](https://docs.hitpayapp.com/apis/guide/mcp-server) `https://mcp.hit-pay.com/`
+  [![HitPay MCP connector](https://glama.ai/mcp/connectors/com.hit-pay/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hit-pay/mcp)
+  🔐 - Query HitPay sales, transactions, payouts and balances, and create payment links and invoices.
 - [Kulhad](https://kulhad.co) `https://kulhad.co/mcp`
   [![Kulhad MCP connector](https://glama.ai/mcp/connectors/co.kulhad/kulhad/badges/score.svg)](https://glama.ai/mcp/connectors/co.kulhad/kulhad)
   🔓 - Run a creator's UPI support page in India: approve and thank supporters, set goals, edit the page, get QR codes.
