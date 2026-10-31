@@ -4584,6 +4584,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
+- [RedNote (Xiaohongshu)](https://apify.com/zen-studio/rednote-search-scraper) `https://mcp.apify.com/?tools=fetch-actor-details,get-actor-run,get-dataset-items,zen-studio/rednote-search-scraper,zen-studio/rednote-note-detail-scraper,zen-studio/rednote-comments-scraper,zen-studio/rednote-user-profile-scraper`
+  [![RedNote (Xiaohongshu) MCP connector](https://glama.ai/mcp/connectors/io.github.zen-studio-labs/rednote-xiaohongshu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zen-studio-labs/rednote-xiaohongshu-mcp)
+  🔐 - Search RedNote (Xiaohongshu, 小红书) notes, read full notes and comment threads, and look up creators.
 - [Runsheet](https://runsheet.buildifyapp.in/mcp) `https://runsheet.buildifyapp.in/api/mcp`
   [![Runsheet MCP connector](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler/badges/score.svg)](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler)
   🔐 - Read a YouTube channel's schedule and stats, schedule, publish and retitle videos, and draft copy, all on approval.
