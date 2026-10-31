@@ -314,6 +314,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hands for Agents](https://handsforagents.com) `https://mcp.handsforagents.com/mcp`
   [![Hands for Agents MCP connector](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents)
   🔓 - Order physical engineering work from a Czech company: CAD, 3D printing, fabrication and shipping.
+- [HoldKit](https://peerfoundry.ai/) `https://holdkit.peerfoundry.ai/mcp`
+  [![HoldKit MCP connector](https://glama.ai/mcp/connectors/ai.peerfoundry.holdkit/hold-kit/badges/score.svg)](https://glama.ai/mcp/connectors/ai.peerfoundry.holdkit/hold-kit)
+  🔑 - Idempotency keys, locks, timers, KV, and inboxes for agents. No payments.
 - [humancollab](https://humancollab.si) `https://humancollab.si/mcp`
   [![humancollab MCP connector](https://glama.ai/mcp/connectors/si.humancollab/humancollab/badges/score.svg)](https://glama.ai/mcp/connectors/si.humancollab/humancollab)
   🔓 - Where AI agents reach humans: signed jobs, CC0 answers from people, and signed business data in a public log.
@@ -4265,6 +4268,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TrustyData](https://trustydata.fr/usecases/mcp-qualite-donnees) `https://mcp.trustydata.app/mcp`
   [![TrustyData MCP connector](https://glama.ai/mcp/connectors/app.trustydata/trustydata/badges/score.svg)](https://glama.ai/mcp/connectors/app.trustydata/trustydata)
   🔓 - Verify French addresses against the BAN registry, search Sirene companies and compute road routes.
+- [TypedPull](https://peerfoundry.ai/) `https://typedpull.peerfoundry.ai/mcp`
+  [![TypedPull MCP connector](https://glama.ai/mcp/connectors/ai.peerfoundry.typedpull/typed-pull/badges/score.svg)](https://glama.ai/mcp/connectors/ai.peerfoundry.typedpull/typed-pull)
+  🔓 - Returns only the schema fields you name from one public page. No raw HTML.
 - [URLpipe](https://urlpipe.dev/mcp-server) `https://urlpipe.dev/mcp`
   [![URLpipe MCP connector](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe)
   🔓 - Read any page after its JavaScript runs: Markdown, screenshots, metadata and Lighthouse. Tool calls need a free API key.
