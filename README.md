@@ -2082,6 +2082,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Money Reactor](https://money-reactor.makar52nn2016.workers.dev/) `https://money-reactor.makar52nn2016.workers.dev/mcp`
   [![Money Reactor MCP connector](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor)
   🔓 - Pay-per-call x402 API on Base: token verdicts, research dossiers, crypto prices, weather, AI chat; USDC.
+- [MonitorBankRates](https://www.monitorbankrates.com/connector) `https://mcp.monitorbankrates.com/mcp`
+  [![MonitorBankRates MCP connector](https://glama.ai/mcp/connectors/com.monitorbankrates/rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.monitorbankrates/rates)
+  🔓 - US bank and credit union rates by city or state: CDs, savings, mortgages, HELOCs, plus HMDA lenders and indexes.
 - [More AI](https://accounting.amore.cloud/en/fortnox-mcp/) `https://accounting.amore.cloud/mcp`
   [![More AI MCP connector](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox)
   🔐 - Fortnox (Swedish accounting): read invoices, ledger, VAT and reports; changes only after the user approves.
