@@ -872,6 +872,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sitelas](https://sitelas.com) `https://sitelas.com/api/mcp`
   [![Sitelas MCP connector](https://glama.ai/mcp/connectors/com.sitelas/sitelas/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelas/sitelas)
   🔐 - Build a website from a template, preview it, publish on approval, then edit it and read its form messages.
+- [SlideWeave](https://slideweave.com/docs/) `https://api.slideweave.com/mcp`
+  [![SlideWeave MCP connector](https://glama.ai/mcp/connectors/com.slideweave/slideweave/badges/score.svg)](https://glama.ai/mcp/connectors/com.slideweave/slideweave)
+  🔐 - Create, read, update and publish hosted presentations written in SlideLang, with PDF and PowerPoint export.
 - [SnapHost](https://snaphost.ai) `https://app.snaphost.ai/api/mcp`
   [![SnapHost MCP connector](https://glama.ai/mcp/connectors/ai.snaphost/snaphost/badges/score.svg)](https://glama.ai/mcp/connectors/ai.snaphost/snaphost)
   🔐 - Publish a page or site to a private link, control who can view it, and update it in place.
