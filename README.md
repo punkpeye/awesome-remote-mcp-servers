@@ -3520,6 +3520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [Transcript Dock](https://www.transcriptdock.com/?utm_source=awesome_remote_mcp_servers&utm_medium=directory&utm_campaign=launch) `https://www.transcriptdock.com/mcp`
+  [![Transcript Dock MCP connector](https://glama.ai/mcp/connectors/com.transcriptdock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.transcriptdock/mcp)
+  🔐 - Timed transcripts from YouTube, TikTok, Instagram Reels (paid beta), and files, with subtitle exports.
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
