@@ -1223,6 +1223,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perq](https://perq.sh/agents) `https://perq.sh/mcp`
   [![Perq MCP connector](https://glama.ai/mcp/connectors/sh.perq/perq/badges/score.svg)](https://glama.ai/mcp/connectors/sh.perq/perq)
   🔓 - Find verified free AI credits, free tiers and startup programs, each with a source link and last-verified date.
+- [Persqo](https://persqo.com/mcp?utm_source=github&utm_medium=awesome-list&utm_campaign=dirs_2026-10-31) `https://persqo.com/api/mcp`
+  [![Persqo MCP connector](https://glama.ai/mcp/connectors/com.persqo/persqo/badges/score.svg)](https://glama.ai/mcp/connectors/com.persqo/persqo)
+  🔐 🔑 - AI personas test your web app like real users and hand your coding agent ready-to-paste fix prompts.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
