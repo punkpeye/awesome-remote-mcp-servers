@@ -4647,6 +4647,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - X (Twitter), YouTube & TikTok Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/ultimate-x-twitter-advanced-search-scraper,delicious_zebu/advanced-x-twitter-profile-scraper,delicious_zebu/x-global-trending-scraper,delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/tiktok-video-comment-scraper`
   [![Zebu Data - X (Twitter), YouTube & TikTok Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/social-video-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/social-video-data)
   🔐 - X (Twitter) search, profiles and trends, YouTube search, video stats and comments, TikTok comments.
+- [Zoosial](https://zoosial.com/producto/mcp-agentes-ia) `https://zoosial.com/mcp`
+  [![Zoosial MCP connector](https://glama.ai/mcp/connectors/com.zoosial/zoosial/badges/score.svg)](https://glama.ai/mcp/connectors/com.zoosial/zoosial)
+  🔐 - Publish, reply to DMs and comments, capture leads and run Meta ads on Instagram, Facebook, WhatsApp and TikTok.
 
 ### 🏆 <a name="sports"></a>Sports
 
