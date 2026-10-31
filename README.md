@@ -2871,6 +2871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [212 Medya Growth Check](https://212medya.com.tr) `https://212medya.com.tr/mcp`
+  🔓 - Audit any public URL for PageSpeed, Core Web Vitals, technical SEO, and Google/Meta Ads readiness with no authentication required.
+
 - [402registry](https://402registry.com) `https://402registry.com/mcp`
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
