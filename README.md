@@ -76,6 +76,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentX x402 gateway MCP connector](https://glama.ai/mcp/connectors/io.github.floortomproductions-droid/agentx-x402-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.floortomproductions-droid/agentx-x402-gateway)
   🔓 - Catalogue + x402 Doctor for the gateway's 26 pay-per-call agent micro-services (security headers score, CISA KEV/NVD exploit check, SEO audit, WebMCP check/upgrade, weather, site health, Polymarket + crypto data, email deliverability, Landing Page Roast; USDC on Base + Solana, MPP and Stripe rails). Tools are free.
 
+- [AgentX x402 Services (paid MCP tools)](https://agentx.sale) `https://agentx.sale/connect/mcp`
+  🔓 - All 26 AgentX paid micro-services as MCP tools — weather, site health, security headers, SEO audit, WebMCP check, CISA KEV/NVD check, crypto + Polymarket data, email DNS (MX/SPF/DMARC), FX rates, BTC fees, AI classify + keywords, Landing Page Roast. Read-only except one order tool behind user confirmation. Unpaid calls surface the x402 402 challenge in-band (USDC on Base + Solana; MPP and Stripe rails upstream). Listed in the official MCP Registry as `io.github.floortomproductions-droid/agentx-x402-services`.
+
 * 🔗 - [Aggregators](#aggregators)
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🌾 - [Agriculture](#agriculture)
