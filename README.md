@@ -4298,6 +4298,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [Synthex AgentGuard](https://x402.synthexforge.com) `https://x402.synthexforge.com/mcp`
+  🔓 - Signed, independently verifiable security verdicts for MCP tool surfaces: per-tool permission risk, an overall verdict, a canonical SHA-256 and an Ed25519 signature. Deterministic analysis with no model in the decision path, plus a free verifier that checks hash, signature and that the signed evidence re-scores to the same verdict. Paid per manifest in USDC on Base via x402.
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
   [![attest MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/attest)
   🔓 - Verifies AI agent artifacts against JSON Schema and catches positional prompt injection.
