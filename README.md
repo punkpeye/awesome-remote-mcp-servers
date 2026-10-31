@@ -854,6 +854,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write LaTeX from 1,000+ journal, thesis and CV templates and compile to PDF with the build log.
+- [Mondovo](https://app.mondovo.com/connectors) `https://app.mondovo.com/api/mcp/sites`
+  [![Mondovo MCP connector](https://glama.ai/mcp/connectors/com.mondovo.app/mondovo/badges/score.svg)](https://glama.ai/mcp/connectors/com.mondovo.app/mondovo)
+  🔐 - Build, edit and publish professional websites from chat in your Mondovo account.
 - [Posy](https://posy.page) `https://posy.page/api/mcp`
   [![Posy MCP connector](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy)
   🔐 - Build and edit a hand-made link-in-bio page: add links, pick a look, publish it at posy.page.
