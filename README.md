@@ -5103,6 +5103,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [Signathing](https://signathing.com/developers) `https://signathing.com/api/mcp`
+  [![Signathing MCP connector](https://glama.ai/mcp/connectors/com.signathing/signathing/badges/score.svg)](https://glama.ai/mcp/connectors/com.signathing/signathing)
+  🔐 - Send PDFs for e-signature recognized under ESIGN and UETA (up to 25 signers plus view-only recipients, placed fields, templates, reminders, void, sealed certified copies) with a public hash-chained evidence log anyone can verify; 100 free documents a month, then prepaid per document.
 - [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
   [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
   🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
