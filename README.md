@@ -3056,6 +3056,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
 
+- [LeadFast](https://leadfast.vip/agents) `https://leadfast.vip/mcp`
+  [![LeadFast MCP connector](https://glama.ai/mcp/connectors/vip.leadfast/leadfast/badges/score.svg)](https://glama.ai/mcp/connectors/vip.leadfast/leadfast)
+  🔓 🔐 - Find relevant Reddit threads and manage product settings and alerts. Discovery is public; tool calls require OAuth.
+
 - [Lekta](https://lekta.dev) `https://lekta.dev/mcp`
   [![Lekta MCP connector](https://glama.ai/mcp/connectors/dev.lekta/lektadev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.lekta/lektadev)
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
