@@ -2202,6 +2202,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signal Band](https://signalband.net/developers?utm_source=github&utm_medium=organic&utm_campaign=dir-punkpeye-remote) `https://signalband.net/mcp`
   [![Signal Band MCP connector](https://glama.ai/mcp/connectors/net.signalband/decision-engines/badges/score.svg)](https://glama.ai/mcp/connectors/net.signalband/decision-engines)
   🔓 - Evidence-weighted decision engines for venture and AI business cases: fund, pilot or stop, by published rules.
+- [Signal Lab](https://signal-lab-jet.vercel.app/mcp) `https://signal-lab-jet.vercel.app/api/mcp`
+  [![Signal Lab MCP connector](https://glama.ai/mcp/connectors/io.github.QDThead/signal-lab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.QDThead/signal-lab)
+  🔓 - Search a catalog of free market, macro, weather, news and OSINT data sources, with terms links and ingestion skills.
 - [Signed](https://mcp.signed.com) `https://mcp.signed.com`
   [![Signed MCP connector](https://glama.ai/mcp/connectors/com.signed.mcp/signed/badges/score.svg)](https://glama.ai/mcp/connectors/com.signed.mcp/signed)
   🔐 - An angel investor's portfolio, deal pipeline, and contacts: positions, returns, pitches, notes, and transactions.
