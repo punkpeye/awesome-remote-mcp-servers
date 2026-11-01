@@ -3129,7 +3129,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [High Signal](https://highsignal.app) `https://mcp.highsignal.app/high-signal/mcp`
   [![High Signal MCP connector](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal/badges/score.svg)](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal)
   🔓 - Read published High Signal daily briefs, signals and their linked evidence through a bounded, read-only public feed.
-- [HirePulse](https://gethirepulse.xyz) `https://gethirepulse.xyz/mcp`
+- [HirePulse](https://gethirepulse.xyz) - Company enrichment and hiring signals from a domain, plus web page to clean Markdown. Remote MCP with focused profiles, free daily calls under the current policy, and per-result x402 payments.
   [![HirePulse Agent Gateway MCP connector](https://glama.ai/mcp/connectors/io.github.edtool79-collab/hirepulse-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.edtool79-collab/hirepulse-gateway)
   🔓 - B2B intelligence, hiring signals, tech stacks, Google Ads data, and merchant trust audits; 5 free daily calls.
 - [HirePulse - Jobs, Ads, SEO & AliExpress Data](https://apify.com/hirepulse) `https://mcp.apify.com/?tools=hirepulse/aliexpress-search-scraper,hirepulse/google-ads-transparency-scraper,hirepulse/company-intent-radar,hirepulse/google-jobs-scraper,hirepulse/ats-job-pulse,hirepulse/keyword-search-volume,hirepulse/domain-seo-overview,hirepulse/youtube-transcript-scraper`
