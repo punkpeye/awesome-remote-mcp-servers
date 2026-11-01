@@ -3017,6 +3017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
+- [GatherHQ](https://synthetic.gatherhq.com/docs/reports-mcp) `https://synthetic.gatherhq.com/api/v1/mcp`
+  [![GatherHQ MCP connector](https://glama.ai/mcp/connectors/com.gatherhq.synthetic/research-reports/badges/score.svg)](https://glama.ai/mcp/connectors/com.gatherhq.synthetic/research-reports)
+  🔐 - Turn a business question into a customer research report from simulated interviews.
 - [GetAppNiche](https://getappniche.com/mcp) `https://api.getappniche.com/mcp`
   [![GetAppNiche MCP connector](https://glama.ai/mcp/connectors/com.getappniche/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappniche/mcp)
   🔓 - App Store and Google Play data: app search, revenue and download estimates, keywords, reviews; API key for calls.
