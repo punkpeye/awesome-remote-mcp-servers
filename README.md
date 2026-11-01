@@ -2813,9 +2813,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [disclosedby](https://disclosedby.com) `https://disclosedby.com/api/mcp`
   [![disclosedby MCP connector](https://glama.ai/mcp/connectors/com.disclosedby/record/badges/score.svg)](https://glama.ai/mcp/connectors/com.disclosedby/record)
   🔓 - Dated quotes of GDPR art. 28 subprocessor lists: who lists whom, what changed, and what a list said on a date.
-- [DMD Costs legal costs tools](https://github.com/Ments123/dmd-costs-mcp) `https://www.dmdcosts.co.uk/mcp`
+- [DMD Costs legal costs tools](https://www.dmdcosts.co.uk/legal-costs-help) `https://www.dmdcosts.co.uk/mcp`
   [![DMD Costs legal costs tools MCP connector](https://glama.ai/mcp/connectors/io.github.Ments123/dmd-costs-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ments123/dmd-costs-tools)
-  🔓 - England and Wales legal costs: CPR deadlines, detailed assessment, Part 36, fixed costs, court fees and interest, each citing the rule.
+  🔓 - England and Wales legal costs: CPR deadlines, Part 36, fixed costs, court fees and interest, citing each rule.
 - [fynk](https://fynk.com/en/integrations/mcp-server/) `https://app.fynk.com/mcp`
   [![fynk MCP connector](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp)
   🔐 - Manage contracts end to end: find and analyze them, draft or upload new ones, add signatories and send for e-signature.
