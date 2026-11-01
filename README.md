@@ -3487,6 +3487,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
+- [Reelsi](https://reelsi.ai/api?utm_source=github&utm_medium=listing&utm_campaign=directories) `https://reelsi.ai/mcp`
+  🔐 🔑 - Create and revise short-form reels from a prompt plus your video, website, store link or graphic, then download in full quality.
 - [RiverScript](https://riverscript.com/docs/platform-details/mcp) `https://riverscript.com/mcp`
   [![RiverScript MCP connector](https://glama.ai/mcp/connectors/com.riverscript/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.riverscript/mcp)
   🔓 - Get the text of any transcript or translation shared with a RiverScript share link.
