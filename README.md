@@ -983,7 +983,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agent-manager Docs MCP connector](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs)
   🔓 - Search and read the agent-manager docs, list its supported coding CLIs, and get the latest release.
 - [Agenterm](https://github.com/Heming9/agenterm/blob/main/README.md#use-the-hosted-service) `https://agenterm.net/mcp`
-  <!-- Glama connector badge pending registration. -->
+  [![Agenterm MCP connector](https://glama.ai/mcp/connectors/net.agenterm/agenterm/badges/score.svg)](https://glama.ai/mcp/connectors/net.agenterm/agenterm)
   🔓 - Create remote terminal invitations, execute commands, and manage interactive sessions on authorized computers.
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
