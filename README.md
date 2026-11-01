@@ -2110,6 +2110,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenFinance](https://openfinance.tech/agents) `https://api.openfinance.tech/agent/mcp`
   [![OpenFinance MCP connector](https://glama.ai/mcp/connectors/tech.openfinance/trading/badges/score.svg)](https://glama.ai/mcp/connectors/tech.openfinance/trading)
   🔐 - Easy trading for AI agents: crypto and stock perps, Polymarket, swaps, bridges and token launches.
+- [Opinion Alpha](https://opinionalpha.app/blog/opinion-alpha-in-your-ai-assistant) `https://api.opinionalpha.app/mcp`
+  [![Opinion Alpha MCP connector](https://glama.ai/mcp/connectors/app.opinionalpha.api/opinion-alpha/badges/score.svg)](https://glama.ai/mcp/connectors/app.opinionalpha.api/opinion-alpha)
+  🔐 - Finance influencers' stock calls with quotes and sources, plus simulated track records. Free with an account.
 - [OptimistFi](https://optimistfi.com/mcp) `https://mcp.optimistfi.com/mcp`
   [![OptimistFi MCP connector](https://glama.ai/mcp/connectors/com.optimistfi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.optimistfi/mcp)
   🔓 - Perpetual futures on 40 venues, 21 prop firms' rules and prices, and SEC-sourced theses on 6,100+ US stocks.
