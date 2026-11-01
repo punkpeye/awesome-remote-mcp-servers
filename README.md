@@ -572,6 +572,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Shotkiln MCP connector](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln/badges/score.svg)](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln)
   🔓 - Screenshot pages as PNG, JPEG or WebP, render a URL or HTML to PDF, and make 1200x630 OG images; key optional.
 
+- [Shotlane](https://shotlane.dev) `https://shotlane.dev/mcp`
+  [![Shotlane MCP connector](https://glama.ai/mcp/connectors/dev.shotlane/shotlane/badges/score.svg)](https://glama.ai/mcp/connectors/dev.shotlane/shotlane)
+  🔐 - Check pages on phone, tablet and desktop, take screenshots, read pages as Markdown, and render HTML to PDF.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
