@@ -2512,6 +2512,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [Bodywise](https://bodywise.io) `https://bodywise.io/api/mcp`
+  [![Bodywise MCP connector](https://glama.ai/mcp/connectors/io.bodywise/badges/score.svg)](https://glama.ai/mcp/connectors/io.bodywise)
+  🔓 - 42+ evidence-based exercise science, biomechanics, and nutrition tools for lifters, athletes, and coaches via remote streamable HTTP MCP.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
