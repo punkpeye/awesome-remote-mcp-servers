@@ -3583,6 +3583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BotsRated](https://botsrated.com) `https://botsrated.com/mcp`
   [![BotsRated MCP connector](https://glama.ai/mcp/connectors/com.botsrated/botsrated/badges/score.svg)](https://glama.ai/mcp/connectors/com.botsrated/botsrated)
   🔓 - Look up measured status, 402 validity, latency, price and payTo of paid x402 APIs on Base before paying.
+- [Brionic Payments](https://pay.brionicsecurity.com/mcp) `https://pay.brionicsecurity.com/mcp`
+  [![Brionic Payments MCP connector](https://glama.ai/mcp/connectors/com.brionicsecurity.pay/payments/badges/score.svg)](https://glama.ai/mcp/connectors/com.brionicsecurity.pay/payments)
+  🔐 - Non-custodial crypto charges, invoices, payment links and refunds in BTC, XRP, USDC, SOL and more, paid to your wallet.
 - [Checkout Page](https://checkoutpage.com) `https://mcp.checkoutpage.com`
   [![Checkout Page MCP connector](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page/badges/score.svg)](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page)
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
