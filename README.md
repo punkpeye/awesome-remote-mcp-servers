@@ -1431,7 +1431,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
 - [ForthClear](https://forthclear.io) `https://app.forthclear.io/mcp`
   [![ForthClear MCP connector](https://glama.ai/mcp/connectors/io.forthclear/liquidation/badges/score.svg)](https://glama.ai/mcp/connectors/io.forthclear/liquidation)
-  🔐 - B2B marketplace for surplus, overstock and returns: search lots, view manifests, request quotes and place orders.
+  🔓 - B2B marketplace for surplus, overstock and returns: search lots, view manifests, request quotes and place orders.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
