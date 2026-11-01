@@ -3985,6 +3985,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [Base of AGI](https://baseofagi.com) `https://baseofagi.com/mcp`
+  [![Base of AGI MCP connector](https://glama.ai/mcp/connectors/com.baseofagi/news/badges/score.svg)](https://glama.ai/mcp/connectors/com.baseofagi/news)
+  🔓 - Sourced AI news in English, Turkish, Spanish and Russian, daily briefs, and a license-checked MCP and agent catalog.
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
@@ -5258,4 +5261,3 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **[Base of AGI & StackPilot](https://baseofagi.com/mcp)** - Read-only AI news (TR/EN/ES/RU), daily stack brief, and 2,660+ verified MCP/agent tools catalog (`https://baseofagi.com/stackpilot`). Streamable HTTP, stateless, no API key required.
