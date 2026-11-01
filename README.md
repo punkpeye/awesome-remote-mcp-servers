@@ -126,9 +126,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIsa](https://aisa.one) `https://mcp.aisa.one/mcp`
   [![AIsa MCP connector](https://glama.ai/mcp/connectors/one.aisa/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/one.aisa/mcp)
   🔐 - One key for 950+ SEO, finance, social, search and sales APIs, with a spend cap on each call.
-- [Ahel](https://ahel.ai) `https://mcp.ahel.ai`
-  [![Ahel MCP connector](https://glama.ai/mcp/connectors/ai.ahel/ahel/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ahel/ahel)
-  🔐 - Find, price and run data tasks: company and people data, SEO, social media, EU business registers; pay per call.
 - [Agent Deals](https://agent-deals.gm-tools.workers.dev) `https://agent-deals.gm-tools.workers.dev/mcp`
   [![Agent Deals MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/agent-deals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/agent-deals)
   🔓 - Find the cheapest working x402 API for a task among 13,000+ health-checked services; pay per call in USDC on Base.
@@ -153,6 +150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora](https://openforallofus.com) `https://openforallofus.com/api/mcp`
   [![Agora MCP connector](https://glama.ai/mcp/connectors/com.openforallofus/agora/badges/score.svg)](https://glama.ai/mcp/connectors/com.openforallofus/agora)
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
+- [Ahel](https://ahel.ai) `https://mcp.ahel.ai`
+  [![Ahel MCP connector](https://glama.ai/mcp/connectors/ai.ahel/ahel/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ahel/ahel)
+  🔐 - Find, price and run data tasks: company and people data, SEO, social media, EU business registers; pay per call.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
