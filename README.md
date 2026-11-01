@@ -2720,6 +2720,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Recipe library](https://ofershap.github.io/agent-success-hub/) `https://recipes.gitshow.dev/mcp`
   [![Recipe library MCP connector](https://glama.ai/mcp/connectors/io.github.ofershap/recipe-library/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ofershap/recipe-library)
   🔓 - Search and read reviewed Hebrew AI-agent task recipes, with available full English versions. Read-only.
+- [RemainAI](https://remainai.org/mcp-memory) `https://mcp.remainai.org/mcp`
+  [![RemainAI MCP connector](https://glama.ai/mcp/connectors/org.remainai/remainai/badges/score.svg)](https://glama.ai/mcp/connectors/org.remainai/remainai)
+  🔐 - Your notes, todos, feeds and rituals filed under your own tags: search, read, capture and ask across them.
 - [Remnant](https://remnant.dedale-bi.com/knowledge) `https://remnant.dedale-bi.com/mcp/chatgpt`
   [![Remnant Read MCP connector](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant/badges/score.svg)](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant)
   🔓 - Search prior debugging experience, inspect evidence and failed attempts; free public reading without signup.
