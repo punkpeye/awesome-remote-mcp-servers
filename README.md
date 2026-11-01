@@ -6707,6 +6707,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Strike a Block](https://strikeablock.com) `https://strikeablock.com/mcp`
   [![Strike a Block MCP connector](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block/badges/score.svg)](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block)
   🔓 - Preview a one-line inscription as a keepsake block, browse the public vault and verify a block's proof of work.
+- [The Moorish Times](https://moorishtimes.com) `https://mcp.moorish.cloud/mcp`
+  [![The Moorish Times MCP connector](https://glama.ai/mcp/connectors/com.moorishtimes/moorish-times/badges/score.svg)](https://glama.ai/mcp/connectors/com.moorishtimes/moorish-times)
+  🔓 - Search, read and cite Moroccan history, culture and news from The Moorish Times, in French and English.
 - [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
   [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
   🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
