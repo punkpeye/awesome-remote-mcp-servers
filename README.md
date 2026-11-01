@@ -4199,7 +4199,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
 - [RoboPartPicker](https://robopartpicker.com) `https://robopartpicker.com/mcp`
-  🔓 - Search 2,400+ source-linked open robotics projects, their bills of materials, and 35,000 catalog components with supplier and pricing evidence.
+  [![RoboPartPicker MCP connector](https://glama.ai/mcp/connectors/com.robopartpicker/robopartpicker/badges/score.svg)](https://glama.ai/mcp/connectors/com.robopartpicker/robopartpicker)
+  🔓 - Search 2,400+ source-linked open robotics projects, their bills of materials, and 35,000 catalog components.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
   🔓 - AI-industry news as deduplicated, classified events; a free key unlocks listing, search and archive.
