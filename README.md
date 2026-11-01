@@ -3463,6 +3463,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MockClip](https://mockclip.com/integrations) `https://mockclip.com/api/mcp`
   [![MockClip MCP connector](https://glama.ai/mcp/connectors/com.mockclip/mockclip/badges/score.svg)](https://glama.ai/mcp/connectors/com.mockclip/mockclip)
   🔑 - Create fake chat and phone-screen videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit) as MP4.
+- [ModelsLab](https://docs.modelslab.com/mcp-web-api/overview) `https://modelslab.com/mcp/v7`
+  [![ModelsLab MCP connector](https://glama.ai/mcp/connectors/io.github.ModelsLab/modelslab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ModelsLab/modelslab)
+  🔐 - Generate images, video, speech, music and sound effects, and run LLM chat, across 10,000+ models.
 - [MomentClip](https://momentclip.com) `https://momentclip.com/mcp`
   [![MomentClip MCP connector](https://glama.ai/mcp/connectors/com.momentclip/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.momentclip/mcp)
   🔐 - Find moments in YouTube videos by what's said or shown, ask cited questions and export clips and transcripts.
