@@ -3967,7 +3967,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Evidence API](https://agent-evidence.thx93.dev/) `https://agent-evidence.thx93.dev/mcp`
   [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
   🔓 - Cited web evidence for a claim: supporting and contradicting passages with source, time and hash.
-- [Agent Verification Tools](https://apify.com/nickatnite79) `https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-listing-rechecker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier`
+- [Agent Verification Tools](https://apify.com/nickatnite79) `https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-status-checker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier`
   [![Agent Verification Tools MCP connector](https://glama.ai/mcp/connectors/io.github.JackPT79/agent-verification-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JackPT79/agent-verification-tools)
   🔐 - Google Trends, job-post status, RFP addendum diffs, and exact-SKU offer checks on Apify.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
