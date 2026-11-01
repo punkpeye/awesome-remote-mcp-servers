@@ -5222,6 +5222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
+- [The Moorish Times](https://moorishtimes.com) `https://mcp.moorish.cloud/mcp`
+  [![The Moorish Times MCP connector](https://glama.ai/mcp/connectors/com.moorishtimes/moorish-times/badges/score.svg)](https://glama.ai/mcp/connectors/com.moorishtimes/moorish-times)
+  🔓 - Search, read and cite Moroccan history, culture and news from The Moorish Times, in French and English.
 - [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
   [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
   🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
