@@ -1822,7 +1822,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
 - [Cashboard Signals](https://cashboard.live/docs/signals-api) `https://cashboard.live/mcp`
   [![Cashboard Signals MCP connector](https://glama.ai/mcp/connectors/live.cashboard/signals/badges/score.svg)](https://glama.ai/mcp/connectors/live.cashboard/signals)
-  🔓 - Hyperliquid perps scans, OI movers, funding extremes, Solana wallet swaps and chain fees; pay per call in USDC via x402 on Base or Solana, free daily samples.
+  🔓 - Hyperliquid perps scans, OI movers, funding extremes, Solana swaps; pay per call in USDC via x402, free daily samples.
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
