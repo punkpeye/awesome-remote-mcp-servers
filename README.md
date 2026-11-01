@@ -176,6 +176,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Glasser](https://glasser.ai) `https://api.glasser.ai/mcp`
   [![Glasser MCP connector](https://glama.ai/mcp/connectors/ai.glasser/glasser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.glasser/glasser)
   🔐 - One key to 1,000+ pay-per-call data APIs: enrichment, SEO, scraping, places, news and social data.
+  - [Hong Kong Corporate Search & KYB (86hc.com)](https://www.86hc.com/en/due-diligence) `https://www.86hc.com/mcp`
+  🔓 - Daily-updated Hong Kong Companies Registry (Cap. 622) & 8-digit BRN (Cap. 310) lookup across 3.94M+ entities, authentic ICRIS statutory filing dossier (`NAR1`/`NNC1`/`ND2A`) index inspection, 32 regulatory licence verification, and corporate bank onboarding pre-screening.
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and OpenAI-compatible chat completions.
