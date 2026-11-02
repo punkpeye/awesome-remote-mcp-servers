@@ -1765,6 +1765,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Spanish company registry (BORME) with grants and procurement per company, linked to sources. Data tools need a free key.
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
+- [AstraEye Labs](https://astraeyelabs.io/research-api) `https://astraeyelabs.io/mcp`
+  [![AstraEye Labs MCP connector](https://glama.ai/mcp/connectors/io.astraeyelabs/research/badges/score.svg)](https://glama.ai/mcp/connectors/io.astraeyelabs/research)
+  🔐 - AI research on US stocks, ETFs and crypto: read reports, browse analyses, quote and start runs, ask SAGE.
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
 - [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
   [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
