@@ -3934,6 +3934,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [Space Mushroom](https://spacemushroom.com/methodology/) `https://spacemushroom.com/mcp`
+  [![Space Mushroom MCP connector](https://glama.ai/mcp/connectors/com.spacemushroom/materials/badges/score.svg)](https://glama.ai/mcp/connectors/com.spacemushroom/materials)
+  🔓 - Sourced engineering materials data: every value with its unit, test conditions and source; 11 read-only tools.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
