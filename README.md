@@ -5055,6 +5055,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MagicInterview](https://magicinterview.app) `https://magicinterview.app/mcp`
   [![MagicInterview MCP connector](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview)
   🔐 - Live AI suggestions for interviews, client calls, and meetings, with reusable context and conversation management.
+- [Mathfold](https://mathfold.com/developers) `https://mathfold.com/mcp`
+  [![Mathfold MCP connector](https://glama.ai/mcp/connectors/com.mathfold/mathfold/badges/score.svg)](https://glama.ai/mcp/connectors/com.mathfold/mathfold)
+  🔑 - Converts Markdown with LaTeX formulas, tables and Mermaid into Word files with editable equations, or PDF.
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
