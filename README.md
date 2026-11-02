@@ -1553,6 +1553,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apex AI Academy](https://apexai.academy/developers/) `https://apexai.academy/mcp`
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
+- [ATSPrep](https://atsprep.com/mcp) `https://atsprep.com/mcp`
+  [![ATSPrep MCP connector](https://glama.ai/mcp/connectors/io.github.Devabubakar/atsprep/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Devabubakar/atsprep)
+  🔓 - Check a resume, match it to a job post, improve bullets and LinkedIn text, draft letters and prep for interviews.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
