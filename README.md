@@ -1075,6 +1075,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [DevX Agent Hub](https://agents.madebydevx.com) `https://agents.madebydevx.com/mcp`
+  [![DevX Agent Hub MCP connector](https://glama.ai/mcp/connectors/com.madebydevx.agents/agent-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.madebydevx.agents/agent-hub)
+  🔓 - Pay-per-call agent tools over x402 USDC on Base: token risk, speech, OCR, translation, web to markdown, audits.
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
@@ -4301,6 +4304,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [7702 Sweeper Check](https://github.com/devx-agent/7702-sweeper-check) `https://sweeper-check.nextill-pos.workers.dev/mcp`
+  [![7702 Sweeper Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/7702-sweeper-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/7702-sweeper-check)
+  🔓 - Check an EVM address for EIP-7702 delegations (wallet sweepers) on 8 chains. Read-only, free.
+- [Address Poisoning Check](https://github.com/devx-agent/address-poisoning-check) `https://address-poisoning-check.nextill-pos.workers.dev/mcp`
+  [![Address Poisoning Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/address-poisoning-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/address-poisoning-check)
+  🔓 - Before sending crypto, check whether the recipient is a lookalike of an address you trust (address poisoning) and has a valid EIP-55 checksum.
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
   [![attest MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/attest)
   🔓 - Verifies AI agent artifacts against JSON Schema and catches positional prompt injection.
@@ -4334,6 +4343,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CrawlCheck](https://crawlcheck.io/for-agents) `https://crawlcheck.io/mcp`
   [![CrawlCheck MCP connector](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck)
   🔓 - A signed answer about any site before an agent acts: policy, what crawlers were served, findings, a decision per action.
+- [Crypto Link Check](https://github.com/devx-agent/crypto-link-check) `https://crypto-link-check.nextill-pos.workers.dev/mcp`
+  [![Crypto Link Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/crypto-link-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/crypto-link-check)
+  🔓 - Check a URL before connecting a wallet: lookalike, typosquat and punycode domains of ~60 crypto wallets, exchanges and dapps.
+- [Repo Run Check](https://github.com/devx-agent/repo-run-check) `https://repo-run-check.nextill-pos.workers.dev/mcp`
+  [![Repo Run Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/repo-run-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/repo-run-check)
+  🔓 - Check whether a GitHub repo or shell command is safe for an AI coding agent to run: install one-liners, obfuscated payloads, malware domains, prompt injection.
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
