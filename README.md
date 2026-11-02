@@ -3369,6 +3369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Any Video to Text](https://anyvideototext.com/mcp-server) `https://anyvideototext.com/mcp`
+  [![Any Video to Text MCP connector](https://glama.ai/mcp/connectors/com.anyvideototext/any-video-to-text/badges/score.svg)](https://glama.ai/mcp/connectors/com.anyvideototext/any-video-to-text)
+  🔐 - Transcripts and AI summaries of TikTok, YouTube, Instagram, Facebook and X videos from a link; 5 free a day.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
