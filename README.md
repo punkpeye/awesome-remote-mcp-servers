@@ -4902,6 +4902,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
   🔓 - Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.
+- [The Charter Desk](https://thecharterdesk.com/mcp) `https://thecharterdesk.com/mcp`
+  [![The Charter Desk MCP connector](https://glama.ai/mcp/connectors/com.thecharterdesk/yacht-charter/badges/score.svg)](https://glama.ai/mcp/connectors/com.thecharterdesk/yacht-charter)
+  🔓 - Live prices, free weeks and operator-stated deals on 9,000+ charter yachts from 800+ operators in 50 countries; request a written quote.
 - [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
   [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
   🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
