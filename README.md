@@ -2062,7 +2062,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
 - [Mangrove AI](https://mangrove.ai/agents/) `https://api.mangrovedeveloper.ai/mcp/`
   [![Mangrove AI MCP connector](https://glama.ai/mcp/connectors/io.github.MangroveTechnologies/mangroveai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MangroveTechnologies/mangroveai)
-  🔑 - Crypto market data, trading signals, strategy building, backtests and paper trading; API key or x402 USDC per call.
+  🔑 - AI agents trade safely: 100+ strategy tools, 12+ venues, circuit breakers, risk-sized orders, auto stops; x402 or key.
 - [Marcel Retraite](https://marcel-retraite.fr) `https://marcel-retraite.fr/mcp`
   [![Marcel Retraite MCP connector](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel/badges/score.svg)](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel)
   🔓 - Deterministic, sourced French tax and retirement calculations; information only, not advice.
