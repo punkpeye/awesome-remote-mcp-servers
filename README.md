@@ -2840,6 +2840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [New York LLC Publication](https://www.llcpublishers.com) `https://mcp.llcpublishers.com/v2`
+  [![New York LLC Publication MCP connector](https://glama.ai/mcp/connectors/com.llcpublishers/ny-llc-publication/badges/score.svg)](https://glama.ai/mcp/connectors/com.llcpublishers/ny-llc-publication)
+  🔓 - New York LLC publication rules, county clerk details, notice text and LLC Publishers' price for all 62 counties.
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
