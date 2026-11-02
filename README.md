@@ -3520,6 +3520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
   [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
+- [SpeedPainter Explainer Video](https://www.speedpainter.org/en/skills/explainer-video) `https://api.speedpainter.org/mcp`
+  [![SpeedPainter Explainer Video MCP connector](https://glama.ai/mcp/connectors/org.speedpainter/explainer-video/badges/score.svg)](https://glama.ai/mcp/connectors/org.speedpainter/explainer-video)
+  🔐 - Turn plain text, articles or notes into narrated whiteboard explainer videos with subtitles.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
