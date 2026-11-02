@@ -3535,6 +3535,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TubeText TikTok Transcripts](https://apify.com/tubetext/tiktok-transcript) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/tiktok-transcript,tubetext/video-breakdown-ai,tubetext/shot-by-shot-video-analysis`
   [![TubeText TikTok Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-tiktok-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-tiktok-transcripts)
   🔐 - TikTok transcripts (captions or Whisper), quick AI breakdowns and shot-by-shot analysis of any video.
+- [txscribe](https://txscribe.ai/developers#mcp) `https://txscribe.ai/mcp`
+  [![txscribe MCP connector](https://glama.ai/mcp/connectors/ai.txscribe/txscribe/badges/score.svg)](https://glama.ai/mcp/connectors/ai.txscribe/txscribe)
+  🔐 - Transcribe a YouTube, Drive or Dropbox link, then search your recordings and read transcripts and summaries.
 - [txtreel](https://txtreel.com) `https://txtreel.com/mcp`
   [![txtreel MCP connector](https://glama.ai/mcp/connectors/com.txtreel/txtreel/badges/score.svg)](https://glama.ai/mcp/connectors/com.txtreel/txtreel)
   🔓 - Render iMessage, WhatsApp, Instagram DM and Reddit thread videos (1080x1920 MP4) or screenshots from a script.
