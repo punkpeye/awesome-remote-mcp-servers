@@ -4224,6 +4224,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SiteCheck](https://api.sitecheck-api.workers.dev) `https://api.sitecheck-api.workers.dev/mcp`
   [![SiteCheck MCP connector](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck)
   🔓 - 29 x402 pay-per-call tools: web page to Markdown, PDF text, tech stack, email, domain, Solana, KYB.
+- [SmartGate](https://smartgate.network) `https://smartgate.network/api/mcp`
+  [![SmartGate MCP connector](https://glama.ai/mcp/connectors/network.smartgate/smartgate/badges/score.svg)](https://glama.ai/mcp/connectors/network.smartgate/smartgate)
+  🔑 - Hosted search, fetch, compress, dedup, budget, memory and pipelines — not an LLM proxy.
 - [SnoopScan](https://snoopscan.com) `https://api.snoopscan.com/mcp-oauth`
   [![SnoopScan MCP connector](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan)
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
