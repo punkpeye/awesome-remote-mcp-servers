@@ -1441,6 +1441,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HLN Apparel](https://www.hlnapparel.com) `https://www.hlnapparel.com/api/mcp`
   [![HLN Apparel MCP connector](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer/badges/score.svg)](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer)
   🔓 - Clothing factory data: garment categories, MOQ, lead times, US HS duty lookup, GSM conversion and quote requests.
+- [HobbyCardIndex](https://hobbycardindex.com/developers) `https://hobbycardindex.com/api/v1/mcp`
+  [![HobbyCardIndex MCP connector](https://glama.ai/mcp/connectors/com.hobbycardindex/card-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.hobbycardindex/card-prices)
+  🔑 - Real sold prices for 16M+ sports and trading cards, raw and graded by grade; plan tools work without a key.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
