@@ -708,7 +708,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
 - [Faxend](https://faxend.com/mcp/) `https://faxend.com/mcp`
   [![Faxend MCP connector](https://glama.ai/mcp/connectors/com.faxend/faxend/badges/score.svg)](https://glama.ai/mcp/connectors/com.faxend/faxend)
-  🔑 - Send real faxes from AI assistants: PDF to any fax number, delivery status and pages left on your plan.
+  🔐 - Send real faxes from AI assistants: PDF to any fax number, delivery status and pages left on your plan.
 - [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
   [![Fluxmail Cloud MCP connector](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud)
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
