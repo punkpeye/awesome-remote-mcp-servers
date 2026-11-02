@@ -694,6 +694,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
+- [Conciergr](https://conciergr.com/agents/) `https://conciergr.com/mcp`
+  [![Conciergr MCP connector](https://glama.ai/mcp/connectors/com.conciergr/conciergr/badges/score.svg)](https://glama.ai/mcp/connectors/com.conciergr/conciergr)
+  🔐 - Set up and run a business's WhatsApp assistant: settings, documents, team and Team Inbox.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
@@ -1550,6 +1553,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apex AI Academy](https://apexai.academy/developers/) `https://apexai.academy/mcp`
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
+- [Conciergr Timetable](https://timetable.conciergr.com/agents/) `https://timetable.conciergr.com/mcp`
+  [![Conciergr Timetable MCP connector](https://glama.ai/mcp/connectors/com.conciergr/timetable/badges/score.svg)](https://glama.ai/mcp/connectors/com.conciergr/timetable)
+  🔐 - Set up and keep a class business's timetable: branches, classes, seats, closed days and fees.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
