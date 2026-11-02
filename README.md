@@ -4337,6 +4337,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
   [![CVE Risk Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/cve/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/cve)
   🔓 - Checks CVEs and dependency lists against OSV, NVD, EPSS and CISA KEV, and ranks what to fix first.
+- [cve.now](https://cve.now) `https://mcp.cve.now/mcp`
+  [![cve.now MCP connector](https://glama.ai/mcp/connectors/now.cve.mcp/cvenow/badges/score.svg)](https://glama.ai/mcp/connectors/now.cve.mcp/cvenow)
+  🔓 - Look up any CVE, GHSA or OSV id, read filtered vulnerability feeds, and check a lockfile for known vulns.
 - [Datakoot Domain & Company](https://datakoot.com/domain-company) `https://domain.datakoot.com/mcp`
   [![Datakoot Domain & Company MCP connector](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois)
   🔓 - Domain recon: RDAP registration, DNS, SPF/DMARC deliverability, tech stack and subdomains from CT logs.
