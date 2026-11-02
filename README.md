@@ -3970,6 +3970,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Evidence API](https://agent-evidence.thx93.dev/) `https://agent-evidence.thx93.dev/mcp`
   [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
   🔓 - Cited web evidence for a claim: supporting and contradicting passages with source, time and hash.
+- [Agent Web Reader](https://apify.com/catalyst-labs/agent-web-reader) `https://mcp.apify.com/?tools=catalyst-labs/agent-web-reader`
+  [![Agent Web Reader MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/agent-web-reader/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/agent-web-reader)
+  🔐 - Web search or URLs in, clean Markdown out, one row per page with a token budget; HTML and PDF.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
   🔓 - Read any URL or PDF as clean Markdown or JSON, with JS rendering; 5 free calls/day, then x402 USDC per call.
