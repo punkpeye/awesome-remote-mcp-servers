@@ -2596,6 +2596,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [Caigen Notes](https://www.gobiji.cn) `https://b.gobiji.cn/mcp`
+  [![Caigen Notes MCP connector](https://glama.ai/mcp/connectors/io.github.zqj/caigen-notes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zqj/caigen-notes)
+  🔑 - AI-native note-taking in Chinese: RAG semantic search, read, write, tag and share your notes.
 - [Cloud FinOps by OptimNow](https://pypi.org/project/cloud-finops-mcp/) `https://mcp.optimnow.io/mcp`
   [![Cloud FinOps by OptimNow MCP connector](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops)
   🔓 - Fetches FinOps reference guides and waste-pattern runbooks on cloud and AI cost management; no account needed.
