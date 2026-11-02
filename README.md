@@ -3275,6 +3275,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClinX](https://clinx.org/data/assistants/) `https://clinx.org/mcp`
   [![ClinX MCP connector](https://glama.ai/mcp/connectors/org.clinx/clinx/badges/score.svg)](https://glama.ai/mcp/connectors/org.clinx/clinx)
   🔓 - Read-only public records on the 340B drug program and federally funded health centers, each with its official link.
+- [FitFoodie](https://fitfoodie.cressu.com) `https://fitfoodie.cressu.com/mcp/v1`
+  [![FitFoodie MCP connector](https://glama.ai/mcp/connectors/com.cressu.fitfoodie/fit-foodie/badges/score.svg)](https://glama.ai/mcp/connectors/com.cressu.fitfoodie/fit-foodie)
+  🔐 - Food diary: log meals, water and weight, and read daily calories, macros and history against your goals.
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
