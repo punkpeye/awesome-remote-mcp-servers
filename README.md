@@ -1432,6 +1432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [Goofish (Xianyu)](https://apify.com/zen-studio/goofish-xianyu-search-scraper) `https://mcp.apify.com/?tools=fetch-actor-details,get-actor-run,get-dataset-items,get-dataset-list,zen-studio/goofish-xianyu-search-scraper,zen-studio/goofish-xianyu-item-detail-scraper,zen-studio/goofish-xianyu-seller-scraper,zen-studio/goofish-xianyu-visual-search-scraper,zen-studio/goofish-xianyu-item-comments-scraper`
+  [![Goofish (Xianyu) MCP connector](https://glama.ai/mcp/connectors/io.github.zen-studio-labs/goofish-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zen-studio-labs/goofish-mcp)
+  🔐 - Search Goofish (Xianyu, 闲鱼) second-hand listings, item details, seller reviews and comments, or search by image.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
