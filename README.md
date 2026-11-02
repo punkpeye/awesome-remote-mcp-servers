@@ -3523,6 +3523,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [TalkPix](https://www.talkpix.ai/claude) `https://www.talkpix.ai/api/mcp`
+  [![TalkPix MCP connector](https://glama.ai/mcp/connectors/io.github.talkpixai/talkpix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.talkpixai/talkpix)
+  🔐 - Turn a photo into a talking video or a product video ad, or generate AI video; the cost is quoted before rendering.
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
