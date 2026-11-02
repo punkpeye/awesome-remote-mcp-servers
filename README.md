@@ -2557,6 +2557,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
+- [Vitalityfit](https://vitality-fit.de/mcp/) `https://vitality-fit.de/mcp`
+  [![Vitalityfit MCP connector](https://glama.ai/mcp/connectors/de.vitality-fit/prices/badges/score.svg)](https://glama.ai/mcp/connectors/de.vitality-fit/prices)
+  🔓 - Prices of medicines, supplements and care products from German online pharmacies and shops, by name, PZN or EAN.
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
