@@ -1169,7 +1169,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
 - [LiveGraph](https://livegraph.ai) `https://api.livegraph.ai/mcp`
   [![LiveGraph MCP connector](https://glama.ai/mcp/connectors/ai.livegraph/livegraph/badges/score.svg)](https://glama.ai/mcp/connectors/ai.livegraph/livegraph)
-  🔑 - List and run agent graphs, start/cancel runs, and get a share link to watch one live.
+  🔑 - Author agent graphs over MCP (create_graph, update_graph_nodes), run them, and watch live.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
