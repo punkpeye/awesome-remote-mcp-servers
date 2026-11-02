@@ -120,6 +120,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Tools Directory](https://ai.toolboxes.top) `https://ai-tools-mcp.toolboxes.top/mcp`
   [![AI Tools Directory MCP connector](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory)
   🔓 - Curated index of 221 AI tools across 21 industries; search by use case, department or pricing tier.
+- [AIblogly](https://www.aiblogly.com/mcp-server) `https://www.aiblogly.com/mcp`
+  [![AIblogly MCP connector](https://glama.ai/mcp/connectors/com.aiblogly/models/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiblogly/models)
+  🔓 - Prices, context windows, release dates, licences and LMArena ranks for published AI models, with source pages.
 - [Aident Loadout](https://aident.ai) `https://loadout.aident.ai/mcp`
   [![Aident Loadout MCP connector](https://glama.ai/mcp/connectors/ai.aident.loadout/aident-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aident.loadout/aident-ai)
   🔐 - Find and run 27,000+ actions across 1,000+ apps, with vaulted credentials, cost preflight and an audit log.
