@@ -1167,6 +1167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
+- [LiveGraph](https://livegraph.ai) `https://api.livegraph.ai/mcp`
+  [![LiveGraph MCP connector](https://glama.ai/mcp/connectors/ai.livegraph/livegraph/badges/score.svg)](https://glama.ai/mcp/connectors/ai.livegraph/livegraph)
+  🔑 - List and run agent graphs, start/cancel runs, and get a share link to watch one live.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
