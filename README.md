@@ -3865,6 +3865,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Veezco](https://www.veezco.com/en) `https://www.veezco.com/api/mcp`
+  [![Veezco MCP connector](https://glama.ai/mcp/connectors/com.veezco/veezco/badges/score.svg)](https://glama.ai/mcp/connectors/com.veezco/veezco)
+  🔑 - Find local businesses to sell to by city and category, with contacts, website checks and an opening line.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
