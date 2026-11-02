@@ -2524,6 +2524,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
+- [FitFoodie](https://fitfoodie.cressu.com) `https://fitfoodie.cressu.com/mcp/v1`
+  [![FitFoodie MCP connector](https://glama.ai/mcp/connectors/com.cressu.fitfoodie/fit-foodie/badges/score.svg)](https://glama.ai/mcp/connectors/com.cressu.fitfoodie/fit-foodie)
+  🔐 - Food diary: log meals, water and weight, and read daily calories, macros and history against your goals.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
