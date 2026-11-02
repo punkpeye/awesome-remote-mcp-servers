@@ -1185,6 +1185,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
+- [nonsynthetic](https://nonsynthetic.net) `https://api.nonsynthetic.net/mcp`
+  🔓 - 443 priced tools for agents on one account-free x402 edge: armory utilities, market tapes, intel dossiers, wallets, board routes. `tools/list` free; calls pay x402 USDC (Base/Solana) or `x-credit`.
 - [NAIF Gravity](https://naifgravity.com/) `https://naifgravity.com/mcp`
   [![NAIF Gravity MCP connector](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph)
   🔓 - Diagnose MCP, x402, API auth and webhook failures, then request bounded repair through the existing NAIF service.
