@@ -3345,6 +3345,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
+- [Sazabi](https://www.sazabi.com) `https://mcp.sazabi.com/mcp`
+  [![Sazabi MCP connector](https://glama.ai/mcp/connectors/com.sazabi.mcp/sazabi/badges/score.svg)](https://glama.ai/mcp/connectors/com.sazabi.mcp/sazabi)
+  🔐 - Search production logs in plain language, investigate issues and root causes, and manage live dashboards.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
