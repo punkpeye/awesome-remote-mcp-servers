@@ -1438,6 +1438,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HLN Apparel](https://www.hlnapparel.com) `https://www.hlnapparel.com/api/mcp`
   [![HLN Apparel MCP connector](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer/badges/score.svg)](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer)
   🔓 - Clothing factory data: garment categories, MOQ, lead times, US HS duty lookup, GSM conversion and quote requests.
+- [Inkable Label](https://agents.inkablelabel.com) `https://agents.inkablelabel.com/mcp`
+  [![Inkable Label MCP connector](https://glama.ai/mcp/connectors/com.inkablelabel/agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.inkablelabel/agents)
+  🔓 - Website prices for custom roll labels, sheet labels and tissue paper, plus quote requests for custom labels, tissue, pouches and bags.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
