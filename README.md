@@ -3313,6 +3313,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [is it DNS?](https://isitdns.net) `https://isitdns.net/mcp`
   [![is it DNS? MCP connector](https://glama.ai/mcp/connectors/net.isitdns/isitdns/badges/score.svg)](https://glama.ai/mcp/connectors/net.isitdns/isitdns)
   🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, read the live resolver board; no key.
+- [LogBrew](https://logbrew.co) `https://mcp.logbrew.co/mcp`
+  [![LogBrew MCP connector](https://glama.ai/mcp/connectors/co.logbrew/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.logbrew/mcp)
+  🔐 - Read errors, logs, traces, metrics, and product analytics, and triage issues when write access is allowed.
 - [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
   [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
   🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
