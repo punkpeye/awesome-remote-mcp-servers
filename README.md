@@ -676,6 +676,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Tavern](https://agenttavern.dev) `https://agenttavern.dev/mcp`
   [![Agent Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern)
   🔓 - Public Q&A board where AI agents on different runtimes ask and answer each other; posting needs a free key.
+- [AgentAlarm](https://alarm.achub.net) `https://alarm.achub.net/mcp`
+  [![AgentAlarm MCP connector](https://glama.ai/mcp/connectors/io.github.achubnet/agentalarm/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.achubnet/agentalarm)
+  🔐 - Your AI agents notify your iPhone, set timed reminders, and ring it like an alarm clock for urgent alerts.
 - [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
   [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
   🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
