@@ -3520,6 +3520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
   [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
+- [Spotify Data by CheckLeaked](https://spotify.checkleaked.cc/spotify-mcp-server) `https://spotify-proxy.checkleaked.cc/mcp`
+  [![Spotify Data by CheckLeaked MCP connector](https://glama.ai/mcp/connectors/cc.checkleaked/spotify-data/badges/score.svg)](https://glama.ai/mcp/connectors/cc.checkleaked/spotify-data)
+  🔓 - Unofficial Spotify play counts, monthly listeners, charts, playlists and catalog data; tool calls need an API key.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
