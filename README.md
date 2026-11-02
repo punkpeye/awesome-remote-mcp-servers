@@ -2334,6 +2334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WhereItGoes](https://whereitgoes.money/connect-ai) `https://api.whereitgoes.money/api/mcp`
   [![WhereItGoes MCP connector](https://glama.ai/mcp/connectors/money.whereitgoes/portfolio/badges/score.svg)](https://glama.ai/mcp/connectors/money.whereitgoes/portfolio)
   🔐 - Your own crypto portfolio across exchanges and wallets: holdings, history, FIFO P&L, fees and income. Read-only.
+- [Worthbase](https://worthbase.app) `https://worthbase.app/mcp`
+  [![Worthbase MCP connector](https://glama.ai/mcp/connectors/app.worthbase/worthbase/badges/score.svg)](https://glama.ai/mcp/connectors/app.worthbase/worthbase)
+  🔐 - Household net worth: holdings, property, retirement accounts and loans priced daily, with exact gains and returns.
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
    🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
