@@ -4043,6 +4043,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [Diogenes Web Scraping](https://diogenesgateway.com/#web-scraping-engine) `https://diogenesgateway.com/mcp/web-scraping-engine`
+  [![Diogenes Web Scraping MCP connector](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-web-scraping-engine-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-web-scraping-engine-mcp)
+  🔓 - Production web scraping and extraction engine with markdown conversion, DOM pruning, and anti-bot mitigation.
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
