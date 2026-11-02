@@ -2039,6 +2039,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
+- [legible-check](https://github.com/EzeAlfaro/legible-check-mcp) `https://legible-check.ezealfa.workers.dev/mcp`
+  [![legible-check MCP connector](https://glama.ai/mcp/connectors/io.github.EzeAlfaro/legible-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.EzeAlfaro/legible-check)
+  🔓 - On-chain data over x402 on Base, Polygon and Arbitrum: block, gas, balances, token balances, receipts, portfolio, calldata decoding, prices and DEX quotes. Pay per call in USDC; no account and no API key.
 - [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
   [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
   🔓 - Verify Dutch and Belgian companies (KVK, KBO), EU VAT, sanctions and PEPs, with a risk score; key or x402.
