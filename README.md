@@ -2563,6 +2563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [Ancestral Fire](https://ancestral-fire.com/) `https://mcp.ancestral-fire.com/mcp`
+  [![Ancestral Fire MCP connector](https://glama.ai/mcp/connectors/com.ancestral-fire/ancestralfire/badges/score.svg)](https://glama.ai/mcp/connectors/com.ancestral-fire/ancestralfire)
+  🔐 - Family history and genealogy: your family tree and FamilySearch, with a source for every fact.
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
