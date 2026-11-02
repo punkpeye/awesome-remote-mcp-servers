@@ -1308,6 +1308,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes Context & Solvers](https://diogenesgateway.com/#context-code-solver) `https://diogenesgateway.com/mcp/context-code-solver`
   [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp)
   🔓 - AST skeleton pruner, fuzzy code patcher, BPE token budgeter, and seeded Monte Carlo risk simulator.
+- [Diogenes Dev Utilities](https://diogenesgateway.com/#dev-utilities) `https://diogenesgateway.com/mcp/dev-utilities`
+  [![Diogenes Dev Utilities MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-dev-utilities-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-dev-utilities-mcp)
+  🔓 - Malformed JSON healing, certified ReDoS-safe regex synthesis, and context compaction integrity verifier.
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
