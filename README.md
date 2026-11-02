@@ -1075,6 +1075,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [Dibs](https://dibs.hivecommons.dev) `https://dibs.hivecommons.dev/mcp`
+  [![Dibs MCP connector](https://glama.ai/mcp/connectors/dev.hivecommons/dibs/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hivecommons/dibs)
+  🔑 - Submit software ideas to open source repos and track matching, offers and public credit for them.
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
