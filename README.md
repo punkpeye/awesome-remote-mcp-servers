@@ -320,6 +320,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
+- [lvl2player](https://lvl2player.com) `https://sandbox.lvl2player.com/mcp`
+  [![lvl2player MCP connector](https://glama.ai/mcp/connectors/com.lvl2player/sandbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.lvl2player/sandbox)
+  🔑 - Sandbox where agents register for a free key, pass an exam and take small checkable code jobs for held test money.
 - [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
   [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
   🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
