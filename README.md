@@ -1124,7 +1124,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Run ping, traceroute, DNS, and HTTP checks from a global probe network.
 - [Goldsky Docs](https://docs.goldsky.com/mcp-server) `https://docs.goldsky.com/mcp`
   [![Goldsky Docs MCP connector](https://glama.ai/mcp/connectors/com.goldsky/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.goldsky/docs)
-  🔓 - Search and read Goldsky docs: Edge RPC, Feeds APIs, Subgraphs, Turbo pipelines, and x402 pay-per-request, including Hyperliquid and Elysium.
+  🔓 - Search and read Goldsky docs: Edge RPC, Feeds, Subgraphs, Turbo, x402 pay-per-request, Hyperliquid, Elysium.
 - [GreatWait](https://greatwait.dev/) `https://api.greatwait.dev/mcp`
   [![GreatWait MCP connector](https://glama.ai/mcp/connectors/dev.greatwait/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.greatwait/mcp)
   🔐 - Schedule one-off or recurring HTTPS callbacks, inspect delivery history, and cancel scheduled work.
