@@ -528,6 +528,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from its own website.
   
 ### 🌐 <a name="browser-automation"></a>Browser Automation
+- [Browser Automation Agent by Nova (CIVAI)](https://nova.civai.co/agent/browsergpt-agent) `https://nova.civai.co/mcp/agents/browsergpt-agent`
+  [![Browser Automation Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/browsergpt-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/browsergpt-agent)
+  🔓 - I do everything related to Browser Automation & Management.
+
 
 - [Allscreenshots](https://allscreenshots.com) `https://mcp.allscreenshots.com/mcp/v1`
   [![Allscreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots)
@@ -669,6 +673,30 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
   
 ### 💬 <a name="communication"></a>Communication
+- [Content Pipeline Agent by Nova (CIVAI)](https://nova.civai.co/agent/content-pipeline-agent) `https://nova.civai.co/mcp/agents/content-pipeline-agent`
+  [![Content Pipeline Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/content-pipeline-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/content-pipeline-agent)
+  🔓 - I run the Content Pipeline for your Nova products — scan trends, expand seeds into opportunities, generate drafts, publish to your configured destination, and submit for indexing.
+
+- [Instagram Agent by Nova (CIVAI)](https://nova.civai.co/agent/instagram-web-agent) `https://nova.civai.co/mcp/agents/instagram-web-agent`
+  [![Instagram Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/instagram-web-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/instagram-web-agent)
+  🔓 - I use your Instagram Web browser session (Integrations → Instagram Web) via instagrapi — not Meta / Graph API.
+
+- [Nova Inbox Agent by Nova (CIVAI)](https://nova.civai.co/agent/nova-inbox-agent) `https://nova.civai.co/mcp/agents/nova-inbox-agent`
+  [![Nova Inbox Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/nova-inbox-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/nova-inbox-agent)
+  🔓 - Read and send mail from your Nova Inbox (@nova.civai.co) for OTPs, directory signups, and inbound messages.
+
+- [Telegram Agent by Nova (CIVAI)](https://nova.civai.co/agent/telegram-agent) `https://nova.civai.co/mcp/agents/telegram-agent`
+  [![Telegram Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/telegram-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/telegram-agent)
+  🔓 - I use your linked Telegram MTProto session (Integrations → Telegram) to list groups, members, and send DMs.
+
+- [Twitter Agent by Nova (CIVAI)](https://nova.civai.co/agent/twitter-agent) `https://nova.civai.co/mcp/agents/twitter-agent`
+  [![Twitter Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/twitter-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/twitter-agent)
+  🔓 - I do everything related to Twitter posting and campaigns.
+
+- [WhatsApp Web Agent by Nova (CIVAI)](https://nova.civai.co/agent/whatsapp-web-agent) `https://nova.civai.co/mcp/agents/whatsapp-web-agent`
+  [![WhatsApp Web Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/whatsapp-web-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/whatsapp-web-agent)
+  🔓 - I send and manage WhatsApp Web messages through your linked session.
+
 
 - [ActivitySmith](https://activitysmith.com/integrations/mcp-server) `https://mcp.activitysmith.com/mcp`
   [![ActivitySmith MCP connector](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith/badges/score.svg)](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith)
@@ -806,6 +834,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Link your WhatsApp account to read, search and send messages.
 
 ### 📝 <a name="content-management"></a>Content Management
+- [Blogger Agent by Nova (CIVAI)](https://nova.civai.co/agent/blogger-agent) `https://nova.civai.co/mcp/agents/blogger-agent`
+  [![Blogger Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/blogger-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/blogger-agent)
+  🔓 - I do everything related to Google Blogger content.
+
+- [Content Calendar Agent by Nova (CIVAI)](https://nova.civai.co/agent/content-calendar-agent) `https://nova.civai.co/mcp/agents/content-calendar-agent`
+  [![Content Calendar Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/content-calendar-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/content-calendar-agent)
+  🔓 - I create markdown content calendars and export them as PDFs via PDF Generator MCP.
+
+- [PDF Agent by Nova (CIVAI)](https://nova.civai.co/agent/pdf-agent) `https://nova.civai.co/mcp/agents/pdf-agent`
+  [![PDF Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/pdf-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/pdf-agent)
+  🔓 - I create PDF documents from markdown — preview, then generate a downloadable file.
+
 
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
@@ -967,6 +1007,126 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Push CSV, JSON or Parquet from an agent and get a link a human can explore with filters, SQL and charts.
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
+- [Code Interpreter Agent by Nova (CIVAI)](https://nova.civai.co/agent/code-interpreter-agent) `https://nova.civai.co/mcp/agents/code-interpreter-agent`
+  [![Code Interpreter Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/code-interpreter-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/code-interpreter-agent)
+  🔓 - I do everything related to coding and execution tasks.
+
+- [Android Developer MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-android_developer) `https://nova.civai.co/mcp/agents/mcp-android_developer`
+  [![Android Developer MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-android_developer/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-android_developer)
+  🔓 - Ship a new Android app from chat. AI runs Google Play Console listings, screenshots, releases, uploads, and reviews.
+
+- [Apple Search Ads MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-apple_ads) `https://nova.civai.co/mcp/agents/mcp-apple_ads`
+  [![Apple Search Ads MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-apple_ads/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-apple_ads)
+  🔓 - Manage Apple Search Ads from chat: sign in with Apple ID, check notifications, and pull campaign performance without opening the Ads console for every question.
+
+- [Apple Developer MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-apple_developer) `https://nova.civai.co/mcp/agents/mcp-apple_developer`
+  [![Apple Developer MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-apple_developer/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-apple_developer)
+  🔓 - Ship a new iOS app from chat. AI runs App Store Connect, builds, release, and submission through Apple review end to end.
+
+- [Audience Resolver MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-audience-resolver) `https://nova.civai.co/mcp/agents/mcp-audience-resolver`
+  [![Audience Resolver MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-audience-resolver/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-audience-resolver)
+  🔓 - Manage Audience Resolver content calendars, rows, and social scheduling on your AR project.
+
+- [CAC Search MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-cacnigeria) `https://nova.civai.co/mcp/agents/mcp-bgpt-cacnigeria`
+  [![CAC Search MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-cacnigeria/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-cacnigeria)
+  🔓 - Look up Nigerian companies on the Corporate Affairs Commission register.
+
+- [Cardpeer MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-cardpeer) `https://nova.civai.co/mcp/agents/mcp-bgpt-cardpeer`
+  [![Cardpeer MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-cardpeer/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-cardpeer)
+  🔓 - Find trading cards, compare listings, and check market prices.
+
+- [ChowDeck MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-chowdeck) `https://nova.civai.co/mcp/agents/mcp-bgpt-chowdeck`
+  [![ChowDeck MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-chowdeck/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-chowdeck)
+  🔓 - Order food on ChowDeck: browse restaurants, set your delivery address, build a cart, and check out when you are ready.
+
+- [Clannit MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-clannit) `https://nova.civai.co/mcp/agents/mcp-bgpt-clannit`
+  [![Clannit MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-clannit/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-clannit)
+  🔓 - Create estate guest visit invites and read your Clannit notifications (including past invite codes and times).
+
+- [Gig Logistics MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-giglogistics) `https://nova.civai.co/mcp/agents/mcp-bgpt-giglogistics`
+  [![Gig Logistics MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-giglogistics/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-giglogistics)
+  🔓 - Track your Gig Logistics parcels and shipments.
+
+- [Instagram Mobile MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-instagram-android) `https://nova.civai.co/mcp/agents/mcp-bgpt-instagram-android`
+  [![Instagram Mobile MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-instagram-android/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-instagram-android)
+  🔓 - Instagram Direct, profiles, search, posts, comments, and likes via mobile API replay.
+
+- [Jiji Nigeria MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-jiji-recon) `https://nova.civai.co/mcp/agents/mcp-bgpt-jiji-recon`
+  [![Jiji Nigeria MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-jiji-recon/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-jiji-recon)
+  🔓 - Search and buy on Jiji Nigeria — browse listings, message sellers, and manage your ads.
+
+- [LiveScore MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-livescore) `https://nova.civai.co/mcp/agents/mcp-bgpt-livescore`
+  [![LiveScore MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-livescore/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-livescore)
+  🔓 - Live football scores, fixtures, teams, and players.
+
+- [PDF Generator MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-pdf-generator) `https://nova.civai.co/mcp/agents/mcp-bgpt-pdf-generator`
+  [![PDF Generator MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-pdf-generator/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-pdf-generator)
+  🔓 - Create PDF documents from your request. Preview the content first, then download when ready.
+
+- [Polymarket MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-polymarket) `https://nova.civai.co/mcp/agents/mcp-bgpt-polymarket`
+  [![Polymarket MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-polymarket/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-polymarket)
+  🔓 - Browse prediction markets, check odds, and follow big trades.
+
+- [Tweet Downloader MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-tweet-downloader) `https://nova.civai.co/mcp/agents/mcp-bgpt-tweet-downloader`
+  [![Tweet Downloader MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-tweet-downloader/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-tweet-downloader)
+  🔓 - Get the text and download links from a public X post.
+
+- [YarnGPT MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-bgpt-yarngpt) `https://nova.civai.co/mcp/agents/mcp-bgpt-yarngpt`
+  [![YarnGPT MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-yarngpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-bgpt-yarngpt)
+  🔓 - Turn text into speech with Nigerian and African-accented voices.
+
+- [Brevo by Nova (CIVAI)](https://nova.civai.co/agent/mcp-brevo) `https://nova.civai.co/mcp/agents/mcp-brevo`
+  [![Brevo by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-brevo/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-brevo)
+  🔓 - Campaigns, contacts, and CRM via Brevo’s official MCP.
+
+- [Browser Control MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-browsergpt-browser-control) `https://nova.civai.co/mcp/agents/mcp-browsergpt-browser-control`
+  [![Browser Control MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-browsergpt-browser-control/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-browsergpt-browser-control)
+  🔓 - Control your Chrome from chat: open websites, read what's on the page, click buttons, and fill in forms. Works with the BrowserGPT extension on your computer, or a cloud browser...
+
+- [Deep Research by Nova (CIVAI)](https://nova.civai.co/agent/mcp-deep-research) `https://nova.civai.co/mcp/agents/mcp-deep-research`
+  [![Deep Research by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-deep-research/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-deep-research)
+  🔓 - Iterative research with configurable depth and breadth for complex topics.
+
+- [Firecrawl by Nova (CIVAI)](https://nova.civai.co/agent/mcp-firecrawl) `https://nova.civai.co/mcp/agents/mcp-firecrawl`
+  [![Firecrawl by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-firecrawl/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-firecrawl)
+  🔓 - Scrape, crawl, and search the web via Firecrawl’s official hosted MCP.
+
+- [Hacker News MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-hacker_news) `https://nova.civai.co/mcp/agents/mcp-hacker_news`
+  [![Hacker News MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-hacker_news/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-hacker_news)
+  🔓 - Browse Hacker News from chat: top stories, search, read comment threads, and post or upvote when you are signed in.
+
+- [Juicyway by Nova (CIVAI)](https://nova.civai.co/agent/mcp-juicyway) `https://nova.civai.co/mcp/agents/mcp-juicyway`
+  [![Juicyway by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-juicyway/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-juicyway)
+  🔓 - Manage your Juicyway business account from chat: check balances and movements, send bank payouts, view FX rates, and referrals — sign in once in the browser when prompted.
+
+- [Lagos Life by Nova (CIVAI)](https://nova.civai.co/agent/mcp-lagos_life) `https://nova.civai.co/mcp/agents/mcp-lagos_life`
+  [![Lagos Life by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-lagos_life/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-lagos_life)
+  🔓 - Play Lagos Life from chat: sign in, see who is on the map, read and send Phone DMs, check daily rewards, and peek at the Forbes rich list — like having a friend help you in the...
+
+- [Linear by Nova (CIVAI)](https://nova.civai.co/agent/mcp-linear) `https://nova.civai.co/mcp/agents/mcp-linear`
+  [![Linear by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-linear/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-linear)
+  🔓 - Issues, projects, cycles, and roadmaps via the official Linear hosted MCP server.
+
+- [LLM Scraper by Nova (CIVAI)](https://nova.civai.co/agent/mcp-llm-scraper) `https://nova.civai.co/mcp/agents/mcp-llm-scraper`
+  [![LLM Scraper by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-llm-scraper/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-llm-scraper)
+  🔓 - Scrape websites by following links and extract structured data from natural language instructions.
+
+- [SaaS Studio by Nova (CIVAI)](https://nova.civai.co/agent/mcp-saas_studio) `https://nova.civai.co/mcp/agents/mcp-saas_studio`
+  [![SaaS Studio by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-saas_studio/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-saas_studio)
+  🔓 - Turn your website into plugins AI assistants can use. SaaS Studio records your product in a real browser, then you can finish setup, connect agents, and go live from chat or fro...
+
+- [Slack MCP by Nova (CIVAI)](https://nova.civai.co/agent/mcp-slack_android) `https://nova.civai.co/mcp/agents/mcp-slack_android`
+  [![Slack MCP by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/mcp-slack_android/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/mcp-slack_android)
+  🔓 - Use Slack from chat: see channels, catch up on messages, post updates, and reply in threads in your signed-in workspace.
+
+- [OpenClaw Agent by Nova (CIVAI)](https://nova.civai.co/agent/openclaw-agent) `https://nova.civai.co/mcp/agents/openclaw-agent`
+  [![OpenClaw Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/openclaw-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/openclaw-agent)
+  🔓 - I execute requests through OpenClaw as a personal AI agent with persistent context, browser and shell tools, web access, messaging, sessions, and plugin/skill extensions.
+
+- [Terminal Command Agent by Nova (CIVAI)](https://nova.civai.co/agent/terminal-command-agent) `https://nova.civai.co/mcp/agents/terminal-command-agent`
+  [![Terminal Command Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/terminal-command-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/terminal-command-agent)
+  🔓 - I run shell commands on your private cloud environment (bash, sh, zsh).
+
 - [402cron](https://402cron.com) `https://402cron.com/mcp`
   [![402cron MCP connector](https://glama.ai/mcp/connectors/com.402cron/402cron/badges/score.svg)](https://glama.ai/mcp/connectors/com.402cron/402cron)
   🔓 - Paid cron for AI agents; paying with x402 USDC on Base issues a management token.
@@ -1679,6 +1839,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Browse, search, move and share files in your own S3-compatible buckets (AWS S3, MinIO, IDrive e2).
 
 ### 💰 <a name="finance"></a>Finance
+- [Support Agent Admin by Nova (CIVAI)](https://nova.civai.co/agent/support-agent-admin) `https://nova.civai.co/mcp/agents/support-agent-admin`
+  [![Support Agent Admin by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/support-agent-admin/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/support-agent-admin)
+  🔓 - I manage your Support Agent CRM — pipeline analytics, follow-ups, Leads Discovery, and workspace output (Sheets, Docs, Calendar, research).
+
 
 - [0s and 1s CIS](https://0sand1s.co.uk/developers) `https://0sand1s.co.uk/mcp`
   [![0s and 1s CIS MCP connector](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis)
@@ -3365,6 +3529,14 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
 
 ### 🎥 <a name="multimedia"></a>Multimedia
+- [Music Agent by Nova (CIVAI)](https://nova.civai.co/agent/music-agent) `https://nova.civai.co/mcp/agents/music-agent`
+  [![Music Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/music-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/music-agent)
+  🔓 - I do everything related to music and lyrics.
+
+- [Slidegen Agent by Nova (CIVAI)](https://nova.civai.co/agent/slidegen-agent) `https://nova.civai.co/mcp/agents/slidegen-agent`
+  [![Slidegen Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/slidegen-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/slidegen-agent)
+  🔓 - I do everything related to image and slide asset generation.
+
 
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
@@ -3954,6 +4126,14 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - One question goes to 3-4 models; a chair returns one verdict with a confidence score and the dissent that held.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
+- [Leads Discovery Agent by Nova (CIVAI)](https://nova.civai.co/agent/leads-discovery-agent) `https://nova.civai.co/mcp/agents/leads-discovery-agent`
+  [![Leads Discovery Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/leads-discovery-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/leads-discovery-agent)
+  🔓 - I discover new leads from WhatsApp/Telegram groups, Instagram post commenters, and X thread repliers — then import them into your Support Agent CRM.
+
+- [Research Agent by Nova (CIVAI)](https://nova.civai.co/agent/research-agent) `https://nova.civai.co/mcp/agents/research-agent`
+  [![Research Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/research-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/research-agent)
+  🔓 - I do everything related to research and reports.
+
 
 - [1cent](https://1cent.maxzoa.ru) `https://1cent.maxzoa.ru/mcp`
   [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
@@ -4952,6 +5132,30 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage GitHub repositories, issues, pull requests, and Actions.
 
 ### 🏢 <a name="workplace--productivity"></a>Workplace & Productivity
+- [Calendar Agent by Nova (CIVAI)](https://nova.civai.co/agent/calendar-agent) `https://nova.civai.co/mcp/agents/calendar-agent`
+  [![Calendar Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/calendar-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/calendar-agent)
+  🔓 - I do everything related to calendar scheduling.
+
+- [Gmail Agent by Nova (CIVAI)](https://nova.civai.co/agent/gmail-agent) `https://nova.civai.co/mcp/agents/gmail-agent`
+  [![Gmail Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/gmail-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/gmail-agent)
+  🔓 - I do everything related to Gmail and productivity.
+
+- [Google Docs Agent by Nova (CIVAI)](https://nova.civai.co/agent/google-docs-agent) `https://nova.civai.co/mcp/agents/google-docs-agent`
+  [![Google Docs Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/google-docs-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/google-docs-agent)
+  🔓 - I do everything related to Google Docs.
+
+- [Google Sheets Agent by Nova (CIVAI)](https://nova.civai.co/agent/google-sheets-agent) `https://nova.civai.co/mcp/agents/google-sheets-agent`
+  [![Google Sheets Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/google-sheets-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/google-sheets-agent)
+  🔓 - I do everything related to Google Sheets.
+
+- [Interviewer Agent by Nova (CIVAI)](https://nova.civai.co/agent/interviewer-agent) `https://nova.civai.co/mcp/agents/interviewer-agent`
+  [![Interviewer Agent by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/interviewer-agent/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/interviewer-agent)
+  🔓 - I do everything related to interviews and structured Q&A.
+
+- [Product Admin by Nova (CIVAI)](https://nova.civai.co/agent/product-admin) `https://nova.civai.co/mcp/agents/product-admin`
+  [![Product Admin by Nova (CIVAI) MCP connector](https://glama.ai/mcp/connectors/co.civai.nova/product-admin/badges/score.svg)](https://glama.ai/mcp/connectors/co.civai.nova/product-admin)
+  🔓 - I manage your Nova products — create/update/delete, payment & logistics config, icons, webhook secrets, bank-transfer onboarding, and deposit/bank-credit reconciliation.
+
 
 - [Account Executive Jobs](https://accountexecutivejobs.com) `https://mcp.accountexecutivejobs.com/mcp`
   [![Account Executive Jobs MCP connector](https://glama.ai/mcp/connectors/com.accountexecutivejobs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.accountexecutivejobs/mcp)
