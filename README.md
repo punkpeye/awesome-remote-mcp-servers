@@ -4328,6 +4328,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Auth Posture](https://auth-posture.rowb.app) `https://auth-posture.rowb.app/mcp`
   [![Auth Posture MCP connector](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit)
   🔓 - One-call domain audit: MX receiving, SPF/DMARC/DKIM spoofing protection, disposable-address risk.
+- [Bewary](https://bewary.app/mcp) `https://api.bewary.app/mcp`
+  [![Bewary MCP connector](https://glama.ai/mcp/connectors/app.bewary/bewary/badges/score.svg)](https://glama.ai/mcp/connectors/app.bewary/bewary)
+  🔐 - Checks links, domains, phone numbers, emails, crypto wallets and IBANs for scams; returns a verdict with evidence.
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
