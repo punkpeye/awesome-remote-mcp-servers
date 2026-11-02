@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [FramePond](https://framepond.com/en/agent?utm_source=github&utm_campaign=agent_launch) `https://framepond.com/mcp`
+  [![FramePond MCP connector](https://glama.ai/mcp/connectors/com.framepond/framepond/badges/score.svg)](https://glama.ai/mcp/connectors/com.framepond/framepond)
+  🔐 - Search bilingual image prompts and generate and download images with reference support.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
