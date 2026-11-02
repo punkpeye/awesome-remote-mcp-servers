@@ -2865,6 +2865,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
+- [USVI Public Records](https://usvipublicrecords.com/for-machines#claude) `https://mcp.usvipublicrecords.com/mcp`
+  [![USVI Public Records MCP connector](https://glama.ai/mcp/connectors/com.usvipublicrecords/documents/badges/score.svg)](https://glama.ai/mcp/connectors/com.usvipublicrecords/documents)
+  🔓 - Search and read U.S. Virgin Islands laws, court records, audits and hearings in full text, with citation links.
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
   🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
@@ -3937,6 +3940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [USVI Public Records: Newspapers](https://usvipublicrecords.com/for-machines#claude) `https://newspapers-mcp.usvipublicrecords.com/mcp`
+  [![USVI Public Records: Newspapers MCP connector](https://glama.ai/mcp/connectors/com.usvipublicrecords/newspapers/badges/score.svg)](https://glama.ai/mcp/connectors/com.usvipublicrecords/newspapers)
+  🔓 - Search Virgin Islands newspapers page by page, 1865 to 2001, with the gaps in every run named.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
