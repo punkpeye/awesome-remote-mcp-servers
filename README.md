@@ -4857,6 +4857,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MobilityMCP](https://ai.projektionisten.eu/mcp-landingpage/#mmcp) `https://ai.projektionisten.eu/mmcp`
   [![MobilityMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/mobility/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/mobility)
   🔐 - German public transport: journeys, departures, disruptions, and nearby stops and sharing vehicles.
+- [MONO eSIM](https://www.monoesim.app) `https://www.monoesim.app/mcp`
+  [![MONO eSIM MCP connector](https://glama.ai/mcp/connectors/app.monoesim/mono-e-sim/badges/score.svg)](https://glama.ai/mcp/connectors/app.monoesim/mono-e-sim)
+  🔓 - Compare global travel eSIM plans, check device compatibility and create customer-paid checkout links.
 - [Mubboo Flights Search](https://mubboo.flights/mcp) `https://mubboo.flights/api/mcp`
   [![Mubboo Flights Search MCP connector](https://glama.ai/mcp/connectors/flights.mubboo/flight-search/badges/score.svg)](https://glama.ai/mcp/connectors/flights.mubboo/flight-search)
   🔓 - Prepare flight searches with less setup: find airports, validate trip details and create comparison links.
