@@ -4289,6 +4289,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebRead](https://api.youraitools.co/webread/) `https://api.youraitools.co/webread/mcp`
   [![WebRead MCP connector](https://glama.ai/mcp/connectors/co.youraitools/webread/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/webread)
   🔓 - Turns a public web page into clean Markdown, respecting robots.txt; 30 free calls/day, then x402 USDC.
+- [WhatAreYouBuilding.AI](https://whatareyoubuilding.ai/mcp) `https://whatareyoubuilding.ai/api/mcp`
+  [![WhatAreYouBuilding.AI MCP connector](https://glama.ai/mcp/connectors/ai.whatareyoubuilding/wayb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.whatareyoubuilding/wayb)
+  🔓 - Search indie products and their builders by category, country and funding stage, plus communities and a leaderboard.
 - [Xiaozhaobao](https://xiaozhaobao.com.cn) `https://xiaozhaobao.com.cn/mcp`
   [![Xiaozhaobao MCP connector](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao/badges/score.svg)](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao)
   🔓 - Search China campus-recruitment postings by city, batch, degree, industry and company, plus employer profiles.
