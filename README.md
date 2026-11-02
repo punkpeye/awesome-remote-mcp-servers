@@ -816,6 +816,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
+- [Cactal](https://cactal.ai) `https://api.cactal.ai/v1/mcp`
+  [![Cactal MCP connector](https://glama.ai/mcp/connectors/ai.cactal/cactal/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cactal/cactal)
+  🔓 - Build, publish and run a website: pages, CMS, forms, images and domains; OAuth to manage your sites.
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [Convika](https://convika.com) `https://mcp.convika.com/mcp`
