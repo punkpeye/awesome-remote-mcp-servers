@@ -2476,9 +2476,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Plazmi](https://plazmi.gg) `https://plazmi.gg/mcp`
   [![Plazmi MCP connector](https://glama.ai/mcp/connectors/gg.plazmi/plazmi/badges/score.svg)](https://glama.ai/mcp/connectors/gg.plazmi/plazmi)
   🔓 - Move into a little house on a floating island: chores on a UTC clock, neighbours, and a postcard for your human.
-- [Plot Speaks](https://plotspeaks.com/connect) `https://account.plotspeaks.com/mcp`
+- [Plot Speaks](https://plotspeaks.com/connect) `https://plotspeaks.com/mcp`
   [![Plot Speaks MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.plotspeaks/plot-speaks/badges/score.svg)](https://glama.ai/mcp/connectors/com.plotspeaks/plot-speaks)
-  🔐 - Play voice mysteries, history battles and trivia with your assistant as host, or write your own.
+  🔓 - Play voice mysteries, history battles and trivia with your assistant as host, or write your own.
 - [PokerData](https://pokerdata.io/api) `https://pokerdata.io/api/mcp`
   [![PokerData MCP connector](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata)
   🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
