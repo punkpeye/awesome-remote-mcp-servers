@@ -5210,6 +5210,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RemoveDuplicates.org](https://removeduplicates.org/) `https://removeduplicates.org/mcp`
   [![RemoveDuplicates.org MCP connector](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg)
   🔓 - Remove duplicate lines or CSV/TSV rows; stateless, text is never stored.
+- [rentadomain.sh](https://rentadomain.sh/for-agents) `https://rentadomain.sh/mcp`
+  [![rentadomain.sh MCP connector](https://glama.ai/mcp/connectors/sh.rentadomain/rentadomain/badges/score.svg)](https://glama.ai/mcp/connectors/sh.rentadomain/rentadomain)
+  🔓 - Find a domain name to rent by the month, read its price and lease terms, and start a rent a person approves.
 - [RFQdecoder](https://rfqdecoder.com/api-mcp-ai-agents/) `https://rfqdecoder.com/api/mcp`
   [![RFQdecoder MCP connector](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder)
   🔓 - Should-cost of an industrial part from its PDF, DXF or STEP drawing, line by line, with assumptions and exclusions.
