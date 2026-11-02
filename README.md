@@ -1759,7 +1759,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
 - [Apizie Finance](https://apizie.tech/finance) `https://www.apizie.tech/mcp`
   [![Apizie Finance MCP connector](https://glama.ai/mcp/connectors/io.github.nafadza14/apizie-finance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nafadza14/apizie-finance)
-  🔓 - Official-source financial data layer for AI agents (SEC EDGAR, FRED, ECB, US Treasury, GLEIF, World Bank) with machine-readable citations.
+  🔐 - Official-source financial data layer for AI agents (SEC EDGAR, FRED, ECB, US Treasury, GLEIF, World Bank) with machine-readable citations.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
