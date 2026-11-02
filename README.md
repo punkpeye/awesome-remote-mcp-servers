@@ -609,7 +609,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
 - [FFxF](https://ffxf.net/agents) `https://ffxf.net/mcp`
   [![FFxF MCP connector](https://glama.ai/mcp/connectors/net.ffxf/cloud/badges/score.svg)](https://glama.ai/mcp/connectors/net.ffxf/cloud)
-  🔑 - Create and manage VMs, managed databases, private networks, firewalls and load balancers in Montréal, Canada.
+  🔓 - Create and manage VMs, managed databases, private networks, firewalls and load balancers in Montréal, Canada; account tools need an API key.
 - [Fiskmas](https://fiskmas.dev) `https://mcp.fiskmas.dev/mcp`
   [![Fiskmas MCP connector](https://glama.ai/mcp/connectors/dev.fiskmas/fiskmas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fiskmas/fiskmas)
   🔓 - Create, deploy and monitor Docker apps on live HTTPS URLs.
