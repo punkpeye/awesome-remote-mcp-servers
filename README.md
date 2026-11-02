@@ -801,6 +801,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Widely](https://widely-mobile.com/mcp) `https://mcp.widely-mobile.com/mcp`
   [![Widely MCP connector](https://glama.ai/mcp/connectors/com.widely-mobile/widely/badges/score.svg)](https://glama.ai/mcp/connectors/com.widely-mobile/widely)
   🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts, and AI receptionists.
+- [Wixzel Voice](https://voice.wixzel.com) `https://mcp.voice.wixzel.com/mcp`
+  [![Wixzel Voice MCP connector](https://glama.ai/mcp/connectors/com.wixzel/voice/badges/score.svg)](https://glama.ai/mcp/connectors/com.wixzel/voice)
+  🔐 - Build AI voice agents on any engine and run them on phone calls over your own carrier, in apps and on WhatsApp.
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
