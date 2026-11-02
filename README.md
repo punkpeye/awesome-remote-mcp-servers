@@ -1995,6 +1995,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
+- [Invoice reading](https://bill.bestsmartgoods.com/docs) `https://bill.bestsmartgoods.com/mcp`
+  [![Invoice reading MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/invoice-reading/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/invoice-reading)
+  🔑 - Read an invoice into seller, tax id, date, and amounts.
 - [InvoiceParser Pro](https://invoiceparserpro.com/ai-assistants) `https://api.invoiceparserpro.com/mcp`
   [![InvoiceParser Pro MCP connector](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp)
   🔓 - Read invoices into line items, check the math, and get Excel, CSV or JSON; free trial, no account.
@@ -3871,6 +3874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
   [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news)
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
+- [Citation check](https://cite.bestsmartgoods.com/docs) `https://cite.bestsmartgoods.com/mcp`
+  [![Citation check MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/citation-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/citation-check)
+  🔑 - Check whether a page URL supports a claim.
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
@@ -4014,6 +4020,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
+- [Company lookup](https://firm.bestsmartgoods.com/docs) `https://firm.bestsmartgoods.com/mcp`
+  [![Company lookup MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/company-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/company-lookup)
+  🔑 - Look up a company by name, registration number, or tax id.
 - [Conqueia](https://conqueia.com) `https://conqueia.com/mcp`
   [![Conqueia MCP connector](https://glama.ai/mcp/connectors/com.conqueia/conqueia/badges/score.svg)](https://glama.ai/mcp/connectors/com.conqueia/conqueia)
   🔓 - Spanish-language directory of 1,300+ real AI use cases, skills and tools for business; search, read entries, get picks.
