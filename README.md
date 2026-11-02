@@ -3629,7 +3629,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
 - [x402check](https://x402check.dev) `https://x402check.dev/mcp`
   [![x402check MCP connector](https://glama.ai/mcp/connectors/dev.x402check/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.x402check/mcp)
-  🔓 - Preflight x402 endpoints before an agent pays: ok|caution|avoid + payTo history. $0.002/URL USDC on Base.
+  🔓 - Preflight x402 endpoints before an agent pays: ok|caution|avoid + payTo history. $0.01/URL USDC on Base (1 free regular check per wallet).
 
 ### 📋 <a name="project-management"></a>Project Management
 
