@@ -885,7 +885,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Manage Storyblok spaces, stories, and components.
 - [UiChemy](https://uichemy.com) `https://app.uichemy.com/api/mcp`
   [![UiChemy MCP connector](https://glama.ai/mcp/connectors/com.uichemy.app/ui-chemy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.uichemy.app/ui-chemy-mcp)
-  🔐 - Build editable WordPress pages for Elementor, Gutenberg and Bricks from Claude, Cursor, Codex and VS Code.
+  🔐 - Build editable WordPress pages for Elementor and Gutenberg from Claude, Cursor, Codex and VS Code.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
