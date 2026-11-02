@@ -4043,6 +4043,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [Document to Markdown](https://apify.com/catalyst-labs/document-to-markdown) `https://mcp.apify.com/?tools=catalyst-labs/document-to-markdown`
+  [![Document to Markdown MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/document-to-markdown/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/document-to-markdown)
+  🔐 - PDF, Word, Excel, CSV and HTML to clean Markdown with tables kept, page markers and optional RAG chunks.
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
