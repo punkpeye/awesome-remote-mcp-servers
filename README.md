@@ -572,6 +572,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Shotkiln MCP connector](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln/badges/score.svg)](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln)
   🔓 - Screenshot pages as PNG, JPEG or WebP, render a URL or HTML to PDF, and make 1200x630 OG images; key optional.
 
+- [TestMu AI](https://www.testmuai.com/mcp/) `https://mcp.lambdatest.com/mcp`
+  [![TestMu AI MCP connector](https://glama.ai/mcp/connectors/com.lambdatest.mcp/mcp-server-by-test-mu-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.lambdatest.mcp/mcp-server-by-test-mu-ai)
+  🔐 - Trigger and debug cloud browser test runs: session logs and video, HyperExecute jobs, visual diffs, a11y audits.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
