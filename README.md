@@ -1751,6 +1751,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data via x402: Polymarket arbitrage, kimchi premium, token unlocks and funding rates.
+- [AlphaPrime](https://alphaprime.trading/en/claude/) `https://mcp.alphaprime.trading/mcp`
+  [![AlphaPrime MCP connector](https://glama.ai/mcp/connectors/trading.alphaprime/alphaprime/badges/score.svg)](https://glama.ai/mcp/connectors/trading.alphaprime/alphaprime)
+  🔐 - Generate and backtest futures trading strategies from Claude, in the cloud or on the AlphaPrime desktop app.
 - [Altair](https://altairworld.com/mcp) `https://altairworld.com/mcp`
   [![Altair MCP connector](https://glama.ai/mcp/connectors/com.altairworld/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.altairworld/site)
   🔓 - Full TradingAgents equity research reports by ticker (buy/hold/sell, bull/bear debate), free and read-only.
