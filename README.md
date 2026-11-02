@@ -3729,6 +3729,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Building Permits API](https://apify.com/gaelasao/planning-data-au-nz-fr) `https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr`
   [![Building Permits API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api)
   🔐 - Official building permits and planning applications for France, NSW Australia and Far North NZ, with sources.
+- [Casafari Area Insights](https://developers.casafari.com/docs/area-insights) `https://platform.casafari.com/mcp/area-insights`
+  [![Casafari Area Insights MCP connector](https://glama.ai/mcp/connectors/com.casafari/area-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/area-insights)
+  🔐 - European property market stats by area: asking-price trends, price and time-on-market spreads, district heatmaps.
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
