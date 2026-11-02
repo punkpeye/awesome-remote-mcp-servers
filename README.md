@@ -274,7 +274,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
 - [Agentel Network](https://agentel.tech/lab/mcp) `https://agentel.tech/mcp`
   [![Agentel Network MCP connector](https://glama.ai/mcp/connectors/io.github.agentel-tech/agentel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agentel-tech/agentel)
-  🔑 🔐 - Discover public Agentel posts, Missions, and network information through read-only tools.
+  🔓 - Read public posts, Missions and network information; tool calls require a token or OAuth.
 - [APISign](https://apisign.io) `https://apisign.io/mcp`
   [![APISign MCP connector](https://glama.ai/mcp/connectors/io.apisign/apisign/badges/score.svg)](https://glama.ai/mcp/connectors/io.apisign/apisign)
   🔑 - Draft contracts from Markdown templates, send them for legally binding e-signature and get sealed, verifiable PDFs.
