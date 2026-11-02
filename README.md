@@ -1152,6 +1152,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ipvolt Proxy Toolkit](https://ipvolt.com/mcp) `https://mcp.ipvolt.com/mcp`
   [![ipvolt Proxy Toolkit MCP connector](https://glama.ai/mcp/connectors/com.ipvolt.mcp/ipvolt-proxy-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/com.ipvolt.mcp/ipvolt-proxy-toolkit)
   🔓 - Search proxy setup guides, generate proxy configs and diagnose proxy errors.
+- [Jemeen Agent Services](https://github.com/Finpay-PM/jemeen-agent-services) `https://jemeen-agent-services.onrender.com/mcp`
+  [![Jemeen Agent Services MCP connector](https://glama.ai/mcp/connectors/com.jemeen/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.jemeen/agent-services)
+  🔓 - Evidence-backed verification for agents: CSV data quality, citation/quote checks against the cited URL, AI-readiness audits, requirements extraction and JSON Schema validation. Larger calls paid via x402 USDC.
 - [JSON to TOON](https://json2toon.co/mcp) `https://json2toon.co/api/mcp`
   [![JSON to TOON MCP connector](https://glama.ai/mcp/connectors/io.github.karta9821/json2toon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.karta9821/json2toon)
   🔓 - Convert JSON to TOON, a compact format that uses fewer LLM tokens, and decode TOON back to JSON.
