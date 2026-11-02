@@ -3029,6 +3029,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
+- [Google Trends API](https://apify.com/catalyst-labs/google-trends-api) `https://mcp.apify.com/?tools=catalyst-labs/google-trends-api`
+  [![Google Trends API MCP connector](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/google-trends-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.catalyst-labs-dev/google-trends-api)
+  🔐 - Google Trends interest over time, by region, and rising queries as JSON, with a ready trend summary.
 - [gtm.help](https://gtm.help) `https://gtm.help/mcp`
   [![gtm.help MCP connector](https://glama.ai/mcp/connectors/help.gtm/gtm-help/badges/score.svg)](https://glama.ai/mcp/connectors/help.gtm/gtm-help)
   🔓 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
