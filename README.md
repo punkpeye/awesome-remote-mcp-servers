@@ -1191,6 +1191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [naxytra](https://naxytra.com/agents) `https://xytara-mcp-executor.onrender.com/mcp`
   [![naxytra MCP connector](https://glama.ai/mcp/connectors/com.naxytra/xytara-mcp-executor/badges/score.svg)](https://glama.ai/mcp/connectors/com.naxytra/xytara-mcp-executor)
   🔓 - Deterministic EVM/crypto, x402 and text tools (hashing, ABI, EIP-712, Merkle); pay per call in USDC on Base.
+- [Nifra docs](https://nifra.dev/docs) `https://mcp.nifra.dev`
+  [![Nifra docs MCP connector](https://glama.ai/mcp/connectors/io.github.nifrajs/nifra-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nifrajs/nifra-docs)
+  🔓 - Search Nifra documentation, retrieve runnable examples, and inspect exact API types for coding agents.
 - [NoMac](https://nomac.app) `https://mcp.nomac.app/mcp`
   [![NoMac MCP connector](https://glama.ai/mcp/connectors/app.nomac/nomac/badges/score.svg)](https://glama.ai/mcp/connectors/app.nomac/nomac)
   🔐 - Real cloud Macs with Xcode: start one, run commands, build and test iOS apps, ship to TestFlight.
