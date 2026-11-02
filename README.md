@@ -92,6 +92,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🍽️ - [Food & Dining](#food--dining)
 * 🎮 - [Gaming](#gaming)
 * 🏋️ - [Health & Fitness](#health--fitness)
+* 🏠 - [Home Automation & IoT](#home-automation--iot)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🎯 - [Marketing](#marketing)
@@ -2560,6 +2561,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
+
+### 🏠 <a name="home-automation--iot"></a>Home Automation & IoT
+
+- [Port OS Smart Home](https://portoperatingsystem.com/) `https://api.portoperatingsystem.com/mcp`
+  [![Port OS Smart Home MCP connector](https://glama.ai/mcp/connectors/com.portoperatingsystem.api/port-os-smart-home/badges/score.svg)](https://glama.ai/mcp/connectors/com.portoperatingsystem.api/port-os-smart-home)
+  🔐 - Control your Philips lights, Sonos speakers, Roborock vacuums and more with Port OS cloud.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
