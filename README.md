@@ -2981,7 +2981,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
-- [GSCPAP - Google Search Console & GA4 MCP](https://gscpap.com/?utm_source=awesome-remote-mcp&utm_medium=directory) `https://mcp.gscpap.com/mcp`
+- [GSCPAP - Google Search Console, GA4, PageSpeed Insights & live SERPs MCP](https://gscpap.com/?utm_source=awesome-remote-mcp&utm_medium=directory) `https://mcp.gscpap.com/mcp`
   [![GSCPAP MCP connector](https://glama.ai/mcp/connectors/com.gscpap/gsc-pap/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscpap/gsc-pap)
   🔐 - Read-only Google Search Console, GA4 and PageSpeed data, with Search Console history kept past Google's 16-month limit.
 
