@@ -1044,6 +1044,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cherry Notes](https://cherrynotes.app) `https://api.cherrynotes.app/mcp`
   [![Cherry Notes MCP connector](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes)
   🔐 - Capture features, ideas and tasks on your phone; your AI coding agent picks them up and ships them.
+- [Clawhard Studio](https://mcp.clawhard.com/) `https://mcp.clawhard.com/mcp`
+  [![Clawhard Studio MCP connector](https://glama.ai/mcp/connectors/com.clawhard/studio/badges/score.svg)](https://glama.ai/mcp/connectors/com.clawhard/studio)
+  🔓 - Exact token counts, WCAG contrast fixes, time zones with DST, JSON repair, robots.txt checks, AI-writing scores, cost splits and shareable event pages. No auth.
 - [Cloudflare Docs](https://developers.cloudflare.com) `https://docs.mcp.cloudflare.com/mcp`
 - [CodeRifts](https://coderifts.com) `https://app.coderifts.com/mcp`
   [![CodeRifts MCP connector](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.coderifts/api-governance)
