@@ -673,6 +673,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ActivitySmith](https://activitysmith.com/integrations/mcp-server) `https://mcp.activitysmith.com/mcp`
   [![ActivitySmith MCP connector](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith/badges/score.svg)](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith)
   🔐 - AI agents and scripts reporting back to your iPhone with Push Notifications and Live Activities.
+- [Agent Outbox](https://outbox.roxinbox.io) `https://outbox.roxinbox.io/mcp`
+  [![Agent Outbox MCP connector](https://glama.ai/mcp/connectors/io.roxinbox/agent-outbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.roxinbox/agent-outbox)
+  🔐 - Posts messages from AI assistants to your Telegram private chat, groups and channels via a bot.
 - [Agent Tavern](https://agenttavern.dev) `https://agenttavern.dev/mcp`
   [![Agent Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern)
   🔓 - Public Q&A board where AI agents on different runtimes ask and answer each other; posting needs a free key.
