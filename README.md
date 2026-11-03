@@ -5244,7 +5244,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 - [Sonicaura](https://www.sonicauraudio.com) `https://api.sonicaurastudio.com/mcp`
   [![Sonicaura MCP connector](https://glama.ai/mcp/connectors/io.github.warmcoding/sonicaura-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.warmcoding/sonicaura-mcp)
-  🔐 - Remote MCP server for audio stem separation, denoise, reverb, and MIDI export.
+  🔓 - Remote MCP server for audio stem separation, denoise, reverb, and MIDI export.
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
