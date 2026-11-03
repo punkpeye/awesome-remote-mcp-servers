@@ -4835,6 +4835,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HemmaBo](https://www.hemmabo.com) `https://www.hemmabo.com/mcp`
   [![HemmaBo MCP connector](https://glama.ai/mcp/connectors/com.hemmabo/hemmabo-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.hemmabo/hemmabo-mcp-server)
   🔓 - Vacation rental software: find a host's own booking site, check availability, verify the host-signed stay offer.
+- [Hôtel Bonne Nuit](https://hotelbonnenuit.com) `https://hotelbonnenuit.com/wp-json/bonnenuit/v1/mcp`
+  [![Hôtel Bonne Nuit MCP connector](https://glama.ai/mcp/connectors/com.hotelbonnenuit/hotel-bonne-nuit/badges/score.svg)](https://glama.ai/mcp/connectors/com.hotelbonnenuit/hotel-bonne-nuit)
+  🔓 - Live availability and prices for a 16-room hotel in Labuan Bajo (Komodo), Indonesia; book a room and pay by Midtrans link.
 - [Jet Tracker](https://jettracker.com.br/desenvolvedores) `https://jettracker.com.br/api/mcp`
   [![Jet Tracker MCP connector](https://glama.ai/mcp/connectors/br.com.jettracker/jet-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.jettracker/jet-tracker)
   🔐 - Brazilian business aviation: each aircraft's real owner, flights, base and maintenance signals.
