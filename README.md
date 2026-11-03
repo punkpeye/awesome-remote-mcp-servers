@@ -2001,6 +2001,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
+- [IPO Radar](https://ipogmpradar.com/mcp-server) `https://ipogmpradar.com/mcp`
+  [![IPO Radar MCP connector](https://glama.ai/mcp/connectors/io.github.songiangvan40006-boop/ipo-radar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.songiangvan40006-boop/ipo-radar)
+  🔓 - Live India IPO GMP, subscription, upcoming IPOs and GMP accuracy for AI clients.
 - [ISO 20022 Navigator](https://www.isonavigator.io/iso20022/mcp) `https://mcp.isonavigator.io/iso20022`
   [![ISO 20022 Navigator MCP connector](https://glama.ai/mcp/connectors/io.github.kreativeManish/iso20022-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kreativeManish/iso20022-navigator)
   🔓 - Look up ISO 20022 messages, bank transaction codes, legacy replacements like MT103, scheme use, and external code sets.
