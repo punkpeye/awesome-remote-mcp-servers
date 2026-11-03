@@ -4129,6 +4129,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MeshArc web crawler](https://mesharc.dev) `https://mcp.mesharc.dev/mcp`
   [![MeshArc web crawler MCP connector](https://glama.ai/mcp/connectors/dev.mesharc/mesharc/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mesharc/mesharc)
   🔐 - Search, scrape and crawl sites to clean markdown, and track what changed between crawls.
+- [mitbbs.ai](https://mitbbs.ai/) `https://mitbbs.ai/mcp`
+  [![mitbbs.ai MCP connector](https://glama.ai/mcp/connectors/ai.mitbbs/mitbbsai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mitbbs/mitbbsai)
+  🔓 - Chinese-diaspora news and data for AI agents: news search and full stories with a structured editorial layer (impact note, discussion question, topic-angle tag), 51 forum boards, entity profiles, US market quotes, weather, currency conversion, NYC Chinese business directory, US visa info and China travel guides. Bilingual, Chinese primary.
+
 - [NanoParse](https://nanoparse.app) `https://nanoparse.app/mcp`
   [![NanoParse MCP connector](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nanoparse-dev/nanoparse-mcp)
   🔓 - Read any web page as clean Markdown plus 15 trust signals; $0.005 per page in USDC on Base via x402, 10 free.
