@@ -1309,6 +1309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
+- [TestOptim](https://www.testoptim.com) `https://api.testoptim.com/api/mcp`
+  [![TestOptim MCP connector](https://glama.ai/mcp/connectors/com.testoptim.api/test-optim/badges/score.svg)](https://glama.ai/mcp/connectors/com.testoptim.api/test-optim)
+  🔑 - Run AI QA test runs on your web app and read the bugs they find, with steps to reproduce.
 - [TheySaid](https://www.theysaid.io) `https://ai.theysaid.io/api/mcp`
   [![TheySaid MCP connector](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said/badges/score.svg)](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said)
   🔐 - Search customer feedback and run AI usability tests on any website or design.
