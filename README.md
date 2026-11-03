@@ -5163,6 +5163,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Astro Agents](https://astro-agent.dev) `https://astro-agent.dev/mcp`
   [![Astro Agents MCP connector](https://glama.ai/mcp/connectors/io.github.aidatatools-dev/astro-agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aidatatools-dev/astro-agents)
   🔓 - Western and full Vedic astrology (kundli, Gun Milan, doshas, dashas) from DE440 ephemerides; results hash-verifiable.
+- [AstroNest](https://www.astronest.ai/developers/astrology-mcp-server) `https://www.astronest.ai/api/developer/mcp`
+  [![AstroNest MCP connector](https://glama.ai/mcp/connectors/io.github.onedotlinks/astronest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.onedotlinks/astronest)
+  🔐 - Vedic astrology readings, not just charts: life areas, the whole life, compatibility, business timing and gemstones.
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
   🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
