@@ -1240,6 +1240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Proxlai](https://proxlai.com) `https://proxlai.com/api/mcp`
   [![Proxlai MCP connector](https://glama.ai/mcp/connectors/com.proxlai/proxlai/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxlai/proxlai)
   🔓 - Look up and compare verified, dated prices for 231 AI APIs in 38 markets, ranked in one unit per market.
+- [Pugi](https://pugi.io/agents.md) `https://api.pugi.io/api/agent/v1/mcp`
+  [![Pugi MCP connector](https://glama.ai/mcp/connectors/io.pugi/pugi/badges/score.svg)](https://glama.ai/mcp/connectors/io.pugi/pugi)
+  🔓 - AI product team: builds, edits and publishes websites from a brief, draws logos with a brand kit, checks public websites and GitHub repos for security issues; tools sign in with a Pugi account (OAuth).
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
