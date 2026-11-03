@@ -1432,6 +1432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [Good Nature Vibe Catalog](https://goodnaturevibe.com) `https://catalog-mcp.goodnaturevibe.com/mcp`
+  [![Good Nature Vibe Catalog MCP connector](https://glama.ai/mcp/connectors/com.goodnaturevibe/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.goodnaturevibe/catalog)
+  🔓 - Search the public catalog and shop knowledge; no login, cart, checkout or ordering.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
