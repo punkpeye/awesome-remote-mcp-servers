@@ -434,6 +434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read your team's delivery metrics and standards, and check a change against them before a PR.
 - [DeepWiki](https://deepwiki.com) `https://mcp.deepwiki.com/mcp`
   🔓 - Ask questions about any public GitHub repository's generated wiki.
+- [Domainee](https://domainee.dev/mcp) `https://mcp.domainee.dev/mcp`
+  [![Domainee MCP connector](https://glama.ai/mcp/connectors/dev.domainee/domainee/badges/score.svg)](https://glama.ai/mcp/connectors/dev.domainee/domainee)
+  🔐 - Connect customers' domains to your SaaS: DNS setup, SSL and verification, plus keyless DNS and SSL diagnostic tools.
 - [Electrik Slate](https://slate.electrik.dev) `https://mcp.slate.electrik.dev`
   [![Electrik Slate MCP connector](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.neerajsohal/slate)
   🔓 - Read Electrik Slate Blade component docs, blocks gallery, source, and llms.txt.
