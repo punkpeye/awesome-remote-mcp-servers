@@ -5103,7 +5103,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
-- [SystemSculpt](https://systemsculpt.com) `https://systemsculpt.com/mcp`
+- [SystemSculpt](https://systemsculpt.com/?utm_source=mcp-directory&utm_medium=referral&utm_campaign=evergreen&utm_content=awesome-remote-mcp-servers) `https://systemsculpt.com/mcp`
   [![SystemSculpt MCP connector](https://glama.ai/mcp/connectors/com.systemsculpt/systemsculpt/badges/score.svg)](https://glama.ai/mcp/connectors/com.systemsculpt/systemsculpt)
   🔐 - Manage your SystemSculpt account, credits, billing and server-side captures. No local vault access.
 - [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
