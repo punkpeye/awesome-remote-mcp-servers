@@ -3490,6 +3490,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
+- [Revana](https://revana.si/mcp) `https://revana.si/api/mcp`
+  [![Revana MCP connector](https://glama.ai/mcp/connectors/si.revana/revana/badges/score.svg)](https://glama.ai/mcp/connectors/si.revana/revana)
+  🔐 - Browse AI video and image models with prices, get free quotes, and make Seedance 2.5 videos on prepaid credits.
 - [RiverScript](https://riverscript.com/docs/platform-details/mcp) `https://riverscript.com/mcp`
   [![RiverScript MCP connector](https://glama.ai/mcp/connectors/com.riverscript/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.riverscript/mcp)
   🔓 - Get the text of any transcript or translation shared with a RiverScript share link.
