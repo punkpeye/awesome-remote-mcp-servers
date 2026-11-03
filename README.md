@@ -3988,6 +3988,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [ATS Jobs](https://actorly.atrey.dev/mcp/ats-jobs-mcp) `https://mcp.apify.com/?tools=anshumanatrey/ashby-jobs-search,anshumanatrey/cornerstone-jobs-search,anshumanatrey/deel-jobs-search,anshumanatrey/greenhouse-jobs-search,anshumanatrey/lever-jobs-search,anshumanatrey/smartrecruiters-jobs-search,anshumanatrey/workable-job-search,anshumanatrey/workday-job-search`
+  [![ATS Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.AnshumanAtrey/ats-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnshumanAtrey/ats-jobs-mcp)
+  🔐 - Live jobs from Greenhouse, Lever, Workday, Ashby, SmartRecruiters, Workable, Cornerstone and Deel, pay per job.
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
