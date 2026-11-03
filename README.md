@@ -914,6 +914,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [Kicklace](https://www.kicklace.com/docs/mcp) `https://www.kicklace.com/api/mcp`
+  [![Kicklace MCP connector](https://glama.ai/mcp/connectors/com.kicklace/kicklace/badges/score.svg)](https://glama.ai/mcp/connectors/com.kicklace/kicklace)
+  🔐 - Lifecycle email for SaaS founders: look up customers, read the lifecycle map, run reports and draft emails.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
