@@ -5088,6 +5088,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuillHub](https://quillhub.ai/en/help/mcp-claude-cursor) `https://mcp.quillhub.ai/mcp`
   [![QuillHub MCP connector](https://glama.ai/mcp/connectors/ai.quillhub/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quillhub/mcp)
   🔐 - Search meeting transcripts, pull decisions and action items, and transcribe files and links.
+- [Raq.com](https://raq.com/agent-start) `https://raq.com/mcp/agent/v1`
+  [![Raq.com MCP connector](https://glama.ai/mcp/connectors/com.raq/raq/badges/score.svg)](https://glama.ai/mcp/connectors/com.raq/raq)
+  🔐 - Work with shared tasks, projects, CRM, team messages, forms and e-signatures using workspace permissions.
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
