@@ -4185,7 +4185,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search US company filings, SEC reports, federal court cases, spending awards, licenses, and entity records.
 - [Pushbuild Data APIs](https://pushbuild.com/apis/mcp.html) `https://api.pushbuild.com/mcp`
   [![Pushbuild Data APIs MCP connector](https://glama.ai/mcp/connectors/com.pushbuild/data-apis/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushbuild/data-apis)
-  🔑 - Search and call 403 public-records and market-data APIs: elections, courts, permits, SEC filings, economic data.
+  🔓 - Search and call 403 public-records and market-data APIs: elections, courts, permits, SEC filings, economic data.
 - [QRCode.Pub tools](https://qrcode.pub/qr-code-api#mcp) `https://qrcode.pub/mcp`
   [![QRCode.Pub tools MCP connector](https://glama.ai/mcp/connectors/pub.qrcode/tools/badges/score.svg)](https://glama.ai/mcp/connectors/pub.qrcode/tools)
   🔓 - Free QR code images plus pay-per-call page-to-Markdown, page metadata and file hosting, in USDC via x402.
