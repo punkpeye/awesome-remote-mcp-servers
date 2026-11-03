@@ -1156,7 +1156,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ipvolt Proxy Toolkit MCP connector](https://glama.ai/mcp/connectors/com.ipvolt.mcp/ipvolt-proxy-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/com.ipvolt.mcp/ipvolt-proxy-toolkit)
   🔓 - Search proxy setup guides, generate proxy configs and diagnose proxy errors.
 - [Jam](https://jam.dev/mcp) `https://mcp.jam.dev/mcp`
-  [![Jam MCP connector](https://glama.ai/mcp/connectors/dev.jam/jam/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jam/jam)
+  [![Jam MCP connector](https://glama.ai/mcp/connectors/dev.jam.mcp/jam/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jam.mcp/jam)
   🔐 - Jam recordings (video, console, network) as context and proof of work for your coding agent.
 - [JSON to TOON](https://json2toon.co/mcp) `https://json2toon.co/api/mcp`
   [![JSON to TOON MCP connector](https://glama.ai/mcp/connectors/io.github.karta9821/json2toon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.karta9821/json2toon)
