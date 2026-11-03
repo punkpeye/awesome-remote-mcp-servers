@@ -1429,6 +1429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ESEO](https://eseo.su/developers) `https://eseo.su/api/mcp`
   [![ESEO MCP connector](https://glama.ai/mcp/connectors/su.eseo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/su.eseo/mcp)
   🔓 - SEO score, limits check and AI generation of product cards for Wildberries, Ozon and Yandex Market.
+- [Etsy Sales MCP](https://geminigeorge22.github.io/) `https://mcp.apify.com/?tools=publicrecords/etsy-shop-velocity,publicrecords/etsy-search-scraper`
+  [![Etsy Sales MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/etsy-sales-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/etsy-sales-mcp)
+  🔐 - Etsy shop sales counters with history and live search listing rows with price, shop, badges and rank.
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
