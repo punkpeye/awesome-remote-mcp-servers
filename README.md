@@ -537,6 +537,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![APEX MCP connector](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1)
   🔓 - Render a URL, or up to 25 pages of a site, to clean text in headless Chrome; $1 per call via x402.
 
+- [Banquish](https://banquish.space) `https://mcp.banquish.space/mcp`
+  [![Banquish MCP connector](https://glama.ai/mcp/connectors/space.banquish/banquish/badges/score.svg)](https://glama.ai/mcp/connectors/space.banquish/banquish)
+  🔐 - Compose live parts of real pages as Panels on a Workspace in the Banquish Mac app; needs the app open on your Mac.
+
 - [Bowmark](https://bowmark.ai) `https://api.bowmark.ai/mcp`
   [![Bowmark MCP connector](https://glama.ai/mcp/connectors/ai.bowmark/bowmark/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bowmark/bowmark)
   🔓 - Typed functions an agent calls to search, price-check and book on live websites, no browser needed.
