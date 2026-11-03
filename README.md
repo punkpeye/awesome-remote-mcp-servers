@@ -5219,6 +5219,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SerialHunt](https://bigballi.com/SerialHunt/connect) `https://bigballi.com/SerialHunt/mcp`
   [![SerialHunt MCP connector](https://glama.ai/mcp/connectors/com.bigballi/serialhunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/serialhunt)
   🔓 - US bill serial numbers: star note print runs from government figures and fancy serial patterns with exact odds.
+- [Shlok Bam](https://shlokbam.in/ai) `https://shlokbam.in/mcp`
+  [![Shlok Bam MCP connector](https://glama.ai/mcp/connectors/io.github.shlokbam/portfolio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shlokbam/portfolio)
+  🔓 - Ask about AI engineer Shlok Bam: projects with live GitHub stats, experience, skills, patents and résumé. Read-only.
 - [SpinWheelNames](https://spinwheelnames.com) `https://spinwheelnames.com/mcp`
   [![SpinWheelNames MCP connector](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames)
   🔓 - Spin random name picker wheels, pick random numbers, and search or open shared wheels.
