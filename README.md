@@ -2868,6 +2868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
   🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
+- [Vorsorge-Regeln](https://vorsorge-regeln.de/ki-assistenten.html) `https://vorsorge-regeln.de/mcp.php`
+  [![Vorsorge-Regeln MCP connector](https://glama.ai/mcp/connectors/de.vorsorge-regeln/vorsorge-regeln/badges/score.svg)](https://glama.ai/mcp/connectors/de.vorsorge-regeln/vorsorge-regeln)
+  🔓 - German estate planning with sources: notary fees for wills and powers of attorney, statutory inheritance shares, a sourced facts register and a finder for free emergency folders; read-only, general information.
 - [Zitierfest](https://zitierfest.de) `https://mcp.zitierfest.de/mcp`
   [![Zitierfest MCP connector](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest/badges/score.svg)](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest)
   🔐 - German statutes verbatim (federal, 16 states, EU), federal court decisions with paragraph numbers, legal fees.
