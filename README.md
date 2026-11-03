@@ -1081,6 +1081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
+- [Drex (nace.ai)](https://console.nace.ai/docs/developer-tools/hosted-mcp) `https://console.nace.ai/mcp`
+  [![Drex (nace.ai) MCP connector](https://glama.ai/mcp/connectors/ai.nace.console/drex-naceai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nace.console/drex-naceai)
+  🔓 - Ask Drex decision models typed questions about a state and get calibrated probabilities; free within per-network limits.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
