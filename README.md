@@ -1038,6 +1038,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Carrick](https://carrick.tools) `https://api.carrick.tools/mcp`
   [![Carrick MCP connector](https://glama.ai/mcp/connectors/io.github.carrick-tools/carrick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.carrick-tools/carrick)
   🔐 - Indexes TypeScript codebases across services and repositories so agents search functions by intent rather than name.
+- [Celo Docs](https://docs.celo.org/build/agents/use-docs-with-ai) `https://docs.celo.org/mcp`
+  [![Celo Docs MCP connector](https://glama.ai/mcp/connectors/org.celo/docs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.celo/docs-mcp)
+  🔓 - Search and read the Celo developer documentation, including guides for agents, stablecoin payments and MiniPay.  
 - [Ceraph React Native MCP](https://ceraph.dev) `https://mcp.ceraph.dev/mcp`
   [![Ceraph React Native MCP connector](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp)
   🔐 - Let your coding agent test React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators.
@@ -1823,6 +1826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
+- [Celo x402 Facilitator](https://docs.celo.org/build/agents/x402) `https://api.x402.celo.org/mcp`
+  [![Celo x402 Facilitator MCP connector](https://glama.ai/mcp/connectors/org.celo/x402-facilitator/badges/score.svg)](https://glama.ai/mcp/connectors/org.celo/x402-facilitator)
+  🔓 - Read-only access to the Celo x402 facilitator: supported stablecoins, settings, payment verification and status.  
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
