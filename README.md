@@ -1769,6 +1769,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
+- [AstraEye Labs](https://astraeyelabs.io) `https://astraeyelabs.io/mcp`
+  [![AstraEye Labs MCP connector](https://glama.ai/mcp/connectors/io.astraeyelabs/research/badges/score.svg)](https://glama.ai/mcp/connectors/io.astraeyelabs/research)
+  🔐 - AI research on U.S. stocks, ETFs and crypto with sources and methods; read reports and start new research.
 - [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
   [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
   🔓 - Read-only Australian economic data from ABS, RBA and APRA, including GDP, inflation and interest rates.
