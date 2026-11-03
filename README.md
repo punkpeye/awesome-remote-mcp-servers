@@ -2019,6 +2019,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kairos Signal](https://kairossignal.com) `https://kairossignal.com/mcp`
   [![Kairos Signal MCP connector](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode/badges/score.svg)](https://glama.ai/mcp/connectors/com.kairossignal/kairos-signal-63-layer-symplectic-neural-ode)
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
+- [Katana](https://katanascreener.com/en/mcp/) `https://mcp.katanascreener.com/mcp`
+  [![Katana MCP connector](https://glama.ai/mcp/connectors/com.katanascreener/katana/badges/score.svg)](https://glama.ai/mcp/connectors/com.katanascreener/katana)
+  🔐 - Screen all Japanese listed companies by EDINET financials, custom formulas, and annual report text.
 - [Kema Invoice](https://invoice.kema-studio.com) `https://mcp.kema-studio.com/api/mcp`
   [![Kema Invoice MCP connector](https://glama.ai/mcp/connectors/com.kema-studio/invoice/badges/score.svg)](https://glama.ai/mcp/connectors/com.kema-studio/invoice)
   🔐 - Compliant French e-invoicing for freelancers: create, issue, certify and track invoices, quotes and deposits.
