@@ -1290,7 +1290,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Browse, search and scan a public leaderboard of AI-generated GitHub repos; voting needs a GitHub token.
 - [Sniptide](https://sniptide.com) `https://app.sniptide.com/api/mcp`
   [![Sniptide MCP connector](https://glama.ai/mcp/connectors/io.github.Dino-Kupinic/sniptide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Dino-Kupinic/sniptide)
-  🔐 - Search, save and reuse code snippets and collections in a pastebin for agents.
+  🔐 - AI pastebin for coding agents to search, save and reuse code snippets and collections over MCP.
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software and read-only agent workflows with roles, checks and safety boundaries.
