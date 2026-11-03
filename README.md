@@ -3420,6 +3420,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Google Vids MCP Server by useapi.net](https://useapi.net/docs/api-google-vids-v1/mcp) `https://api.useapi.net/v1/google-vids/mcp`
   [![Google Vids MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/google-vids/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/google-vids)
   🔐 - Gemini Omni video with sound and voiced avatars in Google Vids on your Google plan. Not affiliated with Google.
+- [Green Screen Memes](https://api.greenscreenmemes.app) `https://api.greenscreenmemes.app/mcp`
+  [![Green Screen Memes MCP connector](https://glama.ai/mcp/connectors/app.greenscreenmemes.api/green-screen-memes/badges/score.svg)](https://glama.ai/mcp/connectors/app.greenscreenmemes.api/green-screen-memes)
+  🔓 - Search 2,000+ green screen meme clips and get ffmpeg commands to key them over video; calls need a free key.
 - [GrooveSheet](https://www.groovesheet.net/developers) `https://api.groovesheet.net/mcp`
   [![GrooveSheet MCP connector](https://glama.ai/mcp/connectors/net.groovesheet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.groovesheet/mcp)
   🔐 - Find sheet music, tabs and MIDI for songs, and transcribe your own recordings via one-time upload links.
