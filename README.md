@@ -3661,6 +3661,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrameOn](https://app.frameonlab.com/mcp) `https://api.frameonlab.com/api/v1/mcp`
   [![FrameOn MCP connector](https://glama.ai/mcp/connectors/com.frameonlab/frameon/badges/score.svg)](https://glama.ai/mcp/connectors/com.frameonlab/frameon)
   🔐 - Project management for AI agents: tasks, docs, decisions and time in one shared team context.
+- [Frostbyte](https://getfrostbyte.dev) `https://getfrostbyte.dev/mcp`
+  [![Frostbyte MCP connector](https://glama.ai/mcp/connectors/dev.getfrostbyte/frostbyte/badges/score.svg)](https://glama.ai/mcp/connectors/dev.getfrostbyte/frostbyte)
+  🔐 - Product planning for AI coding agents: tasks, releases, user feedback and decisions in one shared plan.
 - [GTD Brain](https://gtdbrain.com/connect?source=awesome-remote-mcp-servers) `https://mcp.gtdbrain.com/api/gtdbrain/v1/mcp`
   [![GTD Brain MCP connector](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain)
   🔐 - Getting Things Done board: inbox capture, next actions by context, projects and weekly review.
