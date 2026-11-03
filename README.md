@@ -3457,6 +3457,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mage](https://www.mage.space/mcp) `https://mcp.mage.space/mcp`
   [![Mage MCP connector](https://glama.ai/mcp/connectors/space.mage/mage/badges/score.svg)](https://glama.ai/mcp/connectors/space.mage/mage)
   🔐 - Generate images, video, and audio with many frontier models, with the price quoted before each run.
+- [Makernice](https://makernice.com) `https://mcp.makernice.com/mcp`
+  [![Makernice MCP connector](https://glama.ai/mcp/connectors/com.makernice/makernice/badges/score.svg)](https://glama.ai/mcp/connectors/com.makernice/makernice)
+  🔐 - Generate AI videos and images with 17 models; every job is priced in USD before it runs.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
