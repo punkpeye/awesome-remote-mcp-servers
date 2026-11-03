@@ -1790,6 +1790,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Base Web3 M2M Hub](https://auditor-x402.onrender.com) `https://auditor-x402.onrender.com/mcp/v1`
   [![Base Web3 M2M Hub MCP connector](https://glama.ai/mcp/connectors/com.onrender.auditor-x402/base-web3-m2m-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.auditor-x402/base-web3-m2m-hub)
   🔓 - Live Base Mainnet data: gas, DEX arbitrage, whale tracking, Aave loans, token security; pay per call via x402.
+- [BeliefState](https://beliefstate.ai) `https://beliefstate.ai/mcp`
+  [![BeliefState MCP connector](https://glama.ai/mcp/connectors/ai.beliefstate/investor-research/badges/score.svg)](https://glama.ai/mcp/connectors/ai.beliefstate/investor-research)
+  🔐 - Cited investor theses, investment risks, catalysts, research changes and publication-based outcomes.
 - [Benefits City](https://aiagentscity.com/benefits) `https://aiagentscity.com/benefits/mcp`
   [![Benefits City MCP connector](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city)
   🔓 - US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates.
