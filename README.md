@@ -1997,7 +1997,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
 - [Invoice reading](https://bill.bestsmartgoods.com/docs) `https://bill.bestsmartgoods.com/mcp`
   [![Invoice reading MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/invoice-reading/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/invoice-reading)
-  🔑 - Read an invoice into seller, tax id, date, and amounts.
+  🔓 - Read an invoice into seller, tax id, date, and amounts.
 - [InvoiceParser Pro](https://invoiceparserpro.com/ai-assistants) `https://api.invoiceparserpro.com/mcp`
   [![InvoiceParser Pro MCP connector](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp)
   🔓 - Read invoices into line items, check the math, and get Excel, CSV or JSON; free trial, no account.
@@ -3876,7 +3876,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
 - [Citation check](https://cite.bestsmartgoods.com/docs) `https://cite.bestsmartgoods.com/mcp`
   [![Citation check MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/citation-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/citation-check)
-  🔑 - Check whether a page URL supports a claim.
+  🔓 - Check whether a page URL supports a claim.
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
@@ -4022,7 +4022,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
 - [Company lookup](https://firm.bestsmartgoods.com/docs) `https://firm.bestsmartgoods.com/mcp`
   [![Company lookup MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/company-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/company-lookup)
-  🔑 - Look up a company by name, registration number, or tax id.
+  🔓 - Look up a company by name, registration number, or tax id.
 - [Conqueia](https://conqueia.com) `https://conqueia.com/mcp`
   [![Conqueia MCP connector](https://glama.ai/mcp/connectors/com.conqueia/conqueia/badges/score.svg)](https://glama.ai/mcp/connectors/com.conqueia/conqueia)
   🔓 - Spanish-language directory of 1,300+ real AI use cases, skills and tools for business; search, read entries, get picks.
