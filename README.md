@@ -3002,6 +3002,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DashThis](https://dashthis.com) `https://mcp.dashthis.com`
   [![DashThis MCP connector](https://glama.ai/mcp/connectors/com.dashthis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dashthis/mcp)
   🔐 - Work with your marketing reporting dashboards and turn the numbers into client-ready updates.
+- [Debriefing](https://debriefing.io) `https://debriefing.io/mcp`
+  [![Debriefing MCP connector](https://glama.ai/mcp/connectors/io.debriefing/debriefing/badges/score.svg)](https://glama.ai/mcp/connectors/io.debriefing/debriefing)
+  🔓 - Competitive intelligence: search public competitor briefs and request a free one; OAuth adds tracked rivals, signals, digests and battlecards.
 - [Deeplead](https://www.deeplead.io) `https://www.deeplead.io/api/mcp`
   [![Deeplead MCP connector](https://glama.ai/mcp/connectors/io.deeplead/deeplead/badges/score.svg)](https://glama.ai/mcp/connectors/io.deeplead/deeplead)
   🔓 - Search local businesses, companies and people, and find their decision makers with verified emails and phone numbers.
@@ -3151,6 +3154,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RankRoot](https://getrankroot.com) `https://getrankroot.com/api/mcp`
   [![RankRoot MCP connector](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot)
   🔓 - Score a site’s visibility to ChatGPT, Perplexity and AI agents, and generate llms.txt, robots.txt and JSON-LD fixes.
+- [Rankwise](https://tryrankwise.com) `https://tryrankwise.com/api/mcp`
+  [![Rankwise MCP connector](https://glama.ai/mcp/connectors/com.tryrankwise/rankwise/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryrankwise/rankwise)
+  🔓 - AI search visibility: check AI crawler access and citation readiness; OAuth adds tracking, briefs and articles.
 - [Ranla](https://ranla.ai) `https://mcp.ranla.ai/mcp`
   [![Ranla MCP connector](https://glama.ai/mcp/connectors/ai.ranla/ranla/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ranla/ranla)
   🔐 - AI growth engineer for software businesses: ships SEO pages, gets you into AI answers, replies on Reddit, sends email.
