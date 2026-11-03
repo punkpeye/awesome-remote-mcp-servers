@@ -1695,7 +1695,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![47620 Data API MCP connector](https://glama.ai/mcp/connectors/xyz.47620/solana-data/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.47620/solana-data)
   🔓 - Pay-per-call data over x402 on Solana, Base and Polygon: prices, liquidity, balances, txs and token analytics.
 
-
+- [Dividend Seeker](https://dividend-seeker.com) [![com.dividend-seeker/Dividend-Seeker MCP server](https://glama.ai/mcp/servers/com.dividend-seeker/Dividend-Seeker/badges/score.svg)](https://glama.ai/mcp/servers/com.dividend-seeker/Dividend-Seeker)    🔓 -  Reverse SEC Form N-PORT institutional portfolio screener to discover ETFs, closed-end funds (CEFs), and mutual funds holding concentrated allocations of target equities for single-stock exposure without single-stock risk.
 - [Aave](https://aave.com) `https://mcp.aave.com`
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
   🔓 - Aave V3 and V4 markets, rates, wallet positions, governance and non-custodial transaction building.
