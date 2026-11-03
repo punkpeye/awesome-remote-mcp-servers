@@ -1508,6 +1508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [Sharpest](https://sharpest.ai/mcp-install) `https://sharpest.ai/mcp`
+  [![Sharpest MCP connector](https://glama.ai/mcp/connectors/ai.sharpest/sharpest/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sharpest/sharpest)
+  🔓 - Current new and used prices for GPUs, electronics, trading cards, LEGO and everyday staples, with deals and price moves.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
@@ -4180,6 +4183,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PubRecords](https://mcp-pubrecords-production.up.railway.app) `https://mcp-pubrecords-production.up.railway.app/mcp/`
   [![PubRecords MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/pubrecords/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/pubrecords)
   🔓 - Search US company filings, SEC reports, federal court cases, spending awards, licenses, and entity records.
+- [Pushbuild Data APIs](https://pushbuild.com/apis/mcp.html) `https://api.pushbuild.com/mcp`
+  [![Pushbuild Data APIs MCP connector](https://glama.ai/mcp/connectors/com.pushbuild/data-apis/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushbuild/data-apis)
+  🔓 - Search and call 403 public-records and market-data APIs: elections, courts, permits, SEC filings, economic data.
 - [QRCode.Pub tools](https://qrcode.pub/qr-code-api#mcp) `https://qrcode.pub/mcp`
   [![QRCode.Pub tools MCP connector](https://glama.ai/mcp/connectors/pub.qrcode/tools/badges/score.svg)](https://glama.ai/mcp/connectors/pub.qrcode/tools)
   🔓 - Free QR code images plus pay-per-call page-to-Markdown, page metadata and file hosting, in USDC via x402.
