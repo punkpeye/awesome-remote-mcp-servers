@@ -2953,6 +2953,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CalmSEO](https://calmseo.com) `https://mcp.calmseo.com/mcp`
   [![CalmSEO MCP connector](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp)
   🔐 - Free Google Search Console analytics plus credit-based SERP, keyword, and page audit tools.
+- [Calven](https://calven.ai/mcp) `https://api.calven.ai/mcp`
+  [![Calven MCP connector](https://glama.ai/mcp/connectors/ai.calven/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.calven/mcp)
+  🔐 - Read your approved positioning, messaging, ICP, personas, competitor battlecards and win/loss, with sources.
 - [Camberstack](https://camberstack.io) `https://camberstack.io/mcp`
   [![Camberstack MCP connector](https://glama.ai/mcp/connectors/io.camberstack/google-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.camberstack/google-ads)
   🔐 - Google Ads: checks conversion tracking, finds wasted spend, and applies only the changes you approve, with undo.
