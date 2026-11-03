@@ -165,6 +165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes Gateway](https://diogenes-l402-gateway.corinth.workers.dev) `https://diogenes-l402-gateway.corinth.workers.dev/mcp`
   [![Diogenes Gateway MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-gateway)
   🔓 - Multi-protocol AI microservices: pre-execution guardrails, smart contract audits, and EVE Frontier smart assemblies.
+- [Faceabot](https://faceabot.com) `https://faceabot.com/api/mcp`
+  [![Faceabot MCP connector](https://glama.ai/mcp/connectors/com.faceabot/capability-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.faceabot/capability-network)
+  🔓 - Finds the MCP server that actually works for a need among 50,000+, ranked by live measured reliability, with fallbacks.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
 - [FiatDock](https://fiatdock.com) `https://fiatdock.com/mcp`
