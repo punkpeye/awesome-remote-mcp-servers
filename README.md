@@ -2989,6 +2989,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [Prisma Reviews](https://prismareviews.com) `https://api.prismareviews.com/mcp`
+  [![Prisma Reviews MCP connector](https://glama.ai/mcp/connectors/com.prismareviews.api/prisma-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/com.prismareviews.api/prisma-reviews)
+  🔐 - Read reviews from Google, the App Store, Trustpilot and 60+ platforms, and publish replies you approve.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
