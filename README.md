@@ -1968,6 +1968,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gloom](https://gloom.sh/docs/mcp) `https://api.gloom.sh/mcp`
   [![Gloom MCP connector](https://glama.ai/mcp/connectors/sh.gloom.api/gloom-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/sh.gloom.api/gloom-mcp)
   🔐 - US stock research: real-time quotes, financials, options flow, SEC filings, 13F, macro and news; tools need a paid plan.
+- [Gold Price Per Gram](https://goldgramprice.com) `https://gold-price-per-gram-mcp.lipmichal.workers.dev/mcp`
+  [![Gold Price Per Gram MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/gold-price-per-gram-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/gold-price-per-gram-mcp)
+  🔓 - Live gold price per gram by karat in any currency, plus silver and platinum, jewelry melt value and tola units.
 - [GrantIQ](https://mcp.grantiq.us) `https://mcp.grantiq.us/mcp/`
   [![GrantIQ MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/mcp-grantiq/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/mcp-grantiq)
   🔓 - Search Grants.gov opportunities, SAM.gov contracts, agencies, deadlines, matches, and federal award history.
