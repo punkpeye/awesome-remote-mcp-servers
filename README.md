@@ -3547,6 +3547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Valmera](https://valmera.io) `https://valmera.io/mcp/server`
   [![Valmera MCP connector](https://glama.ai/mcp/connectors/io.valmera/video-editor/badges/score.svg)](https://glama.ai/mcp/connectors/io.valmera/video-editor)
   🔐 - Edit your own footage: cut dead air and filler words, caption, reframe to 9:16, make shorts and export MP4.
+- [Vibresia](https://vibresia.com) `https://vibresia.com/mcp`
+  [![Vibresia MCP connector](https://glama.ai/mcp/connectors/com.vibresia/music-visualizer/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibresia/music-visualizer)
+  🔓 - Write, preview and share audio-reactive GLSL music visualisations as live links.
 - [VideoBGRemover](https://videobgremover.net/mcp) `https://videobgremover.net/api/mcp`
   [![VideoBGRemover MCP connector](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover/badges/score.svg)](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover)
   🔐 - Remove video backgrounds, track processing tasks, and download transparent WebM with source audio.
