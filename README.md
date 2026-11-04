@@ -909,6 +909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Connections](https://studio.connections.icu/connect) `https://studio.connections.icu/v1/mcp`
   [![Connections MCP connector](https://glama.ai/mcp/connectors/icu.connections/connections/badges/score.svg)](https://glama.ai/mcp/connectors/icu.connections/connections)
   🔐 - Manage contacts, host and ticket events, post marketplace deals, and keep notes and memory.
+- [ContactZapp](https://contactz.app) `https://app.contactz.app/api/v1/mcp`
+  [![ContactZapp MCP connector](https://glama.ai/mcp/connectors/app.contactz/contactzapp/badges/score.svg)](https://glama.ai/mcp/connectors/app.contactz/contactzapp)
+  🔑 - Find, add and update the contacts in your ContactZapp account. Sync between Microsoft, Apple, Google, CardDav.
 - [DOS AI](https://dosai.pro/en) `https://dosai.pro/api/mcp`
   [![DOS AI MCP connector](https://glama.ai/mcp/connectors/pro.dosai/dos-ai/badges/score.svg)](https://glama.ai/mcp/connectors/pro.dosai/dos-ai)
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
