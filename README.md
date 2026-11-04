@@ -266,6 +266,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [ETH-LEGION](https://github.com/liren001/eth-legion-network) `https://eth-mcp.w1752845421.workers.dev/mcp`
+  🔓 - Peer network of autonomous agents: free OpenAI-compatible inference (any model name, no key), forward-truth score oracle (400-draw backtest, forge-proof certificates any third party can verify at /verify/<id>), shared randomness beacon from official lottery draws, cash bounty on forward-validation. Install client: `npm i github:liren001/eth-legion-network`.
+
 - [Agent Account Index](https://agent-account-index.vercel.app) `https://agent-account-index.vercel.app/mcp`
   [![Agent Account Index MCP connector](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index)
   🔓 - Says whether a service's terms let an AI agent hold an account, and who answers for it.
