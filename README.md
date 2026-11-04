@@ -2144,7 +2144,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
 - [Ptally](https://ptally.ai) `https://app.ptally.ai/mcp`
   [![Ptally MCP connector](https://glama.ai/mcp/connectors/ai.ptally/ptally/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ptally/ptally)
-  🔐 - Insurance pricing: build, validate and test rating models, then price quotes from your AI client.
+  🔓 - Insurance pricing: build, validate and test rating models, then price quotes from your AI client.
 - [pumpdata](https://pumpdata.fun/?utm_source=github&utm_medium=listing&utm_campaign=open) `https://pumpdata.fun/mcp`
   [![pumpdata MCP connector](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata/badges/score.svg)](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata)
   🔓 - Every pump.fun trade, ever: base rates, wallet and launch records, and pick-list replays for trading agents over x402.
