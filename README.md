@@ -4914,6 +4914,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Travel Check](https://tools.openkrill.app/#travel) `https://travel.openkrill.app/mcp`
   [![Travel Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/travel/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/travel)
   🔓 - UK and US government travel advice by country, plus live FAA delays and weather for US airports.
+- [Tripmo](https://tripmo.me) `https://app.tripmo.me/mcp`
+  [![Tripmo MCP connector](https://glama.ai/mcp/connectors/me.tripmo/tripmo/badges/score.svg)](https://glama.ai/mcp/connectors/me.tripmo/tripmo)
+  🔐 - A shared trip plan for your group: everyone's AI adds places, stays and bookings to one map.
 - [TripWays](https://tripways.com/mcp/) `https://mcp.tripways.com/mcp`
   [![TripWays MCP connector](https://glama.ai/mcp/connectors/com.tripways/tours/badges/score.svg)](https://glama.ai/mcp/connectors/com.tripways/tours)
   🔓 - Tours, day trips and activities in 120 countries: live dates, seats and group prices, with TripWays checkout links.
