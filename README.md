@@ -2136,6 +2136,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
   [![PMWallets MCP connector](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.polymarketwallets/pmwallets)
   🔐 - Polymarket traders ranked by realized PnL, with their records, live fills and past trades as daily files.
+- [PocketSmith](https://www.pocketsmith.com/mcp) `https://mcp.pocketsmith.com/mcp`
+  [![PocketSmith MCP connector](https://glama.ai/mcp/connectors/com.pocketsmith/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pocketsmith/mcp)
+  🔐 - Work with transactions, budgets, forecasts and insights from the PocketSmith personal finance tool.
+- [PocketSmith (read-only)](https://www.pocketsmith.com/mcp) `https://mcp-readonly.pocketsmith.com/mcp`
+  [![PocketSmith (read-only) MCP connector](https://glama.ai/mcp/connectors/com.pocketsmith/mcp-readonly/badges/score.svg)](https://glama.ai/mcp/connectors/com.pocketsmith/mcp-readonly)
+  🔐 - Read-only: transactions, budgets, forecasts and insights from the PocketSmith personal finance tool.
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
