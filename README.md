@@ -1420,6 +1420,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dolphin Industrial Parts](https://dolphinindustrialparts.com/for-ai-agents/) `https://dolphinindustrialparts.com/agent/mcp`
   [![Dolphin Industrial Parts MCP connector](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts/badges/score.svg)](https://glama.ai/mcp/connectors/com.dolphinindustrialparts/parts)
   🔓 - Look up OEM brands, models and part numbers for compatible marine and industrial spare parts; read-only, no prices.
+- [DropshippingLeads MCP](https://dropshippingleads.com/mcp/en/) `https://mcp.dropshippingleads.com/mcp`
+  [![DropshippingLeads MCP connector](https://glama.ai/mcp/connectors/com.dropshippingleads.mcp/dropshipping-leads-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dropshippingleads.mcp/dropshipping-leads-mcp)
+  🔓 - Search small online retailer data for dropshipping platforms; data is for internal research, not resale.
 - [eglise.shop](https://eglise.shop) `https://eglise-shop-mcp.padbor.workers.dev/mcp`
   [![eglise.shop MCP connector](https://glama.ai/mcp/connectors/shop.eglise/librairie/badges/score.svg)](https://glama.ai/mcp/connectors/shop.eglise/librairie)
   🔓 - Search ~5,500 Christian books (FR/EN), get prices, build a cart and get a secure checkout link.
