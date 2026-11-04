@@ -3369,6 +3369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [AIVideo.day](https://aivideo.day/mcp/) `https://mcp.aivideo.day/mcp`
+  [![AIVideo.day MCP connector](https://glama.ai/mcp/connectors/day.aivideo.mcp/aivideoday/badges/score.svg)](https://glama.ai/mcp/connectors/day.aivideo.mcp/aivideoday)
+  🔓🔐 - Price and make 2D videos and 3D films from a written brief in your own AIVideo.day account.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
