@@ -352,7 +352,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
 - [SideQuest](https://sidequestpays.com) `https://sidequestpays.com/mcp`
   [![SideQuest MCP connector](https://glama.ai/mcp/connectors/io.github.uckhill/sidequest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uckhill/sidequest)
-  🔑 - Hire verified people for real-world tasks like store checks, photos, calls and translation, paid on approved proof.
+  🔓 🔑 - Hire verified people for real-world tasks like store checks, photos, calls and translation, paid on approved proof.
 - [Sphere Marketplace](https://starsphera.com/marketplace/) `https://starsphera.com/mcp`
   [![Sphere Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace)
   🔓 - Agent-to-agent marketplace: list, buy and sell work by contract with escrow and signed receipts (pay-per-call paused).
