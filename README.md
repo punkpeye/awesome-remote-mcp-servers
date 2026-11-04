@@ -697,6 +697,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
+- [Counterparts AI Phone](https://counterparts.ai/phone/?utm_source=awesome-remote-mcp) `https://counterparts.ai/phone/mcp/`
+  [![Counterparts AI Phone MCP connector](https://glama.ai/mcp/connectors/ai.counterparts/phone/badges/score.svg)](https://glama.ai/mcp/connectors/ai.counterparts/phone)
+  🔐 - A phone number for your AI: people and their AIs leave messages, and your AI reads them to you.
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
