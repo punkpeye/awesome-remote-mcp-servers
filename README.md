@@ -2952,7 +2952,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Keyword research, plus writing and publishing SEO blog posts to WordPress, Shopify, Webflow and more.
 - [CallAI SEO](https://callaiapi.com/en/integrations/seo-mcp) `https://api.callaiapi.com/mcp`
   [![CallAI SEO MCP connector](https://glama.ai/mcp/connectors/com.callaiapi/seo/badges/score.svg)](https://glama.ai/mcp/connectors/com.callaiapi/seo)
-  🔑 - Live Google and Bing SERP, keyword difficulty, backlinks, domain history, plus free robots, sitemap and DNS checks.
+  🔓 - Live Google/Bing SERP, keyword difficulty, backlinks and domain checks, plus free site checks; tools need an API key.
 
 - [CalmSEO](https://calmseo.com) `https://mcp.calmseo.com/mcp`
   [![CalmSEO MCP connector](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.calmseo/seo-mcp)
