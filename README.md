@@ -3272,6 +3272,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
   [![Baromio MCP connector](https://glama.ai/mcp/connectors/io.baromio/baromio/badges/score.svg)](https://glama.ai/mcp/connectors/io.baromio/baromio)
   🔐 - Read uptime, incidents, SSL, domain expiry and Core Web Vitals; create, edit and pause monitors on paid plans.
+- [CheckMyApp](https://checkmyapp.dev/?utm_source=awesome-remote&utm_medium=directory&utm_campaign=launch-2026-11) `https://checkmyapp.dev/mcp`
+  [![CheckMyApp MCP connector](https://glama.ai/mcp/connectors/io.github.sorokinvj/checkmyapp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sorokinvj/checkmyapp)
+  🔐 - Check a deployed web app like a real user and return findings with evidence to your coding agent.
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
 - [Codex Reset](https://codex-reset.com/developers) `https://codex-reset.com/mcp`
