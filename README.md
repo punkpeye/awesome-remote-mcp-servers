@@ -1760,6 +1760,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Executive Brief](https://antevo.ch/executive/) `https://api.antevo.ch/mcp/executive/mcp`
   [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/executive/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/executive)
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
+- [Antevo Tremor Watch](https://antevo.ch/tremor-watch/) `https://api.antevo.ch/mcp/tremor/mcp`
+  [![Antevo Tremor Watch MCP connector](https://glama.ai/mcp/connectors/ch.antevo/tremor-watch/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/tremor-watch)
+  🔓 - Each week, how many of 753 market relationships broke from their own past, by family and pair.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
