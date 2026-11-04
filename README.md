@@ -1580,6 +1580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
+- [UsePhysics](https://usephysics.com) `https://usephysics.com/api/mcp`
+  [![UsePhysics MCP connector](https://glama.ai/mcp/connectors/com.usephysics/physics-calculators/badges/score.svg)](https://glama.ai/mcp/connectors/com.usephysics/physics-calculators)
+  🔓 - 31 physics calculators that return the formula, units and worked steps, plus 34 CODATA 2022 constants.
 
 ### 🎓 <a name="education"></a>Education
 
@@ -1829,6 +1832,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Clear Tape](https://cleartape.ai/mcp) `https://app.cleartape.ai/mcp`
   [![Clear Tape MCP connector](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape)
   🔓 - Exact trading calculators (position size, R:R, expectancy, ATR stop, Kelly), system rules, glossary and lesson search.
+- [CoinBucha](https://coinbucha.com) `https://coinbucha.com/api/mcp`
+  [![CoinBucha MCP connector](https://glama.ai/mcp/connectors/com.coinbucha/bitcoin-signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.coinbucha/bitcoin-signals)
+  🔓 - Bitcoin's public-market layer: sovereign reserves, listed bitcoin companies, results calendar; dated, sourced.
 - [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
   [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
   🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
@@ -2348,6 +2354,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [skanfirmy](https://skanfirmy.pl) `https://skanfirmy.pl/mcp`
   [![skanfirmy MCP connector](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bartosz-kuc/skanfirmy)
   🔓 - Verify Polish companies by NIP, KRS or REGON, plus the VAT white list and EU VAT via VIES.
+- [VINCAP](https://vincap.co/agents) `https://vincap.co/api/mcp`
+  [![VINCAP MCP connector](https://glama.ai/mcp/connectors/co.vincap/listed-wine-companies/badges/score.svg)](https://glama.ai/mcp/connectors/co.vincap/listed-wine-companies)
+  🔓 - Listed wine companies: index levels, results, reporting calendar and estates, every value dated and sourced.
 - [VoxOdds](https://voxodds.com) `https://voxodds.com/mcp`
   [![VoxOdds MCP connector](https://glama.ai/mcp/connectors/com.voxodds/voxodds/badges/score.svg)](https://glama.ai/mcp/connectors/com.voxodds/voxodds)
   🔓 - Live Polymarket and Kalshi odds, executable quotes with fees, and pre-bet EV checks.
@@ -2843,6 +2852,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [NorthPoint](https://northpoint.fi) `https://northpoint.fi/api/mcp`
+  [![NorthPoint MCP connector](https://glama.ai/mcp/connectors/fi.northpoint/marketing-compliance/badges/score.svg)](https://glama.ai/mcp/connectors/fi.northpoint/marketing-compliance)
+  🔓 - Crypto marketing rules with citations (MiCA, FCA, GDPR, SEC, MAS, VARA); full copy checks need an API key.
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
