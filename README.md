@@ -971,7 +971,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 - [KaijuConverter](https://kaijuconverter.com) `https://kaijuconverter.com/api/mcp`
-  [![KaijuConverter MCP server](https://glama.ai/mcp/servers/PabloCirre/kaijuconverter-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PabloCirre/kaijuconverter-mcp)
+  [![KaijuConverter MCP connector](https://glama.ai/mcp/connectors/com.kaijuconverter/kaijuconverter/badges/score.svg)](https://glama.ai/mcp/connectors/com.kaijuconverter/kaijuconverter)
   🔓 - Convert 201+ file formats across 3,208 conversion pairs and 54 specialized Studio workspaces (PDF/A archival, 12-language OCR, exact KB compression, audio/video/CAD/ebook transcoding) with SHA-256 verification.
 - [402cron](https://402cron.com) `https://402cron.com/mcp`
   [![402cron MCP connector](https://glama.ai/mcp/connectors/com.402cron/402cron/badges/score.svg)](https://glama.ai/mcp/connectors/com.402cron/402cron)
