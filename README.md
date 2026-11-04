@@ -3828,6 +3828,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
+- [Ecommerce Leads](https://getecommerceleads.com/docs/) `https://getecommerceleads.com/api/mcp`
+  [![Ecommerce Leads MCP connector](https://glama.ai/mcp/connectors/com.getecommerceleads/ecommerce-leads/badges/score.svg)](https://glama.ai/mcp/connectors/com.getecommerceleads/ecommerce-leads)
+  🔓 - Look up any ecommerce store by domain: revenue, ad spend, traffic, buying signals. Sign in to search 600k+ stores.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
