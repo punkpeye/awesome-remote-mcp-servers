@@ -1628,6 +1628,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FindEnergyRates](https://findenergyrates.com) `https://findenergyrates.com/mcp`
   [![FindEnergyRates MCP connector](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates)
   🔐 - Live US retail electricity plans and price-to-compare rates by utility or ZIP; free key by email.
+- [Fonciq](https://fonciq.ca/mcp) `https://mcp.fonciq.ca/v1/`
+  [![Fonciq MCP connector](https://glama.ai/mcp/connectors/ca.fonciq/fonciq/badges/score.svg)](https://glama.ai/mcp/connectors/ca.fonciq/fonciq)
+  🔐 - Données foncières du Québec pour assistants IA; Québec land data for notaries, brokers and appraisers.
 - [GreenCalculus](https://greencalculus.com/developers/) `https://mcp.greencalculus.com`
   [![GreenCalculus MCP connector](https://glama.ai/mcp/connectors/com.greencalculus/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.greencalculus/api)
   🔓 - Sourced greenhouse-gas emission factors and audit-traced carbon calculations.
