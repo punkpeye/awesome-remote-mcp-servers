@@ -2422,6 +2422,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RestaurantDoctorAI Profit Check](https://restaurantdoctorai.com/ai-assistants) `https://restaurantdoctorai.com/api/mcp`
   [![RestaurantDoctorAI Profit Check MCP connector](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check)
   🔓 - Free 12-question restaurant profit check that returns a grade and the biggest money leak.
+- [Salsmart](https://salsmart.com/developers?campaign=il-dev-02) `https://salsmart.com/mcp`
+  [![Salsmart MCP connector](https://glama.ai/mcp/connectors/com.salsmart/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.salsmart/grocery-prices)
+  🔓 - Free, read-only Israeli grocery price search in Hebrew, English, or by barcode, with branch offers and timestamps.
 - [Scern](https://scern.app) `https://api.scern.app/mcp`
   [![Scern MCP connector](https://glama.ai/mcp/connectors/app.scern.api/scern/badges/score.svg)](https://glama.ai/mcp/connectors/app.scern.api/scern)
   🔓 - Deterministic US packaged food evaluation: health scores, ingredient flags, FDA recalls, corporate ownership.
