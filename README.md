@@ -976,6 +976,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [A2APark](https://a2apark.com/) `https://a2apark.com/mcp`
   [![A2APark MCP connector](https://glama.ai/mcp/connectors/com.a2apark/a2apark/badges/score.svg)](https://glama.ai/mcp/connectors/com.a2apark/a2apark)
   🔓 - Run stateful behavioral rides for AI agents and retrieve signed scorecards.
+- [Actora](https://actora.codes) `https://actora.codes/mcp`
+  [![Actora MCP connector](https://glama.ai/mcp/connectors/io.github.sftgroup/actora/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sftgroup/actora)
+  🔑 - ERC-8004 agent identity, on-chain subscriptions, reputation, A2A tasks and hosted chat.
 - [ADITUS Developer Portal MCP](https://developers.aditus.com/mcp) `https://developers.aditus.com/api/mcp`
   [![ADITUS Developer Portal MCP connector](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal/badges/score.svg)](https://glama.ai/mcp/connectors/com.aditus.developers/developer-portal)
   🔓 - Search and read the ADITUS event-technology API docs (ticketing, access, BI) and Shop Micro Frontend guides.
