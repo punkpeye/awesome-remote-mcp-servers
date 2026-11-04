@@ -821,6 +821,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Convika](https://convika.com) `https://mcp.convika.com/mcp`
   [![Convika MCP connector](https://glama.ai/mcp/connectors/com.convika/convika/badges/score.svg)](https://glama.ai/mcp/connectors/com.convika/convika)
   🔐 - Publish AI-made landing pages on your own domain, with a signup form and visitor stats.
+- [Craftadoc](https://craftadoc.com) `https://craftadoc.com/api/mcp`
+  [![Craftadoc MCP connector](https://glama.ai/mcp/connectors/com.craftadoc/craftadoc/badges/score.svg)](https://glama.ai/mcp/connectors/com.craftadoc/craftadoc)
+  🔐 - Fill designed templates (CVs, invoices, certificates, invitations) and typeset them as PDFs, one or hundreds at once.
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
   [![dochost MCP connector](https://glama.ai/mcp/connectors/io.dochost/dochost/badges/score.svg)](https://glama.ai/mcp/connectors/io.dochost/dochost)
   🔓 - Publish Markdown or HTML as a hosted page and get a shareable link.
