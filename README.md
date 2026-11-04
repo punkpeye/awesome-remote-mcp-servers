@@ -1200,6 +1200,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offline Protocol](https://www.offlineprotocol.com/docs/tools/overview) `https://mcp.offlineprotocol.com/public/mcp`
   [![Offline Protocol MCP connector](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted/badges/score.svg)](https://glama.ai/mcp/connectors/com.offlineprotocol/hosted)
   🔓 - Find Offline Protocol SDK packages, integration guides and workflows for apps that keep working without the internet.
+- [OkkMax](https://www.okkmax.com/developers) `https://www.okkmax.com/mcp`
+  [![OkkMax MCP connector](https://glama.ai/mcp/connectors/com.okkmax/okk-max-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.okkmax/okk-max-mcp)
+  🔓 - Query AI API relay prices, uptime, latency, availability, and model-level purity evidence.
 - [Omnara](https://www.omnara.com) `https://app.omnara.com/mcp`
   [![Omnara MCP connector](https://glama.ai/mcp/connectors/com.omnara/omnara/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnara/omnara)
   🔐 - Launch AI agents on any model and machine, message them, read their events, and approve their tool calls.
