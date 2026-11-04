@@ -2220,6 +2220,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Skavio USDC Payment Verification & Proof MCP](https://www.skavio.eu/x402/) `https://www.skavio.eu/mcp`
   [![Skavio MCP connector](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis/badges/score.svg)](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis)
   🔓 - Native USDC verification, exact payment matching and evidence PDFs; paid calls use Base USDC via x402.
+- [SN Data by Shikshan Nivesh](https://shikshannivesh.com/data/ai) `https://shikshannivesh.com/mcp`
+  [![SN Data by Shikshan Nivesh MCP connector](https://glama.ai/mcp/connectors/com.shikshannivesh/sn-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.shikshannivesh/sn-data)
+  🔐 - US company financial statements, insider trades, 13F fund holdings and short interest, each linked to its SEC filing.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
