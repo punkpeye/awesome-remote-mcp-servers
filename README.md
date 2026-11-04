@@ -460,6 +460,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Numonic](https://www.numonic.ai/docs/api/mcp) `https://www.numonic.ai/mcp`
   [![Numonic MCP connector](https://glama.ai/mcp/connectors/ai.numonic/numonic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.numonic/numonic)
   🔐 - Search, organize, and publish AI-generated images and video with provenance and lineage.
+- [Ollav](https://ollav.app/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=launch) `https://app.ollav.app/mcp`
+  [![Ollav MCP connector](https://glama.ai/mcp/connectors/app.ollav/ollav/badges/score.svg)](https://glama.ai/mcp/connectors/app.ollav/ollav)
+  🔐 - Agents publish HTML prototypes as share links, read reviewers' pinned comments, ship a new version and resolve threads.
 - [OODS Foundry](https://oods-foundry.com) `https://oods-foundry.com/mcp`
   [![OODS Foundry MCP connector](https://glama.ai/mcp/connectors/com.oods-foundry/foundry/badges/score.svg)](https://glama.ai/mcp/connectors/com.oods-foundry/foundry)
   🔓 - Read a design system's component catalog and registry, and draw and certify charts from your own data.
