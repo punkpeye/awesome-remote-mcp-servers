@@ -2101,6 +2101,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
+- [occasioni.it](https://occasioni.it/sviluppatori) `https://occasioni.it/mcp`
+  [![occasioni.it MCP connector](https://glama.ai/mcp/connectors/it.occasioni/bandi/badges/score.svg)](https://glama.ai/mcp/connectors/it.occasioni/bandi)
+  🔓 - Italian public grants and incentives for businesses: search, profile matching, deadlines, trends and reports.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
@@ -3804,6 +3807,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RemplirPDF](https://remplirpdf.fr/mcp) `https://remplirpdf.fr/api/mcp`
   [![RemplirPDF MCP connector](https://glama.ai/mcp/connectors/fr.remplirpdf/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/fr.remplirpdf/mcp-server)
   🔐 - French rental documents (leases, rent receipts, inventories, notices) filled and returned as PDFs.
+- [secondlife.it](https://secondlife.it/sviluppatori) `https://secondlife.it/mcp`
+  [![secondlife.it MCP connector](https://glama.ai/mcp/connectors/it.secondlife/ripartire/badges/score.svg)](https://glama.ai/mcp/connectors/it.secondlife/ripartire)
+  🔓 - Moving within Italy: all municipalities, programmes paying newcomers, 1-euro houses, remote jobs open to Italy.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
