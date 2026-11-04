@@ -1534,6 +1534,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VRAMGlass](https://vramglass.com/mcp) `https://mcp.vramglass.com/mcp`
   [![VRAMGlass MCP connector](https://glama.ai/mcp/connectors/com.vramglass/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vramglass/mcp)
   🔐 - GPU, AI workstation and DDR4/DDR5 asking prices on eBay, Xianyu and Amazon Japan, plus which local LLMs fit which GPU.
+- [Wherbi](https://wherbi.com) `https://wherbi.com/mcp`
+  [![Wherbi MCP connector](https://glama.ai/mcp/connectors/com.wherbi/shopping/badges/score.svg)](https://glama.ai/mcp/connectors/com.wherbi/shopping)
+  🔓 - Find the shops that sell a product in your country, by name or barcode, across European shopping sites.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
