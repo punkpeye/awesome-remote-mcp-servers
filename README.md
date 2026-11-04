@@ -1432,6 +1432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [FindBroadband](https://www.findbroadbanddeals.com/ai-assistants) `https://www.findbroadbanddeals.com/api/mcp/standard`
+  [![FindBroadband MCP connector](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-deals)
+  🔓 - Compare UK broadband deals at an exact address and check whether a bill or renewal quote is too high.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
@@ -3283,6 +3286,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
+- [Internet Outage Checker by FindBroadband](https://www.findbroadbanddeals.com/ai-assistants) `https://www.findbroadbanddeals.com/api/mcp/outages`
+  [![Internet Outage Checker MCP connector](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-outages/badges/score.svg)](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-outages)
+  🔓 - Check if a UK broadband provider is down and where, plus its outages over the last 30 days.
 - [OpenUptime](https://openuptime.app/docs/mcp) `https://openuptime.app/api/mcp`
   [![OpenUptime MCP connector](https://glama.ai/mcp/connectors/app.openuptime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.openuptime/mcp)
   🔐 - Manage uptime monitors, incidents and public status pages.
