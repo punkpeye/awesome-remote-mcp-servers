@@ -1255,6 +1255,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RepoAlerts](https://repoalerts.com/mcp) `https://repoalerts.com/mcp`
   [![RepoAlerts MCP connector](https://glama.ai/mcp/connectors/com.repoalerts/repo-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.repoalerts/repo-alerts)
   🔓 - Rising GitHub repos with fake stars filtered out: search, trending, repo pages and alternatives.
+- [ReUI](https://reui.io/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=reui-nov26) `https://mcp.reui.io`
+  [![ReUI MCP connector](https://glama.ai/mcp/connectors/io.github.keenthemes/reui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.keenthemes/reui)
+  🔐 - The ReUI MCP server connects your coding agent to the live ReUI registry.
 - [Review Times](https://reviewtimes.fyi) `https://reviewtimes.fyi/mcp`
   [![Review Times MCP connector](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times)
   🔓 - Live review times for AI app, connector and plugin stores: ChatGPT, Claude, Muse, Grok, Cursor and more.
