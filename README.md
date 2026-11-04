@@ -807,7 +807,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
-- [WasapFlow Bridge](https://partner.wasapflow.com/) `https://officialapi.wasapflow.com/bridge/mcp`
+- [WasapFlow Bridge](https://wasapflow.com/) `https://officialapi.wasapflow.com/bridge/mcp`
   [![WasapFlow Bridge MCP connector](https://glama.ai/mcp/connectors/com.wasapflow/bridge/badges/score.svg)](https://glama.ai/mcp/connectors/com.wasapflow/bridge)
   🔑 - Official WhatsApp Business API for your own CRM: search docs, connect numbers, send messages, debug webhooks.
 
