@@ -2131,6 +2131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [pdata](https://pdata.world/agents) `https://api.pdata.world/mcp`
   [![pdata MCP connector](https://glama.ai/mcp/connectors/world.pdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/world.pdata/mcp)
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
+- [Perception](https://perception.to/integrations/mcp) `https://mcp.perception.to/mcp`
+  [![Perception MCP connector](https://glama.ai/mcp/connectors/io.github.fernikolic/perception/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fernikolic/perception)
+  🔐 - Cited crypto narrative research across media, podcasts, filings, earnings calls and public conversations.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
