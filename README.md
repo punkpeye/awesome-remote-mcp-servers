@@ -3562,6 +3562,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - YouTube Data & Transcripts](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-channel-video-scraper,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/youtube-transcript-scraper`
   [![Zebu Data - YouTube Data & Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data)
   🔐 - YouTube search, whole channels, video stats, comments and full transcripts with timestamps.
+- [Ziztu](https://getziztu.com/docs/mcp) `https://getziztu.com/mcp`
+  [![Ziztu MCP connector](https://glama.ai/mcp/connectors/com.getziztu/ziztu/badges/score.svg)](https://glama.ai/mcp/connectors/com.getziztu/ziztu)
+  🔐 - Plan, price and make AI micro dramas and anime episodes with the same characters in every shot.
+- [Ziztu Planner](https://getziztu.com/docs/mcp) `https://getziztu.com/mcp/planner`
+  [![Ziztu Planner MCP connector](https://glama.ai/mcp/connectors/com.getziztu/ziztu-planner/badges/score.svg)](https://glama.ai/mcp/connectors/com.getziztu/ziztu-planner)
+  🔐 - Plan episodes, write scripts, loglines and shot lists, and price each step; it makes no images or video.
 - [ZoneFoundry for Sonos](https://zonefoundry.dev/guides/ai-agent-control/) `https://relay.zonefoundry.dev/mcp`
   [![ZoneFoundry for Sonos MCP connector](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos/badges/score.svg)](https://glama.ai/mcp/connectors/dev.zonefoundry/sonos)
   🔐 - Control your Sonos speakers: play music, set volume, group rooms, move playback, announcements and reminders.
