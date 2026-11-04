@@ -2959,6 +2959,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Caybl](https://caybl.ai) `https://api.caybl.ai/mcp`
   [![Caybl MCP connector](https://glama.ai/mcp/connectors/ai.caybl/caybl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.caybl/caybl)
   🔐 - Query GA4, Google Ads and Search Console: reports, funnels, search terms, keyword ideas and URL inspection.
+- [ChatSEO](https://chatseo.app/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=mcp-listing&utm_content=nicho&utm_term=en) `https://api.chatseo.app/mcp`
+  [![ChatSEO MCP connector](https://glama.ai/mcp/connectors/app.chatseo/chatseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chatseo/chatseo)
+  🔐 - AI SEO agent on your Google Search Console data: site audits, quick wins, and articles published to WordPress.
 - [ChimpanSEO](https://chimpanseo.app) `https://chimpanseo.app/api/mcp`
   [![ChimpanSEO MCP connector](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo)
   🔓 - Generate, schedule and publish GEO/AEO-optimized articles to WordPress; tools need an account.
