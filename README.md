@@ -2927,7 +2927,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [AgentSEO](https://www.agentseo.dev) `https://www.agentseo.dev/mcp`
   [![AgentSEO MCP connector](https://glama.ai/mcp/connectors/dev.agentseo.www/agentseo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentseo.www/agentseo-mcp)
-  🔑 - SEO keywords, SERPs, backlinks, rank tracking, content plans and audits; account and usage credits required.
+  🔓 - SEO keywords, SERPs, backlinks, content and audits; tool calls require an account, API key and usage credits.
 
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
