@@ -1892,6 +1892,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Duneland Financial](https://dunelandfinancial.com/tools/assistants/) `https://dunelandfinancial.com/api/mcp/`
+  [![Duneland Financial MCP connector](https://glama.ai/mcp/connectors/io.rekord/duneland-financial/badges/score.svg)](https://glama.ai/mcp/connectors/io.rekord/duneland-financial)
+  🔓 - Read-only acquisition calculators: affordability, DSCR, capital stacks, loans, seller notes, SDE and SBA screening.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
