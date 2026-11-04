@@ -4784,6 +4784,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Car Rental Brain](https://carrentalbrain.com/ai/) `https://app.carrentalbrain.com/mcp`
   [![Car Rental Brain MCP connector](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain)
   🔓 - Real car-hire costs at 120+ airports: second-driver fees, deposits, debit cards, desk hours and desk excess cover.
+- [ChargingNear.me](https://chargingnear.me/mcp) `https://chargingnear.me/api/mcp`
+  [![ChargingNear.me MCP connector](https://glama.ai/mcp/connectors/me.chargingnear/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.chargingnear/mcp)
+  🔓 - Find U.S. public EV chargers near a place or along a drive, with city, state and highway-gap data.
 - [China Footnotes](https://chinafootnotes.com) `https://chinafootnotes.com/mcp`
   [![China Footnotes MCP connector](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes)
   🔓 - Sourced, dated travel facts for first-time visitors to China: hours, tickets, booking and passport notes.
@@ -4875,6 +4878,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
   [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
   🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
+- [Park Graph](https://parkgraph.com/developers/mcp) `https://parkgraph.com/api/mcp`
+  [![Park Graph MCP connector](https://glama.ai/mcp/connectors/com.parkgraph/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.parkgraph/mcp)
+  🔓 - Find, price and hold parking at Park Graph lots; drivers pay on parkgraph.com.
 - [Portmans Motor Lodge](https://www.portmans.co.nz/) `https://portmans-mcp.portmanshastings.workers.dev/mcp`
   [![Portmans Motor Lodge MCP connector](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp)
   🔓 - Hotel availability, public BAR rates, and a direct booking link for Portmans Motor Lodge in Hastings, New Zealand.
