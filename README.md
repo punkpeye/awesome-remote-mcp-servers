@@ -3593,7 +3593,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
 - [I Am Wallet](https://proof.zketernity.app/agent/llms.txt) `https://proof.zketernity.app/agent/mcp`
   [![I Am Wallet MCP connector](https://glama.ai/mcp/connectors/io.github.ZKStamp/agentwallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ZKStamp/agentwallet)
-  🔑 - Agents create their own shielded BitcoinZ wallet, pay, send signed private messages and trade in steps with proof.
+  🔓 - Agents create their own shielded BitcoinZ wallet, pay, send signed private messages and trade in steps with proof.
 - [Kulhad](https://kulhad.co) `https://kulhad.co/mcp`
   [![Kulhad MCP connector](https://glama.ai/mcp/connectors/co.kulhad/kulhad/badges/score.svg)](https://glama.ai/mcp/connectors/co.kulhad/kulhad)
   🔓 - Run a creator's UPI support page in India: approve and thank supporters, set goals, edit the page, get QR codes.
