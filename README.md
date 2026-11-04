@@ -3139,6 +3139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QQQ AI Visibility Checker](https://qqq.ee/en/mcp-server/) `https://qqq.ee/mcp`
   [![QQQ AI Visibility Checker MCP connector](https://glama.ai/mcp/connectors/ee.qqq/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ee.qqq/ai-visibility)
   🔓 - Free AI visibility check: AI crawler access, AI search readiness and brand citations in ChatGPT, Gemini, Perplexity.
+- [QR Cloud](https://qr-cloud.com/mcp-server/) `https://qr-cloud.com/mcp`
+  [![QR Cloud MCP connector](https://glama.ai/mcp/connectors/com.qr-cloud/qr-codes/badges/score.svg)](https://glama.ai/mcp/connectors/com.qr-cloud/qr-codes)
+  🔐 🔑 - Dynamic QR codes, short links and QR Reviews that send happy guests to Google, plus scan, click and rating stats.
 - [qrcode.io QR codes](https://agent.qrcode.io/) `https://agent.qrcode.io/mcp`
   [![qrcode.io QR codes MCP connector](https://glama.ai/mcp/connectors/io.qrcode/qr-codes/badges/score.svg)](https://glama.ai/mcp/connectors/io.qrcode/qr-codes)
   🔓 - Create free static QR codes as PNG or SVG for links, WiFi, contact cards and text; no account, never expire.
