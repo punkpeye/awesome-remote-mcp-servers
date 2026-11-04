@@ -4593,6 +4593,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
+- [Social Expert](https://socialexpert.app/tiktok-mcp) `https://api.socialexpert.app/functions/v1/mcp`
+  [![Social Expert MCP connector](https://glama.ai/mcp/connectors/app.socialexpert.api/social-expert/badges/score.svg)](https://glama.ai/mcp/connectors/app.socialexpert.api/social-expert)
+  🔐 - TikTok ideas, trends, posting times, keywords, hashtags and timestamped video feedback by ForUsApps, LLC.
 - [SocialAPIs](https://socialapis.io) `https://mcp.socialapis.io/mcp`
   [![SocialAPIs MCP connector](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SocialAPIsHub/social-media-api)
   🔓 - Read public Facebook and Instagram pages, posts, groups, ads, Marketplace and reels; tool calls need a free API key.
