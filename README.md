@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Flownato](https://www.flownato.com/mcp) `https://agent.flownato.com/mcp`
+  [![Flownato MCP connector](https://glama.ai/mcp/connectors/com.flownato/flownato-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.flownato/flownato-mcp)
+  🔐 - Real mobile app screens, user flows and UI patterns for design research, with a link to each source screen.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
