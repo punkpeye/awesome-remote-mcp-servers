@@ -2925,6 +2925,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [App Pain API](https://hawkmill.com) `https://hawkmill.com/mcp`
+  [![App Pain API MCP connector](https://glama.ai/mcp/connectors/io.github.apppainapi/app-pain-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.apppainapi/app-pain-api)
+  🔓 - Mine iOS/Android app-store reviews into ranked, evidence-backed pain points with share %, severity and verbatim quotes.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
