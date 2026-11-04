@@ -3863,6 +3863,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
 - [Sorzio](https://www.sorzio.com/mcp) `https://www.sorzio.com/api/mcp`
+  [![Sorzio MCP connector](https://glama.ai/mcp/connectors/io.github.sorzio/sorzio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sorzio/sorzio)
   🔓 🔐 - Bulk 6-page web and LinkedIn enrichment, email verification, ICP scoring and AI copy across 25,000 leads.
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
