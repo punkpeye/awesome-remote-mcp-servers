@@ -4772,6 +4772,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights via Israeli travel app Alice, with English and Hebrew results.
+- [Anywayr](https://anywayr.com/connectors/mcp) `https://anywayr.com/mcp`
+  [![Anywayr MCP connector](https://glama.ai/mcp/connectors/com.anywayr/anywayr/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywayr/anywayr)
+  🔐 - Plan group trips, search hotels and flights, get exact quotes and check out on Anywayr.
 - [Arclight Events](https://arclight.events/mcp) `https://arclight.events/api/mcp`
   [![Arclight Events MCP connector](https://glama.ai/mcp/connectors/events.arclight/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/events.arclight/mcp)
   🔓 - Upcoming events in 50 metros: AI and tech meetups, hackathons, conferences and concerts.
