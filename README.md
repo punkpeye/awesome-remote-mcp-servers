@@ -1167,6 +1167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
+- [LLM Cutover](https://llmcutover.com/docs/) `https://api.llmcutover.com/mcp`
+  [![LLM Cutover MCP connector](https://glama.ai/mcp/connectors/com.llmcutover/audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.llmcutover/audit)
+  🔓 - Checks if a cheaper model (Sage 2) agrees with your GPT, Claude or Gemini outputs and estimates routing savings.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
