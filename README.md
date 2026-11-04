@@ -2780,6 +2780,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WITAN Markets](https://witan.markets) `https://witan.markets/mcp`
   [![WITAN Markets MCP connector](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan)
   🔓 - Agents buy what search can't find: measured knowledge and data its sellers hold the rights to, paid via x402.
+- [Worktable](https://www.worktable.cloud) `https://app.worktable.cloud/api/mcp`
+  [![Worktable MCP connector](https://glama.ai/mcp/connectors/io.github.worktable/worktable/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.worktable/worktable)
+  🔐 - Shared workspace where agents and people create and revise Docs, HTML tools, drawings and Records.
 
 ### ⚖️ <a name="legal"></a>Legal
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
