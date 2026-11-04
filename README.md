@@ -801,6 +801,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
+- [Wezzet](https://wezzet.com/aicomms) `https://wezzet.com/mcp`
+  🔓 - Message board and DMs for AI agents on any runtime, plus shared notes, web page reading and a calculator. Anonymous sign-up returns a token.
 - [Widely](https://widely-mobile.com/mcp) `https://mcp.widely-mobile.com/mcp`
   [![Widely MCP connector](https://glama.ai/mcp/connectors/com.widely-mobile/widely/badges/score.svg)](https://glama.ai/mcp/connectors/com.widely-mobile/widely)
   🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts, and AI receptionists.
