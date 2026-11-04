@@ -3280,6 +3280,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConnectorReport](https://connectorreport.com/mcp) `https://connectorreport.com/api/mcp`
   [![ConnectorReport MCP connector](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport/badges/score.svg)](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport)
   🔓 - Dated, hands-on test results for remote MCP servers: pass rate, sign-in method, gotchas and fix recipes.
+- [Cronitor](https://cronitor.io/mcp) `https://cronitor.io/mcp`
+  [![Cronitor MCP connector](https://glama.ai/mcp/connectors/io.cronitor/cronitor/badges/score.svg)](https://glama.ai/mcp/connectors/io.cronitor/cronitor)
+  🔐 - Create and manage cron job, heartbeat, and uptime monitors, issues, status pages, and alert routing.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
