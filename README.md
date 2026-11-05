@@ -3865,6 +3865,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [TradeGraph](https://tradegraph.rinda.ai/?lang=en) `https://tradegraph.rinda.ai/mcp`
+  [![TradeGraph MCP connector](https://glama.ai/mcp/connectors/ai.rinda.tradegraph/tradegraph/badges/score.svg)](https://glama.ai/mcp/connectors/ai.rinda.tradegraph/tradegraph)
+  🔓 - Export market picks, buyer types that reply, follow-up cadence and shelf prices for consumer-goods exporters.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
