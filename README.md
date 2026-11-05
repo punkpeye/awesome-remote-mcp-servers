@@ -1404,7 +1404,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Independent Hermès resale index: inventory, market prices, auction calendar and results.
 - [Bitroad](https://bitroad.ai) `https://app.bitroad.ai/api/v1/mcp`
   [![Bitroad MCP connector](https://glama.ai/mcp/connectors/ai.bitroad/bitroad/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bitroad/bitroad)
-  🔐 - Bitroad clears work for AI agents: your agent commissions a service, Bitroad holds the payment and releases it when you accept the delivery.
+  🔓 - Bitroad clears work for AI agents: your agent commissions a service, Bitroad holds the payment and releases it when you accept the delivery.
 - [Cambridge China Bridge](https://camchinabridge.co.uk) `https://camchinabridge.co.uk/mcp`
   [![Cambridge China Bridge MCP connector](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing)
   🔓 - UK import duty, landed cost, anti-dumping and UK compliance checks for goods from China, plus CNY and freight planning.
