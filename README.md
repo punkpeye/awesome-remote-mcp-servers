@@ -3451,6 +3451,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lexu](https://www.lexu.io/en/developers) `https://www.lexu.io/mcp`
   [![Lexu MCP connector](https://glama.ai/mcp/connectors/io.lexu/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.lexu/mcp)
   🔐 - Generate images, videos, music and voice-overs on one credit balance, priced before each job.
+- [LiteScribe](https://litescribe.ai/integrations/mcp/) `https://mcp.litescribe.ai/mcp`
+  [![LiteScribe MCP connector](https://glama.ai/mcp/connectors/ai.litescribe/litescribe/badges/score.svg)](https://glama.ai/mcp/connectors/ai.litescribe/litescribe)
+  🔐 - Search your meeting recordings, transcripts, summaries, action items and screenshots, with links to the exact moment.
 - [LiveReacting](https://www.livereacting.com/mcp) `https://mcp.livereacting.com/mcp`
   [![LiveReacting MCP connector](https://glama.ai/mcp/connectors/com.livereacting/livereacting/badges/score.svg)](https://glama.ai/mcp/connectors/com.livereacting/livereacting)
   🔐 - Run 24/7 live streams of pre-recorded videos, or stream a recorded video at a set time to YouTube, Facebook and more.
