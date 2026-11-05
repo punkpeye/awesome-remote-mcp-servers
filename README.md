@@ -3940,6 +3940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
+- [World Monitor](https://www.worldmonitor.app) `https://worldmonitor.app/mcp`
+  [![World Monitor MCP connector](https://glama.ai/mcp/connectors/app.worldmonitor/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.worldmonitor/mcp)
+  🔐 - Real-time global intelligence on conflict, markets, energy, trade, shipping and cyber; some tools need a paid plan.
 - [Trustbase Lab](https://trustbaselab.com) `https://trustbaselab.com/mcp`
   [![Trustbase Lab MCP connector](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data)
   🔓 - Citable industry records with stable IDs across chemical recycling, carbon, battery, telecom, health and compute.
