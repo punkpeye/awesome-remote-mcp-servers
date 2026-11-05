@@ -2001,6 +2001,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
+- [Ironflow](https://ironflow.sh) `https://mcp.ironflow.sh/mcp`
+  [![Ironflow MCP connector](https://glama.ai/mcp/connectors/io.github.ironflowsh/hyperliquid/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ironflowsh/hyperliquid)
+  🔓 - Hyperliquid trades, liquidations, funding, wallets and SQL from our own nodes, plus liquidation alerts.
 - [ISO 20022 Navigator](https://www.isonavigator.io/iso20022/mcp) `https://mcp.isonavigator.io/iso20022`
   [![ISO 20022 Navigator MCP connector](https://glama.ai/mcp/connectors/io.github.kreativeManish/iso20022-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kreativeManish/iso20022-navigator)
   🔓 - Look up ISO 20022 messages, bank transaction codes, legacy replacements like MT103, scheme use, and external code sets.
