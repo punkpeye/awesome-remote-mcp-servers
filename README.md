@@ -2383,6 +2383,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Chef](https://agentchef.net) `https://agentchef.net/mcp`
   [![Agent Chef MCP connector](https://glama.ai/mcp/connectors/net.agentchef/agent-chef/badges/score.svg)](https://glama.ai/mcp/connectors/net.agentchef/agent-chef)
   🔐 - Weekly family dinner ballot: propose recipes, the household votes, and get a grocery list.
+- [Ask Garçon](https://fixmeadrinkapp.com) `https://mcp.fixmeadrinkapp.com/mcp`
+  [![Ask Garçon MCP connector](https://glama.ai/mcp/connectors/com.fixmeadrinkapp.mcp/ask-garcon/badges/score.svg)](https://glama.ai/mcp/connectors/com.fixmeadrinkapp.mcp/ask-garcon)
+  🔓 - Cocktails from the bottles you own: recipes, bar terms, similar drinks, low and zero-proof picks.
 - [ask.recipes](https://ask.recipes) `https://mcp.ask.recipes/mcp`
   [![ask.recipes MCP connector](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes/badges/score.svg)](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes)
   🔐 - Recipe search, ingredient matching, nutrition filters and a private cookbook for any AI agent.
