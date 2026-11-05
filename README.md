@@ -4547,6 +4547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![KreatorMesh MCP connector](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh/badges/score.svg)](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh)
   🔐 - Schedule posts to 10 platforms and check drafts against hook rules learned from your own audience.
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
+- [Acrium](https://acriumautomated.com) `https://acriumautomated.com/mcp`
+  [![Acrium MCP connector](https://glama.ai/mcp/connectors/com.acriumautomated/acrium/badges/score.svg)](https://glama.ai/mcp/connectors/com.acriumautomated/acrium)
+  🔐 - Plugs your AI into Google Ads, nine social platforms, Shopify and inventory; phone calls on Connect + Voice.
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
 - [MatrixAgentNet](https://matrixagentnet.com) `https://matrixagentnet.com/mcp`
