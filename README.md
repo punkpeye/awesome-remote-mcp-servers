@@ -1279,6 +1279,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [sinatra.dev](https://www.sinatra.dev) `https://api.sinatra.dev/v1/mcp`
   [![sinatra.dev MCP connector](https://glama.ai/mcp/connectors/dev.sinatra/sinatra/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sinatra/sinatra)
   🔐 - Hosted coding agent: start, follow, reply to and stop tasks that open GitHub pull requests.
+- [Since.dev](https://since.dev) `https://api.since.dev/mcp`
+  [![Since.dev MCP connector](https://glama.ai/mcp/connectors/io.github.Since-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Since-dev/mcp)
+  🔐 - What changed in every package, AI model, API and runtime your code uses, with file and line, and the fix.
 - [SkillAgent](https://skillagent.dev) `https://skillagent.dev/mcp`
   [![SkillAgent MCP connector](https://glama.ai/mcp/connectors/dev.skillagent/skills/badges/score.svg)](https://glama.ai/mcp/connectors/dev.skillagent/skills)
   🔓 - Search, rank and get install steps for AI agent skills, rules files and MCP servers indexed from GitHub.
