@@ -2165,6 +2165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
+- [Recordwire](https://recordwirehq.com/mcp) `https://api.recordwirehq.com/mcp`
+  [![Recordwire MCP connector](https://glama.ai/mcp/connectors/com.recordwirehq.api/recordwire/badges/score.svg)](https://glama.ai/mcp/connectors/com.recordwirehq.api/recordwire)
+  🔑 - U.S. business-registry data and change events for agents.
 - [Regime](https://regimetoken.xyz/api) `https://feed.regimetoken.xyz/mcp`
 
   
