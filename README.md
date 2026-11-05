@@ -1556,6 +1556,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [Fluentoo TOEIC](https://fluentoo.fr) `https://fluentoo.fr/mcp`
+  [![Fluentoo TOEIC MCP connector](https://glama.ai/mcp/connectors/fr.fluentoo/toeic/badges/score.svg)](https://glama.ai/mcp/connectors/fr.fluentoo/toeic)
+  🔓 - TOEIC prep in French: score to CEFR level, score estimate from correct answers, the 7 parts, guides and a free test.
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
