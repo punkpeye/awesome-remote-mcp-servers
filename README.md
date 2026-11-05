@@ -440,6 +440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
+- [Lumorig](https://lumorig.com) `https://lumorig.com/api/mcp`
+  [![Lumorig MCP connector](https://glama.ai/mcp/connectors/com.lumorig/lumorig/badges/score.svg)](https://glama.ai/mcp/connectors/com.lumorig/lumorig)
+  🔐 - Create, animate and export brand mascots as Lottie, SVG, transparent clips and live web embeds.
 - [Luw.ai](https://luw.ai) `https://mcp.luw.ai/mcp`
   [![Luw.ai MCP connector](https://glama.ai/mcp/connectors/ai.luw/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.luw/mcp)
   🔐 - Redesign rooms, exteriors and gardens from photos, render sketches, edit images, and create videos and 3D models.
