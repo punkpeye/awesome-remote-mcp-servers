@@ -1006,6 +1006,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [API operation](https://spec.bestsmartgoods.com/docs) `https://spec.bestsmartgoods.com/mcp`
+  [![API operation MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/api-operation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/api-operation)
+  🔓 - Read one operation from a public OpenAPI document: method, path, and required fields.
 - [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
   [![Apple RAG MCP connector](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server)
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
@@ -1075,6 +1078,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [Dependency check](https://deps.bestsmartgoods.com/docs) `https://deps.bestsmartgoods.com/mcp`
+  [![Dependency check MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/dependency-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/dependency-check)
+  🔓 - Check a package version for known vulnerabilities and Packagist release facts.
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
@@ -1226,6 +1232,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perq](https://perq.sh/agents) `https://perq.sh/mcp`
   [![Perq MCP connector](https://glama.ai/mcp/connectors/sh.perq/perq/badges/score.svg)](https://glama.ai/mcp/connectors/sh.perq/perq)
   🔓 - Find verified free AI credits, free tiers and startup programs, each with a source link and last-verified date.
+- [PHP and WordPress docs](https://php.bestsmartgoods.com/docs) `https://php.bestsmartgoods.com/mcp`
+  [![PHP and WordPress docs MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/php-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/php-docs)
+  🔓 - Current PHP and WordPress pages, plus an error lookup and upgrade breaks.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
@@ -4022,7 +4031,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
 - [Company lookup](https://firm.bestsmartgoods.com/docs) `https://firm.bestsmartgoods.com/mcp`
   [![Company lookup MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/company-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/company-lookup)
-  🔓 - Look up a company by name, registration number, or tax id.
+  🔓 - Look up a company by legal name, or check an EU VAT id.
 - [Conqueia](https://conqueia.com) `https://conqueia.com/mcp`
   [![Conqueia MCP connector](https://glama.ai/mcp/connectors/com.conqueia/conqueia/badges/score.svg)](https://glama.ai/mcp/connectors/com.conqueia/conqueia)
   🔓 - Spanish-language directory of 1,300+ real AI use cases, skills and tools for business; search, read entries, get picks.
