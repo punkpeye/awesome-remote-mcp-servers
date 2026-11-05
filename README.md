@@ -3369,6 +3369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [AINSOF](https://ainsof.io) `https://mcp.ainsof.io`
+  [![AINSOF MCP connector](https://glama.ai/mcp/connectors/io.ainsof.mcp/ainsof/badges/score.svg)](https://glama.ai/mcp/connectors/io.ainsof.mcp/ainsof)
+  🔓 - Search a licensed production-music catalog by brief or reference link, and score video to picture.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
