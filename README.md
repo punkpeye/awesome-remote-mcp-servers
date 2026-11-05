@@ -3339,7 +3339,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
 - [QuietDiff](https://quietdiff.com) `https://quietdiff.com/api/mcp`
   [![QuietDiff MCP connector](https://glama.ai/mcp/connectors/com.quietdiff/quietdiff/badges/score.svg)](https://glama.ai/mcp/connectors/com.quietdiff/quietdiff)
-  🔐 🔑 - Create web page and JSON change monitors, read diffs and snapshots, and check each monitor's health. Free tier key.
+  🔓 - Create web page and JSON change monitors, read diffs and snapshots, and check each monitor's health. Free tier key.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
