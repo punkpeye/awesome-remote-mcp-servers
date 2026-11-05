@@ -1368,7 +1368,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Finds what an AI job needs, shortlists from 450+ OpenRouter models, and tests the best on your tasks.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
-- [ProveCart](https://provecart.com) `https://api.provecart.com/mcp`
+ [ProveCart](https://provecart.com) `https://api.provecart.com/mcp`
 -   - Pre-payment verification for agent commerce: checks orders, bookings and reservations against the customer's instructions (MATCH / REVIEW / BLOCK), plus a free certification exam for shopping agents.
 
 - [3Descu](https://quote.3descu.com/) `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp`
