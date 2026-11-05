@@ -3895,6 +3895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
+- [Lacuna Research](https://lacuna.tiptreesystems.com/mcp) `https://lacuna.tiptreesystems.com/api/mcp`
+  [![Lacuna Research MCP connector](https://glama.ai/mcp/connectors/io.github.tiptreesystems/lacuna-research-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tiptreesystems/lacuna-research-mcp)
+  🔓 - Read-only map of ML research: papers, research directions, authors, venues and hypotheses, each linked to its sources.
 - [LaTeX-Agent](https://latex-agent.sun-praise.com) `https://latex-agent.sun-praise.com/mcp`
   [![LaTeX-Agent MCP connector](https://glama.ai/mcp/connectors/com.sun-praise.latex-agent/la-te-x-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.sun-praise.latex-agent/la-te-x-agent)
   🔑 - Write and compile LaTeX without local TeX: async compile to real PDFs, error fixes, synctex and a paper library.
