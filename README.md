@@ -442,7 +442,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
 - [Logospell](https://logospell.com) `https://mcp.logospell.com/mcp`
   [![Logospell MCP connector](https://glama.ai/mcp/connectors/com.logospell/logospell/badges/score.svg)](https://glama.ai/mcp/connectors/com.logospell/logospell)
-  🔑 - Generate cohesive image sets, character sets and illustration sets for AI agents.
+  🔑 - Generate image, character, illustration and concept sets, and logo variations, for AI agents.
 - [Luw.ai](https://luw.ai) `https://mcp.luw.ai/mcp`
   [![Luw.ai MCP connector](https://glama.ai/mcp/connectors/ai.luw/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.luw/mcp)
   🔐 - Redesign rooms, exteriors and gardens from photos, render sketches, edit images, and create videos and 3D models.
