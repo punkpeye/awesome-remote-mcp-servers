@@ -212,6 +212,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OceanToken](https://oceantoken.ai) `https://mcp.oceantoken.ai/mcp`
   [![OceanToken MCP connector](https://glama.ai/mcp/connectors/ai.oceantoken/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.oceantoken/mcp)
   🔐 - Search and price 480+ AI models, ask any of them, and generate images, video and speech on one prepaid balance.
+- [OneDroid Synapse](https://onedroid.ai/synapse) `https://synapse.onedroid.ai/agent/mcp`
+  [![OneDroid Synapse MCP connector](https://glama.ai/mcp/connectors/ai.onedroid/synapse/badges/score.svg)](https://glama.ai/mcp/connectors/ai.onedroid/synapse)
+  🔑 🔐 - Governed MCP gateway: agents reach your connected accounts through one URL, without holding the credentials.
 - [PayAPI Market](https://payapi.market) `https://payapi.market/mcp`
   [![PayAPI Market MCP connector](https://glama.ai/mcp/connectors/market.payapi/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/market.payapi/marketplace)
   🔓 - Search 358 live x402 APIs from 242 providers, then pay each call in USDC on Base with no API key or account.
@@ -2699,6 +2702,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [notepad.page](https://notepad.page) `https://mcp.notepad.page/mcp`
   [![notepad.page MCP connector](https://glama.ai/mcp/connectors/page.notepad/notepad/badges/score.svg)](https://glama.ai/mcp/connectors/page.notepad/notepad)
   🔓 - Publish, recall and update persistent private HTML pages at a personal address; publishing needs OAuth.
+- [OneDroid Engram](https://onedroid.ai/engram) `https://engram.onedroid.ai/mcp`
+  [![OneDroid Engram MCP connector](https://glama.ai/mcp/connectors/ai.onedroid/engram/badges/score.svg)](https://glama.ai/mcp/connectors/ai.onedroid/engram)
+  🔑 - Versioned agent memory: hybrid vector, keyword and graph search, with revision history, diff and restore.
 - [OnlyMCP](https://only-mcp.com) `https://only-mcp.com/api/mcp`
   [![OnlyMCP MCP connector](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp)
   🔐 - Skills, agents and markdown memory in the cloud, the same in every client, plus a gateway to your other MCP servers.
