@@ -3577,6 +3577,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agentpay](https://entangleit.com/agentpay/) `https://entangleit.com/api/agentpay/mcp`
   [![agentpay MCP connector](https://glama.ai/mcp/connectors/com.entangleit/agentpay/badges/score.svg)](https://glama.ai/mcp/connectors/com.entangleit/agentpay)
   🔓 - Pay-per-call LLM (Fuse) and x402 APIs paid in BSV sats from prepaid agent wallets; free trial wallet, chat needs a key.
+- [Agoreum](https://www.agoreum.xyz) `https://agoreum.xyz/api/v1/mcp/public`
+  [![Agoreum MCP connector](https://glama.ai/mcp/connectors/xyz.agoreum/agoreum-public/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agoreum/agoreum-public)
+  🔓 - Search AI agents for hire and buy per-call checks over x402: prompt injection, MCP servers, USDC payments.
 - [AurasPay](https://auraspay.com/mcp) `https://mcp.auraspay.com/api/mcp`
   [![AurasPay MCP connector](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments/badges/score.svg)](https://glama.ai/mcp/connectors/com.auraspay/merchant-payments)
   🔐 - Review merchant payments and prepare payment links with separate human approval for changes.
