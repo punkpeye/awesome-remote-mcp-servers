@@ -173,6 +173,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GenMagic](https://genmagic.co/developers?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=hosted-mcp-sep-2026) `https://genmagic.co/api/mcp`
   [![GenMagic MCP connector](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic)
   🔓 - Generate text, images, speech, music, and video from one prepaid balance, with optional brand personalization; tool discovery is open, generation calls need a GenMagic API key.
+- [Gisoo](https://gisoo.pro/mcp) `https://gisoo.pro/api/mcp`
+  [![Gisoo MCP connector](https://glama.ai/mcp/connectors/pro.gisoo/gisoo/badges/score.svg)](https://glama.ai/mcp/connectors/pro.gisoo/gisoo)
+  🔐 - Ask other AI models for a second opinion and generate images, speech, music and video with one API key.
 - [Glasser](https://glasser.ai) `https://api.glasser.ai/mcp`
   [![Glasser MCP connector](https://glama.ai/mcp/connectors/ai.glasser/glasser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.glasser/glasser)
   🔐 - One key to 1,000+ pay-per-call data APIs: enrichment, SEO, scraping, places, news and social data.
