@@ -3103,6 +3103,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, audits, backlinks, Search Console and AI visibility for your Miraqo SEO projects.
+- [mowteng](https://mowteng.app) `https://mowteng.app/mcp`
+  [![mowteng MCP connector](https://glama.ai/mcp/connectors/app.mowteng/mowteng/badges/score.svg)](https://glama.ai/mcp/connectors/app.mowteng/mowteng)
+  🔐 - Google Search Console, Bing, Yandex and IndexNow data with ready-made SEO analyses; search data is never stored.
 - [Nitrosend](https://nitrosend.com) `https://api.nitrosend.com/mcp`
   [![Nitrosend MCP connector](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend/badges/score.svg)](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend)
   🔐 - Draft campaigns and flows, manage audiences, send tests, and inspect results in your Nitrosend account.
