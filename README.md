@@ -3828,6 +3828,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
+- [EnrichGrid](https://enrichgrid.com/mcp-server) `https://enrichgrid.com/mcp`
+  [![EnrichGrid MCP connector](https://glama.ai/mcp/connectors/com.enrichgrid/enrichgrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.enrichgrid/enrichgrid)
+  🔑 - LinkedIn person, company and school data plus people search by title, company and location; pay per found profile.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
