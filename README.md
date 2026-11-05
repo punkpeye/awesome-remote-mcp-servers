@@ -2226,6 +2226,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SnowSignals TrendVane](https://snowsignals.io) `https://snowsignals.io/mcp`
   [![SnowSignals TrendVane MCP connector](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals/badges/score.svg)](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals)
   🔓 - Market-phase state per currency across timeframes (not trade signals); free phase stats, metered live reads.
+- [Spaces by Peakflo](https://spaces.peakflo.ai) `https://api.peakflo.ai/mcp`
+  [![Spaces by Peakflo MCP connector](https://glama.ai/mcp/connectors/ai.peakflo/spaces/badges/score.svg)](https://glama.ai/mcp/connectors/ai.peakflo/spaces)
+  🔐 - Hand off repetitive finance and ops work to cloud agents or people; query workflows, tables and reports.
 - [Stablecoin Scanner](https://stablescan.achivx.com) `https://stablescan.achivx.com/mcp`
   [![Stablecoin Scanner MCP connector](https://glama.ai/mcp/connectors/com.achivx/stablescan/badges/score.svg)](https://glama.ai/mcp/connectors/com.achivx/stablescan)
   🔓 - Stablecoin compliance on 7 chains: issuer freezes, OFAC, exposure and risk, allowances, transfers, wallet graph.
