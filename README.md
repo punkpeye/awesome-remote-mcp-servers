@@ -2643,6 +2643,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
   🔑 - Hybrid search over vectors, full text and structured filters, with auto-embeddings.
+- [Glasp](https://glasp.co) `https://glasp.co/api/mcp`
+  [![Glasp MCP connector](https://glama.ai/mcp/connectors/io.github.kazuki-sf/glasp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kazuki-sf/glasp)
+  🔐 - Search and read your own saved web and Kindle highlights, page summaries and bookmarks, with sources.
 - [Greenlit Books](https://greenlitbooks.com/developers) `https://greenlitbooks.com/api/mcp`
   [![Greenlit Books MCP connector](https://glama.ai/mcp/connectors/com.greenlitbooks/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.greenlitbooks/catalog)
   🔓 - Search a catalog of practical AI books, read free chapters, and check a claim against the source behind it.
