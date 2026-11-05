@@ -1462,6 +1462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Meu Ecommerce](https://dev.meuecommerce.com.br/docs/mcp) `https://app.meuecommerce.com.br/mcp`
   [![Meu Ecommerce MCP connector](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp)
   🔐 - Brazil's Correios for merchants: shipping quotes (frete), parcel tracking (rastreio) and labels (etiqueta).
+- [MostExpensiveWatches](https://mostexpensivewatches.net) `https://mostexpensivewatches.net/mcp`
+  [![MostExpensiveWatches MCP connector](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp)
+  🔓 - Search luxury-watch listings, reference data, sourced auction records, market estimates and upcoming auctions.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
