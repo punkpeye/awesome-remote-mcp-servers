@@ -3369,6 +3369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [API Stock](https://api-stock.com) `https://api.api-stock.com/mcp`
+  [![API Stock MCP connector](https://glama.ai/mcp/connectors/io.github.APIStock/api-stock/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.APIStock/api-stock)
+  🔐 - Generate video, images and music with Veo, Kling, Seedance, GPT Image and Suno from one prepaid balance.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
