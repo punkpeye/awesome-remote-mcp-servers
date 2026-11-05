@@ -2837,6 +2837,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LienDeadline](https://liendeadline.com) `https://mcp.liendeadline.com/mcp`
   [![LienDeadline MCP connector](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp)
   🔓 - Read-only US mechanics lien and preliminary notice deadlines for suppliers, plus lien guides for all 50 states and DC.
+- [Loupe](https://loupe.legal) `https://loupe.legal/mcp-public`
+  [![Loupe MCP connector](https://glama.ai/mcp/connectors/legal.loupe/citation-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/legal.loupe/citation-lookup)
+  🔓 - Checks whether a US legal citation exists, names its case and has a valid pin cite; finds cases by name.
 - [MachineWitness](https://machinewitness.eu/api) `https://machinewitness.eu/mcp`
   [![MachineWitness MCP connector](https://glama.ai/mcp/connectors/eu.machinewitness/archive/badges/score.svg)](https://glama.ai/mcp/connectors/eu.machinewitness/archive)
   🔓 - EU archive of robots.txt, ai.txt and AI opt-outs: check if a domain is observed, order time-stamped captures.
