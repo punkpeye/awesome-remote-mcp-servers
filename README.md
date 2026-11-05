@@ -1661,6 +1661,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Box](https://box.com) `https://mcp.box.com/`
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
+- [Desktop Steward](https://desktopsteward.com/claude/) `https://relay.desktopsteward.com/mcp`
+  [![Desktop Steward MCP connector](https://glama.ai/mcp/connectors/com.desktopsteward/desktop-steward/badges/score.svg)](https://glama.ai/mcp/connectors/com.desktopsteward/desktop-steward)
+  🔐 - Files on your own Mac or Windows computer from claude.ai or ChatGPT, through the Desktop Steward app: folder rules, a confirmation window on the computer before deleting or bulk moves, undo for 7 days.
 - [Link in Seconds](https://linkinseconds.com/docs/mcp) `https://linkinseconds.com/api/mcp`
   [![Link in Seconds MCP connector](https://glama.ai/mcp/connectors/com.linkinseconds/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkinseconds/mcp)
   🔓 - Upload a file and get a shareable link that never expires, plus view stats. Using the tools needs a free API key.
