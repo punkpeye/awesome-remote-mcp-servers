@@ -1646,6 +1646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
   [![Powietrze PL (powietrze-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp)
   🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
+- [slonce.info.pl](https://slonce.info.pl/en/for-ai) `https://slonce.info.pl/mcp`
+  [![slonce MCP connector](https://glama.ai/mcp/connectors/pl.info.slonce/slonce/badges/score.svg)](https://glama.ai/mcp/connectors/pl.info.slonce/slonce)
+  🔓 - Sunrise, sunset, day length, golden and blue hours, moonrise and moon phases for any place and day.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
@@ -3892,6 +3895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FERS: structural finite-element analysis](https://ferscloud.com/mcp) `https://ferscloud.com/api/mcp`
   [![FERS: structural finite-element analysis MCP connector](https://glama.ai/mcp/connectors/com.ferscloud/fers/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferscloud/fers)
   🔐 - Builds and checks structural FE models (beams, frames, trusses, plates, Eurocode 3) that solve in your browser.
+- [kosmos.info.pl](https://kosmos.info.pl/en/for-ai) `https://kosmos.info.pl/mcp`
+  [![kosmos MCP connector](https://glama.ai/mcp/connectors/pl.info.kosmos/kosmos/badges/score.svg)](https://glama.ai/mcp/connectors/pl.info.kosmos/kosmos)
+  🔓 - Is the sky worth a look tonight in Poland: clouds, moon, ISS passes, aurora, planets and meteor showers.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
@@ -5124,6 +5130,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
+- [urlhub](https://urlhub.cloud/docs?lang=en) `https://urlhub.cloud/mcp`
+  [![urlhub MCP connector](https://glama.ai/mcp/connectors/cloud.urlhub/urlhub/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.urlhub/urlhub)
+  🔓 - Many links as one short link with a QR code; read shared link sets and preview what links are about.
 - [Verant](https://verant.ai) `https://verant.ai/mcp`
   [![Verant MCP connector](https://glama.ai/mcp/connectors/ai.verant/verant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.verant/verant)
   🔐 - Proofread live web pages and whole sites for spelling, grammar, and placeholder text, with a fix for each.
@@ -5245,6 +5254,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
+- [zodiak.info.pl](https://zodiak.info.pl/dla-ai) `https://zodiak.info.pl/mcp`
+  [![zodiak MCP connector](https://glama.ai/mcp/connectors/pl.info.zodiak/zodiak/badges/score.svg)](https://glama.ai/mcp/connectors/pl.info.zodiak/zodiak)
+  🔓 - Birth charts, planet positions, zodiac sign dates and an astrological calendar: calculations, no predictions.
 
 ## Community
 
