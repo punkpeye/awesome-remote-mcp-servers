@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
+- [Central Command](https://centralcommand.io/mcp) `https://rtcelwjnrbmfmrywacky.supabase.co/functions/v1/mcp`
+  [![Central Command MCP connector](https://glama.ai/mcp/connectors/io.github.tlefko/central-command/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tlefko/central-command)
+  🔓 - Crypto perps market data, backtests and BloFin trading agents; free with a key or pay per call via x402.
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
