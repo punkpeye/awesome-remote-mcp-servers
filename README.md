@@ -2852,6 +2852,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Patlas](https://patlas.dev) `https://patlas.dev/mcp`
   [![Patlas MCP connector](https://glama.ai/mcp/connectors/dev.patlas/patlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.patlas/patlas)
   🔐 - Patent prior-art search over USPTO and EPO data, claim comparison, and codebase scans for patentable tech.
+- [PolicyTrak](https://policytrak.com) `https://app.policytrak.com/api/mcp`
+  [![PolicyTrak MCP connector](https://glama.ai/mcp/connectors/com.policytrak.app/policytrak/badges/score.svg)](https://glama.ai/mcp/connectors/com.policytrak.app/policytrak)
+  🔐 - Location compliance evidence, policies and SOPs with admin-controlled write approvals.
 - [Precleared](https://precleared.dev) `https://precleared.dev/mcp`
   [![Precleared MCP connector](https://glama.ai/mcp/connectors/dev.precleared/contact-check/badges/score.svg)](https://glama.ai/mcp/connectors/dev.precleared/contact-check)
   🔓 - Checks if a cold marketing email to one address is allowed under UK, US, Canadian, German or French law, with a receipt.
@@ -3699,6 +3702,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
+- [RetailHardHat](https://retailhardhat.com) `https://app.retailhardhat.com/api/mcp`
+  [![RetailHardHat MCP connector](https://glama.ai/mcp/connectors/com.retailhardhat.app/retailhardhat/badges/score.svg)](https://glama.ai/mcp/connectors/com.retailhardhat.app/retailhardhat)
+  🔐 - Retail site, project, budget and bid records with human review for sensitive writes.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
@@ -3780,6 +3786,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kvartiry-Phuket](https://kvartiry-phuket.com/otkrytye-dannye/#english) `https://kvartiry-phuket.com/mcp`
   [![Kvartiry-Phuket MCP connector](https://glama.ai/mcp/connectors/com.kvartiry-phuket/phuket/badges/score.svg)](https://glama.ai/mcp/connectors/com.kvartiry-phuket/phuket)
   🔓 - Russian-language Phuket property guides, districts, asking prices and condo assessment rates, plus weather and beaches.
+- [LeaseCommand](https://leasecommand.com) `https://app.leasecommand.com/api/mcp`
+  [![LeaseCommand MCP connector](https://glama.ai/mcp/connectors/com.leasecommand.app/leasecommand/badges/score.svg)](https://glama.ai/mcp/connectors/com.leasecommand.app/leasecommand)
+  🔐 - Lease records and ASC 842 lease accounting data with confirmed write operations.
 - [LenDb.ai](https://lendb.ai/developers) `https://lendb.ai/mcp`
   [![LenDb.ai MCP connector](https://glama.ai/mcp/connectors/ai.lendb/lendb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lendb/lendb)
   🔓 - Find US mortgage loan officers by loan type, place and language, with sourced, dated facts.
@@ -4989,6 +4998,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Carbon](https://www.carbondatasolutions.com/hire) `https://mcp.carbondatasolutions.com/mcp`
   [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon)
   🔐 - Hire data professionals from ChatGPT, Claude, or any MCP host. Post a role free.
+- [Credential Camp](https://credentialcamp.com) `https://app.credentialcamp.com/api/mcp`
+  [![Credential Camp MCP connector](https://glama.ai/mcp/connectors/com.credentialcamp.app/credential-camp/badges/score.svg)](https://glama.ai/mcp/connectors/com.credentialcamp.app/credential-camp)
+  🔐 - Employee credentials, training and certification records with owner-controlled write approvals.
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
@@ -5034,6 +5046,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [IncidentVault](https://incidentvault.com) `https://app.incidentvault.com/api/mcp/apps/server`
+  [![IncidentVault MCP connector](https://glama.ai/mcp/connectors/com.incidentvault.app/incidentvault/badges/score.svg)](https://glama.ai/mcp/connectors/com.incidentvault.app/incidentvault)
+  🔐 - Incident, task and follow-up records with role and location limits on every call.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
@@ -5088,6 +5103,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuillHub](https://quillhub.ai/en/help/mcp-claude-cursor) `https://mcp.quillhub.ai/mcp`
   [![QuillHub MCP connector](https://glama.ai/mcp/connectors/ai.quillhub/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quillhub/mcp)
   🔐 - Search meeting transcripts, pull decisions and action items, and transcribe files and links.
+- [QuipAssist](https://quipassist.com) `https://app.quipassist.com/api/mcp`
+  [![QuipAssist MCP connector](https://glama.ai/mcp/connectors/com.quipassist.app/quipassist/badges/score.svg)](https://glama.ai/mcp/connectors/com.quipassist.app/quipassist)
+  🔐 - Equipment, repair and maintenance records; agent changes wait as drafts for review.
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
@@ -5106,6 +5124,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [SmartShifts](https://smartshifts.com) `https://app.smartshifts.com/api/mcp`
+  [![SmartShifts MCP connector](https://glama.ai/mcp/connectors/com.smartshifts.app/smartshifts/badges/score.svg)](https://glama.ai/mcp/connectors/com.smartshifts.app/smartshifts)
+  🔐 - Shifts, coverage, time off and tasks; changes wait for approval by default.
 - [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
   [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
   🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
