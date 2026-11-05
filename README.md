@@ -2298,6 +2298,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradingCalc](https://tradingcalc.io) `https://tradingcalc.io/api/mcp`
   [![TradingCalc MCP connector](https://glama.ai/mcp/connectors/io.github.SKalinin909/tradingcalc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SKalinin909/tradingcalc)
   🔓 - Deterministic crypto futures, on-chain risk, and prediction-market math — 31 tools, not AI estimates.
+- [TradingCalendars](https://tradingcalendars.com/mcp) `https://api.tradingcalendars.com/mcp`
+  [![TradingCalendars MCP connector](https://glama.ai/mcp/connectors/com.tradingcalendars/holidays/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradingcalendars/holidays)
+  🔓 - Business days, T+N settlement dates and holidays for FX, banks, payment systems and 61 exchanges.
 - [TradingMCP](https://tradingmcp.ai) `https://mcp.cryptosieve.com/mcp`
   [![TradingMCP MCP connector](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp)
   🔓 - Market screeners, technical analysis, backtests and charts for crypto, stocks and FX; tool calls need an API key.
