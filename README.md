@@ -2813,6 +2813,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Regulatory Intel](https://datakoot.com/regulatory-intel) `https://regulatory.datakoot.com/mcp`
   [![Datakoot Regulatory Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/federal-register-rules)
   🔓 - Federal Register rules, proposed rules, notices and executive orders, searchable by agency and term.
+- [Dealroom](https://dealroom.todo.law/developers) `https://dealroom.todo.law/api/v1/agent/mcp`
+  [![Dealroom MCP connector](https://glama.ai/mcp/connectors/io.github.sergiomaldo/dealroom/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sergiomaldo/dealroom)
+  🔑 - Drafts two-party contracts in one call, or negotiates them clause by clause between agents; paid per contract.
 - [disclosedby](https://disclosedby.com) `https://disclosedby.com/api/mcp`
   [![disclosedby MCP connector](https://glama.ai/mcp/connectors/com.disclosedby/record/badges/score.svg)](https://glama.ai/mcp/connectors/com.disclosedby/record)
   🔓 - Dated quotes of GDPR art. 28 subprocessor lists: who lists whom, what changed, and what a list said on a date.
