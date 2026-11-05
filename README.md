@@ -584,6 +584,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ankra](https://docs.ankra.ai/platform/mcp-server) `https://platform.ankra.app/api/v1/mcp`
   [![Ankra MCP connector](https://glama.ai/mcp/connectors/ai.ankra/platform/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ankra/platform)
   🔐 - Deploy and operate Kubernetes: build or import clusters, ship apps, read logs and metrics, and triage CVEs.
+- [Basemodo](https://basemodo.com) `https://mcp.basemodo.com`
+  [![Basemodo MCP connector](https://glama.ai/mcp/connectors/com.basemodo/basemodo/badges/score.svg)](https://glama.ai/mcp/connectors/com.basemodo/basemodo)
+  🔐 - Deploy Apps from a repo or Template, share them by email, and run their database, Backups, Logs and domains.
 - [Cloud World Model](https://www.cloudworldmodel.ai/mcp-quickstart) `https://www.cloudworldmodel.ai/mcp`
   [![Cloud World Model MCP connector](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model)
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
