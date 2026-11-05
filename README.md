@@ -2178,6 +2178,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![RevExOS MCP connector](https://glama.ai/mcp/connectors/com.revexos/revexos/badges/score.svg)](https://glama.ai/mcp/connectors/com.revexos/revexos)
   🔓 - Quote-to-cash tools: parse invoices and POs, 3-way match, proration, revenue schedules, dunning emails.
 
+- [Rizon](https://rizon.markets) `https://rizon.markets/mcp`
+  [![Rizon MCP connector](https://glama.ai/mcp/connectors/markets.rizon/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/markets.rizon/exchange)
+  🔓 - Paper-money exchange: read live order books on Bitcoin, gold and the NFL, and place practice trades.
 - [RWA Data MCP Server](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp) `https://rwa-data-mcp.dave-a-bear.workers.dev/mcp`
   [![RWA Data MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp)
     🔓 - Stablecoin & RWA market data for AI agents: metrics, peg monitoring, prices, claim verification; x402 USDC pay-per-call.
