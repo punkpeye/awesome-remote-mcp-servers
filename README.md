@@ -2274,6 +2274,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Undesirables TCG Oracle](https://the-undesirables.com) `https://mcp.the-undesirables.com/mcp`
   [![The Undesirables TCG Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server)
   🔓 - On-chain oracle for 456K+ trading cards: prices, forecasts, AI grading; free reads, paid via x402.
+- [Ticker](https://findticker.com) `https://api.findticker.com/mcp`
+  [![Ticker MCP connector](https://glama.ai/mcp/connectors/com.findticker/ticker/badges/score.svg)](https://glama.ai/mcp/connectors/com.findticker/ticker)
+  🔐 - Live ticket market data for your AI: prices, listings, sales and seat maps for concerts and sports.
 - [Tickerz](https://tickerz.com/connect) `https://tickerz.com/mcp`
   [![Tickerz MCP connector](https://glama.ai/mcp/connectors/com.tickerz/tickerz/badges/score.svg)](https://glama.ai/mcp/connectors/com.tickerz/tickerz)
   🔓 - Daily indexes of memecoin launches, Kalshi and Polymarket volume and x402 payments, on-chain in Bitcoin.
