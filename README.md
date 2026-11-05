@@ -1503,6 +1503,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PoloPan Fashion MCP](https://polopan.com) `https://mcp-server.polopan.com/mcp`
   [![PoloPan Fashion MCP connector](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion/badges/score.svg)](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion)
   🔓 - Shop fashion: break an outfit photo into items, get in-stock looks for an occasion and check out.
+- [Product catalog](https://catalog.bestsmartgoods.com/docs) `https://catalog.bestsmartgoods.com/mcp`
+  [![Product catalog MCP connector](https://glama.ai/mcp/connectors/io.github.ladanyin/product-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ladanyin/product-catalog)
+  🔓 - Search a product catalog for a title, pictures, a price, and a page where it can be bought.
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
