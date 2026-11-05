@@ -1829,6 +1829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Clear Tape](https://cleartape.ai/mcp) `https://app.cleartape.ai/mcp`
   [![Clear Tape MCP connector](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape)
   🔓 - Exact trading calculators (position size, R:R, expectancy, ATR stop, Kelly), system rules, glossary and lesson search.
+- [ClientFoyer](https://clientfoyer.com) `https://clientfoyer.com/api/v1/mcp`
+  [![ClientFoyer MCP connector](https://glama.ai/mcp/connectors/com.clientfoyer/client-foyer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.clientfoyer/client-foyer-mcp)
+  🔑 - Lets an AI agent run a freelancer's client portal: projects, status updates, files and read-only invoices.
 - [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
   [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
   🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
