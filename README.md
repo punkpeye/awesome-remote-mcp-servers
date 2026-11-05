@@ -1907,7 +1907,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [emissaoja](https://emissaoja.com.br/emitir-nota-fiscal-por-ia) `https://emissaoja.com.br/mcp`
   [![emissaoja MCP connector](https://glama.ai/mcp/connectors/br.com.emissaoja/nfse/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.emissaoja/nfse)
-  🔐 - Issue, track and cancel Brazilian service invoices (NFS-e) via Emissor Nacional, without a digital certificate.
+  🔓 - Issue, track and cancel Brazilian service invoices (NFS-e) via Emissor Nacional, no certificate; OAuth to issue.
 
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
