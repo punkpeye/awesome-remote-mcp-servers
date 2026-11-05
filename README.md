@@ -1026,7 +1026,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
   [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
   🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
-- [Breakwire](https://breakwire.org) `https://breakwire.org/mcp`
+- [Breakwire](https://breakwire.org) `https://breakwire.org/mcp?ref=awesome-remote-mcp`
   [![Breakwire MCP connector](https://glama.ai/mcp/connectors/org.breakwire/breakwire/badges/score.svg)](https://glama.ai/mcp/connectors/org.breakwire/breakwire)
   🔓 - Look up an API, SDK or MCP error; get the source-linked breaking change, deprecation or advisory and its fix.
 - [CacheBoost](https://www.cache-boost.com/support/mcp/overview) `https://api.cache-boost.com/mcp`
