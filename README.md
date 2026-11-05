@@ -756,6 +756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Sautikit](https://sautikit.com/mcp) `https://mcp.sautikit.com/mcp`
+  [![Sautikit MCP connector](https://glama.ai/mcp/connectors/io.github.SautiKit/sautikit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SautiKit/sautikit)
+  🔐 - Kenyan phone numbers, calls, recordings, AI voice agents and voice broadcasts, billed in KES.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
   [![SendFaxFast MCP connector](https://glama.ai/mcp/connectors/com.sendfaxfast/fax/badges/score.svg)](https://glama.ai/mcp/connectors/com.sendfaxfast/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to the US, Canada, Australia, New Zealand and 39 more countries.
