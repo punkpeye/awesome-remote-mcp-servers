@@ -1462,6 +1462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Meu Ecommerce](https://dev.meuecommerce.com.br/docs/mcp) `https://app.meuecommerce.com.br/mcp`
   [![Meu Ecommerce MCP connector](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp)
   🔐 - Brazil's Correios for merchants: shipping quotes (frete), parcel tracking (rastreio) and labels (etiqueta).
+- [NeedATicket](https://needaticket.co.uk/developers) `https://needaticket.co.uk/mcp`
+  [![NeedATicket MCP connector](https://glama.ai/mcp/connectors/uk.co.needaticket/ticket-prices/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.needaticket/ticket-prices)
+  🔓 - Live resale ticket prices for UK and US concerts, sport, theatre and festivals, checked hourly; read-only.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
