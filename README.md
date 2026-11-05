@@ -2985,6 +2985,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
 
+- [invisit](https://invisit.dev/docs/api/mcp) `https://app.invisit.dev/mcp`
+  [![invisit MCP connector](https://glama.ai/mcp/connectors/dev.invisit/invisit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.invisit/invisit)
+  🔐 - Cookieless web analytics: traffic, sources, AI referrals and crawler reads, funnels, heatmaps and web vitals.
 - [Keyword Research API](https://apify.com/gaelasao/keyword-research-api) `https://mcp.apify.com/?tools=gaelasao/keyword-research-api`
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
