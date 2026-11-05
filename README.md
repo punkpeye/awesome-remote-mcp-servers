@@ -5031,6 +5031,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoundRole](https://www.foundrole.com/ai-search-mcp) `https://www.foundrole.com/mcp`
   [![FoundRole MCP connector](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy)
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
+- [freelance.link](https://freelance.link/mcp) `https://freelance.link/mcp`
+  [![freelance.link MCP connector](https://glama.ai/mcp/connectors/link.freelance/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/link.freelance/mcp)
+  🔐 - Read and update a freelancer's availability: projects, absences and waitlist notifications.
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
