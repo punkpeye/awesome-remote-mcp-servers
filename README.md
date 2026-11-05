@@ -3971,6 +3971,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
   🔓 - Cited web evidence for a claim: supporting and contradicting passages with source, time and hash.
 - [AxiomWorks AgentReader](https://api.axiomworks.co.uk) `https://api.axiomworks.co.uk/mcp`
+  [![AgentReader MCP connector](https://glama.ai/mcp/connectors/uk.co.axiomworks.api/agent-reader/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.axiomworks.api/agent-reader)
   🔓 - Pay-per-call web Markdown, company research, UK Companies House due diligence, PDF/DOCX convert and change monitors; USDC on Base via x402. Free truncated `/samples`.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
