@@ -756,6 +756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Send4](https://send4.ai/support/ai-assistant-tools/) `https://mcp.send4.ai/mcp`
+  [![Send4 MCP connector](https://glama.ai/mcp/connectors/ai.send4/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.send4/mcp)
+  🔐 - Read and, where the workspace allows it, change AI SMS and email flows, campaigns, conversations, leads and meetings.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
   [![SendFaxFast MCP connector](https://glama.ai/mcp/connectors/com.sendfaxfast/fax/badges/score.svg)](https://glama.ai/mcp/connectors/com.sendfaxfast/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to the US, Canada, Australia, New Zealand and 39 more countries.
