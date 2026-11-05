@@ -2258,7 +2258,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Indian stock market research: NSE and BSE quotes, financials, 326-ratio screener, FII/DII flows, options and filings.
 - [Terminal Tax](https://terminal.tax) `https://mcp.terminal.tax/v1/hosted-mcp`
   [![Terminal Tax MCP connector](https://glama.ai/mcp/connectors/tax.terminal/filing/badges/score.svg)](https://glama.ai/mcp/connectors/tax.terminal/filing)
-  🔓 - Nothing to install: an AI agent prepares a 2025 US federal Form 1040; the person reviews and signs on one private page.
+  🔓 - Let your AI agent file your taxes directly with the IRS. Tax software: you review and sign it; we e-file.
 - [Tessera Analytics](https://tesseralytics.dev/mcp-server) `https://tesseralytics.dev/mcp`
   [![Tessera Analytics MCP connector](https://glama.ai/mcp/connectors/dev.tesseralytics/hyperliquid-data/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tesseralytics/hyperliquid-data)
   🔓 - Daily Hyperliquid perp funding, positioning and crowding across every market; tools need a free key.
