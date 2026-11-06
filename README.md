@@ -3508,6 +3508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScreenWeaver](https://www.screenweaver.ai/mcp) `https://app.screenweaver.ai/api/mcp`
   [![ScreenWeaver MCP connector](https://glama.ai/mcp/connectors/ai.screenweaver/screenweaver/badges/score.svg)](https://glama.ai/mcp/connectors/ai.screenweaver/screenweaver)
   🔐 - Write and edit screenplays, import Final Draft or Fountain scripts and turn scenes or comic pages into storyboard shots.
+- [ScribeToAny](https://scribetoany.com/developers) `https://scribetoany.com/api/mcp`
+  [![ScribeToAny MCP connector](https://glama.ai/mcp/connectors/com.scribetoany/scribetoany/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribetoany/scribetoany)
+  🔐 - Transcribe audio/video files and links into timestamped text, SRT or VTT subtitles in about 98 languages.
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
