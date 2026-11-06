@@ -5195,6 +5195,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
+- [iLook Face Analysis](https://www.ilook.fit/ai-agent-face-analysis-api) `https://www.ilook.fit/mcp`
+  [![iLook Face Analysis MCP connector](https://glama.ai/mcp/connectors/fit.ilook/face-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/fit.ilook/face-analysis)
+  🔓 - Face shape, symmetry, Golden Ratio and proportion analysis of one user-provided photo, returned as structured output.
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
