@@ -1408,6 +1408,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
+- [cloo.be](https://cloo.be) `https://cloo.be/mcp`
+  [![cloo.be MCP connector](https://glama.ai/mcp/connectors/be.cloo/ofertas/badges/score.svg)](https://glama.ai/mcp/connectors/be.cloo/ofertas)
+  🔓 - Search Brazilian deals from Shopee, Mercado Livre, AliExpress, Amazon, Magalu and Shein with verified prices.
 - [Code actu](https://codeactu.com/assistants-ia/) `https://codeactu.com/mcp`
   [![Code actu MCP connector](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu)
   🔓 - French referral codes verified on brands' official pages: rewards, conditions, verification date and source links.
