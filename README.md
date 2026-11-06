@@ -669,6 +669,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
   
 ### 💬 <a name="communication"></a>Communication
+- [model.tools](https://model.tools) `https://mcp.model.tools/mcp`
+  [![model.tools MCP connector](https://glama.ai/mcp/connectors/tools.model/model-tools-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tools.model/model-tools-mcp)
+  🔓 - Zero-auth email verification code (OTP / magic link) extractor, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup timers, and Markdown reader for autonomous agents.
+
 
 - [ActivitySmith](https://activitysmith.com/integrations/mcp-server) `https://mcp.activitysmith.com/mcp`
   [![ActivitySmith MCP connector](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith/badges/score.svg)](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith)
