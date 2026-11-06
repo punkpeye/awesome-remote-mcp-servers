@@ -3434,6 +3434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
+- [isGenAI](https://isgenai.com/developers/mcp) `https://isgenai.com/mcp`
+  [![isGenAI MCP connector](https://glama.ai/mcp/connectors/com.isgenai/checker/badges/score.svg)](https://glama.ai/mcp/connectors/com.isgenai/checker)
+  🔓 - Check images, links and text for C2PA Content Credentials, AI labels and saved prompts, quoting each source.
 - [Kelpo](https://kelpo.app) `https://kelpo.app/api/mcp`
   [![Kelpo MCP connector](https://glama.ai/mcp/connectors/app.kelpo/kelpo/badges/score.svg)](https://glama.ai/mcp/connectors/app.kelpo/kelpo)
   🔐 - Create vertical UGC-style videos with AI actors or your own photo and voice, with automatic Shorts-style editing.
