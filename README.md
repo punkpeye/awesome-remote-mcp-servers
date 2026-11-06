@@ -469,6 +469,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwlCAD](https://owlcad.com/mcp-server) `https://mcp.owlcad.com`
   [![OwlCAD MCP connector](https://glama.ai/mcp/connectors/com.owlcad.mcp/owl-cad/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlcad.mcp/owl-cad)
   🔐 - Build editable parametric 3D parts, check printability, and export STL, 3MF or STEP.
+- [PaintColorHQ](https://www.paintcolorhq.com/api) `https://www.paintcolorhq.com/api/mcp`
+  [![PaintColorHQ MCP connector](https://glama.ai/mcp/connectors/io.github.pcameron80/paintcolorhq-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pcameron80/paintcolorhq-mcp)
+  🔓 - Closest real, purchasable paint colors to any hex across 13 brands, ranked by CIEDE2000.
 - [PaletteGet](https://paletteget.com/) `https://paletteget-mcp.y7206062.workers.dev/mcp`
   [![PaletteGet MCP connector](https://glama.ai/mcp/connectors/io.github.yang7206/paletteget/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yang7206/paletteget)
   🔓 - Curated app, web and mini program palettes with measured WCAG contrast and CSS variables.
