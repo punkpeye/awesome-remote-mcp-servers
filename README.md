@@ -4355,6 +4355,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DemiSignal](https://demisignal.com/tools/mcp-server?utm_source=awesome-mcp-servers&utm_medium=mcp-directory) `https://demisignal.com/mcp?utm_source=awesome-mcp-servers`
   [![DemiSignal MCP connector](https://glama.ai/mcp/connectors/com.demisignal/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.demisignal/mcp)
   🔓 - Grade a domain's live DMARC, SPF, DKIM, MX, BIMI and MTA-STS records, and generate SPF and DMARC records.
+- [Diogenes Agent Guardrails](https://diogenesgateway.com/#agent-guardrails) `https://diogenesgateway.com/mcp/agent-guardrails`
+  [![Diogenes Agent Guardrails MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-agent-guardrails-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-agent-guardrails-mcp)
+  🔓 - Pre-execution AST SQL verifier, prompt-injection scrubber, and tools/list mutation detector.
 - [DnsGuard](https://dnsguard.mike-tusa.workers.dev/) `https://dnsguard.mike-tusa.workers.dev/mcp`
   [![DnsGuard MCP connector](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard)
   🔓 - Checks a domain's SPF, DKIM, DMARC, BIMI, MX, MTA-STS and TLS-RPT, with a 0–100 score and fixes.
