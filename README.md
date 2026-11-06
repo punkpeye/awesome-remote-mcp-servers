@@ -3894,7 +3894,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Builds and checks structural FE models (beams, frames, trusses, plates, Eurocode 3) that solve in your browser.
 - [Folklore MCP](https://folklore.helena.bio/integrations/mcp) `https://api.helena.bio/folklore/v1/mcp`
   [![Folklore MCP connector](https://glama.ai/mcp/connectors/io.github.helena-bioinformatics/folklore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helena-bioinformatics/folklore)
-  🔓 - ACMG/AMP germline variant classification, gene profiles, disease associations and literature.
+  🔓 - Folklore MCP 2.0.0 offers 11 public tools for ACMG/AMP germline variant classification, gene profiles, disease associations and literature. A Folklore API key adds 18 case, approved-source and report tools at the same endpoint.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
