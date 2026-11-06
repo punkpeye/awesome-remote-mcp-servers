@@ -2192,7 +2192,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Czech mortgages: rates with APRC for 6 major banks, payment comparison and max loan per bank from income.
 - [Sanctionlistcheck.com](https://sanctionlistcheck.com/mcp) `https://sanctionlistcheck.com/mcp`
   [![Sanctionlistcheck.com MCP connector](https://glama.ai/mcp/connectors/com.sanctionlistcheck/sanctionlistcheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.sanctionlistcheck/sanctionlistcheck)
-  🔑 - Screens names against 10 official sanctions lists (OFAC, UK, EU, UN and more) and returns scored possible matches.
+  🔓 - Screens names against 10 sanctions lists (OFAC, UK, EU, UN and more) for scored possible matches; needs a free API key.
 - [Scrapling x402 Data Store](https://scraplingdata.xyz) `https://scraplingdata.xyz/mcp`
   [![Scrapling x402 Data Store MCP connector](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store)
   🔓 - Crypto prices, DeFi TVL and yields, Polymarket odds, token risk and web scraping; pay per call in USDC via x402.
