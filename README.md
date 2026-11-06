@@ -1075,6 +1075,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [Diogenes Context & Solvers](https://diogenesgateway.com/#context-code-solver) `https://diogenesgateway.com/mcp/context-code-solver`
+  [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp)
+  🔓 - AST skeleton pruner, fuzzy code patcher, BPE token budgeter, and seeded Monte Carlo risk simulator.
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
