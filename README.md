@@ -2649,6 +2649,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HAIDAA](https://haidaa.com/mcp) `https://mcp.haidaa.com/mcp`
   [![HAIDAA MCP connector](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa/badges/score.svg)](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa)
   🔓 - Search signed scientific claims, methods, provenance, contradictions, retractions, and admission receipts.
+- [Hebby Memories](https://www.hebby-memories.com/en/) `https://mcp.app.hebby-memories.com/mcp`
+  [![Hebby Memories MCP connector](https://glama.ai/mcp/connectors/com.hebby-memories/hebby/badges/score.svg)](https://glama.ai/mcp/connectors/com.hebby-memories/hebby)
+  🔐 - Long-term memory for AI agents: search, store and link decisions, facts and tasks in a shared graph memory.
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
