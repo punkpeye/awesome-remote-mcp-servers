@@ -2858,6 +2858,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Precleared](https://precleared.dev) `https://precleared.dev/mcp`
   [![Precleared MCP connector](https://glama.ai/mcp/connectors/dev.precleared/contact-check/badges/score.svg)](https://glama.ai/mcp/connectors/dev.precleared/contact-check)
   🔓 - Checks if a cold marketing email to one address is allowed under UK, US, Canadian, German or French law, with a receipt.
+- [Probative legal-marketing data](https://probativegrowth.com/resources/rules-api/) `https://probativegrowth.com/mcp`
+  [![Probative legal-marketing data MCP connector](https://glama.ai/mcp/connectors/com.probativegrowth/legal-marketing-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.probativegrowth/legal-marketing-data)
+  🔓 - Read-only US lawyer advertising rules for 50 states and DC, bar ad-filing fees, fee caps, ethics opinions, MDLs.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
