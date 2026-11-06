@@ -3178,6 +3178,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Say It Again](https://sayitagain.ai/docs/api) `https://app.sayitagain.ai/mcp`
   [![Say It Again MCP connector](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain)
   🔐 - Read a store's product page, write 3 scripts and make an AI UGC video with a generated presenter.
+- [ScoreStory](https://www.scorestory.eu/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=listings-2026q4) `https://app.scorestory.eu/api/mcp`
+  [![ScoreStory MCP connector](https://glama.ai/mcp/connectors/eu.scorestory/scorestory/badges/score.svg)](https://glama.ai/mcp/connectors/eu.scorestory/scorestory)
+  🔐 - NPS, CSAT, CES and eNPS surveys with AI follow-up interviews: create surveys, invite participants and read results.
 - [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
   [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
   🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
