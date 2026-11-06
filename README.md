@@ -2325,6 +2325,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
+- [Vike Data API](https://vike.io/data/) `https://data.vike.io/mcp`
+  [![Vike Data API MCP connector](https://glama.ai/mcp/connectors/io.vike/data/badges/score.svg)](https://glama.ai/mcp/connectors/io.vike/data)
+  🔐 - Labelled on-chain wallets and tokens, Hyperliquid perps and wallet cohorts, and Polymarket markets and smart money.
 - [W System EU Business Data](https://wsystem.dev/eu-business-data-mcp-server) `https://api.wsystem.dev/mcp/`
   [![W System EU Business Data MCP connector](https://glama.ai/mcp/connectors/io.github.zifengw/eu-business-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zifengw/eu-business-data-mcp)
   🔓 - EU VAT (VIES), EORI, company registers, EU/UN/OFAC/UK sanctions, KYB and e-invoice checks; 20 free calls/day.
