@@ -4787,6 +4787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Car Rental Brain](https://carrentalbrain.com/ai/) `https://app.carrentalbrain.com/mcp`
   [![Car Rental Brain MCP connector](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain)
   🔓 - Real car-hire costs at 120+ airports: second-driver fees, deposits, debit cards, desk hours and desk excess cover.
+- [CheckFitment](https://checkfitment.com) `https://checkfitment.com/mcp`
+  [![CheckFitment MCP connector](https://glama.ai/mcp/connectors/com.checkfitment/checkfitment/badges/score.svg)](https://glama.ai/mcp/connectors/com.checkfitment/checkfitment)
+  🔓 - US wheel and tire fitment: bolt pattern, center bore, thread and lug torque by vehicle generation, each spec marked verified against manufacturer documents or flagged as a candidate, plus offset, spacer and gear-ratio maths.
 - [China Footnotes](https://chinafootnotes.com) `https://chinafootnotes.com/mcp`
   [![China Footnotes MCP connector](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes)
   🔓 - Sourced, dated travel facts for first-time visitors to China: hours, tickets, booking and passport notes.
