@@ -3402,6 +3402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cucutime](https://cucutime.org/developers) `https://cucutime.org/mcp`
   [![Cucutime MCP connector](https://glama.ai/mcp/connectors/org.cucutime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.cucutime/mcp)
   🔓 - Kids-song ideas, name song pages and CucuTime YouTube catalog search; an optional key adds AI songs for adult apps.
+- [CutPro](https://cut.pro/docs/api-reference/mcp) `https://mcp.cut.pro`
+  [![CutPro MCP connector](https://glama.ai/mcp/connectors/io.github.getcutpro/cutpro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getcutpro/cutpro)
+  🔐 - Make images and videos with Veo, Kling and Nano Banana, then post to TikTok, Instagram and YouTube via official APIs.
 - [CWI Discovery Engine](https://github.com/CumulativeWebInc/cwi-learn) `https://cwi-machine-data.hp-ace.workers.dev/mcp`
   [![CWI Discovery Engine MCP connector](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine)
   🔓 - Machine-readable catalog of the Cumulative Web Inc label: track search, sync briefs, live Radio 365, playlist pitching.
