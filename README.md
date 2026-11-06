@@ -3011,6 +3011,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
+- [Fictura](https://fictura.co) `https://mcp.fictura.co/mcp`
+  [![Fictura MCP connector](https://glama.ai/mcp/connectors/co.fictura/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.fictura/mcp)
+  🔓 🔑 🔐 - Paywalls, subscription analytics, A/B tests, attribution and crashes for Expo and React Native apps.
 - [fnlowl](https://fnlowl.com) `https://api.fnlowl.com/v1/mcp`
   [![fnlowl MCP connector](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl)
   🔓 - Manage website widgets, leads, email sequences and analytics; discovery is open, tool calls need a sign-in.
