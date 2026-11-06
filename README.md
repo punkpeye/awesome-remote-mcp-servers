@@ -428,6 +428,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
+- [Headshot Photo Check](https://profilfoto-ki.de) `https://mcp.profilfoto-ki.de/mcp`
+  🔓 - Technical checks and crop recommendations for professional profile and application photos.
 - [ImgVX AI](https://imgvx.com/mcp-server/) `https://imgvx.com/mcp`
   [![ImgVX AI MCP connector](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai)
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
@@ -2956,6 +2958,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Camberstack](https://camberstack.io) `https://camberstack.io/mcp`
   [![Camberstack MCP connector](https://glama.ai/mcp/connectors/io.camberstack/google-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.camberstack/google-ads)
   🔐 - Google Ads: checks conversion tracking, finds wasted spend, and applies only the changes you approve, with undo.
+- [Car Listing Check](https://aicarvideo.com) `https://mcp.aicarvideo.com/mcp`
+  🔓 - Score vehicle listing titles, descriptions and photo completeness for DE/US/UK markets.
 - [Caybl](https://caybl.ai) `https://api.caybl.ai/mcp`
   [![Caybl MCP connector](https://glama.ai/mcp/connectors/ai.caybl/caybl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.caybl/caybl)
   🔐 - Query GA4, Google Ads and Search Console: reports, funnels, search terms, keyword ideas and URL inspection.
