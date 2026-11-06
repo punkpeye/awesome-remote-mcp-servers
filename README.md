@@ -2530,6 +2530,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
+- [Findabis](https://findabis.com) `https://findabis.com/api/mcp`
+  [![Findabis MCP connector](https://glama.ai/mcp/connectors/com.findabis/findabis/badges/score.svg)](https://glama.ai/mcp/connectors/com.findabis/findabis)
+  🔓 - UK medical cannabis directory: clinics that prescribe, pharmacies that dispense, products and strains.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
