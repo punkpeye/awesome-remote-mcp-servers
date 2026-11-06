@@ -2858,6 +2858,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Precleared](https://precleared.dev) `https://precleared.dev/mcp`
   [![Precleared MCP connector](https://glama.ai/mcp/connectors/dev.precleared/contact-check/badges/score.svg)](https://glama.ai/mcp/connectors/dev.precleared/contact-check)
   🔓 - Checks if a cold marketing email to one address is allowed under UK, US, Canadian, German or French law, with a receipt.
+- [Rechtsklar24](https://rechtsklar24.de/ki-assistenten.html) `https://rechtsklar24.de/mcp`
+  [![Rechtsklar24 MCP connector](https://glama.ai/mcp/connectors/de.rechtsklar24/rechtsklar24/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechtsklar24/rechtsklar24)
+  🔓 - German online-shop law with sources: obligation dates (e.g. the EU withdrawal button), fine ceilings, unit-price calculation under the PAngV and sourced study figures; read-only.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
