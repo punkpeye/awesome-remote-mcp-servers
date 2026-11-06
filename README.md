@@ -4315,6 +4315,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rudow](https://rudow.ai) `https://mcp.rudow.ai/mcp`
   [![Rudow MCP connector](https://glama.ai/mcp/connectors/ai.rudow.mcp/rudow-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.rudow.mcp/rudow-mcp)
   🔑 - Query your app's logs, metrics and incidents, search logs by meaning, and drill into failing routes.
+- [Runheed](https://runheed.com/?ref=awesome-remote-mcp) `https://runheed.com/api/mcp`
+  [![Runheed MCP connector](https://glama.ai/mcp/connectors/com.runheed/runheed/badges/score.svg)](https://glama.ai/mcp/connectors/com.runheed/runheed)
+  🔐 - Production errors your coding agent can read: stack traces, breadcrumbs and request context; resolve with a note of the fix.
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
