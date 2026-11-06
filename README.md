@@ -4406,6 +4406,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NetAPI](https://netapi.com/help/mcp/) `https://mcp.netapi.com/mcp`
   [![NetAPI MCP connector](https://glama.ai/mcp/connectors/com.netapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.netapi/mcp)
   🔐 - Domain intelligence: compromised domain and IP checks, TLD stats, Top 1M ranks, new domains, registrars and DNS.
+- [Nightshift Agent Safety](https://github.com/nightshift-labs-ai/nightshift-x402) `https://nightshift-x402.nightshift-labs.workers.dev/mcp`
+  [![Nightshift Agent Safety MCP connector](https://glama.ai/mcp/connectors/dev.workers.nightshift-labs.nightshift-x402/agent-safety/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.nightshift-labs.nightshift-x402/agent-safety)
+  🔓 - Pre-checks before an agent acts: phishing links, Base token risk, EIP-712 permits, calldata decoding, wallet screening, DNS; $0.003–0.01 via x402.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
