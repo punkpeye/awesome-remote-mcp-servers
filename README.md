@@ -1464,6 +1464,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Brazil's Correios for merchants: shipping quotes (frete), parcel tracking (rastreio) and labels (etiqueta).
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
+- [Next Everything](https://nexteverything.io) `https://mcp.nexteverything.io/mcp`
+  [![Next Everything MCP connector](https://glama.ai/mcp/connectors/io.nexteverything/parts/badges/score.svg)](https://glama.ai/mcp/connectors/io.nexteverything/parts)
+  🔑 - Check a BOM against live JLCPCB, DigiKey and Mouser stock, find same-package alternatives and order the parts.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
