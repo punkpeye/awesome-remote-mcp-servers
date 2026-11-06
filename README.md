@@ -4708,6 +4708,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FastballAPI](https://fastballapi.com) `https://mcp.fastballapi.com/mcp`
   [![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
   🔓 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
+- [FighterAPI](https://fighterapi.com) `https://mcp.fighterapi.com/mcp`
+  [![FighterAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fighterapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fighterapi)
+  🔓 - UFC fights since 2000, plus PFL and Bellator: results, round stats, fighters and odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
