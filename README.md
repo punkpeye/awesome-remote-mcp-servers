@@ -3417,6 +3417,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FXI Studio](https://www.fxi.studio/mcp/info) `https://mcp.fxi.studio/mcp`
   [![FXI Studio MCP connector](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio)
   🔐 - Generate cinematic images and video clips and frame-chain shots into continuous motion, billed to your FXI credits.
+- [GetVidFB](https://getvidfb.com) `https://api.getvidfb.com/mcp`
+  [![GetVidFB MCP connector](https://glama.ai/mcp/connectors/com.getvidfb/downloader/badges/score.svg)](https://glama.ai/mcp/connectors/com.getvidfb/downloader)
+  🔑 - Direct download links for public Facebook videos and reels, TikTok videos without watermark, and Pinterest pins.
 - [Google Flow Agent MCP Server by useapi.net](https://useapi.net/docs/api-google-flow-v1/mcp) `https://api.useapi.net/v1/google-flow/mcp`
   [![Google Flow Agent MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/google-flow/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/google-flow)
   🔐 - Chat with Google Flow Agent: it plans and makes images and videos on your Google AI subscription. Not Google-affiliated.
@@ -3466,6 +3469,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Meta Muse MCP Server by useapi.net](https://useapi.net/docs/api-muse-v1/mcp) `https://api.useapi.net/v1/muse/mcp`
   [![Meta Muse MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/muse/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/muse)
   🔐 - Meta Muse (muse.ai) agent chat, images and 10-second videos with sound on your Muse subscription. Not Meta-affiliated.
+- [MiCompress](https://micompress.com/mcp-server) `https://micompress.com/mcp`
+  [![MiCompress MCP connector](https://glama.ai/mcp/connectors/com.micompress/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.micompress/mcp)
+  🔓 - Compress images, PDFs, video, audio and Office files from a URL and get a download link to the smaller file.
 - [MockClip](https://mockclip.com/integrations) `https://mockclip.com/api/mcp`
   [![MockClip MCP connector](https://glama.ai/mcp/connectors/com.mockclip/mockclip/badges/score.svg)](https://glama.ai/mcp/connectors/com.mockclip/mockclip)
   🔑 - Create fake chat and phone-screen videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit) as MP4.
