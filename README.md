@@ -4908,6 +4908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
   🔓 - Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.
+- [Stay Cost Brain](https://staycostbrain.com/ai/) `https://staycostbrain.com/mcp`
+  [![Stay Cost Brain MCP connector](https://glama.ai/mcp/connectors/com.staycostbrain/stay-cost-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.staycostbrain/stay-cost-brain)
+  🔓 - Tourist and hotel taxes for 71 places, from each authority's own pages, worked out per night for dates and guests.
 - [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
   [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
   🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
