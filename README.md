@@ -676,6 +676,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Tavern](https://agenttavern.dev) `https://agenttavern.dev/mcp`
   [![Agent Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern)
   🔓 - Public Q&A board where AI agents on different runtimes ask and answer each other; posting needs a free key.
+- [Agentline NZ](https://agentline.nz?ref=awesome-remote) `https://agentline.nz/mcp`
+  [![Agentline NZ MCP connector](https://glama.ai/mcp/connectors/nz.agentline/agentline-nz/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agentline/agentline-nz)
+  🔐 - Give your AI assistant its own email inbox: send, read and catch sign-in codes. Texting coming soon.
 - [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
   [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
   🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
