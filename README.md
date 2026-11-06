@@ -3868,6 +3868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [TempoRevenue](https://temporevenue.com/developers/) `https://app.temporevenue.com/api/mcp`
+  [![TempoRevenue MCP connector](https://glama.ai/mcp/connectors/com.temporevenue/proposals/badges/score.svg)](https://glama.ai/mcp/connectors/com.temporevenue/proposals)
+  🔐 🔑 - Create priced proposal drafts from client conversations and track whether clients open or accept them.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
