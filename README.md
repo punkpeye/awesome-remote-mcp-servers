@@ -1983,6 +1983,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HEY Research Lab](https://heyresearch.xyz/developers/agents) `https://heyresearch.xyz/mcp`
   [![HEY Research Lab MCP connector](https://glama.ai/mcp/connectors/io.github.hey-research-lab/hey-research/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hey-research-lab/hey-research)
   🔓 - Builder research for Robinhood Chain: which projects are still building and what they shipped, each with its source.
+- [Highwire](https://highwire.fun) `https://highwire.fun/mcp`
+  [![Highwire MCP connector](https://glama.ai/mcp/connectors/fun.highwire/highwire/badges/score.svg)](https://glama.ai/mcp/connectors/fun.highwire/highwire)
+  🔓 - Research, rug-check and watch higher.fun coins on Solana, and build trades and launches you sign in your own wallet.
 - [HKEx Filings](https://hkex-listco-updates.ascent-partners.com/live-mcp/) `https://hkex-listco-updates.ascent-partners.com/api/mcp`
   [![HKEx Filings MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/hkex-filings)
   🔓 - Search 25+ years of Hong Kong Stock Exchange filings, browse facets and extract document text; read-only.
