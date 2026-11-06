@@ -3633,6 +3633,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📋 <a name="project-management"></a>Project Management
 
+- [Addness](https://hp.addness.com/) `https://vt.api.addness.com/mcp`
+  [![Addness MCP connector](https://glama.ai/mcp/connectors/io.github.AddnessTech/addness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AddnessTech/addness)
+  🔐 - Company brain for teams and AI: read and write goals, to-dos, comments, and knowledge.
 - [AgileHero](https://agilehero.io) `https://mcp.agilehero.io/mcp`
   [![AgileHero MCP connector](https://glama.ai/mcp/connectors/io.agilehero/agilehero/badges/score.svg)](https://glama.ai/mcp/connectors/io.agilehero/agilehero)
   🔐 - Manage agile boards, epics, roadmaps, retrospectives, whiteboards, and wiki pages.
