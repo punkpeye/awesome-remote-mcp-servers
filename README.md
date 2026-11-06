@@ -5106,6 +5106,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
+- [ScreenVerb](https://screenverb.com/docs/mcp) `https://mcp.screenverb.com/mcp`
+  [![ScreenVerb MCP connector](https://glama.ai/mcp/connectors/com.screenverb/screenverb/badges/score.svg)](https://glama.ai/mcp/connectors/com.screenverb/screenverb)
+  🔐 - Search, read, rename and remove the screenshots in your ScreenVerb library, including the text inside them.
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
