@@ -3178,6 +3178,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Say It Again](https://sayitagain.ai/docs/api) `https://app.sayitagain.ai/mcp`
   [![Say It Again MCP connector](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain)
   🔐 - Read a store's product page, write 3 scripts and make an AI UGC video with a generated presenter.
+- [Schedchie](https://www.schedchie.com/ai) `https://mcp.schedchie.com/mcp`
+  [![Schedchie MCP connector](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie)
+  🔐 - Schedule, publish and track posts on 13 social networks, read analytics and run team approvals.
+
 - [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
   [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
   🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
