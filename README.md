@@ -1020,9 +1020,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
-- [BlockVectra](https://blockvectra.com) `https://docs.blockvectra.com/mcp`
-  [![BlockVectra MCP connector](https://glama.ai/mcp/connectors/com.blockvectra/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.blockvectra/docs)
-  🔓 - Docs, chains, pricing and public EVM RPC reads without a key; indexed data and account tools require an API key.
+- [BlockVectra Docs](https://blockvectra.com) `https://docs.blockvectra.com/mcp/docs`
+  [![BlockVectra Docs MCP connector](https://glama.ai/mcp/connectors/com.blockvectra/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.blockvectra/docs)
+  🔓 - Search and read Robinhood Chain and EVM API documentation; no API key or local install.
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
   [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
   🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
