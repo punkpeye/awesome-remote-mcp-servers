@@ -2548,6 +2548,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Peptide Library](https://peptidelibrary.app/developers/mcp) `https://peptidelibrary.app/mcp`
   [![Peptide Library MCP connector](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library/badges/score.svg)](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library)
   🔓 - Peptide research profiles with evidence by study type, comparisons, educational search and unit math.
+- [Pflegegradpunkte](https://pflegegradpunkte.de/ki-assistenten.html) `https://pflegegradpunkte.de/mcp`
+  [![Pflegegradpunkte MCP connector](https://glama.ai/mcp/connectors/de.pflegegradpunkte/pflegegradpunkte/badges/score.svg)](https://glama.ai/mcp/connectors/de.pflegegradpunkte/pflegegradpunkte)
+  🔓 - German care grade (Pflegegrad 1-5) estimate under SGB XI: the official assessment questions, points per module and the resulting grade, plus sourced facts on benefits and deadlines; read-only.
 - [Phi Longevity PRISM](https://philongevity.com/for-agents) `https://philongevity.com/mcp?src=awesome`
   [![Phi Longevity PRISM MCP connector](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism)
   🔓 - Guideline-cited lab-results analysis for chronic conditions; flags missing or overdue tests with citations.
