@@ -2082,6 +2082,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiningBridge Intelligence](https://intel.miningbridge.in/connect) `https://intel.miningbridge.in/api/mcp`
   [![MiningBridge Intelligence MCP connector](https://glama.ai/mcp/connectors/in.miningbridge/intel/badges/score.svg)](https://glama.ai/mcp/connectors/in.miningbridge/intel)
   🔐 - Critical minerals and rare earths: supply risk, trade flows, export controls, counterparties and patent R&D.
+- [mkts Market Data](https://mkts.io/developers) `https://mkts.io/api/mcp`
+  [![mkts Market Data MCP connector](https://glama.ai/mcp/connectors/io.mkts/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.mkts/market-data)
+  🔓 - Stocks, ETFs, crypto, commodities and forex: quotes, fundamentals, SEC filings, screening and a point-in-time archive.
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
