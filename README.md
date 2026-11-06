@@ -1602,8 +1602,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Boncourant MCP connector](https://glama.ai/mcp/connectors/fr.boncourant/boncourant/badges/score.svg)](https://glama.ai/mcp/connectors/fr.boncourant/boncourant)
   🔓 - French electricity bill and contract audits, tariff and subscribed-power checks, with versioned, cited methods.
 - [Cigo Aircare & Carsafe](https://cigo-mcp-system-wzoy.onrender.com/docs) `https://cigo-mcp-system-wzoy.onrender.com/mcp/?source=awesome-remote`
-  [![Cigo Aircare & Carsafe MCP connector](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp)
-  🔓 - HVAC filter specifications and power comparisons, vehicle cabin filter matching, and regional air-quality guidance.
+  [![Cigo Aircare and Carsafe MCP connector](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp)
+  🔓 - Carsafe vehicle matching and purchase links, HVAC specifications and power comparisons, and confirmed B2B inquiries.
 - [Criora](https://criora.com) `https://criora.com/mcp`
   [![Criora MCP connector](https://glama.ai/mcp/connectors/com.criora/criora/badges/score.svg)](https://glama.ai/mcp/connectors/com.criora/criora)
   🔓 - Climate and disaster risk for any place: nearby hazards, 7-day weather risk, climate to 2080, country risk, risk map.
