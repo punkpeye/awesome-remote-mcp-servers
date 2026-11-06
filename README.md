@@ -3041,6 +3041,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hermoso](https://hermoso.ai) `https://app.hermoso.ai/mcp`
   [![Hermoso MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso)
   🔓 - Research competitor ads, generate image and video ads, schedule social posts and run paid ad campaigns.
+- [Hermoso: Ads Manager](https://hermoso.ai/mcp/) `https://app.hermoso.ai/mcp?tools=app-ads`
+  [![Hermoso: Ads Manager MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso-ads-manager/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso-ads-manager)
+  🔐 - Run paid campaigns on 11 ad networks and read Google Analytics, Search Console and other site analytics.
+- [Hermoso: AI Ad Generator](https://hermoso.ai/mcp/) `https://app.hermoso.ai/mcp?tools=app-create`
+  [![Hermoso: AI Ad Generator MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso-ai-ad-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso-ai-ad-generator)
+  🔐 - Make on-brand image and video ads and research the ads competitors are running.
+- [Hermoso: Social Media Manager](https://hermoso.ai/mcp/) `https://app.hermoso.ai/mcp?tools=app-social`
+  [![Hermoso: Social Media Manager MCP connector](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso-social-media-manager/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hermoso-ai/hermoso-social-media-manager)
+  🔐 - Post and schedule to 15 social channels and answer comments, DMs and reviews from one inbox.
 
 - [How It Spread](https://howitspread.com/mcp) `https://howitspread.com/api/mcp`
   [![How It Spread MCP connector](https://glama.ai/mcp/connectors/com.howitspread/howitspread/badges/score.svg)](https://glama.ai/mcp/connectors/com.howitspread/howitspread)
