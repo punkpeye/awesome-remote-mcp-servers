@@ -1907,6 +1907,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
+- [Era Context](https://era.app/context) `https://context.era.app/mcp`
+  [![Era Context MCP connector](https://glama.ai/mcp/connectors/app.era/context/badges/score.svg)](https://glama.ai/mcp/connectors/app.era/context)
+  🔐 - Ask an AI assistant about your balances, spending, recurring charges and forecasts from accounts you connect.
 
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
