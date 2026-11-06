@@ -2250,6 +2250,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SwapWallet](https://swapwallet.app/docs/mcp) `https://swapwallet.app/mcp`
   [![SwapWallet MCP connector](https://glama.ai/mcp/connectors/app.swapwallet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.swapwallet/mcp)
   🔐 - Read balances, P&L and history; request swaps, transfers and withdrawals that the user approves in Telegram.
+- [Swiftedge](https://swiftedge.uk/developers) `https://swiftedge.uk/mcp`
+  [![Swiftedge order flow MCP connector](https://glama.ai/mcp/connectors/uk.swiftedge/orderflow/badges/score.svg)](https://glama.ai/mcp/connectors/uk.swiftedge/orderflow)
+  🔓 - Live order flow for Bitcoin, gold, US 500 and 6 more markets: order book walls, liquidity, funding and large trades.
 - [Synci](https://synci.io) `https://api.synci.io/mcp`
   [![Synci MCP connector](https://glama.ai/mcp/connectors/io.synci/synci/badges/score.svg)](https://glama.ai/mcp/connectors/io.synci/synci)
   🔐 - Read-only bank, brokerage and crypto accounts: balances, transactions, holdings and connection health.
