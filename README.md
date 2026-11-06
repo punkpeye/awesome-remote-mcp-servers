@@ -572,6 +572,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Shotkiln MCP connector](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln/badges/score.svg)](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln)
   🔓 - Screenshot pages as PNG, JPEG or WebP, render a URL or HTML to PDF, and make 1200x630 OG images; key optional.
 
+- [Signal Desk](https://x402-mcp.huntercarver24.workers.dev) `https://x402-mcp.huntercarver24.workers.dev/mcp`
+  [![Signal Desk MCP connector](https://glama.ai/mcp/connectors/io.github.huntercarver24/signal-desk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.huntercarver24/signal-desk)
+  🔓 - Render a page to Markdown, PNG or PDF, host a file, schedule a callback, read pump.fun launches and trends; x402.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
