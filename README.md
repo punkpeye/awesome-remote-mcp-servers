@@ -3825,6 +3825,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [Datahyena](https://datahyena.com/mcp) `https://api.datahyena.com/mcp`
+  [![Datahyena MCP connector](https://glama.ai/mcp/connectors/com.datahyena/signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.datahyena/signals)
+  🔐 - Funding rounds, acquisitions, executive moves and hiring signals, deduplicated and resolved to one company.
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
@@ -4099,6 +4102,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
   [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
   🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
+- [Hydrafetch](https://hydrafetch.com/mcp) `https://api.hydrafetch.com/mcp`
+  [![Hydrafetch MCP connector](https://glama.ai/mcp/connectors/com.hydrafetch/web/badges/score.svg)](https://glama.ai/mcp/connectors/com.hydrafetch/web)
+  🔐 - Turn any URL into clean Markdown and structured data: scrape, crawl, search and extract with one API.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
