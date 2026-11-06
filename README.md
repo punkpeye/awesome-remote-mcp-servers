@@ -5172,6 +5172,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
+- [Date Calculator](https://onlinealarmkur.com/date/en/) `https://mcp.onlinealarmkur.com/`
+  [![Date Calculator MCP connector](https://glama.ai/mcp/connectors/com.onlinealarmkur/date-calculator-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onlinealarmkur/date-calculator-mcp)
+  🔓 - Calculate date differences and working days, shift dates, and look up public holidays by country or region.
 - [Dollea Salon](https://www.dollea.de/agents/?language=en) `https://www.dollea.de/mcp/salon`
   [![Dollea Salon MCP connector](https://glama.ai/mcp/connectors/de.dollea/salon/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/salon)
   🔓 - Public beauty service catalog and slots in Munich; OAuth for booking and private appointments.
