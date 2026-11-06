@@ -985,6 +985,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agent-manager Docs](https://agent-manager.dev) `https://agent-manager.dev/mcp`
   [![agent-manager Docs MCP connector](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YoanWai/agent-manager-docs)
   🔓 - Search and read the agent-manager docs, list its supported coding CLIs, and get the latest release.
+- [Agenterm](https://github.com/Heming9/agenterm/blob/main/docs/usage.md#connect-your-agent) `https://agenterm.net/mcp`
+  [![Agenterm MCP connector](https://glama.ai/mcp/connectors/net.agenterm/agenterm/badges/score.svg)](https://glama.ai/mcp/connectors/net.agenterm/agenterm)
+  🔓 - Create remote terminal invitations, execute commands, and manage interactive sessions on authorized computers.
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Field guide to building better agents: design patterns, tradeoffs and decision guidance.
