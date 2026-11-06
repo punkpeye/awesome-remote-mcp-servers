@@ -5058,6 +5058,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MagicInterview](https://magicinterview.app) `https://magicinterview.app/mcp`
   [![MagicInterview MCP connector](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview)
   🔐 - Live AI suggestions for interviews, client calls, and meetings, with reusable context and conversation management.
+- [ManaWG](https://manawg.com) `https://mcp.manawg.com/mcp`
+  [![ManaWG MCP connector](https://glama.ai/mcp/connectors/com.manawg/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.manawg/mcp)
+  🔐 - Manage a shared flat: expenses and balances, cleaning rota, shopping list, calendar, notice board and chat.
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
