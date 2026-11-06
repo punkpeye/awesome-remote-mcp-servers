@@ -4189,6 +4189,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Quant Agent Shop](https://quantagentshop.com) `https://quantagentshop.com/mcp`
   [![Quant Agent Shop MCP connector](https://glama.ai/mcp/connectors/com.quantagentshop/web-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.quantagentshop/web-tools)
   🔓 - Web search, pages as Markdown, cited answers and PDF creation; pay per call in USDC on Base via x402, no account.
+- [QuanticData](https://quanticdata.io/mcp-server/) `https://api.quanticdata.io/mcp`
+  [![QuanticData MCP connector](https://glama.ai/mcp/connectors/io.github.quantumproxies/quanticdata-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quantumproxies/quanticdata-mcp)
+  🔐 - Web search, page scraping to Markdown, site crawl and map, and ready-made collectors for common sites.
 - [Ragfeed](https://ragfeed.de/claude) `https://api.ragfeed.de/mcp`
   [![Ragfeed MCP connector](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed)
   🔐 - Web pages, PDFs and search results as LLM-ready Markdown or vector-DB chunks; Firecrawl-compatible API.
