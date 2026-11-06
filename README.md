@@ -3351,6 +3351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
+- [Sazabi](https://www.sazabi.com) `https://mcp.sazabi.com/mcp`
+  [![Sazabi MCP connector](https://glama.ai/mcp/connectors/com.sazabi.mcp/sazabi/badges/score.svg)](https://glama.ai/mcp/connectors/com.sazabi.mcp/sazabi)
+  🔐 - Search production logs in plain language, investigate issues and read dashboards in your Sazabi workspace.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
@@ -4343,6 +4346,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
   [![CVE Risk Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/cve/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/cve)
   🔓 - Checks CVEs and dependency lists against OSV, NVD, EPSS and CISA KEV, and ranks what to fix first.
+- [cve.now](https://cve.now) `https://mcp.cve.now/mcp`
+  [![cve.now MCP connector](https://glama.ai/mcp/connectors/now.cve.mcp/cvenow/badges/score.svg)](https://glama.ai/mcp/connectors/now.cve.mcp/cvenow)
+  🔓 - Look up any CVE, GHSA or OSV id, read filtered vulnerability feeds, and check a lockfile for known vulns.
 - [Datakoot Domain & Company](https://datakoot.com/domain-company) `https://domain.datakoot.com/mcp`
   [![Datakoot Domain & Company MCP connector](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois)
   🔓 - Domain recon: RDAP registration, DNS, SPF/DMARC deliverability, tech stack and subdomains from CT logs.
