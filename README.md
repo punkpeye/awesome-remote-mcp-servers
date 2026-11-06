@@ -2159,6 +2159,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions.
 - [Quidli Connect](https://connect.quid.li) `https://mcp.connect.quid.li`
   🔓 - Resolve social handles to EVM and Solana wallets, score onchain reputation and send USDC.
+- [QuoteBill](https://quotebill.com) `https://quotebill.com/mcp`
+  [![QuoteBill MCP connector](https://glama.ai/mcp/connectors/io.github.auto1225/quotebill/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.auto1225/quotebill)
+  🔐 - Quotations, invoices and eight other documents, with tax rules for 195 countries and a link to the result.
 - [Radicado Uno](https://radicadouno.co/mcp) `https://mcp.radicadouno.co/mcp`
   [![Radicado Uno MCP connector](https://glama.ai/mcp/connectors/co.radicadouno/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.radicadouno/mcp)
   🔓 - Colombian company and procurement data by NIT (registry, contracts, sanctions). Free lookup; data tools need a key.
