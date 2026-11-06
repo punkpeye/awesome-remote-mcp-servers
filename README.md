@@ -4204,6 +4204,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
+- [RoleWeek](https://roleweek.com/mcp/) `https://roleweek.com/api/mcp?src=mcp-awesome`
+  [![RoleWeek MCP connector](https://glama.ai/mcp/connectors/com.roleweek/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.roleweek/jobs)
+  🔓 - Developer roles posted in the last 7 days in 35 US and Canadian metros plus remote, with posted salaries. No sign-in.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
   🔓 - AI-industry news as deduplicated, classified events; a free key unlocks listing, search and archive.
