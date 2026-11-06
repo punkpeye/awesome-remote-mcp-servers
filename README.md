@@ -2067,6 +2067,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Marcel Retraite MCP connector](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel/badges/score.svg)](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel)
   🔓 - Deterministic, sourced French tax and retirement calculations; information only, not advice.
 
+- [Market Eyes Live](https://marketeyeslive.com/mcp-server) `https://marketeyeslive.com/mcp`
+  [![Market Eyes Live MCP connector](https://glama.ai/mcp/connectors/io.github.marketeyeslive/market-eyes-live/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marketeyeslive/market-eyes-live)
+  🔓 - MELANY ratings for 11,000+ U.S. stocks and ETFs, plus a daily U.S. mortgage-rate read; free and read-only.
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
