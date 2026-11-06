@@ -3172,6 +3172,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
+- [Rillow](https://rillow.ai/seo-mcp-server) `https://rillow.ai/mcp`
+  [![Rillow MCP connector](https://glama.ai/mcp/connectors/ai.rillow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.rillow/mcp)
+  🔐 - Keyword data, Google's top 10 pages, a content plan and daily rank tracking for your agent's SEO work.
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
