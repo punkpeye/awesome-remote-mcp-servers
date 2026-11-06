@@ -798,6 +798,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [voicehook](https://voicehook.ai/?utm_source=awesome-remote-mcp&utm_campaign=d13-remote-list) `https://voicehook.ai/mcp`
   [![voicehook MCP connector](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook)
   🔓 - Talk with your agents: a voice call in the browser that your agent can start or join.
+- [VoixCall](https://voixcall.com/developers/mcp) `https://api.voixcall.com/mcp`
+  [![VoixCall MCP connector](https://glama.ai/mcp/connectors/com.voixcall/voixcall/badges/score.svg)](https://glama.ai/mcp/connectors/com.voixcall/voixcall)
+  🔐 - Phone calls to 160+ countries: rates, balance, call history, AI call summaries, texts, and placing calls.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
