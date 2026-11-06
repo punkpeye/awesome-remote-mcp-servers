@@ -4147,6 +4147,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Online Web Directory](https://onlinewebdirectory.net) `https://onlinewebdirectory.net/mcp`
   [![Online Web Directory MCP connector](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry/badges/score.svg)](https://glama.ai/mcp/connectors/net.onlinewebdirectory/registry)
   🔓 - How websites treat AI agents: bot walls, JavaScript needs, robots rules and llms.txt, before you fetch.
+- [OpenApps](https://theopenapps.com?ref=plugin-stack) `https://theopenapps.com/mcp`
+  [![OpenApps MCP connector](https://glama.ai/mcp/connectors/com.theopenapps/openapps/badges/score.svg)](https://glama.ai/mcp/connectors/com.theopenapps/openapps)
+  🔓 🔐 - Rankings, launches and featuring across the ChatGPT, Claude, Cursor and Grok Bot app stores.
+
 - [OpenCityRecord](https://opencityrecord.org/mcp) `https://mcp.opencityrecord.org/mcp`
   [![OpenCityRecord MCP connector](https://glama.ai/mcp/connectors/org.opencityrecord/opencity/badges/score.svg)](https://glama.ai/mcp/connectors/org.opencityrecord/opencity)
   🔐 - Search U.S. city council meetings, votes, and documents, with citations to the official record.
