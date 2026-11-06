@@ -5046,6 +5046,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JustFill](https://justfill.app/mcp) `https://justfill.app/api/mcp`
   [![JustFill MCP connector](https://glama.ai/mcp/connectors/io.github.mrmaciej1/justfill-pdf-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrmaciej1/justfill-pdf-forms)
   🔐 - Detect, review, and fill existing PDF forms (including flat or scanned PDFs) from JSON or saved templates.
+- [Karma Compass](https://compass.karmahq.org) `https://nonprofitsapi.karmahq.org/mcp`
+  [![Karma Compass MCP connector](https://glama.ai/mcp/connectors/io.github.maheshmurthy/karma-compass/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.maheshmurthy/karma-compass)
+  🔐 - Manage nonprofit board meetings, agendas, minutes, motions and action items for boards and committees.
 - [KDAN PDF](https://pdf-reader.kdandoc.com/products/mcp/claude) `https://mcp.kdandoc.com/mcp`
   [![KDAN PDF MCP connector](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp)
   🔓 - Compress, delete pages, redact PII, compare versions, and add or remove password protection on PDFs.
