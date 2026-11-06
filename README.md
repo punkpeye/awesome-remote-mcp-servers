@@ -3508,6 +3508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScreenWeaver](https://www.screenweaver.ai/mcp) `https://app.screenweaver.ai/api/mcp`
   [![ScreenWeaver MCP connector](https://glama.ai/mcp/connectors/ai.screenweaver/screenweaver/badges/score.svg)](https://glama.ai/mcp/connectors/ai.screenweaver/screenweaver)
   🔐 - Write and edit screenplays, import Final Draft or Fountain scripts and turn scenes or comic pages into storyboard shots.
+- [SecretVoice](https://secretvoice.dev/mcp) `https://api.secretvoice.dev/mcp`
+  [![SecretVoice MCP connector](https://glama.ai/mcp/connectors/dev.secretvoice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.secretvoice/mcp)
+  🔐 - Intimate voice AI: 29 voices, 22 languages, emoji vocal cues (👂 whisper, 😮‍💨 sigh, 🌬️ breathless) and multi-voice scenes.
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
