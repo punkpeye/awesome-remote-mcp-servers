@@ -3345,6 +3345,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Query AI agent traces, errors, cost and alerts, compare agent versions, and manage alert rules.
 - [Rootly](https://rootly.com) `https://mcp.rootly.com/mcp`
   🔐 - Manage Rootly incidents, alerts, and on-call schedules.
+- [Runheed](https://runheed.com/?ref=awesome-remote-mcp) `https://runheed.com/api/mcp`
+  [![Runheed MCP connector](https://glama.ai/mcp/connectors/com.runheed/runheed/badges/score.svg)](https://glama.ai/mcp/connectors/com.runheed/runheed)
+  🔐 - Production errors your coding agent can read: stack traces, breadcrumbs and request context; resolve with a note of the fix.
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
