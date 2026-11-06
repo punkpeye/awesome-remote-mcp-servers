@@ -269,6 +269,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Account Index](https://agent-account-index.vercel.app) `https://agent-account-index.vercel.app/mcp`
   [![Agent Account Index MCP connector](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index)
   🔓 - Says whether a service's terms let an AI agent hold an account, and who answers for it.
+- [Agent Bounty Feed](https://dailydollar-bot.github.io/agent-bounty-feed/) `https://agent-bounty-feed.dailydollar.workers.dev/mcp`
+  [![Agent Bounty Feed MCP connector](https://glama.ai/mcp/connectors/io.github.dailydollar-bot/agent-bounty-feed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dailydollar-bot/agent-bounty-feed)
+  🔓 - Find open, paid bounties for AI agents across boards and Algora, re-verified hourly with requirements and payout records.
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
