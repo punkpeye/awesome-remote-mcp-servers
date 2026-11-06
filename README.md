@@ -2928,6 +2928,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [AI Visibility Tracker](https://apify.com/gaelasao/ai-visibility-tracker) `https://mcp.apify.com/?tools=gaelasao/ai-visibility-tracker`
+  [![AI Visibility Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/ai-visibility-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/ai-visibility-tracker)
+  🔐 - Whether ChatGPT, Perplexity, Gemini and Google AI answers mention and cite your brand, with share of voice.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
