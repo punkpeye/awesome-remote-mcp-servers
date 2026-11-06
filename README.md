@@ -2738,6 +2738,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scento Perfume API (MCP server)](https://www.scento.com/developers/perfume-mcp-server) `https://www.scento.com/mcp`
   [![Scento Perfume API MCP connector](https://glama.ai/mcp/connectors/com.scento/perfume-compendium/badges/score.svg)](https://glama.ai/mcp/connectors/com.scento/perfume-compendium)
   🔓 - Perfume portraits, raw materials, scent pairings and occasion edits, with a scento.com page on every answer.
+- [Screvi](https://screvi.com/mcp) `https://api.screvi.com/mcp`
+  [![Screvi MCP connector](https://glama.ai/mcp/connectors/com.screvi/screvi/badges/score.svg)](https://glama.ai/mcp/connectors/com.screvi/screvi)
+  🔐 - Search and organize your reading library of highlights, saved articles, notes and tags.
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
