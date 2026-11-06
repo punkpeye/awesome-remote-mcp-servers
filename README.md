@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Flavo](https://flavo.ai/developers/mcp) `https://flavo.ai/mcp`
+  [![Flavo MCP connector](https://glama.ai/mcp/connectors/ai.flavo/flavo-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.flavo/flavo-ai)
+  🔐 - Designs websites and apps like a dedicated designer: several finished designs, then build and host them on Flavo.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
