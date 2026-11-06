@@ -3759,6 +3759,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [FactLot](https://factlot.com) `https://api.factlot.com/mcp`
+  [![FactLot MCP connector](https://glama.ai/mcp/connectors/io.github.9mp96ygnbk-alt/factlot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.9mp96ygnbk-alt/factlot)
+  🔓 - Commercial real estate calculators with audit trails and formula IDs, plus parcel and entity IDs and fact validation.
 - [GigNGo](https://gigngo.org/mcp-server) `https://gigngo.org/mcp`
   [![GigNGo MCP connector](https://glama.ai/mcp/connectors/org.gigngo/gigngo/badges/score.svg)](https://glama.ai/mcp/connectors/org.gigngo/gigngo)
   🔓 - Find US locals for home jobs and errands, watch videos of their real work, and draft a job post the person reviews.
