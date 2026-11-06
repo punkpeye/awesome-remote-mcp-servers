@@ -2777,6 +2777,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WhiteMagic](https://www.whitemagic.dev) `https://mcp.whitemagic.dev/mcp`
   [![WhiteMagic MCP connector](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp)
   🔓 - Local-first agent memory and session continuity: durable recall, handoffs, and signed continuity receipts.
+- [WhyVault](https://whyvault.io) `https://mcp.whyvault.io`
+  [![WhyVault MCP connector](https://glama.ai/mcp/connectors/io.whyvault/vault/badges/score.svg)](https://glama.ai/mcp/connectors/io.whyvault/vault)
+  🔐 - Shared Markdown memory that Claude, ChatGPT, Cursor and other assistants read and write, hosted in the EU.  
 - [WITAN Markets](https://witan.markets) `https://witan.markets/mcp`
   [![WITAN Markets MCP connector](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan)
   🔓 - Agents buy what search can't find: measured knowledge and data its sellers hold the rights to, paid via x402.
