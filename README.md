@@ -3856,6 +3856,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Quibbly](https://quibbly.co/linkedin-mcp) `https://server.quibbly.co/mcp`
   [![Quibbly MCP connector](https://glama.ai/mcp/connectors/co.quibbly/linkedin-inbox/badges/score.svg)](https://glama.ai/mcp/connectors/co.quibbly/linkedin-inbox)
   🔐 - Read your LinkedIn inbox, see who watched your videos, set follow-ups and draft replies you send yourself.
+- [QuotedPart](https://quotedpart.com/capabilities/mcp-server) `https://quotedpart.com/mcp`
+  [![QuotedPart MCP connector](https://glama.ai/mcp/connectors/io.github.Helios-One-Oy/quotedpart/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Helios-One-Oy/quotedpart)
+  🔐 - Price CNC and sheet metal parts from STEP models or PDF drawings at a job shop's own rates and save draft quotes.
 - [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
   [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
   🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
