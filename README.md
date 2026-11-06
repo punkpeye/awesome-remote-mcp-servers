@@ -1938,6 +1938,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Floatout](https://floatout.xyz) `https://floatout.xyz/api/mcp`
   [![Floatout MCP connector](https://glama.ai/mcp/connectors/xyz.floatout/floatout/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.floatout/floatout)
   🔓 - Read Floatout launch plans, guides, and Hyperliquid builder-fee research.
+- [FloorFeed](https://floorfeed.io/mcp) `https://floorfeed.io/api/mcp`
+  [![FloorFeed MCP connector](https://glama.ai/mcp/connectors/io.floorfeed/floorfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.floorfeed/floorfeed)
+  🔐 - NFT floors, sales, trader profit and live mints on 12 networks; prepares trades you sign in your own wallet.
 - [FLOPS Index](https://app.flopsindex.com/i/) `https://app.flopsindex.com/mcp`
   [![FLOPS Index MCP connector](https://glama.ai/mcp/connectors/com.flopsindex.app/flopsindex-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.flopsindex.app/flopsindex-mcp)
   🔓 - Indicative GPU rental reference prices (spot, on-demand, DePIN), refreshed every 6 hours, each with a verify URL.
