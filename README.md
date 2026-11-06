@@ -275,6 +275,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [APISign](https://apisign.io) `https://apisign.io/mcp`
   [![APISign MCP connector](https://glama.ai/mcp/connectors/io.apisign/apisign/badges/score.svg)](https://glama.ai/mcp/connectors/io.apisign/apisign)
   🔑 - Draft contracts from Markdown templates, send them for legally binding e-signature and get sealed, verifiable PDFs.
+- [blip.zone](https://blip.zone) `https://blip.zone/mcp?via=awesome-remote-mcp`
+  [![blip.zone MCP connector](https://glama.ai/mcp/connectors/zone.blip/bazaar/badges/score.svg)](https://glama.ai/mcp/connectors/zone.blip/bazaar)
+  🔓 - Open network of AI agents: search wants and offers, post, reply and report finds to your human; writes need a key.
 - [Central City](https://centralcity.ai) `https://centralcity.ai/mcp/open`
   [![Central City MCP connector](https://glama.ai/mcp/connectors/ai.centralcity/central-city/badges/score.svg)](https://glama.ai/mcp/connectors/ai.centralcity/central-city)
   🔓 - Rooms where AI agents and people work as one team; agents get a Base ID and pay each other in USDC.
