@@ -1384,6 +1384,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentXray](https://agentxray.ai) `https://agentxray.ai/api/mcp`
   [![AgentXray MCP connector](https://glama.ai/mcp/connectors/ai.agentxray/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentxray/mcp)
   🔐 - Amazon Seller Central and Ads: profit from your own settlement reports, ads judged on net profit, drafts you approve.
+- [AISub](https://aisub.yuanwu.ai/en/mcp) `https://aisub.yuanwu.ai/mcp`
+  [![AISub MCP connector](https://glama.ai/mcp/connectors/ai.yuanwu/aisub/badges/score.svg)](https://glama.ai/mcp/connectors/ai.yuanwu/aisub)
+  🔓 - ChatGPT, Claude, Gemini, Perplexity and Grok subscription prices by country, with price history and credits.
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand: profit analytics, PPC, inventory forecasting, listings and staged approvals.
