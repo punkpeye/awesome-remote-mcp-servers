@@ -1330,6 +1330,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
+- [uibrik](https://uibrik.com/docs/mcp) `https://uibrik.com/mcp`
+  [![uibrik MCP connector](https://glama.ai/mcp/connectors/com.uibrik/components/badges/score.svg)](https://glama.ai/mcp/connectors/com.uibrik/components)
+  🔓 - Search 267 animated React components and get their props and source to install with the shadcn CLI.
 - [Use This Skill](https://usethisskill.com) `https://usethisskill.com/mcp`
   [![Use This Skill MCP connector](https://glama.ai/mcp/connectors/com.usethisskill/skills/badges/score.svg)](https://glama.ai/mcp/connectors/com.usethisskill/skills)
   🔓 - Search 1,967 agent skills, read side-by-side proofs, and check any skill for risky patterns.
