@@ -1467,6 +1467,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
+- [Nova Analytics](https://novadata.io/amazon-mcp-server) `https://mcp.novadata.io/api/mcp`
+  [![Nova Analytics MCP connector](https://glama.ai/mcp/connectors/io.novadata/amazon-seller/badges/score.svg)](https://glama.ai/mcp/connectors/io.novadata/amazon-seller)
+  🔐 - Amazon Seller Central, Vendor Central, Ads and DSP: profit after every fee and your costs, across 23 marketplaces.
 - [Nuira](https://nuira.ai) `https://api.nuira.ai/mcp`
   [![Nuira MCP connector](https://glama.ai/mcp/connectors/ai.nuira/nuira/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nuira/nuira)
   🔐 - Profit-aware ecommerce analytics for Shopify brands: revenue, margin, ad spend, ROAS and ranked growth recommendations.
