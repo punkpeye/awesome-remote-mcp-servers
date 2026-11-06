@@ -499,6 +499,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScoreLook](https://scorelook.fr/scorelook-mcp) `https://scorelook.fr/mcp`
   [![ScoreLook MCP connector](https://glama.ai/mcp/connectors/fr.scorelook/capucine/badges/score.svg)](https://glama.ai/mcp/connectors/fr.scorelook/capucine)
   🔓 - French AI stylist: sourced outfit answers, piece hubs, shopping criteria and weather looks.
+- [Screenrove](https://screenrove.com/agents) `https://screenrove.com/mcp`
+  [![Screenrove MCP connector](https://glama.ai/mcp/connectors/com.screenrove/screenrove/badges/score.svg)](https://glama.ai/mcp/connectors/com.screenrove/screenrove)
+  🔓 - Real product UI from 30+ products (onboarding, signed-in flows, pricing pages) with design guides to build from.
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
