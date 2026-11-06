@@ -3639,6 +3639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgileHero](https://agilehero.io) `https://mcp.agilehero.io/mcp`
   [![AgileHero MCP connector](https://glama.ai/mcp/connectors/io.agilehero/agilehero/badges/score.svg)](https://glama.ai/mcp/connectors/io.agilehero/agilehero)
   🔐 - Manage agile boards, epics, roadmaps, retrospectives, whiteboards, and wiki pages.
+- [AnyForge](https://anyforge.ai) `https://crew.anyforge.ai/api/mcp`
+  [![AnyForge MCP connector](https://glama.ai/mcp/connectors/ai.anyforge/anyforge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anyforge/anyforge)
+  🔐 - Steer AI engineering crews, approve plans and PRs, and manage programs, initiatives and work items.
 - [Asana](https://asana.com) `https://mcp.asana.com/mcp`
   🔐 - Manage Asana tasks, projects, and portfolios.
 - [Atlassian](https://atlassian.com) `https://mcp.atlassian.com/v1/mcp`
