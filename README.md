@@ -902,7 +902,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - ERP for IT services firms: search records, run indicators, manage timesheets and update data.
 - [Bullpen](https://bullpen.sale) `https://bullpen.sale/mcp`
   [![Bullpen MCP connector](https://glama.ai/mcp/connectors/sale.bullpen/bullpen/badges/score.svg)](https://glama.ai/mcp/connectors/sale.bullpen/bullpen)
-  🔐 - AI phone crew gets past phone trees and hold to a real person, then rings your rep into the live call.
+  🔓 - AI phone crew gets past phone trees and hold to a real person, then rings your rep in; OAuth to place calls.
 - [Data Parrot](https://dataparrot.ai) `https://api-v3.dataparrot.ai/api/v3/data-parrot/mcp`
   [![Data Parrot MCP connector](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot)
   🔐 - AI revenue analysis of your HubSpot data.
