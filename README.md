@@ -1170,6 +1170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
+- [Markedet field notes](https://markedet.bitbucket.io/) `https://agent-economy-data.onrender.com/notes/mcp`
+  [![Markedet field notes MCP connector](https://glama.ai/mcp/connectors/io.bitbucket.markedet/field-notes/badges/score.svg)](https://glama.ai/mcp/connectors/io.bitbucket.markedet/field-notes)
+  🔓 - Paste an exact tool, auth or read error; get a checked fix and verify step. Free, as is.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
