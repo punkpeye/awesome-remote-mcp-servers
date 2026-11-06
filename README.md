@@ -702,7 +702,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
 - [Discord Timestamp Generator](https://discordtimestampgen.com) `https://discordtimestampgen.com/mcp`
   [![Discord Timestamp Generator MCP connector](https://glama.ai/mcp/connectors/com.discordtimestampgen/discord-timestamp/badges/score.svg)](https://glama.ai/mcp/connectors/com.discordtimestampgen/discord-timestamp)
-  🔓 - Turn any date and time zone into Discord <t:unix:F> timestamp codes, and decode Discord snowflake IDs into creation dates.
+  🔓 - Turn a date and time zone into Discord <t:unix:F> timestamp codes, and decode snowflake IDs into creation dates.
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Make and take real phone calls.
