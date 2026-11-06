@@ -4409,6 +4409,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NetAPI](https://netapi.com/help/mcp/) `https://mcp.netapi.com/mcp`
   [![NetAPI MCP connector](https://glama.ai/mcp/connectors/com.netapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.netapi/mcp)
   🔐 - Domain intelligence: compromised domain and IP checks, TLD stats, Top 1M ranks, new domains, registrars and DNS.
+- [nophish (nophi.sh)](https://nophi.sh/en/ai-agents) `https://app.nophi.sh/mcp`
+  [![nophish MCP connector](https://glama.ai/mcp/connectors/sh.nophi/nophish/badges/score.svg)](https://glama.ai/mcp/connectors/sh.nophi/nophish)
+  🔓 - Phishing-awareness training for French SMBs: simulation and course catalogue, prices, security answers, fit check.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
