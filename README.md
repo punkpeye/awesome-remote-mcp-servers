@@ -881,6 +881,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [spacesheep](https://spacesheep.dev) `https://mcp.spacesheep.dev/mcp`
   [![spacesheep MCP connector](https://glama.ai/mcp/connectors/dev.spacesheep/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.spacesheep/mcp)
   🔐 - Publish pages your agent writes to a private, shareable URL, then read, comment on and update them.
+- [Stick](https://www.stick.so/mcp) `https://app.stick.so/api/mcp`
+  [![Stick MCP connector](https://glama.ai/mcp/connectors/so.stick/stick/badges/score.svg)](https://glama.ai/mcp/connectors/so.stick/stick)
+  🔐 - Build and edit a link-in-bio or landing page: blocks, themes, photos, stickers; saves drafts you publish in Stick.
 - [Storskarvia](https://storskarvia.com) `https://storskarvia.com/mcp/`
   [![Storskarvia MCP connector](https://glama.ai/mcp/connectors/com.storskarvia/writing-studio/badges/score.svg)](https://glama.ai/mcp/connectors/com.storskarvia/writing-studio)
   🔓 - Writing studio for novels and screenplays: cited fact-checks and continuity checks on your drafts; never writes prose.
