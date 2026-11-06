@@ -3940,6 +3940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [User Intuition](https://www.userintuition.ai) `https://mcp.userintuition.ai/mcp`
+  [![User Intuition MCP connector](https://glama.ai/mcp/connectors/ai.userintuition/research/badges/score.svg)](https://glama.ai/mcp/connectors/ai.userintuition/research)
+  🔐 - Run AI-moderated qualitative interviews with real people (vetted consumer panel or your own customers) and get findings with verbatim quotes.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
