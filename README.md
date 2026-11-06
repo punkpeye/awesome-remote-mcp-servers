@@ -3792,6 +3792,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NebenkostenPro](https://nebenkostenpro.de/mcp) `https://nebenkostenpro.de/mcp`
   [![NebenkostenPro MCP connector](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten/badges/score.svg)](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten)
   🔓 - German utility costs for 400 cities, property tax rates, housing benefit levels and utility bill deadlines.
+- [PestPin](https://pestpin.com/developers#mcp) `https://pestpin.com/mcp`
+  [![PestPin MCP connector](https://glama.ai/mcp/connectors/com.pestpin/pestpin/badges/score.svg)](https://glama.ai/mcp/connectors/com.pestpin/pestpin)
+  🔓 - Check US pest control licenses by name, number or phone in 35 states, find licensed companies and typical costs.
 - [Pillr](https://pillr.fr/mcp) `https://pillr.fr/api/mcp`
   [![Pillr MCP connector](https://glama.ai/mcp/connectors/fr.pillr/pillr/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pillr/pillr)
   🔓 - French property data: price per m² by municipality, local market summary and planning permit requirements.
