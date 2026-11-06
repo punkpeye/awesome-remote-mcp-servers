@@ -962,6 +962,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
+- [Every Number](https://everynumber.app/agents) `https://everynumber.app/mcp`
+  [![Every Number MCP connector](https://glama.ai/mcp/connectors/app.everynumber/spreadsheet-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.everynumber/spreadsheet-dashboard)
+  🔓 - Turns an Excel or CSV export into a shareable dashboard where every number shows its definition and the rows it used.
 - [ngx-json-render UI](https://ngx-json-render.vercel.app) `https://ngx-json-render.vercel.app/mcp`
   [![ngx-json-render UI MCP connector](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui)
   🔓 - Renders dashboards, forms and tables as Angular Material components inline in the chat (MCP App).
