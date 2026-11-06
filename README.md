@@ -2082,6 +2082,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
+- [monerometrics](https://monerometrics.net/docs) `https://api.monerometrics.net/mcp`
+  [![monerometrics MCP connector](https://glama.ai/mcp/connectors/io.github.nowi333/monerometrics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nowi333/monerometrics)
+  🔓 - Monero network metrics from an own node: reorgs, orphans, verified pool shares, hashrate, fees, Haveno premiums.
 - [Money Reactor](https://money-reactor.makar52nn2016.workers.dev/) `https://money-reactor.makar52nn2016.workers.dev/mcp`
   [![Money Reactor MCP connector](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor)
   🔓 - Pay-per-call x402 API on Base: token verdicts, research dossiers, crypto prices, weather, AI chat; USDC.
