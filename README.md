@@ -4575,6 +4575,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Post Bridge](https://www.post-bridge.com/mcp) `https://www.post-bridge.com/api/mcp/mcp`
   [![Post Bridge MCP connector](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge)
   🔐 - Publish, schedule and analyze posts across ten platforms, from Instagram and TikTok to LinkedIn and Bluesky.
+- [post2all](https://www.post2all.com) `https://mcp.post2all.com/mcp`
+  [![post2all MCP connector](https://glama.ai/mcp/connectors/com.post2all.mcp/post2all/badges/score.svg)](https://glama.ai/mcp/connectors/com.post2all.mcp/post2all)
+  🔐 - Schedule, publish and analyze posts on 15 networks, including X, LinkedIn, Instagram, YouTube and TikTok.
 - [PostLake](https://postlake.dev) `https://api.postlake.dev/mcp`
   [![PostLake MCP connector](https://glama.ai/mcp/connectors/dev.postlake/social/badges/score.svg)](https://glama.ai/mcp/connectors/dev.postlake/social)
   🔐 - Publish, schedule and analyze posts across 9 networks, including X, LinkedIn, Instagram, TikTok and Bluesky.
