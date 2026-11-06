@@ -694,6 +694,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
+- [Card Mailer](https://cards.onmax.me) `https://cards.onmax.me/mcp/claude`
+  [![Card Mailer MCP connector](https://glama.ai/mcp/connectors/me.onmax/card-mailer/badges/score.svg)](https://glama.ai/mcp/connectors/me.onmax/card-mailer)
+  🔓 - Prepare US photo-card mailings, get quotes, and open hosted checkout for paid printing and delivery.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
@@ -839,6 +842,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [Inkbind](https://inkbind.onmax.me) `https://inkbind.onmax.me/mcp/claude`
+  [![Inkbind MCP connector](https://glama.ai/mcp/connectors/me.onmax/inkbind/badges/score.svg)](https://glama.ai/mcp/connectors/me.onmax/inkbind)
+  🔓 - Lay out stories, memoirs or recipes as print-ready books and open hosted checkout for paid printing.
 - [INKFLOW](https://inkflowstudio.org) `https://api.inkflowstudio.org/api/mcp`
   [![INKFLOW MCP connector](https://glama.ai/mcp/connectors/org.inkflowstudio/inkflow/badges/score.svg)](https://glama.ai/mcp/connectors/org.inkflowstudio/inkflow)
   🔓 - Writes complete books, series, manuals and translations, plus TikTok/YouTube promo videos; free Chapter 1 with no key.
@@ -2865,6 +2871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
   🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
 
+- [Remite](https://burofax.onmax.me) `https://burofax.onmax.me/mcp/claude`
+  [![Remite MCP connector](https://glama.ai/mcp/connectors/me.onmax/remite/badges/score.svg)](https://glama.ai/mcp/connectors/me.onmax/remite)
+  🔓 - Prepare burofax or certified-letter notices to Spanish addresses and open hosted checkout.
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
