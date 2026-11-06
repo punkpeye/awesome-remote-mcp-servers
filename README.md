@@ -4082,6 +4082,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemalli](https://gemalli.com/en/developers) `https://gemalli.com/api/mcp`
   [![Gemalli MCP connector](https://glama.ai/mcp/connectors/com.gemalli/trade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gemalli/trade)
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
+- [Gilbert First](https://gilbertfirst.com/ai-assistants/) `https://gilbertfirst.com/mcp`
+  [![Gilbert First MCP connector](https://glama.ai/mcp/connectors/com.gilbertfirst/gilbert-first/badges/score.svg)](https://glama.ai/mcp/connectors/com.gilbertfirst/gilbert-first)
+  🔓 - Local data for Gilbert, Arizona: new business openings, events, best-of lists, town council agenda items and single-business lookups with dated Google ratings; read-only.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
