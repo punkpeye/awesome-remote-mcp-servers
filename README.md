@@ -3208,6 +3208,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Spytrend](https://spytrend.com/mcp/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-launch) `https://mcp.spytrend.com/mcp`
   [![Spytrend MCP connector](https://glama.ai/mcp/connectors/com.spytrend/spytrend/badges/score.svg)](https://glama.ai/mcp/connectors/com.spytrend/spytrend)
   🔐 - Search Meta and TikTok ads, find the advertisers behind them, and rank what is scaling.
+- [Spillmark](https://spillmark.com) `https://spillmark.com/mcp`
+  [![Spillmark MCP connector](https://glama.ai/mcp/connectors/com.spillmark/spillmark/badges/score.svg)](https://glama.ai/mcp/connectors/com.spillmark/spillmark)
+  🔓 - Measure Meta ad lift on Amazon and Shopify with geo holdouts; free calculators, optional brand key.
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Cookieless, EU-hosted web analytics: visitors, pages, sources, countries, goals, funnels and live traffic.
