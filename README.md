@@ -215,6 +215,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PayAPI Market](https://payapi.market) `https://payapi.market/mcp`
   [![PayAPI Market MCP connector](https://glama.ai/mcp/connectors/market.payapi/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/market.payapi/marketplace)
   🔓 - Search 358 live x402 APIs from 242 providers, then pay each call in USDC on Base with no API key or account.
+- [Pickrun](https://pickrun.ai) `https://pickrun.ai/mcp`
+  [![Pickrun MCP connector](https://glama.ai/mcp/connectors/ai.pickrun/pickrun/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pickrun/pickrun)
+  🔐 - One key for 4,000+ tools: web search, scraping, people and company data, SEO, an email inbox and phone calls.
 - [Quietforge x402 Tools](https://quietforge-studio.pages.dev/docs-api/#mcp) `https://qf-api.quietforge-studio.workers.dev/mcp`
   [![Quietforge x402 Tools MCP connector](https://glama.ai/mcp/connectors/io.github.quietforgestudio/x402-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quietforgestudio/x402-tools)
   🔓 - Search a health-probed directory of x402 APIs, probe one, and read aggregate 24h on-chain USDC settlement.
