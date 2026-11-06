@@ -1898,6 +1898,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
+- [Edgar & Edgarette: SEC Filing Boards](https://www.pops4.com/boards/for-ai) `https://www.pops4.com/boards/mcp`
+  [![Edgar & Edgarette: SEC Filing Boards MCP connector](https://glama.ai/mcp/connectors/io.github.HuangGoodmanAgency/edgar-and-edgarette/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.HuangGoodmanAgency/edgar-and-edgarette)
+  🔓 - Every SEC 8-K event the day it is filed on twelve boards, an actuarial card for any US public company, and a forecast ledger hashed before the outcome and scored in public. Free, no ads, CC BY 4.0.
 - [Edgrapi](https://edgrapi.com) `https://api.edgrapi.com/mcp`
   [![Edgrapi MCP connector](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills)
   🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
