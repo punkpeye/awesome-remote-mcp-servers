@@ -1776,6 +1776,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
 - [Bamsai](https://bamsai.kr/developers) `https://bamsai.kr/api/mcp`
+  [![Bamsai MCP connector](https://glama.ai/mcp/connectors/kr.bamsai/bamsai/badges/score.svg)](https://glama.ai/mcp/connectors/kr.bamsai/bamsai)
   🔓 - Korean blue chips (Samsung Electronics, SK hynix, Hyundai Motor) priced 24/7 from Hyperliquid perps in KRW: the pre-open price after the US close with how often the KRX open followed that direction, and cost-adjusted arbitrage between the Korean market and Hyperliquid (fees, tax, FX and funding). Order previews only.
 
 - [Bankrolled.ai Agent Hub](https://bankrolled.ai) `https://bankrolled.ai/mcp`
