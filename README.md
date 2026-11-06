@@ -4890,6 +4890,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rozkład PKP/PKS (rozklad-mcp)](https://rozklad.compabase.com) `https://rozklad.compabase.com/mcp`
   [![Rozkład PKP/PKS (rozklad-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/rozklad-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/rozklad-mcp)
   🔓 - Polish trains, PKS buses and city transit: journeys with changes, departures, live delays and fares.
+- [RYC yacht charter deals](https://www.rycrentals.com/en/mcp-server) `https://www.rycrentals.com/mcp`
+  [![RYC yacht charter deals MCP connector](https://glama.ai/mcp/connectors/com.rycrentals/deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.rycrentals/deals)
+  🔓 - Live discounted yacht charters in 11 destinations: search boats, check prices, estimate trip cost, plan routes.
 - [SafeResize](https://saferesize.com/ai) `https://saferesize.com/mcp`
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
