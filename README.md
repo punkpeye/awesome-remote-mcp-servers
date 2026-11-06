@@ -2897,6 +2897,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AdsTurbo MCP connector](https://glama.ai/mcp/connectors/io.github.AdsTurbo/adsturbo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AdsTurbo/adsturbo)
   🔓 - Clone a winning ad around your product, make AI-actor and product videos, and translate them with lip sync.
 
+- [AdvertiserLeads](https://advertiserleads.com) `https://advertiserleads.com/mcp`
+  [![AdvertiserLeads MCP connector](https://glama.ai/mcp/connectors/com.advertiserleads/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.advertiserleads/mcp)
+  🔓 - Ecommerce brands that just started, scaled or stopped Meta ads, plus any store's ad activity, platform and pixels.
+
 - [Advisors AI Service Navigator](https://advisorsai.ai) `https://advisorsai.ai/mcp`
   [![Advisors AI Service Navigator MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/service-navigator)
   🔓 - Read-only catalog of five services, a public-page check, and a request-link; nothing is charged.
