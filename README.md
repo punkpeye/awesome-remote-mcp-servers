@@ -4137,7 +4137,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Web search, URL-to-JSON extraction and structured data from 300+ company, marketplace and registry sources.
 - [NeverApply](https://neverapply.co/features/mcp) `https://neverapply.co/mcp`
   [![NeverApply MCP connector](https://glama.ai/mcp/connectors/co.neverapply/neverapply/badges/score.svg)](https://glama.ai/mcp/connectors/co.neverapply/neverapply)
-  🔐 - Search jobs, explore explained matches, and manage applications with your AI assistant.
+  🔓 - Search jobs, explore explained matches, and manage applications with your AI assistant.
 - [Ni Biashara Shelves](https://agents.nibiashara.biz/docs?ref=dir-awesome-remote) `https://agents.nibiashara.biz/mcp`
   [![Ni Biashara Shelves MCP connector](https://glama.ai/mcp/connectors/biz.nibiashara/shelves/badges/score.svg)](https://glama.ai/mcp/connectors/biz.nibiashara/shelves)
   🔓 - Pay-per-call data checks over x402: FMCSA carrier/broker authority, load vetting, OFAC screens and African FX rates.
