@@ -427,7 +427,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read Figma files and turn frames and components into code.
 - [FontGlitch](https://fontglitch.com) `https://fontglitch.com/mcp`
   [![FontGlitch MCP connector](https://glama.ai/mcp/connectors/com.fontglitch/zalgo-text/badges/score.svg)](https://glama.ai/mcp/connectors/com.fontglitch/zalgo-text)
-  🔓 - Zalgo / glitch text with set intensity and a renderability estimate, plus 17 Unicode font styles (bold, cursive, gothic, bubble).
+  🔓 - Zalgo glitch text with adjustable intensity and a renderability estimate, plus 17 Unicode font styles.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
