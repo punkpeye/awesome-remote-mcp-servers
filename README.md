@@ -3667,6 +3667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GTD Brain](https://gtdbrain.com/connect?source=awesome-remote-mcp-servers) `https://mcp.gtdbrain.com/api/gtdbrain/v1/mcp`
   [![GTD Brain MCP connector](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.gtdbrain/gtd-brain)
   🔐 - Getting Things Done board: inbox capture, next actions by context, projects and weekly review.
+- [Ideato](https://www.ideato.social) `https://www.ideato.social/api/mcp`
+  [![Ideato MCP connector](https://glama.ai/mcp/connectors/io.github.kamal0808/ideato/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kamal0808/ideato)
+  🔐 - Post and search ideas, pick and hand in tasks, and comment on projects built in public on Ideato.
 - [Joxo](https://joxo.ai) `https://joxo.ai/api/mcp`
   [![Joxo MCP connector](https://glama.ai/mcp/connectors/ai.joxo/joxo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.joxo/joxo)
   🔐 - Shared tasks, handoffs and decisions for your team and its AI coding agents.
