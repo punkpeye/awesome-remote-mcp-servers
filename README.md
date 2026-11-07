@@ -2295,6 +2295,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradeStar Insider](https://www.tradestarinsider.com) `https://mcp.tradestarinsider.com/mcp`
   [![TradeStar Insider MCP connector](https://glama.ai/mcp/connectors/com.tradestarinsider/edgar-insider-signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradestarinsider/edgar-insider-signals)
   🔓 - Verify insider-buy, 13D and 13F claims against SEC filings; every record links to its sec.gov source.
+- [TradesIndex Commercial Building Value MCP](https://tradesindex.org/mcp/) `https://tradesindex.org/api/mcp`
+  🔓 - US commercial property valuation, building systems replacement cost, and 19 skilled-trade wage and margin benchmarks.
 - [TradingAgentStack](https://tradingagentstack.com/mcp/) `https://tradingagentstack.com/api/mcp`
   [![TradingAgentStack MCP connector](https://glama.ai/mcp/connectors/io.github.intoApex/tradingagentstack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.intoApex/tradingagentstack)
   🔓 - Sourced facts on 114 AI trading tools and broker MCPs, incl. who can place orders and what safeguards exist.
