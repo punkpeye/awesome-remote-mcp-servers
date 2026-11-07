@@ -1026,6 +1026,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
   [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
   🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
+- [Business Days](https://tools.profitpather.com/days) `https://tools.profitpather.com/days/mcp`
+  [![Business Days MCP connector](https://glama.ai/mcp/connectors/com.profitpather.tools/business-days/badges/score.svg)](https://glama.ai/mcp/connectors/com.profitpather.tools/business-days)
+  🔓 - Public holidays and working-day arithmetic for 200+ countries, cross-checked across three independent providers.
 - [CacheBoost](https://www.cache-boost.com/support/mcp/overview) `https://api.cache-boost.com/mcp`
   [![CacheBoost MCP connector](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost/badges/score.svg)](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost)
   🔑 - Warm CDN and reverse-proxy caches from 12 regions after a deploy or purge, then read the run's hit/miss stats.
@@ -1508,11 +1511,17 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [ShipRate AU](https://tools.profitpather.com/ship) `https://tools.profitpather.com/ship/mcp`
+  [![ShipRate AU MCP connector](https://glama.ai/mcp/connectors/com.profitpather.tools/shiprate-au/badges/score.svg)](https://glama.ai/mcp/connectors/com.profitpather.tools/shiprate-au)
+  🔓 - Australian parcel rates from Australia Post retail and a commercial courier panel, plus postcode and cubic weight.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
+- [Storefront Check](https://tools.profitpather.com/store) `https://tools.profitpather.com/store/mcp`
+  [![Storefront Check MCP connector](https://glama.ai/mcp/connectors/com.profitpather.tools/storefront-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.profitpather.tools/storefront-check)
+  🔓 - Audit any storefront from outside: ad and analytics tags, dead-tag detection, AI crawler access, feed readiness.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
@@ -1525,6 +1534,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Undercart](https://undercart.co/docs/mcp) `https://undercart.co/api/mcp`
   [![Undercart MCP connector](https://glama.ai/mcp/connectors/co.undercart/undercart/badges/score.svg)](https://glama.ai/mcp/connectors/co.undercart/undercart)
   🔐 - Research Shopify brands: revenue estimates, installed apps, live ads and captured marketing emails.
+- [US Tariff Lookup](https://tools.profitpather.com/duty) `https://tools.profitpather.com/duty/mcp`
+  [![US Tariff Lookup MCP connector](https://glama.ai/mcp/connectors/com.profitpather.tools/us-tariff-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.profitpather.tools/us-tariff-lookup)
+  🔓 - Find the US tariff code for a product and the duty rate that governs it, read live from the official HTS.
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
