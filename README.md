@@ -2643,6 +2643,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and search your RSS feeds and articles, plus save, tag, highlight and add notes on paid plans; OAuth sign-in.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
+- [FlowState Hosted](https://flowstatemcp.com/hosted) `https://hosted.flowstatemcp.com/mcp`
+  [![FlowState Hosted MCP connector](https://glama.ai/mcp/connectors/com.flowstatemcp.hosted/flow-state-hosted/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowstatemcp.hosted/flow-state-hosted)
+  🔐 - Hosted shared project memory (decisions, to-dos, learnings) for AI apps. Encrypted at rest, backed up. Beta.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
   [![FoxNose Knowledge MCP connector](https://glama.ai/mcp/connectors/net.foxnose/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.foxnose/knowledge)
   🔑 - Hybrid search over vectors, full text and structured filters, with auto-embeddings.
