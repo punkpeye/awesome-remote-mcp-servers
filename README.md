@@ -5028,6 +5028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
   [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
   🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
+- [Flow Design](https://www.getflowdesign.com/en/serveur-mcp) `https://www.getflowdesign.com/mcp`
+  [![Flow Design MCP connector](https://glama.ai/mcp/connectors/com.getflowdesign/offsite-seminar-designer/badges/score.svg)](https://glama.ai/mcp/connectors/com.getflowdesign/offsite-seminar-designer)
+  🔓 - Design a corporate seminar or offsite: guided scoping and a timed run of show, in English or French.
 - [formset](https://www.getformset.com) `https://mcp.getformset.com/mcp`
   [![formset MCP connector](https://glama.ai/mcp/connectors/com.getformset/formset/badges/score.svg)](https://glama.ai/mcp/connectors/com.getformset/formset)
   🔐 - Describe a form in chat and get a hosted, shareable form back; ask about the answers in the same conversation.
