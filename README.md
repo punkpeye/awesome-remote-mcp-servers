@@ -739,6 +739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NumRadar](https://numradar.app/mcp-server) `https://numradar.app/mcp`
   [![NumRadar MCP connector](https://glama.ai/mcp/connectors/app.numradar/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.numradar/mcp)
   🔐 🔑 - Check WhatsApp registration, run bulk validation jobs and query your account balance with a paid API key or OAuth for pre-registered clients.
+- [Pachca](https://dev.pachca.com/guides/mcp/overview) `https://mcp.pachca.com/mcp`
+  [![Pachca MCP connector](https://glama.ai/mcp/connectors/com.pachca/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pachca/mcp)
+  🔐 - Read, search and post in Pachca team chat, and work with threads, reminders, employees and bots within your permissions.
 - [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
   [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
   🔓 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
@@ -1646,6 +1649,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
   [![Powietrze PL (powietrze-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp)
   🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
+- [ROVE Snow Forecast](https://rove-ski.com/en/ai) `https://rove-ski.com/mcp`
+  [![ROVE Snow Forecast MCP connector](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast)
+  🔐 - Free 15-day snow forecasts and conditions for 667 ski resorts in North America and Japan.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
