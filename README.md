@@ -641,6 +641,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Porkbun](https://porkbun.com/mcp) `https://mcp.porkbun.com/mcp`
   [![Porkbun MCP connector](https://glama.ai/mcp/connectors/com.porkbun/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.porkbun/mcp)
   🔐 - Manage domains, DNS, nameservers, DNSSEC, URL forwarding and static site deploys on your Porkbun account.
+- [publish.my](https://publish.my) `https://api.publish.my/mcp`
+  [![publish.my MCP connector](https://glama.ai/mcp/connectors/my.publish/publish-my/badges/score.svg)](https://glama.ai/mcp/connectors/my.publish/publish-my)
+  🔐 - Publish HTML, CSS, JS and images as a live website at https://<id>.publish.my, update it in place, and list your sites.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
 - [Roar AI](https://roar-ai.com/docs/mcp) `https://cloud.roar-ai.com/mcp`
