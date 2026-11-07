@@ -2652,6 +2652,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HAIDAA](https://haidaa.com/mcp) `https://mcp.haidaa.com/mcp`
   [![HAIDAA MCP connector](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa/badges/score.svg)](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa)
   🔓 - Search signed scientific claims, methods, provenance, contradictions, retractions, and admission receipts.
+- [Heystack](https://heystacks.com/for-agents) `https://heystacks.com/mcp`
+  [![Heystack MCP connector](https://glama.ai/mcp/connectors/com.heystacks/heystack/badges/score.svg)](https://glama.ai/mcp/connectors/com.heystacks/heystack)
+  🔓 - Share knowledge, compare research, discuss ideas, and build on findings in living documents and spreadsheets.
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
