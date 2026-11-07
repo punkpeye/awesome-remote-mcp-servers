@@ -824,6 +824,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
   [![dochost MCP connector](https://glama.ai/mcp/connectors/io.dochost/dochost/badges/score.svg)](https://glama.ai/mcp/connectors/io.dochost/dochost)
   🔓 - Publish Markdown or HTML as a hosted page and get a shareable link.
+- [DocPin](https://docpin.app) `https://mcp.docpin.app/mcp`
+  [![DocPin MCP connector](https://glama.ai/mcp/connectors/app.docpin/docpin/badges/score.svg)](https://glama.ai/mcp/connectors/app.docpin/docpin)
+  🔐 - Publish HTML pages, reports and dashboards from your AI to your own link, and choose who can open them.
 - [Docs MD](https://docs-md.com/agents) `https://docs-md.com/api/mcp`
   [![Docs MD MCP connector](https://glama.ai/mcp/connectors/com.docs-md/markdown-share/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs-md/markdown-share)
   🔓 - Publish markdown as a rendered link with an expiry, read shares back as markdown, update or delete them.
