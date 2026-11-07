@@ -712,6 +712,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
+- [GhosterMail](https://ghostermail.com/mcp) `https://api.ghostermail.com/mcp`
+  [![GhosterMail MCP connector](https://glama.ai/mcp/connectors/com.ghostermail/ghostermail/badges/score.svg)](https://glama.ai/mcp/connectors/com.ghostermail/ghostermail)
+  🔐 - Private mailboxes for agents: create inboxes, wait for codes and links, read and send email.  
 - [Groundmail](https://groundmail.dev) `https://mcp.groundmail.dev/mcp`
   [![Groundmail MCP connector](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail)
   🔐 - Send transactional email, check delivery, and set up sending domains, templates and webhooks.
