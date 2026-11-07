@@ -810,6 +810,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📝 <a name="content-management"></a>Content Management
 
+- [3dCMS](https://3dcms.info) `https://3dcms.info/mcp`
+  [![3dCMS MCP connector](https://glama.ai/mcp/connectors/info.3dcms/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/info.3dcms/mcp)
+  🔐 - Build, light and publish walkable 3D websites from chat, with screenshots, design review and crawlable pages.
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
   🔓 - Your AI picks an 8B generated design and writes the copy; get an animated one-page site, preview link and HTML file.
