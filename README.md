@@ -4459,6 +4459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScreenSeal](https://apify.com/wthall05/screenseal-screen) `https://screenseal-mcp.agent-tollbooth.workers.dev/mcp`
   [![ScreenSeal MCP connector](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp)
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
+- [SecLens.ONE](https://seclens.one) `https://seclens.one/mcp`
+  [![SecLens.ONE MCP connector](https://glama.ai/mcp/connectors/one.seclens/seclens/badges/score.svg)](https://glama.ai/mcp/connectors/one.seclens/seclens)
+  🔓 - Assess any domain's email security posture across SPF, DMARC, DKIM, MTA-STS, DNSSEC, DANE, TLS-RPT, and informational BIMI.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
