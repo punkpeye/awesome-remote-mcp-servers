@@ -1339,6 +1339,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unipile](https://developer.unipile.com/docs/mcp) `https://developer.unipile.com/mcp?branch=v2.0`
   [![Unipile MCP connector](https://glama.ai/mcp/connectors/com.unipile.developer/unipile/badges/score.svg)](https://glama.ai/mcp/connectors/com.unipile.developer/unipile)
   🔓 - Reads and calls the Unipile API for LinkedIn, WhatsApp, Instagram, Telegram, email and calendar from coding agents.
+- [UNPKG](https://mcp.unpkg.com) `https://mcp.unpkg.com/mcp`
+  [![UNPKG MCP connector](https://glama.ai/mcp/connectors/com.unpkg.mcp/unpkg/badges/score.svg)](https://glama.ai/mcp/connectors/com.unpkg.mcp/unpkg)
+  🔓 - Live npm and UNPKG resolution, project audits, import maps, and malware/CVE checks for AI agents.
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
