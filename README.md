@@ -736,6 +736,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MyOTP.App](https://myotp.app/mcp/) `https://mcp.myotp.app/mcp`
   [![MyOTP.App MCP connector](https://glama.ai/mcp/connectors/io.github.brntech/myotp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brntech/myotp)
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
+- [NumRadar](https://numradar.app/mcp-server) `https://numradar.app/mcp`
+  [![NumRadar MCP connector](https://glama.ai/mcp/connectors/app.numradar/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.numradar/mcp)
+  🔐 🔑 - Check WhatsApp registration, run bulk validation jobs and query your account balance with a paid API key or OAuth for pre-registered clients.
 - [Pachca](https://dev.pachca.com/guides/mcp/overview) `https://mcp.pachca.com/mcp`
   [![Pachca MCP connector](https://glama.ai/mcp/connectors/com.pachca/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pachca/mcp)
   🔐 - Read, search and post in Pachca team chat, and work with threads, reminders, employees and bots within your permissions.
