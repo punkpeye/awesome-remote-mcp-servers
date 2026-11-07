@@ -1020,7 +1020,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
-- [BlockVectra Docs](https://blockvectra.com) `https://docs.blockvectra.com/mcp/docs`
+- [BlockVectra Docs](https://docs.blockvectra.com/en/guides/mcp-server/?ref=gh-remote-mcp) `https://docs.blockvectra.com/mcp/docs`
   [![BlockVectra Docs MCP connector](https://glama.ai/mcp/connectors/com.blockvectra/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.blockvectra/docs)
   🔓 - Search and read Robinhood Chain and EVM API documentation; no API key or local install.
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
