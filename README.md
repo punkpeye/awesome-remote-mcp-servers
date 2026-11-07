@@ -1447,6 +1447,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iDevice](https://idevice.com) `https://idevice.com/api/mcp`
   [![iDevice MCP connector](https://glama.ai/mcp/connectors/com.idevice/wearables/badges/score.svg)](https://glama.ai/mcp/connectors/com.idevice/wearables)
   🔓 - Wearable and phone prices, specs, compatibility, release dates and sourced reports for buyers.
+- [Intertwine House Plans](https://intertwinehouseplans.com) `https://agents.intertwinehouseplans.com/mcp`
+  [![Intertwine House Plans MCP connector](https://glama.ai/mcp/connectors/com.intertwinehouseplans.agents/intertwine-house-plans-plan-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.intertwinehouseplans.agents/intertwine-house-plans-plan-finder)
+  🔓 - Search a residential designer's 68 coastal house plans by bedrooms, square feet, lot width, foundation and elevator; read-only, every result links to the plan page.
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
