@@ -2045,6 +2045,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
   [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
   🔓 - Verify Dutch and Belgian companies (KVK, KBO), EU VAT, sanctions and PEPs, with a risk score; key or x402.
+- [LiqSonar](https://liqsonar.com/api-docs#mcp) `https://liqsonar.com/mcp`
+  [![LiqSonar MCP connector](https://glama.ai/mcp/connectors/com.liqsonar/liqsonar/badges/score.svg)](https://glama.ai/mcp/connectors/com.liqsonar/liqsonar)
+  🔐 - Crypto futures order-flow signals, pumps, liquidation levels, order book walls and a manipulation verdict.
 - [LiquidVision](https://liquidvision.app) `https://liquidvision.app/mcp`
   [![LiquidVision MCP connector](https://glama.ai/mcp/connectors/app.liquidvision/derivatives/badges/score.svg)](https://glama.ai/mcp/connectors/app.liquidvision/derivatives)
   🔓 - Crypto derivatives across 13 venues: open interest, funding, liquidations, Hyperliquid whale positions.
