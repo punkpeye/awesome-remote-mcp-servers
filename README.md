@@ -1685,6 +1685,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Browse, search, move and share files in your own S3-compatible buckets (AWS S3, MinIO, IDrive e2).
 
 ### 💰 <a name="finance"></a>Finance
+- [RugShield 402](https://rugshield-402.onrender.com) `https://rugshield-402.onrender.com/mcp`
+  [![RugShield 402 MCP connector](https://glama.ai/mcp/connectors/io.github.ak10082247-max/rugshield-402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ak10082247-max/rugshield-402)
+  🔓 - Pre-trade DEX honeypot detection, buy/sell tax simulation, and LP lock verification on Base and Solana.
 
 - [0s and 1s CIS](https://0sand1s.co.uk/developers) `https://0sand1s.co.uk/mcp`
   [![0s and 1s CIS MCP connector](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis)
