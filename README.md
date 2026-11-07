@@ -715,6 +715,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Groundmail](https://groundmail.dev) `https://mcp.groundmail.dev/mcp`
   [![Groundmail MCP connector](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail)
   🔐 - Send transactional email, check delivery, and set up sending domains, templates and webhooks.
+- [Guild.xyz](https://guild.xyz/docs/agents) `https://mcp.guild.xyz/mcp`
+  [![Guild.xyz MCP connector](https://glama.ai/mcp/connectors/xyz.guild/guild/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.guild/guild)
+  🔐 - Manage a Guild.xyz community: roles, token-gated Discord and Telegram access, rewards, points and pages.
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
