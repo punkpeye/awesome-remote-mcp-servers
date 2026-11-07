@@ -3351,6 +3351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
+- [ScaledPapers](https://scaledpapers.com/docs/mcp/) `https://api.scaledpapers.com/mcp`
+  [![ScaledPapers MCP connector](https://glama.ai/mcp/connectors/com.scaledpapers/scaledpapers/badges/score.svg)](https://glama.ai/mcp/connectors/com.scaledpapers/scaledpapers)
+  🔓 🔑 - Create uptime checks, status pages, incidents and maintenance; a confirmed failure opens the incident.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
