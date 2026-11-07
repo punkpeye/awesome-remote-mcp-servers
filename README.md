@@ -259,7 +259,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search AI tools for trades businesses and public SaaS plan prices, each with the vendor quote and check date.
 - [Vextorium](https://vextorium.com) `https://api.vextorium.com/mcp`
   [![Vextorium MCP connector](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium/badges/score.svg)](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium)
-  🔓 - 509 pay-per-call data tools: on-chain (30+ chains), DeFi, markets, economic stats, compliance; USDC via x402.
+  🔓 - 200+ pay-per-call x402 APIs: on-chain and market data, official statistics, compliance; USDC, RLUSD or XRP.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
