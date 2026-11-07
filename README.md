@@ -3241,6 +3241,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tracetify](https://tracetify.com/mcp) `https://tracetify.com/api/mcp`
   [![Tracetify MCP connector](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp)
   🔓 - Find competitors, trace how they grew from dated public sources, and see their ads; tools need an account.
+- [Transformer](https://transformer.gg/?utm_source=awesome-remote-mcp-servers&utm_medium=referral&utm_campaign=mcp-directories&utm_content=listing) `https://transformer.gg/mcp`
+  [![Transformer MCP connector](https://glama.ai/mcp/connectors/gg.transformer/transformer/badges/score.svg)](https://glama.ai/mcp/connectors/gg.transformer/transformer)
+  🔐 - Agent-run influencer marketplace on X: find creators, send paid offers, track posts and clicks.
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
