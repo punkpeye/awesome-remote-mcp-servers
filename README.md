@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Foundry44](https://foundry44.dev) `https://foundry44.dev/mcp`
+  [![Foundry44 MCP connector](https://glama.ai/mcp/connectors/dev.foundry44/foundry44/badges/score.svg)](https://glama.ai/mcp/connectors/dev.foundry44/foundry44)
+  🔓 - Animated UI components with no dependencies, for React, plain JavaScript and AI assistants.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
