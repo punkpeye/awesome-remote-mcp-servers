@@ -487,6 +487,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QR Branding](https://qr-branding.com) `https://qr-branding.com/mcp`
   [![QR Branding MCP connector](https://glama.ai/mcp/connectors/io.github.quartzondev/qr-branding/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quartzondev/qr-branding)
   🔓 - Branded QR codes (manual, AI-styled, 118 templates, Wi-Fi/vCard/geo), each decoded server-side before it is returned.
+- [QRKit](https://rapidapi.com/Olly-1VN9JTXKG/api/qrkit-qr-code-barcode-generator) `https://qrkit-qr-code-barcode-generator.p.rapidapi.com/mcp`
+  [![QRKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/qrkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/qrkit)
+  🔑 - Generate QR codes (URL, WiFi, vCard) and barcodes as PNG or SVG; free tier, RapidAPI key.
 - [QRX](https://qrx.codes/developers/mcp) `https://qrx.codes/mcp`
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
@@ -1078,6 +1081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
+- [DocKit](https://rapidapi.com/Olly-1VN9JTXKG/api/dockit-pdf-text-extraction-markdown-to-pdf) `https://dockit-pdf-text-extraction-markdown-to-pdf.p.rapidapi.com/mcp`
+  [![DocKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/dockit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/dockit)
+  🔑 - Extract text and metadata from PDFs and convert Markdown or text to PDF; free tier, RapidAPI key.
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
@@ -1114,6 +1120,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontMCP Docs](https://frontmcp.dev/learn/docs-for-your-agent) `https://mcp.frontmcp.dev`
   [![FrontMCP Docs MCP connector](https://glama.ai/mcp/connectors/dev.frontmcp.mcp/frontmcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.frontmcp.mcp/frontmcp)
   🔓 - Search and read FrontMCP's documentation, pinned to the FrontMCP version a project uses.
+- [GeoIP](https://rapidapi.com/Olly-1VN9JTXKG/api/geoip-ip-geolocation-asn-isp-lookup) `https://geoip-ip-geolocation-asn-isp-lookup.p.rapidapi.com/mcp`
+  [![GeoIP MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/geoip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/geoip)
+  🔑 - IP geolocation with country, continent, ASN and ISP lookup; free tier, RapidAPI key.
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
@@ -1167,6 +1176,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
+- [LLMKit](https://rapidapi.com/Olly-1VN9JTXKG/api/llmkit-token-counter-rag-chunker-json-repair) `https://llmkit-token-counter-rag-chunker-json-repair.p.rapidapi.com/mcp`
+  [![LLMKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/llmkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/llmkit)
+  🔑 - Token counting, RAG chunking, truncation, HTML to Markdown and JSON repair; free tier, RapidAPI key.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
@@ -1226,6 +1238,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perq](https://perq.sh/agents) `https://perq.sh/mcp`
   [![Perq MCP connector](https://glama.ai/mcp/connectors/sh.perq/perq/badges/score.svg)](https://glama.ai/mcp/connectors/sh.perq/perq)
   🔓 - Find verified free AI credits, free tiers and startup programs, each with a source link and last-verified date.
+- [PhoneKit](https://rapidapi.com/Olly-1VN9JTXKG/api/phonekit-phone-number-validation-carrier-line-type) `https://phonekit-phone-number-validation-carrier-line-type.p.rapidapi.com/mcp`
+  [![PhoneKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/phonekit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/phonekit)
+  🔑 - Phone number validation and formatting with carrier, line type and timezone; free tier, RapidAPI key.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
@@ -2316,6 +2331,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
+- [ValidKit](https://rapidapi.com/Olly-1VN9JTXKG/api/validkit-iban-vat-card-isbn-bic-postcode-validator) `https://validkit-iban-vat-card-isbn-bic-postcode-validator.p.rapidapi.com/mcp`
+  [![ValidKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/validkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/validkit)
+  🔑 - Validate IBAN, EU VAT, card numbers, ISBN, BIC, EAN and postcodes; free tier, RapidAPI key.
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
@@ -3429,6 +3447,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
+- [ImageKit](https://rapidapi.com/Olly-1VN9JTXKG/api/imagekit-resize-convert-to-webp-compress-crop) `https://imagekit-resize-convert-to-webp-compress-crop.p.rapidapi.com/mcp`
+  [![ImageKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/imagekit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/imagekit)
+  🔑 - Resize, convert to WebP, compress, crop, rotate and strip EXIF from images; free tier, RapidAPI key.
 - [Incarn](https://www.incarn.co/developers) `https://api.incarn.co/mcp`
   [![Incarn MCP connector](https://glama.ai/mcp/connectors/co.incarn/photo-animation/badges/score.svg)](https://glama.ai/mcp/connectors/co.incarn/photo-animation)
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
@@ -4292,6 +4313,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebExtract](https://webextract.dev) `https://api.webextract.dev/mcp`
   [![WebExtract MCP connector](https://glama.ai/mcp/connectors/dev.webextract/extract/badges/score.svg)](https://glama.ai/mcp/connectors/dev.webextract/extract)
   🔓 - Any public URL to clean Markdown plus fixed-schema JSON; 50 free calls/day, then x402 USDC on 7 EVM chains or credits.
+- [WebKit](https://rapidapi.com/Olly-1VN9JTXKG/api/webkit-email-validator-link-preview-article-extractor) `https://webkit-email-validator-link-preview-article-extractor.p.rapidapi.com/mcp`
+  [![WebKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/webkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/webkit)
+  🔑 - Email validation, link previews and article-to-Markdown extraction for AI agents; free tier, RapidAPI key.
 - [WebRead](https://api.youraitools.co/webread/) `https://api.youraitools.co/webread/mcp`
   [![WebRead MCP connector](https://glama.ai/mcp/connectors/co.youraitools/webread/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/webread)
   🔓 - Turns a public web page into clean Markdown, respecting robots.txt; 30 free calls/day, then x402 USDC.
@@ -4364,12 +4388,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DomainCanary](https://domaincanary.com/guides/check-your-domain-from-chatgpt-or-claude) `https://domaincanary.com/mcp`
   [![DomainCanary MCP connector](https://glama.ai/mcp/connectors/com.domaincanary/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.domaincanary/mcp)
   🔓 - Check a domain's DMARC, SPF and DKIM, build an SPF record, explain bounces, read DMARC reports.
+- [DomainKit](https://rapidapi.com/Olly-1VN9JTXKG/api/domainkit-dns-ssl-whois-website-tech-lookup) `https://domainkit-dns-ssl-whois-website-tech-lookup.p.rapidapi.com/mcp`
+  [![DomainKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/domainkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/domainkit)
+  🔑 - DNS records, SSL certificate, WHOIS/RDAP and website tech scan for any domain; free tier, RapidAPI key.
 - [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
   [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
   🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
+- [FraudKit](https://rapidapi.com/Olly-1VN9JTXKG/api/fraudkit-fraud-risk-score-for-signups-orders) `https://fraudkit-fraud-risk-score-for-signups-orders.p.rapidapi.com/mcp`
+  [![FraudKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/fraudkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/fraudkit)
+  🔑 - Fraud risk score for signups and orders from email, IP, phone and user agent; free tier, RapidAPI key.
 - [Front Sentinel](https://frontsentinel.com/mcp) `https://frontsentinel.com/mcp`
   [![Front Sentinel MCP connector](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security/badges/score.svg)](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security)
   🔓 - Read-only dApp and website domain checks: registrar and registry locks, DNSSEC, CAA, SRI, SEAL DNS & Registrar controls.
@@ -4989,6 +5019,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
+- [CalKit](https://rapidapi.com/Olly-1VN9JTXKG/api/calkit-public-holidays-business-days-timezones) `https://calkit-public-holidays-business-days-timezones.p.rapidapi.com/mcp`
+  [![CalKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/calkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/calkit)
+  🔑 - Public holidays for 150+ countries, business-day maths and timezone lookup; free tier, RapidAPI key.
 - [Carbon](https://www.carbondatasolutions.com/hire) `https://mcp.carbondatasolutions.com/mcp`
   [![Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danie-carbondatasolutions/carbon)
   🔐 - Hire data professionals from ChatGPT, Claude, or any MCP host. Post a role free.
@@ -5228,6 +5261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellara](https://stellara.natlex.it/#api) `https://mcp.stellara.natlex.it/mcp`
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
+- [TextKit](https://rapidapi.com/Olly-1VN9JTXKG/api/textkit-sentiment-language-readability-keywords) `https://textkit-sentiment-language-readability-keywords.p.rapidapi.com/mcp`
+  [![TextKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/textkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/textkit)
+  🔑 - Sentiment, language, readability, keywords, summaries and profanity filtering; free tier, RapidAPI key.
 - [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
   [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
   🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
@@ -5243,6 +5279,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [turva.dev](https://turva.dev) `https://mcp.turva.dev/mcp`
   [![turva.dev MCP connector](https://glama.ai/mcp/connectors/dev.turva/turva-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.turva/turva-mcp)
   🔓 - Read the turva.dev service catalog, pricing, agent-readiness score, and published security scan results.
+- [UK PostcodeKit](https://rapidapi.com/Olly-1VN9JTXKG/api/uk-postcodekit-postcode-lookup-nearest-distance) `https://uk-postcodekit-postcode-lookup-nearest-distance.p.rapidapi.com/mcp`
+  [![UK PostcodeKit MCP connector](https://glama.ai/mcp/connectors/io.github.OlsOls4/ukpostcode/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OlsOls4/ukpostcode)
+  🔑 - UK postcode lookup, nearest postcodes, autocomplete and distance (OS open data); free tier, RapidAPI key.
 - [ValorAI MCP](https://www.tryvalor.ai) `https://www.tryvalor.ai/mcp/public`
   [![ValorAI MCP connector](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp)
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
