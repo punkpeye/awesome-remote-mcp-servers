@@ -1182,6 +1182,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Metabind Docs](https://docs.metabind.ai) `https://docs.metabind.ai/mcp`
   [![Metabind Docs MCP connector](https://glama.ai/mcp/connectors/ai.metabind/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/docs)
   🔓 - Search and read the Metabind docs: MCP Apps, BindJS, the SDKs, the CLI, and the APIs.
+- [Mobilebox](https://mobilebox.dev) `https://mobilebox.dev/mcp`
+  [![Mobilebox MCP connector](https://glama.ai/mcp/connectors/dev.mobilebox/mobilebox/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mobilebox/mobilebox)
+  🔐 🔑 - Cloud Android phones for agents: read the screen, tap and type, install APKs, park and resume.
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
