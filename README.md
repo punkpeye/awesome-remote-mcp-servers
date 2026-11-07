@@ -3967,6 +3967,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Company Index](https://agentcompanyindex.com) `https://agentcompanyindex.com/mcp`
   [![Agent Company Index MCP connector](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory)
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
+- [Agent Data Hub](https://api.agentdatahub.de) `https://api.agentdatahub.de/mcp`
+  [![Agent Data Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Jona1245/agentdatahub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Jona1245/agentdatahub)
+  🔓 - Official statistics, central bank rates, FX, energy and weather data with source and licence in every answer.
 - [Agent Data Tools](https://agent-data-tools.revmesh2074.workers.dev) `https://agent-data-tools.revmesh2074.workers.dev/mcp`
   [![Agent Data Tools MCP connector](https://glama.ai/mcp/connectors/io.github.Nutshell2000/agent-data-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nutshell2000/agent-data-tools)
   🔓 - 179 pay-per-call data tools: web and PDF text, domain and sanctions checks, chain reads, prices, weather, time.
