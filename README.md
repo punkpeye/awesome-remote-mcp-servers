@@ -4162,6 +4162,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Free search of people, companies and open roles on an open professional network.
+- [Patchwell](https://patchwell.io) `https://patchwell.io/mcp/`
+  [![Patchwell MCP connector](https://glama.ai/mcp/connectors/io.patchwell/patchwell/badges/score.svg)](https://glama.ai/mcp/connectors/io.patchwell/patchwell)
+  🔓 - Cited web research, word-timestamp transcription, and CSV/Excel cleaning with a change log; pay per call with a key.
 - [PdfParse](https://pdfparse.net/mcp) `https://mcp.pdfparse.net/mcp`
   [![PdfParse MCP connector](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse)
   🔐 - Extract PDFs into structured tables, query saved records, and configure document inbox workflows.
