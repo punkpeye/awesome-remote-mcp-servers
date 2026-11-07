@@ -706,6 +706,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Faivelo](https://faivelo.com/ai-agents) `https://faivelo.com/api/mcp`
   [![Faivelo MCP connector](https://glama.ai/mcp/connectors/com.faivelo/mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.faivelo/mail)
   🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
+- [Fezola](https://fezola.com) `https://api.fezola.com/mcp`
+  [![Fezola MCP connector](https://glama.ai/mcp/connectors/com.fezola.app/fezola/badges/score.svg)](https://glama.ai/mcp/connectors/com.fezola.app/fezola)
+  🔐 - Read, search and draft replies across all your mailboxes from any provider, plus Google Chat and Telegram.
 - [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
   [![Fluxmail Cloud MCP connector](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud)
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
