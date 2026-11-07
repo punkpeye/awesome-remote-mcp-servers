@@ -1020,7 +1020,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
-- [BlockVectra](https://blockvectra.com) `https://docs.blockvectra.com/mcp`
+- [BlockVectra](https://docs.blockvectra.com/en/guides/mcp-server/?ref=gh-remote-mcp) `https://docs.blockvectra.com/mcp`
   [![BlockVectra MCP connector](https://glama.ai/mcp/connectors/com.blockvectra/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.blockvectra/docs)
   🔓 - Docs, chains, pricing and public EVM RPC reads without a key; indexed data and account tools require an API key.
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
