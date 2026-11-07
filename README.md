@@ -3644,6 +3644,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atlassian](https://atlassian.com) `https://mcp.atlassian.com/v1/mcp`
   [![Atlassian MCP connector](https://glama.ai/mcp/connectors/com.atlassian/atlassian-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlassian/atlassian-mcp-server)
   🔐 - Work with Jira issues and Confluence pages.
+- [Atrix AI](https://atrix.dev/en/features/mcp) `https://atrix.dev/api/mcp`
+  [![Atrix AI MCP connector](https://glama.ai/mcp/connectors/dev.atrix/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/dev.atrix/workspace)
+  🔐 - Plan and update work, cycles and labels, write docs, run a CRM pipeline, schedule meetings and read the team feed in one workspace.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
 - [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
