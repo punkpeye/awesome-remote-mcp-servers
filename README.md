@@ -4303,6 +4303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Find local businesses on Google Maps, Yellow Pages and Yelp, then pull emails and phones from their websites.
 
 ### 🔒 <a name="security"></a>Security
+- [CanaryGuard 402](https://canaryguard-402.onrender.com) `https://canaryguard-402.onrender.com/mcp`
+  [![CanaryGuard 402 MCP connector](https://glama.ai/mcp/connectors/io.github.ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ak10082247-max/canaryguard-402)
+  🔓 - Deterministic prompt-injection firewall and zero-width Unicode scrubber for autonomous AI agents on Base.
 
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
   [![attest MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/attest)
