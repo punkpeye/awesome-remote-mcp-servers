@@ -3499,6 +3499,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RiverScript MCP v2](https://riverscript.com/docs/platform-details/mcp) `https://riverscript.com/api/mcp/v2`
   [![RiverScript MCP v2 MCP connector](https://glama.ai/mcp/connectors/com.riverscript/mcp-v2/badges/score.svg)](https://glama.ai/mcp/connectors/com.riverscript/mcp-v2)
   🔐 - Bring your RiverScript transcripts of meetings, calls and interviews to any AI agent: search, read and summarize.
+- [RoamDial](https://roamdial.com) `https://roamdial.com/mcp`
+  [![RoamDial MCP connector](https://glama.ai/mcp/connectors/io.github.DDTer/roamdial/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DDTer/roamdial)
+  🔓 - Search 35,000+ live radio stations from 215 countries by city, genre, or mood, spin the globe, and get ICY titles.
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
