@@ -5004,6 +5004,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dollea Beauty Coworking](https://coworking.dollea.de/agents/?language=en) `https://coworking.dollea.de/mcp/coworking`
   [![Dollea Beauty Coworking MCP connector](https://glama.ai/mcp/connectors/de.dollea/coworking/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/coworking)
   🔓 - Public beauty workspace catalog in Munich; OAuth for personal prices and rental booking.
+- [Easy Scribe](https://docs.easyscribe.guide/docs/ai-assistants/connect-easy-scribe-mcp) `https://mcp.easyscribe.guide/mcp`
+  [![Easy Scribe MCP connector](https://glama.ai/mcp/connectors/guide.easyscribe/easy-scribe/badges/score.svg)](https://glama.ai/mcp/connectors/guide.easyscribe/easy-scribe)
+  🔐 - Turn screen recordings into step-by-step guides, SOPs and user docs with screenshots.
 - [EasyPDF](https://www.easypdf.fr/ai-assistants) `https://www.easypdf.fr/mcp`
   [![EasyPDF MCP connector](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf)
   🔐 - Edit text inside PDFs with fonts and layout kept, then compress, merge, split, convert or translate them.
