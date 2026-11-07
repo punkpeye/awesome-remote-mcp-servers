@@ -914,6 +914,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [incwo](https://go.incwo.com/agents/pour-vos-agents/) `https://www.incwo.com/mcp`
+  [![incwo MCP connector](https://glama.ai/mcp/connectors/io.github.incwo/incwo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.incwo/incwo)
+  🔐 - Read and manage incwo contacts, quotes, invoices, products, stocks and tasks with workspace permissions.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
