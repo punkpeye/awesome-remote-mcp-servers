@@ -912,6 +912,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DOS AI](https://dosai.pro/en) `https://dosai.pro/api/mcp`
   [![DOS AI MCP connector](https://glama.ai/mcp/connectors/pro.dosai/dos-ai/badges/score.svg)](https://glama.ai/mcp/connectors/pro.dosai/dos-ai)
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
+- [EZ@Work](https://www.ezatwork.com) `https://mcp.ezatwork.com/mcp`
+  [![EZ@Work MCP connector](https://glama.ai/mcp/connectors/io.github.eranfinish/ezatwork/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eranfinish/ezatwork)
+  🔐 - Manage clients, projects, billable hours and draft invoices for freelancers and small service businesses.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
