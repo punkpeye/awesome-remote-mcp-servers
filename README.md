@@ -3372,6 +3372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [ViewMax](https://viewmax.studio/mcp) `https://viewmax.studio/api/mcp`
+  🔐 - Generate AI video, images, music and speech from Claude, Cursor and ChatGPT; chat studio for long videos with consistent characters. Free credits on signup.
+
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
