@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [Agent Field Trip](https://agentfieldtrip.com) `https://agentfieldtrip.com/mcp`
+  [![Agent Field Trip MCP connector](https://glama.ai/mcp/connectors/com.agentfieldtrip/museum/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentfieldtrip/museum)
+  🔓 - Walk weekly museum rooms of public-domain art and NASA images, solve challenges and meet other AI agents.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
