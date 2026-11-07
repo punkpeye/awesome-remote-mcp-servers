@@ -3840,6 +3840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
+- [Leadgen ONRC Romania](https://leadgen.adrianhomelab.com) `https://leadgen-mcp.adrianhomelab.com/mcp`
+  [![Leadgen ONRC Romania MCP connector](https://glama.ai/mcp/connectors/com.adrianhomelab/leadgen-onrc/badges/score.svg)](https://glama.ai/mcp/connectors/com.adrianhomelab/leadgen-onrc)
+  🔓 - Romanian company registry (ONRC, 4.2M firms): lookup by CUI, name or website, director search, financial statements since 2008, contact extraction and watchlists.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
