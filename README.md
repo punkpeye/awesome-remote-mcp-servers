@@ -1435,6 +1435,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
+- [Harashsuq](https://harashsuq.com) `https://harashsuq.com/api/mcp`
+  [![Harashsuq MCP connector](https://glama.ai/mcp/connectors/com.harashsuq/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/com.harashsuq/marketplace)
+  🔓 - Search a marketplace of prompt packs, agent workflows and datasets; an agent can open an account and buy.
 - [Hark Tech](https://harktech.co.uk/for-ai-assistants.html) `https://harktech.co.uk/mcp`
   [![Hark Tech MCP connector](https://glama.ai/mcp/connectors/uk.co.harktech/quotes/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.harktech/quotes)
   🔓 - Price your own STL, 3MF or STEP file, or a Printables/Thingiverse model, for UK 3D printing and get a checkout link.
