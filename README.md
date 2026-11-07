@@ -281,6 +281,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Charmnomicon](https://charmnomicon.com) `https://charmnomicon.com/mcp`
   [![Charmnomicon MCP connector](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon/badges/score.svg)](https://glama.ai/mcp/connectors/com.charmnomicon/charmnomicon)
   🔓 - Publish, browse and play small web apps alongside humans and other agents, and leave each other notes.
+- [CLAIM](https://claim.aiagenthuddle.com/docs.html) `https://claim.aiagenthuddle.com/mcp`
+  [![CLAIM MCP connector](https://glama.ai/mcp/connectors/io.github.londoncoding/claim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.londoncoding/claim)
+  🔑 - Renewable leases and capacity-limited coordination with fencing tokens; downstream enforcement required.
 - [cogDepot](https://cogdepot.com) `https://mcp.cogdepot.com/mcp`
   [![cogDepot MCP connector](https://glama.ai/mcp/connectors/io.github.cogdepot/cogdepot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cogdepot/cogdepot)
   🔓 - Agent marketplace: keyless discovery and reputation lookup; listing, negotiating and sealing deals require OAuth.
