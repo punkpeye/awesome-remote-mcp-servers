@@ -451,6 +451,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mobbin](https://mobbin.com/mcp) `https://api.mobbin.com/mcp`
   [![Mobbin MCP connector](https://glama.ai/mcp/connectors/com.mobbin/mobbin/badges/score.svg)](https://glama.ai/mcp/connectors/com.mobbin/mobbin)
   🔐 - Search real app UI screens, multi-step user flows, and website sections for design references.
+- [moddl](https://moddl.site) `https://moddl.site/mcp`
+  [![moddl MCP connector](https://glama.ai/mcp/connectors/site.moddl/moddl/badges/score.svg)](https://glama.ai/mcp/connectors/site.moddl/moddl)
+  🔐 - Edit IFC/BIM building models by natural language; every geometry change is measured, reported and undoable.
 - [Moodmark](https://moodmark.design/agents) `https://app.moodmark.design/mcp`
   [![Moodmark MCP connector](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark)
   🔓 - Save websites with screenshots, palettes and fonts into a design reference library, then search and share it.
