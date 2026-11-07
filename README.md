@@ -962,7 +962,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vericto account](https://vericto.com/docs/mcp#oauth) `https://mcp.vericto.com/mcp/account`
   [![Vericto account MCP connector](https://glama.ai/mcp/connectors/com.vericto/account/badges/score.svg)](https://glama.ai/mcp/connectors/com.vericto/account)
   🔐 - Your Vericto workspace over OAuth: setup status, rules, CI reports, docs search and SQL checks.
-  
+
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
