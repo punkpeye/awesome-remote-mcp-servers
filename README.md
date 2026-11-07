@@ -3526,6 +3526,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [Tesseract](https://tesseract.dev/mcp/) `https://app.tesseract.dev/api/core/tesseract/mcp`
+  [![Tesseract MCP connector](https://glama.ai/mcp/connectors/dev.tesseract/media/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tesseract/media)
+  🔐 - Make pictures and video clips, edit pictures, apply effects and build long multi-scene videos on your Tesseract plan.
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
