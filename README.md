@@ -575,6 +575,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
+- [Webcapture](https://webcapture.io) `https://webcapture.io/mcp`
+  [![Webcapture MCP connector](https://glama.ai/mcp/connectors/io.webcapture/webcapture/badges/score.svg)](https://glama.ai/mcp/connectors/io.webcapture/webcapture)
+  🔑 - Render any URL to a print-stable PDF, a PNG/JPEG/WebP screenshot, or clean markdown in sync-by-default headless Chromium; needs a free API key.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
