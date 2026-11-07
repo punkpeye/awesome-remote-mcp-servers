@@ -3652,6 +3652,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dot•requirements](https://dotrequirements.io) `https://app.dotrequirements.io/mcp`
   [![dot•requirements MCP connector](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements/badges/score.svg)](https://glama.ai/mcp/connectors/io.dotrequirements/dotrequirements)
   🔐 - Draft testable requirements specs from chat, style-check them, publish to your team, and see test coverage.
+- [Dutify](https://dutify.ai) `https://mcp.dutify.ai`
+  [![Dutify MCP connector](https://glama.ai/mcp/connectors/ai.dutify.mcp/dutify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dutify.mcp/dutify)
+  🔑 - Projects, call recordings, wiki and feature requests across the Dutify suite in one server.
 - [Edworking MCP](https://mcp.edworking.com) `https://mcp.edworking.com/mcp`
   [![Edworking MCP connector](https://glama.ai/mcp/connectors/io.github.Edworking/edworking-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Edworking/edworking-mcp)
   🔐 - Read and manage Edworking projects, tasks, conversations and files with scoped access.
