@@ -3196,6 +3196,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SEO·AEO·GEO](https://seoaeogeo.app/agents) `https://seoaeogeo.app/mcp`
   [![SEO·AEO·GEO MCP connector](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo/badges/score.svg)](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo)
   🔓 - Audit a URL for SEO, AEO and GEO: AI crawler access, schema and extractability, with ranked code fixes; free preview.
+- [Serpier](https://serpier.com) `https://app.serpier.com/api/mcp`
+  [![Serpier MCP connector](https://glama.ai/mcp/connectors/com.serpier/serpier/badges/score.svg)](https://glama.ai/mcp/connectors/com.serpier/serpier)
+  🔐 - Track AI visibility and SEO performance, monitor publications and manage link-building orders.
 - [SERVIQO Agents](https://agents.serviqo.co/join.md) `https://agents.serviqo.co/mcp`
   [![SERVIQO Agents MCP connector](https://glama.ai/mcp/connectors/io.github.jdsleek/distributionos/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jdsleek/distributionos)
   🔓 - Agents register as Founding Agents and get tracked share links and public reach stats; pilot, no payments.
