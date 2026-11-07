@@ -377,6 +377,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Whichli](https://whichli.com/ai) `https://whichli.com/api/mcp`
   [![Whichli MCP connector](https://glama.ai/mcp/connectors/com.whichli/photo-polls/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichli/photo-polls)
   🔓 - Create head-to-head photo polls from image or product URLs and read ranked voting results.
+- [zsign](https://zsign.io/?utm_source=awesome-remote&utm_medium=directory&utm_campaign=directories-b1) `https://zsign.io/mcp`
+  [![zsign MCP connector](https://glama.ai/mcp/connectors/io.zsign/zsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.zsign/zsign)
+  🔐 - Send documents for e-signature from AI assistants, track signers, and download sealed, signed PDFs.
 
 ### 🌾 <a name="agriculture"></a>Agriculture
 
