@@ -3270,6 +3270,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
+- [AnalyticsProof](https://analyticsproof.com) `https://analyticsproof.com/mcp`
+  [![AnalyticsProof MCP connector](https://glama.ai/mcp/connectors/com.analyticsproof/analyticsproof/badges/score.svg)](https://glama.ai/mcp/connectors/com.analyticsproof/analyticsproof)
+  🔐 - Replay recorded website journeys and check dataLayer pushes, GA4 hits and tracking before cookie consent.
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
