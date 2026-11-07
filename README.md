@@ -4696,6 +4696,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SportAPI](https://sportapi.ai/mcp-server) `https://sportapi.ai/mcp`
   [![SportAPI MCP connector](https://glama.ai/mcp/connectors/ai.sportapi/football/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sportapi/football)
   🔓 - Football fixtures, live scores, standings, lineups, teams and players for 117 leagues; tool calls need a free API key.
+- [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) `https://mcp.apify.com?tools=publicrecords/sports-odds-api`
+  [![Sports Odds API (BetRivers, Unibet & 22 more books) MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/sports-odds-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/sports-odds-api)
+  🔐 - Live odds from 24 Kambi sportsbooks (BetRivers, Unibet, Paf and more) in one call, with the best price per outcome.
 - [Squadcard](https://squadcard.app/agents) `https://squadcard.app/api/mcp`
   [![Squadcard MCP connector](https://glama.ai/mcp/connectors/io.github.iuliczki/squadcard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.iuliczki/squadcard)
   🔐 - Run a weekly football game: fair teams, fixtures, squads with invite links, who's in and the score.
