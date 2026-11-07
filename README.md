@@ -2550,7 +2550,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Guideline-cited lab-results analysis for chronic conditions; flags missing or overdue tests with citations.
 - [Picardo](https://picardo.health) `https://mcp.picardo.health/mcp`
   [![Picardo MCP connector](https://glama.ai/mcp/connectors/health.picardo/labs/badges/score.svg)](https://glama.ai/mcp/connectors/health.picardo/labs)
-  🔓 - Find clinician-designed blood test panels and about 1,000 Labcorp tests with prices, and get a link to order.
+  🔓 - Plan your blood work with your assistant. Browse Picardo's panels, from a yearly check-up to fertility, price any of about 1,000 Labcorp tests, and get one link to order them all.
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
