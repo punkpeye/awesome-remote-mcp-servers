@@ -514,6 +514,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tesla Wrap Design](https://tesla-wrap.design) `https://tesla-wrap.design/mcp`
   [![Tesla Wrap Design MCP connector](https://glama.ai/mcp/connectors/io.github.GhostCatcg/tesla-wrap-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GhostCatcg/tesla-wrap-design)
   🔐 - Design Tesla Paint Shop wraps from an AI assistant: gallery search, prompts, 3D preview, and PNG export.
+- [UX Pilot](https://uxpilot.ai/mcp) `https://mcp.uxpilot.net/mcp`
+  [![UX Pilot MCP connector](https://glama.ai/mcp/connectors/ai.uxpilot/uxpilot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uxpilot/uxpilot)
+  🔐 - Design screens live on the UX Pilot canvas, run its design agent, review UX, and make React apps, videos and media.
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
