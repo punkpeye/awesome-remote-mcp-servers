@@ -613,6 +613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Floot](https://floot.com) `https://mcp.floot.com/mcp`
   [![Floot MCP connector](https://glama.ai/mcp/connectors/com.floot/floot/badges/score.svg)](https://glama.ai/mcp/connectors/com.floot/floot)
   🔐 - Build React apps with serverless endpoints, Postgres and auth, run SQL, and publish to a live URL.
+- [GPU Economy](https://gpueconomy.com/mcp) `https://gpueconomy.com/mcp`
+  [![GPU Economy MCP connector](https://glama.ai/mcp/connectors/io.github.laserodds21/gpu-prices/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.laserodds21/gpu-prices)
+  🔓 - Live cloud GPU rental prices from 80+ providers in USD per GPU-hour: compare, cost and track, each with its source.
 - [gpu.nz](https://gpu.nz/en/docs/mcp) `https://gpu.nz/mcp`
   [![gpu.nz MCP connector](https://glama.ai/mcp/connectors/nz.gpu/gpu-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/nz.gpu/gpu-cloud)
   🔓 - Find GPUs with live prices, estimate VRAM, rent, monitor and stop GPU servers; renting needs an API key.
