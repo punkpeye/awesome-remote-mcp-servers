@@ -3390,6 +3390,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cast](https://cast.katechon.technology/agents) `https://cast.katechon.technology/mcp`
   [![Cast MCP connector](https://glama.ai/mcp/connectors/technology.katechon/cast/badges/score.svg)](https://glama.ai/mcp/connectors/technology.katechon/cast)
   🔓 - Turn one line into a one-tap link for a short vertical AI character video; first video free.
+- [ChalkTalk](https://chalktalk.dev/mcp) `https://chalktalk.dev/api/mcp`
+  [![ChalkTalk MCP connector](https://glama.ai/mcp/connectors/io.github.chalktalkhq/chalktalk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chalktalkhq/chalktalk)
+  🔐 - Write narrated tutorial videos as scenes of code, diagrams and charts, then hand back an editor link to review.
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
