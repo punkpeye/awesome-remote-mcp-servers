@@ -1068,6 +1068,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Datakoot Package Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages)
   🔓 - npm, PyPI and crates.io package health, versions, downloads, dependencies and advisories.
 - [Date Math](https://github.com/JowenDelaPena/date-math) `https://date-math.datemath.workers.dev/mcp`
+  [![Date Math MCP connector](https://glama.ai/mcp/connectors/io.github.JowenDelaPena/date-math/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JowenDelaPena/date-math)
   🔓 - Exact date/time math: business days with holidays in 207 countries, time zones, cron, RRULE and SLA deadlines; pay per call via x402 USDC on Base.
 - [Decide Runtime](https://www.decide.fyi/mcp#connect-runtime) `https://mcp-live.decide.fyi/developer-prepaid/v1/mcp`
   [![Decide Runtime MCP connector](https://glama.ai/mcp/connectors/io.github.nodeblur/decide-runtime/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nodeblur/decide-runtime)
