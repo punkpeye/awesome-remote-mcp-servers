@@ -1206,6 +1206,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Omniyond](https://omniyond.com/#mcp) `https://omniyond.com/mcp`
   [![Omniyond MCP connector](https://glama.ai/mcp/connectors/com.omniyond/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.omniyond/mcp)
   🔑 - Schedule HTTP calls, screenshots, PDFs, OG images, QR codes, short links and page extract on one API key.
+- [ONCE](https://once.aiagenthuddle.com/docs.html) `https://once.aiagenthuddle.com/mcp`
+  [![ONCE MCP connector](https://glama.ai/mcp/connectors/io.github.londoncoding/once/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.londoncoding/once)
+  🔑 - Track GitHub issue and Stripe test-payment outcomes, reconcile uncertainty, and control retries.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
