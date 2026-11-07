@@ -1895,6 +1895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Dinero en la Mesa](https://dineroenlamesa.com/agents/) `https://dineroenlamesa.com/agents/mcp?c=awesome`
+  [![Dinero en la Mesa MCP connector](https://glama.ai/mcp/connectors/com.dineroenlamesa/perp-dex-costs/badges/score.svg)](https://glama.ai/mcp/connectors/com.dineroenlamesa/perp-dex-costs)
+  🔓 - All-in trading cost (fees + live slippage) and funding rates on 28 perp DEXs, each with its read time.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
