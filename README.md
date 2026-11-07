@@ -4168,6 +4168,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PeopleSearch.im](https://peoplesearch.im/mcp) `https://peoplesearch.im/api/mcp`
   [![PeopleSearch.im MCP connector](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder/badges/score.svg)](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder)
   🔓 - Search people and companies in plain English and get verified work emails; tool calls sign in with OAuth or an API key.
+- [Perceptlayer](https://perceptlayer.com) `https://api.perceptlayer.com/mcp`
+  [![Perceptlayer MCP connector](https://glama.ai/mcp/connectors/com.perceptlayer/web-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.perceptlayer/web-data)
+  🔓 - Structured JSON from 248 websites: maps, real estate, jobs, travel, search; free catalogue search, calls need a key.
 - [Pollar News](https://mcp.pollar.news/) `https://mcp.pollar.news/mcp`
   [![Pollar News MCP connector](https://glama.ai/mcp/connectors/news.pollar/pollar-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.pollar/pollar-news)
   🔓 - Independent European news in four languages: search with sources, explainers with maps, briefs and live stories.
