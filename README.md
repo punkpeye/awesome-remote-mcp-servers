@@ -1276,6 +1276,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Show It Works](https://showitworks.app) `https://showitworks.app/api/mcp`
   [![Show It Works MCP connector](https://glama.ai/mcp/connectors/app.showitworks/show-it-works/badges/score.svg)](https://glama.ai/mcp/connectors/app.showitworks/show-it-works)
   🔓 - Public tool discovery; uploading verification videos and sharing viewer links require an API key.
+- [SimplyUtils](https://simplyutils.com) `https://api.simplyutils.com/mcp`
+  [![SimplyUtils MCP connector](https://glama.ai/mcp/connectors/io.github.Notysoty/simplyutils-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Notysoty/simplyutils-mcp)
+  🔓 - Everyday developer and text tools: format JSON, make QR codes, convert units, generate passwords and UUIDs, hash text, Base64, test regex, convert timestamps and count words.
 - [sinatra.dev](https://www.sinatra.dev) `https://api.sinatra.dev/v1/mcp`
   [![sinatra.dev MCP connector](https://glama.ai/mcp/connectors/dev.sinatra/sinatra/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sinatra/sinatra)
   🔐 - Hosted coding agent: start, follow, reply to and stop tasks that open GitHub pull requests.
