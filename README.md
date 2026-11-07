@@ -3460,6 +3460,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mage](https://www.mage.space/mcp) `https://mcp.mage.space/mcp`
   [![Mage MCP connector](https://glama.ai/mcp/connectors/space.mage/mage/badges/score.svg)](https://glama.ai/mcp/connectors/space.mage/mage)
   🔐 - Generate images, video, and audio with many frontier models, with the price quoted before each run.
+- [MakeMidas](https://makemidas.com/developers) `https://makemidas.com/api/mcp`
+  [![MakeMidas MCP connector](https://glama.ai/mcp/connectors/com.makemidas/makemidas/badges/score.svg)](https://glama.ai/mcp/connectors/com.makemidas/makemidas)
+  🔐 - Generate images and videos with GPT Image 2, Nano Banana, Veo 3.1, Kling and Seedance on one credit balance.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
