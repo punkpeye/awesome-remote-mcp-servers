@@ -1367,6 +1367,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![XF Model Source MCP connector](https://glama.ai/mcp/connectors/dev.xpansion/xfms/badges/score.svg)](https://glama.ai/mcp/connectors/dev.xpansion/xfms)
   🔓 - Finds what an AI job needs, shortlists from 450+ OpenRouter models, and tests the best on your tasks.
 
+- [Zambo](https://zambo.dev) `https://zambo.dev/api/mcp`
+  [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
+  🔓 - Give your AI hands: 120 native MCP tools across 17 products over one zero-auth endpoint, free with no signup.
+
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
 - [3Descu](https://quote.3descu.com/) `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp`
