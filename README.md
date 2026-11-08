@@ -3340,6 +3340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [Paw Pulse](https://pulse.dougalpaw.com) `https://pulse.dougalpaw.com/mcp`
+  [![Paw Pulse MCP connector](https://glama.ai/mcp/connectors/com.dougalpaw/pawpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.dougalpaw/pawpulse)
+  🔓 - Create and check heartbeat monitors for home LLM servers (Ollama, llama.cpp, vLLM) with webhook alerts.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
