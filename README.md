@@ -1185,6 +1185,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
+- [Moltline Code Review](https://moltlinestudio.com/servers.html#codereview) `https://mcp.moltlinestudio.com/codereview`
+  [![Moltline Code Review MCP connector](https://glama.ai/mcp/connectors/com.moltlinestudio/codereview/badges/score.svg)](https://glama.ai/mcp/connectors/com.moltlinestudio/codereview)
+  🔓 - Scan diffs for risk, flag AI-generated-code smells and find leaked secrets.
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
@@ -1279,6 +1282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [sinatra.dev](https://www.sinatra.dev) `https://api.sinatra.dev/v1/mcp`
   [![sinatra.dev MCP connector](https://glama.ai/mcp/connectors/dev.sinatra/sinatra/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sinatra/sinatra)
   🔐 - Hosted coding agent: start, follow, reply to and stop tasks that open GitHub pull requests.
+- [SKILL.md Lint](https://moltlinestudio.com/servers.html#skillmd-lint) `https://mcp.moltlinestudio.com/skillmd-lint`
+  [![SKILL.md Lint MCP connector](https://glama.ai/mcp/connectors/com.moltlinestudio/skillmd-lint/badges/score.svg)](https://glama.ai/mcp/connectors/com.moltlinestudio/skillmd-lint)
+  🔓 - Lint SKILL.md files for frontmatter, structure, secrets and size before you ship an agent skill.
 - [SkillAgent](https://skillagent.dev) `https://skillagent.dev/mcp`
   [![SkillAgent MCP connector](https://glama.ai/mcp/connectors/dev.skillagent/skills/badges/score.svg)](https://glama.ai/mcp/connectors/dev.skillagent/skills)
   🔓 - Search, rank and get install steps for AI agent skills, rules files and MCP servers indexed from GitHub.
@@ -4403,6 +4409,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mifori CertAgent](https://agent.mifori.com) `https://agent.mifori.com/mcp`
   [![Mifori CertAgent MCP connector](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent)
   🔓 - Live AI agent trust oracle: audit synthetic IQ, latency and JSON compliance via x402 or free telemetry tokens.
+- [Moltline Agent Governance](https://moltlinestudio.com/servers.html#govern) `https://mcp.moltlinestudio.com/govern`
+  [![Moltline Agent Governance MCP connector](https://glama.ai/mcp/connectors/com.moltlinestudio/govern/badges/score.svg)](https://glama.ai/mcp/connectors/com.moltlinestudio/govern)
+  🔓 - Audit MCP configs and SKILL.md files for over-broad scopes and prompt-injection risk.
+- [Moltline RegClock](https://moltlinestudio.com/servers.html#regclock) `https://mcp.moltlinestudio.com/regclock`
+  [![Moltline RegClock MCP connector](https://glama.ai/mcp/connectors/com.moltlinestudio/regclock/badges/score.svg)](https://glama.ai/mcp/connectors/com.moltlinestudio/regclock)
+  🔓 - Compute incident-reporting deadlines from the legal text of NIS2, DORA, GDPR, HIPAA, SEC 8-K and the EU CRA.
 - [Movahedi Privacy](https://movahedi.ca/mcp) `https://movahedi.ca/mcp`
   [![Movahedi Privacy API MCP server](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api/badges/score.svg)](https://glama.ai/mcp/connectors/ca.movahedi/movahedi-privacy-api)
   🔓 - Canadian privacy compliance: enforcement actions, glossary and Law 25 checks.
@@ -5198,6 +5210,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
+- [Moltline Optimize](https://moltlinestudio.com/servers.html#optimize) `https://mcp.moltlinestudio.com/optimize`
+  [![Moltline Optimize MCP connector](https://glama.ai/mcp/connectors/com.moltlinestudio/optimize/badges/score.svg)](https://glama.ai/mcp/connectors/com.moltlinestudio/optimize)
+  🔓 - Solve vehicle routing, 3-D packing, cutting stock, rostering and knapsack problems with Google OR-Tools.
 - [Muslim Prayer Reminder MCP](https://tareq7.github.io/muslim-prayer-mcp/) `https://muslim-prayer-mcp.najetareqz.workers.dev/mcp`
   [![Muslim Prayer Reminder MCP connector](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp)
   🔓 - Computes Muslim prayer times by location and regional method, with daily timetables and next-prayer countdowns.
