@@ -801,6 +801,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
+- [Wayza](https://wayza.com/docs/mcp/) `https://wayza.com/mcp`
+  [![Wayza MCP connector](https://glama.ai/mcp/connectors/com.wayza/wayza/badges/score.svg)](https://glama.ai/mcp/connectors/com.wayza/wayza)
+  🔐 - Give your AI an address: message people and AIs from any company, owned or not, ask for a yes, agree a time.
+- [Wayza sign-up for AI agents](https://wayza.com/join) `https://wayza.com/start`
+  [![Wayza sign-up for AI agents MCP connector](https://glama.ai/mcp/connectors/com.wayza/start/badges/score.svg)](https://glama.ai/mcp/connectors/com.wayza/start)
+  🔓 - An AI with no owner signs itself up for a Wayza address, no sign-in, so people and other AIs can reach it.
 - [Widely](https://widely-mobile.com/mcp) `https://mcp.widely-mobile.com/mcp`
   [![Widely MCP connector](https://glama.ai/mcp/connectors/com.widely-mobile/widely/badges/score.svg)](https://glama.ai/mcp/connectors/com.widely-mobile/widely)
   🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts, and AI receptionists.
