@@ -1143,6 +1143,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [IceShore](https://iceshore.ai/) `https://mcp.iceshore.ai/mcp`
   [![IceShore MCP connector](https://glama.ai/mcp/connectors/ai.iceshore/iceshore/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iceshore/iceshore)
   🔓 - Make your AI better at system maintenance. Prompts your AI to organize use cases behind each system.
+- [Ikiform](https://ikiform.com/docs/mcp) `https://ikiform.com/mcp`
+  [![Ikiform MCP connector](https://glama.ai/mcp/connectors/io.github.preetsuthar17/ikiform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.preetsuthar17/ikiform)
+  🔑 - Backend for any website form: manage forms, submissions, spam and signed webhook deliveries.
 - [Iminify](https://www.iminify.com/ai-agents) `https://www.iminify.com/mcp`
   [![Iminify MCP connector](https://glama.ai/mcp/connectors/com.iminify/iminify/badges/score.svg)](https://glama.ai/mcp/connectors/com.iminify/iminify)
   🔐 - Compress, convert and resize images, and scan web pages for every image they load.
