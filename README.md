@@ -4948,6 +4948,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [metasearch MCP](https://metasearch.com.tr/en/mcp) `https://metasearch.com.tr/mcp`
   [![metasearch MCP connector](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp)
   🔓 - Validate, normalize and compare hotel feeds for Google Hotel Center, Wego, trivago and more.
+- [Riviera Maya Elite](https://rivieramayaelite.com/ai) `https://travel.rivieramayaelite.com/mcp`
+  [![Riviera Maya Elite MCP connector](https://glama.ai/mcp/connectors/com.rivieramayaelite/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.rivieramayaelite/directory)
+  🔓 - Search local businesses, area guides and developments for sale in the Riviera Maya, Mexico.
   
 ### 🔄 <a name="version-control"></a>Version Control
 
