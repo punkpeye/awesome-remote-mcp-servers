@@ -1748,8 +1748,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Algolab MCP](https://algolab.vn/mcp) `https://mcp.algolab.vn/free`
   [![Algolab MCP connector](https://glama.ai/mcp/connectors/vn.algolab/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vn.algolab/mcp)
   🔓 - Vietnam stock market data: prices, financials, broker research, macro indicators and a VN-Index forecast.
-- [algoum](https://algoum.de/) `https://api.algoum.de/v1/mcp`
-  [![algoum MCP connector](https://glama.ai/mcp/connectors/de.algoum.api/algoum/badges/score.svg)](https://glama.ai/mcp/connectors/de.algoum.api/algoum)
+- [algoum-mcp](https://algoum.de/) `https://api.algoum.de/v1/mcp`
+  [![algoum-mcp MCP connector](https://glama.ai/mcp/connectors/io.github.fi4all/algoum-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fi4all/algoum-mcp)
   🔑 - SEC EDGAR insider trades (Form 4/5), 8-K events, 13F holdings and insider cluster-buy signals.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
