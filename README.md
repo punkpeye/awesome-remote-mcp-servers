@@ -2321,7 +2321,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Ask questions about cloud cost and usage data.
 - [Vectorial Data Terminal](https://terminal.vectorialdata.com/agents) `https://terminal.vectorialdata.com/api/mcp`
   [![Vectorial Data Terminal MCP connector](https://glama.ai/mcp/connectors/com.vectorialdata/terminal/badges/score.svg)](https://glama.ai/mcp/connectors/com.vectorialdata/terminal)
-  🔐 - Self-custodial Hyperliquid perps, Polymarket, staking and yield for AI agents, with paper mode and a kill switch.
+  🔓 - Hyperliquid perps, Polymarket, staking and yield for AI agents: open market data, OAuth sign-in to trade.
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
   🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
