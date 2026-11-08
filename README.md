@@ -4869,6 +4869,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MyBestSim](https://mybestsim.com/?utm_source=github&utm_medium=mcp-directory&utm_campaign=awesome-remote-mcp-servers) `https://mcp.mybestsim.com/mcp`
   [![MyBestSim MCP connector](https://glama.ai/mcp/connectors/com.mybestsim/esim-comparator/badges/score.svg)](https://glama.ai/mcp/connectors/com.mybestsim/esim-comparator)
   🔓 - Compare prepaid travel eSIM plans by destination, data and trip length, and plan multi-country trips.
+- [NAPSPAN](https://napspan.com/docs.html#mcp) `https://api.napspan.com/api/v1/mcp`
+  [![NAPSPAN MCP connector](https://glama.ai/mcp/connectors/com.napspan/traffic/badges/score.svg)](https://glama.ai/mcp/connectors/com.napspan/traffic)
+  🔑 - European road data from national access points: incidents, roadworks, cameras, truck parking and routing.
 - [NC Wedding Guide](https://www.ncweddingguide.com) `https://www.ncweddingguide.com/mcp`
   [![NC Wedding Guide MCP connector](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide)
   🔓 - Search North Carolina wedding venues and vendors, estimate costs, build budgets, and prepare vendor inquiries.
@@ -4884,6 +4887,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PriceWin](https://www.price.win/) `https://mcp.price.win/mcp`
   [![PriceWin MCP connector](https://glama.ai/mcp/connectors/win.price/pricewin/badges/score.svg)](https://glama.ai/mcp/connectors/win.price/pricewin)
   🔓 - Compare live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, in USD.
+- [Road511](https://road511.com/docs.html#mcp) `https://api.road511.com/api/v1/mcp`
+  [![Road511 MCP connector](https://glama.ai/mcp/connectors/com.road511/traffic/badges/score.svg)](https://glama.ai/mcp/connectors/com.road511/traffic)
+  🔑 - US and Canada road data from 511 systems: incidents, closures, cameras, truck restrictions and truck routing.
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
