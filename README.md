@@ -2819,6 +2819,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [disclosedby](https://disclosedby.com) `https://disclosedby.com/api/mcp`
   [![disclosedby MCP connector](https://glama.ai/mcp/connectors/com.disclosedby/record/badges/score.svg)](https://glama.ai/mcp/connectors/com.disclosedby/record)
   🔓 - Dated quotes of GDPR art. 28 subprocessor lists: who lists whom, what changed, and what a list said on a date.
+- [eDiscovery Decoder](https://ediscoverydecoder.com/mcp/) `https://mcp.ediscoverydecoder.com/mcp`
+  [![eDiscovery Decoder MCP connector](https://glama.ai/mcp/connectors/com.ediscoverydecoder/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ediscoverydecoder/mcp)
+  🔓 - Read-only eDiscovery news, TAR calculators, and educational reference tools; free with no account.
 - [fynk](https://fynk.com/en/integrations/mcp-server/) `https://app.fynk.com/mcp`
   [![fynk MCP connector](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp)
   🔐 - Manage contracts end to end: find and analyze them, draft or upload new ones, add signatories and send for e-signature.
