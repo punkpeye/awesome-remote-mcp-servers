@@ -810,6 +810,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📝 <a name="content-management"></a>Content Management
 
+- [1ClickWebsite](https://www.1clickwebsite.ai/docs/mcp) `https://www.1clickwebsite.ai/api/mcp`
+  [![1ClickWebsite MCP connector](https://glama.ai/mcp/connectors/ai.1clickwebsite/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.1clickwebsite/mcp)
+  🔐 - Build WordPress sites for local businesses from their Google Maps profile, edit them by chat, run lead gen batches.
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
   🔓 - Your AI picks an 8B generated design and writes the copy; get an animated one-page site, preview link and HTML file.
