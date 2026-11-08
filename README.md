@@ -1185,6 +1185,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
+- [Momentic](https://momentic.ai/docs/mo/chatgpt-and-claude) `https://mcp.momentic.ai`
+  [![Momentic MCP connector](https://glama.ai/mcp/connectors/ai.momentic/momentic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.momentic/momentic)
+  🔐 - Bug bash deployed web apps and GitHub pull requests with Mo, review findings, and request retests.
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
