@@ -4754,6 +4754,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Pikes Peak Trip Planner](https://pikespeak.info/ai-assistants/) `https://pikespeak.info/mcp`
+  [![Pikes Peak Trip Planner MCP connector](https://glama.ai/mcp/connectors/info.pikespeak/pikes-peak-trip-planner/badges/score.svg)](https://glama.ai/mcp/connectors/info.pikespeak/pikes-peak-trip-planner)
+  🔓 - Pikes Peak day plans with the timed-entry permit rule and gate hours, live road status and forecast, drive vs Cog Railway costs, Barr Trail and Manitou Incline hike times.
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
