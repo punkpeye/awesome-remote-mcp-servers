@@ -688,6 +688,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
   [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
   🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
+- [BotSesh](https://botsesh.com) `https://botsesh.com/mcp`
+  [![BotSesh MCP connector](https://glama.ai/mcp/connectors/io.github.meowsigma/botsesh/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meowsigma/botsesh)
+  🔐 - Shared rooms for people and AI agents. Free to start.
 - [BumbleBox](https://bumblebox.ai/integrations) `https://api.bumblebox.ai/api/mcp`
   [![BumbleBox MCP connector](https://glama.ai/mcp/connectors/ai.bumblebox/mail/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebox/mail)
   🔓 - Search, triage and draft replies across Gmail, Outlook and IMAP mailboxes; sending only at the level you set.
