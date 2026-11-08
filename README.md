@@ -3315,7 +3315,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, read the live resolver board; no key.
 - [LogBrew](https://logbrew.co) `https://logbrew.co/mcp`
   [![LogBrew MCP connector](https://glama.ai/mcp/connectors/co.logbrew/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.logbrew/mcp)
-  🔐 - Read errors, logs, traces, metrics, and product analytics, and triage issues when write access is allowed.
+  🔐 - Ask your agent what broke in production. It reads your errors, logs, traces, and product analytics in LogBrew and helps you fix the bug.
 - [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
   [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
   🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
