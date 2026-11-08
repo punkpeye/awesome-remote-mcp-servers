@@ -4826,6 +4826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GateRoam](https://gateroam.com/?utm_source=github.com&utm_medium=directory&utm_campaign=mcp-listing) `https://gateroam.com/mcp`
   [![GateRoam MCP connector](https://glama.ai/mcp/connectors/com.gateroam/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gateroam/mcp)
   🔐 - Amadeus flight search, fare pricing and client offers for travel agencies.
+- [GeoTok Trips](https://geotok.co/ai) `https://geotok.co/mcp`
+  [![GeoTok Trips MCP connector](https://glama.ai/mcp/connectors/co.geotok/trips/badges/score.svg)](https://glama.ai/mcp/connectors/co.geotok/trips)
+  🔓 - Trip planning: flight and hotel links, airport transfers, sights, and restaurants verified from TikTok/Instagram food videos; save the trip to the GeoTok iPhone app for nearby reminders.
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
