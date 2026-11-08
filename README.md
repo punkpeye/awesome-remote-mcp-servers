@@ -3608,7 +3608,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Pink Agentic AI Payments MCP connector](https://glama.ai/mcp/connectors/com.pinkwallet/agentic-payments-sandbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.pinkwallet/agentic-payments-sandbox)
   🔐 - Approval layer for AI agent payments: per-agent budgets and rules allow, ask a human, or block; test-money sandbox.
 - [Saifuban](https://ut181749ut.github.io/saifuban/) `https://zrphnuvrsldcycxtdftv.supabase.co/functions/v1/saifuban-mcp`
-  🔑 - Agents ask before spending: auto-approves small amounts, sends larger ones to your phone for one-tap approval, enforces daily budgets, and returns single-use payment tokens.
+  [![Saifuban MCP connector](https://glama.ai/mcp/connectors/io.github.ut181749ut/saifuban/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ut181749ut/saifuban)
+  🔓 - Agents ask before spending: auto-approves small amounts, sends larger ones to your phone for one-tap approval, enforces daily budgets, and returns single-use payment tokens.
 - [send21](https://send21.io) `https://send21.io/mcp`
   [![send21 MCP connector](https://glama.ai/mcp/connectors/io.github.send21io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.send21io/mcp)
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
