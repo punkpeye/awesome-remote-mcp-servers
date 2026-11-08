@@ -87,6 +87,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🛒 - [E-Commerce](#e-commerce)
 * 🎓 - [Education](#education)
 * 🌳 - [Environment](#environment)
+* 🎟️ - [Events](#events)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
 * 🍽️ - [Food & Dining](#food--dining)
@@ -1656,6 +1657,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Sunrise-Sunset.org MCP connector](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times/badges/score.svg)](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times)
   🔓 - Sunrise, sunset, twilight, golden hour and moon times for any place and date, worldwide.
 
+### 🎟️ <a name="events"></a>Events
+
+- [Latino Events (events.lat)](https://events.lat) `https://ojlsoqhibryhvuyltwpi.supabase.co/functions/v1/mcp`
+  [![Latino Events (events.lat) MCP connector](https://glama.ai/mcp/connectors/lat.events/latino-events/badges/score.svg)](https://glama.ai/mcp/connectors/lat.events/latino-events)
+  🔐 - Search concerts, festivals and cultural events across Latin America, with venue, dates and official ticket links.
+
 ### 📂 <a name="file-storage"></a>File Storage
 
 - [agentleFS](https://agentlefs.com/?ref=awesome-remote-mcp-servers) `https://mcp.agentlefs.com/mcp`
@@ -2530,6 +2537,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
+- [depot.fitness](https://depot.fitness/connect) `https://nihheurtdimdezbhrdba.supabase.co/functions/v1/mcp`
+  [![depot.fitness MCP connector](https://glama.ai/mcp/connectors/fitness.depot/strength-programs/badges/score.svg)](https://glama.ai/mcp/connectors/fitness.depot/strength-programs)
+  🔐 - Search 101 written-out strength programs and 539 exercises, read training guides, and save programs to your library.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
