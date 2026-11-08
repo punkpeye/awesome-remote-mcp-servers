@@ -4525,6 +4525,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
+- [CreatorsCompanion](https://www.creatorscompanion.app/connect) `https://www.creatorscompanion.app/mcp`
+  [![CreatorsCompanion MCP connector](https://glama.ai/mcp/connectors/app.creatorscompanion/creatorscompanion/badges/score.svg)](https://glama.ai/mcp/connectors/app.creatorscompanion/creatorscompanion)
+  🔐 - Find viral posts, pull transcripts and write Reels, TikTok, LinkedIn, X and YouTube content in a creator's voice.
 - [dopost](https://dopost.co/ai-agents) `https://mcp.dopost.co/mcp`
   [![dopost MCP connector](https://glama.ai/mcp/connectors/co.dopost.mcp/dopost/badges/score.svg)](https://glama.ai/mcp/connectors/co.dopost.mcp/dopost)
   🔐 - Schedule, publish and analyze posts on 12 networks, including X, Bluesky, Mastodon, Telegram, LinkedIn and Instagram.
