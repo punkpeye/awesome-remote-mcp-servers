@@ -1559,6 +1559,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
+- [HornLib](https://hornlib.com) `https://hornlib.com/api/mcp`
+  [![HornLib MCP connector](https://glama.ai/mcp/connectors/com.hornlib/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hornlib/mcp)
+  🔓 - French horn F/Bb double horn fingering charts, pitch transposition, harmonic series physics and orchestral excerpts.
 - [Laplace’s Mini World](https://world.lapla.si/en/api/) `https://world.lapla.si/mcp`
   [![Laplace’s Mini World MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp)
   🔓 - Find and open 100+ interactive 3D science models live in the chat, in Chinese and English; read-only.
