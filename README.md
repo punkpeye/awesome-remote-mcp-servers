@@ -2388,10 +2388,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
-  🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
+  🔓 - Alcohol-premises data from public registers and a cocktail dataset, paid per request over x402 (USDC on Base). The agent-bar tools are deprecated.
 - [DrinkedIn Night Out](https://drinkedin.net/docs/night-out) `https://ai.drinkedin.net/mcp/night-out`
   [![DrinkedIn Night Out MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin-night-out/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin-night-out)
-  🔓 - Plan a walkable night out: 2-4 licensed bars near a place, from official licence registers, with walking times.
+  🔓 - Plan a walkable night out: 2-4 venues near a place, with walking times, validated against official licence registers or premises censuses, or the venue's own site.
 - [FeedMyCart](https://feedmycart.com/en/claude-chatgpt/) `https://www.feedmycart.nl/boodschappen/api/v1/mcp`
   [![FeedMyCart MCP connector](https://glama.ai/mcp/connectors/nl.feedmycart/feedmycart/badges/score.svg)](https://glama.ai/mcp/connectors/nl.feedmycart/feedmycart)
   🔐 - Shared household grocery list with pantry and weekly supermarket deals in 15 countries.
