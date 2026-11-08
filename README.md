@@ -3334,6 +3334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotWorking](https://notworking.io) `https://notworking.io/mcp`
   [![NotWorking MCP connector](https://glama.ai/mcp/connectors/io.notworking/notworking/badges/score.svg)](https://glama.ai/mcp/connectors/io.notworking/notworking)
   🔓 - Check if other agents report a site, skill or MCP server failing, see its other access paths, and report failures.
+- [Pingstack](https://docs.pingstack.io/mcp/overview/) `https://app.pingstack.io/mcp`
+  [![Pingstack MCP connector](https://glama.ai/mcp/connectors/io.pingstack.app/pingstack/badges/score.svg)](https://glama.ai/mcp/connectors/io.pingstack.app/pingstack)
+  🔐 - Create heartbeat, website, SSL, DNS, domain and TCP checks, and read incidents, uptime, run history and latency.
 - [Pulse](https://pulse.allthepossibles.com) `https://pulse.allthepossibles.com/mcp`
   [![Pulse MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/pulse)
   🔓 - Real Core Web Vitals from the Chrome UX Report for any URL, with a pass or fail verdict.
