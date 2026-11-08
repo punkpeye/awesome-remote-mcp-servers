@@ -2554,6 +2554,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
+- [Remembite](https://remembite.com) `https://remembite.com/mcp`
+  [![Remembite MCP connector](https://glama.ai/mcp/connectors/com.remembite/remembite/badges/score.svg)](https://glama.ai/mcp/connectors/com.remembite/remembite)
+  🔐 - A food log your AI writes to: Claude or ChatGPT works out the macros, Remembite saves them.
+
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
