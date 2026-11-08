@@ -754,6 +754,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
+- [reright](https://reright.it) `https://app.reright.it/mcp`
+  [![reright MCP connector](https://glama.ai/mcp/connectors/it.reright/reright/badges/score.svg)](https://glama.ai/mcp/connectors/it.reright/reright)
+  🔐 - Rewrites the emails, messages, commits and PR text your agent writes so they sound like you but with every fact kept.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
