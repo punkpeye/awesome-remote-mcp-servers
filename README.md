@@ -2557,6 +2557,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
+- [telo](https://telo.health/apple-health-mcp) `https://telo.health/mcp`
+  [![telo MCP connector](https://glama.ai/mcp/connectors/health.telo/telo/badges/score.svg)](https://glama.ai/mcp/connectors/health.telo/telo)
+  🔐 - Your Apple Health history from iPhone: daily metrics, sleep, workouts, HRV baselines and training load.
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
