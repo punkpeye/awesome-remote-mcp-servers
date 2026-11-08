@@ -886,6 +886,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Writing studio for novels and screenplays: cited fact-checks and continuity checks on your drafts; never writes prose.
 - [Storyblok](https://storyblok.com) `https://mcp.storyblok.com/mcp`
   🔓 - Manage Storyblok spaces, stories, and components.
+- [TransformPipe](https://transformpipe.com/agents) `https://transformpipe.com/api/mcp`
+  [![TransformPipe MCP connector](https://glama.ai/mcp/connectors/io.github.raudarlabs/transformpipe/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raudarlabs/transformpipe)
+  🔐 - Convert documents to and from Markdown, keep them with versions and share each one as a page with a link.
 - [Webflow](https://webflow.com) `https://mcp.webflow.com/mcp`
   [![Webflow MCP connector](https://glama.ai/mcp/connectors/com.webflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.webflow/mcp)
   🔐 - Manage Webflow sites, collections, and CMS items.
