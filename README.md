@@ -2458,6 +2458,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
+- [Duoly](https://duoly.gg/developers/mcp) `https://duoly.gg/mcp`
+  [![Duoly MCP connector](https://glama.ai/mcp/connectors/gg.duoly/gaming/badges/score.svg)](https://glama.ai/mcp/connectors/gg.duoly/gaming)
+  🔓 - Find gaming teammates and coaches, compare session prices and prepare booking links.
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
