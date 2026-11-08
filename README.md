@@ -1932,6 +1932,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FinancialFilings](https://financialfilings.com/mcp/) `https://mcp.financialfilings.com/mcp`
   [![FinancialFilings MCP connector](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server)
   🔐 - Regulatory filings, XBRL financials and company data from securities regulators in about 60 markets.
+- [FinLexicon Wiki](https://finlexicon.org) `https://finlexicon.org/api/mcp`
+  🔓 - Financial encyclopedia and regulatory oracle: verify licences, check clone domains and compare 6D entity scorecards.
 - [Firmoscop](https://firmoscop.ro/developers) `https://firmoscop.ro/mcp`
   [![Firmoscop MCP connector](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop)
   🔐 - Romanian companies from official registries: search, risk verdict by tax ID with cited sources, and prospect lists.
@@ -1995,6 +1997,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
+- [Instrument Ledger](https://instrumentledger.com) `https://instrumentledger.com/api/mcp`
+  🔓 - Contract specs and ISIN/FIGI/CUSIP reference oracle: verify exchange regulation, tick/lot precision and margin rules.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
@@ -2128,6 +2132,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+- [PayClear Ledger](https://payclearledger.com) `https://payclearledger.com/api/mcp`
+  🔓 - Payment institution and ISO 20022 RTGS clearing oracle: verify FinCEN MSB/EMI licences and corridor scorecards.
 - [PayGuard](https://api.youraitools.co/payguard/) `https://api.youraitools.co/payguard/mcp`
   [![PayGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/payguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/payguard)
   🔓 - Checks crypto addresses against the US Treasury OFAC SDN list; free yes/no preview, entity details paid via x402.
@@ -2154,6 +2160,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Qotien](https://qotien.fr) `https://app.qotien.fr/api/fiscal/v1/mcp`
   [![Qotien MCP connector](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement)
   🔓 - French income tax, IFI, PER and 32 pension schemes, sourced to primary law and dated; x402 pay-per-call.
+- [QuantCalc Tools](https://quantcalctools.com) `https://quantcalctools.com/api/mcp`
+  🔓 - Quantitative risk and broker verification oracle: compare 6D compliance scorecards, contract specs and licences.
 - [Quantral](https://quantral.com/mcp) `https://app.quantral.com/api/mcp`
   [![Quantral MCP connector](https://glama.ai/mcp/connectors/com.quantral/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/com.quantral/sentiment)
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions.
@@ -2173,6 +2181,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
   [![Regime MCP connector](https://glama.ai/mcp/connectors/xyz.regimetoken/regime/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.regimetoken/regime)
   🔓 - Checks crypto trading claims on real price history: leverage liquidations, drawdown, DCA, stop-loss, seasonality.
+- [RegTech Codex](https://regtechcodex.org) `https://regtechcodex.org/api/mcp`
+  🔓 - Regulatory compliance oracle covering FCA, SEC, ASIC, MAS, ESMA and FINMA licence verification and clone checks.
 - [ReportGem 报告驿站](https://www.reportgem.com/mcp.html) `https://www.reportgem.com/mcp`
   [![ReportGem MCP connector](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research/badges/score.svg)](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research)
   🔓 - Search 16M+ global investment bank reports, filings, earnings-call notes and charts; read cited source passages.
@@ -2328,6 +2338,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
+- [VolSurface Desk](https://volsurfacedesk.com) `https://volsurfacedesk.com/api/mcp`
+  🔓 - Derivatives volatility surface and venue oracle: verify counterparty licences, contract specs and risk scorecards.
 - [W System EU Business Data](https://wsystem.dev/eu-business-data-mcp-server) `https://api.wsystem.dev/mcp/`
   [![W System EU Business Data MCP connector](https://glama.ai/mcp/connectors/io.github.zifengw/eu-business-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zifengw/eu-business-data-mcp)
   🔓 - EU VAT (VIES), EORI, company registers, EU/UN/OFAC/UK sanctions, KYB and e-invoice checks; 20 free calls/day.
