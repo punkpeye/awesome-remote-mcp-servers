@@ -4337,12 +4337,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
+- [CVE Ledger](https://cveledger.app/mcp) `https://api.cveledger.app/v1/mcp`
+  [![CVE Ledger MCP connector](https://glama.ai/mcp/connectors/app.trackcve.api/cve-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/app.trackcve.api/cve-tracker)
+  🔓 - Search public CVEs and read one in full, with CVSS, CISA KEV and EPSS, and profile vendors.
 - [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
   [![CVE Risk Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/cve/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/cve)
   🔓 - Checks CVEs and dependency lists against OSV, NVD, EPSS and CISA KEV, and ranks what to fix first.
-- [CVE Tracker](https://trackcve.app/mcp) `https://api.trackcve.app/v1/mcp`
-  [![CVE Tracker MCP connector](https://glama.ai/mcp/connectors/app.trackcve.api/cve-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/app.trackcve.api/cve-tracker)
-  🔓 - Search public CVEs and read one in full, with CVSS, CISA KEV and EPSS, and profile vendors.
 - [Datakoot Domain & Company](https://datakoot.com/domain-company) `https://domain.datakoot.com/mcp`
   [![Datakoot Domain & Company MCP connector](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois)
   🔓 - Domain recon: RDAP registration, DNS, SPF/DMARC deliverability, tech stack and subdomains from CT logs.
