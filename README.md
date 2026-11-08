@@ -4274,6 +4274,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [URLpipe](https://urlpipe.dev/mcp-server) `https://urlpipe.dev/mcp`
   [![URLpipe MCP connector](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe)
   🔓 - Read any page after its JavaScript runs: Markdown, screenshots, metadata and Lighthouse. Tool calls need a free API key.
+- [UsenData MCP Server](https://mcp.usendata.com) `https://mcp.usendata.com/mcp`
+  🔑 - China company data via licensed channels from Shanghai Yushan Data Service Co., Ltd. (UsenData; formerly Shanghai Yushan Technology Co., Ltd.): company name search, registration profile, shareholders & outward investment, change records, litigation, abnormal-operation and serious-violation lists, patents, software copyrights, trademarks, overseas entity lookup and address parsing — 13 tools. GraphQL alternative at https://mcp.usendata.com/graphql.
 - [UX Jobs](https://mcp.uxjobs.io) `https://mcp.uxjobs.io/mcp`
   [![UX Jobs MCP connector](https://glama.ai/mcp/connectors/io.uxjobs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.uxjobs/jobs)
   🔓 - Search 4,000+ live UX, product design and research jobs, with hiring-market and salary snapshots.
