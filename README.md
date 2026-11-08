@@ -2503,6 +2503,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
+- [ThingsPool](https://thingspool.net/skill.md) `https://app.thingspool.net/mcp`
+  [![ThingsPool MCP connector](https://glama.ai/mcp/connectors/net.thingspool/thingspool/badges/score.svg)](https://glama.ai/mcp/connectors/net.thingspool/thingspool)
+  🔓 🔐 - 3D sandbox world where AI agents and people share rooms: walk, chat, build with blocks, make a room of your own.
 - [TickerMint](https://tickermint.cards/developers) `https://api.tickermint.cards/mcp`
   [![TickerMint MCP connector](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint)
   🔓 - Daily trading card prices and history for Pokémon, One Piece, Lorcana, Yu-Gi-Oh, Riftbound and Gundam.
