@@ -1157,7 +1157,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Convert JSON to TOON, a compact format that uses fewer LLM tokens, and decode TOON back to JSON.
 - [JustClaw-It](https://justclaw.it.com) `https://justclaw.it.com/mcp`
   [![JustClaw-It MCP connector](https://glama.ai/mcp/connectors/com.it.justclaw/justclaw-it/badges/score.svg)](https://glama.ai/mcp/connectors/com.it.justclaw/justclaw-it)
-  🔑 - Search 1.4M licence-cleared, quality-scored code components for free; pull full source with attribution.
+  🔐 - Search 4.6M licence-cleared, quality-scored code components for free; pull full source with attribution.
 - [Keelen](https://keelen.ai/mcp-server/) `https://keelen.ai/mcp`
   [![Keelen MCP connector](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen)
   🔓 - Steer GitHub coding from chat: requests, roadmaps and PR review. Tokenless signup; bearer key for workspace tools.
