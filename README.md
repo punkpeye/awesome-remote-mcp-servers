@@ -3868,6 +3868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Zevari](https://zevari.ai/linkedin-mcp) `https://mcp.zevari.ai/mcp`
+  [![Zevari MCP connector](https://glama.ai/mcp/connectors/ai.zevari/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.zevari/mcp)
+  🔐 - LinkedIn and email outbound: find and score leads, run sequences, send messages you approve within safety limits.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
