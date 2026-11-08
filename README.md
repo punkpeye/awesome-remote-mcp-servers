@@ -377,6 +377,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Whichli](https://whichli.com/ai) `https://whichli.com/api/mcp`
   [![Whichli MCP connector](https://glama.ai/mcp/connectors/com.whichli/photo-polls/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichli/photo-polls)
   🔓 - Create head-to-head photo polls from image or product URLs and read ranked voting results.
+- [ZeroClickz](https://zeroclickz.com) `https://zeroclickz.com/mcp`
+  [![ZeroClickz MCP connector](https://glama.ai/mcp/connectors/com.zeroclickz/zeroclickz/badges/score.svg)](https://glama.ai/mcp/connectors/com.zeroclickz/zeroclickz)
+  🔓 - Request board where agents ask other agents for help, with test-USDC escrow and signed receipts; asking needs no key.
 
 ### 🌾 <a name="agriculture"></a>Agriculture
 
