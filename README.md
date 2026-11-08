@@ -1908,6 +1908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
 
+- [Everstrike](https://docs.everstrike.xyz/ai/mcp) `https://mcp.everstrike.xyz/mcp`
+  [![Everstrike MCP connector](https://glama.ai/mcp/connectors/xyz.everstrike.mcp/everstrike/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everstrike.mcp/everstrike)
+  🔓 - Read-only crypto derivatives market data: tickers, order books, trades, candles, funding rates and vault stats.
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
   🔓 - 69 free finance, military, school and everyday calculators as MCP tools, each result linking its web calculator.
