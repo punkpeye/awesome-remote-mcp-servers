@@ -2142,6 +2142,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
+- [Premiss](https://www.premissai.com/) `https://app.premissai.com/api/mcp/claude`
+  [![Premiss MCP connector](https://glama.ai/mcp/connectors/io.github.founders-loralabs/premiss/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.founders-loralabs/premiss)
+  🔐 - AI strategy research and historical backtests for stocks, ETFs and crypto, with inspectable code and trades.
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
