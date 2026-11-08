@@ -4638,6 +4638,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
+- [UpGrow Instagram Growth](https://www.upgrow.com/developers) `https://www.upgrow.com/mcp`
+  [![UpGrow Instagram Growth MCP connector](https://glama.ai/mcp/connectors/com.upgrow/instagram-growth/badges/score.svg)](https://glama.ai/mcp/connectors/com.upgrow/instagram-growth)
+  🔓 - Look up Instagram growth plans, one-time follower, like and view products, free Instagram tools and growth guides.
 - [ViralDecoder](https://viraldecoder.online/claude) `https://viraldecoder.online/mcp`
   [![ViralDecoder MCP connector](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder/badges/score.svg)](https://glama.ai/mcp/connectors/online.viraldecoder/viraldecoder)
   🔐 - Breaks down Instagram Reels, Shorts and TikToks: hook score, why it went viral, a script for yours.
