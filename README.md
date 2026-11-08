@@ -188,6 +188,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ISHOB](https://ishob.com) `https://api.ishob.com/mcp`
   [![ISHOB MCP connector](https://glama.ai/mcp/connectors/com.ishob/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.ishob/archive)
   🔓 - 35 pay-per-call tools: web extraction, crypto token and wallet risk, SEC company data, weather risk; x402 USDC.
+- [JiZhiMCP](https://xn--5kvtwv52d.com) `https://mcp.xn--5kvtwv52d.com/mcp`
+  [![JiZhiMCP MCP connector](https://glama.ai/mcp/connectors/com.xn--5kvtwv52d/jizhineng-mcp-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/com.xn--5kvtwv52d/jizhineng-mcp-gateway)
+  🔓 - Agent-first MCP gateway: 21 tools (weather, exchange rate, GitHub/Stack Overflow search, DNS, timezone) plus a tamper-evident cross-agent settlement ledger.
 - [MCP Charts](https://mcpcharts.com) `https://mcpcharts.com/mcp`
   [![MCP Charts MCP connector](https://glama.ai/mcp/connectors/com.mcpcharts/mcpcharts/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcharts/mcpcharts)
   🔓 - Find MCP servers, skills, plugins, agents, prompts and rules for a task, with compatibility evidence.
