@@ -3089,8 +3089,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Maqui Analytics MCP connector](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui)
   🔐 - Read-only marketing analytics for client accounts, with a public synthetic demo via approved OAuth clients.
 - [Marsell](https://getmarsell.com) `https://getmarsell.com/mcp`
-  [![Marsell MCP connector](https://glama.ai/mcp/connectors/io.github.Marsell-Official/marsell/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Marsell-Official/marsell)
-  🔐 - Read and manage content, marketing and sales in Marsell, with the permissions you grant.
+  [![Marsell MCP connector](https://glama.ai/mcp/connectors/com.getmarsell/marsell/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmarsell/marsell)
+  🔐 - Run marketing, sales and content creation in Marsell from your AI, with the permissions you grant.
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
   [![Mencoro MCP connector](https://glama.ai/mcp/connectors/com.mencoro/mencoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.mencoro/mencoro)
   🔐 - Track brand rank, mentions, sentiment and Share of Voice in ChatGPT, Perplexity and Google AI answers.
