@@ -2322,7 +2322,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
   🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
-  - [VeriApi.Pro](https://veriapi.pro/yapay-zeka) `https://api.veriapi.pro/v1/mcp`
+- [VeriApi.Pro](https://veriapi.pro/yapay-zeka) `https://api.veriapi.pro/v1/mcp`
   [![VeriApi.Pro MCP connector](https://glama.ai/mcp/connectors/io.github.veriapipro/veriapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.veriapipro/veriapi)
   🔑 - Turkey data: exchange rates, gold, fuel prices, pharmacies on duty, prayer times, weather and earthquakes.
 - [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
