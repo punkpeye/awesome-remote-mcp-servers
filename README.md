@@ -643,6 +643,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage domains, DNS, nameservers, DNSSEC, URL forwarding and static site deploys on your Porkbun account.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
+- [Rimbra](https://rimbra.app/docs/mcp) `https://app.rimbra.app/mcp`
+  [![Rimbra MCP connector](https://glama.ai/mcp/connectors/app.rimbra/rimbra/badges/score.svg)](https://glama.ai/mcp/connectors/app.rimbra/rimbra)
+  🔐 - Deploy apps from GitHub, read logs, roll back, and manage databases, domains, email and WhatsApp.
 - [Roar AI](https://roar-ai.com/docs/mcp) `https://cloud.roar-ai.com/mcp`
   [![Roar AI MCP connector](https://glama.ai/mcp/connectors/com.roar-ai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.roar-ai/mcp)
   🔐 - Deploy apps from GitHub with databases and domains, manage API keys and spend, and call 200+ AI models.
