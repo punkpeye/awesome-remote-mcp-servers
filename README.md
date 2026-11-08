@@ -3340,6 +3340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [owlabee Web & Business Monitoring](https://owlabee.com/) `https://mcp.apify.com/?tools=owlabee/spf-dmarc-dkim-checker,owlabee/website-change-monitor,owlabee/shopify-catalog-monitor,owlabee/job-postings-api,owlabee/bluesky-monitor,owlabee/podcast-rss-scraper`
+  [![owlabee Web & Business Monitoring MCP connector](https://glama.ai/mcp/connectors/io.github.owlabee/web-monitoring/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.owlabee/web-monitoring)
+  🔐 - Website and sitemap changes, Shopify price changes, SPF/DMARC/DKIM checks, ATS job changes and Bluesky.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
@@ -4156,6 +4159,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Openpath](https://openpath.sh) `https://openpath.sh/mcp/search`
   [![Openpath MCP connector](https://glama.ai/mcp/connectors/sh.openpath/openpath/badges/score.svg)](https://glama.ai/mcp/connectors/sh.openpath/openpath)
   🔓 - Live jobs (Austin, TX and remote) and Austin-area local businesses, each with an Apply link or an Openpath inbox.
+- [owlabee Documents to Data](https://owlabee.com/) `https://mcp.apify.com/?tools=owlabee/pdf-to-markdown,owlabee/pdf-to-json,owlabee/podcast-summarizer,owlabee/drone-roof-inspection-report`
+  [![owlabee Documents to Data MCP connector](https://glama.ai/mcp/connectors/io.github.owlabee/documents-to-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.owlabee/documents-to-data)
+  🔐 - PDF, DOCX and HTML to Markdown or schema-shaped JSON, podcast summaries and drone roof inspection reports.
+- [owlabee US Public Records](https://owlabee.com/) `https://mcp.apify.com/?tools=owlabee/building-permits-scraper,owlabee/accela-energov-permit-scraper,owlabee/grants-gov-api,owlabee/grant-matching,owlabee/osha-epa-inspections,owlabee/product-recall-feed,owlabee/license-verification-api,owlabee/pacer-docket-monitor`
+  [![owlabee US Public Records MCP connector](https://glama.ai/mcp/connectors/io.github.owlabee/us-public-records/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.owlabee/us-public-records)
+  🔐 - US building permits, Grants.gov and SAM.gov, OSHA/EPA cases, recalls, licenses and PACER dockets as JSON.
 - [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
   [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
   🔓 - Read any public page as clean Markdown, page metadata, or a page plus 4 same-site pages; USDC per call via x402.
