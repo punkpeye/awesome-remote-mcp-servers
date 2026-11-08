@@ -2667,6 +2667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
+- [MemoryBrain](https://memorybrain.ai/?ref=awesome-remote) `https://app.memorybrain.ai/mcp`
+  [![MemoryBrain MCP connector](https://glama.ai/mcp/connectors/ai.memorybrain/memorybrain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memorybrain/memorybrain)
+  🔐 - Personal memory shared by ChatGPT and Claude; every note keeps its source (read, said or chat).
 - [MemoryRouter](https://memoryrouter.ai) `https://mcp.memoryrouter.ai/mcp`
   [![MemoryRouter MCP connector](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter)
   🔓 - Cross-AI persistent memory for ChatGPT, Claude, Codex and other MCP clients: one user-scoped vault. OAuth unlocks it.
