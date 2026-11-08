@@ -5027,7 +5027,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
 - [GetMattered](https://getmattered.com/mcps) `https://mcp.getmattered.com/mcp`
   [![GetMattered MCP connector](https://glama.ai/mcp/connectors/com.getmattered/getmattered/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmattered/getmattered)
-  🔐 - Find matched jobs, tailor each resume and cover letter, and apply on the employer's own hiring system.
+  🔓 - Find matched jobs, tailor each resume and cover letter, and apply on the employer's own hiring system.
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
