@@ -1026,6 +1026,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BotKelp](https://www.botkelp.com) `https://agent-scaffold-mcp.vercel.app/mcp`
   [![BotKelp MCP connector](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.agent-scaffold-mcp/bot-kelp)
   🔓 - Generate stamped Next.js scaffolds from a verified component catalog with INTEGRITY.json checks.
+- [Byteland](https://byteland.dev) `https://byteland.dev/mcp`
+  [![Byteland MCP connector](https://glama.ai/mcp/connectors/dev.byteland/byteland/badges/score.svg)](https://glama.ai/mcp/connectors/dev.byteland/byteland)
+  🔓 - Read a night city of developers: buildings, GitHub repo contributor streets, project rooms and live stats.
 - [CacheBoost](https://www.cache-boost.com/support/mcp/overview) `https://api.cache-boost.com/mcp`
   [![CacheBoost MCP connector](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost/badges/score.svg)](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost)
   🔑 - Warm CDN and reverse-proxy caches from 12 regions after a deploy or purge, then read the run's hit/miss stats.
