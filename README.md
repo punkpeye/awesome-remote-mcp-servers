@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [AI Site Builder](https://sitebuilder.adcreator-ai.com) `https://sitebuilder.adcreator-ai.com/mcp`
+  [![AI Site Builder MCP connector](https://glama.ai/mcp/connectors/com.adcreator-ai.sitebuilder/site-preview/badges/score.svg)](https://glama.ai/mcp/connectors/com.adcreator-ai.sitebuilder/site-preview)
+  🔓 - Build a complete website preview for a small business from a one-sentence description.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
@@ -756,6 +759,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
+- [Ringback](https://ringback.0xpi.com) `https://ringback.0xpi.com/mcp`
+  [![Ringback MCP connector](https://glama.ai/mcp/connectors/com.0xpi.ringback/missed-call-text-back/badges/score.svg)](https://glama.ai/mcp/connectors/com.0xpi.ringback/missed-call-text-back)
+  🔓 - Estimate what missed calls cost a local service business and see how missed-call text-back works.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
   [![SendFaxFast MCP connector](https://glama.ai/mcp/connectors/com.sendfaxfast/fax/badges/score.svg)](https://glama.ai/mcp/connectors/com.sendfaxfast/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to the US, Canada, Australia, New Zealand and 39 more countries.
@@ -1565,6 +1571,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
+- [Scholarize](https://scholar.0xpi.com) `https://scholar.0xpi.com/api/mcp`
+  [![Scholarize MCP connector](https://glama.ai/mcp/connectors/com.0xpi.scholar/study-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.0xpi.scholar/study-tools)
+  🔓 - Study plans, thesis statements, citations, quizzes and flashcards for students, plus an AI tutor.
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
@@ -2410,6 +2419,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
+- [PantryPOS](https://pantrypos.0xpi.com) `https://pantrypos.0xpi.com/mcp-pantry`
+  [![PantryPOS MCP connector](https://glama.ai/mcp/connectors/com.0xpi.pantrypos/find-food-pantry/badges/score.svg)](https://glama.ai/mcp/connectors/com.0xpi.pantrypos/find-food-pantry)
+  🔓 - Find US food pantries near a ZIP code or city, and look up TEFAP program rules.
 - [Pour Picks](https://pourpicks.app/mcp) `https://mcp.pourpicks.app`
   [![Pour Picks MCP connector](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks)
   🔓 - Bourbon and American whiskey catalog: search, compare, and find similar or cheaper bottles.
@@ -2881,6 +2893,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
 
+- [AdCreator AI](https://adcreator-ai.com) `https://adcreator-ai.com/mcp-ads`
+  [![AdCreator AI MCP connector](https://glama.ai/mcp/connectors/com.adcreator-ai/generate-ad-headlines/badges/score.svg)](https://glama.ai/mcp/connectors/com.adcreator-ai/generate-ad-headlines)
+  🔓 - Make a finished 1080x1080 ad image with headline and copy from a product photo, and generate ad headlines.
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
   🔐 - Find competitors' longest-running Meta and TikTok ads, scored by hook, angle and audience.
@@ -4219,6 +4234,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScrapingBot](https://scrapingbot.io/mcp) `https://scrapingbot.io/api/mcp`
   [![ScrapingBot MCP connector](https://glama.ai/mcp/connectors/io.scrapingbot/scrapingbot/badges/score.svg)](https://glama.ai/mcp/connectors/io.scrapingbot/scrapingbot)
   🔓 - Public TikTok, Instagram, Google and Amazon data, page scraping and AI extraction; a free key unlocks the tools.
+- [SDSentry](https://sdsentry.0xpi.com) `https://sdsentry.0xpi.com/mcp-sds`
+  [![SDSentry MCP connector](https://glama.ai/mcp/connectors/com.0xpi.sdsentry/sds-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.0xpi.sdsentry/sds-lookup)
+  🔓 - Find manufacturer safety data sheets by product or inventory list, plus GHS pictograms and OSHA HazCom dates.
 - [SerpKite](https://serpkite.com/docs/mcp) `https://api.serpkite.com/v1/mcp`
   [![SerpKite MCP connector](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite)
   🔐 - Google web, news, maps, scholar and shopping results, plus public webpages as Markdown, for AI agents. OAuth or API key.
