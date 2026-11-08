@@ -5067,6 +5067,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Multi Calendar](https://lumman.co/mcp/multi-calendar) `https://calendar.lumman.co/mcp`
   [![Multi Calendar MCP connector](https://glama.ai/mcp/connectors/co.lumman/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/co.lumman/calendar)
   🔐 - Find free time and manage events across Outlook.com, Microsoft 365 and Google calendars, with booking pages and polls.
+- [MustDo](https://ltng.jp/mustdo/mcp) `https://ltng.jp/api/mustdo/mcp`
+  [![MustDo MCP connector](https://glama.ai/mcp/connectors/jp.ltng/mustdo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/jp.ltng/mustdo-mcp)
+  🔐 - Add, list, complete and snooze iPhone to-dos that ring as real alarms until done; to-dos stay in your iCloud.
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
