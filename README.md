@@ -2500,6 +2500,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperDuperBundle](https://superduperbundle.com/tools/api/) `https://superduperbundle.com/mcp`
   [![SuperDuperBundle MCP connector](https://glama.ai/mcp/connectors/io.github.superduperbundle/game-prices/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.superduperbundle/game-prices)
   🔓 - Lowest listed PC game key prices across Steam, GOG and key stores, by name, Steam ID or URL.
+- [TenQueue](https://tenqueue.com/integrations) `https://tenqueue.com/mcp`
+  [![TenQueue MCP connector](https://glama.ai/mcp/connectors/com.tenqueue/tenqueue/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenqueue/tenqueue)
+  🔐 - Create, test and publish live group quizzes that players join on their phones by scanning a QR code.
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
