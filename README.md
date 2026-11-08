@@ -2673,6 +2673,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MemorySync](https://memorysync.io) `https://mcp.memorysync.io/mcp`
   [![MemorySync MCP connector](https://glama.ai/mcp/connectors/io.memorysync/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/memory)
   🔐 - Scoped, persistent memory for agents to save, inspect and recall decisions across sessions.
+- [MemScope](https://memscope.ai) `https://mcp.memscope.ai/mcp`
+  [![MemScope MCP connector](https://glama.ai/mcp/connectors/ai.memscope/memscope/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memscope/memscope)
+  🔐 - Governed shared memory for a team's AI agents: people set who can read each memory, with an audit log.
 - [MarkIt](https://mark-it.co) `https://mark-it.co/api/mcp`
   [![MarkIt MCP connector](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit)
   🔓 - Search, save and set reminders in your library of saved links, posts and notes; sign in to unlock all tools.
