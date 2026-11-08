@@ -4286,6 +4286,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VeritaHire Jobs](https://veritahire.com/for-ai/) `https://veritahire.com/mcp`
   [![VeritaHire Jobs MCP connector](https://glama.ai/mcp/connectors/com.veritahire/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.veritahire/jobs)
   🔓 - Search ~2.5M live US jobs from 19,000+ employers' own career sites, with posted pay, apply links and still-open checks.
+- [VI Update](https://viupdate.com/for-machines/) `https://mcp.viupdate.com/mcp`
+  [![VI Update MCP connector](https://glama.ai/mcp/connectors/com.viupdate/news/badges/score.svg)](https://glama.ai/mcp/connectors/com.viupdate/news)
+  🔓 - Search and read U.S. Virgin Islands news from VI Update and Good Day, and The Straight Record's left/right coverage analysis.
 - [Web Data Toolkit](https://web-data-toolkit.vercel.app) `https://web-data-toolkit.vercel.app/mcp`
   [![Web Data Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit)
   🔓 - YouTube transcripts, Google Trends, and Google Play and App Store reviews; use the free public demo key or your own.
