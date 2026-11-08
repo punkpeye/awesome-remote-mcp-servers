@@ -1950,6 +1950,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Foresee](https://go-foresee.com) `https://agents.go-foresee.com/mcp`
   [![Foresee MCP connector](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee)
   🔓 - Compare live home and auto insurance quotes from carriers' own sites.
+- [Foresight Planner](https://foresightplanner.com) `https://api.foresightplanner.com/mcp`
+  [![Foresight Planner MCP connector](https://glama.ai/mcp/connectors/com.foresightplanner/retirement/badges/score.svg)](https://glama.ai/mcp/connectors/com.foresightplanner/retirement)
+  🔓 🔐 - Will my retirement savings last? Anonymous odds from 120+ years of markets, full plans after sign-in.
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
