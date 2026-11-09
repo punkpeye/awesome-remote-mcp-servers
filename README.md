@@ -3532,6 +3532,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Transkriba](https://transkriba.ru/mcp) `https://transkriba.ru/api/mcp`
   [![Transkriba MCP connector](https://glama.ai/mcp/connectors/ru.transkriba/transcription/badges/score.svg)](https://glama.ai/mcp/connectors/ru.transkriba/transcription)
   🔓 - Transcribe Russian audio and video from files or URLs; tools need a key.
+- [Transkrio](https://transkrio.com) `https://api.transkrio.com/mcp`
+  [![Transkrio MCP connector](https://glama.ai/mcp/connectors/com.transkrio/transkrio/badges/score.svg)](https://glama.ai/mcp/connectors/com.transkrio/transkrio)
+  🔑 - Transcripts of YouTube, TikTok, Instagram Reels and podcasts as text, SRT or VTT; calls need a free API key.
 - [Treza](https://www.trezalabs.com/connect) `https://www.trezalabs.com/api/mcp`
   [![Treza MCP connector](https://glama.ai/mcp/connectors/io.github.treza-labs/treza/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.treza-labs/treza)
   🔐 - Video pipelines that script, render, narrate, caption and publish to YouTube and TikTok.
