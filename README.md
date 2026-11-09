@@ -3985,6 +3985,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
+- [App Store & Google Play Reviews Scraper API](https://apify.com/byteblisk/app-reviews-insights) `https://mcp.apify.com/?tools=byteblisk/app-reviews-insights`
+  [![App Store & Google Play Reviews Scraper API MCP connector](https://glama.ai/mcp/connectors/io.github.ByteBlisk/app-reviews-insights/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ByteBlisk/app-reviews-insights)
+  🔐 - Google Play and App Store reviews in one format, complaint themes with real quotes and competitor comparison.
 - [AppClap](https://app-clap.com) `https://mcp.app-clap.com/mcp`
   [![AppClap MCP connector](https://glama.ai/mcp/connectors/com.app-clap/appclap/badges/score.svg)](https://glama.ai/mcp/connectors/com.app-clap/appclap)
   🔓 - Search 8,600+ web apps by need, ranked purely by fit, with prices and features checked on each vendor's own site.
@@ -4084,6 +4087,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
+- [Google Play Scraper & SERP Rank Checker](https://apify.com/byteblisk/google-play-search-toolkit) `https://mcp.apify.com/?tools=byteblisk/google-play-search-toolkit`
+  [![Google Play Scraper & SERP Rank Checker MCP connector](https://glama.ai/mcp/connectors/io.github.ByteBlisk/google-play-search-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ByteBlisk/google-play-search-toolkit)
+  🔐 - Google Play apps, reviews and keyword search, plus a domain's top-100 Google rank.
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Government surplus auctions in the US, UK, CA and AU, with sold-price comps and resale scores.
@@ -4289,6 +4295,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Web Data Toolkit](https://web-data-toolkit.vercel.app) `https://web-data-toolkit.vercel.app/mcp`
   [![Web Data Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit)
   🔓 - YouTube transcripts, Google Trends, and Google Play and App Store reviews; use the free public demo key or your own.
+- [Web Scraper & Crawler for RAG](https://apify.com/byteblisk/sitereader) `https://mcp.apify.com/?tools=byteblisk/sitereader`
+  [![Web Scraper & Crawler for RAG MCP connector](https://glama.ai/mcp/connectors/io.github.ByteBlisk/sitereader/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ByteBlisk/sitereader)
+  🔐 - Read pages or crawl whole sites into clean Markdown or JSON for RAG, with site maps.
 - [WebExtract](https://webextract.dev) `https://api.webextract.dev/mcp`
   [![WebExtract MCP connector](https://glama.ai/mcp/connectors/dev.webextract/extract/badges/score.svg)](https://glama.ai/mcp/connectors/dev.webextract/extract)
   🔓 - Any public URL to clean Markdown plus fixed-schema JSON; 50 free calls/day, then x402 USDC on 7 EVM chains or credits.
