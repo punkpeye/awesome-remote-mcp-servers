@@ -3371,7 +3371,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
 - [Watch](https://watch.darmousseh.com) `https://watch.darmousseh.com/mcp`
   [![Watch MCP connector](https://glama.ai/mcp/connectors/com.darmousseh/watch/badges/score.svg)](https://glama.ai/mcp/connectors/com.darmousseh/watch)
-  🔑 - Watch a page, CSS selector, JSON value or price for weeks; poll changes or get signed webhooks.
+  🔓 - Watch a page, CSS selector, JSON value or price for weeks; poll changes or get signed webhooks; tools need a free key.
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
