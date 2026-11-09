@@ -4150,6 +4150,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenCityRecord](https://opencityrecord.org/mcp) `https://mcp.opencityrecord.org/mcp`
   [![OpenCityRecord MCP connector](https://glama.ai/mcp/connectors/org.opencityrecord/opencity/badges/score.svg)](https://glama.ai/mcp/connectors/org.opencityrecord/opencity)
   🔐 - Search U.S. city council meetings, votes, and documents, with citations to the official record.
+- [Ni Biashara Diaspora Directory](https://nibiashara.com) `https://nibiashara.com/mcp`
+  [![Ni Biashara Diaspora Directory MCP connector](https://glama.ai/mcp/connectors/com.nibiashara/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.nibiashara/directory)
+  🔓 - Search 2,100+ African and Caribbean diaspora businesses across the US, Canada and beyond, check whether a business is listed or verified, and read live AI-traffic counters; free, no sign-up.
+
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
