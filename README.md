@@ -3032,6 +3032,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
+- [GrackerAI](https://gracker.ai/platform/ai-visibility/mcp/) `https://portal.gracker.ai/mcp`
+  [![GrackerAI MCP connector](https://glama.ai/mcp/connectors/ai.gracker.portal/gracker-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.gracker.portal/gracker-ai)
+  🔐 - See how ChatGPT, Perplexity, Gemini and Google AI Overviews mention and cite your brand versus competitors.
 - [gtm.help](https://gtm.help) `https://gtm.help/mcp`
   [![gtm.help MCP connector](https://glama.ai/mcp/connectors/help.gtm/gtm-help/badges/score.svg)](https://glama.ai/mcp/connectors/help.gtm/gtm-help)
   🔓 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
