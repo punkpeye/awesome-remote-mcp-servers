@@ -4155,6 +4155,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
 - [Openpath](https://openpath.sh) `https://openpath.sh/mcp/search`
   [![Openpath MCP connector](https://glama.ai/mcp/connectors/sh.openpath/openpath/badges/score.svg)](https://glama.ai/mcp/connectors/sh.openpath/openpath)
+  - [overpass.ch](https://overpass.ch/guides/overpass-mcp-server) `https://api.overpass.ch/v1/mcp`
+  [![overpass.ch MCP connector](https://glama.ai/mcp/connectors/ch.overpass.api/overpassch/badges/score.svg)](https://glama.ai/mcp/connectors/ch.overpass.api/overpassch)
+  🔑 - OpenStreetMap data for the whole planet with the Overpass API, history back to 2012, geocoding and elevation.
   🔓 - Live jobs (Austin, TX and remote) and Austin-area local businesses, each with an Apply link or an Openpath inbox.
 - [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
   [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
