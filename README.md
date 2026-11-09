@@ -1763,6 +1763,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Executive Brief](https://antevo.ch/executive/) `https://api.antevo.ch/mcp/executive/mcp`
   [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/executive/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/executive)
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
+- [Aperiodic](https://aperiodic.io/mcp) `https://aperiodic.io/mcp`
+  [![Aperiodic MCP connector](https://glama.ai/mcp/connectors/io.aperiodic/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.aperiodic/market-data)
+  🔓 🔑 🔐 - Point-in-time microstructure, liquidity and order-flow metrics and raw data for crypto and RWA perpetuals.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
