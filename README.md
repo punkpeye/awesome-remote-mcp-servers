@@ -4662,6 +4662,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BankrollSZN](https://bankrollszn.com/ai) `https://bankrollszn.com/api/mcp`
   [![BankrollSZN MCP connector](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn)
   🔐 - DFS projections, ownership, lineup optimizers and model picks for NFL, MLB, NBA, NHL, PGA and MMA.
+- [Footalytics](https://footalytics.farvor.com) `https://footalytics.farvor.com/mcp`
+  [![Footalytics MCP connector](https://glama.ai/mcp/connectors/com.farvor/footalytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.farvor/footalytics)
+  🔐 - Football match predictions for top leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, UCL): win/draw/loss probabilities with confidence tiers, over/under 2.5 and BTTS, fixtures, team ratings and graded past results.
+
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
