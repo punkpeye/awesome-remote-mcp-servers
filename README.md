@@ -3414,6 +3414,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Flow Music MCP Server by useapi.net](https://useapi.net/docs/api-flowmusic-v1/mcp) `https://api.useapi.net/v1/flowmusic/mcp`
   [![Flow Music MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/flowmusic/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/flowmusic)
   🔐 - Google Flow Music (Lyria 3.5) songs, covers, remixes and stems on your own account. Not affiliated with Google.
+- [Frame24](https://frame24.app/mcp) `https://studio.frame24.app/api/mcp`
+  [![Frame24 MCP connector](https://glama.ai/mcp/connectors/app.frame24/frame24/badges/score.svg)](https://glama.ai/mcp/connectors/app.frame24/frame24)
+  🔐 - Narrated, on-brand product videos of your real app: captures its screens, writes the storyline, renders and edits.
 - [FXI Studio](https://www.fxi.studio/mcp/info) `https://mcp.fxi.studio/mcp`
   [![FXI Studio MCP connector](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fueledximagination/fxi-studio)
   🔐 - Generate cinematic images and video clips and frame-chain shots into continuous motion, billed to your FXI credits.
