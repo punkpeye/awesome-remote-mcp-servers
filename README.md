@@ -801,6 +801,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
+- [WhatsApp MCP](https://wa-mcp.com/?utm_source=awesome-remote-mcp-punkpeye&utm_medium=directory) `https://server.wa-mcp.com/mcp`
+  [![WhatsApp MCP MCP connector](https://glama.ai/mcp/connectors/com.wa-mcp/wa-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wa-mcp/wa-mcp)
+  🔐 - Link your own WhatsApp to read, search, send, schedule and react to messages from any AI.
 - [Widely](https://widely-mobile.com/mcp) `https://mcp.widely-mobile.com/mcp`
   [![Widely MCP connector](https://glama.ai/mcp/connectors/com.widely-mobile/widely/badges/score.svg)](https://glama.ai/mcp/connectors/com.widely-mobile/widely)
   🔓 - Telecom operating layer for AI agents: numbers, calls, SMS, voicemail, transcripts, and AI receptionists.
