@@ -4632,6 +4632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Taplio](https://taplio.com/taplio-linkedin-mcp) `https://mcp.taplio.com/`
   [![Taplio MCP connector](https://glama.ai/mcp/connectors/io.github.TaplioOfficial/taplio-linkedin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TaplioOfficial/taplio-linkedin-mcp)
   🔐 - Write, schedule and analyze LinkedIn posts, find inspiration, comment, like and connect via Taplio.
+- [Tokfluence](https://developers.tokfluence.com/docs/mcp) `https://developers.tokfluence.com/mcp`
+  [![Tokfluence MCP connector](https://glama.ai/mcp/connectors/com.tokfluence/tokfluence/badges/score.svg)](https://glama.ai/mcp/connectors/com.tokfluence/tokfluence)
+  🔑 - TikTok creator search and analytics for agencies; free tier with 50 API credits.
 - [TubeGrade](https://www.tubegrade.com/mcp/) `https://api.tubegrade.com/mcp`
   [![TubeGrade MCP connector](https://glama.ai/mcp/connectors/com.tubegrade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tubegrade/mcp)
   🔐 - YouTube research: channel and video stats, transcripts, outlier videos, viral title formats and competitor tracking.
