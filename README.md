@@ -4102,6 +4102,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
   [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
   🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
+- [Indo News API](https://indo-news-api.vercel.app) `https://indo-news-api.vercel.app/mcp/indonesia-news`
+  [![Indo News API MCP connector](https://glama.ai/mcp/connectors/app.vercel.indo-news-api/indonesia-news/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.indo-news-api/indonesia-news)
+  🔓 - Live Indonesian headlines, sentiment and coverage monitoring, plus FX, crypto, quake and holiday reference data; free preview, x402 paid.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
