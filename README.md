@@ -398,6 +398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [Artnap](https://artnap.com/developers) `https://artnap.com/mcp`
+  [![Artnap MCP connector](https://glama.ai/mcp/connectors/com.artnap/artnap/badges/score.svg)](https://glama.ai/mcp/connectors/com.artnap/artnap)
+  🔓 - Search 497,000 public domain artworks from 72 museums' open access collections, with museum record and license.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
