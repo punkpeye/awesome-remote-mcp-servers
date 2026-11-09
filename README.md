@@ -748,6 +748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PlaceCall](https://voygr.tech/placecall/) `https://api.voygr.tech/mcp`
   [![PlaceCall MCP connector](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voygr-tech/placecall)
   🔐 - Place real phone calls to US businesses to book, ask questions or get quotes, then read the outcome and transcript.
+- [Plainmail](https://plainmail.dev) `https://app.plainmail.dev/api/mcp/mcp`
+  [![Plainmail MCP connector](https://glama.ai/mcp/connectors/dev.plainmail/mail/badges/score.svg)](https://glama.ai/mcp/connectors/dev.plainmail/mail)
+  🔐 - Add a domain, write its mail DNS, create real IMAP mailboxes on it, then read, send and reply to mail.
 - [Poofbox](https://poofboxmail.com) `https://poofboxmail.com/mcp`
   [![Poofbox MCP connector](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.poofboxmail/poofbox)
   🔐 - Disposable receive-only inboxes for agents: create an address, wait for the email, get the code or verify link.
