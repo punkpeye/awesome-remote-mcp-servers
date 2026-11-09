@@ -3883,6 +3883,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DeepDNA](https://deepdna.ai/docs/#mcp) `https://deepdna.ai/mcp`
   [![DeepDNA MCP connector](https://glama.ai/mcp/connectors/ai.deepdna/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deepdna/knowledge)
   🔓 - Cited drug–gene (mostly CPIC/DPWG), gene and rsID variant lookups for 12 genes; educational, not medical advice.
+- [Did It Work?](https://diditwork.org) `https://api.diditwork.org/mcp`
+  [![Did It Work? MCP connector](https://glama.ai/mcp/connectors/org.diditwork/did-it-work/badges/score.svg)](https://glama.ai/mcp/connectors/org.diditwork/did-it-work)
+  🔓 - Charity evidence: GiveWell and HLI figures with source and period, caveats, and a dated outcome ledger. Read-only.
 - [Economic Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/economy`
   [![Economic Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/economic-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/economic-statistics)
   🔓 - GDP, inflation, trade, interest rates and public debt for 150+ countries from Eurostat, OECD, World Bank and IMF.
