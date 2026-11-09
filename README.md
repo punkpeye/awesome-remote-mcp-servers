@@ -2979,8 +2979,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
 - [hrva.cc](https://app.hrva.cc) `https://hrva.cc/mcp`
-  [![hrva.cc MCP connector](https://glama.ai/mcp/connectors/cc.hrva/hrvacc/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hrva/hrvacc)
-  🔐 - Create, list and check short links and read their click statistics, with safety checks on every link.
+  [![hrva.cc MCP connector](https://glama.ai/mcp/connectors/cc.hrva/url-shortener/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hrva/url-shortener)
+  🔐 - Create and list short links and read their click statistics, with safety checks on every link.
 
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
