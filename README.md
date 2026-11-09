@@ -2747,6 +2747,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sooveryn](https://www.sooveryn.com/?utm_source=awesome-remote-mcp&utm_medium=annuaire&utm_campaign=lancement-oct) `https://mcp.sooveryn.com/mcp`
   [![Sooveryn MCP connector](https://glama.ai/mcp/connectors/com.sooveryn/sooveryn/badges/score.svg)](https://glama.ai/mcp/connectors/com.sooveryn/sooveryn)
   🔑 - A team of AI personas sharing a lasting, encrypted memory per project, hosted in France.
+- [Stashhh](https://stashhh.app) `https://stashhh.app/mcp`
+  [![Stashhh MCP connector](https://glama.ai/mcp/connectors/app.stashhh/stashhh/badges/score.svg)](https://glama.ai/mcp/connectors/app.stashhh/stashhh)
+  🔐 - Search and organize your saved links, screenshots, cards and folders.
 - [static.md](https://static.md/agents?ref=awesome-remote) `https://static.md/mcp`
   [![static.md MCP connector](https://glama.ai/mcp/connectors/md.static/static-md/badges/score.svg)](https://glama.ai/mcp/connectors/md.static/static-md)
   🔐 - Markdown notes and Excalidraw whiteboards your agent can read and write, with scoped OAuth and end-to-end encryption.
