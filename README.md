@@ -257,6 +257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trades With AI + SaaS Price Watch](https://tradeswithai.com/agents/) `https://tradeswithai.com/mcp`
   [![Trades With AI + SaaS Price Watch MCP connector](https://glama.ai/mcp/connectors/com.tradeswithai/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradeswithai/directory)
   🔓 - Search AI tools for trades businesses and public SaaS plan prices, each with the vendor quote and check date.
+- [UberLLM](https://uberllm.dev) `https://api.uberllm.dev/mcp`
+  [![UberLLM MCP connector](https://glama.ai/mcp/connectors/dev.uberllm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.uberllm/mcp)
+  🔑 - List and price 490+ AI models, make and edit images, make videos and read your balance with one prepaid API key.
 - [Vextorium](https://vextorium.com) `https://api.vextorium.com/mcp`
   [![Vextorium MCP connector](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium/badges/score.svg)](https://glama.ai/mcp/connectors/com.vextorium.api/vextorium)
   🔓 - 509 pay-per-call data tools: on-chain (30+ chains), DeFi, markets, economic stats, compliance; USDC via x402.
