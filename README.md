@@ -5195,6 +5195,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
+- [InsightBaZi](https://www.insightbazi.com/en/method) `https://www.insightbazi.com/api/mcp`
+  [![InsightBaZi MCP connector](https://glama.ai/mcp/connectors/com.insightbazi/bazi/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightbazi/bazi)
+  🔓 - Public read-only BaZi chart calculation (pillars, Five Elements, and Ten Gods) via remote MCP.
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
