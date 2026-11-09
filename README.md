@@ -3151,6 +3151,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Quelta](https://quelta.ai/mcp-server/) `https://quelta.ai/mcp`
   [![Quelta MCP connector](https://glama.ai/mcp/connectors/ai.quelta/quelta/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quelta/quelta)
   🔐 - Score short vertical video ads by link: first 3 seconds, issues with timecodes and fixes.
+- [RanklyBee](https://ranklybee.com) `https://api.ranklybee.com/mcp`
+  [![RanklyBee MCP connector](https://glama.ai/mcp/connectors/io.github.dazhiyu0235/ranklybee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dazhiyu0235/ranklybee)
+  🔐 - SEO workspace: Search Console data, content, backlinks, outreach, AI visibility and leads.
 - [RankRoot](https://getrankroot.com) `https://getrankroot.com/api/mcp`
   [![RankRoot MCP connector](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot)
   🔓 - Score a site’s visibility to ChatGPT, Perplexity and AI agents, and generate llms.txt, robots.txt and JSON-LD fixes.
