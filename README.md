@@ -1908,6 +1908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
 
+- [EL7.AI](https://el7.ai/en/mcp) `https://mcp.el7.ai/mcp`
+  [![EL7.AI MCP connector](https://glama.ai/mcp/connectors/ai.el7/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.el7/mcp)
+  🔐 - Financial market intelligence: news, economic calendar, central banks, COT, stocks, earnings, gold and oil.
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
   🔓 - 69 free finance, military, school and everyday calculators as MCP tools, each result linking its web calculator.
