@@ -1450,6 +1450,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
+- [Maison Éclaire](https://www.maisoneclaire.co) `https://www.maisoneclaire.co/mcp`
+  [![Maison Éclaire MCP connector](https://glama.ai/mcp/connectors/co.maisoneclaire/shop/badges/score.svg)](https://glama.ai/mcp/connectors/co.maisoneclaire/shop)
+  🔓 - Search handmade candles, gifts and candle-making supplies in Morocco, with prices in MAD and delivery terms.
 - [Make Parts Now](https://makepartsnow.com/developers) `https://makepartsnow.com/mcp`
   [![Make Parts Now MCP connector](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing/badges/score.svg)](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing)
   🔓 - Quote and order custom 3D printed and CNC machined parts from CAD files: SLS, FDM, aluminum and brass, US shipping.
