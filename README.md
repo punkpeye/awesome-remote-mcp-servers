@@ -425,6 +425,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
+- [Foca Upscaler](https://focaupscaler.com) `https://focaupscaler.com/api/mcp`
+  [![Foca Upscaler MCP connector](https://glama.ai/mcp/connectors/com.focaupscaler/upscaler/badges/score.svg)](https://glama.ai/mcp/connectors/com.focaupscaler/upscaler)
+  🔑 - Upscale images from HTTPS URLs with account credits and retrieve async results.
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
