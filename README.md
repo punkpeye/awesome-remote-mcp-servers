@@ -3837,6 +3837,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ficiel](https://ficiel.io/mcp/) `https://bridge.ficiel.io/mcp`
   [![Ficiel MCP connector](https://glama.ai/mcp/connectors/io.ficiel/ficiel/badges/score.svg)](https://glama.ai/mcp/connectors/io.ficiel/ficiel)
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
+- [Hellofew](https://hellofew.com/developers) `https://hellofew.com/api/mcp`
+  [![Hellofew MCP connector](https://glama.ai/mcp/connectors/com.hellofew/hellofew/badges/score.svg)](https://glama.ai/mcp/connectors/com.hellofew/hellofew)
+  🔐 - LinkedIn outreach you approve: read drafted invitations, approve or skip each lead, read replies, adjust targeting.
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
