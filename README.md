@@ -1164,6 +1164,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Koppar](https://koppar.ai) `https://app.koppar.ai/mcp`
   [![Koppar MCP connector](https://glama.ai/mcp/connectors/ai.koppar.app/koppar/badges/score.svg)](https://glama.ai/mcp/connectors/ai.koppar.app/koppar)
   🔓 - Design a KiCad PCB from a prompt: parts, schematic checks, routing, KiCad DRC, Gerbers. Free key for tool calls.
+- [Kottos AI](https://kottos.ai/mcp.html) `https://data.kottos.ai/mcp`
+  [![Kottos AI MCP connector](https://glama.ai/mcp/connectors/ai.kottos/venues/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kottos/venues)
+  🔓 - List prices and probed time to first token for each provider and tier that sells an LLM.
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
