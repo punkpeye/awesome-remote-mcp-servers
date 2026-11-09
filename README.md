@@ -2168,6 +2168,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
+- [RegBase](https://regbase.local-connect-design.trade/) `https://regbase-mcp.local-connect-design.trade/mcp`
+  🔑 - Japanese corporate registry records as Ed25519-signed JSON over MCP: fetch a company record by corporate number and verify any record locally (tamper-evident, source-cited claims).
 - [Regime](https://regimetoken.xyz/api) `https://feed.regimetoken.xyz/mcp`
 
   
