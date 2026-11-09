@@ -2587,6 +2587,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Analytics Legends](https://analyticslegends.ai/mcp-server/) `https://analyticslegends.ai/mcp`
   [![Analytics Legends MCP connector](https://glama.ai/mcp/connectors/ai.analyticslegends/sap-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/ai.analyticslegends/sap-analytics)
   🔓 - SAP AI & analytics market data: consulting firms, day-rate bands, job radar and news, each record citable.
+- [Ancestral Fire](https://ancestral-fire.com/) `https://mcp.ancestral-fire.com/mcp`
+  [![Ancestral Fire MCP connector](https://glama.ai/mcp/connectors/com.ancestral-fire/ancestralfire/badges/score.svg)](https://glama.ai/mcp/connectors/com.ancestral-fire/ancestralfire)
+  🔐 - Family history and genealogy: your family tree and FamilySearch, with a source for every fact.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
