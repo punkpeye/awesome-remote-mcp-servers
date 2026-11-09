@@ -2168,6 +2168,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
+- [Recta](https://api.recta.build/llms.txt) `https://api.recta.build/mcp`
+  [![Recta MCP connector](https://glama.ai/mcp/connectors/io.github.RectaBuild/recta/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.RectaBuild/recta)
+  🔓 - Cross-chain stablecoin preflight: finds a cheaper route than the bridge an agent planned; free unless the saving is verified on chain, then 5 % of it.
 - [Regime](https://regimetoken.xyz/api) `https://feed.regimetoken.xyz/mcp`
 
   
