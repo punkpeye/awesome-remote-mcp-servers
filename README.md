@@ -1664,6 +1664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Box](https://box.com) `https://mcp.box.com/`
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
+- [LimeWire Agent Files](https://limewire.com/mcp) `https://mcp.limewire.com/mcp`
+  [![LimeWire Agent Files MCP connector](https://glama.ai/mcp/connectors/com.limewire/agent-files/badges/score.svg)](https://glama.ai/mcp/connectors/com.limewire/agent-files)
+  🔐 - Durable file storage for agents: save, list and read files across sessions, share them as LimeWire download links.
 - [Link in Seconds](https://linkinseconds.com/docs/mcp) `https://linkinseconds.com/api/mcp`
   [![Link in Seconds MCP connector](https://glama.ai/mcp/connectors/com.linkinseconds/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkinseconds/mcp)
   🔓 - Upload a file and get a shareable link that never expires, plus view stats. Using the tools needs a free API key.
