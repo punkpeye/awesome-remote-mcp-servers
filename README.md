@@ -4400,6 +4400,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
+- [Midkernel Threat Intel](https://www.midkernel.com/security/docs/mcp) `https://www.midkernel.com/security/app/mcp/threat-intel`
+  [![Midkernel Threat Intel MCP connector](https://glama.ai/mcp/connectors/com.midkernel/threat-intel/badges/score.svg)](https://glama.ai/mcp/connectors/com.midkernel/threat-intel)
+  🔓 - Read-only public-source threat intel: sources, classes, new or changed records, daily report, trends, CVE/GHSA lookup.
 - [Mifori CertAgent](https://agent.mifori.com) `https://agent.mifori.com/mcp`
   [![Mifori CertAgent MCP connector](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent)
   🔓 - Live AI agent trust oracle: audit synthetic IQ, latency and JSON compliance via x402 or free telemetry tokens.
