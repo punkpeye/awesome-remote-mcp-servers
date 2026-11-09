@@ -4723,6 +4723,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fieldproxy](https://www.fieldproxy.ai/mcp) `https://api-us-east-1.fieldproxy.ai/mcp`
   [![Fieldproxy MCP connector](https://glama.ai/mcp/connectors/io.github.Fieldproxy/fieldproxy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fieldproxy/fieldproxy-mcp)
   🔐 - Run field service jobs, dispatch, invoices and quotes, and build new screens, with a person confirming each change.
+- [First AI Employee](https://firstaiemployee.com/) `https://api.firstaiemployee.com/mcp`
+  [![First AI Employee MCP connector](https://glama.ai/mcp/connectors/io.github.Strah0ta/first-ai-employee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Strah0ta/first-ai-employee)
+  🔐 - Read AI receptionist business records and prepare front-desk changes for the owner's approval.
 - [FrontDesk Chat](https://frontdeskchat.com/features/mcp/) `https://api.frontdeskchat.com/mcp`
   [![FrontDesk Chat MCP connector](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat)
   🔐 - Read your AI website front desk's conversations, visitors, bookings and analytics, and draft desk changes for approval.
