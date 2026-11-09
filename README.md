@@ -2932,6 +2932,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
 
+- [Apptiller](https://apptiller.com/features/claude-chatgpt-connector) `https://mcp.apptiller.com/mcp`
+  [![Apptiller MCP connector](https://glama.ai/mcp/connectors/com.apptiller/apptiller/badges/score.svg)](https://glama.ai/mcp/connectors/com.apptiller/apptiller)
+  🔐 - Grow App Store apps: keyword ranks, listing, ads, sales and revenue, and AI-answer visibility, with changes you approve.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
