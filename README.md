@@ -4479,6 +4479,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
+- [VerifyLite](https://verifylite.hydratinghealingtouch.workers.dev) `https://verifylite.hydratinghealingtouch.workers.dev/mcp`
+  [![VerifyLite MCP connector](https://glama.ai/mcp/connectors/io.github.SecondShotAI/verifylite/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SecondShotAI/verifylite)
+  🔓 - Verify before you pay or act: pay-per-call safety checks for sites, transactions and tokens.
 - [vuln-intel](https://vulntel.com) `https://mcp.rozetyp.com/mcp`
   [![vuln-intel MCP connector](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel)
   🔓 - CVE intel for bug-bounty agents: CVE claim fact-checks, attack approaches from HackerOne reports. Free key for calls.
