@@ -4233,6 +4233,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SnoopScan](https://snoopscan.com) `https://api.snoopscan.com/mcp-oauth`
   [![SnoopScan MCP connector](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan)
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
+- [SourceFinch](https://sourcefinch.com/docs/mcp) `https://sourcefinch.com/mcp`
+  [![SourceFinch MCP connector](https://glama.ai/mcp/connectors/com.sourcefinch/sourcefinch/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcefinch/sourcefinch)
+  🔐 - Monitor public web sources on a schedule: changes, records, exports and the evidence behind every value.
 - [Sourcey](https://sourcey.com) `https://mcp.sourcey.com/mcp`
   [![Sourcey MCP connector](https://glama.ai/mcp/connectors/com.sourcey/sourcey/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcey/sourcey)
   🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
