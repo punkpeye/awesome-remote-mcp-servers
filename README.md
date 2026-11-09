@@ -2641,6 +2641,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedNest](https://www.feednest.com) `https://mcp.feednest.com`
   [![FeedNest MCP connector](https://glama.ai/mcp/connectors/com.feednest.mcp/feed-nest/badges/score.svg)](https://glama.ai/mcp/connectors/com.feednest.mcp/feed-nest)
   🔐 - Read and search your RSS feeds and articles, plus save, tag, highlight and add notes on paid plans; OAuth sign-in.
+- [FixMyPrompt](https://fixmyprompt.net/memories) `https://fixmyprompt.net/api/mcp`
+  [![FixMyPrompt MCP connector](https://glama.ai/mcp/connectors/net.fixmyprompt/fmp/badges/score.svg)](https://glama.ai/mcp/connectors/net.fixmyprompt/fmp)
+  🔐 - Memories for coding agents: saves what a session worked out so the next one fetches it, plus CLAUDE.md checks.
 - [Flash](https://flashmemorize.com) `https://flashmemorize.com/mcp`
   🔐 - Spaced-repetition flashcards: create cards from notes, get quizzed by voice, and let FSRS schedule reviews.
 - [FoxNose Knowledge](https://foxnose.net/docs/mcp) `https://mcp.foxnose.net/_mcp`
