@@ -1003,6 +1003,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [AI SENSE Free Public Tools](https://aisense.no/free-public-mcp-server) `https://aisenseapi.com/mcp`
+  [![AI SENSE Free Public Tools MCP connector](https://glama.ai/mcp/connectors/com.aisenseapi/free-public-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.aisenseapi/free-public-tools)
+  🔓 - 77 free tools: time, hashing, QR codes, HTML to PDF, webhook capture, queues, leases, decisions and semantic search.
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
