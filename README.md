@@ -3334,6 +3334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [QuickStatus](https://quickstatus.dev/docs/mcp/) `https://api.quickstatus.dev/mcp`
+  [![QuickStatus MCP connector](https://glama.ai/mcp/connectors/dev.quickstatus/quickstatus/badges/score.svg)](https://glama.ai/mcp/connectors/dev.quickstatus/quickstatus)
+  🔓 - Create uptime checks, status pages, incidents and maintenance; a confirmed failure opens the incident.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
@@ -3345,9 +3348,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
-- [ScaledPapers](https://scaledpapers.com/docs/mcp/) `https://api.scaledpapers.com/mcp`
-  [![ScaledPapers MCP connector](https://glama.ai/mcp/connectors/com.scaledpapers/scaledpapers/badges/score.svg)](https://glama.ai/mcp/connectors/com.scaledpapers/scaledpapers)
-  🔓 🔑 - Create uptime checks, status pages, incidents and maintenance; a confirmed failure opens the incident.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
