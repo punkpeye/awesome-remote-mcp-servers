@@ -797,7 +797,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Send WhatsApp Business messages and manage inbox conversations, products, orders and webhooks for Indonesian SMBs.
 - [Turbo Notify](https://turbonotify.com) `https://mcp.turbonotify.com`
   [![Turbo Notify MCP connector](https://glama.ai/mcp/connectors/com.turbonotify/turbo-notify/badges/score.svg)](https://glama.ai/mcp/connectors/com.turbonotify/turbo-notify)
-  🔐 - Send, receive, edit and react to WhatsApp messages from your own number, plus contacts, groups and quotas.
+  🔓 - Send, receive, edit and react to WhatsApp messages from your own number; calls need OAuth or API key sign-in.
 - [voicehook](https://voicehook.ai/?utm_source=awesome-remote-mcp&utm_campaign=d13-remote-list) `https://voicehook.ai/mcp`
   [![voicehook MCP connector](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook)
   🔓 - Talk with your agents: a voice call in the browser that your agent can start or join.
