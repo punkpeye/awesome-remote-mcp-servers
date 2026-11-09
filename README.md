@@ -2932,6 +2932,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
 
+- [AppHitlist](https://apphitlist.com) `https://apphitlist.com/api/mcp`
+  [![AppHitlist MCP connector](https://glama.ai/mcp/connectors/com.apphitlist/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.apphitlist/mcp)
+  🔐 - Find top-earning and newly winning App Store apps, chart movers, long-running ads and review complaints.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
