@@ -3357,6 +3357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tá Rodando](https://tarodando.com.br) `https://tarodando.com.br/mcp`
   [![Tá Rodando MCP connector](https://glama.ai/mcp/connectors/br.com.tarodando/ta-rodando/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.tarodando/ta-rodando)
   🔐 - Manage uptime monitors, alert channels and a PT-BR public status page from your agent.
+- [Thanks.io](https://thanks.io) `https://mcp.thanks.io/mcp`
+  [![Thanks.io MCP connector](https://glama.ai/mcp/connectors/io.thanks/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.thanks/mcp)
+  🔐 - Send real handwritten postcards, letters, notecards and gift cards, and track QR scan results.
 - [Toolweather](https://toolweather.pages.dev) `https://toolweather.toolweather.workers.dev/mcp`
   [![Toolweather MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/toolweather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/toolweather)
   🔓 - Checks if an MCP server or tool is safe to call now and suggests alternatives. Calls need a free API key.
