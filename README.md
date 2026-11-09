@@ -923,6 +923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
+- [WIbookAI](https://wibookai.com) `https://app.wibookai.com/mcp`
+  [![WIbookAI MCP connector](https://glama.ai/mcp/connectors/com.wibookai/business/badges/score.svg)](https://glama.ai/mcp/connectors/com.wibookai/business)
+  🔐 - Business manager for wedding venues and vendors: leads, events, tours, tasks, payments and client emails, with confirmation before anything a client sees.
 - [Workspace369](https://workspace369.com) `https://mcp.workspace369.com/mcp`
   [![Workspace369 MCP connector](https://glama.ai/mcp/connectors/com.workspace369/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.workspace369/mcp)
   🔐 - Manage clients, proposals, e-sign contracts, invoices, projects, calendar and time tracking for client-work businesses.
@@ -5145,6 +5148,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Webtzm](https://webtzm.com/docs/ai-assistants) `https://webtzm.com/mcp/workspace`
   [![Webtzm MCP connector](https://glama.ai/mcp/connectors/io.github.anotherdteach-maker/webtzm/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anotherdteach-maker/webtzm)
   🔐 - Create and manage forms that send submissions to Google Sheets, and get their HTML for any website.
+- [WIplanAI](https://wiplanai.com) `https://app.wiplanai.com/mcp`
+  [![WIplanAI MCP connector](https://glama.ai/mcp/connectors/com.wiplanai/planner/badges/score.svg)](https://glama.ai/mcp/connectors/com.wiplanai/planner)
+  🔐 - Wedding planner for couples: guest list and RSVPs, budget, vendors, seating, checklist and the day's timeline.
 - [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
   [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
   🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
