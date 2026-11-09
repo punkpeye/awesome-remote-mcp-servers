@@ -4726,6 +4726,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontDesk Chat](https://frontdeskchat.com/features/mcp/) `https://api.frontdeskchat.com/mcp`
   [![FrontDesk Chat MCP connector](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat)
   🔐 - Read your AI website front desk's conversations, visitors, bookings and analytics, and draft desk changes for approval.
+- [Hooky](https://heyhooky.com/en/docs/#mcp) `https://api.heyhooky.com/mcp`
+  [![Hooky MCP connector](https://glama.ai/mcp/connectors/com.heyhooky/hooky/badges/score.svg)](https://glama.ai/mcp/connectors/com.heyhooky/hooky)
+  🔐 - Read and answer your website's live chat visitors, set up the AI agent that answers from your site and catalog, manage sites, and check notifications and stats.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
 - [NexTool MCP for GLPI](https://nextoolsolutions.com/mcp) `https://mcp.nextoolsolutions.com/mcp`
