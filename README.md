@@ -926,6 +926,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Workspace369](https://workspace369.com) `https://mcp.workspace369.com/mcp`
   [![Workspace369 MCP connector](https://glama.ai/mcp/connectors/com.workspace369/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.workspace369/mcp)
   🔐 - Manage clients, proposals, e-sign contracts, invoices, projects, calendar and time tracking for client-work businesses.
+- [Zoho CRM AI Assistant](https://askincrm.com/ai-clients) `https://mcp.askincrm.com/mcp`
+  [![Zoho CRM AI Assistant MCP connector](https://glama.ai/mcp/connectors/com.zsetup/ai-assistant/badges/score.svg)](https://glama.ai/mcp/connectors/com.zsetup/ai-assistant)
+  🔐 - Search Zoho CRM records, summarize deal activity, and manage follow-up tasks with enabled tools.
 
 ### 🗄️ <a name="databases"></a>Databases
 
