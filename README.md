@@ -842,6 +842,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [INKFLOW](https://inkflowstudio.org) `https://api.inkflowstudio.org/api/mcp`
   [![INKFLOW MCP connector](https://glama.ai/mcp/connectors/org.inkflowstudio/inkflow/badges/score.svg)](https://glama.ai/mcp/connectors/org.inkflowstudio/inkflow)
   🔓 - Writes complete books, series, manuals and translations, plus TikTok/YouTube promo videos; free Chapter 1 with no key.
+- [Jaybird Digital](https://jaybirddigital.com/mcp#start) `https://jaybirddigital.com/api/start/mcp`
+  [![Jaybird Digital MCP connector](https://glama.ai/mcp/connectors/com.jaybirddigital/website/badges/score.svg)](https://glama.ai/mcp/connectors/com.jaybirddigital/website)
+  🔓 - Start a hosted website with no account, save its pages and get an address to view it; sign in to keep working on it.
 - [JustCopy](https://justcopy.ai/docs/mcp) `https://justcopy.ai/mcp`
   [![JustCopy MCP connector](https://glama.ai/mcp/connectors/ai.justcopy/justcopy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.justcopy/justcopy)
   🔐 - Build, change and publish a working business website from a chat, with sign-in, saved form data and photo uploads.
