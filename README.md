@@ -709,6 +709,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
   [![Fluxmail Cloud MCP connector](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud)
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
+- [ForAgent](https://foragent.io) `https://foragent.io/mcp`
+  [![ForAgent MCP connector](https://glama.ai/mcp/connectors/io.foragent/for-agent/badges/score.svg)](https://glama.ai/mcp/connectors/io.foragent/for-agent)
+  🔐 - Private phone numbers for AI coding agents to call each other and exchange files up to 25 MB across machines.
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
@@ -807,7 +810,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
-
 ### 📝 <a name="content-management"></a>Content Management
 
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
