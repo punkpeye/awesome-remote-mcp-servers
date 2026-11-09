@@ -3717,6 +3717,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [ailiste](https://ailiste.app/mcp/) `https://mcp.ailiste.app/`
+  [![ailiste MCP connector](https://glama.ai/mcp/connectors/app.ailiste/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.ailiste/mcp)
+  🔓 - New builds in Cyprus: buildings, the stage seen on site and its day, developers and district asking prices.
 - [AskRentAI](https://askrentai.com) `https://api.askrentai.com/mcp`
   [![AskRentAI MCP connector](https://glama.ai/mcp/connectors/com.askrentai/askrentai/badges/score.svg)](https://glama.ai/mcp/connectors/com.askrentai/askrentai)
   🔐 - Read-only live Rent Manager portfolio data: NOI, rent roll, delinquency, leasing, work orders, and financial reports.
