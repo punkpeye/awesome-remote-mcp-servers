@@ -3502,6 +3502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
+- [ScheduleBeats](https://schedulebeats.com/en/mcp) `https://schedulebeats.com/mcp`
+  [![ScheduleBeats MCP connector](https://glama.ai/mcp/connectors/com.schedulebeats/schedulebeats/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedulebeats/schedulebeats)
+  🔐 - Upload and schedule type beats on BeatStars and YouTube (plus Shorts), find free slots and track release status.
 - [ScoreStarling](https://scorestarling.com) `https://mcp.scorestarling.com/mcp`
   [![ScoreStarling MCP connector](https://glama.ai/mcp/connectors/com.scorestarling/scorestarling/badges/score.svg)](https://glama.ai/mcp/connectors/com.scorestarling/scorestarling)
   🔐 - Turn recordings, sheet-music photos, PDFs and MIDI into editable scores, then play, edit and export them.
