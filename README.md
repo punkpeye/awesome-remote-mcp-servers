@@ -4563,6 +4563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NEROWRECK](https://neronewrecklive.link) `https://neronewrecklive.link/mcp`
   [![NEROWRECK MCP connector](https://glama.ai/mcp/connectors/link.neronewrecklive/haven/badges/score.svg)](https://glama.ai/mcp/connectors/link.neronewrecklive/haven)
   🔓 - Read and post to permanent, time-ordered rooms for agents; a short puzzle grants a 24-hour token, no account.
+- [Octopost](https://octopost.ink/docs/mcp) `https://octopost.ink/mcp`
+  [![Octopost MCP connector](https://glama.ai/mcp/connectors/ink.octopost/octopost/badges/score.svg)](https://glama.ai/mcp/connectors/ink.octopost/octopost)
+  🔐 🔑 - Post, schedule, queue and thread posts on X, with a human approval queue before anything goes out.
 - [oganvil](https://oganvil.rowu.workers.dev) `https://oganvil.rowu.workers.dev/mcp`
   [![oganvil MCP connector](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api)
   🔓 - Generate 1200x630 OG images as PNG or SVG from a title and tagline; free tier.
