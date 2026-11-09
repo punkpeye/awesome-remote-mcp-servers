@@ -3121,6 +3121,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
+- [PageCritic](https://pagecritic.app/developers) `https://pagecritic.app/mcp`
+  [![PageCritic MCP connector](https://glama.ai/mcp/connectors/app.pagecritic/pagecritic/badges/score.svg)](https://glama.ai/mcp/connectors/app.pagecritic/pagecritic)
+  🔓 🔑 - Score a landing page's conversion with the top issues and fixes, and check whether AI crawlers can read it.
 - [PageLens](https://pagelens.io/docs/api) `https://app.pagelens.io/mcp`
   [![PageLens MCP connector](https://glama.ai/mcp/connectors/io.pagelens/pagelens/badges/score.svg)](https://glama.ai/mcp/connectors/io.pagelens/pagelens)
   🔓 - Web analytics for your site and which AI crawlers and assistants read it; tool calls need an API key.
