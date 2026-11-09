@@ -4678,6 +4678,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
   🔓 - Results, fixtures, tables, goal timing and season projections for 93 football leagues, lower divisions included.
+- [HalfPoint](https://halfpoint.tech/sports-odds-mcp-server) `https://mcp.halfpoint.tech/`
+  [![HalfPoint MCP connector](https://glama.ai/mcp/connectors/tech.halfpoint/sports-odds/badges/score.svg)](https://glama.ai/mcp/connectors/tech.halfpoint/sports-odds)
+  🔓 - De-vigged consensus odds, bet-stop signals, fixtures and live scores for US leagues and European soccer; needs a key.
 - [PadelTrue](https://padeltrue.com/agents) `https://padeltrue.com/mcp`
   [![PadelTrue MCP connector](https://glama.ai/mcp/connectors/io.github.odedkovach/padeltrue/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odedkovach/padeltrue)
   🔓 - Search and compare padel rackets by published specs, each spec linked to its source.
