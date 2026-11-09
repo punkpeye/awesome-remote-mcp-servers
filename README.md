@@ -3726,6 +3726,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [baseray](https://baseray.ai/docs/mcp) `https://api.baseray.ai/mcp`
   [![baseray MCP connector](https://glama.ai/mcp/connectors/ai.baseray/baseray/badges/score.svg)](https://glama.ai/mcp/connectors/ai.baseray/baseray)
   🔐 - Building data: address, use, size, height, age, roof, solar panels and registered businesses.
+- [BatchData](https://batchdata.io/mcp-server) `https://mcp.batchdata.com`
+  [![BatchData MCP connector](https://glama.ai/mcp/connectors/io.github.batchdataco/batchdata-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.batchdataco/batchdata-mcp-server)
+  🔐 - U.S. property data, comps, owner skip tracing, phone and address verification.
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
