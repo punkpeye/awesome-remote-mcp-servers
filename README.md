@@ -4400,6 +4400,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
+- [MCP Drift Observatory](https://github.com/mikerawsonnz/mcp-drift-observatory#readme) `https://drift.getvda.ai/mcp`
+  [![MCP Drift Observatory MCP connector](https://glama.ai/mcp/connectors/ai.getvda/integration-agent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.getvda/integration-agent)
+  🔓 - Tells you if a public MCP server's declared tools changed since you approved it, from a daily crawl.
 - [Mifori CertAgent](https://agent.mifori.com) `https://agent.mifori.com/mcp`
   [![Mifori CertAgent MCP connector](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.mifori.agent/mifori-cert-agent)
   🔓 - Live AI agent trust oracle: audit synthetic IQ, latency and JSON compliance via x402 or free telemetry tokens.
