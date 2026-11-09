@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [AIBIMTool](https://aibimtool.com/mcp) `https://aibimtool.com/mcp`
+  [![AIBIMTool MCP connector](https://glama.ai/mcp/connectors/io.github.MeltFlexDevs/aibimtool/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MeltFlexDevs/aibimtool)
+  🔐 - Design buildings from a brief as IFC4 BIM models: plan the layout, build walls, doors and roofs, then edit.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
