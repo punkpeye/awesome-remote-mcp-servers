@@ -4714,6 +4714,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Actually Asked](https://actuallyasked.com/mcp) `https://mcp.actuallyasked.com/mcp`
   [![Actually Asked MCP connector](https://glama.ai/mcp/connectors/com.actuallyasked/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.actuallyasked/mcp)
   🔐 - Review what visitors asked on your website, publish FAQ answers written from your own pages, and follow up on leads.
+- [Deacon](https://heydeacon.com/features/mcp-server) `https://heydeacon.com/mcp`
+  [![Deacon MCP connector](https://glama.ai/mcp/connectors/com.heydeacon/deacon/badges/score.svg)](https://glama.ai/mcp/connectors/com.heydeacon/deacon)
+  🔐 - Your coding agent reads what customers told Deacon's support chat, next to your site's JavaScript errors, and fixes it.
 - [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
   [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
   🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
