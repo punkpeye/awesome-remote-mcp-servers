@@ -490,6 +490,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRX](https://qrx.codes/developers/mcp) `https://qrx.codes/mcp`
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
+- [ready→made](https://wpconverters.com/mcp) `https://api.levels.dev/mcp`
+  [![ready→made MCP connector](https://glama.ai/mcp/connectors/dev.levels.api/readymade-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.levels.api/readymade-mcp)
+  🔑 - Convert Figma frames into native Elementor, Gutenberg, Oxygen, Etch or HTML layouts with a deterministic engine.
 - [Roomvana](https://roomvana.ai) `https://api.roomvana.co/mcp`
   [![Roomvana MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp)
   🔓 - Browse room types and design styles, then get a Roomvana studio link with those options prefilled.
