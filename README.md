@@ -2407,6 +2407,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [IMPOSSIBREW](https://agent.impossibrew.co.uk/docs) `https://agent.impossibrew.co.uk/mcp`
+  [![IMPOSSIBREW MCP connector](https://glama.ai/mcp/connectors/uk.co.impossibrew.agent/beer-finder/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.impossibrew.agent/beer-finder)
+  🔓 - UK alcohol-free beer: sourced answers on labels, driving, pregnancy and health, brand comparisons, box building and stockists.
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
