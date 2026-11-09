@@ -2104,6 +2104,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
+- [Northline ChainKit](https://northline-chainkit.northline-c86.workers.dev) `https://northline-chainkit.northline-c86.workers.dev/mcp`
+  [![Northline ChainKit MCP connector](https://glama.ai/mcp/connectors/dev.workers.northline-c86.northline-chainkit/chainkit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.northline-c86.northline-chainkit/chainkit)
+  🔓 - Pay-per-call Base and Arc onchain facts via x402: address profile, USDC payment verify, tx explain.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
@@ -4141,6 +4144,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ni Biashara Shelves](https://agents.nibiashara.biz/docs?ref=dir-awesome-remote) `https://agents.nibiashara.biz/mcp`
   [![Ni Biashara Shelves MCP connector](https://glama.ai/mcp/connectors/biz.nibiashara/shelves/badges/score.svg)](https://glama.ai/mcp/connectors/biz.nibiashara/shelves)
   🔓 - Pay-per-call data checks over x402: FMCSA carrier/broker authority, load vetting, OFAC screens and African FX rates.
+- [Northline WebKit](https://northline-webkit.northline-c86.workers.dev) `https://northline-webkit.northline-c86.workers.dev/mcp`
+  [![Northline WebKit MCP connector](https://glama.ai/mcp/connectors/dev.workers.northline-c86.northline-webkit/webkit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.northline-c86.northline-webkit/webkit)
+  🔓 - Pay-per-call web tools via x402: URL to markdown, metadata, links, DNS, email/domain and robots checks.
 - [Octocrawl](https://octocrawl.dev/?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://mcp.octocrawl.dev/mcp`
   [![Octocrawl MCP connector](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl)
   🔓 - Scrape pages to Markdown with an evidence record and map a site's URLs; blocked pages are reported, not hidden.
