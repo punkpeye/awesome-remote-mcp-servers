@@ -1009,7 +1009,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [API Change Feed](https://changefeed.dev) `https://changefeed.dev/mcp`
   [![API Change Feed MCP connector](https://glama.ai/mcp/connectors/dev.changefeed/api-change-feed/badges/score.svg)](https://glama.ai/mcp/connectors/dev.changefeed/api-change-feed)
   🔓 - Breaking changes, deprecations and security fixes for 38 APIs and SDKs; pay per call in USDC on Base via x402.
-  - [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
+- [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
   [![Apple RAG MCP connector](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server)
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
