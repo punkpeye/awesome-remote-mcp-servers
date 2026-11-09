@@ -4177,6 +4177,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Proxmint](https://proxmint.com) `https://proxmint.com/api/mcp`
   [![Proxmint MCP connector](https://glama.ai/mcp/connectors/com.proxmint/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxmint/mcp)
   🔓 - Proxy prices, balance, usage, geo-targeted proxy lines and connection checks; account tools need an API key.
+- [Proxy302](https://proxy302.com/developer-docs/) `https://mcp.proxy302.com/mcp`
+  [![Proxy302 MCP connector](https://glama.ai/mcp/connectors/io.github.proxy302/proxy302-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.proxy302/proxy302-mcp)
+  🔐 - Residential proxy URLs by country, sticky-IP rotation, IP purity checks, usage and cost quotes.
 - [ProxyCove](https://proxycove.com) `https://mcp.proxycove.com/mcp`
   [![ProxyCove MCP connector](https://glama.ai/mcp/connectors/com.proxycove/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxycove/mcp-server)
   🔓 - Buy and manage residential, mobile and datacenter proxies in 170+ countries, prepaid per GB.
