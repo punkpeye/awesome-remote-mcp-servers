@@ -3486,7 +3486,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
 - [Presentr Analyze](https://analyze.presentr.me/developer/agents) `https://analyze.presentr.me/api/mcp`
   [![Presentr Analyze MCP connector](https://glama.ai/mcp/connectors/io.github.michaelw-pr/presentr-analyze/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.michaelw-pr/presentr-analyze)
-  🔐 - Translate and re-time subtitles, read text aloud, dub media and pull text from scans, with a quote you confirm first.
+  🔐 - Read text aloud in 48 languages, transcribe audio, extract and translate PDF text, fix subtitles and dub video, with a quote you confirm first.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
   [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
   🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
