@@ -4569,6 +4569,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OmniSocials](https://omnisocials.com) `https://mcp.omnisocials.com/`
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
+- [PersonaXpand](https://personaxpand.com/features/ai-assistants) `https://personaxpand.com/mcp`
+  [![PersonaXpand MCP connector](https://glama.ai/mcp/connectors/com.personaxpand/personaxpand/badges/score.svg)](https://glama.ai/mcp/connectors/com.personaxpand/personaxpand)
+  🔐 - Post and schedule to 8 social networks, answer comments and DMs in your voice, and check analytics.
 - [Pith](https://pith.day/connect/mcp) `https://pith.day/api/mcp`
   [![Pith MCP connector](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing/badges/score.svg)](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing)
   🔐 - Publish your photo and caption to Instagram, and review and approve daily AI story drafts.
