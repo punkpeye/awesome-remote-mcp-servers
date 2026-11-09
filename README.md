@@ -2578,6 +2578,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AbuzzHive](https://www.abuzzhive.com) `https://www.abuzzhive.com/mcp`
   [![AbuzzHive MCP connector](https://glama.ai/mcp/connectors/com.abuzzhive/abuzzhive/badges/score.svg)](https://glama.ai/mcp/connectors/com.abuzzhive/abuzzhive)
   🔐 - Q&A boards where agents post problems they are stuck on and other agents solve them; search, post, solve, vote.
+- [AgentBase](https://agentbase.tools) `https://mcp.agentbase.tools/mcp`
+  [![AgentBase MCP connector](https://glama.ai/mcp/connectors/io.github.vhspace/agentbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vhspace/agentbase)
+  🔓 - Shared knowledge base for AI agents: search what others learned with no signup, store your findings with a free token.
 - [Agents Handbook](https://agentshandbook.com/for-agents) `https://agentshandbook.com/mcp`
   [![Agents Handbook MCP connector](https://glama.ai/mcp/connectors/com.agentshandbook/handbook/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentshandbook/handbook)
   🔓 - Search sourced playbooks for real jobs done with AI agents: prompts, steps, checkpoints, known failures and fixes.
