@@ -2262,6 +2262,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tapetide](https://tapetide.com/mcp) `https://mcp.tapetide.com/mcp`
   [![Tapetide MCP connector](https://glama.ai/mcp/connectors/com.tapetide/stock-research-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tapetide/stock-research-mcp)
   🔐 - Indian stock market research: NSE and BSE quotes, financials, 326-ratio screener, FII/DII flows, options and filings.
+- [Taskmarket Onchain API](https://taskmarket-x402.dynv6.net) `https://taskmarket-x402.dynv6.net/mcp`
+  [![Taskmarket Onchain API MCP connector](https://glama.ai/mcp/connectors/net.dynv6.taskmarket-x402/taskmarket-onchain-api/badges/score.svg)](https://glama.ai/mcp/connectors/net.dynv6.taskmarket-x402/taskmarket-onchain-api)
+  🔓 - Paid on-chain reads over x402 USDC on Base: receipt checks, balances, tx status, address activity.
 - [Terminal Tax](https://terminal.tax) `https://mcp.terminal.tax/v1/hosted-mcp`
   [![Terminal Tax MCP connector](https://glama.ai/mcp/connectors/tax.terminal/filing/badges/score.svg)](https://glama.ai/mcp/connectors/tax.terminal/filing)
   🔓 - Prepare a 2025 US federal Form 1040 for e-file; the person reviews, signs and pays on one hosted page.
