@@ -667,6 +667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wawesome](https://wawesome.io) `https://api.wawesome.io/v1/mcp`
   [![wawesome MCP connector](https://glama.ai/mcp/connectors/io.wawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.wawesome/mcp)
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
+- [Webprompter.ai](https://webprompter.ai) `https://mcp.webprompter.ai/mcp`
+  [![Webprompter.ai MCP connector](https://glama.ai/mcp/connectors/ai.webprompter/mcp-service/badges/score.svg)](https://glama.ai/mcp/connectors/ai.webprompter/mcp-service)
+  🔓 - Deploy static sites from coding agents: zip to staging, promote to prod, rollback, connect custom domains; key needed.
   
 ### 💬 <a name="communication"></a>Communication
 
