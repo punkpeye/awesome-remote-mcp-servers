@@ -3874,6 +3874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
   [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news)
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
+- [Arca Life Sciences](https://www.arca.inc/mcp) `https://app.arca.inc/api/public/mcp`
+  [![Arca Life Sciences MCP connector](https://glama.ai/mcp/connectors/inc.arca.app/arca-life-sciences/badges/score.svg)](https://glama.ai/mcp/connectors/inc.arca.app/arca-life-sciences)
+  🔓 - Search PubMed with citation counts, FDA drug and device records, ClinicalTrials.gov and VAERS; read-only, cited.
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
