@@ -1081,6 +1081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
+- [Duo Data Utilities](https://api.duoleads.com/docs) `https://api.duoleads.com/mcp`
+  [![Duo Data Utilities MCP connector](https://glama.ai/mcp/connectors/com.duoleads.api/data-utilities/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.api/data-utilities)
+  🔓 - 33 deterministic data tools: ID/IBAN check digits, time zones, text, URL/JWT parsing, geo; $0.05 per call via x402.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
@@ -1895,6 +1898,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Duo Crypto Derivatives](https://derivs.duoleads.com/docs) `https://derivs.duoleads.com/mcp`
+  [![Duo Crypto Derivatives MCP connector](https://glama.ai/mcp/connectors/com.duoleads.derivs/perp-funding-rates-open-interest/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.derivs/perp-funding-rates-open-interest)
+  🔓 - Perp funding rates, open interest, basis, IV, liquidations and order books on 8 exchanges; $0.003-$0.005 via x402.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
@@ -2980,6 +2986,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
+- [Duo SEO and Keyword Data](https://keywords.duoleads.com/docs) `https://keywords.duoleads.com/mcp`
+  [![Duo SEO and Keyword Data MCP connector](https://glama.ai/mcp/connectors/com.duoleads.keywords/keyword-search-volume-google-trends/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.keywords/keyword-search-volume-google-trends)
+  🔓 - 44 SEO tools: keyword volume, CPC, Google Trends, backlinks, domains, SERP, Maps, audits; $0.012-$0.25 via x402.
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -4531,6 +4540,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DatePhotos.AI](https://datephotos.ai) `https://datephotos.ai/api/mcp`
   [![DatePhotos.AI MCP connector](https://glama.ai/mcp/connectors/ai.datephotos/datephotos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.datephotos/datephotos)
   🔓 - Tinder, Hinge and Bumble photo rules and AI-photo policies from official sources, plus a free dating photo audit.
+- [Duo Social Media Data](https://social.duoleads.com/docs) `https://social.duoleads.com/mcp`
+  [![Duo Social Media Data MCP connector](https://glama.ai/mcp/connectors/com.duoleads.social/social-media-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.social/social-media-data)
+  🔓 - Mentions, posts, search, comments and profiles from 10 platforms incl. X, Reddit, TikTok; $0.01-$0.025 via x402.
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
