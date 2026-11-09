@@ -3658,6 +3658,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Entalpa](https://entalpa.com/en/connect) `https://api.entalpa.com/mcp`
   [![Entalpa MCP connector](https://glama.ai/mcp/connectors/com.entalpa/requirements/badges/score.svg)](https://glama.ai/mcp/connectors/com.entalpa/requirements)
   🔐 - Spec-driven development for AI coding agents: generate and manage stories, requirements and traceability links.
+- [featureloom](https://featureloom.com) `https://mcp.featureloom.com/mcp`
+  [![featureloom MCP connector](https://glama.ai/mcp/connectors/com.featureloom/featureloom/badges/score.svg)](https://glama.ai/mcp/connectors/com.featureloom/featureloom)
+  🔐 - Plans and a kanban board: agents take plans, deliver and report, people accept the work. Paid after a 30-day trial.
 - [Flowmaps](https://flowmaps.app) `https://flowmaps.app/api/mcp`
   [![Flowmaps MCP connector](https://glama.ai/mcp/connectors/app.flowmaps/flowmaps/badges/score.svg)](https://glama.ai/mcp/connectors/app.flowmaps/flowmaps)
   🔐 - Plan apps in build order: list ventures and Ready features, add ideas, and read step-by-step build plans.
