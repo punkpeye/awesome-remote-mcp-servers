@@ -1953,6 +1953,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [FundBiz Lender Index](https://fundbiz.co.uk) `https://fundbiz.co.uk/mcp`
+  [![FundBiz Lender Index MCP connector](https://glama.ai/mcp/connectors/uk.co.fundbiz/lender-index/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.fundbiz/lender-index)
+  🔓 - UK business finance lender terms and rates from the FundBiz Lender Index, compiled from public sources.
 - [FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers&utm_content=readme) `https://mcp.fxmacrodata.com`
   [![FXMacroData MCP connector](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata)
   🔓 - Official macro releases and calendars: public USD data, with an optional API key for broader coverage.
@@ -2518,6 +2521,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [Baby Data](https://babydata.co.uk) `https://babydata.co.uk/mcp`
+  [![Baby Data MCP connector](https://glama.ai/mcp/connectors/uk.co.babydata/pregnancy-calculators/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.babydata/pregnancy-calculators)
+  🔓 - UK due date, ovulation, pregnancy weeks and maternity pay calculators that show their working.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
@@ -3600,6 +3606,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
   [![Lumière PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck)
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
+- [MerchantHQ Card Acquirer Index](https://merchanthq.co.uk) `https://merchanthq.co.uk/mcp`
+  [![MerchantHQ Card Acquirer Index MCP connector](https://glama.ai/mcp/connectors/uk.co.merchanthq/card-acquirer-index/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.merchanthq/card-acquirer-index)
+  🔓 - UK card payment acquirer terms and published fees from the MerchantHQ Card Acquirer Index.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
   🔐 - Manage Paddle products, prices, subscriptions, and transactions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
@@ -3820,6 +3829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tradehand](https://tradehand.com) `https://tradehand.com/api/mcp`
   [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
   🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
+- [VettedHome Property Guides](https://vettedhome.co.uk) `https://vettedhome.co.uk/mcp`
+  [![VettedHome Property Guides MCP connector](https://glama.ai/mcp/connectors/uk.co.vettedhome/property-guides/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.vettedhome/property-guides)
+  🔓 - Search plain-English UK guides to property problems and home energy decisions.
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
