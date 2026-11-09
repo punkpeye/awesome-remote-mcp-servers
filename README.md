@@ -2864,7 +2864,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RegAI Legal MCP](https://regai.tw/mcp) `https://mcp.regai.tw/mcp`
   [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
   🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
-
+- [SetLatch](https://setlatch.com/docs/ai-assistants) `https://setlatch.com/mcp`
+  [![SetLatch MCP connector](https://glama.ai/mcp/connectors/com.setlatch/setlatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.setlatch/setlatch)
+  🔐 - Privacy requests (DSARs) for agency client sites: deadlines, app look-ups, tasks and audit trail.
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
