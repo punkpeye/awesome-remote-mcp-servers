@@ -4522,6 +4522,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkPublish](https://www.bulkpublish.com) `https://mcp.bulkpublish.com/mcp`
   [![BulkPublish MCP connector](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish/badges/score.svg)](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish)
   🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
+- [Buzzmark](https://buzzmark.ai/ai-apps/mcp) `https://buzzmark.ai/mcp`
+  [![Buzzmark MCP connector](https://glama.ai/mcp/connectors/ai.buzzmark/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.buzzmark/mcp)
+  🔐 - Write posts in your brand's own voice, score each draft 0 to 100, and schedule them to six social networks.
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
