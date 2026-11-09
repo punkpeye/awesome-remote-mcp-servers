@@ -1643,6 +1643,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NWS Weather](https://github.com/Thx93/mcp-weather-server) `https://agent-evidence.thx93.dev/weather/mcp`
   [![NWS Weather MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/weather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/weather)
   🔓 - National Weather Service alerts by state code and five-period forecasts by latitude and longitude.
+- [PixelGust](https://pixelgust.com) `https://pixelgust.com/mcp?src=awesome-remote`
+  [![PixelGust MCP connector](https://glama.ai/mcp/connectors/com.pixelgust/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pixelgust/mcp)
+  🔓 - Weather, 10-year climate, terrain, soil, NDVI and hazard data for any point on Earth, no key needed.
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
   [![Powietrze PL (powietrze-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/powietrze-mcp)
   🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
