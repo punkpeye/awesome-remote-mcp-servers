@@ -4426,10 +4426,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Domain threat checks, a 30-day domain watch, and TLS, DNS/email-auth and expiry checks; paid per call in USDC via x402.
 - [Penetration Test Services](https://penetrationtestservices.com) `https://penetrationtestservices.com/mcp`
   [![Penetration Test Services MCP connector](https://glama.ai/mcp/connectors/com.penetrationtestservices/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.penetrationtestservices/site)
-  🔓 - Grade a page's HTTP security headers and search penetration testing guides. Read-only.
+  🔓 - Grade a page's HTTP security headers and search penetration testing guides (read-only).
 - [PentestCompare](https://pentestcompare.com) `https://pentestcompare.com/mcp`
   [![PentestCompare MCP connector](https://glama.ai/mcp/connectors/com.pentestcompare/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.pentestcompare/site)
-  🔓 - Query sourced data on 66 penetration testing providers: scope, delivery, published prices. Read-only.
+  🔓 - Query sourced data on 66 penetration testing providers: scope, delivery, published prices (read-only).
 - [PG1 Threat Intelligence](https://pg1-ai-agent.vercel.app/about) `https://pg1-ai-agent.vercel.app/api/mcp`
   [![PG1 Threat Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel)
   🔓 - Agent threat intel: wallet sanctions screening, wallet and domain age, hostname reputation; paid STIX 2.1 feed via x402.
