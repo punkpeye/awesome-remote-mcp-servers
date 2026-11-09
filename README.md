@@ -795,6 +795,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokolaku](https://tokolaku.id/developers) `https://api.tokolaku.id/mcp`
   [![Tokolaku MCP connector](https://glama.ai/mcp/connectors/id.tokolaku/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/id.tokolaku/mcp)
   🔐 - Send WhatsApp Business messages and manage inbox conversations, products, orders and webhooks for Indonesian SMBs.
+- [Unlimited Messaging](https://unlimitedmessaging.app/mcp) `https://mcp.unlimitedmessaging.app`
+  [![Unlimited Messaging MCP connector](https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp)
+  🔐 - Send and read WhatsApp, email and SMS from your own number, mailbox and Android phone.
 - [voicehook](https://voicehook.ai/?utm_source=awesome-remote-mcp&utm_campaign=d13-remote-list) `https://voicehook.ai/mcp`
   [![voicehook MCP connector](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook)
   🔓 - Talk with your agents: a voice call in the browser that your agent can start or join.
