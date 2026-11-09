@@ -3771,6 +3771,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hercules](https://hercules.properties/integrations/mcp) `https://app.hercules.properties/mcp`
   [![Hercules MCP connector](https://glama.ai/mcp/connectors/properties.hercules/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/properties.hercules/property-data)
   🔓 - NYC and US property records: owners, LLC lookups, portfolios, mortgages, NYC pre-foreclosures and investor searches.
+- [Homedex](https://homedex.uk) `https://api.homedex.uk/mcp`
+  [![Homedex MCP connector](https://glama.ai/mcp/connectors/uk.homedex/homedex/badges/score.svg)](https://glama.ai/mcp/connectors/uk.homedex/homedex)
+  🔓 - UK homes for sale and to let from estate agents, plus HM Land Registry sold prices and area figures.
 - [HouseFile](https://www.housefile.app/mcp/about) `https://www.housefile.app/mcp`
   [![HouseFile MCP connector](https://glama.ai/mcp/connectors/app.housefile/licensing/badges/score.svg)](https://glama.ai/mcp/connectors/app.housefile/licensing)
   🔓 - Checks whether a property in England is in a council's selective or HMO licensing scheme.
