@@ -2467,6 +2467,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gamedev Tavern](https://entri.games/ai-agents?lang=en) `https://entri.games/mcp?src=awesome-mcp`
   [![Gamedev Tavern MCP connector](https://glama.ai/mcp/connectors/games.entri/gamedev-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/games.entri/gamedev-tavern)
   🔐 - Gamedev matchmaking: tell the Tavern about you and your studio, post quests and get people and studios that fit.
+- [Herald.ink](https://herald.ink/guides/connect-claude-or-chatgpt-to-your-campaign) `https://api.herald.ink/mcp`
+  [![Herald.ink MCP connector](https://glama.ai/mcp/connectors/ink.herald.api/heraldink-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ink.herald.api/heraldink-mcp)
+  🔐 - Read and write a tabletop RPG campaign: NPCs, monsters, locations, factions, quests, lore and their links.
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
