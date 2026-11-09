@@ -1923,6 +1923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fast GST Refund](https://fastgstrefund.com/for-agents/) `https://fastgstrefund.com/mcp`
   [![Fast GST Refund MCP connector](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund/badges/score.svg)](https://glama.ai/mcp/connectors/com.fastgstrefund/fast-gst-refund)
   🔓 - Indian GST refund guidance, validation and Statement 3/Annexure B JSON; free checks, optional OAuth for downloads.
+- [FilingDelta](https://filingdelta.xyz) `https://filingdelta.xyz/mcp`
+  [![FilingDelta MCP connector](https://glama.ai/mcp/connectors/xyz.filingdelta/filingdelta/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.filingdelta/filingdelta)
+  🔓 - Cited JSON cards for SEC filing changes, central-bank rate decisions and US macro/CPI via x402.
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
