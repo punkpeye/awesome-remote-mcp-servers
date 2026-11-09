@@ -1462,6 +1462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Meu Ecommerce](https://dev.meuecommerce.com.br/docs/mcp) `https://app.meuecommerce.com.br/mcp`
   [![Meu Ecommerce MCP connector](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp)
   🔐 - Brazil's Correios for merchants: shipping quotes (frete), parcel tracking (rastreio) and labels (etiqueta).
+- [Near Fine](https://nearfine.com/assistants) `https://nearfine.com/mcp`
+  [![Near Fine MCP connector](https://glama.ai/mcp/connectors/com.nearfine/books/badges/score.svg)](https://glama.ai/mcp/connectors/com.nearfine/books)
+  🔓 - Search 75 booksellers in 40 countries for any print book, ebook or audiobook, with verified first-edition and signed claims, and OAuth price alerts.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
