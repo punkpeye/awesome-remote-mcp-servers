@@ -1465,7 +1465,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NFC Tap Builder by Tap.Giving](https://tap.giving) `https://tap.giving/mcp`
-  🔓 - Design and order custom NFC tap-to-give discs for churches and nonprofits: keyless discovery, published tier pricing, artwork spec and quotes; order setup uses an API key, payment is handed off by invoice link.
+  🔓 - Design and order custom NFC tap discs for organizations, including churches, nonprofits, restaurants, coffee shops, and local businesses: keyless discovery, published tier pricing, artwork spec and quotes; order setup uses an API key, payment is handed off by a hosted invoice link.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
