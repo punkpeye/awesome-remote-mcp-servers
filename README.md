@@ -4210,6 +4210,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scoutee](https://scoutee.org/en/mcp-public-tenders) `https://scoutee.org/api/mcp/public`
   [![Scoutee MCP connector](https://glama.ai/mcp/connectors/org.scoutee/scoutee/badges/score.svg)](https://glama.ai/mcp/connectors/org.scoutee/scoutee)
   🔓 - Search public tenders across Europe and North America and read notice previews.
+- [Scrape.ly](https://scrape.ly) `https://mcp.scrape.ly`
+  [![Scrape.ly MCP connector](https://glama.ai/mcp/connectors/ly.scrape/scrapely-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ly.scrape/scrapely-mcp-server)
+  🔐 - Search 500+ ready-made web scrapers, run them in the cloud and read structured results from datasets and logs.
 - [ScrapeUnblocker](https://www.scrapeunblocker.com) `https://mcp.scrapeunblocker.com/mcp`
   [![ScrapeUnblocker MCP connector](https://glama.ai/mcp/connectors/com.scrapeunblocker.mcp/scrape-unblocker/badges/score.svg)](https://glama.ai/mcp/connectors/com.scrapeunblocker.mcp/scrape-unblocker)
   🔓 - Fetch pages past anti-bot blocks as HTML or parsed JSON, plus Google search and 100+ site plugins; tools need a key.
