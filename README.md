@@ -2928,6 +2928,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [App Store Trends & App Ideas](https://apify.com/flyingkiwi/app-store-trends-app-ideas) `https://mcp.apify.com/?tools=flyingkiwi/app-store-trends-app-ideas`
+  [![App Store Trends & App Ideas MCP connector](https://glama.ai/mcp/connectors/io.github.flyingkiwi-tools/app-store-trends-app-ideas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.flyingkiwi-tools/app-store-trends-app-ideas)
+  🔐 - Apple App Store top charts by country and category, rank changes, review complaint themes and optional AI app ideas.
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
@@ -3991,6 +3994,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [ATS Jobs & Hiring Signals](https://apify.com/flyingkiwi/ats-jobs-hiring-signals) `https://mcp.apify.com/?tools=flyingkiwi/ats-jobs-hiring-signals`
+  [![ATS Jobs & Hiring Signals MCP connector](https://glama.ai/mcp/connectors/io.github.flyingkiwi-tools/ats-jobs-hiring-signals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.flyingkiwi-tools/ats-jobs-hiring-signals)
+  🔐 - Open jobs from Greenhouse, Lever, Ashby and 4 more ATS career pages in one schema, with salaries and new-job alerts.
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
@@ -4046,6 +4052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [Document to Markdown](https://apify.com/flyingkiwi/document-to-markdown) `https://mcp.apify.com/?tools=flyingkiwi/document-to-markdown`
+  [![Document to Markdown MCP connector](https://glama.ai/mcp/connectors/io.github.flyingkiwi-tools/document-to-markdown/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.flyingkiwi-tools/document-to-markdown)
+  🔐 - Convert PDF, Word, PowerPoint, Excel, HTML and EPUB files or links to Markdown for RAG, with OCR; pay per document.
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
