@@ -3550,6 +3550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Valmera](https://valmera.io) `https://valmera.io/mcp/server`
   [![Valmera MCP connector](https://glama.ai/mcp/connectors/io.valmera/video-editor/badges/score.svg)](https://glama.ai/mcp/connectors/io.valmera/video-editor)
   🔐 - Edit your own footage: cut dead air and filler words, caption, reframe to 9:16, make shorts and export MP4.
+- [VFX Plus](https://vfx.plus/mcp) `https://studio.vfx.plus/api/integrations/mcp`
+  [![VFX Plus MCP connector](https://glama.ai/mcp/connectors/plus.vfx/studio/badges/score.svg)](https://glama.ai/mcp/connectors/plus.vfx/studio)
+  🔐 - Read films, shots and cuts in an AI film studio; quote and make pictures, sounds and videos within a spending limit.
 - [VideoBGRemover](https://videobgremover.net/mcp) `https://videobgremover.net/api/mcp`
   [![VideoBGRemover MCP connector](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover/badges/score.svg)](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover)
   🔐 - Remove video backgrounds, track processing tasks, and download transparent WebM with source audio.
