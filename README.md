@@ -3556,6 +3556,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VideoGen](https://videogen.io/videogen-mcp) `https://mcp.videogen.io/mcp`
   [![VideoGen MCP connector](https://glama.ai/mcp/connectors/io.github.dg314/videogen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dg314/videogen)
   🔐 - Create videos from scripts and storyboards, manage projects, and export finished videos.
+- [VideoUpscaler](https://videoupscaler.co/integrations) `https://videoupscaler.co/api/mcp`
+  [![VideoUpscaler MCP connector](https://glama.ai/mcp/connectors/co.videoupscaler/video-upscaler/badges/score.svg)](https://glama.ai/mcp/connectors/co.videoupscaler/video-upscaler)
+  🔓 - Upscale videos to 1080p, 2K or 4K 60fps with AI denoising and frame interpolation; tools need OAuth or an API key.
 - [Vidova](https://vidova.ai) `https://mcp.vidova.ai/mcp`
   [![Vidova MCP connector](https://glama.ai/mcp/connectors/ai.vidova/vidova/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vidova/vidova)
   🔐 - Edit videos on a real timeline, generate clips, music and voice, track faces and render finished cuts.
