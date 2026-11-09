@@ -3862,6 +3862,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
+- [Sengi](https://sengi.ai) `https://mcp.sengi.ai/mcp`
+  [![Sengi MCP connector](https://glama.ai/mcp/connectors/ai.sengi/sengi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sengi/sengi)
+  🔐 - Candidate sourcing for recruiters: turn a role brief into a long list with public proof for every must-have.
 - [Silicon Valley Atlas](https://svatlas.io) `https://svatlas.io/mcp`
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
