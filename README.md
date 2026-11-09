@@ -2104,6 +2104,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
+- [Nyria](https://nyria.io/signals/mcp) `https://api.nyria.io/mcp`
+  [![Nyria MCP connector](https://glama.ai/mcp/connectors/io.github.Nyria-LLC/nyria/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nyria-LLC/nyria)
+  🔑 - Send trade alerts from Claude, Cursor or any MCP client to Nyria Paper or your broker; preview places nothing.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
