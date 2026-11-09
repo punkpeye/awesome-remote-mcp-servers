@@ -2428,6 +2428,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scern](https://scern.app) `https://api.scern.app/mcp`
   [![Scern MCP connector](https://glama.ai/mcp/connectors/app.scern.api/scern/badges/score.svg)](https://glama.ai/mcp/connectors/app.scern.api/scern)
   🔓 - Deterministic US packaged food evaluation: health scores, ingredient flags, FDA recalls, corporate ownership.
+- [SnagRes](https://snagres.com/mcp-server) `https://snagres.com/mcp`
+  [![SnagRes MCP connector](https://glama.ai/mcp/connectors/com.snagres/reservations/badges/score.svg)](https://glama.ai/mcp/connectors/com.snagres/reservations)
+  🔓 - Live open tables, release times and booking odds at hard-to-book restaurants in NYC, SF, LA and Chicago. Read-only.
 - [TableJourney](https://tablejourney.com/agents/) `https://tablejourney.com/mcp`
   [![TableJourney MCP connector](https://glama.ai/mcp/connectors/com.tablejourney/food-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.tablejourney/food-travel)
   🔓 - Restaurants, markets and street food in 200+ cities, plus food festivals and bookable tours.
