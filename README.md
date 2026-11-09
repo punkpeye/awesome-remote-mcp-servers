@@ -4014,6 +4014,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CareJobs.Now](https://carejobs.now/data) `https://carejobs.now/api/mcp`
   [![CareJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs)
   🔓 - Search 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each one posts.
+- [CNPJ Completo](https://cnpjcompleto.com.br/api) `https://cnpjcompleto.com.br/mcp`
+  [![CNPJ Completo MCP connector](https://glama.ai/mcp/connectors/br.com.cnpjcompleto/cnpj/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.cnpjcompleto/cnpj)
+  🔓 - Brazilian company data by CNPJ from Receita Federal: partners, activities, address, federal debt and sanctions lists.
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
