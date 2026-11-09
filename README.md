@@ -4665,6 +4665,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [EM Snow](https://snow.extreme-media.co.uk/ai) `https://snow.extreme-media.co.uk/mcp`
+  [![EM Snow MCP connector](https://glama.ai/mcp/connectors/uk.co.extreme-media.snow/em-snow/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.extreme-media.snow/em-snow)
+  🔓 - Ski conditions, forecasts, avalanche danger, sun, routes and snow history for 5,000+ resorts.
 - [MYOPL Pickleball Knowledge](https://myopl.net/opl-intelligence/connect-your-ai/) `https://api.myopl.net/mcp`
   [![MYOPL Pickleball Knowledge MCP connector](https://glama.ai/mcp/connectors/net.myopl/pickleball-public-knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/net.myopl/pickleball-public-knowledge)
   🔓 - Official 2026 USA Pickleball rules, free 4-decimal player ratings, and court/club directory.
