@@ -858,6 +858,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
 - [BayDeep](https://baydeep.com) `https://mcp.baydeep.com/mcp`
+  [![BayDeep MCP connector](https://glama.ai/mcp/connectors/io.github.meshtok/baydeep/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meshtok/baydeep)
   🔓 - The e-commerce plugin for AI agents: search a live AliExpress shelf and flight deals, read product details, and mint tracked affiliate buy links; free self-serve API keys.
 - [BirkinBagStock](https://birkinbagstock.com) `https://birkinbagstock.com/mcp`
   [![BirkinBagStock MCP connector](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp)
