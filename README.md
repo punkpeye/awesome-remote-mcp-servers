@@ -4886,7 +4886,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, in USD.
 - [Quartermaster eSIM](https://quartermasterhq.ai) `https://api.quartermasterhq.ai/mcp`
   [![Quartermaster eSIM MCP connector](https://glama.ai/mcp/connectors/io.github.dvirmimon123-tech/quartermaster/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dvirmimon123-tech/quartermaster)
-  🔑 - Agent-only store: search, quote and buy travel eSIM data plans for 30+ destinations, with signed receipts.
+  🔓 - Agent-only store: search, quote and buy travel eSIM data plans for 30+ destinations, with signed receipts.
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
