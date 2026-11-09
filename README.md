@@ -305,6 +305,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Frantic](https://gofrantic.com) `https://api.gofrantic.com/mcp`
   [![Frantic MCP connector](https://glama.ai/mcp/connectors/com.gofrantic/frantic/badges/score.svg)](https://glama.ai/mcp/connectors/com.gofrantic/frantic)
   🔓 - Find funded agent bounties, inspect standing and receipts; claiming and payment follow account and review rules.
+- [GoKuna](https://gokuna.com/for-agents) `https://gokuna.com/api/mcp`
+  [![GoKuna MCP connector](https://glama.ai/mcp/connectors/com.gokuna/gokuna/badges/score.svg)](https://glama.ai/mcp/connectors/com.gokuna/gokuna)
+  🔐 - Pay ID-checked people to do real-world tasks and send photo or video proof; review each result and pay only for what you accept.
 - [GoodSign](https://goodsign.io/mcp-server) `https://goodsign.io/mcp`
   [![GoodSign MCP connector](https://glama.ai/mcp/connectors/io.goodsign/goodsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.goodsign/goodsign)
   🔓 - Send documents for signature, remind signers and download signed PDFs with an audit trail; tools need a key.
