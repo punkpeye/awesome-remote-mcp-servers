@@ -1466,7 +1466,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [Nexscope](https://www.nexscope.ai/?co-from=punkpeye-awesome-remote-mcp) `https://api.nexscope.ai/mcp`
   [![Nexscope MCP connector](https://glama.ai/mcp/connectors/io.github.nexscope/ecommerce/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nexscope/ecommerce)
-  🔐 - Ecommerce marketplace data for Amazon, TikTok Shop, Walmart, Shopee, Temu, 1688 and more (228 tools).
+  🔑 - Ecommerce marketplace data for Amazon, TikTok Shop, Walmart, Shopee, Temu, 1688 and more (228 tools).
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
   [![NotRobophobic Shop MCP connector](https://glama.ai/mcp/connectors/shop.notrobo/shop/badges/score.svg)](https://glama.ai/mcp/connectors/shop.notrobo/shop)
   🔓 - Browse prints and merch about the nights machines beat us, build a basket and check out.
