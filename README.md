@@ -2342,7 +2342,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
    🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
 - [XRPL.to](https://xrpl.to/mcp) `https://api.xrpl.to/v1/mcp`
   [![XRPL.to MCP connector](https://glama.ai/mcp/connectors/io.github.xrplto/xrpl-to/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xrplto/xrpl-to)
-  🔑 - XRP Ledger token prices, holders, trades, AMM pools, NFTs, accounts and scam checks.
+  🔓 🔑 - XRP Ledger token prices, holders, trades, AMM pools, NFTs, accounts and scam checks; tool calls need an API key with a credit pack or paid plan.
 - [xupersplit](https://split.xuper.fun) `https://split.xuper.fun/api/mcp`
   [![xupersplit MCP connector](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kanylbullen/xupersplit)
   🔓 - Split group expenses with no account: create a split, record who paid, see who owes whom and settle up.
