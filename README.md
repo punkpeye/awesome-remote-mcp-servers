@@ -301,7 +301,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
 - [Formstep](https://formstep.io) `https://api.formstep.io/api/mcp`
   [![Formstep MCP connector](https://glama.ai/mcp/connectors/io.github.formstep/formstep-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.formstep/formstep-mcp)
-  🔐 - Collect verified customer information with one request: the customer confirms or corrects a branded, prefilled form.
+  🔐 - Send a form to one named person and read their answers back under stable field keys.
 - [Frantic](https://gofrantic.com) `https://api.gofrantic.com/mcp`
   [![Frantic MCP connector](https://glama.ai/mcp/connectors/com.gofrantic/frantic/badges/score.svg)](https://glama.ai/mcp/connectors/com.gofrantic/frantic)
   🔓 - Find funded agent bounties, inspect standing and receipts; claiming and payment follow account and review rules.
