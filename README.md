@@ -2563,6 +2563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
+- [Zorgverzekering.chat](https://www.zorgverzekering.chat/mcp) `https://mcp.zorgverzekering.chat/mcp`
+  [![Zorgverzekering.chat MCP connector](https://glama.ai/mcp/connectors/chat.zorgverzekering.mcp/zorgverzekering/badges/score.svg)](https://glama.ai/mcp/connectors/chat.zorgverzekering.mcp/zorgverzekering)
+  🔓 - Dutch health insurance: 2026–2027 premiums, coverage, contracted providers and total yearly cost, with sources.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
