@@ -2103,7 +2103,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Bitcoin Barometer heat score, BTC price, on-chain and sentiment indicators, and daily history since 2014.
 - [NOID Agent Kit](https://noid-agent-kit.onrender.com) `https://noid-agent-kit.onrender.com/mcp`
   [![NOID Agent Kit MCP connector](https://glama.ai/mcp/connectors/com.onrender.noid-agent-kit/noid-agent-kit/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.noid-agent-kit/noid-agent-kit)
-  🔑 - Invoices, receipts, whale and new-token alerts, and a launch checklist for Parano1d (NOID), paid in credits.
+  🔓 - Invoices, receipts, whale and new-token alerts, and a launch checklist for Parano1d (NOID); paid tools need an API key.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
