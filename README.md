@@ -2723,6 +2723,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
+- [ReadShore](https://readshore.app/connect-ai-assistants/) `https://readshore.app/mcp`
+  [![ReadShore MCP connector](https://glama.ai/mcp/connectors/app.readshore/readshore/badges/score.svg)](https://glama.ai/mcp/connectors/app.readshore/readshore)
+  🔐 - Find and read the articles and posts you saved to read later, with cited summaries, and save new links.
 - [Recipe library](https://ofershap.github.io/agent-success-hub/) `https://recipes.gitshow.dev/mcp`
   [![Recipe library MCP connector](https://glama.ai/mcp/connectors/io.github.ofershap/recipe-library/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ofershap/recipe-library)
   🔓 - Search and read reviewed Hebrew AI-agent task recipes, with available full English versions. Read-only.
