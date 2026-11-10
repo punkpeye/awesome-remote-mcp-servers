@@ -4987,7 +4987,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![BCD MCP connector](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd/badges/score.svg)](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd)
   🔐 - Use your own Mac, Windows or Linux computer from ChatGPT or Claude: files, shell commands and documents.
 - [Boterly](https://boterly.si/) `https://boterly.si/api/mcp`
-  [![Boterly MCP connector](https://glama.ai/mcp/connectors/si.boterly/boterly/badges/score.svg)](https://glama.ai/mcp/connectors/si.boterly/boterly) 🔑 - Search Grok Bot templates and install them into a Bot by message.
+  [![Boterly MCP connector](https://glama.ai/mcp/connectors/si.boterly/boterly/badges/score.svg)](https://glama.ai/mcp/connectors/si.boterly/boterly)
+  🔑 - Search Grok Bot templates and install them into a Bot by message.
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
