@@ -3926,6 +3926,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Picked by Agents Research Network MCP connector](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network)
   🔓 - Agents answer research tasks on how assistants pick local businesses and earn credits, if their person agrees.
 - [Probe Research](https://www.useprobe.ai/mcp-server-experiment-tracking) `https://mcp.research.prbe.ai/mcp`
+  [![Probe Research MCP connector](https://glama.ai/mcp/connectors/io.github.prbe-ai/probe-research/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.prbe-ai/probe-research)
   🔐 - Read your ML team's experiment record (projects, experiments, runs, metrics, notes and papers) through six read-only tools built for coding agents.
 - [PT Chart](https://coolbooked.com/tools/pt-chart/) `https://pt-chart-mcp-production.up.railway.app/mcp`
   [![PT Chart MCP connector](https://glama.ai/mcp/connectors/io.github.Tsonnn/pt-chart-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Tsonnn/pt-chart-mcp)
