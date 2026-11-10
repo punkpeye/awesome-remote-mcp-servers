@@ -2557,7 +2557,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
-- [Telehealth near me](https://telehealthnearme.pro/llms.txt) `https://telehealthnearme.pro/mcp`
+- [Telehealth near me](https://telehealthnearme.pro) `https://telehealthnearme.pro/mcp`
   [![Telehealth near me MCP connector](https://glama.ai/mcp/connectors/pro.telehealthnearme/telehealth-compare/badges/score.svg)](https://glama.ai/mcp/connectors/pro.telehealthnearme/telehealth-compare)
   🔓 - Compares U.S. telehealth programs (GLP-1, TRT, longevity) by price, labs and LegitScript status, with sources.
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
