@@ -2283,6 +2283,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TickFeed](https://tickfeed.pro) `https://api.tickfeed.pro/mcp`
   [![TickFeed MCP connector](https://glama.ai/mcp/connectors/pro.tickfeed/tickfeed/badges/score.svg)](https://glama.ai/mcp/connectors/pro.tickfeed/tickfeed)
   🔐 - Live bid/ask and OHLC candles for 60 forex pairs and 11 metals, with freshness labels and gap reports.
+- [TNT House Risk-Data API](https://www.tnt-audit.com/risk-api) `https://www.tnt-audit.com/api/mcp`
+  [![TNT House Risk-Data API MCP connector](https://glama.ai/mcp/connectors/io.github.menantonio83-hue/tnt-house-risk-data-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.menantonio83-hue/tnt-house-risk-data-api)
+  🔓 - Solana token risk for agents: 0-100 score, insider clusters, honeypot and LP lock checks; 5 free calls/day, then x402.
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
