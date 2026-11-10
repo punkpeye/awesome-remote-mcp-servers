@@ -839,6 +839,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
+- [HTMLRadar](https://htmlradar.com/mcp) `https://mcp.htmlradar.com/mcp`
+  [![HTMLRadar MCP connector](https://glama.ai/mcp/connectors/com.htmlradar/share/badges/score.svg)](https://glama.ai/mcp/connectors/com.htmlradar/share)
+  🔐 - Send an HTML page to the people it is for, see how each one read it, and update it on the same link.
 - [INKFLOW](https://inkflowstudio.org) `https://api.inkflowstudio.org/api/mcp`
   [![INKFLOW MCP connector](https://glama.ai/mcp/connectors/org.inkflowstudio/inkflow/badges/score.svg)](https://glama.ai/mcp/connectors/org.inkflowstudio/inkflow)
   🔓 - Writes complete books, series, manuals and translations, plus TikTok/YouTube promo videos; free Chapter 1 with no key.
