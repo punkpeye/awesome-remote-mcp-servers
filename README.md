@@ -2452,6 +2452,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
+- [Chess Coach](https://thechesscoach.netlify.app/) `https://chess-coach-246271308938.europe-west1.run.app/mcp`
+  [![Chess Coach MCP connector](https://glama.ai/mcp/connectors/app.netlify.thechesscoach/chess-coach/badges/score.svg)](https://glama.ai/mcp/connectors/app.netlify.thechesscoach/chess-coach)
+  🔐 - Reviews your finished Chess.com and Lichess games with Stockfish on an interactive board, explained in plain words.
 - [Chessigma](https://www.chessigma.com/developers/mcp) `https://www.chessigma.com/api/mcp`
   [![Chessigma MCP connector](https://glama.ai/mcp/connectors/com.chessigma/chessigma/badges/score.svg)](https://glama.ai/mcp/connectors/com.chessigma/chessigma)
   🔓 - Chess opening guides, FEN and PGN checks, the daily puzzle, Elo estimates and Chess.com or Lichess game review links.
