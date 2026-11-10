@@ -2907,6 +2907,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Check a public page's robots, sitemap, JSON-LD, canonical tags and llms.txt.
 
 
+- [aeogeo](https://aeogeo.site) `https://mcp.aeogeo.site/mcp`
+  [![aeogeo MCP connector](https://glama.ai/mcp/connectors/site.aeogeo/aeogeo/badges/score.svg)](https://glama.ai/mcp/connectors/site.aeogeo/aeogeo)
+  🔐 - Deterministic AEO/GEO checks and a source-cited rulebook for AI search; sign in with any email, full access is paid.
+
 - [AffiliateBase](https://www.affiliatebase.io) `https://app.affiliatebase.io/mcp`
   [![AffiliateBase MCP connector](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase/badges/score.svg)](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase)
   🔐 - Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions and payouts.
