@@ -4872,7 +4872,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NC Wedding Guide](https://www.ncweddingguide.com) `https://www.ncweddingguide.com/mcp`
   [![NC Wedding Guide MCP connector](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide)
   🔓 - Search North Carolina wedding venues and vendors, estimate costs, build budgets, and prepare vendor inquiries.
-- [NomadPoint Travel Facts](https://nomadpoint.app/llms.txt) `https://gxhdcvoveufbkthhendf.supabase.co/functions/v1/mcp-public`
+- [NomadPoint Travel Facts](https://nomadpoint.app/llms.txt) `https://nomadpoint.app/mcp-public`
   [![NomadPoint Travel Facts MCP connector](https://glama.ai/mcp/connectors/app.nomadpoint/travel-facts/badges/score.svg)](https://glama.ai/mcp/connectors/app.nomadpoint/travel-facts)
   🔓 - Visa rules for any passport, Schengen 90/180 day counts, and itinerary links a traveller saves for free.
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
