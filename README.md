@@ -2247,6 +2247,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stocks On Chain](https://stocksonchain.io) `https://stocksonchain.io/mcp`
   [![Stocks On Chain MCP connector](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain/badges/score.svg)](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain)
   🔓 - Tokenized listed stocks by chain and issuer, with contract addresses and on-chain corporate actions.
+- [Stockwerk Company & Macro Data](https://x402-apis.pages.dev/llms.txt) `https://x402-apis.pages.dev/mcp`
+  [![Stockwerk Company & Macro Data MCP connector](https://glama.ai/mcp/connectors/io.github.vstockma/x402-apis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vstockma/x402-apis)
+  🔓 - Company register lookups (LEI + 13 national registers), FX, policy rates, yields, inflation; $0.002 per call via x402.
+- [Stockwerk Trading Calendar & Holidays](https://handelskalender-api.pages.dev/llms.txt) `https://handelskalender-api.pages.dev/mcp`
+  [![Stockwerk Trading Calendar & Holidays MCP connector](https://glama.ai/mcp/connectors/io.github.vstockma/handelskalender-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vstockma/handelskalender-api)
+  🔓 - Trading days, hours and live status for 28 stock exchanges, holidays for 247 countries; $0.002 per call via x402.
 - [Stoxly](https://www.stoxlyonline.com/mcp) `https://www.stoxlyonline.com/api/mcp`
   [![Stoxly MCP connector](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly)
   🔓 - Free stock and ETF fundamental analysis: 10-criteria score, verdict, and key metrics for any ticker.
