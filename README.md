@@ -3726,6 +3726,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [baseray](https://baseray.ai/docs/mcp) `https://api.baseray.ai/mcp`
   [![baseray MCP connector](https://glama.ai/mcp/connectors/ai.baseray/baseray/badges/score.svg)](https://glama.ai/mcp/connectors/ai.baseray/baseray)
   🔐 - Building data: address, use, size, height, age, roof, solar panels and registered businesses.
+- [bluerate](https://www.bluerate.ai/developers) `https://api.bluerate.ai/mcp`
+  [![bluerate MCP connector](https://glama.ai/mcp/connectors/ai.bluerate/loan-officers/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bluerate/loan-officers)
+  🔓 - Find licensed US mortgage loan officers by state, city, ZIP, loan type or language, with NMLS IDs.
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
