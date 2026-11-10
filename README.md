@@ -3850,6 +3850,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
 
+- [Pipefire](https://pipefire.ai/mcp-server) `https://pipefire.ai/mcp`
+  [![Pipefire MCP connector](https://glama.ai/mcp/connectors/ai.pipefire/pipefire/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pipefire/pipefire)
+  🔐 - Cold email for agencies: check SPF, DKIM and DMARC, and read campaigns, replies and draft answers.
 - [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
   [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
   🔐 - Find buyers, run LinkedIn, email and X outreach from your own accounts, and approve drafted replies.
