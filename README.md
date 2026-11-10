@@ -3840,6 +3840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
+- [Leadpoet](https://leadpoet.com/ai-assistants) `https://leadpoet.com/mcp`
+  [![Leadpoet MCP connector](https://glama.ai/mcp/connectors/com.leadpoet/leadpoet/badges/score.svg)](https://glama.ai/mcp/connectors/com.leadpoet/leadpoet)
+  🔐 - Find B2B leads and buying signals, run email and LinkedIn outreach, and manage the company, contact and deal pipeline.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
