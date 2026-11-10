@@ -4965,9 +4965,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AccountHub](https://accounthub.ai) `https://accounthub.ai/api/mcp`
   [![AccountHub MCP connector](https://glama.ai/mcp/connectors/ai.accounthub/account-hub/badges/score.svg)](https://glama.ai/mcp/connectors/ai.accounthub/account-hub)
   🔐 - Search and act across multiple Gmail, Google Calendar, Drive and Contacts accounts, Slack workspaces and Notion.
-- [AI Applyd](https://aiapplyd.com/mcps) `https://mcp.aiapplyd.com/mcp`
-  [![AI Applyd MCP connector](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd)
-  🔓 - Resume scoring and rewrites, cover letters and auto-apply on 12 ATS platforms; needs Google sign-in.
 - [AI Rollout Framework](https://airolloutframework.com) `https://airolloutframework.com/mcp`
   [![AI Rollout Framework MCP connector](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework/badges/score.svg)](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework)
   🔓 - 90-day AI adoption framework for managers: overview, pricing, FAQ and an AI readiness assessment.
@@ -5034,6 +5031,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoundRole](https://www.foundrole.com/ai-search-mcp) `https://www.foundrole.com/mcp`
   [![FoundRole MCP connector](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy)
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
+- [GetMattered](https://getmattered.com/mcps) `https://mcp.getmattered.com/mcp`
+  [![GetMattered MCP connector](https://glama.ai/mcp/connectors/com.getmattered/getmattered/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmattered/getmattered)
+  🔓 - Find matched jobs, tailor each resume and cover letter, and apply on the employer's own hiring system.
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
