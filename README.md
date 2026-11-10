@@ -4548,7 +4548,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read your YouTube analytics, audience and comments, and decide what to fix and what to make next.
 - [Kreatix](https://kreatix.cc/ai-agents/) `https://api.kreatix.cc/mcp`
   [![Kreatix MCP connector](https://glama.ai/mcp/connectors/cc.kreatix/kreatix/badges/score.svg)](https://glama.ai/mcp/connectors/cc.kreatix/kreatix)
-  🔑 - Schedule, move and cancel posts on Instagram, TikTok, YouTube, Facebook, X, LinkedIn and Pinterest pages, and read views and follower stats.
+  🔐 - Schedule, move and cancel posts on Instagram, TikTok, YouTube, Facebook, X, LinkedIn and Pinterest pages, and read views and follower stats.
 - [KreatorMesh](https://kreatormesh.com/claude) `https://api.kreatormesh.com/api/mcp`
   [![KreatorMesh MCP connector](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh/badges/score.svg)](https://glama.ai/mcp/connectors/com.kreatormesh/kreatormesh)
   🔐 - Schedule posts to 10 platforms and check drafts against hook rules learned from your own audience.
