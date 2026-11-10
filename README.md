@@ -4590,6 +4590,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
+- [replient.ai](https://replient.ai) `https://app.replient.ai/api/mcp`
+  [![replient.ai MCP connector](https://glama.ai/mcp/connectors/ai.replient.app/replientai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.replient.app/replientai)
+  🔐 - Answer and triage social media comments and DMs, build comment-to-DM automations and analyse team response times.
 - [Runsheet](https://runsheet.buildifyapp.in/mcp) `https://runsheet.buildifyapp.in/api/mcp`
   [![Runsheet MCP connector](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler/badges/score.svg)](https://glama.ai/mcp/connectors/in.buildifyapp.runsheet/youtube-scheduler)
   🔐 - Read a YouTube channel's schedule and stats, schedule, publish and retitle videos, and draft copy, all on approval.
