@@ -2795,6 +2795,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
+- [Bizmoon](https://bizmoon.ai/mcp) `https://bizmoon.ai/api/mcp`
+  [![Bizmoon MCP connector](https://glama.ai/mcp/connectors/ai.bizmoon/regulatory/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bizmoon/regulatory)
+  🔓 - New US federal and state regulations and grant programs for small businesses, every result cited.
 - [Cheap NY Publication](https://cheapnypublication.com/ai) `https://cheapnypublication.com/mcp`
   [![Cheap NY Publication MCP connector](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc)
   🔓 - New York LLC lookup from the state register: publication deadline, county and price, plus filing quotes.
