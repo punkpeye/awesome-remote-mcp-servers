@@ -989,6 +989,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Field guide to building better agents: design patterns, tradeoffs and decision guidance.
 - [AgentFuel402](https://agentfuel402.ak10082247.workers.dev) `https://agentfuel402.ak10082247.workers.dev/mcp`
+  [![AgentFuel402 MCP connector](https://glama.ai/mcp/connectors/io.github.ak10082247-max/agentfuel402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ak10082247-max/agentfuel402)
   🔓 - Consumable B2B intent leads, clean Markdown web extractor, Shopify price and stock tracker, and live SDK spec feeds for AI agents. Free previews; paid via x402 on Base & Solana.
 - [AgentIndex](https://agentindex.app) `https://agentindex.app/api/mcp/`
   [![AgentIndex MCP connector](https://glama.ai/mcp/connectors/app.agentindex/agentindex/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentindex/agentindex)
