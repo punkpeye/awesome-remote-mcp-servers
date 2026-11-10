@@ -434,6 +434,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jinero](https://jinero.online/dev/mcp) `https://jinero.online/mcp`
   [![Jinero MCP connector](https://glama.ai/mcp/connectors/online.jinero/jinero/badges/score.svg)](https://glama.ai/mcp/connectors/online.jinero/jinero)
   🔓 - Fonts, font recognition from images, palettes, color math and contrast, code and SVG tools for design work.
+- [Kite](https://kite.new) `https://kite.new/api/mcp`
+  [![Kite MCP connector](https://glama.ai/mcp/connectors/new.kite/kite/badges/score.svg)](https://glama.ai/mcp/connectors/new.kite/kite)
+  🔐 - Agent-first design tool with Figma-class editing; humans and agents on one canvas.
 - [Kodza](https://kodza.dev/docs/) `https://kodza.dev/api/mcp`
   [![Kodza MCP connector](https://glama.ai/mcp/connectors/dev.kodza/kodza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kodza/kodza)
   🔓 - Search free UI components in plain HTML, CSS and vanilla JS, and get their exact code, ready to paste.
