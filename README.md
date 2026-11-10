@@ -956,6 +956,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Teable](https://teable.ai) `https://mcp.teable.ai/mcp`
   [![Teable MCP connector](https://glama.ai/mcp/connectors/ai.teable.mcp/teable/badges/score.svg)](https://glama.ai/mcp/connectors/ai.teable.mcp/teable)
   🔐 - Inspect tables and read or update business records in Teable, an AI spreadsheet for business.
+- [toro4n](https://toro4n.com/docs/ai-assistants/) `https://toro4n.com/mcp`
+  [![toro4n MCP connector](https://glama.ai/mcp/connectors/com.toro4n/toro4n/badges/score.svg)](https://glama.ai/mcp/connectors/com.toro4n/toro4n)
+  🔐 - Draw, shape, and edit Neo4j graph data models in toro4n with your AI assistant.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
