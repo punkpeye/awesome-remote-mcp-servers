@@ -2810,6 +2810,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cookie Compliance](https://cookie-compliance.co/mcp/) `https://mcp.cookie-compliance.co/mcp`
   [![Cookie Compliance MCP connector](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent/badges/score.svg)](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent)
   🔓 - Preview, install and configure a cookie consent banner that holds trackers in the page until the visitor chooses.
+- [CookieYes](https://www.cookieyes.com/documentation/mcp-server/) `https://app.cookieyes.com/mcp`
+  [![CookieYes MCP connector](https://glama.ai/mcp/connectors/com.cookieyes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.cookieyes/mcp)
+  🔐 - Cookie consent management: check banner status, run cookie scans and review GDPR/CCPA compliance for your sites.
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
