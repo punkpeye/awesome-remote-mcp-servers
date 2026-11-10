@@ -4752,6 +4752,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
   [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
+- [yasashii.org](https://yasashii.org/data/) `https://mcp.yasashii.org/mcp`
+  [![yasashii.org MCP connector](https://glama.ai/mcp/connectors/io.github.dror-jp/yasashii-org-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dror-jp/yasashii-org-mcp)
+  🔓 - Easy Japanese (plain-language) versions of Japanese administrative and disaster-preparedness info, human-verified.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
@@ -4878,6 +4881,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
   [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
   🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
+- [official.tokyo.jp](https://official.tokyo.jp/data/) `https://mcp.official.tokyo.jp/mcp`
+  [![official.tokyo.jp MCP connector](https://glama.ai/mcp/connectors/io.github.dror-jp/official-tokyo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dror-jp/official-tokyo-mcp)
+  🔓 - Tokyo procedures for foreign residents: steps, deadlines, ward offices and human-verified official links.
 - [Portmans Motor Lodge](https://www.portmans.co.nz/) `https://portmans-mcp.portmanshastings.workers.dev/mcp`
   [![Portmans Motor Lodge MCP connector](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp)
   🔓 - Hotel availability, public BAR rates, and a direct booking link for Portmans Motor Lodge in Hastings, New Zealand.
