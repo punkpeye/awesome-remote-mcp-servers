@@ -2024,7 +2024,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Query DePIN supply telemetry and network data with source, observation time, and verification links.
 - [Kellian](https://kellian.app/for-agents) `https://mcp.kellian.app`
   [![Kellian MCP connector](https://glama.ai/mcp/connectors/app.kellian/kellian/badges/score.svg)](https://glama.ai/mcp/connectors/app.kellian/kellian)
-  🔓 - Who's buying each side of a Polymarket market, what moved in the last 24 hours and news; alerts with Kellian Plus.
+  🔓 - Free hourly alerts on Polymarket price moves, smart money and trades of $10,000 or more, and who's buying each side.
 - [Kema Invoice](https://invoice.kema-studio.com) `https://mcp.kema-studio.com/api/mcp`
   [![Kema Invoice MCP connector](https://glama.ai/mcp/connectors/com.kema-studio/invoice/badges/score.svg)](https://glama.ai/mcp/connectors/com.kema-studio/invoice)
   🔐 - Compliant French e-invoicing for freelancers: create, issue, certify and track invoices, quotes and deposits.
