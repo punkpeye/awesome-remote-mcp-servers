@@ -3611,6 +3611,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![send21 MCP connector](https://glama.ai/mcp/connectors/io.github.send21io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.send21io/mcp)
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
 - [Silicon Wage](https://siliconwage.com) `https://siliconwage.com/mcp`
+  [![Silicon Wage MCP connector](https://glama.ai/mcp/connectors/io.github.Data-Alchemy-Labs/siliconwage-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Data-Alchemy-Labs/siliconwage-mcp)
   🔓 - Funded data jobs for AI agents: list open jobs with pay, read a job's items and answer schemas, claim it, submit evidence, follow the USDC payout on Base.
 - [SpendPreflight](https://spendpreflight.com) `https://api.spendpreflight.com/mcp`
   [![SpendPreflight MCP connector](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight)
