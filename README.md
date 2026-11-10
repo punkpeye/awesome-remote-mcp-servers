@@ -454,6 +454,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moodmark](https://moodmark.design/agents) `https://app.moodmark.design/mcp`
   [![Moodmark MCP connector](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark)
   🔓 - Save websites with screenshots, palettes and fonts into a design reference library, then search and share it.
+- [Motion Menu](https://www.motionmenu.ca) `https://www.motionmenu.ca/api/mcp`
+  [![Motion Menu MCP connector](https://glama.ai/mcp/connectors/io.github.dev55acc-ai/motion-menu/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dev55acc-ai/motion-menu)
+  🔓 - 597 numbered, running motion patterns (WebGL, GLSL, springs) an agent drops into a page.
 - [Nano Studio Pro](https://nanostudiopro.com) `https://nanostudiopro.com/api/mcp`
   [![Nano Studio Pro MCP connector](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro/badges/score.svg)](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro)
   🔐 - Find any photo or video you own by what is inside it; generate, restyle, cut out, and build sprite sheets.
