@@ -2288,7 +2288,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
 - [Trade It](https://tradeit.app/mcp) `https://mcp.tradeit.app/mcp`
   [![Trade It MCP connector](https://glama.ai/mcp/connectors/app.tradeit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.tradeit/mcp)
-  🔐 - Trade stocks, options and crypto in any brokerage account, including Robinhood, Schwab and E*Trade.
+  🔐 - Trade stocks, options and crypto in any brokerage account, including Robinhood, Schwab, E*Trade and more.
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
