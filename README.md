@@ -4236,6 +4236,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sourcey](https://sourcey.com) `https://mcp.sourcey.com/mcp`
   [![Sourcey MCP connector](https://glama.ai/mcp/connectors/com.sourcey/sourcey/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcey/sourcey)
   🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
+- [Spider](https://spider.cloud/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=awesome-remote-mcp-servers-listing) `https://mcp.spider.cloud/mcp`
+  [![Spider MCP connector](https://glama.ai/mcp/connectors/cloud.spider/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.spider/mcp)
+  🔐 - Crawl, scrape and search the web as markdown or JSON, with remote browser tools. OAuth or a Spider API key.
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
