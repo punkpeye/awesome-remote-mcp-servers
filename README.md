@@ -5169,6 +5169,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
   🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
+- [BONUM Servicios de Ingeniería](https://bonum-ingenieria.com/) `https://mcp.bonum-ingenieria.com/mcp`
+  [![BONUM Servicios de Ingeniería MCP connector](https://glama.ai/mcp/connectors/com.bonum-ingenieria/bonum-supplier/badges/score.svg)](https://glama.ai/mcp/connectors/com.bonum-ingenieria/bonum-supplier)
+  🔓 - Industrial automation, capacitor banks, solar and AI agents supplier in Mexico: catalog, coverage, quote requests.
 - [CAFE Saju & BaZi](https://24plus.ai.kr/partner/docs) `https://mcp.24plus.ai.kr/mcp`
   [![CAFE Saju & BaZi MCP connector](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp)
   🔓 - Korean Saju and Chinese BaZi (Four Pillars) charts, Five Elements, chart structure and a solar-term calendar.
