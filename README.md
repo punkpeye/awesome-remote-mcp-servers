@@ -1932,6 +1932,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FinancialFilings](https://financialfilings.com/mcp/) `https://mcp.financialfilings.com/mcp`
   [![FinancialFilings MCP connector](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server)
   🔐 - Regulatory filings, XBRL financials and company data from securities regulators in about 60 markets.
+- [FinzData](https://finzdata.com/agents) `https://api.finzdata.com/mcp`
+  [![FinzData MCP connector](https://glama.ai/mcp/connectors/com.finzdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.finzdata/mcp)
+  🔓 🔐 - Point-in-time market data: 16,000+ US stocks incl. delisted, ETFs, ticks, 139 futures, options GEX, crypto, FX, 22,700+ macro vintages, COT, 13F and backtests.
 - [Firmoscop](https://firmoscop.ro/developers) `https://firmoscop.ro/mcp`
   [![Firmoscop MCP connector](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop)
   🔐 - Romanian companies from official registries: search, risk verdict by tax ID with cited sources, and prospect lists.
