@@ -1081,6 +1081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
+- [Domain Intelligence](https://apify.com/rsiddiq95/domain-intelligence) `https://mcp.apify.com/?tools=rsiddiq95/domain-intelligence`
+  [![Domain Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Rafi-siddiq/domain-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Rafi-siddiq/domain-intelligence)
+  🔐 - Bulk domain age, RDAP/WHOIS registrar and expiry, DNS, email provider, SPF/DMARC, Wayback history and SSL.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
@@ -2980,6 +2983,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
+- [Google Trends](https://apify.com/rsiddiq95/google-trends-scraper) `https://mcp.apify.com/?tools=rsiddiq95/google-trends-scraper`
+  [![Google Trends MCP connector](https://glama.ai/mcp/connectors/io.github.Rafi-siddiq/google-trends/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Rafi-siddiq/google-trends)
+  🔐 - Google Trends interest over time and by region, related queries and topics, and daily Trending Now searches.
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -4017,6 +4023,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
+- [Company Career Pages Jobs](https://apify.com/rsiddiq95/career-pages-jobs-scraper) `https://mcp.apify.com/?tools=rsiddiq95/career-pages-jobs-scraper`
+  [![Company Career Pages Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.Rafi-siddiq/career-pages-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Rafi-siddiq/career-pages-jobs)
+  🔐 - Open jobs and published salaries from Workday, Greenhouse, Lever, Ashby and three more careers-page systems.
 - [Conqueia](https://conqueia.com) `https://conqueia.com/mcp`
   [![Conqueia MCP connector](https://glama.ai/mcp/connectors/com.conqueia/conqueia/badges/score.svg)](https://glama.ai/mcp/connectors/com.conqueia/conqueia)
   🔓 - Spanish-language directory of 1,300+ real AI use cases, skills and tools for business; search, read entries, get picks.
