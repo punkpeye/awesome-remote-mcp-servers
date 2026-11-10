@@ -3157,6 +3157,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ranla](https://ranla.ai) `https://mcp.ranla.ai/mcp`
   [![Ranla MCP connector](https://glama.ai/mcp/connectors/ai.ranla/ranla/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ranla/ranla)
   🔐 - AI growth engineer for software businesses: ships SEO pages, gets you into AI answers, replies on Reddit, sends email.
+- [Reach by Locus](https://reach.locus-intelligence.com/google-business-profile-mcp) `https://reach.locus-intelligence.com/api/mcp`
+  [![Reach by Locus MCP connector](https://glama.ai/mcp/connectors/com.locus-intelligence/reach/badges/score.svg)](https://glama.ai/mcp/connectors/com.locus-intelligence/reach)
+  🔐 - Read Google Business Profile reviews and Maps ranks; preview and approve posts, review replies and profile edits.
+
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
