@@ -1757,6 +1757,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Altair](https://altairworld.com/mcp) `https://altairworld.com/mcp`
   [![Altair MCP connector](https://glama.ai/mcp/connectors/com.altairworld/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.altairworld/site)
   🔓 - Full TradingAgents equity research reports by ticker (buy/hold/sell, bull/bear debate), free and read-only.
+- [Amaltash Calculators](https://amaltash.com/mcp/calculators) `https://tools.amaltash.com/mcp`
+  [![Amaltash Calculators MCP connector](https://glama.ai/mcp/connectors/com.amaltash/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/com.amaltash/calculators)
+  🔓 - 13 free investment, retirement, compound interest, CD, S&P 500 and DCA calculators with interactive charts.
 - [Ankr Agent RPC](https://www.ankr.com/web3-api/agent-rpc/) `https://mcp.ankr.com/rpc`
   [![Ankr Agent RPC MCP connector](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp)
   🔓 - Read chain data on 200+ networks and Sui: logs, balances, NFTs, decoded calls. Ankr API key, or pay per call via x402.
