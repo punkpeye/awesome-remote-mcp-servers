@@ -2987,6 +2987,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
 - [PR-CY](https://pr-cy.ru/) `https://mcp-server.pr-cy.ru`
+  [![PR-CY MCP connector](https://glama.ai/mcp/connectors/ru.pr-cy.mcp-server/pr-cy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.pr-cy.mcp-server/pr-cy-mcp)
   🔑 - 69 tools for keyword research, SERP, rank tracking, site audits, search analytics and content workflows.
 
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
