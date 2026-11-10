@@ -4841,6 +4841,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jet Tracker](https://jettracker.com.br/desenvolvedores) `https://jettracker.com.br/api/mcp`
   [![Jet Tracker MCP connector](https://glama.ai/mcp/connectors/br.com.jettracker/jet-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.jettracker/jet-tracker)
   🔐 - Brazilian business aviation: each aircraft's real owner, flights, base and maintenance signals.
+- [Kamakura Trip Planner](https://kamakura.info/ai-assistants/) `https://kamakura.info/mcp`
+  [![Kamakura Trip Planner MCP connector](https://glama.ai/mcp/connectors/info.kamakura/kamakura-trip-planner/badges/score.svg)](https://glama.ai/mcp/connectors/info.kamakura/kamakura-trip-planner)
+  🔓 - Kamakura and Enoshima day plans, Freepass vs single tickets, Enoden fares, bloom dates, sight hours and walking times.
 - [Korea Nationwide Data](https://korea-data-mcp.picks-site.workers.dev/) `https://korea-data-mcp.picks-site.workers.dev/mcp`
   [![Korea Nationwide Data MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp)
   🔓 - Korean tourist attractions in Korean and English, bus stops across 138 cities, and 30-year weather normals.
