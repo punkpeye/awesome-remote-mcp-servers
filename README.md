@@ -398,6 +398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [AnimeAPI](https://animeapi.ai/docs/mcp) `https://animeapi.ai/mcp`
+  [![AnimeAPI MCP connector](https://glama.ai/mcp/connectors/ai.animeapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.animeapi/mcp)
+  🔐 - Generate anime images at $0.003 each, and short anime video clips, from a prepaid balance.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
