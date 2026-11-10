@@ -1366,6 +1366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [XF Model Source](https://xfms.xpansion.dev) `https://xfms.xpansion.dev/mcp`
   [![XF Model Source MCP connector](https://glama.ai/mcp/connectors/dev.xpansion/xfms/badges/score.svg)](https://glama.ai/mcp/connectors/dev.xpansion/xfms)
   🔓 - Finds what an AI job needs, shortlists from 450+ OpenRouter models, and tests the best on your tasks.
+- [XSDHub](https://xsdhub.com/ai) `https://xsdhub.com/mcp`
+  [![XSDHub MCP connector](https://glama.ai/mcp/connectors/com.xsdhub/validation/badges/score.svg)](https://glama.ai/mcp/connectors/com.xsdhub/validation)
+  🔓 - Validate XML against XSD and e-invoices against EN 16931, XRechnung, Factur-X and KSeF rules.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
