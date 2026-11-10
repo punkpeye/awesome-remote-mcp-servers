@@ -3612,7 +3612,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
 - [SingIt](https://singitai.app) `https://app.singitai.app/mcp`
   [![SingIt MCP connector](https://glama.ai/mcp/connectors/app.singitai/singit/badges/score.svg)](https://glama.ai/mcp/connectors/app.singitai/singit)
-  🔑 - Agents pay per call in USDC on Base or Solana within owner-set limits; price and model lookups are free.
+  🔓 - Agents pay per call in USDC on Base or Solana within owner-set limits; price and model lookups are free.
 - [SpendPreflight](https://spendpreflight.com) `https://api.spendpreflight.com/mcp`
   [![SpendPreflight MCP connector](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight)
   🔓 - Operated by SpendPreflight: sanctions screening and payment preflight, paid via x402 with a free trial.
