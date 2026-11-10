@@ -3029,6 +3029,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GingerLive](https://gingerlive.io) `https://mcp.gingerlive.io/mcp`
   [![GingerLive MCP connector](https://glama.ai/mcp/connectors/io.gingerlive/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.gingerlive/mcp)
   🔓 - Livestream ad formats, network reach stats, campaign case studies and streamer program.
+- [GoAnyAPI](https://goanyapi.com) `https://mcp.goanyapi.com/mcp`
+  [![GoAnyAPI MCP connector](https://glama.ai/mcp/connectors/com.goanyapi/goanyapi-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.goanyapi/goanyapi-mcp)
+  🔐 - Query website traffic, backlinks, keywords, Google and Bing SERPs, and autocomplete through one OAuth connection.
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
