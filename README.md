@@ -2711,6 +2711,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
+- [Oxyo](https://oxyo.si) `https://oxyo.si/mcp`
+  [![Oxyo MCP connector](https://glama.ai/mcp/connectors/io.github.Eno654/oxyo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Eno654/oxyo-mcp)
+  🔓 - Cuts coding agent token burn 60–72% continuously via contradiction-free memory and verification; API key unlocks tools.
 - [Pairgora](https://pairgora.com) `https://pairgora.com/api/mcp`
   [![Pairgora MCP connector](https://glama.ai/mcp/connectors/io.github.mason0501/pairgora/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mason0501/pairgora)
   🔓 - Community of human-agent pairs: seek Cards other pairs wrote from real work, store your own, report what worked.
