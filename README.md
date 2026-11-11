@@ -1450,6 +1450,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
+- [lastscanned](https://lastscanned.com) `https://mcp.lastscanned.com/mcp`
+  [![lastscanned MCP connector](https://glama.ai/mcp/connectors/com.lastscanned/lastscanned/badges/score.svg)](https://glama.ai/mcp/connectors/com.lastscanned/lastscanned)
+  🔓 - Track parcels and ocean containers across 549 carriers with webhooks, rates and a free tier.
 - [Make Parts Now](https://makepartsnow.com/developers) `https://makepartsnow.com/mcp`
   [![Make Parts Now MCP connector](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing/badges/score.svg)](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing)
   🔓 - Quote and order custom 3D printed and CNC machined parts from CAD files: SLS, FDM, aluminum and brass, US shipping.
