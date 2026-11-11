@@ -3777,6 +3777,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Irish Rent Check](https://rent-check-production.up.railway.app/) `https://rent-check-production.up.railway.app/mcp`
   [![Irish rent check MCP connector](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check)
   🔓 - Irish rents by county (CSO/RTB), free; paid town and property-price tools return x402/MPP terms.
+- [Keyio](https://gokeyio.com/features/ai-assistant) `https://gokeyio.com/api/mcp`
+  [![Keyio MCP connector](https://glama.ai/mcp/connectors/com.gokeyio/keyio/badges/score.svg)](https://glama.ai/mcp/connectors/com.gokeyio/keyio)
+  🔐 - Spanish rentals: file guest registrations with SES.HOSPEDAJES, issue VeriFactu invoices, track rent and expenses.
 - [Kolmo Construction](https://www.kolmo.io/developers) `https://www.kolmo.io/mcp`
   [![Kolmo Construction MCP connector](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction/badges/score.svg)](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction)
   🔓 - WA permit rules for 80+ cities, parcel zoning, contractor license checks and Seattle cost estimates.
