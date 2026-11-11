@@ -3188,7 +3188,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Searcherries MCP connector](https://glama.ai/mcp/connectors/com.searcherries/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherries/mcp)
   🔐 - Read-only AI visibility and SEO data: AI answers, competitors, citations, GSC, Bing, GA4.
 - [SEO Bank](https://seoquestionsbank.com/) `https://seoquestionsbank.com/mcp`
-  [![SEO Bank MCP connector](https://glama.ai/mcp/connectors/com.seoquestionsbank/seo-bank/badges/score.svg)](https://glama.ai/mcp/connectors/com.seoquestionsbank/seo-bank)
+  [![SEO Bank MCP connector](https://glama.ai/mcp/connectors/com.seoquestionsbank/seo-bank-bnk-alsyw/badges/score.svg)](https://glama.ai/mcp/connectors/com.seoquestionsbank/seo-bank-bnk-alsyw)
   🔓 - Search an Arabic SEO knowledge base of 85+ problems and read full step-by-step fixes with source URLs.
 - [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
   [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
