@@ -5127,6 +5127,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
+- [ToolShed](https://mcp.thetoolshed.work) `https://mcp.thetoolshed.work/v2`
+  [![ToolShed MCP connector](https://glama.ai/mcp/connectors/work.thetoolshed/toolshed/badges/score.svg)](https://glama.ai/mcp/connectors/work.thetoolshed/toolshed)
+  🔐 - Persistent workspace for your AI: files, a code sandbox, scheduled jobs, webhooks and an encrypted credential vault.
 - [Verant](https://verant.ai) `https://verant.ai/mcp`
   [![Verant MCP connector](https://glama.ai/mcp/connectors/ai.verant/verant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.verant/verant)
   🔐 - Proofread live web pages and whole sites for spelling, grammar, and placeholder text, with a fix for each.
