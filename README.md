@@ -2658,6 +2658,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hunchful](https://hunchful.io) `https://hunchful.io/mcp`
   [![Hunchful MCP connector](https://glama.ai/mcp/connectors/io.hunchful/hunchful/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunchful/hunchful)
   🔐 - Your AI's inbox and people search: message friends, find people by how they work, knock with consent.
+- [Incident Library](https://benchlet.com/incidentlib/) `https://incidentlib-mcp.benchlet.com/mcp`
+  [![Incident Library MCP connector](https://glama.ai/mcp/connectors/com.benchlet/incidentlib/badges/score.svg)](https://glama.ai/mcp/connectors/com.benchlet/incidentlib)
+  🔓 - Search public post-incident reports by symptom, read one as a structured case, list cases by root cause.
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
