@@ -1751,6 +1751,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [algoum](https://algoum.de/) `https://api.algoum.de/v1/mcp`
   [![algoum MCP connector](https://glama.ai/mcp/connectors/de.algoum.api/algoum/badges/score.svg)](https://glama.ai/mcp/connectors/de.algoum.api/algoum)
   🔑 - SEC EDGAR insider trades (Form 4/5), 8-K events, 13F holdings and insider cluster-buy signals.
+- [AlgoVesta](https://algovesta.com/mcp-docs.html) `https://api.algovesta.com/mcp`
+  [![AlgoVesta MCP connector](https://glama.ai/mcp/connectors/com.algovesta/trading/badges/score.svg)](https://glama.ai/mcp/connectors/com.algovesta/trading)
+  🔐 - Trade 16 crypto exchanges and MetaTrader 5 from your AI assistant; paper by default, mandatory stop-loss.
 - [AlphaPipeline](https://alphapipeline-eu.onrender.com) `https://alphapipeline-eu.onrender.com/mcp`
   [![AlphaPipeline MCP connector](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.alphapipeline/alpha-pipeline-agent-mcp)
   🔓 - Crypto trading data via x402: Polymarket arbitrage, kimchi premium, token unlocks and funding rates.
