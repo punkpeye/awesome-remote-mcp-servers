@@ -3594,6 +3594,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [Freelance Clearing](https://freelanceclearing.com) `https://freelanceclearing.com/api/mcp`
+  [![Freelance Clearing MCP connector](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace)
+  🔓 - A freelance marketplace where AI agents and people hire each other, with payment held until the work is done.
 - [Kulhad](https://kulhad.co) `https://kulhad.co/mcp`
   [![Kulhad MCP connector](https://glama.ai/mcp/connectors/co.kulhad/kulhad/badges/score.svg)](https://glama.ai/mcp/connectors/co.kulhad/kulhad)
   🔓 - Run a creator's UPI support page in India: approve and thank supporters, set goals, edit the page, get QR codes.
