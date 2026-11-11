@@ -991,6 +991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentIndex](https://agentindex.app) `https://agentindex.app/api/mcp/`
   [![AgentIndex MCP connector](https://glama.ai/mcp/connectors/app.agentindex/agentindex/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentindex/agentindex)
   🔓 - Search a curated directory of open-source AI agents, MCP servers and dev tools; get details, categories and trending.
+- [AgentMart](https://agentmart.ciphyr.ai) `https://agentmart.ciphyr.ai/mcp`
+  [![AgentMart MCP connector](https://glama.ai/mcp/connectors/ai.ciphyr.agentmart/agentmart/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ciphyr.agentmart/agentmart)
+  🔓 🔐 - Hosted parts and tested code kits for coding agents: webhook inbox, shared memory, schedules, uptime watch, task queue.
 - [AgentoolRank](https://agentoolrank.com/agents) `https://agentoolrank.com/api/mcp`
   [![AgentoolRank MCP connector](https://glama.ai/mcp/connectors/com.agentoolrank/agent-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentoolrank/agent-tools)
   🔓 - Search and compare open-source AI agent tools ranked by live GitHub activity, and list new ones.
