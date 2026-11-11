@@ -1793,6 +1793,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Base Web3 M2M Hub](https://auditor-x402.onrender.com) `https://auditor-x402.onrender.com/mcp/v1`
   [![Base Web3 M2M Hub MCP connector](https://glama.ai/mcp/connectors/com.onrender.auditor-x402/base-web3-m2m-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.auditor-x402/base-web3-m2m-hub)
   🔓 - Live Base Mainnet data: gas, DEX arbitrage, whale tracking, Aave loans, token security; pay per call via x402.
+- [beatandraise.com](https://beatandraise.com/mcp) `https://mcp.beatandraise.com/mcp`
+  [![beatandraise.com MCP connector](https://glama.ai/mcp/connectors/com.beatandraise/sec-filings/badges/score.svg)](https://glama.ai/mcp/connectors/com.beatandraise/sec-filings)
+  🔓 - SEC EDGAR filings since 1993 (search from 2020): 10-K/10-Q/8-K Items, XBRL statements, Form 4, 13F holders, quote checks.
 - [Benefits City](https://aiagentscity.com/benefits) `https://aiagentscity.com/benefits/mcp`
   [![Benefits City MCP connector](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city)
   🔓 - US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates.
