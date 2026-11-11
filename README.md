@@ -3862,6 +3862,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SalesBook by MaxedS](https://maxeds.org/tools/salesbook) `https://mcp.maxeds.org/mcp`
   [![SalesBook by MaxedS MCP connector](https://glama.ai/mcp/connectors/org.maxeds/salesbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.maxeds/salesbook)
   🔓 - Search, rank and profile enterprise tech companies from sourced public evidence, with a published methodology.
+- [SetLuca](https://setluca.com/developers) `https://mcp.setluca.com/mcp`
+  [![SetLuca MCP connector](https://glama.ai/mcp/connectors/io.github.setluca/luca-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.setluca/luca-mcp)
+  🔐 - Answer DMs on Telegram, Instagram and Messenger the way you write, qualify leads and book calls from SetLuca.
 - [Silicon Valley Atlas](https://svatlas.io) `https://svatlas.io/mcp`
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
