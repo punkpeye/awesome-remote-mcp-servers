@@ -4394,6 +4394,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jid](https://jid.com/agents) `https://jid.com/mcp`
   [![Jid MCP connector](https://glama.ai/mcp/connectors/com.jid/jid/badges/score.svg)](https://glama.ai/mcp/connectors/com.jid/jid)
   🔓 - Checks a business against US registries, sanctions and its domain before an agent pays or signs, with signed receipts.
+- [KarmaDue](https://karmadue.expo.app/docs/mcp) `https://ogogoizwsfaduzehkshb.supabase.co/functions/v1/mcp`
+  [![KarmaDue MCP connector](https://glama.ai/mcp/connectors/io.github.ashadow07/karmadue/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ashadow07/karmadue)
+  🔓 - Pre-install safety check: advisories, malicious-package reports and tested setup fixes before you install.
 - [Lattice](https://lattice.namiq.io) `https://lattice.namiq.io/mcp`
   [![Lattice MCP connector](https://glama.ai/mcp/connectors/io.namiq/lattice/badges/score.svg)](https://glama.ai/mcp/connectors/io.namiq/lattice)
   🔓 - CVE, KEV, ATT&CK, CWE and detection graph; links marked declared or inferred. 3 tools keyless, all 7 with a free key.
