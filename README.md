@@ -1128,6 +1128,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GreatWait](https://greatwait.dev/) `https://api.greatwait.dev/mcp`
   [![GreatWait MCP connector](https://glama.ai/mcp/connectors/dev.greatwait/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.greatwait/mcp)
   🔐 - Schedule one-off or recurring HTTPS callbacks, inspect delivery history, and cancel scheduled work.
+- [GridZen Verification](https://gridzen.ai/developers/) `https://gridzen.ai/developers/mcp`
+  [![GridZen Verification MCP connector](https://glama.ai/mcp/connectors/ai.gridzen/verification/badges/score.svg)](https://glama.ai/mcp/connectors/ai.gridzen/verification)
+  🔓 - Synthetic research sandbox for identity and account verification integrations. Five tools, no live identity checks.
 - [HALLUX](https://blvkware.dev/hallux/) `https://api.blvkware.dev/hallux/mcp`
   [![HALLUX MCP connector](https://glama.ai/mcp/connectors/dev.blvkware/hallux/badges/score.svg)](https://glama.ai/mcp/connectors/dev.blvkware/hallux)
   🔓 - Check that a package, module or DOI exists in its registry before an agent installs, imports or cites it.
