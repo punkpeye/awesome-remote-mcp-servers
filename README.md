@@ -3868,6 +3868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Hiring Signals](https://apify.com/kadi_bence) `https://mcp.apify.com/?tools=Kadi_Bence/workday-jobs-scraper,Kadi_Bence/ats-jobs-scraper,Kadi_Bence/ats-plus-jobs-scraper,Kadi_Bence/ats-jobs-feed,Kadi_Bence/company-intelligence`
+  [![Hiring Signals MCP connector](https://glama.ai/mcp/connectors/io.github.kiskecske24/hiring-signals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kiskecske24/hiring-signals)
+  🔐 - Open jobs and hiring counts of any company from Workday, Greenhouse, Lever, Ashby, Taleo and BambooHR.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
@@ -4301,6 +4304,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Local Business Leads](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-data-scraper,delicious_zebu/yellowpages-usa-business-lead-scraper,delicious_zebu/yellowpages-ca-business-data-scraper,delicious_zebu/yellowpages-australia-lead-generator,delicious_zebu/yelp-advanced-business-scraper-pay-per-result,delicious_zebu/contact-info-scraper,delicious_zebu/contact-info-scraper-pay-per-result`
   [![Zebu Data - Local Business Leads MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/local-business-leads)
   🔐 - Find local businesses on Google Maps, Yellow Pages and Yelp, then pull emails and phones from their websites.
+- [Job Market Data](https://apify.com/kadi_bence) `https://mcp.apify.com/?tools=Kadi_Bence/arbeitsagentur-jobs-scraper,Kadi_Bence/eures-jobs-scraper,Kadi_Bence/sweden-jobs-scraper,Kadi_Bence/remote-jobs-scraper,Kadi_Bence/ats-jobs-feed`
+  [![Job Market Data MCP connector](https://glama.ai/mcp/connectors/io.github.kiskecske24/job-market-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kiskecske24/job-market-data)
+  🔐 - Live job vacancies from Germany's Arbeitsagentur, EU EURES, Sweden's Platsbanken and remote job boards.
+- [Public Tenders](https://apify.com/kadi_bence) `https://mcp.apify.com/?tools=Kadi_Bence/ted-tenders-scraper,Kadi_Bence/sam-gov-scraper,Kadi_Bence/gov-tenders-scraper`
+  [![Public Tenders MCP connector](https://glama.ai/mcp/connectors/io.github.kiskecske24/public-tenders/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kiskecske24/public-tenders)
+  🔐 - Open public tenders and contract awards from EU TED, US SAM.gov, UK Find a Tender and AusTender.
+- [Company Research](https://apify.com/kadi_bence) `https://mcp.apify.com/?tools=Kadi_Bence/company-intelligence,Kadi_Bence/tech-stack-detector,Kadi_Bence/website-screenshot,Kadi_Bence/domain-whois-lookup,Kadi_Bence/seo-site-audit,Kadi_Bence/pagespeed-checker,Kadi_Bence/sitemap-extractor,Kadi_Bence/ai-readiness-audit`
+  [![Company Research MCP connector](https://glama.ai/mcp/connectors/io.github.kiskecske24/company-research/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kiskecske24/company-research)
+  🔐 - Company data by domain, tech stack, screenshots, WHOIS, SEO audit, PageSpeed and sitemaps for any website.
 
 ### 🔒 <a name="security"></a>Security
 
