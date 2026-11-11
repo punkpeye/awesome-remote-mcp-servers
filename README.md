@@ -3559,6 +3559,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vidova](https://vidova.ai) `https://mcp.vidova.ai/mcp`
   [![Vidova MCP connector](https://glama.ai/mcp/connectors/ai.vidova/vidova/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vidova/vidova)
   🔐 - Edit videos on a real timeline, generate clips, music and voice, track faces and render finished cuts.
+- [ViralMint](https://viralmint.net/mcp/#hosted) `https://api.viralmint.net/mcp`
+  [![ViralMint MCP connector](https://glama.ai/mcp/connectors/net.viralmint/viralmint-web/badges/score.svg)](https://glama.ai/mcp/connectors/net.viralmint/viralmint-web)
+  🔐 - Plan and make AI shorts, script-to-video, music videos, images, voiceovers and music; paid tools quote first.
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
