@@ -1453,6 +1453,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Make Parts Now](https://makepartsnow.com/developers) `https://makepartsnow.com/mcp`
   [![Make Parts Now MCP connector](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing/badges/score.svg)](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing)
   🔓 - Quote and order custom 3D printed and CNC machined parts from CAD files: SLS, FDM, aluminum and brass, US shipping.
+- [MatterCatalog](https://mattercatalog.com/developers#mcp) `https://mattercatalog.com/api/mcp?src=mcp-awesome`
+  [![MatterCatalog MCP connector](https://glama.ai/mcp/connectors/com.mattercatalog/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.mattercatalog/catalog)
+  🔓 - Check whether a smart home device is Matter certified, with its CSA certificate, networks, platforms and US stores.
 - [McClipFace](https://mcclipface.com) `https://mcclipface.com/mcp`
   [![McClipFace MCP connector](https://glama.ai/mcp/connectors/co.getclippy/clippy/badges/score.svg)](https://glama.ai/mcp/connectors/co.getclippy/clippy)
   🔓 - Free coupon code lookup for AI assistants. Finds live promo codes for 1,300+ online stores before checkout.
