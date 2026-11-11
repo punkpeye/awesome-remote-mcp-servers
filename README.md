@@ -76,6 +76,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🌾 - [Agriculture](#agriculture)
 * 🎨 - [Art & Design](#art--design)
+* 📚 - [Books & Reading](#books--reading)
 * 🌐 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 💬 - [Communication](#communication)
@@ -526,7 +527,31 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WikiBrand](https://wikibrand.org) `https://wikibrand.org/api/mcp`
   [![WikiBrand MCP connector](https://glama.ai/mcp/connectors/org.wikibrand/wikibrand/badges/score.svg)](https://glama.ai/mcp/connectors/org.wikibrand/wikibrand)
   🔓 - Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from its own website.
-  
+
+### 📚 <a name="books--reading"></a>Books & Reading
+
+- [Bible Swipe](https://scripturescroller.pages.dev/bible/) `https://goodturn-mcp.pages.dev/bible/mcp`
+  [![Bible Swipe MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/bible/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/bible)
+  🔓 - A Bible reading a day, line by line, and any verse, range or chapter of the World English Bible.
+- [Books Like This](https://bookslikethis.pages.dev) `https://goodturn-mcp.pages.dev/bookslikethis/mcp`
+  [![Books Like This MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/bookslikethis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/bookslikethis)
+  🔓 - Books like one you enjoyed, an author's books, and which books were made into films and TV.
+- [Gita Scroller](https://scripturescroller.pages.dev/gita/) `https://goodturn-mcp.pages.dev/gita/mcp`
+  [![Gita Scroller MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/gita/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/gita)
+  🔓 - The Bhagavad Gita a few verses a day in Sanskrit with English, any verse, and the whole Gita.
+- [Scroll the Gurbani](https://scripturescroller.pages.dev/gurbani/) `https://goodturn-mcp.pages.dev/gurbani/mcp`
+  [![Scroll the Gurbani MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/gurbani/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/gurbani)
+  🔓 - Gurbani a few lines a day in Gurmukhi with English, any Ang or shabad, and whole banis.
+- [Scroll the Lore](https://scripturescroller.pages.dev/lore/) `https://goodturn-mcp.pages.dev/lore/mcp`
+  [![Scroll the Lore MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/lore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/lore)
+  🔓 - A Greek or Norse myth a day, explained, and Homer, Hesiod and the Poetic Edda to read.
+- [Stoic Scroller](https://scripturescroller.pages.dev/stoics/) `https://goodturn-mcp.pages.dev/stoics/mcp`
+  [![Stoic Scroller MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/stoics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/stoics)
+  🔓 - Marcus Aurelius, Epictetus and Seneca a few lines a day, explained, and their whole books to read.
+- [Talmud Scroller](https://scripturescroller.pages.dev/talmud/) `https://goodturn-mcp.pages.dev/talmud/mcp`
+  [![Talmud Scroller MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/talmud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/talmud)
+  🔓 - Talmud a few lines a day, explained, with today's Daf Yomi, search and tractates in English.
+
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
 - [Allscreenshots](https://allscreenshots.com) `https://mcp.allscreenshots.com/mcp/v1`
@@ -1405,6 +1430,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cambridge China Bridge](https://camchinabridge.co.uk) `https://camchinabridge.co.uk/mcp`
   [![Cambridge China Bridge MCP connector](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing)
   🔓 - UK import duty, landed cost, anti-dumping and UK compliance checks for goods from China, plus CNY and freight planning.
+- [Cheapest Price](https://cheapestprice.pages.dev) `https://goodturn-mcp.pages.dev/cheapestprice/mcp`
+  [![Cheapest Price MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/cheapestprice/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/cheapestprice)
+  🔓 - The lowest current price for a product on eBay and Best Buy, in your own country and currency.
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
@@ -1494,6 +1522,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PoloPan Fashion MCP](https://polopan.com) `https://mcp-server.polopan.com/mcp`
   [![PoloPan Fashion MCP connector](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion/badges/score.svg)](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion)
   🔓 - Shop fashion: break an outfit photo into items, get in-stock looks for an occasion and check out.
+- [Price Drop Back](https://pricedropback.pages.dev) `https://goodturn-mcp.pages.dev/pricedropback/mcp`
+  [![Price Drop Back MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/pricedropback/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/pricedropback)
+  🔓 - Store price adjustment rules for 44 US and UK retailers, claim deadlines and a ready-to-send claim message.
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
@@ -1534,6 +1565,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VRAMGlass](https://vramglass.com/mcp) `https://mcp.vramglass.com/mcp`
   [![VRAMGlass MCP connector](https://glama.ai/mcp/connectors/com.vramglass/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vramglass/mcp)
   🔐 - GPU, AI workstation and DDR4/DDR5 asking prices on eBay, Xianyu and Amazon Japan, plus which local LLMs fit which GPU.
+- [Wardrobe Connect](https://wardrobeconnect.pages.dev) `https://goodturn-mcp.pages.dev/wardrobeconnect/mcp`
+  [![Wardrobe Connect MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/wardrobeconnect/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/wardrobeconnect)
+  🔓 - Clothes on eBay, new and pre-owned, that match a description or a picture, in your size and currency.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
@@ -1823,6 +1857,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CalcBright](https://calcbright.com/developers) `https://calcbright.com/mcp`
   [![CalcBright MCP connector](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright)
   🔓 - 100+ calculators: mortgage, take-home pay, sales tax/VAT, BMI, dates, units, live currency and gold prices.
+- [Cancel My Sub](https://cancelmysub.pages.dev) `https://goodturn-mcp.pages.dev/cancelmysub/mcp`
+  [![Cancel My Sub MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/cancelmysub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/cancelmysub)
+  🔓 - Official steps to cancel 80 US and UK subscriptions, the last safe day to cancel, and what a card charge is.
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
@@ -1932,6 +1969,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FinancialFilings](https://financialfilings.com/mcp/) `https://mcp.financialfilings.com/mcp`
   [![FinancialFilings MCP connector](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server)
   🔐 - Regulatory filings, XBRL financials and company data from securities regulators in about 60 markets.
+- [Find My Money](https://findmymoney.pages.dev) `https://goodturn-mcp.pages.dev/findmymoney/mcp`
+  [![Find My Money MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/findmymoney/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/findmymoney)
+  🔓 - Official free searches for unclaimed money in every US state and the UK, with a claim checklist.
 - [Firmoscop](https://firmoscop.ro/developers) `https://firmoscop.ro/mcp`
   [![Firmoscop MCP connector](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop)
   🔐 - Romanian companies from official registries: search, risk verdict by tax ID with cited sources, and prospect lists.
@@ -2057,6 +2097,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LoomDesk](https://loomdesk.trade) `https://loomdesk.trade/mcp`
   [![LoomDesk MCP connector](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk/badges/score.svg)](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk)
   🔓 - Plan Uniswap liquidity on Robinhood Chain as unsigned transactions, or trade play money in an agent arena, free key.
+- [Lower My Bill](https://lowermybill.pages.dev) `https://goodturn-mcp.pages.dev/lowermybill/mcp`
+  [![Lower My Bill MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/lowermybill/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/lowermybill)
+  🔓 - Call scripts to lower internet, phone, TV, insurance and energy bills, plus low-cost plans and when to call.
 - [LPSignal](https://lpsignal.app) `https://api.lpsignal.app/v1/mcp`
   [![LPSignal MCP connector](https://glama.ai/mcp/connectors/app.lpsignal/lpsignal/badges/score.svg)](https://glama.ai/mcp/connectors/app.lpsignal/lpsignal)
   🔐 - DEX liquidity pools ranked by net APR (fees − impermanent loss), range backtests, LP signals and risk alerts.
@@ -2082,6 +2125,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiningBridge Intelligence](https://intel.miningbridge.in/connect) `https://intel.miningbridge.in/api/mcp`
   [![MiningBridge Intelligence MCP connector](https://glama.ai/mcp/connectors/in.miningbridge/intel/badges/score.svg)](https://glama.ai/mcp/connectors/in.miningbridge/intel)
   🔐 - Critical minerals and rare earths: supply risk, trade flows, export controls, counterparties and patent R&D.
+- [Mizan](https://askmizan.com) `https://goodturn-mcp.pages.dev/mizan/mcp`
+  [![Mizan MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/mizan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/mizan)
+  🔓 - Shariah screening of 424 US stocks under AAOIFI, Dow Jones, S&P and MSCI, with halal alternatives and zakat.
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
@@ -2404,12 +2450,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gaplessly](https://gaplessly.com/docs/mcp) `https://gaplessly.com/api/mcp`
   [![Gaplessly MCP connector](https://glama.ai/mcp/connectors/com.gaplessly/booking/badges/score.svg)](https://glama.ai/mcp/connectors/com.gaplessly/booking)
   🔓 - Live appointment and table times at salons, clinics and restaurants on Gaplessly, with a link to book.
+- [Halal or Not](https://halalornot.pages.dev) `https://goodturn-mcp.pages.dev/halalornot/mcp`
+  [![Halal or Not MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/halalornot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/halalornot)
+  🔓 - Is it halal? Ingredients, E-numbers, products, medicines, stocks and crypto, with each school's verdict.
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
+- [Plate Pal](https://platepal.pages.dev) `https://goodturn-mcp.pages.dev/platepal/mcp`
+  [![Plate Pal MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/platepal/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/platepal)
+  🔓 - Calories and nutrition for foods, chain meals and barcodes, and meal ideas for a goal and diet.
 - [Pour Picks](https://pourpicks.app/mcp) `https://mcp.pourpicks.app`
   [![Pour Picks MCP connector](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bguillow-rgb/pour-picks)
   🔓 - Bourbon and American whiskey catalog: search, compare, and find similar or cheaper bottles.
@@ -2518,6 +2570,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [Appeal My Claim](https://appealmyclaim.pages.dev) `https://goodturn-mcp.pages.dev/appealmyclaim/mcp`
+  [![Appeal My Claim MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/appealmyclaim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/appealmyclaim)
+  🔓 - US health insurance denials: denial codes in plain words, appeal rights and deadlines, and appeal letters.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
@@ -2536,6 +2591,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leki PL (leki-mcp)](https://leki.compabase.com) `https://leki.compabase.com/mcp`
   [![Leki PL (leki-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp)
   🔓 - Polish medicines: official refunded drug prices, patient co-payment, cheaper equivalents and leaflets.
+- [Med Bill Check](https://medbillcheck.pages.dev) `https://goodturn-mcp.pages.dev/medbillcheck/mcp`
+  [![Med Bill Check MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/medbillcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/medbillcheck)
+  🔓 - Checks a US medical bill against Medicare rates by code or plain words, and drafts dispute letters.
 - [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
   [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
   🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
@@ -2551,12 +2609,21 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phi Longevity PRISM](https://philongevity.com/for-agents) `https://philongevity.com/mcp?src=awesome`
   [![Phi Longevity PRISM MCP connector](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism)
   🔓 - Guideline-cited lab-results analysis for chronic conditions; flags missing or overdue tests with citations.
+- [Plan My Workout](https://planmyworkout.pages.dev) `https://goodturn-mcp.pages.dev/planmyworkout/mcp`
+  [![Plan My Workout MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/planmyworkout/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/planmyworkout)
+  🔓 - Weekly workout and running plans for your goal, days and equipment, and how to do any exercise.
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
+- [Supplement Check](https://supplementcheck.pages.dev) `https://goodturn-mcp.pages.dev/supplementcheck/mcp`
+  [![Supplement Check MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/supplementcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/supplementcheck)
+  🔓 - What a vitamin or supplement does, how much you need, the upper limit and a whole-stack check.
+- [Sync My Cycle](https://syncmycycle.pages.dev) `https://goodturn-mcp.pages.dev/syncmycycle/mcp`
+  [![Sync My Cycle MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/syncmycycle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/syncmycycle)
+  🔓 - Your likely menstrual cycle phase today and this week, with food and workout ideas. Nothing stored.
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
@@ -4678,6 +4745,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
   🔓 - Results, fixtures, tables, goal timing and season projections for 93 football leagues, lower divisions included.
+- [Form Guide](https://formguide.pages.dev) `https://goodturn-mcp.pages.dev/formguide/mcp`
+  [![Form Guide MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/formguide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/formguide)
+  🔓 - Football form, fixtures, results and tables for the Premier League and five other top European leagues.
 - [PadelTrue](https://padeltrue.com/agents) `https://padeltrue.com/mcp`
   [![PadelTrue MCP connector](https://glama.ai/mcp/connectors/io.github.odedkovach/padeltrue/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odedkovach/padeltrue)
   🔓 - Search and compare padel rackets by published specs, each spec linked to its source.
@@ -4754,6 +4824,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Fare Deals](https://faredeals.pages.dev) `https://goodturn-mcp.pages.dev/faredeals/mcp`
+  [![Fare Deals MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/faredeals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/faredeals)
+  🔓 - Cheap flights from any city, to one place or anywhere, with the cheapest days to fly.
+- [Spin My Day](https://spinmyday.pages.dev) `https://goodturn-mcp.pages.dev/spinmyday/mcp`
+  [![Spin My Day MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/spinmyday/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/spinmyday)
+  🔓 - A whole day out in any city, matched to the weather, what is open, your mood and diet.
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
@@ -5040,6 +5116,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
+- [Job Spotter](https://jobspotter.pages.dev) `https://goodturn-mcp.pages.dev/jobspotter/mcp`
+  [![Job Spotter MCP connector](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/jobspotter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GoodTurnStudio/jobspotter)
+  🔓 - Current US and UK job listings from ten boards by role, place and level, title matches first.
 - [JustBacked](https://justbacked.com/developers) `https://justbacked.com/api/mcp`
   [![JustBacked MCP connector](https://glama.ai/mcp/connectors/com.justbacked/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.justbacked/jobs)
   🔓 - Search open roles at startups that raised venture funding in the last 6 months, with round and investors.
