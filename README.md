@@ -215,9 +215,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenAny](https://openany.si) `https://mcp.openany.si`
   [![OpenAny MCP connector](https://glama.ai/mcp/connectors/si.openany/openany/badges/score.svg)](https://glama.ai/mcp/connectors/si.openany/openany)
   🔑 - Search 3,200+ APIs and 100+ models, inspect schemas and pricing, and run calls with one key.
-
-
-
 - [PayAPI Market](https://payapi.market) `https://payapi.market/mcp`
   [![PayAPI Market MCP connector](https://glama.ai/mcp/connectors/market.payapi/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/market.payapi/marketplace)
   🔓 - Search 358 live x402 APIs from 242 providers, then pay each call in USDC on Base with no API key or account.
