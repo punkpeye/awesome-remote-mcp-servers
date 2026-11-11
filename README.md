@@ -2300,6 +2300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Based Loans](https://based.loans) `https://mcp.based.loans/mcp`
   [![Based Loans MCP connector](https://glama.ai/mcp/connectors/io.github.0xVarius/basedloans/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xVarius/basedloans)
   🔓 - Borrow USDC against Base tokens with no liquidations, or lend USDC: quotes, token risk and unsigned txs.
+- [beatandraise.com](https://beatandraise.com/mcp) `https://mcp.beatandraise.com/mcp`
+  [![beatandraise.com MCP connector](https://glama.ai/mcp/connectors/com.beatandraise/sec-filings/badges/score.svg)](https://glama.ai/mcp/connectors/com.beatandraise/sec-filings)
+  🔓 - SEC EDGAR filings since 1993 (search from 2020): 10-K/10-Q/8-K Items, XBRL statements, Form 4, 13F holders, quote checks.
 - [Before the Lot](https://beforethelot.com/connect) `https://beforethelot.com/mcp`
   [![Before the Lot MCP connector](https://glama.ai/mcp/connectors/com.beforethelot/before-the-lot/badges/score.svg)](https://glama.ai/mcp/connectors/com.beforethelot/before-the-lot)
   🔓 - Car-buying math and state rules: out-the-door prices, dealer quote checks, leases, trade-ins and local tax in 50 states.
