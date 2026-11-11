@@ -934,6 +934,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
 - [Convex](https://convex.dev) `https://mcp.convex.dev/mcp`
   🔓 - Query and manage Convex deployments, tables, and functions.
+- [JillionDB](https://jilliondb.com) `https://jilliondb.com/mcp`
+  [![JillionDB MCP connector](https://glama.ai/mcp/connectors/com.jilliondb/jilliondb/badges/score.svg)](https://glama.ai/mcp/connectors/com.jilliondb/jilliondb)
+  🔑 - Propose schema changes for a person to review on a diagram, with plain-language risk, then get the approved migration.
 - [LakehouseBox](https://lakehousebox.com/docs/mcp/) `https://mcp.lakehousebox.com/mcp`
   [![LakehouseBox MCP connector](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox/badges/score.svg)](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox)
   🔐 - Query and write Apache Iceberg tables hosted in Europe, and open public datasets, with DuckDB SQL.
