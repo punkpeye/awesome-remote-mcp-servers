@@ -2334,6 +2334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Web3Juice](https://web3juice.com/mcp) `https://web3juice.com/api/mcp`
   [![Web3Juice MCP connector](https://glama.ai/mcp/connectors/com.web3juice/web3juice/badges/score.svg)](https://glama.ai/mcp/connectors/com.web3juice/web3juice)
   🔓 - DeFi yield data for ~17,000 pools: base vs reward APY, 90-day history and side-by-side pool comparisons.
+- [WenLong](https://app.wenlong.io/developers) `https://app.wenlong.io/api/mcp`
+  [![WenLong MCP connector](https://glama.ai/mcp/connectors/io.wenlong/hyperliquid/badges/score.svg)](https://glama.ai/mcp/connectors/io.wenlong/hyperliquid)
+  🔓 - Trade Hyperliquid perps, stocks, gold, oil and pre-IPO from an AI agent; free API key, can't withdraw funds.
 - [WhereItGoes](https://whereitgoes.money/connect-ai) `https://api.whereitgoes.money/api/mcp`
   [![WhereItGoes MCP connector](https://glama.ai/mcp/connectors/money.whereitgoes/portfolio/badges/score.svg)](https://glama.ai/mcp/connectors/money.whereitgoes/portfolio)
   🔐 - Your own crypto portfolio across exchanges and wallets: holdings, history, FIFO P&L, fees and income. Read-only.
