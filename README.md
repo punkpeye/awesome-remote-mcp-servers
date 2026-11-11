@@ -4222,6 +4222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SerpKite](https://serpkite.com/docs/mcp) `https://api.serpkite.com/v1/mcp`
   [![SerpKite MCP connector](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite)
   🔐 - Google web, news, maps, scholar and shopping results, plus public webpages as Markdown, for AI agents. OAuth or API key.
+- [Signal Lab](https://signal-lab.qdt.ai) `https://signal-lab.qdt.ai/api/mcp`
+  [![Signal Lab MCP connector](https://glama.ai/mcp/connectors/io.github.QDThead/signal-lab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.QDThead/signal-lab)
+  🔓 - Search, compare and export 500+ free data sources (markets, macro, weather, OSINT) with limits and licenses.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   🔐 - Scrape websites and run saved extraction recipes.
 - [Singapore Proxy](https://singaporemobileproxy.com/client/mcp) `https://mcp.singaporemobileproxy.com/mcp`
