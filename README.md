@@ -3991,6 +3991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [B2B MCP Apify Scrapers Hub](https://github.com/deepakshe/b2b-mcp-apify-scrapers-hub) `https://mcp.apify.com/?tools=deepaksheoran172/b2b-lead-domain-intelligence-suite,deepaksheoran172/domain-security-super-auditor,deepaksheoran172/store-catalog-redirect-extractor`
+  [![B2B MCP Apify Scrapers Hub MCP connector](https://glama.ai/mcp/servers/deepakshe/b2b-mcp-apify-scrapers-hub/badges/score.svg)](https://glama.ai/mcp/servers/deepakshe/b2b-mcp-apify-scrapers-hub)
+  🔐 - 63 production B2B scrapers and domain intelligence tools on Apify: DNS security, store catalog extraction, ATS jobs, and email verification without proxies.
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
