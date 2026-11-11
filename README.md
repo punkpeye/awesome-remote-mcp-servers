@@ -2366,6 +2366,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Wealthnow MCP connector](https://glama.ai/mcp/connectors/io.wealthnow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.wealthnow/mcp)
   🔐 - Real-time stock and crypto quotes, fundamentals, SEC filings, insider, 13F and congress trades.
 
+- [Wudao A-Share Stock Data](https://data.quicktiny.cn/) `https://stock.quicktiny.cn/api/mcp`
+  [![Wudao A-Share Stock Data MCP connector](https://glama.ai/mcp/connectors/io.github.jcdreamjc/wudao-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jcdreamjc/wudao-mcp)
+  🔑 - China A-share market data: limit-up ladders, themes, auctions, K-lines, capital flows, filings and your watchlist.
+
 - [X1 Wealth](https://x1wealth.com) `https://mcp.x1wealth.com/mcp`
   [![X1 Wealth MCP connector](https://glama.ai/mcp/connectors/com.x1wealth/x1/badges/score.svg)](https://glama.ai/mcp/connectors/com.x1wealth/x1)
   🔐 - Ask about your trusts, entities, policies and documents. Every answer cites a page or declines.
