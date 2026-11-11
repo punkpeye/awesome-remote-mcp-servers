@@ -2928,6 +2928,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [Airbridge](https://www.airbridge.io/en/product/airbridge-ai?utm_source=github&utm_medium=awesome_list&utm_campaign=get_found_w46&utm_content=punkpeye_awesome_remote_mcp_servers) `https://mcp.airbridge.io/mcp`
+  [![Airbridge MCP connector](https://glama.ai/mcp/connectors/io.airbridge.mcp/airbridge/badges/score.svg)](https://glama.ai/mcp/connectors/io.airbridge.mcp/airbridge)
+  🔐 - Mobile attribution for subscription apps: query installs, revenue and retention, and set up SDKs and deep links.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
