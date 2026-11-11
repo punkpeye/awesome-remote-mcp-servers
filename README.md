@@ -3852,7 +3852,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Pipefire](https://pipefire.ai/mcp-server) `https://pipefire.ai/mcp`
   [![Pipefire MCP connector](https://glama.ai/mcp/connectors/ai.pipefire/pipefire/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pipefire/pipefire)
-  🔐 - Cold email for agencies: check SPF, DKIM and DMARC, and read campaigns, replies and draft answers.
+  🔓 🔐 - Cold email for agencies: check SPF, DKIM and DMARC with no sign-in, or sign in to read campaigns, replies and draft answers.
+
 - [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
   [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
   🔐 - Find buyers, run LinkedIn, email and X outreach from your own accounts, and approve drafted replies.
