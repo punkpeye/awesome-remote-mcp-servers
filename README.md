@@ -3940,6 +3940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [Thermoprops](https://luisbedoia.github.io/thermoprops/) `https://thermoprops-api.luisbedoia.workers.dev/mcp`
+  [![Thermoprops MCP connector](https://glama.ai/mcp/connectors/io.github.luisbedoia/thermoprops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luisbedoia/thermoprops)
+  🔓 - Thermodynamic properties of 30 fluids and refrigerants, and cycles (Rankine, refrigeration), computed with CoolProp.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
