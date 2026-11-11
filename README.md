@@ -3904,6 +3904,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lenz Fact-Check](https://lenz.io/integrations/mcp-server) `https://lenz.io/mcp`
   [![Lenz Fact-Check MCP connector](https://glama.ai/mcp/connectors/io.lenz/fact-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.lenz/fact-check)
   🔐 - Checks the factual claims in a text against independent sources: a quick verdict, or a deep check with sources.
+- [Machine Relations Index](https://machinerelations.ai/machine-relations-index) `https://machinerelations.ai/mcp`
+  [![Machine Relations Index MCP connector](https://glama.ai/mcp/connectors/ai.machinerelations/mri/badges/score.svg)](https://glama.ai/mcp/connectors/ai.machinerelations/mri)
+  🔓 - Machine Relations Index (MRI) by Jaxon Parrott: the sources AI engines cite, by buyer category.
 - [MedicineData MCP](https://medicine.shanchuangkj.com/en/mcp) `https://medicine.shanchuangkj.com/mcp/`
   [![MedicineData MCP connector](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data)
   🔓 - Chinese pharma data: 22 tools (21 query + 1 free) for drugs, targets, trials, deals and patents; queries need a key.
