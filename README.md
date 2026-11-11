@@ -1462,6 +1462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Meu Ecommerce](https://dev.meuecommerce.com.br/docs/mcp) `https://app.meuecommerce.com.br/mcp`
   [![Meu Ecommerce MCP connector](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.meuecommerce/meuecommerce-mcp)
   🔐 - Brazil's Correios for merchants: shipping quotes (frete), parcel tracking (rastreio) and labels (etiqueta).
+- [MyImage2Life](https://myimage2life.com) `https://myimage2life.com/mcp`
+  [![MyImage2Life MCP connector](https://glama.ai/mcp/connectors/com.myimage2life/print/badges/score.svg)](https://glama.ai/mcp/connectors/com.myimage2life/print)
+  🔓 - Turn a photo or idea into a printed poster, canvas, mug or shirt: design, proof, delivered price and checkout.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
