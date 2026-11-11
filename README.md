@@ -1139,7 +1139,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
 - [HopBase](https://hop-base.com/en/docs/getting-started/ai-agent) `https://api.hop-base.com/mcp`
   [![HopBase MCP connector](https://glama.ai/mcp/connectors/com.hop-base/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hop-base/mcp)
-  🔑 - Read-only tools for a HopBase AI gateway key: callable models and limits, docs search, balance and usage.
+  🔓 - Read-only tools for a HopBase AI gateway key: models, limits, docs search, balance and usage; calls need a key.
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
