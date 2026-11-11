@@ -2994,7 +2994,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [KissMyPost](https://kissmypost.com/mcp) `https://kissmypost.com/api/mcp`
   [![KissMyPost MCP connector](https://glama.ai/mcp/connectors/com.kissmypost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kissmypost/mcp)
-  🔐 - Reddit audience research: find subreddits by topic, audience stats, best posting time, posting rules and brand mentions.
+  🔓 - Reddit audience research: find subreddits by topic, audience stats, best posting time, posting rules and brand mentions.
 
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
