@@ -3429,6 +3429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
+- [HoneyVid](https://honeyvid.ai/mcp) `https://honeyvid.ai/mcp`
+  [![HoneyVid MCP connector](https://glama.ai/mcp/connectors/ai.honeyvid/honeyvid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.honeyvid/honeyvid)
+  🔐 - Put a person, pet or character from one photo into a viral AI video, or generate with Kling, Veo and Seedance.
 - [Incarn](https://www.incarn.co/developers) `https://api.incarn.co/mcp`
   [![Incarn MCP connector](https://glama.ai/mcp/connectors/co.incarn/photo-animation/badges/score.svg)](https://glama.ai/mcp/connectors/co.incarn/photo-animation)
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
