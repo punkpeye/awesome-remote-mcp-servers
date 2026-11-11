@@ -203,6 +203,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [minia2a](https://minia2a.uk) `https://minia2a.uk/mcp`
   [![minia2a MCP connector](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/uk.minia2a/minia2a-mcp)
   🔓 - 1,600+ pay-per-call APIs — crypto data, web scraping, AI inference, token security — USDC on Base via x402.
+- [Moonbeam paid calls](https://next.moonbeam.network/acp/plans) `https://next.moonbeam.network/api/acp/x402/mcp`
+  [![Moonbeam paid calls MCP connector](https://glama.ai/mcp/connectors/network.moonbeam.next/paid-calls/badges/score.svg)](https://glama.ai/mcp/connectors/network.moonbeam.next/paid-calls)
+  🔓 - On-chain data, market prices, address risk and text digests; paid per call in USDC via x402, checked before charge.
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
