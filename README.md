@@ -3520,6 +3520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [snapWONDERS Vaultify](https://snapwonders.com/developers) `https://snapwonders.com/mcp`
   [![snapWONDERS Vaultify MCP connector](https://glama.ai/mcp/connectors/com.snapwonders/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.snapwonders/mcp)
   🔓 - Forensic photo and video analysis, hidden-file steganography and media format conversion.
+- [Solara AI](https://solaraai.com/agents) `https://api.solaraai.com/mcp`
+  [![Solara AI MCP connector](https://glama.ai/mcp/connectors/com.solaraai/solaraai/badges/score.svg)](https://glama.ai/mcp/connectors/com.solaraai/solaraai)
+  🔐 - Edit talking-head recordings into captioned short videos, change them on request, export and post after you approve.
 - [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
   [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
