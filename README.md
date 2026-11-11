@@ -1220,6 +1220,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Runs accessibility, contrast and design-token audits on any URL and files QA issues in OverlayQA.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
+- [Pasportoo Website Audit](https://pasportoo.com/services) `https://mcp.pasportoo.com/tools/mcp`
+  [![Pasportoo Website Audit MCP connector](https://glama.ai/mcp/connectors/io.github.galeaxe5/pasportoo-website-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.galeaxe5/pasportoo-website-audit)
+  🔓 - Order a human-reviewed audit of a public website: bugs, passive security checks, speed and UX, each with a fix.
 - [PDFOven](https://pdfoven.com) `https://pdfoven.com/mcp`
   [![PDFOven MCP connector](https://glama.ai/mcp/connectors/com.pdfoven/pdfoven/badges/score.svg)](https://glama.ai/mcp/connectors/com.pdfoven/pdfoven)
   🔓 - Render PDFs and PNG images from HTML, Markdown, URLs or Handlebars templates; tools need a free key (100 renders/mo).
