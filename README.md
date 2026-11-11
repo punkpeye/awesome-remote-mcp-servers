@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [AlertForge](https://alertforge.ai/ai-agents) `https://alertforge.ai/api/mcp`
+  [![AlertForge MCP connector](https://glama.ai/mcp/connectors/io.github.lasan713/alertforge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lasan713/alertforge)
+  🔐 - Plan, create and export stream assets through a hosted MCP server. Paid account tools use OAuth.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
