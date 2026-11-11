@@ -2940,6 +2940,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [BacklinkMastery](https://backlink-mastery.com/en/mcp) `https://backlink-mastery.com/mcp`
+  [![BacklinkMastery MCP connector](https://glama.ai/mcp/connectors/com.backlink-mastery/backlinkmastery/badges/score.svg)](https://glama.ai/mcp/connectors/com.backlink-mastery/backlinkmastery)
+  🔐 - Backlink monitoring: find lost links, add and re-check backlinks, review discovered ones, create client report links.
+
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
