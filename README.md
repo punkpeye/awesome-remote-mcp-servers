@@ -621,6 +621,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish a live website from an agent in one tool call, expiring or permanent, with human review hooks.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Komuta](https://www.komuta.io/docs/mcp/mcp-setup) `https://mcp.komuta.io/mcp`
+  [![Komuta MCP connector](https://glama.ai/mcp/connectors/io.komuta/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.komuta/mcp)
+  🔐 - Deploy Git repos, create Postgres, query logs and traces, roll back releases and check costs on a managed PaaS.
 - [Lium](https://docs.lium.io/developers/mcp) `https://docs.lium.io/mcp`
   [![Lium MCP connector](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs)
   🔓 - Search and read the docs of Lium, a GPU rental marketplace: rent GPU pods by the second via CLI, SDK or REST API.
