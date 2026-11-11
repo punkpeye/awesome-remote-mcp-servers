@@ -2505,7 +2505,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
 - [thott.bot](https://thott.bot) `https://mcp.thott.bot/mcp`
   [![thott.bot MCP connector](https://glama.ai/mcp/connectors/bot.thott/thott-bot/badges/score.svg)](https://glama.ai/mcp/connectors/bot.thott/thott-bot)
-  🔐 - World of Warcraft: Forever for ChatGPT, Claude and any AI: items, quests, talents, maps and guides.
+  🔐 - Everything about World of Warcraft: Forever in your AI, from every change to live auction prices.
 - [TickerMint](https://tickermint.cards/developers) `https://api.tickermint.cards/mcp`
   [![TickerMint MCP connector](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint)
   🔓 - Daily trading card prices and history for Pokémon, One Piece, Lorcana, Yu-Gi-Oh, Riftbound and Gundam.
