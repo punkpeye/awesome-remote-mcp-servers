@@ -1874,6 +1874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cryptominium](https://cryptominium.com) `https://cryptominium.com/mcp`
   [![Cryptominium MCP connector](https://glama.ai/mcp/connectors/com.cryptominium/cryptominium/badges/score.svg)](https://glama.ai/mcp/connectors/com.cryptominium/cryptominium)
   🔓 - Measured crypto exit costs, a monthly liquidity index, and address and transaction lookups. Read-only.
+- [CurrencyCore](https://currency-core.com) `https://mcp.currency-core.com/mcp`
+  [![CurrencyCore MCP connector](https://glama.ai/mcp/connectors/io.github.CurrencyCore/currency-core-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CurrencyCore/currency-core-mcp)
+  🔐 - Live FX rates, any-pair conversion, IMF PPP factors, and historical currency analytics.
 - [CurveCall](https://curvecall.onrender.com) `https://curvecall.onrender.com/mcp/`
   [![CurveCall MCP connector](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall)
   🔓 - Trade quotes and slippage, token snapshots and rug-risk scans; $0.001-$0.01 per call via x402.
