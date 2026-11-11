@@ -3481,6 +3481,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
+- [Plugin Soko-kun](https://soko-kun.allegromoltov.jp/about?lang=en) `https://soko-kun.allegromoltov.jp/mcp`
+  [![Plugin Soko-kun MCP connector](https://glama.ai/mcp/connectors/jp.allegromoltov.soko-kun/plugin-soko-kun/badges/score.svg)](https://glama.ai/mcp/connectors/jp.allegromoltov.soko-kun/plugin-soko-kun)
+  🔓 - Search OBS Studio plugins with malware-checked release files; submitting a plugin needs GitHub sign-in.
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
