@@ -4129,6 +4129,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MemeStack](https://memestack.ai/mcp-server) `https://mcp.memestack.ai/mcp`
   [![MemeStack MCP connector](https://glama.ai/mcp/connectors/ai.memestack/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memestack/mcp)
   🔓 - Search memes, charts, infographics and screenshots by meaning, in-image text or similarity; paid tools use x402/L402.
+- [Mercado Público Chile](https://apify.com/better-llama/mercado-publico-chile) `https://mcp.apify.com/?tools=better-llama/mercado-publico-chile`
+  🔐 - Normalized Chilean public tenders and purchase orders from the official Mercado Público API (BYO ChileCompra ticket).
 - [MeshArc web crawler](https://mesharc.dev) `https://mcp.mesharc.dev/mcp`
   [![MeshArc web crawler MCP connector](https://glama.ai/mcp/connectors/dev.mesharc/mesharc/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mesharc/mesharc)
   🔐 - Search, scrape and crawl sites to clean markdown, and track what changed between crawls.
