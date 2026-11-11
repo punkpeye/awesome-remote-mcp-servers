@@ -941,6 +941,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Query MongoDB Atlas clusters and manage collections and indexes.
 - [Neon](https://neon.tech) `https://mcp.neon.tech/mcp`
   🔐 - Provision and query Neon Postgres projects and branches.
+- [NET Genium](https://www.netgenium.com/en/products/ai?utm_source=awesome-remote-mcp-servers) `https://mcp.netgenium.online/api.aspx`
+  [![NET Genium MCP connector](https://glama.ai/mcp/connectors/online.netgenium.mcp/net-genium/badges/score.svg)](https://glama.ai/mcp/connectors/online.netgenium.mcp/net-genium)
+  🔐 - Build and run business apps on a real SQL database: read and write data, change forms, views and permissions.
 - [PostData](https://postdata.cloud) `https://api.postdata.cloud/mcp`
   [![PostData MCP connector](https://glama.ai/mcp/connectors/cloud.postdata/postdata/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.postdata/postdata)
   🔓 - Free, no-signup IoT sensor store: get a device name, read readings and history, wait for a flashed board to report.
