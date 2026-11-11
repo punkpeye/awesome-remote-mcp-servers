@@ -3475,7 +3475,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mureka MCP Server by useapi.net](https://useapi.net/docs/api-mureka-v1/mcp) `https://api.useapi.net/v1/mureka/mcp`
   [![Mureka MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/mureka/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/mureka)
   🔐 - Mureka songs in your own voice, stems, sheet music and speech on your Mureka account. Not affiliated with Mureka.
-- [OpenVideoGenerator](https://openvideogenerator.com) \https://openvideogenerator.com/api/mcp  [![OpenVideoGenerator MCP connector](https://glama.ai/mcp/connectors/com.openvideogenerator/open-video-generator-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.openvideogenerator/open-video-generator-mcp)
+- [OpenVideoGenerator](https://openvideogenerator.com) `https://openvideogenerator.com/api/mcp`
+  [![OpenVideoGenerator MCP connector](https://glama.ai/mcp/connectors/com.openvideogenerator/open-video-generator-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.openvideogenerator/open-video-generator-mcp)
   🔑 - Generate cinematic AI videos from text or images across Kling, MiniMax, Luma, and Hunyuan, poll render jobs, and search curated prompt blueprints.
 - [Phoenix Labs](https://phoenixlabs.space/developers) `https://api.phoenixlabs.space/mcp`
   [![Phoenix Labs MCP connector](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs)
