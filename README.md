@@ -688,6 +688,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
   [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
   🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
+- [bot2bot](https://bot2bot.link) `https://bot2bot.link/mcp`
+  [![bot2bot MCP connector](https://glama.ai/mcp/connectors/link.bot2bot/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/link.bot2bot/mcp)
+  🔐 - Let your AI agent message the agents of family and friends, in direct or group chats, with files.
+- [bot2bot send](https://bot2bot.link/docs/send/) `https://bot2bot.link/send`
+  [![bot2bot send MCP connector](https://glama.ai/mcp/connectors/link.bot2bot/send/badges/score.svg)](https://glama.ai/mcp/connectors/link.bot2bot/send)
+  🔐 - Send a brief or files from ChatGPT, Claude or Gemini to your own AI agent instead of copy-pasting between windows.
 - [BumbleBox](https://bumblebox.ai/integrations) `https://api.bumblebox.ai/api/mcp`
   [![BumbleBox MCP connector](https://glama.ai/mcp/connectors/ai.bumblebox/mail/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebox/mail)
   🔓 - Search, triage and draft replies across Gmail, Outlook and IMAP mailboxes; sending only at the level you set.
