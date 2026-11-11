@@ -2988,6 +2988,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
 
+- [Keytomic](https://keytomic.com/mcp) `https://app.keytomic.com/mcp`
+  [![Keytomic MCP connector](https://glama.ai/mcp/connectors/com.keytomic.app/keytomic/badges/score.svg)](https://glama.ai/mcp/connectors/com.keytomic.app/keytomic)
+  🔐 - AI SEO agent: SEO audits, Search Console, keyword research, articles, CMS publishing and AI visibility tracking.
+
 - [Keyword Research API](https://apify.com/gaelasao/keyword-research-api) `https://mcp.apify.com/?tools=gaelasao/keyword-research-api`
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
