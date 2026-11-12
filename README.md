@@ -1185,6 +1185,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
+- [Moxie Docs](https://moxiedocs.com) `https://moxiedocs.com/api/mcp`
+  [![Moxie Docs MCP connector](https://glama.ai/mcp/connectors/com.moxiedocs/moxie-docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.moxiedocs/moxie-docs)
+  🔐 - Fetch a GitHub repo's conventions, architecture docs, and doc gaps, and find docs a code change made stale.
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
