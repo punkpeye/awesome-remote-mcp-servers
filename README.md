@@ -2168,7 +2168,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rechnungslotse](https://rechnungslotse.de/mcp) `https://rechnungslotse.de/api/mcp`
   [![Rechnungslotse MCP connector](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung/badges/score.svg)](https://glama.ai/mcp/connectors/de.rechnungslotse/e-rechnung)
   🔓 - German e-invoicing: create, validate and read XRechnung and ZUGFeRD invoices against EN 16931.
-  - [Redstone Markets](https://redstonemarkets.com) `https://redstonemarkets.com/api/mcp`
+- [Redstone Markets](https://redstonemarkets.com) `https://redstonemarkets.com/api/mcp`
   [![Redstone Markets MCP connector](https://glama.ai/mcp/connectors/com.redstonemarkets/redstone/badges/score.svg)](https://glama.ai/mcp/connectors/com.redstonemarkets/redstone)
   🔓 - Free return and risk analytics for about 2,900 US stocks and 1,200 ETFs.
 - [Regime](https://regimetoken.xyz/api) `https://feed.regimetoken.xyz/mcp`
