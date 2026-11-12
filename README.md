@@ -1137,6 +1137,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
+- [Hibira](https://hibira.io/mcp-server) `https://hibira.io/mcp`
+  [![Hibira MCP connector](https://glama.ai/mcp/connectors/io.hibira/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.hibira/mcp)
+  🔐 - Pusher-compatible realtime apps: publish events, send push, ask a person to approve, run waiting rooms.
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
@@ -4726,6 +4729,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontDesk Chat](https://frontdeskchat.com/features/mcp/) `https://api.frontdeskchat.com/mcp`
   [![FrontDesk Chat MCP connector](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat)
   🔐 - Read your AI website front desk's conversations, visitors, bookings and analytics, and draft desk changes for approval.
+- [Hibira Live Chat](https://chat.hibira.io/docs) `https://chat.hibira.io/mcp`
+  [![Hibira Live Chat MCP connector](https://glama.ai/mcp/connectors/io.hibira/live-chat/badges/score.svg)](https://glama.ai/mcp/connectors/io.hibira/live-chat)
+  🔐 - Wire your admin panel to Live Chat single sign-on: setup, code for your stack, token checks, channels.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
 - [NexTool MCP for GLPI](https://nextoolsolutions.com/mcp) `https://mcp.nextoolsolutions.com/mcp`
@@ -5181,6 +5187,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
+- [Gaya](https://gaya.hibira.io) `https://gaya.hibira.io/mcp`
+  [![Gaya MCP connector](https://glama.ai/mcp/connectors/io.hibira/gaya/badges/score.svg)](https://glama.ai/mcp/connectors/io.hibira/gaya)
+  🔐 - Ask a group of AI personas with different views; they talk it over and return a verdict.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
