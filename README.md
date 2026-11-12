@@ -5011,7 +5011,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Eggtimer.app MCP connector](https://glama.ai/mcp/connectors/app.eggtimer/eggtimer/badges/score.svg)](https://glama.ai/mcp/connectors/app.eggtimer/eggtimer)
   🔓 - Create shareable browser timer links for countdowns, clock times, Pomodoro, Tabata and multi-step recipes.
 - [eightytwenty](https://www.eightytwenty.tech) `https://mcp.eightytwenty.tech/mcp`
-  [![eightytwenty MCP connector](https://glama.ai/mcp/connectors/io.github.h3692/eightytwenty/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.h3692/eightytwenty)
+  [![eightytwenty MCP connector](https://glama.ai/mcp/connectors/tech.eightytwenty.mcp/eightytwenty/badges/score.svg)](https://glama.ai/mcp/connectors/tech.eightytwenty.mcp/eightytwenty)
   🔓 - Case-competition and pitch decks, planned slide by slide from 900+ layouts taken from winning decks.
 - [Emboss](https://getemboss.ai) `https://api.getemboss.ai/mcp`
   [![Emboss MCP connector](https://glama.ai/mcp/connectors/io.github.edwinorange/emboss/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.edwinorange/emboss)
