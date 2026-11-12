@@ -3970,6 +3970,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Data Tools](https://agent-data-tools.revmesh2074.workers.dev) `https://agent-data-tools.revmesh2074.workers.dev/mcp`
   [![Agent Data Tools MCP connector](https://glama.ai/mcp/connectors/io.github.Nutshell2000/agent-data-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nutshell2000/agent-data-tools)
   🔓 - 179 pay-per-call data tools: web and PDF text, domain and sanctions checks, chain reads, prices, weather, time.
+- [Agent Demand Registry](https://agent-demand-registry.agent-demand-registry.workers.dev) `https://agent-demand-registry.agent-demand-registry.workers.dev/mcp`
+  [![Agent Demand Registry MCP connector](https://glama.ai/mcp/connectors/io.github.kalgoodman/agent-demand-registry/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kalgoodman/agent-demand-registry)
+  🔓 - Find public data sources and MCP servers for a task; report blockers and record unmet needs with willingness to pay.
 - [Agent Evidence API](https://agent-evidence.thx93.dev/) `https://agent-evidence.thx93.dev/mcp`
   [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
   🔓 - Cited web evidence for a claim: supporting and contradicting passages with source, time and hash.
