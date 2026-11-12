@@ -2928,6 +2928,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [App Store & Google Play Reviews](https://apify.com/rasareka/app-reviews-mcp) `https://rasareka--app-reviews-mcp.apify.actor/mcp`
+  [![App Store & Google Play Reviews MCP connector](https://glama.ai/mcp/connectors/com.rasareka/app-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/com.rasareka/app-reviews)
+  🔑 - Search iOS and Android apps, read reviews, and get complaint and praise insights or compare competitor apps.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
@@ -4102,6 +4106,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
   [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
   🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
+- [Jobs: Remote Boards + Careers Pages](https://apify.com/rasareka/jobs-mcp) `https://rasareka--jobs-mcp.apify.actor/mcp`
+  [![Jobs MCP connector](https://glama.ai/mcp/connectors/com.rasareka/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.rasareka/jobs)
+  🔑 - Remote jobs from 6 boards, salary and market reports, and open roles from Greenhouse, Lever, Ashby and Workday.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
