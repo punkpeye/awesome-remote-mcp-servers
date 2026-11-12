@@ -3649,6 +3649,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ONYST RVG](https://onyst.legal/mcp/en) `https://api.onyst.legal/mcp`
   [![ONYST RVG MCP connector](https://glama.ai/mcp/connectors/legal.onyst/rvg/badges/score.svg)](https://glama.ai/mcp/connectors/legal.onyst/rvg)
   🔐 - German lawyers' fees under the RVG, values in dispute and invoices, every amount from the ONYST fee engine.
+- [Open Legal Data (Germany)](https://de.openlegaldata.io/) `https://de.openlegaldata.io/mcp`
+  [![Open Legal Data (Germany) MCP connector](https://glama.ai/mcp/connectors/io.openlegaldata/de/badges/score.svg)](https://glama.ai/mcp/connectors/io.openlegaldata/de)
+  🔓 - German court decisions and laws: full-text search, citation graph between cases and laws, and citation checks.
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
