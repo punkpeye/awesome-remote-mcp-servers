@@ -4808,6 +4808,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [esimoa](https://www.esimoa.com) `https://api.esimoa.com/mcp`
   [![esimoa MCP connector](https://glama.ai/mcp/connectors/com.esimoa/esim/badges/score.svg)](https://glama.ai/mcp/connectors/com.esimoa/esim)
   🔓 - Search and compare travel eSIM plans by country, days, data, local number and network, with links to buy on esimoa.
+- [Está no Ir](https://estanoir-bots.pages.dev/mcp-server/) `https://estanoir-bots.pages.dev/mcp`
+  [![Está no Ir MCP connector](https://glama.ai/mcp/connectors/dev.pages.estanoir-bots/trips/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.estanoir-bots/trips)
+  🔓 - Short trips in Portugal and Europe by train, boat or on foot, with dated official sources. Read-only.
 - [ExplorersMap Travel Log](https://explorersmap.net/mcp) `https://explorersmap.net/mcp`
   [![ExplorersMap Travel Log MCP connector](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log/badges/score.svg)](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log)
   🔓 - Travel log: mark countries, regions and places, build trips, read stats and rankings; tools need a key.
