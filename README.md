@@ -2088,6 +2088,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Money Reactor](https://money-reactor.makar52nn2016.workers.dev/) `https://money-reactor.makar52nn2016.workers.dev/mcp`
   [![Money Reactor MCP connector](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makar52nn-crypto/x402-money-reactor)
   🔓 - Pay-per-call x402 API on Base: token verdicts, research dossiers, crypto prices, weather, AI chat; USDC.
+- [moneyheap](https://moneyheap.ai) `https://moneyheap.ai/mcp`
+  [![moneyheap MCP connector](https://glama.ai/mcp/connectors/ai.moneyheap/moneyheap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.moneyheap/moneyheap)
+  🔐 - Stock market research: daily market overview, movers, market news and sentiment for the stocks you follow.
 - [More AI](https://accounting.amore.cloud/en/fortnox-mcp/) `https://accounting.amore.cloud/mcp`
   [![More AI MCP connector](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox)
   🔐 - Fortnox (Swedish accounting): read invoices, ledger, VAT and reports; changes only after the user approves.
