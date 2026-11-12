@@ -959,6 +959,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
+- [Chartbrew](https://chartbrew.com) `https://api.chartbrew.com/mcp`
+  [![Chartbrew MCP connector](https://glama.ai/mcp/connectors/com.chartbrew.api/chartbrew-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.chartbrew.api/chartbrew-mcp)
+  🔐 - Explore connected data, query datasets, read dashboards, and create chart previews.
+
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
