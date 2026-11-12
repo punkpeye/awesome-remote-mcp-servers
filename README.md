@@ -475,7 +475,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
 - [Costory](https://docs.costory.io/features/mcp) `https://app-api.costory.io/mcp`
   [![Costory MCP connector](https://glama.ai/mcp/connectors/io.costory.app-api/costory/badges/score.svg)](https://glama.ai/mcp/connectors/io.costory.app-api/costory)
-  🔐 - FinOps agent MCP: one allocated view of cloud, AI and data costs across providers, shared by your whole team with SSO.
+  🔐 - FinOps harness MCP: bills in BigQuery, allocated to teams, with SSO. Build on it or switch. Starter from $300/month.
 - [Crow Nest](https://crow-nest.com) `https://crow-nest.com/mcp`
   [![Crow Nest MCP connector](https://glama.ai/mcp/connectors/com.crow-nest/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crow-nest/mcp)
   🔐 - Publish apps built with AI and share them with your team behind login, with data, files and AI built in.
