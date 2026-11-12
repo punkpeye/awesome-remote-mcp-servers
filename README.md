@@ -4823,6 +4823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontDesko](https://frontdesko.app) `https://mcp.frontdesko.app/mcp`
   [![FrontDesko MCP connector](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp)
   🔓 - Hotel PMS pricing and plan comparisons, OTA-commission savings math and docs search.
+- [GADUIN](https://gaduin.com/agents) `https://gaduin.com/mcp`
+  [![GADUIN MCP connector](https://glama.ai/mcp/connectors/com.gaduin/gaduin/badges/score.svg)](https://glama.ai/mcp/connectors/com.gaduin/gaduin)
+  🔓 - Live flight status, 30-day on-time history and prediction-market odds on flight, train and ship delays.
 - [GateRoam](https://gateroam.com/?utm_source=github.com&utm_medium=directory&utm_campaign=mcp-listing) `https://gateroam.com/mcp`
   [![GateRoam MCP connector](https://glama.ai/mcp/connectors/com.gateroam/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gateroam/mcp)
   🔐 - Amadeus flight search, fare pricing and client offers for travel agencies.
@@ -4949,6 +4952,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![metasearch MCP connector](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp)
   🔓 - Validate, normalize and compare hotel feeds for Google Hotel Center, Wego, trivago and more.
   
+
 ### 🔄 <a name="version-control"></a>Version Control
 
 - [Codebahn](https://codebahn.net) `https://codebahn.net/mcp`
