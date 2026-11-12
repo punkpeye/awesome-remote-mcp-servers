@@ -3340,6 +3340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Opservo](https://getopservo.com/docs/mcp) `https://api.getopservo.com/mcp`
   [![Opservo MCP connector](https://glama.ai/mcp/connectors/com.getopservo/opservo/badges/score.svg)](https://glama.ai/mcp/connectors/com.getopservo/opservo)
   🔐 - Ask why Linux servers and Kubernetes clusters are slow or failing: health, issues, logs, incident timelines. Read-only.
+- [QuietDiff](https://quietdiff.com) `https://quietdiff.com/api/mcp`
+  [![QuietDiff MCP connector](https://glama.ai/mcp/connectors/com.quietdiff/quietdiff/badges/score.svg)](https://glama.ai/mcp/connectors/com.quietdiff/quietdiff)
+  🔐 - Ask Claude to watch a competitor's pricing page and tell you when it changes. OAuth or a free-plan API key.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
