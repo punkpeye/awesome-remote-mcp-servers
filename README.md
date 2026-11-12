@@ -4749,6 +4749,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
   [![globalize.now MCP connector](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize)
   🔐 - Localize apps: translate locale files, set glossaries and connect GitHub repos.
+- [localize.dev](https://uselocalize.dev/mcp) `https://uselocalize.dev/api/mcp`
+  [![localize.dev MCP connector](https://glama.ai/mcp/connectors/io.github.ufortstephen/localize-dev/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ufortstephen/localize-dev)
+  🔐 - Find hardcoded UI text in an app, give it i18n keys, rewrite the code and translate it into every language.
 - [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
   [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
