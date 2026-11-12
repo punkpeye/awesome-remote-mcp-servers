@@ -2229,6 +2229,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SnowSignals TrendVane](https://snowsignals.io) `https://snowsignals.io/mcp`
   [![SnowSignals TrendVane MCP connector](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals/badges/score.svg)](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals)
   🔓 - Market-phase state per currency across timeframes (not trade signals); free phase stats, metered live reads.
+- [SolGuard](https://solguard-protocol.pages.dev) `https://solguard-protocol.pages.dev/mcp`
+  [![SolGuard MCP connector](https://glama.ai/mcp/connectors/io.github.Tradelord223/solguard-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Tradelord223/solguard-mcp)
+  🔓 - Solana Token-2022 honeypot scanner, 1-SOL slippage probe & Jito MEV-safe swap router.
 - [Stablecoin Scanner](https://stablescan.achivx.com) `https://stablescan.achivx.com/mcp`
   [![Stablecoin Scanner MCP connector](https://glama.ai/mcp/connectors/com.achivx/stablescan/badges/score.svg)](https://glama.ai/mcp/connectors/com.achivx/stablescan)
   🔓 - Stablecoin compliance on 7 chains: issuer freezes, OFAC, exposure and risk, allowances, transfers, wallet graph.
