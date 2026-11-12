@@ -4355,6 +4355,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DemiSignal](https://demisignal.com/tools/mcp-server?utm_source=awesome-mcp-servers&utm_medium=mcp-directory) `https://demisignal.com/mcp?utm_source=awesome-mcp-servers`
   [![DemiSignal MCP connector](https://glama.ai/mcp/connectors/com.demisignal/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.demisignal/mcp)
   🔓 - Grade a domain's live DMARC, SPF, DKIM, MX, BIMI and MTA-STS records, and generate SPF and DMARC records.
+- [Diopter AI](https://diopter.ai) `https://diopter.ai/mcp`
+  [![Diopter AI MCP connector](https://glama.ai/mcp/connectors/ai.diopter/diopter-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.diopter/diopter-ai)
+  🔐 - Check whether images, video, and audio are AI-generated or deepfakes, with a verdict, confidence score, and link to the full report.
 - [DnsGuard](https://dnsguard.mike-tusa.workers.dev/) `https://dnsguard.mike-tusa.workers.dev/mcp`
   [![DnsGuard MCP connector](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard)
   🔓 - Checks a domain's SPF, DKIM, DMARC, BIMI, MX, MTA-STS and TLS-RPT, with a 0–100 score and fixes.
