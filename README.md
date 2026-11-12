@@ -4057,7 +4057,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Neural web search that returns full page contents.
 - [Farside Research](https://farsideresearch.com/mcp) `https://api.farsideresearch.com/mcp/`
   [![Farside Research MCP connector](https://glama.ai/mcp/connectors/com.farsideresearch/research/badges/score.svg)](https://glama.ai/mcp/connectors/com.farsideresearch/research)
-  🔑 - Run cited deep research, ask follow-ups against a finished report, and search its checked sources.
+  🔓 🔑 - Run cited deep research, ask follow-ups against a finished report, and search its checked sources; tool calls need an API key.
 - [file2markdown](https://www.file2markdown.ai) `https://mcp.file2markdown.ai/mcp`
   [![file2markdown MCP connector](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown/badges/score.svg)](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown)
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
