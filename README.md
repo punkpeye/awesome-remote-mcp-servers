@@ -1006,6 +1006,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [Apify Data Tools - Site Audit](https://apify.com/ahmed.fouaad82) `https://mcp.apify.com/?tools=ahmed.fouaad82/sitemap-extractor,ahmed.fouaad82/url-status-checker,ahmed.fouaad82/dataset-dedup-merge`
+  [![Apify Data Tools - Site Audit MCP connector](https://glama.ai/mcp/connectors/io.github.AHMEDFOUAAD/apify-site-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AHMEDFOUAAD/apify-site-audit)
+  🔐 - Sitemap URL extraction, bulk HTTP status and broken-link checks, and dataset dedup/merge.
 - [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
   [![Apple RAG MCP connector](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server)
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
@@ -3982,6 +3985,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
   [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
   🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
+- [Apify Data Tools - Content for RAG](https://apify.com/ahmed.fouaad82) `https://mcp.apify.com/?tools=ahmed.fouaad82/rss-feed-reader,ahmed.fouaad82/podcast-published-transcripts,ahmed.fouaad82/public-pdf-text`
+  [![Apify Data Tools - Content for RAG MCP connector](https://glama.ai/mcp/connectors/io.github.AHMEDFOUAAD/apify-rag-content/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AHMEDFOUAAD/apify-rag-content)
+  🔐 - Fresh RSS/Atom feed items, publisher-provided podcast transcripts and text from public PDFs, as clean JSON.
+- [Apify Data Tools - Public Job Boards](https://apify.com/ahmed.fouaad82) `https://mcp.apify.com/?tools=ahmed.fouaad82/greenhouse-public-jobs,ahmed.fouaad82/lever-salary-jobs,ahmed.fouaad82/ats-public-jobs`
+  [![Apify Data Tools - Public Job Boards MCP connector](https://glama.ai/mcp/connectors/io.github.AHMEDFOUAAD/apify-public-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AHMEDFOUAAD/apify-public-jobs)
+  🔐 - Open roles from public Greenhouse, Lever and other ATS job boards, including Lever salary ranges and remote filters.
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
