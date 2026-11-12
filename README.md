@@ -3840,6 +3840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
+- [Lentra](https://lentra.pl/asystent-ai-przetargi) `https://app.lentra.pl/mcp`
+  [![Lentra MCP connector](https://glama.ai/mcp/connectors/pl.lentra/lentra/badges/score.svg)](https://glama.ai/mcp/connectors/pl.lentra/lentra)
+  🔐 - Search Polish public construction tenders by company profile, with lot-level document analysis, Q&A and files.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
   🔐 - Use your own LinkedIn account: profiles, people and Sales Navigator search, messages, posts, invites, email finder.
