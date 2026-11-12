@@ -2469,7 +2469,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Gamedev matchmaking: tell the Tavern about you and your studio, post quests and get people and studios that fit.
 - [Gomo Sounds](https://gomosounds.com/en/docs/mcp) `https://gomosounds.com/mcp`
   [![Gomo Sounds MCP connector](https://glama.ai/mcp/connectors/com.gomosounds/gomo-sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.gomosounds/gomo-sounds)
-  🔐 - Plan, generate and pick game sound effects, music and voice lines, organized by game, with a Godot plugin.
+  🔓 - Plan, generate and pick game sound effects, music and voice lines, with a Godot plugin. Tools need a free account.
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
