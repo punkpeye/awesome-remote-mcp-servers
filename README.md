@@ -4952,7 +4952,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![metasearch MCP connector](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tr.com.metasearch/metasearch-mcp)
   🔓 - Validate, normalize and compare hotel feeds for Google Hotel Center, Wego, trivago and more.
   
-
 ### 🔄 <a name="version-control"></a>Version Control
 
 - [Codebahn](https://codebahn.net) `https://codebahn.net/mcp`
