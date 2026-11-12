@@ -3985,6 +3985,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apify Scraping Toolbox](https://apify.com/travelmonitorlab) `https://adagasolutions.lu/mcp`
   [![Adaga solutions — Data APIs Toolbox MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-solutions-toolbox)
   🔓 - 13 pay-per-event data APIs: local AI-presence audits, Google Maps, TikTok, LinkedIn, reviews, fuel, AEO.
+- [ATS Jobs](https://mcpize.com/mcp/ats-jobs) `https://melikhov.fr/mcp`
+  [![ATS Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.eosphor/ats-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eosphor/ats-jobs)
+  🔓 - Search live jobs across 10 ATS, or query a daily index of 1.3M postings from 24,000+ company career boards.
 - [AppClap](https://app-clap.com) `https://mcp.app-clap.com/mcp`
   [![AppClap MCP connector](https://glama.ai/mcp/connectors/com.app-clap/appclap/badges/score.svg)](https://glama.ai/mcp/connectors/com.app-clap/appclap)
   🔓 - Search 8,600+ web apps by need, ranked purely by fit, with prices and features checked on each vendor's own site.
