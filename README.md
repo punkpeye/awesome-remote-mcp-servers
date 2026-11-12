@@ -4708,6 +4708,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FastballAPI](https://fastballapi.com) `https://mcp.fastballapi.com/mcp`
   [![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
   🔓 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
+- [YorkerAPI](https://yorkerapi.com) `https://mcp.yorkerapi.com/mcp`
+  🔓 - Cricket ball by ball in every format, men's and women's, with players, ratings and match odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
