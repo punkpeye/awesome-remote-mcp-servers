@@ -3383,7 +3383,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
 - [Audo](https://audo.ai) `https://audo.ai/mcp`
   [![Audo MCP connector](https://glama.ai/mcp/connectors/ai.audo/audo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.audo/audo)
-  🔐 - Remove noise, enhance voices, transcribe with speaker labels, and cut, mix, and convert audio and video files.
+  🔐 - Create and edit audio/video: generate speech, clone and change voices, clean up, transcribe, and caption.
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
