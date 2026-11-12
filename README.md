@@ -2389,6 +2389,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ask.recipes](https://ask.recipes) `https://mcp.ask.recipes/mcp`
   [![ask.recipes MCP connector](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes/badges/score.svg)](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes)
   🔐 - Recipe search, ingredient matching, nutrition filters and a private cookbook for any AI agent.
+- [ChefSums](https://chefsums.com/ai) `https://chefsums.com/mcp`
+  [![ChefSums MCP connector](https://glama.ai/mcp/connectors/com.chefsums/chefsums/badges/score.svg)](https://glama.ai/mcp/connectors/com.chefsums/chefsums)
+  🔓 - Cost recipes, set menu prices, work out UK GP with VAT, scale recipes to covers and build kitchen prep lists.
 - [Cork & Curve](https://corkandcurve.com/agents/) `https://corkandcurve.com/mcp`
   [![Cork & Curve MCP connector](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel)
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
@@ -2416,9 +2419,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PourWire](https://pourwire.com/?utm_source=awesome-remote-mcp) `https://pourwire.com/mcp`
   [![PourWire MCP connector](https://glama.ai/mcp/connectors/com.pourwire/pourwire/badges/score.svg)](https://glama.ai/mcp/connectors/com.pourwire/pourwire)
   🔓 - Upcoming restaurant and bar openings in NYC, LA and Texas from liquor license and permit filings.
-- [PrepSheet](https://getprepsheet.com) `https://getprepsheet.com/mcp`
-  [![PrepSheet MCP connector](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet)
-  🔓 - Cost recipes, set menu prices, work out UK GP, scale recipes to covers and build kitchen prep lists for chefs.
 - [RegPulse Compliance Oracle](https://www.reg-bot.ai/developers) `https://www.reg-bot.ai/api/mcp`
   [![RegPulse Compliance Oracle MCP connector](https://glama.ai/mcp/connectors/ai.reg-bot/compliance-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/ai.reg-bot/compliance-oracle)
   🔓 - Read-only US food license data: verified state food rules, Florida license lookup and renewal dates.
