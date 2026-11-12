@@ -4431,7 +4431,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
 - [Prax Data Services](https://mcp.orabrain.com/?src=awesome) `https://mcp.orabrain.com/mcp`
-  [![Prax Data Services MCP connector](https://glama.ai/mcp/connectors/com.orabrain/prax-data-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.orabrain/prax-data-services)
   🔐 - Screens wallets, transfers and sanctions (OFAC, UK, EU, UN) with reasons before an agent pays, signs or onboards.
 - [Preflight](https://preflight.allthepossibles.com) `https://preflight.allthepossibles.com/mcp`
   [![Preflight MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/preflight)
