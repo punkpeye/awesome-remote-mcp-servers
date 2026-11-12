@@ -2924,6 +2924,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [AgentFabrica](https://agentfabrica.com) `https://agentfabrica.com/api/mcp`
+  [![AgentFabrica MCP connector](https://glama.ai/mcp/connectors/io.github.agentfabrica-ai/agentfabrica/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agentfabrica-ai/agentfabrica)
+  🔐 - Marketing ops panel: brands, scheduled posts, lead and WhatsApp counts; new posts wait in a human approval queue.
+
 - [AgentPixel](https://agentpixel.io) `https://agentpixel.io/mcp`
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
