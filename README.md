@@ -2527,6 +2527,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Blocks](https://blocks.zone/ai) `https://blocks.zone/api/mcp`
   [![Blocks MCP connector](https://glama.ai/mcp/connectors/zone.blocks/blocks/badges/score.svg)](https://glama.ai/mcp/connectors/zone.blocks/blocks)
   🔐 - Plan and review cycling and running: training calendar, synced rides, sleep and HRV.
+- [ChinaMedVisit](https://chinamedvisit.com) `https://chinamedvisit.com/api/mcp`
+  [![ChinaMedVisit MCP connector](https://glama.ai/mcp/connectors/com.chinamedvisit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinamedvisit/mcp)
+  🔓 - China Tier-3A hospital medical cost estimator vs US/UK, international clinic lookup, and bilingual guide.
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
