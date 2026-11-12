@@ -4728,6 +4728,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read your AI website front desk's conversations, visitors, bookings and analytics, and draft desk changes for approval.
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
   🔐 - Search Intercom conversations, contacts, and help-center articles.
+- [LobbyStack](https://lobbystack.com/features/mcp/) `https://app.lobbystack.com/api/mcp`
+  [![LobbyStack MCP connector](https://glama.ai/mcp/connectors/com.lobbystack.app/lobby-stack/badges/score.svg)](https://glama.ai/mcp/connectors/com.lobbystack.app/lobby-stack)
+  🔐 - Read your AI receptionist's calls, contacts and messages, check availability, and book or move appointments.
 - [NexTool MCP for GLPI](https://nextoolsolutions.com/mcp) `https://mcp.nextoolsolutions.com/mcp`
   [![NexTool MCP for GLPI MCP connector](https://glama.ai/mcp/connectors/com.nextoolsolutions/glpi/badges/score.svg)](https://glama.ai/mcp/connectors/com.nextoolsolutions/glpi)
   🔐 - Search, create and update GLPI tickets, ITIL problems and changes, assets and knowledge base.
