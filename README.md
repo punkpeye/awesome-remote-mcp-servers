@@ -816,6 +816,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
+- [BuildBase Console](https://docs.buildbase.app/console/ai-agents) `https://api.console.buildbase.app/mcp`
+  [![BuildBase Console MCP connector](https://glama.ai/mcp/connectors/app.buildbase/console/badges/score.svg)](https://glama.ai/mcp/connectors/app.buildbase/console)
+  🔐 - Manage BuildBase organizations, members, content, email, workflows and settings as yourself.
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [Convika](https://convika.com) `https://mcp.convika.com/mcp`
