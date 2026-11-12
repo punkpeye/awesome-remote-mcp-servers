@@ -3759,6 +3759,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [GetMovely](https://getmovely.co.uk/mcp) `https://getmovely.co.uk/mcp`
+  [![GetMovely MCP connector](https://glama.ai/mcp/connectors/uk.co.getmovely/getmovely/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.getmovely/getmovely)
+  🔓 - Sold prices, tenure, energy ratings and price checks for 25 million homes in England and Wales.
 - [GigNGo](https://gigngo.org/mcp-server) `https://gigngo.org/mcp`
   [![GigNGo MCP connector](https://glama.ai/mcp/connectors/org.gigngo/gigngo/badges/score.svg)](https://glama.ai/mcp/connectors/org.gigngo/gigngo)
   🔓 - Find US locals for home jobs and errands, watch videos of their real work, and draft a job post the person reviews.
