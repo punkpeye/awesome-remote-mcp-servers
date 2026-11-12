@@ -3267,6 +3267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Customer Reviews](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-store-review-scraper,delicious_zebu/yelp-reviews-scraper,delicious_zebu/tripadvisor-review-collector,delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters,delicious_zebu/naver-shopping-reviews-scraper,delicious_zebu/coupang-reviews-scraper`
   [![Zebu Data - Customer Reviews MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews)
   🔐 - Reviews from Google Maps, Yelp, TripAdvisor, eBay, Naver and Coupang, with ratings and dates.
+- [AI Search Visibility](https://apify.com/kadi_bence) `https://mcp.apify.com/?tools=Kadi_Bence/ai-visibility-tracker,Kadi_Bence/ai-readiness-audit`
+  [![AI Search Visibility MCP connector](https://glama.ai/mcp/connectors/io.github.kiskecske24/ai-search-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kiskecske24/ai-search-visibility)
+  🔐 - Checks if ChatGPT, Perplexity, Gemini and Claude mention a brand, and audits sites for AI search readiness.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
@@ -3868,6 +3871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Startup Funding & New Business Leads](https://apify.com/kadi_bence) `https://mcp.apify.com/?tools=Kadi_Bence/sec-form-d-funding,Kadi_Bence/us-new-business-filings,Kadi_Bence/company-intelligence`
+  [![Startup Funding & New Business Leads MCP connector](https://glama.ai/mcp/connectors/io.github.kiskecske24/startup-funding-leads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kiskecske24/startup-funding-leads)
+  🔐 - US startup funding rounds from SEC Form D, newly registered US companies, and company data by domain.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
