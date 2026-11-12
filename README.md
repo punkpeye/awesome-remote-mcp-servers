@@ -4808,6 +4808,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [esimoa](https://www.esimoa.com) `https://api.esimoa.com/mcp`
   [![esimoa MCP connector](https://glama.ai/mcp/connectors/com.esimoa/esim/badges/score.svg)](https://glama.ai/mcp/connectors/com.esimoa/esim)
   🔓 - Search and compare travel eSIM plans by country, days, data, local number and network, with links to buy on esimoa.
+- [EsimTao](https://esimtao.com) `https://esimtao.com/api/mcp`
+  [![EsimTao MCP connector](https://glama.ai/mcp/connectors/com.esimtao/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.esimtao/mcp)
+  🔓 - Travel eSIM data usage calculator, device compatibility matrix, and fair regional GB price comparison.
 - [ExplorersMap Travel Log](https://explorersmap.net/mcp) `https://explorersmap.net/mcp`
   [![ExplorersMap Travel Log MCP connector](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log/badges/score.svg)](https://glama.ai/mcp/connectors/net.explorersmap/explorers-map-travel-log)
   🔓 - Travel log: mark countries, regions and places, build trips, read stats and rankings; tools need a key.
