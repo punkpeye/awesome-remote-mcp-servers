@@ -2060,7 +2060,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Persistent agent memory; tell it a recalled memory helped or misled and it re-ranks the next recall.
 - [MyLeadTech HVAC](https://myleadtech.app/developers/mcp) `https://mcp.myleadtech.app/mcp/`
   [![MyLeadTech HVAC MCP connector](https://glama.ai/mcp/connectors/app.myleadtech/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.myleadtech/mcp)
-  🔑 🔐 - HVAC fault codes, model lookup and service answers cited to the OEM manual page for Carrier, Trane and Lennox.
+  🔐 - HVAC fault codes, model lookup and service answers cited to the OEM manual page (Carrier, Trane, Lennox, Goodman, Rheem, York and more).
 - [New Runtime](https://newruntime.com/agents/) `https://newruntime.com/mcp`
   [![New Runtime MCP connector](https://glama.ai/mcp/connectors/com.newruntime/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.newruntime/archive)
   🔓 - Dated, source-linked AI-engineering archive: what changed since a date, topic briefs, forecasts with a track record.
