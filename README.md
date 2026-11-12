@@ -2846,6 +2846,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [Open Legal Data (Germany)](https://de.openlegaldata.io/) `https://de.openlegaldata.io/mcp`
+  [![Open Legal Data (Germany) MCP connector](https://glama.ai/mcp/connectors/io.openlegaldata/de/badges/score.svg)](https://glama.ai/mcp/connectors/io.openlegaldata/de)
+  🔓 - German court decisions and laws: full-text search, citation graph between cases and laws, and citation checks.
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
