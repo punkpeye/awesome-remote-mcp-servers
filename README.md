@@ -3136,6 +3136,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Postbox Services Email Tools](https://postboxservices.com/mcp/) `https://mcp.postboxservices.com/mcp`
   [![Postbox Services MCP connector](https://glama.ai/mcp/connectors/com.postboxservices/postbox-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.postboxservices/postbox-tools)
   🔓 - Live email checks: 24 blacklists, spoofing/BEC grade, URL redirect tracing, full email spam tests, domain age and WHOIS.
+- [Promptify](https://www.promptify.pro/mcp) `https://www.promptify.pro/api/mcp`
+  [![Promptify MCP connector](https://glama.ai/mcp/connectors/io.github.thematheusmello/promptify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thematheusmello/promptify)
+  🔓 - Generate UGC video ad scripts and render ads using the user's Promptify credits; paid tools need OAuth or an API key.
 - [Proxy](https://useproxy.dev) `https://mcp.useproxy.dev/mcp`
   [![Proxy MCP connector](https://glama.ai/mcp/connectors/dev.useproxy/proxy/badges/score.svg)](https://glama.ai/mcp/connectors/dev.useproxy/proxy)
   🔐 - Search Meta, Google, LinkedIn and TikTok ad libraries for competitor ads, creatives and transcripts.
