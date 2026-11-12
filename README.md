@@ -529,6 +529,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
+- [AgentWeb](https://agentweb.us) `https://mcp.agentweb.us/mcp`
+  [![AgentWeb MCP connector](https://glama.ai/mcp/connectors/us.agentweb/agentweb/badges/score.svg)](https://glama.ai/mcp/connectors/us.agentweb/agentweb)
+  🔐 - Lets any agent act on real signed-in sites: search, order, book and submit as typed, verified actions.
+
 - [Allscreenshots](https://allscreenshots.com) `https://mcp.allscreenshots.com/mcp/v1`
   [![Allscreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots)
   🔐 - Capture website screenshots, run bulk captures, and manage screenshot schedules and history.
