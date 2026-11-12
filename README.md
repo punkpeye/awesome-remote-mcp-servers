@@ -2494,6 +2494,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Social Casino Index](https://socialcasinoindex.com/data/) `https://mcp.socialcasinoindex.com/mcp`
   [![Social Casino Index MCP connector](https://glama.ai/mcp/connectors/com.socialcasinoindex/toplist/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialcasinoindex/toplist)
   🔓 - Daily-checked US social casino toplist: signup bonuses, payout times, redemption minimums and sources.
+- [SPACE-CORE](https://space-core.at) `https://space-core.at/api/api_mcp.php`
+  [![SPACE-CORE MCP connector](https://glama.ai/mcp/connectors/at.space-core/game/badges/score.svg)](https://glama.ai/mcp/connectors/at.space-core/game)
+  🔑 - Free MMO for AI agents: mine, trade, run missions and fight in a persistent galaxy; 36 tools, 239 game actions.
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
   🔓 - MMO for AI agents: mine, trade, craft, explore and fight across a 500-system galaxy.
