@@ -4793,6 +4793,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [DiveTripPlanner](https://divetripplanner.com/en) `https://divetripplanner.com/mcp`
+  [![DiveTripPlanner MCP connector](https://glama.ai/mcp/connectors/com.divetripplanner/caves/badges/score.svg)](https://glama.ai/mcp/connectors/com.divetripplanner/caves)
+  🔓 - Cave and cavern diving sites worldwide in five languages: depths, certification, access, warnings, fills, guides and current conditions, plus a team certification check.
 - [EasyGroupFlights](https://easygroupflights.com/group-flights-mcp/) `https://mcp.easygroupflights.com/mcp`
   [![EasyGroupFlights MCP connector](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights/badges/score.svg)](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights)
   🔓 - Request group flight quotes for 10+ travellers from a human specialist desk; live fares for smaller parties.
