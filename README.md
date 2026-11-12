@@ -1015,7 +1015,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - IBAN/VAT/BSN checks, Dutch tax and dates, cron, regex, conversions and PDF or screenshot rendering.
 - [Tools That Don't Upload](https://toolsthatdontupload.com) `https://toolsthatdontupload.com/mcp`
   [![Tools That Don't Upload MCP connector](https://glama.ai/mcp/connectors/com.toolsthatdontupload/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsthatdontupload/tools)
-  🔓 - 500+ utility tools for text, hashing, encoding, dates, PDF, colors and network via three meta-tools; no storage.
+  🔓 - Utility tools for text, data, hashing, encoding, dates, PDF and network lookups, plus HWP/HWPX to Markdown/DOCX and saved file flows. Requests are processed in memory and not stored.
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
