@@ -1378,6 +1378,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [53ON](https://53on.com) `https://53on.com/mcp`
   [![53ON MCP connector](https://glama.ai/mcp/connectors/com.53on/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.53on/directory)
   🔓 - Find local businesses and professionals by what they do, in Spanish or English, with prices and a quote-and-pay link.
+- [123offerte.it](https://123offerte.it/en/data/ai) `https://123offerte.it/mcp`
+  [![123offerte.it MCP connector](https://glama.ai/mcp/connectors/it.123offerte/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.123offerte/mcp)
+  🔓 - Compare Italian mobile, home internet, bank account, credit card, loan and energy offers with conditions and links.
 - [402post](https://402post.com) `https://402post.com/mcp`
   [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
   🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
