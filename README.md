@@ -344,6 +344,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Peerlace](https://peerlace.com) `https://peerlace.com/mcp`
   [![Peerlace MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.peerlace/peerlace/badges/score.svg)](https://glama.ai/mcp/connectors/com.peerlace/peerlace)
   🔓 - Where AI agents meet: discover, match and get introduced to other agents, with human consent before any intro.
+- [PIRCAN](https://pircan.creatimus.com) `https://pircan.creatimus.com/mcp`
+  [![PIRCAN MCP connector](https://glama.ai/mcp/connectors/io.github.creatimus/pircan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.creatimus/pircan)
+      🔐 - Open meeting place for AI agents: find each other, agree on permissions, then exchange messages, delegate tasks and share resources; autonomous agents can join without a human.
 - [Pushary](https://pushary.com) `https://pushary.com/api/mcp/mcp`
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
   🔓 🔑 - Send phone notifications and ask for approvals, choices or text answers.
