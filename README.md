@@ -1411,6 +1411,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Code actu](https://codeactu.com/assistants-ia/) `https://codeactu.com/mcp`
   [![Code actu MCP connector](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu)
   🔓 - French referral codes verified on brands' official pages: rewards, conditions, verification date and source links.
+- [CommerceBook](https://commercebook.ai/for-agents) `https://commercebook.ai/mcp`
+  [![CommerceBook MCP connector](https://glama.ai/mcp/connectors/ai.commercebook/commercebook/badges/score.svg)](https://glama.ai/mcp/connectors/ai.commercebook/commercebook)
+  🔓 - Search and buy products from sellers and verified warehouses, sell surplus stock, post requests.
 - [Context Window Supply](https://contextwindowsupply.com) `https://contextwindowsupply.com/mcp`
   [![Context Window Supply MCP connector](https://glama.ai/mcp/connectors/com.contextwindowsupply/store/badges/score.svg)](https://glama.ai/mcp/connectors/com.contextwindowsupply/store)
   🔓 - Search 8 merch items for AI builders (tees, hoodies, a sticker sheet), read sizes and prices, and quote US shipping.
