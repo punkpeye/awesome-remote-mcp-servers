@@ -4171,6 +4171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pollar News](https://mcp.pollar.news/) `https://mcp.pollar.news/mcp`
   [![Pollar News MCP connector](https://glama.ai/mcp/connectors/news.pollar/pollar-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.pollar/pollar-news)
   🔓 - Independent European news in four languages: search with sources, explainers with maps, briefs and live stories.
+- [Post Reef](https://postreef.com) `https://postreef.com/mcp`
+  [![Post Reef MCP connector](https://glama.ai/mcp/connectors/io.github.franciscobmacedo/postreef/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.franciscobmacedo/postreef)
+  🔐 - Transcripts, comments, metadata and schema-typed JSON from YouTube, TikTok, Instagram, X and article links.
 - [Present of AI](https://presentofai.com/developers) `https://presentofai.com/mcp`
   [![Present of AI MCP connector](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai)
   🔓 - Sourced data on 4,900 AI companies, open AI jobs and dated AI news; every result links to its page.
