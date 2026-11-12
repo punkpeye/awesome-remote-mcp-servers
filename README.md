@@ -1553,6 +1553,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apex AI Academy](https://apexai.academy/developers/) `https://apexai.academy/mcp`
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
+- [ChineseWorkSheet](https://chineseworksheet.com) `https://chineseworksheet.com/api/mcp`
+  [![ChineseWorkSheet MCP connector](https://glama.ai/mcp/connectors/com.chineseworksheet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.chineseworksheet/mcp)
+  🔓 - Printable Chinese handwriting worksheet geometry, stroke order rules, HSK 3.0 analyzer, and Pinyin tools.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
