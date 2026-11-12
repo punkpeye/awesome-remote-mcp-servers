@@ -3360,6 +3360,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Toolweather](https://toolweather.pages.dev) `https://toolweather.toolweather.workers.dev/mcp`
   [![Toolweather MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/toolweather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/toolweather)
   🔓 - Checks if an MCP server or tool is safe to call now and suggests alternatives. Calls need a free API key.
+- [Upcheck](https://upcheck.so/mcp) `https://mcp.upcheck.so/mcp`
+  [![Upcheck MCP connector](https://glama.ai/mcp/connectors/so.upcheck/upcheck/badges/score.svg)](https://glama.ai/mcp/connectors/so.upcheck/upcheck)
+  🔑 - Add websites, read uptime, SSL, DNS and domain expiry status and history, and set keyword, content and port checks.
 - [Upstream](https://upstream-api.pages.dev) `https://upstream.toolweather.workers.dev/mcp`
   [![Upstream MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/upstream/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/upstream)
   🔓 - Live status, incidents and model deprecations for ~40 AI and developer APIs, plus a daily digest.
