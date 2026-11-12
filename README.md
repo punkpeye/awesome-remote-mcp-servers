@@ -3517,6 +3517,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shortform Kit](https://shortformkit.com/mcp-server/) `https://shortformkit.com/mcp`
   [![Shortform Kit MCP connector](https://glama.ai/mcp/connectors/io.github.diegobruegger-prog/shortformkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.diegobruegger-prog/shortformkit)
   🔓 - Transcribe and read public Reels, TikToks and Shorts, plus sourced creator data: upload specs and loudness targets.
+- [SightRadar Face Recognition API MCP](https://sightradar.com/mcp) `https://mcp.sightradar.com/mcp`
+  [![SightRadar Face Recognition API MCP connector](https://glama.ai/mcp/connectors/io.github.sightradar-hq/sightradar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sightradar-hq/sightradar-mcp)
+  🔐 - Index photos, find every photo of a person from one selfie, compare and detect faces, and run photo batches.
 - [snapWONDERS Vaultify](https://snapwonders.com/developers) `https://snapwonders.com/mcp`
   [![snapWONDERS Vaultify MCP connector](https://glama.ai/mcp/connectors/com.snapwonders/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.snapwonders/mcp)
   🔓 - Forensic photo and video analysis, hidden-file steganography and media format conversion.
