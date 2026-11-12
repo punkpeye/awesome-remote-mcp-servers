@@ -395,6 +395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [Agentfonts](https://agentfonts.com) `https://agentfonts.com/mcp`
+  [![Agentfonts MCP connector](https://glama.ai/mcp/connectors/com.agentfonts/agentfonts/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentfonts/agentfonts)
+  🔓 - Search, quote and license fonts from independent foundries; agents pay per licence in USDC via x402.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
