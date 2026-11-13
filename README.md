@@ -2786,6 +2786,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ⚖️ <a name="legal"></a>Legal
 - [A11y Audit](https://a11y-al6bxcngia-ue.a.run.app) `https://a11y-al6bxcngia-ue.a.run.app/mcp`
+  [![A11y Audit MCP connector](https://glama.ai/mcp/connectors/io.github.theharrisontruong-web/a11y-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theharrisontruong-web/a11y-audit)
   🔓 - Scans any URL for the WCAG failures behind ADA lawsuits, with a risk score; $1.50/call via x402 plus a free lite tier.
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
