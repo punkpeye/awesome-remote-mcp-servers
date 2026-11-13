@@ -4793,6 +4793,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [DirectBus Singapore](https://directbus.sg) `https://directbus.sg/mcp`
+  [![DirectBus Singapore MCP connector](https://glama.ai/mcp/connectors/sg.directbus/directbus/badges/score.svg)](https://glama.ai/mcp/connectors/sg.directbus/directbus)
+  🔓 - Direct commuter buses in Singapore (Premium, City Direct, ShareTransport): buses from a neighbourhood to an office, route stops, departure times, fares and nearest stops.
 - [EasyGroupFlights](https://easygroupflights.com/group-flights-mcp/) `https://mcp.easygroupflights.com/mcp`
   [![EasyGroupFlights MCP connector](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights/badges/score.svg)](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights)
   🔓 - Request group flight quotes for 10+ travellers from a human specialist desk; live fares for smaller parties.
