@@ -502,6 +502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
+- [Slaide](https://www.slaide.de) `https://app.slaide.de/api/mcp`
+  [![Slaide MCP connector](https://glama.ai/mcp/connectors/de.slaide/slaide/badges/score.svg)](https://glama.ai/mcp/connectors/de.slaide/slaide)
+  🔐 - Create, edit and export editable PowerPoint decks and Word documents from a chat prompt.
 - [SpriteForge](https://www.spriteforge.tech) `https://www.spriteforge.tech/mcp`
   [![SpriteForge MCP connector](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge/badges/score.svg)](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge)
   🔐 - Generate pixel-art sprites, animations and 16-tile Wang tilesets on a fixed grid, saved to your SpriteForge library.
