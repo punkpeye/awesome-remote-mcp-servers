@@ -176,6 +176,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Glasser](https://glasser.ai) `https://api.glasser.ai/mcp`
   [![Glasser MCP connector](https://glama.ai/mcp/connectors/ai.glasser/glasser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.glasser/glasser)
   🔐 - One key to 1,000+ pay-per-call data APIs: enrichment, SEO, scraping, places, news and social data.
+- [HostedMCP](https://hostedmcp.org) `https://api.hostedmcp.org/mcp`
+  [![HostedMCP MCP connector](https://glama.ai/mcp/connectors/org.hostedmcp/directory/badges/score.svg)](https://glama.ai/mcp/connectors/org.hostedmcp/directory)
+  🔓 - Search 115,000+ MCP servers and 40,000+ agent skills, read their automated checks, and get the exact install config for Claude Code, Cursor, VS Code or Codex.
 - [Hubris](https://hubris.pw) `https://api.hubris.pw/mcp`
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and OpenAI-compatible chat completions.
