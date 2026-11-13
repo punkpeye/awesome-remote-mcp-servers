@@ -2646,6 +2646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HAIDAA](https://haidaa.com/mcp) `https://mcp.haidaa.com/mcp`
   [![HAIDAA MCP connector](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa/badges/score.svg)](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa)
   🔓 - Search signed scientific claims, methods, provenance, contradictions, retractions, and admission receipts.
+- [Harbor](https://gethrbr.com) `https://mcp.gethrbr.com/mcp`
+  [![Harbor MCP connector](https://glama.ai/mcp/connectors/com.gethrbr/harbor/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethrbr/harbor)
+  🔐 - Shared memory for coding agents: a correction you give one agent becomes a rule every agent gets.
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
