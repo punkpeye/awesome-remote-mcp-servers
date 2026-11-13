@@ -937,6 +937,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LakehouseBox](https://lakehousebox.com/docs/mcp/) `https://mcp.lakehousebox.com/mcp`
   [![LakehouseBox MCP connector](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox/badges/score.svg)](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox)
   🔐 - Query and write Apache Iceberg tables hosted in Europe, and open public datasets, with DuckDB SQL.
+- [model2data studio](https://www.jbanalytica.com/model2data/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=claude-connector&utm_content=listing) `https://studio.jbanalytica.com/mcp`
+  [![model2data studio MCP connector](https://glama.ai/mcp/connectors/io.github.JB-Analytica/model2data-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JB-Analytica/model2data-studio)
+  🔐 - Design data models, generate realistic synthetic data, and build metrics and dashboards with known answers.
 - [MongoDB](https://mongodb.com) `https://mcp.mongodb.com/mcp`
   🔐 - Query MongoDB Atlas clusters and manage collections and indexes.
 - [Neon](https://neon.tech) `https://mcp.neon.tech/mcp`
