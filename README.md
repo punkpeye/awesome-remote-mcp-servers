@@ -3702,6 +3702,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
+- [Planeja+](https://planejamais.planejareconsultoria.com.br) `https://planejamais.planejareconsultoria.com.br/api/mcp`
+  [![Planeja+ MCP connector](https://glama.ai/mcp/connectors/io.github.hendrykcosta75/planejamais/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hendrykcosta75/planejamais)
+  🔐 - Manage strategic plans, objectives and initiatives, Kanban tasks, meetings, reports and funding calls.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
