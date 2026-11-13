@@ -5109,6 +5109,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [SuanLinFang](https://suanlinfang.cn) `https://suanlinfang.cn/mcp`
+  [![SuanLinFang MCP connector](https://glama.ai/mcp/connectors/cn.suanlinfang/stt-tts-ocr-decision/badges/score.svg)](https://glama.ai/mcp/connectors/cn.suanlinfang/stt-tts-ocr-decision)
+  🔑 - Chinese-optimized speech-to-text, TTS, OCR and calibrated decision-making APIs; pay-as-you-go with free trial credit.
 - [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
   [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
   🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
