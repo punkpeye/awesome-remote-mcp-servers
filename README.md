@@ -821,6 +821,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Convika](https://convika.com) `https://mcp.convika.com/mcp`
   [![Convika MCP connector](https://glama.ai/mcp/connectors/com.convika/convika/badges/score.svg)](https://glama.ai/mcp/connectors/com.convika/convika)
   🔐 - Publish AI-made landing pages on your own domain, with a signup form and visitor stats.
+- [Cosmic](https://www.cosmicjs.com) `https://mcp.cosmicjs.com/v1/buckets/{bucket_slug}`
+  [![Cosmic MCP connector](https://glama.ai/mcp/connectors/com.cosmicjs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.cosmicjs/mcp)
+  🔑 - Manage Cosmic CMS content, media, object types, and AI generation.
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
   [![dochost MCP connector](https://glama.ai/mcp/connectors/io.dochost/dochost/badges/score.svg)](https://glama.ai/mcp/connectors/io.dochost/dochost)
   🔓 - Publish Markdown or HTML as a hosted page and get a shareable link.
