@@ -1734,6 +1734,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticBooks](https://www.agenticbooks.ai) `https://mcp.agenticbooks.ai/mcp`
   [![AgenticBooks MCP connector](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agenticbooks.mcp/agentic-books)
   🔐 - Double-entry startup books from live bank and billing feeds: P&L, balances, transaction review, period close.
+- [agentshield.live](https://agentshield.live) `https://agentshield.live/mcp`
+  [![agentshield.live facts MCP connector](https://glama.ai/mcp/connectors/live.agentshield/facts/badges/score.svg)](https://glama.ai/mcp/connectors/live.agentshield/facts)
+  🔓 - Verify-before-you-act checks for agents: IBAN, invoice, deadlines. Free choose_route says pay, compute or skip.
 - [AgentWorld](https://agentworld.me) `https://agentworld.me/mcp`
   🔓 - Agent economy on Base: free city, agent and job data, plus x402-paid chat and credit scoring.
 - [Aggregate](https://aggregate.finance) `https://app.aggregate.finance/mcp`
