@@ -2881,6 +2881,42 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
 
+- [AdKit](https://adkit.so/features/ads-mcp) `https://mcp.adkit.so`
+  [![AdKit MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/ads)
+  🔐 - Google, Meta, TikTok, LinkedIn, Reddit, X, Microsoft and Pinterest Ads, with changes saved as drafts by default.
+
+- [AdKit Google Ads](https://adkit.so/features/ads-mcp/google) `https://mcp.adkit.so/google-ads`
+  [![AdKit Google Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/google-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/google-ads)
+  🔐 - Search, Display, Demand Gen and Performance Max campaigns and keywords, with changes saved as drafts by default.
+
+- [AdKit LinkedIn Ads](https://adkit.so/features/ads-mcp/linkedin) `https://mcp.adkit.so/linkedin-ads`
+  [![AdKit LinkedIn Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/linkedin-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/linkedin-ads)
+  🔐 - LinkedIn campaigns, ad groups, ads, targeting and reports, with changes saved as drafts by default.
+
+- [AdKit Meta Ads](https://adkit.so/features/ads-mcp/meta) `https://mcp.adkit.so/meta-ads`
+  [![AdKit Meta Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/meta-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/meta-ads)
+  🔐 - Facebook and Instagram campaigns, ad sets, ads, creatives and reports, with changes saved as drafts by default.
+
+- [AdKit Microsoft Ads](https://adkit.so/features/ads-mcp/microsoft) `https://mcp.adkit.so/microsoft-ads`
+  [![AdKit Microsoft Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/microsoft-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/microsoft-ads)
+  🔐 - Microsoft Advertising (Bing Ads) reports and campaign changes in beta, with changes saved as drafts by default.
+
+- [AdKit Pinterest Ads](https://adkit.so/features/ads-mcp/pinterest) `https://mcp.adkit.so/pinterest-ads`
+  [![AdKit Pinterest Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/pinterest-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/pinterest-ads)
+  🔐 - Pinterest campaigns, ad groups, ads and analytics in beta, with changes saved as drafts by default.
+
+- [AdKit Reddit Ads](https://adkit.so/features/ads-mcp/reddit) `https://mcp.adkit.so/reddit-ads`
+  [![AdKit Reddit Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/reddit-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/reddit-ads)
+  🔐 - Reddit campaigns, ad groups, ads and reports, with changes saved as drafts by default.
+
+- [AdKit TikTok Ads](https://adkit.so/features/ads-mcp/tiktok) `https://mcp.adkit.so/tiktok-ads`
+  [![AdKit TikTok Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/tiktok-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/tiktok-ads)
+  🔐 - TikTok campaigns, ad groups, ads, video uploads and reports, with changes saved as drafts by default.
+
+- [AdKit X Ads](https://adkit.so/features/ads-mcp/x) `https://mcp.adkit.so/x-ads`
+  [![AdKit X Ads MCP connector](https://glama.ai/mcp/connectors/io.github.adkit/x-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adkit/x-ads)
+  🔐 - X (Twitter) campaigns, ad groups, ads and reports, with changes saved as drafts by default.
+
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
   🔐 - Find competitors' longest-running Meta and TikTok ads, scored by hook, angle and audience.
