@@ -2566,6 +2566,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [Pinpal Notes](https://mypinpal.com/notes) `https://notes.mypinpal.com/mcp`
+  [![Pinpal Notes MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/notes/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/notes)
+  🔐 - A beautiful, simple notes app for iPhone, iPad and Mac your AI can open too: folders, Markdown notes, checklists, files.
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
@@ -3699,6 +3702,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OrgGen AI](https://www.orggen.ai/mcp) `https://www.orggen.ai/api/mcp`
   [![OrgGen AI MCP connector](https://glama.ai/mcp/connectors/ai.orggen/orggen/badges/score.svg)](https://glama.ai/mcp/connectors/ai.orggen/orggen)
   🔑 - Human-agent interface for projects: you prioritize and decide, your AI agents execute.
+- [Pinpal Projects](https://mypinpal.com/projects) `https://projects.mypinpal.com/mcp`
+  [![Pinpal Projects MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/projects/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/projects)
+  🔐 - Simple projects you and your AI share: numbered tickets with a status and a thread, for code and everyday projects.
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
@@ -5085,6 +5091,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PDFLean](https://pdflean.com) `https://mcp.pdflean.com/mcp`
   [![PDFLean MCP connector](https://glama.ai/mcp/connectors/com.pdflean.mcp/pdflean/badges/score.svg)](https://glama.ai/mcp/connectors/com.pdflean.mcp/pdflean)
   🔐 - PDF tools for AI agents: validate, extract, merge, split, compress, OCR, sign and redact PDFs.
+- [Pinpal Todo](https://mypinpal.com/todo) `https://todo.mypinpal.com/mcp`
+  [![Pinpal Todo MCP connector](https://glama.ai/mcp/connectors/com.mypinpal/todo/badges/score.svg)](https://glama.ai/mcp/connectors/com.mypinpal/todo)
+  🔐 - A quiet to-do list your AI can work with too: add, tick off and reopen todos; it never deletes.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
