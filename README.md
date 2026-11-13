@@ -3541,6 +3541,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [txtreel](https://txtreel.com) `https://txtreel.com/mcp`
   [![txtreel MCP connector](https://glama.ai/mcp/connectors/com.txtreel/txtreel/badges/score.svg)](https://glama.ai/mcp/connectors/com.txtreel/txtreel)
   🔓 - Render iMessage, WhatsApp, Instagram DM and Reddit thread videos (1080x1920 MP4) or screenshots from a script.
+- [Typeshoot](https://typeshoot.com) `https://typeshoot.com/mcp`
+  [![Typeshoot MCP connector](https://glama.ai/mcp/connectors/com.typeshoot/typeshoot/badges/score.svg)](https://glama.ai/mcp/connectors/com.typeshoot/typeshoot)
+  🔐 - Generate and edit images, video, voiceovers and music; captions, background removal and brand kits, paid in credits.
 - [Upstream.so](https://upstream.so/mcp/) `https://studio.upstream.so/mcp`
   [![Upstream.so MCP connector](https://glama.ai/mcp/connectors/so.upstream.studio/upstreamso/badges/score.svg)](https://glama.ai/mcp/connectors/so.upstream.studio/upstreamso)
   🔐 - Manage 24/7 live channels, pre-recorded broadcasts, media, playlists, schedules, and multistreaming from AI assistants.
