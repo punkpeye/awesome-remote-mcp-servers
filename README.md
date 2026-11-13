@@ -1140,6 +1140,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
+- [humans fix ai](https://humansfix.ai/mcp-server) `https://humansfix.ai/mcp`
+  [![humans fix ai MCP connector](https://glama.ai/mcp/connectors/ai.humansfix/humansfix/badges/score.svg)](https://glama.ai/mcp/connectors/ai.humansfix/humansfix)
+  🔐 - Ask a manually approved human developer for help from your agent; nothing is sent until you approve.
 - [IceShore](https://iceshore.ai/) `https://mcp.iceshore.ai/mcp`
   [![IceShore MCP connector](https://glama.ai/mcp/connectors/ai.iceshore/iceshore/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iceshore/iceshore)
   🔓 - Make your AI better at system maintenance. Prompts your AI to organize use cases behind each system.
