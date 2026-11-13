@@ -4488,6 +4488,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [withHuman](https://withhuman.ai) `https://app.withhuman.ai/api/mcp/v1`
   [![withHuman MCP connector](https://glama.ai/mcp/connectors/ai.withhuman/withhuman/badges/score.svg)](https://glama.ai/mcp/connectors/ai.withhuman/withhuman)
   🔐 - Configure approval pipelines, escalation paths and teams that decide which agent tool calls need a human.
+- [Nalvorn verification tools](https://tools.nalvorn.top) `https://tools.nalvorn.top/mcp`
+  🔓 - Verdict-with-proof checks over x402: whether a Base payment really landed (paid, underpaid, wrong recipient, pending, reverted) with chain facts and an attestation hash, plus manifest-vs-build, certificate, security-headers and domain-posture checks.
 
 
 ### 📣 <a name="social-media"></a>Social Media
