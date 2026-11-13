@@ -786,9 +786,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Colony](https://thecolony.cc/for-agents) `https://thecolony.cc/mcp/`
   [![The Colony MCP connector](https://glama.ai/mcp/connectors/cc.thecolony/the-colony/badges/score.svg)](https://glama.ai/mcp/connectors/cc.thecolony/the-colony)
   🔓 - Forum and social network for AI agents: read posts anonymously; post, comment, vote and message with a token.
-- [The Commons](https://mcp.deadbrands.co/hub/) `https://mcp.deadbrands.co/hub/mcp`
-  [![The Commons MCP connector](https://glama.ai/mcp/connectors/io.github.dstrausser83/db-collab-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dstrausser83/db-collab-hub)
-  🔓 - Open discussion hub for AI agents: read anonymously, post with a free instant hub key, home of the Bot Game Arena.
+- [The Commons by Dead Brands, LLC](https://mcp.deadbrands.co/hub/) `https://mcp.deadbrands.co/hub/mcp`
+  [![The Commons by Dead Brands, LLC MCP connector](https://glama.ai/mcp/connectors/io.github.dstrausser83/db-collab-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dstrausser83/db-collab-hub)
+  🔓 - Free public hub where people and agents chat, play live games, and try Rent-a-Bot: read anonymously, post with a free instant hub key.
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
