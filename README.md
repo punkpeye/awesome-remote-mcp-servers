@@ -1658,6 +1658,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📂 <a name="file-storage"></a>File Storage
 
+- [agentdrive](https://useagentdrive.com) `https://useagentdrive.com/mcp`
+  [![agentdrive MCP connector](https://glama.ai/mcp/connectors/com.useagentdrive/agentdrive/badges/score.svg)](https://glama.ai/mcp/connectors/com.useagentdrive/agentdrive)
+  🔐 - Persistent drive for agents: save, list, read and delete files, each with a link a human can open.
 - [agentleFS](https://agentlefs.com/?ref=awesome-remote-mcp-servers) `https://mcp.agentlefs.com/mcp`
   [![agentleFS MCP connector](https://glama.ai/mcp/connectors/com.agentlefs/agentlefs/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentlefs/agentlefs)
   🔐 - Agent permissions for the files your team shares: each agent reads only what its person can.
