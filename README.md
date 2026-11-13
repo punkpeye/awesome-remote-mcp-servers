@@ -1434,7 +1434,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
 - [Festapp](https://festapp.net) `https://mcp.festapp.net/mcp`
   [![Festapp MCP connector](https://glama.ai/mcp/connectors/net.festapp/festapp/badges/score.svg)](https://glama.ai/mcp/connectors/net.festapp/festapp)
-  🔐 - Manage authorized events, programs, attendees and Festapp Tickets with scoped OAuth consent.
+  🔐 - Create events, plan programs and seating, set ticket prices and track sales with your AI assistant.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
@@ -1539,7 +1539,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - GPU, AI workstation and DDR4/DDR5 asking prices on eBay, Xianyu and Amazon Japan, plus which local LLMs fit which GPU.
 - [vstupenky.online](https://vstupenky.online) `https://mcp.vstupenky.online/mcp`
   [![vstupenky.online MCP connector](https://glama.ai/mcp/connectors/net.festapp/vstupenky-online/badges/score.svg)](https://glama.ai/mcp/connectors/net.festapp/vstupenky-online)
-  🔐 - Manage authorized event ticket sales, seating, orders and check-in on vstupenky.online.
+  🔐 - Set up events, seating and ticket prices, then manage orders, sales and check-in with AI.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
