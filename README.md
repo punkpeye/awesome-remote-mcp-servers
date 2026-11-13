@@ -5079,6 +5079,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offpeak](https://offpeak.fyi) `https://offpeak.fyi/mcp`
   [![Offpeak MCP connector](https://glama.ai/mcp/connectors/io.github.vicentesurraco/offpeak/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicentesurraco/offpeak)
   🔓 - Search US jobs by driving commute, pay and seniority; optional OAuth sign-in saves jobs and searches.
+- [Orckai](https://orckai.com/docs/public-api.html#mcp-endpoint) `https://orckai.app/api/v1/mcp`
+  [![Orckai MCP connector](https://glama.ai/mcp/connectors/app.orckai/orckai/badges/score.svg)](https://glama.ai/mcp/connectors/app.orckai/orckai)
+  🔑 - Use your company's Orckai assistants, agents, workflows and knowledge bases: ask, search, run and track.
 - [Pally](https://pally.com/mcp) `https://agent.pally.com/mcp`
   [![Pally MCP connector](https://glama.ai/mcp/connectors/com.pally/pally/badges/score.svg)](https://glama.ai/mcp/connectors/com.pally/pally)
   🔐 - AI personal assistant you text: manage inbox, calendar, tasks and follow-ups over iMessage, WhatsApp and Telegram.
