@@ -736,6 +736,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MyOTP.App](https://myotp.app/mcp/) `https://mcp.myotp.app/mcp`
   [![MyOTP.App MCP connector](https://glama.ai/mcp/connectors/io.github.brntech/myotp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brntech/myotp)
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
+- [OsmO Phone Calls](https://getosmo.app/for-my-ai) `https://api.getosmo.app/mcp`
+  [![OsmO Phone Calls MCP connector](https://glama.ai/mcp/connectors/app.getosmo/phone-calls/badges/score.svg)](https://glama.ai/mcp/connectors/app.getosmo/phone-calls)
+  🔐 - Place real phone calls to businesses and helplines, then read the summary and transcript.
 - [Pachca](https://dev.pachca.com/guides/mcp/overview) `https://mcp.pachca.com/mcp`
   [![Pachca MCP connector](https://glama.ai/mcp/connectors/com.pachca/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pachca/mcp)
   🔐 - Read, search and post in Pachca team chat, and work with threads, reminders, employees and bots within your permissions.
