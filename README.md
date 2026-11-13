@@ -3082,7 +3082,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
 - [Loop](https://loopmarket.ing/guides/ad-accounts-mcp?src=mcp-dir) `https://loopmarket.ing/api/mcp`
   [![Loop MCP connector](https://glama.ai/mcp/connectors/ing.loopmarket/loop/badges/score.svg)](https://glama.ai/mcp/connectors/ing.loopmarket/loop)
-  🔑 - Apple, Google, Meta and TikTok app campaigns: spend, installs and CPI, plus drafts a person approves before launch.
+  🔓 - Apple, Google, Meta and TikTok app campaigns: spend, installs and CPI, plus drafts a person approves before launch. Account tools take a free API key.
 - [Mador](https://mador.ai) `https://mador.ai/api/mcp`
   [![Mador MCP connector](https://glama.ai/mcp/connectors/ai.mador/mador/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mador/mador)
   🔐 - Read-only access to a Mador account: how often AI assistants name a business, and who else they name.
