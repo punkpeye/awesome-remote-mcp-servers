@@ -254,8 +254,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolYour](https://www.toolyour.com/developers/mcp) `https://api.toolyour.com/mcp`
   [![ToolYour MCP connector](https://glama.ai/mcp/connectors/com.toolyour.api/tool-your-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolyour.api/tool-your-mcp-server)
   🔑 - Plan, run, and verify SEO, security, and ship-gate checks for AI agents on one API key.
-- [TopxAI Models](https://ai.topxea.com/mcp) `https://ai.topxea.com/mcp/models`
-  [![TopxAI Models MCP connector](https://glama.ai/mcp/connectors/com.topxea.ai/models/badges/score.svg)](https://glama.ai/mcp/connectors/com.topxea.ai/models)
+- [TopxAI Models](https://api.topxai.xyz/mcp) `https://api.topxai.xyz/mcp/models`
+  [![TopxAI Models MCP connector](https://glama.ai/mcp/connectors/xyz.topxai.api/models/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.topxai.api/models)
   🔑 - Ask Claude, GPT, Grok, GLM, Kimi or DeepSeek from your client at token price plus a $0.001 call fee.
 - [Trades With AI + SaaS Price Watch](https://tradeswithai.com/agents/) `https://tradeswithai.com/mcp`
   [![Trades With AI + SaaS Price Watch MCP connector](https://glama.ai/mcp/connectors/com.tradeswithai/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradeswithai/directory)
