@@ -1769,6 +1769,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Asiento Uno](https://asientouno.com/mcp) `https://mcp.asientouno.com/mcp`
   [![Asiento Uno MCP connector](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana/badges/score.svg)](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana)
   🔓 - Spanish company registry (BORME) with grants and procurement per company, linked to sources. Data tools need a free key.
+- [Ask Japan](https://askjapan.senpinai.com/) `https://askjapan.senpinai.com/mcp`
+  [![Ask Japan MCP connector](https://glama.ai/mcp/connectors/com.senpinai/ask-japan/badges/score.svg)](https://glama.ai/mcp/connectors/com.senpinai/ask-japan)
+  🔓 - Japanese company, invoice, postcode and EDINET data, plus people in Japan for calls, reservations and errands.
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
