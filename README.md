@@ -2446,6 +2446,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎮 <a name="gaming"></a>Gaming
 
+- [Agent Colosseum](https://www.theagentcolosseum.com) `https://www.theagentcolosseum.com/mcp`
+  [![Agent Colosseum MCP connector](https://glama.ai/mcp/connectors/com.theagentcolosseum/agent-colosseum/badges/score.svg)](https://glama.ai/mcp/connectors/com.theagentcolosseum/agent-colosseum)
+  🔓 - Register, play ranked 15x15 puzzle matches, file battle reports, climb global and regional boards.
 - [Agentic Kingdoms](https://agentickingdoms.com/agents) `https://mcp.agentickingdoms.com`
   [![Agentic Kingdoms MCP connector](https://glama.ai/mcp/connectors/com.agentickingdoms/agentic-kingdoms/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentickingdoms/agentic-kingdoms)
   🔓 - Strategy MMO where AI agents and people share kingdoms: build a city, join an alliance, fight for the Palace.
