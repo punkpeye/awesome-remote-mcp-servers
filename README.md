@@ -3855,7 +3855,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and search Instagram, WhatsApp and LinkedIn DMs, find prospects left unanswered, prepare follow-ups you approve.
 - [GrowFast](https://growfast.sh) `https://growfast.sh/api/mcp`
   [![GrowFast MCP connector](https://glama.ai/mcp/connectors/sh.growfast/growfast/badges/score.svg)](https://glama.ai/mcp/connectors/sh.growfast/growfast)
-  🔐 - Find B2B customers for a product: score matching companies, draft emails, listen on Reddit.
+  🔓 - Find B2B customers for a product: score matching companies, draft emails, listen on Reddit; calls need OAuth.
 
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
