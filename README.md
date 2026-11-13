@@ -5037,6 +5037,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [Impulse](https://www.impulse-interactive.com/product/mcp-server) `https://mcp.impul.co/mcp`
+  [![Impulse MCP connector](https://glama.ai/mcp/connectors/com.impulse-interactive/impulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.impulse-interactive/impulse)
+  🔐 - Run events by asking AI: create events, registration pages, emails, guest lists, and check-in.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
