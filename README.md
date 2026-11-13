@@ -652,6 +652,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shipvela](https://shipvela.com) `https://shipvela.com/mcp`
   [![Shipvela MCP connector](https://glama.ai/mcp/connectors/com.shipvela/shipvela/badges/score.svg)](https://glama.ai/mcp/connectors/com.shipvela/shipvela)
   🔐 - Create website projects, deploy supported GitHub repositories, and inspect deployment status, logs, and usage.
+- [Spaicely](https://spaicely.com/en-gb/) `https://mcp.spaicely.com/mcp`
+  [![Spaicely MCP connector](https://glama.ai/mcp/connectors/com.spaicely/spaicely/badges/score.svg)](https://glama.ai/mcp/connectors/com.spaicely/spaicely)
+  🔐 - Find and register domains, host static sites in the EU on your own domain, and manage DNS, forms, shop and mail.
 - [spawnpoint](https://getspawnpoint.com) `https://app.getspawnpoint.com/mcp`
   [![spawnpoint MCP connector](https://glama.ai/mcp/connectors/com.getspawnpoint/spawnpoint/badges/score.svg)](https://glama.ai/mcp/connectors/com.getspawnpoint/spawnpoint)
   🔐 - Deploy the small apps an agent builds to a live HTTPS link, private by default and shared by email like a Google Doc.
