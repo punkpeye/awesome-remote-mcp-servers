@@ -3705,6 +3705,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
+- [TodoHub](https://todohub.work) `https://todohub.work/mcp`
+  [![TodoHub MCP connector](https://glama.ai/mcp/connectors/work.todohub/todo-hub/badges/score.svg)](https://glama.ai/mcp/connectors/work.todohub/todo-hub)
+  🔐 - Create, change and move tasks, projects and comments in a free task manager for teams with AI.
 - [TrackingTime](https://trackingtime.co) `https://mcp.trackingtime.co/mcp`
   [![TrackingTime MCP connector](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server)
   🔐 - Start and stop timers, log time and report on hours, projects, tasks and customers.
