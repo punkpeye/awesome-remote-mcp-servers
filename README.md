@@ -2530,6 +2530,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
+- [Exercise Images](https://exerciseimages.com/developers?ref=awesome-remote) `https://mcp.exerciseimages.com/mcp`
+  [![Exercise Images MCP connector](https://glama.ai/mcp/connectors/com.exerciseimages/exercise-images/badges/score.svg)](https://glama.ai/mcp/connectors/com.exerciseimages/exercise-images)
+  🔓 - 1,014 exercise line drawings: find an exercise, list by body part or equipment, show a workout as a card.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
