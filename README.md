@@ -4373,6 +4373,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Front Sentinel](https://frontsentinel.com/mcp) `https://frontsentinel.com/mcp`
   [![Front Sentinel MCP connector](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security/badges/score.svg)](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security)
   🔓 - Read-only dApp and website domain checks: registrar and registry locks, DNSSEC, CAA, SRI, SEAL DNS & Registrar controls.
+- [Habits Guard](https://habits.darmousseh.com) `https://habits.darmousseh.com/mcp`
+  [![Habits Guard MCP connector](https://glama.ai/mcp/connectors/com.darmousseh/habits-guard/badges/score.svg)](https://glama.ai/mcp/connectors/com.darmousseh/habits-guard)
+  🔓 - Flags prompt injections in user prompts; keyless checks, or a free key for a guard that learns from your labels.
 - [HallucC](https://aihcc.cloud) `https://aihcc.cloud/mcp`
   [![HallucC MCP connector](https://glama.ai/mcp/connectors/io.github.fredyee/hallucc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fredyee/hallucc)
   🔓 - Claim-by-claim AI hallucination detection with sources, agent trajectory verification, and prompt-injection guard.
