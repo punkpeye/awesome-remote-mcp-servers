@@ -4367,6 +4367,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
   [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
   🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
+- [Enoki](https://enokilabs.ai) `https://mcp.enokilabs.ai/mcp`
+  [![Enoki MCP connector](https://glama.ai/mcp/connectors/ai.enokilabs/enoki/badges/score.svg)](https://glama.ai/mcp/connectors/ai.enokilabs/enoki)
+  🔐 - Test your AI agents and MCP servers for security and safety weaknesses, and re-verify the fixes.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
