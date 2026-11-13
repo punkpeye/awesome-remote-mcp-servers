@@ -4459,6 +4459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScreenSeal](https://apify.com/wthall05/screenseal-screen) `https://screenseal-mcp.agent-tollbooth.workers.dev/mcp`
   [![ScreenSeal MCP connector](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp)
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
+- [SealGuard](https://guard.2cstudio.app/docs/mcp) `https://guard.2cstudio.app/mcp`
+  [![SealGuard MCP connector](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/sealguard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/sealguard)
+  🔓 - Check any Solana wallet for risky approvals and scam tokens, find SOL locked in empty accounts, and check a transaction before signing (that tool needs an API key). Read-only.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
