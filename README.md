@@ -2971,6 +2971,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CiteLadder](https://citeladder.com) `https://api.citeladder.com/mcp`
   [![CiteLadder MCP connector](https://glama.ai/mcp/connectors/com.citeladder/citeladder/badges/score.svg)](https://glama.ai/mcp/connectors/com.citeladder/citeladder)
   🔐 - Track how ChatGPT, Gemini and Claude answer buyer questions, which brands they name and sources cited.
+- [Click Decay](https://clickdecay.com/mcp-server/) `https://clickdecay.com/mcp`
+  [![Click Decay MCP connector](https://glama.ai/mcp/connectors/com.clickdecay/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.clickdecay/mcp-server)
+  🔓 - Compare Google Search Console CTR between periods, split click changes and flag known GSC reporting issues.
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
