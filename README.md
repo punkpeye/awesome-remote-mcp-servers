@@ -1372,6 +1372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [3Descu](https://quote.3descu.com/) `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp`
   [![3Descu MCP connector](https://glama.ai/mcp/connectors/io.github.cadi27tech/3descu-quote/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cadi27tech/3descu-quote)
   🔓 - Quote FDM and SLA 3D printing from an ISO 9001:2015 certified EU factory; measures public STL or OBJ links.
+- [4OVER4](https://www.4over4.com/ai-agents) `https://www.4over4.com/appsapi/mcp`
+  [![4OVER4 Custom Printing MCP connector](https://glama.ai/mcp/connectors/com.4over4/4over4-custom-printing/badges/score.svg)](https://glama.ai/mcp/connectors/com.4over4/4over4-custom-printing)
+  🔐 - Find and price custom printing live, get delivery estimates, track your own orders and order on www.4over4.com.
 - [10ML Perfume Finder](https://10ml.com) `https://mcp.10ml.com/mcp`
   [![10ML Perfume Finder MCP connector](https://glama.ai/mcp/connectors/com.10ml/perfume-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.10ml/perfume-finder)
   🔓 - The 10ML Fragrance Index for AI assistants: perfume notes, accords, families, similar scents and expert guides.
