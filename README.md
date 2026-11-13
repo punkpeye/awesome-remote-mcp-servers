@@ -1429,6 +1429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ESEO](https://eseo.su/developers) `https://eseo.su/api/mcp`
   [![ESEO MCP connector](https://glama.ai/mcp/connectors/su.eseo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/su.eseo/mcp)
   🔓 - SEO score, limits check and AI generation of product cards for Wildberries, Ozon and Yandex Market.
+- [Feed Audit](https://feed-al6bxcngia-ue.a.run.app) `https://feed-al6bxcngia-ue.a.run.app/mcp`
+  [![Feed Audit MCP connector](https://glama.ai/mcp/connectors/io.github.theharrisontruong-web/feed-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theharrisontruong-web/feed-audit)
+  🔓 - Audits a product feed (XML/CSV/JSON) for Google Shopping disapproval errors; $1.00/call via x402 plus a free lite tier.
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
