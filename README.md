@@ -545,6 +545,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
   🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
 
+- [Browz](https://gobrowz.com/docs/ai-agents) `https://mcp.gobrowz.com/mcp`
+  [![Browz MCP connector](https://glama.ai/mcp/connectors/com.gobrowz.mcp/browz/badges/score.svg)](https://glama.ai/mcp/connectors/com.gobrowz.mcp/browz)
+  🔐 - Drive your own isolated, fingerprint-protected Browz browser profiles: tabs, navigate, snapshot, act and screenshot.
+
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
