@@ -3633,6 +3633,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [x402 Preflight](https://x402.chikocorp.com) `https://x402.chikocorp.com/mcp`
   [![x402 Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight)
   🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
+- [ZERO Payment Guard](https://zero-payment-guard.worker.beacon.host) `https://zero-payment-guard.worker.beacon.host/mcp`
+  [![ZERO Payment Guard MCP connector](https://glama.ai/mcp/connectors/host.beacon.worker.zero-payment-guard/payment-guard/badges/score.svg)](https://glama.ai/mcp/connectors/host.beacon.worker.zero-payment-guard/payment-guard)
+  🔓 - Checks x402 endpoints, Base USDC payments, tokens and wallets before an agent pays; tools cost USDC per call via x402.
 
 ### 📋 <a name="project-management"></a>Project Management
 
