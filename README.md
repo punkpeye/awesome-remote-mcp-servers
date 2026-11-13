@@ -4743,6 +4743,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌍 <a name="translation--localization"></a>Translation & Localization
 
+- [bitg](https://bitg.uz/ai/) `https://bitg.uz/mcp`
+  🔓 - Convert Uzbek text from old Latin or Cyrillic to the new 2026 Uzbek Latin alphabet (Ö Ğ Ş Ç) and back; rule-based, keeps English words and links.
 - [eVerbary](https://www.everbary.com/integrations/ai-assistants) `https://orders.everbary.com/mcp`
   [![eVerbary MCP connector](https://glama.ai/mcp/connectors/com.everbary.www/orders/badges/score.svg)](https://glama.ai/mcp/connectors/com.everbary.www/orders)
   🔐 - Quote, order, pay for and track certified translations of official documents for USCIS, courts and universities.
