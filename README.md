@@ -2785,6 +2785,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Agents buy what search can't find: measured knowledge and data its sellers hold the rights to, paid via x402.
 
 ### ⚖️ <a name="legal"></a>Legal
+- [A11y Audit](https://a11y-al6bxcngia-ue.a.run.app) `https://a11y-al6bxcngia-ue.a.run.app/mcp`
+  🔓 - Scans any URL for the WCAG failures behind ADA lawsuits, with a risk score; $1.50/call via x402 plus a free lite tier.
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
   🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
