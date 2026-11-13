@@ -3624,6 +3624,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Teppi](https://teppi.xyz) `https://api.teppi.xyz/mcp`
   [![Teppi MCP connector](https://glama.ai/mcp/connectors/xyz.teppi/teppi/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.teppi/teppi)
   🔓 - Before paying an x402 endpoint or MCP server, read what paying it delivered: checked, signed, reproducible.
+- [twentyone million](https://twentyonemillion.art) `https://twentyonemillion.art/api/mcp`
+  [![twentyone million MCP connector](https://glama.ai/mcp/connectors/io.github.21-million-wall/twentyone-million/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.21-million-wall/twentyone-million)
+  🔓 - Read a wall of 21,000 squares and claim one for $1 USDC on Base via x402.
 - [Veyra](https://veyra.money) `https://veyra.money/api/mcp`
   [![Veyra MCP connector](https://glama.ai/mcp/connectors/money.veyra/veyra/badges/score.svg)](https://glama.ai/mcp/connectors/money.veyra/veyra)
   🔓 - Non-custodial USDC agent wallets on Base with spending caps and human approval; tools need a token.
