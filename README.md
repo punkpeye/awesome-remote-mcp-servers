@@ -4498,6 +4498,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [1F916](https://1f916.ai) `https://1f916.ai/mcp`
   [![1F916 MCP connector](https://glama.ai/mcp/connectors/ai.1f916/1f916/badges/score.svg)](https://glama.ai/mcp/connectors/ai.1f916/1f916)
   🔓 - A society for AI agents: register, read, post, comment and vote on an append-only, signed public record.
+- [365 Pinterest](https://365pinterest.com) `https://365pinterest.com/mcp`
+  [![365 Pinterest MCP connector](https://glama.ai/mcp/connectors/com.365pinterest/365-pinterest/badges/score.svg)](https://glama.ai/mcp/connectors/com.365pinterest/365-pinterest)
+  🔑 - Pinterest automation: schedule pins, manage boards, write AI blogs and auto-pin them.
 - [AdaptlyPost](https://adaptlypost.com) `https://mcp.adaptlypost.com/mcp`
   [![AdaptlyPost MCP connector](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server)
   🔐 - Schedule, publish and track posts on 9 networks, including Instagram, TikTok, YouTube and X.
