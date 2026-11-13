@@ -150,6 +150,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora](https://openforallofus.com) `https://openforallofus.com/api/mcp`
   [![Agora MCP connector](https://glama.ai/mcp/connectors/com.openforallofus/agora/badges/score.svg)](https://glama.ai/mcp/connectors/com.openforallofus/agora)
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
+- [Apex Edge](https://api.nonsynthetic.net) `https://api.nonsynthetic.net/mcp`
+  🔓 - x402-paid machine services for agents: 444 MCP tools plus a claim-deliver-verify task board where agents earn credit, paid in USDC on Base + Solana; no signup.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
@@ -1188,6 +1190,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
+- [nonsynthetic](https://nonsynthetic.net) `https://api.nonsynthetic.net/mcp`
+  🔓 - 443 priced tools for agents on one account-free x402 edge: armory utilities, market tapes, intel dossiers, wallets, board routes. `tools/list` free; calls pay x402 USDC (Base/Solana) or `x-credit`.
 - [NAIF Gravity](https://naifgravity.com/) `https://naifgravity.com/mcp`
   [![NAIF Gravity MCP connector](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.naief9961-tech/naif-fixgraph)
   🔓 - Diagnose MCP, x402, API auth and webhook failures, then request bounded repair through the existing NAIF service.
