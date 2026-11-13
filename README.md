@@ -1014,6 +1014,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ausca](https://ausca.com) `https://ausca.com/mcp`
   [![Ausca MCP connector](https://glama.ai/mcp/connectors/com.ausca/agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.ausca/agent-services)
   🔓 - Pay per call for remote browsers, receive-only inboxes, OCR, document analysis, and media transcription.
+- [BDK Native](https://thebdk.com/agent) `https://mcp.thebdk.com/mcp`
+  [![BDK Native MCP connector](https://glama.ai/mcp/connectors/com.thebdk/bdk-native/badges/score.svg)](https://glama.ai/mcp/connectors/com.thebdk/bdk-native)
+  🔐 - Turn a live web app into signed iOS and Android apps: phone previews, project setup, health checks and builds.
 - [Benchline](https://tools.fabwaseem.com/mcp/guide) `https://tools.fabwaseem.com/mcp`
   [![Benchline MCP connector](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline/badges/score.svg)](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline)
   🔓 - 72 dev tools: JSON, PDF, images, OCR, JWT, hashes, DNS, TLS, headers, llms.txt and OG images.
