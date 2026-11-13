@@ -4908,6 +4908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
   🔓 - Live flight, hotel and seat prices, cheapest-day calendars, and price-drop and seat alerts.
+- [Swell Cabin](https://swellcabin.com/mcp) `https://swellcabin.com/api/mcp`
+  [![Swell Cabin MCP connector](https://glama.ai/mcp/connectors/com.swellcabin/surf/badges/score.svg)](https://glama.ai/mcp/connectors/com.swellcabin/surf)
+  🔓 - Surf trip planner: surf towns and spots worldwide, a 7-day forecast rated per spot, live cams, wave pools and stays.
 - [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
   [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
   🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
