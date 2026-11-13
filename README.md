@@ -2395,6 +2395,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
   🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
+- [Edamam](https://www.edamam.com/) `https://mcp.edamam.com/mcp/food`
+  [![Edamam MCP connector](https://glama.ai/mcp/connectors/com.edamam.mcp/edamam/badges/score.svg)](https://glama.ai/mcp/connectors/com.edamam.mcp/edamam)
+  🔑 - Nutrition lookup by text, barcode, or image across Edamam’s 1M+ foods, returning deterministic macros, micronutrients, allergens, and lifestyle diet tags.
 - [FeedMyCart](https://feedmycart.com/en/claude-chatgpt/) `https://www.feedmycart.nl/boodschappen/api/v1/mcp`
   [![FeedMyCart MCP connector](https://glama.ai/mcp/connectors/nl.feedmycart/feedmycart/badges/score.svg)](https://glama.ai/mcp/connectors/nl.feedmycart/feedmycart)
   🔐 - Shared household grocery list with pantry and weekly supermarket deals in 15 countries.
