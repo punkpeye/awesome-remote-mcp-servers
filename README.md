@@ -3136,6 +3136,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Postbox Services Email Tools](https://postboxservices.com/mcp/) `https://mcp.postboxservices.com/mcp`
   [![Postbox Services MCP connector](https://glama.ai/mcp/connectors/com.postboxservices/postbox-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.postboxservices/postbox-tools)
   🔓 - Live email checks: 24 blacklists, spoofing/BEC grade, URL redirect tracing, full email spam tests, domain age and WHOIS.
+- [Pronova Site Audit](https://audit.pronovatx.com) `https://audit.pronovatx.com/mcp`
+  [![Pronova Site Audit MCP connector](https://glama.ai/mcp/connectors/com.pronovatx/site-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.pronovatx/site-audit)
+  🔓 - Free audit of any public URL: technical SEO, Core Web Vitals from Google PageSpeed, and indexing checks.
 - [Proxy](https://useproxy.dev) `https://mcp.useproxy.dev/mcp`
   [![Proxy MCP connector](https://glama.ai/mcp/connectors/dev.useproxy/proxy/badges/score.svg)](https://glama.ai/mcp/connectors/dev.useproxy/proxy)
   🔐 - Search Meta, Google, LinkedIn and TikTok ad libraries for competitor ads, creatives and transcripts.
