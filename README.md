@@ -4334,6 +4334,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
+- [CORDON](https://blvkware.dev/cordon/) `https://cordon.blvkware.dev/mcp`
+  [![CORDON MCP connector](https://glama.ai/mcp/connectors/dev.blvkware/cordon/badges/score.svg)](https://glama.ai/mcp/connectors/dev.blvkware/cordon)
+  🔓 - Reads a web page as clean markdown with hidden text removed and injection flagged; 50 free units/day, then x402.
 - [CrawlCheck](https://crawlcheck.io/for-agents) `https://crawlcheck.io/mcp`
   [![CrawlCheck MCP connector](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck)
   🔓 - A signed answer about any site before an agent acts: policy, what crawlers were served, findings, a decision per action.
