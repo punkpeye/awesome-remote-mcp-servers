@@ -5091,6 +5091,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuillHub](https://quillhub.ai/en/help/mcp-claude-cursor) `https://mcp.quillhub.ai/mcp`
   [![QuillHub MCP connector](https://glama.ai/mcp/connectors/ai.quillhub/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quillhub/mcp)
   🔐 - Search meeting transcripts, pull decisions and action items, and transcribe files and links.
+- [Quokka Korea Tools](https://mcp.thequokkacompany.com) `https://mcp.thequokkacompany.com/korea`
+  [![Quokka Korea Tools MCP connector](https://glama.ai/mcp/connectors/com.thequokkacompany/korea-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.thequokkacompany/korea-tools)
+  🔓 - Korean public holidays, business days and Civil Act deadlines, won amounts in Korean words, lunar dates and NEIS bytes.
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
