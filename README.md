@@ -4253,6 +4253,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Daily AI infrastructure data for agents: LLM API prices, GPU rental, self-hosting costs, cloud agents and AI funding.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
+- [TeamedUp Intelligence](https://intelligence.teamedupchina.com) `https://intelligence.teamedupchina.com/api/v1/mcp`
+  [![TeamedUp Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.bp46/teamedup-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bp46/teamedup-intelligence-mcp)
+  🔑 - China & APAC compensation benchmarks (319k+ postings), China statutory employer cost (五险一金), cross-city arbitrage, and employer intelligence.
 - [TerraLab MCP](https://terra-lab.ai/mcp) `https://mcp.terra-lab.ai/mcp`
   [![TerraLab MCP connector](https://glama.ai/mcp/connectors/ai.terra-lab/terralab/badges/score.svg)](https://glama.ai/mcp/connectors/ai.terra-lab/terralab)
   🔓 - Extract open map data, convert GIS files and coordinates, and retrieve elevation and French cadastral parcels.
