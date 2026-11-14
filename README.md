@@ -621,6 +621,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish a live website from an agent in one tool call, expiring or permanent, with human review hooks.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Hundredth Run GPU Cloud Prices](https://hundredthrun-compute-desk.pages.dev/open-data) `https://hundredthrun-compute-desk.pages.dev/mcp`
+  [![Hundredth Run GPU Cloud Prices MCP connector](https://glama.ai/mcp/connectors/dev.pages.hundredthrun-compute-desk/hundredth-run-gpu-cloud-prices/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.hundredthrun-compute-desk/hundredth-run-gpu-cloud-prices)
+  🔓 - Cheapest cloud rental price per GPU model, plus per-provider price tables, refreshed daily from public pricing.
 - [Lium](https://docs.lium.io/developers/mcp) `https://docs.lium.io/mcp`
   [![Lium MCP connector](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs)
   🔓 - Search and read the docs of Lium, a GPU rental marketplace: rent GPU pods by the second via CLI, SDK or REST API.
