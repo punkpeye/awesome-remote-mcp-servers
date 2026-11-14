@@ -1601,6 +1601,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ampworth](https://ampworth.com/developers) `https://ampworth.com/mcp`
   [![Ampworth MCP connector](https://glama.ai/mcp/connectors/com.ampworth/ampworth/badges/score.svg)](https://glama.ai/mcp/connectors/com.ampworth/ampworth)
   🔓 - UK solar PV and heat pump calculators that follow the MCS standards and show their working, plus guides.
+- [Biohotspot](https://biohotspot.ai4wa.com/tools/marine-data-gis-api) `https://biohotspot.ai4wa.com/mcp`
+  [![Biohotspot MCP connector](https://glama.ai/mcp/connectors/io.github.PascalSun/biohotspot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PascalSun/biohotspot)
+  🔐 - Ocean data for any coast or sea, Australian marine park facts and Marxan reserve design.
 - [Boncourant](https://boncourant.fr/agents?utm_source=awesome_mcp&utm_medium=directory&utm_campaign=fr_geo_launch) `https://boncourant.fr/mcp`
   [![Boncourant MCP connector](https://glama.ai/mcp/connectors/fr.boncourant/boncourant/badges/score.svg)](https://glama.ai/mcp/connectors/fr.boncourant/boncourant)
   🔓 - French electricity bill and contract audits, tariff and subscribed-power checks, with versioned, cited methods.
