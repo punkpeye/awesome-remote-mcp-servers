@@ -3940,6 +3940,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [RxAtlas](https://rxatlas.dev) `https://api.rxatlas.dev/mcp`
+  [![RxAtlas MCP connector](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/rxatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/rxatlas)
+  🔓 - Normalized drug records from openFDA, DailyMed and RxNorm, with per-field provenance.
+- [TrialBase](https://trialbase-db.org) `https://api.trialbase-db.org/mcp`
+  [![TrialBase MCP connector](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/trialbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/trialbase)
+  🔓 - Clinical trials from ISRCTN, ClinicalTrials.gov and CTIS in one schema, with registry licences.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
@@ -4201,6 +4207,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Recall Kitchen](https://recallkitchen.com/docs) `https://app.recallkitchen.com/mcp`
   [![Recall Kitchen MCP connector](https://glama.ai/mcp/connectors/com.recallkitchen.app/recall-kitchen/badges/score.svg)](https://glama.ai/mcp/connectors/com.recallkitchen.app/recall-kitchen)
   🔓 - Search US and Canadian government recall notices by keyword, UPC, product name, make and model, or photo.
+- [RecallRadar](https://recallradar.dev) `https://api.recallradar.dev/mcp`
+  [![RecallRadar MCP connector](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/recallradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/recallradar)
+  🔓 - Recalls from CPSC, EU Safety Gate, RappelConso, Health Canada, OPSS, ACCC, BSMI and Tukes.
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
@@ -4775,6 +4784,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights via Israeli travel app Alice, with English and Hebrew results.
+- [Apex](https://apex-db.org) `https://mcp.apex-db.org/mcp`
+  [![Apex MCP connector](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/apex-db/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vanja-ivancevic/apex-db)
+  🔓 - EU and Israel vehicle specs with per-field provenance; keyless sample calls, full catalogue paid.
 - [Arclight Events](https://arclight.events/mcp) `https://arclight.events/api/mcp`
   [![Arclight Events MCP connector](https://glama.ai/mcp/connectors/events.arclight/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/events.arclight/mcp)
   🔓 - Upcoming events in 50 metros: AI and tech meetups, hackathons, conferences and concerts.
