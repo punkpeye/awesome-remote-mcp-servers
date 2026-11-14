@@ -214,7 +214,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search and price 480+ AI models, ask any of them, and generate images, video and speech on one prepaid balance.
 - [OpenAny](https://openany.si) `https://mcp.openany.si`
   [![OpenAny MCP connector](https://glama.ai/mcp/connectors/si.openany/openany/badges/score.svg)](https://glama.ai/mcp/connectors/si.openany/openany)
-  🔑 - Search 3,200+ APIs and 100+ models, inspect schemas and pricing, and run calls with one key.
+  🔑 - The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Browse free; pay per call.
 - [PayAPI Market](https://payapi.market) `https://payapi.market/mcp`
   [![PayAPI Market MCP connector](https://glama.ai/mcp/connectors/market.payapi/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/market.payapi/marketplace)
   🔓 - Search 358 live x402 APIs from 242 providers, then pay each call in USDC on Base with no API key or account.
