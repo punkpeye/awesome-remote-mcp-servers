@@ -708,7 +708,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
 - [Fezola](https://fezola.com) `https://api.fezola.com/mcp`
   [![Fezola MCP connector](https://glama.ai/mcp/connectors/com.fezola.app/fezola/badges/score.svg)](https://glama.ai/mcp/connectors/com.fezola.app/fezola)
-  🔐 - Google Ads, Microsoft Advertising and OpenAI Ads in Claude and ChatGPT, plus all your mailboxes, Google Chat, Telegram, Calendar and Notion: one multi-account connector, nothing to install.
+  🔐 - Google Ads, Microsoft Advertising and OpenAI Ads in Claude and ChatGPT, plus all your mailboxes, Google Chat, Telegram, Calendar, Notion, Search Console, Cloudflare and PostHog, with one shared Memory: one multi-account connector, nothing to install.
 - [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
   [![Fluxmail Cloud MCP connector](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud)
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
