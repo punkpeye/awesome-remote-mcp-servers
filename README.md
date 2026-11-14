@@ -3231,6 +3231,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SyncSignature Email Signatures MCP connector](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures/badges/score.svg)](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures)
   🔐 - Manage team email signatures: teammates, groups, templates, banner campaigns and click analytics.
 
+- [Tadaaah](https://tadaaah.io/connect-your-agent) `https://tadaaah.io/mcp`
+  [![Tadaaah MCP connector](https://glama.ai/mcp/connectors/io.tadaaah/tadaaah/badges/score.svg)](https://glama.ai/mcp/connectors/io.tadaaah/tadaaah)
+  🔐 - Does AI recommend a business? Asks Google AI Mode, ChatGPT and Claude who they name, plus SEO and GEO audits.
+
 - [The Profound Agency](https://theprofound.agency/mcp/) `https://theprofound.agency/api/mcp/`
   [![The Profound Agency MCP connector](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency/badges/score.svg)](https://glama.ai/mcp/connectors/agency.theprofound/the-profound-agency)
   🔓 - Search, price, and order press placements across 1,600+ publications; free AI-visibility audits.
