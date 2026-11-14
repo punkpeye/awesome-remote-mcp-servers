@@ -2654,7 +2654,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search signed scientific claims, methods, provenance, contradictions, retractions, and admission receipts.
 - [Harny](https://harny.ai) `https://mcp.harny.ai`
   [![Harny MCP connector](https://glama.ai/mcp/connectors/ai.harny/harness/badges/score.svg)](https://glama.ai/mcp/connectors/ai.harny/harness)
-  🔑 - Per-user memory, connected accounts, permitted actions and the action record for your agents.
+  🔓 - Per-user memory, connected accounts, permitted actions and the action record for your agents.
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
