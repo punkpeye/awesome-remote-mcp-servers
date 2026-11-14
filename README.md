@@ -2831,6 +2831,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lebanese Legislation](https://lebaneselegislation.com/ai/) `https://lebaneselegislation.com/mcp`
   [![Lebanese Legislation MCP connector](https://glama.ai/mcp/connectors/com.lebaneselegislation/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.lebaneselegislation/mcp)
   🔓 - Lebanese laws, articles, court rulings and Official Gazette issues since 1904, in Arabic and French, verbatim.
+- [LEX](https://legal.org.ua/mcp-dlia-yurystiv) `https://mcp.legal.org.ua/api/v2/mcp`
+  🔐 🔑 - Ukrainian law for AI agents: court decisions from the state register (ЄДРСР), legislation with historical editions, and company, debtor, sanctions and procurement registries.
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
