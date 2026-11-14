@@ -1425,7 +1425,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search ~5,500 Christian books (FR/EN), get prices, build a cart and get a secure checkout link.
 - [eno.vn](https://eno.vn/developers/mcp) `https://eno.vn/api/mcp`
   [![eno.vn MCP connector](https://glama.ai/mcp/connectors/vn.eno/partner-api/badges/score.svg)](https://glama.ai/mcp/connectors/vn.eno/partner-api)
-  🔐 - Run a shop on eno.vn, Vietnam's expat marketplace: listings, bulk catalogue sync, analytics and webhooks.
+  🔓 - Run a shop on eno.vn, Vietnam's expat marketplace: listings, catalogue sync, analytics; tool calls need OAuth sign-in.
 - [Epinu](https://epinu.ai) `https://api.epinu.ai/api/agent/mcp`
   [![Epinu MCP connector](https://glama.ai/mcp/connectors/ai.epinu/epinu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.epinu/epinu)
   🔓 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
