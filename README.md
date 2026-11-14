@@ -3264,6 +3264,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Wrendex](https://wrendex.com) `https://app.wrendex.com/mcp`
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
+- [zaDojo](https://zadojo.com) `https://app.zadojo.com/mcp`
+  [![zaDojo MCP connector](https://glama.ai/mcp/connectors/com.zadojo/seo-geo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.zadojo/seo-geo-mcp)
+  🔐 - Search Console and GA4 data, SERP, keyword research, rank tracking and AI visibility in ChatGPT and Gemini.
 - [Zebu Data - Customer Reviews](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-store-review-scraper,delicious_zebu/yelp-reviews-scraper,delicious_zebu/tripadvisor-review-collector,delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters,delicious_zebu/naver-shopping-reviews-scraper,delicious_zebu/coupang-reviews-scraper`
   [![Zebu Data - Customer Reviews MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews)
   🔐 - Reviews from Google Maps, Yelp, TripAdvisor, eBay, Naver and Coupang, with ratings and dates.
