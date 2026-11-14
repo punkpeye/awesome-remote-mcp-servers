@@ -3991,6 +3991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [Atlas by Aidenix](https://atlas.aidenix.com) `https://atlas.aidenix.com/mcp`
+  [![Atlas by Aidenix MCP connector](https://glama.ai/mcp/connectors/com.aidenix/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidenix/atlas)
+  🔐 - Find where real data lives: verified registries, APIs and datasets, with runnable recipes; your tools fetch the data.
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
