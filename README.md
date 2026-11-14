@@ -4233,7 +4233,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
-- [String Web Access](https://usestring.ai) `https://mcp.usestring.ai/v3/mcp`
+- [String Web Access](https://usestring.ai) `https://mcp.usestring.ai?login`
   [![String Web Access MCP connector score](https://glama.ai/mcp/connectors/ai.usestring/web-access/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usestring/web-access)
   🔐 - Search the web, fetch any URL and map a site as clean, LLM-ready Markdown.
 - [StudiePoint AI](https://studiepoint.ai) `https://studiepoint.ai/api/mcp`
