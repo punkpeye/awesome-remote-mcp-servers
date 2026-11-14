@@ -3895,6 +3895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FERS: structural finite-element analysis](https://ferscloud.com/mcp) `https://ferscloud.com/api/mcp`
   [![FERS: structural finite-element analysis MCP connector](https://glama.ai/mcp/connectors/com.ferscloud/fers/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferscloud/fers)
   🔐 - Builds and checks structural FE models (beams, frames, trusses, plates, Eurocode 3) that solve in your browser.
+- [GenesisCore Astrology](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/developers) `https://genesis-astro-guide-r2owtywexa-an.a.run.app/mcp`
+  [![GenesisCore Astrology MCP connector](https://glama.ai/mcp/connectors/io.github.AETHER-CORE1219/genesis-astro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AETHER-CORE1219/genesis-astro)
+  🔓 - Western and Vedic astrology math: planet signs, nakshatra, Ascendant/Lagna, retrograde and sign-ingress dates.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
