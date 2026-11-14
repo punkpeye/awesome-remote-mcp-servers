@@ -410,6 +410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
+- [DALFAST Studio](https://dalfast.studio/connect) `https://dalfast.studio/connect/mcp`
+  [![DALFAST Studio MCP connector](https://glama.ai/mcp/connectors/studio.dalfast/studio/badges/score.svg)](https://glama.ai/mcp/connectors/studio.dalfast/studio)
+  🔐 - Find templates with previews and make flyers, posts, cards and whole campaigns in your own brand, in every size.
 - [Delve to Life](https://delvetolife.com/ai/) `https://mcp.delvetolife.com/mcp`
   [![Delve to Life MCP connector](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life/badges/score.svg)](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life)
   🔓 - Dress codes explained, outfit formulas by occasion and weather, and clothing colour combinations.
