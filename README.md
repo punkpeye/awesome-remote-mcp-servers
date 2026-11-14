@@ -3693,6 +3693,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Assign coding tasks to Claude Code, Codex or OpenCode on your own infrastructure and get PRs back.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
+- [Nodeon](https://www.nodeon.app) `https://www.nodeon.app/api/mcp`
+  [![Nodeon MCP connector](https://glama.ai/mcp/connectors/io.github.taksix/nodeon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taksix/nodeon)
+  🔐 - Dependency-ordered task graph for coding agents: pull the next unblocked task, build it, mark it done.
 - [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
   [![Orbit MCP connector](https://glama.ai/mcp/connectors/io.github.Noveum/orbit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noveum/orbit)
   🔐 - Manage issues, projects, sprints, docs and files.
