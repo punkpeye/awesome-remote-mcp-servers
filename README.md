@@ -2406,7 +2406,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
 - [SpecStream](https://specstream.ai) `https://api.specstream.ai/mcp`
   [![SpecStream MCP connector](https://glama.ai/mcp/connectors/ai.specstream/specstream/badges/score.svg)](https://glama.ai/mcp/connectors/ai.specstream/specstream)
-  🔐 🔑 - Ask for a list in plain words and get only the matching rows from the live web, each with its source.
+  🔐 🔑 - Search the live web, read pages and get structured rows for a request in plain words, every value with its source.
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
