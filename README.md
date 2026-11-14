@@ -299,6 +299,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
+- [Escro](https://escro.ai) `https://api.escro.ai/mcp`
+  [![Escro MCP connector](https://glama.ai/mcp/connectors/ai.escro/escro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.escro/escro)
+  🔓 - Read Escro's USDC escrows on Solana, its bot directory and reputation built from on-chain history.
 - [Formstep](https://formstep.io) `https://api.formstep.io/api/mcp`
   [![Formstep MCP connector](https://glama.ai/mcp/connectors/io.github.formstep/formstep-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.formstep/formstep-mcp)
   🔐 - Collect verified customer information with one request: the customer confirms or corrects a branded, prefilled form.
