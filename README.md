@@ -4531,6 +4531,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DatePhotos.AI](https://datephotos.ai) `https://datephotos.ai/api/mcp`
   [![DatePhotos.AI MCP connector](https://glama.ai/mcp/connectors/ai.datephotos/datephotos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.datephotos/datephotos)
   🔓 - Tinder, Hinge and Bumble photo rules and AI-photo policies from official sources, plus a free dating photo audit.
+- [Feedqube](https://feedqube.com) `https://app.feedqube.com/api/mcp`
+  [![Feedqube MCP connector](https://glama.ai/mcp/connectors/com.feedqube/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.feedqube/mcp)
+  🔐 - Plan, draft and schedule posts on X, Instagram, LinkedIn, TikTok and 5 more networks, with approval before publishing.
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
