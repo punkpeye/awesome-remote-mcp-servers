@@ -4980,6 +4980,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Appty](https://getappty.com/developers) `https://getappty.com/api/mcp`
   [![Appty MCP connector](https://glama.ai/mcp/connectors/com.getappty/appty/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappty/appty)
   🔓 - Find open slots and booking links on any appty link; providers manage bookings and invoices by sign-in or API key.
+- [Armasourcing](https://armasourcing.com) `https://chatgpt.armasourcing.com/mcp`
+  [![Armasourcing MCP connector](https://glama.ai/mcp/connectors/com.armasourcing/hire-filipino-virtual-assistants/badges/score.svg)](https://glama.ai/mcp/connectors/com.armasourcing/hire-filipino-virtual-assistants)
+  🔓 - Check Filipino VA talent pool depth for a role, list supported roles, see hiring steps and terms, and book a call.
 - [Atako](https://docs.atako.ai/developers/mcp/overview) `https://api.atako.ai/mcp`
   [![Atako MCP connector](https://glama.ai/mcp/connectors/ai.atako/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atako/mcp)
   🔑 - Run your company's AI agents: chat, projects and kanban, files, integrations, email and webhooks.
