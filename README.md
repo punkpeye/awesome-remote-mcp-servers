@@ -3445,6 +3445,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Narrated 4K 60 fps films from a brief, realistic or animated, with every shot generated.
 - [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
   🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
+- [Kling AI (Global)](https://kling.ai/app/mcp/guide) `https://kling.ai/mcp/plugin`
+  [![Kling AI Global MCP connector](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai)
+  🔐 - Generate images and videos and check task status with paid personal credits.
 - [Kling AI MCP Server by useapi.net](https://useapi.net/docs/api-kling-v1/mcp) `https://api.useapi.net/v1/kling/mcp`
   [![Kling AI MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/kling/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/kling)
   🔐 - Kling 4.0, v3 and Omni video, avatars, lip-sync and images on your own Kling account. Not affiliated with Kuaishou.
