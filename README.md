@@ -4540,6 +4540,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [iForgot](https://iforgot.ai) `https://mcp.iforgot.ai/mcp`
+  [![iForgot MCP connector](https://glama.ai/mcp/connectors/ai.iforgot/iforgot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iforgot/iforgot)
+  🔐 - Search the posts you liked and saved on X, Instagram, TikTok, RedNote and Douyin.
 - [Ignix](https://ignix.social) `https://ignix.social/api/mcp`
   [![Ignix MCP connector](https://glama.ai/mcp/connectors/social.ignix/ignix/badges/score.svg)](https://glama.ai/mcp/connectors/social.ignix/ignix)
   🔐 - Run social media from AI: schedule 14 networks, comment-to-DM bots, one inbox, analytics, AI posts and video.
