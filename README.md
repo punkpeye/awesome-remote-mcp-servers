@@ -1907,6 +1907,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
+- [Equibles](https://equibles.com) `https://mcp.equibles.com/mcp`
+  [![Equibles MCP connector](https://glama.ai/mcp/connectors/io.github.daniel3303/equibles/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.daniel3303/equibles)
+  🔐 - US company fundamentals from SEC filings, filing text, earnings-call transcripts, 13F holdings and insider trades.
 
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
