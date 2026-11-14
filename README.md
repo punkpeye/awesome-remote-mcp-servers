@@ -959,6 +959,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
+- [ChartAnt](https://chartant.net) `https://chartant.net/mcp`
+  [![ChartAnt MCP connector](https://glama.ai/mcp/connectors/net.chartant/chart-ant/badges/score.svg)](https://glama.ai/mcp/connectors/net.chartant/chart-ant)
+  🔓 - Charts, diagrams and maps of every country as PNG links; charts can update at the same link.
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
