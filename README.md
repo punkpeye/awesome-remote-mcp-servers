@@ -2466,7 +2466,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search free indie browser games by genre, phone support or multiplayer, with a link to each game's page.
 - [gamecollecting.app](https://gamecollecting.app/ai) `https://gamecollecting.app/mcp`
   [![gamecollecting.app MCP connector](https://glama.ai/mcp/connectors/app.gamecollecting/price-guide/badges/score.svg)](https://glama.ai/mcp/connectors/app.gamecollecting/price-guide)
-  🔓 - Track and organize your collection with gamecollecting.app. The MCP gives AI assistants our accurate game price guides and valuations from our catalogue of over 100k games and 200k editions.
+  🔓 - Accurate price guides and valuations for over 100,000 games and 190,000 editions, from completed sales.
 - [Gamedev Tavern](https://entri.games/ai-agents?lang=en) `https://entri.games/mcp?src=awesome-mcp`
   [![Gamedev Tavern MCP connector](https://glama.ai/mcp/connectors/games.entri/gamedev-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/games.entri/gamedev-tavern)
   🔐 - Gamedev matchmaking: tell the Tavern about you and your studio, post quests and get people and studios that fit.
