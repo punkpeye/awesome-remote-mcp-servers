@@ -245,7 +245,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [toolgrep](https://toolgrep.com) `https://toolgrep.com/mcp`
   [![toolgrep MCP connector](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolgrep/toolgrep)
   🔓 - Search developer tools, APIs and MCP servers by need, with crawled pricing, free tier and API facts.
-- [Toolkien](https://toolkien.emadev.co) `https://toolkien.emadev.co/mcp`
+- [Toolkien](https://toolkien.dev) `https://toolkien.dev/mcp`
   [![Toolkien MCP connector](https://glama.ai/mcp/connectors/io.github.epavanello/toolkien/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.epavanello/toolkien)
   🔐 - One gateway for all your MCP servers: search tools, run TypeScript in a sandbox, with permissions and approvals.
 - [ToolRouter](https://toolrouter.com) `https://api.toolrouter.com/mcp`
