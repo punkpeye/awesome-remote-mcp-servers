@@ -4319,6 +4319,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticRail](https://agenticrail.nz/docs/) `https://mcp.agenticrail.nz/`
   [![AgenticRail MCP connector](https://glama.ai/mcp/connectors/nz.agenticrail/gate/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agenticrail/gate)
   🔓 - Gate for AI agent steps: ALLOW or DENY before a step runs, sealed into signed receipts that verify offline.
+- [Angel Agent Checks](https://angel.oroboros-design.com/tradesignal) `https://angel.oroboros-design.com/agenten/signal/mcp`
+  [![Angel Agent Checks MCP connector](https://glama.ai/mcp/connectors/com.oroboros-design.angel/tradesignal/badges/score.svg)](https://glama.ai/mcp/connectors/com.oroboros-design.angel/tradesignal)
+  🔓 - Prompt-injection scan, ERC-20 honeypot check and x402 preflight for agents, paid per call over x402.
 - [APIR Agent Verification](https://apir.ai/developers) `https://apir.ai/api/mcp`
   [![APIR Agent Verification MCP connector](https://glama.ai/mcp/connectors/ai.apir/verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.apir/verify)
   🔓 - Verify an AI agent's signed credential and the human mandate behind it; keys are public for offline checks.
