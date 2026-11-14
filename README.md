@@ -997,6 +997,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentTask Atlas](https://agenttaskatlas.com/mcp) `https://agenttaskatlas.com/api/mcp`
   [![AgentTask Atlas MCP connector](https://glama.ai/mcp/connectors/com.agenttaskatlas/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttaskatlas/catalog)
   🔓 - Search a curated catalog of MCP servers and Agent Skills by dev task, with install steps and practical verdicts.
+- [AI Apps That Work](https://aiappsthatwork.com/connect) `https://aiappsthatwork.com/mcp`
+  [![AI Apps That Work MCP connector](https://glama.ai/mcp/connectors/com.aiappsthatwork/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiappsthatwork/tools)
+  🔓 - Real cost per AI result, LLM prices, switch costs, shutdown dates, A/B test sizes and judge checks.
 - [AI Commander](https://aicommander.dev) `https://aicommander.dev/mcp`
   [![AI Commander MCP connector](https://glama.ai/mcp/connectors/dev.aicommander/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aicommander/mcp)
   🔐 - Remote shell and detached jobs on your machines — harness for Claude Code, Codex, ChatGPT, Cursor.
