@@ -2881,6 +2881,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
 
+- [AdChat](https://adchat.app) `https://mcp.adchat.app`
+  [![AdChat MCP connector](https://glama.ai/mcp/connectors/app.adchat/meta-ads/badges/score.svg)](https://glama.ai/mcp/connectors/app.adchat/meta-ads)
+  🔐 - Run Facebook, Instagram and Google ads by chat: reports, campaigns and ads, created paused, with a yes before any spend.
+
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
   🔐 - Find competitors' longest-running Meta and TikTok ads, scored by hook, angle and audience.
