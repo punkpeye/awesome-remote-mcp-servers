@@ -589,6 +589,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
 - [Cloudflare Bindings](https://developers.cloudflare.com/agents/model-context-protocol/) `https://bindings.mcp.cloudflare.com/mcp`
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
+- [CloudGPU](https://cloudgpu.app/docs/mcp) `https://cloudgpu.app/mcp`
+  [![CloudGPU MCP connector](https://glama.ai/mcp/connectors/io.github.cloudgpu-app/cloudgpu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cloudgpu-app/cloudgpu-mcp)
+  🔐 - Rent GPU instances or run GPU jobs, read logs and stop them, under a budgeted key with spend and idle limits.
 - [Control Plane](https://docs.controlplane.com/ai/mcp) `https://mcp.cpln.io/mcp`
   [![Control Plane MCP connector](https://glama.ai/mcp/connectors/io.cpln/control-plane/badges/score.svg)](https://glama.ai/mcp/connectors/io.cpln/control-plane)
   🔐 - Deploy and operate apps, databases, secrets, domains, and logs on Control Plane across AWS, GCP, and Azure.
