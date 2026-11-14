@@ -5037,6 +5037,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [HireSquire](https://hiresquireai.com/docs/agents) `https://hiresquireai.com/api/v1/mcp`
+  [![HireSquire MCP connector](https://glama.ai/mcp/connectors/com.hiresquireai/hire-squire-agent-ecosystem/badges/score.svg)](https://glama.ai/mcp/connectors/com.hiresquireai/hire-squire-agent-ecosystem)
+  🔑 - AI-powered candidate screening, resume scoring, bias audits (NYC LL144 / EEOC 4/5ths), outreach emails, and interview scheduling.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
