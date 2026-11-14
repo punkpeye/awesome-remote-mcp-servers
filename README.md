@@ -3258,6 +3258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Wall Marketing](https://www.wall.marketing/developers) `https://www.wall.marketing/mcp`
   [![Wall Marketing MCP connector](https://glama.ai/mcp/connectors/marketing.wall/platform/badges/score.svg)](https://glama.ai/mcp/connectors/marketing.wall/platform)
   🔐 - Book ad screens in bars, cafés and hostels with proof of display, or earn commission signing venues up as an ambassador.
+- [Warm Inbox](https://warminbox.org) `https://mcp.warminbox.org/mcp`
+  [![Warm Inbox MCP connector](https://glama.ai/mcp/connectors/org.warminbox/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.warminbox/mcp)
+  🔑 - Email warm-up for AI builders: check deliverability, connect mailboxes, pause or tune warm-ups.
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
