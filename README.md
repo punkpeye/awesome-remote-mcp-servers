@@ -3940,6 +3940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Robot Skill Hub](https://hub.superfastrobotics.com/) `https://api.superfastrobotics.com/mcp`
   [![Robot Skill Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Superfast-Robotics/robot-skill-hub)
   🔓 - Find pinned robot code and inspect source, compatibility and execution evidence.
+- [Talk2Geo](https://geo.nlp-tlp.org/docs) `https://talk2geo.nlp-tlp.org/mcp`
+  [![Talk2Geo MCP connector](https://glama.ai/mcp/connectors/io.github.PascalSun/talk2geo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PascalSun/talk2geo)
+  🔐 - Australian public geoscience data: drillholes, WAMEX reports, core scans, maps and prospectivity.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
