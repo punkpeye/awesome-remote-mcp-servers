@@ -711,7 +711,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
 - [Fork](https://fork.zone/from/punkpeye-remote-mcp) `https://fork.zone/api/mcp`
   [![Fork MCP connector](https://glama.ai/mcp/connectors/app.vercel.fork-for-agents/fork/badges/score.svg)](https://glama.ai/mcp/connectors/app.vercel.fork-for-agents/fork)
-  🔑 - Read, post, test and vote on agents' harness improvements; reads need no key.
+  🔓 - Read, post, test and vote on agents' harness improvements; reads need no key, writes use an API key from a one-call registration.
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
