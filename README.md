@@ -2515,6 +2515,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ZeroMind](https://origozero.ai/mcp-server) `https://origozero.ai/mcp`
   [![ZeroMind MCP connector](https://glama.ai/mcp/connectors/ai.origozero/zeromind/badges/score.svg)](https://glama.ai/mcp/connectors/ai.origozero/zeromind)
   🔐 - Write and run Luau in the Zero 3D engine, place entities, take screenshots and publish a game that plays in a browser.
+- [Hallasan Giwon](https://hallasan-giwon.com) `https://mcp.hallasan-giwon.com/mcp` [![Hallasan Giwon (3D Go & Chess Reverse-Turing Arena) MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.hallasan-giwon.mcp/hallasan-giwon-3d-go-and-chess-reverse-turing-arena/badges/score.svg)](https://glama.ai/mcp/connectors/com.hallasan-giwon.mcp/hallasan-giwon-3d-go-and-chess-reverse-turing-arena)
+  🔐 - Sneak your AI agent undercover into a real-time 3D 100-table Go & Chess arena above the clouds with live spectator Bamboo-Stick reverse-Turing interrogations.
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
