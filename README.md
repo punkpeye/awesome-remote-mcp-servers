@@ -2389,6 +2389,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ask.recipes](https://ask.recipes) `https://mcp.ask.recipes/mcp`
   [![ask.recipes MCP connector](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes/badges/score.svg)](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes)
   🔐 - Recipe search, ingredient matching, nutrition filters and a private cookbook for any AI agent.
+- [ChefBear](https://www.chef-bear.com) `https://chef-bear.com/api/menu-sharing/mcp`
+  [![ChefBear MCP connector](https://glama.ai/mcp/connectors/com.chef-bear/chefbear/badges/score.svg)](https://glama.ai/mcp/connectors/com.chef-bear/chefbear)
+  🔐 - Rank dishes from a photographed menu for your taste, keep a taste memory, and show a reference image of each dish.
 - [Cork & Curve](https://corkandcurve.com/agents/) `https://corkandcurve.com/mcp`
   [![Cork & Curve MCP connector](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel)
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
