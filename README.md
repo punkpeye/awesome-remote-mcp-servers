@@ -4446,7 +4446,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [PromptGuard](https://promptguard.co) `https://api.promptguard.co/mcp`
   [![PromptGuard MCP connector](https://glama.ai/mcp/connectors/co.promptguard/security/badges/score.svg)](https://glama.ai/mcp/connectors/co.promptguard/security)
-  🔐 - Scan prompts for injection and jailbreaks, redact PII, and read your PromptGuard security events, usage and policies.
+  🔓 - Find unprotected LLM calls in code with no account; sign in with OAuth to scan prompts, redact PII and read your events.
 - [Proofable](https://proofable.me) `https://mcp.proofable.me/mcp`
   [![Proofable MCP connector](https://glama.ai/mcp/connectors/io.github.proofable/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.proofable/mcp)
   🔓 - Agent identity, scoped access, and proof across tools. Check authority before an agent acts.
