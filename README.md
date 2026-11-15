@@ -1952,7 +1952,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare live home and auto insurance quotes from carriers' own sites.
 - [FranceStack Tax & Payroll](https://tax.francestack.fr) `https://tax.francestack.fr/mcp`
   [![FranceStack Tax & Payroll MCP connector](https://glama.ai/mcp/connectors/fr.francestack/tax-payroll/badges/score.svg)](https://glama.ai/mcp/connectors/fr.francestack/tax-payroll)
-  🔓 - French tax and payroll: income tax, gross-to-net salary, freelancer contributions, working days; $0.001-0.005 via x402.
+  🔓 - French tax and payroll: income tax, gross-to-net salary, freelancer contributions, working days, severance pay; $0.001-0.02 via x402.
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
