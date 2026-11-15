@@ -1507,6 +1507,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ScentVerdict MCP connector](https://glama.ai/mcp/connectors/com.scentverdict/fragrances/badges/score.svg)](https://glama.ai/mcp/connectors/com.scentverdict/fragrances)
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
+  [![Sense2 MCP connector](https://glama.ai/mcp/connectors/io.github.24seagull-beep/sense2-catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.24seagull-beep/sense2-catalogue)
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
