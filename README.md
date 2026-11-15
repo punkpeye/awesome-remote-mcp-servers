@@ -696,7 +696,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
 - [Callout](https://callout.jp/mcp) `https://mcp.callout.jp/mcp`
   [![Callout MCP connector](https://glama.ai/mcp/connectors/jp.callout/callout/badges/score.svg)](https://glama.ai/mcp/connectors/jp.callout/callout)
-  🔐 - Places real phone calls to businesses in Japan, the US and Canada, and returns the result and transcript.
+  🔓 - Places real phone calls to businesses in Japan, the US and Canada, and returns the result and transcript; calls need a Callout sign-in.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
