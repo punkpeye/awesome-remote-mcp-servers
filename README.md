@@ -3202,6 +3202,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shipfound](https://www.shipfound.co/) `https://api.shipfound.co/mcp`
   [![Shipfound MCP connector](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound/badges/score.svg)](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound)
   🔐 - Site fixes, content briefs, indexing, AI crawler tracking and AI visibility checks for Claude Code and Codex.
+- [ShipFunnels](https://shipfunnels.app) `https://shipfunnels.app/mcp`
+  [![ShipFunnels MCP connector](https://glama.ai/mcp/connectors/app.shipfunnels/shipfunnels/badges/score.svg)](https://glama.ai/mcp/connectors/app.shipfunnels/shipfunnels)
+  🔐 - Your AI agent builds sales funnels that ShipFunnels hosts with checkout, upsells, CRM, email and A/B tests.
+
 - [Signal by StackEnhance](https://stackenhance.com/signal) `https://mcp.stackenhance.com/mcp`
   [![Signal by StackEnhance MCP connector](https://glama.ai/mcp/connectors/com.stackenhance/signal/badges/score.svg)](https://glama.ai/mcp/connectors/com.stackenhance/signal)
   🔓 - How often Nordic and German e-commerce brands send marketing email: send counts, dates and the most active senders.
