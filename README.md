@@ -4604,7 +4604,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
 
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
-  🔓 - Scrape public social media profiles, posts, comments and transcripts, live on every request.
+  [![Social Fetch MCP connector](https://glama.ai/mcp/connectors/io.github.social-freak-ltd/socialfetch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.social-freak-ltd/socialfetch)
+  🔐 - Live public data from TikTok, Instagram, YouTube, X, LinkedIn, Reddit and more for AI agents.
 - [SocialDataX Instagram](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/instagram/mcp`
   [![SocialDataX Instagram MCP connector](https://glama.ai/mcp/connectors/com.52choujiang/instagram-insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.52choujiang/instagram-insights)
   🔓 - Search Instagram posts and creators, and read media details and comments; API key for tool calls.
