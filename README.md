@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nerdit](https://nerdit.ai/?utm_source=awesome-remote-mcp-servers) `https://mcp.nerdit.ai/mcp`
   [![Nerdit MCP connector](https://glama.ai/mcp/connectors/ai.nerdit/nerdit/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nerdit/nerdit)
   🔐 - Deploy apps, databases and local AI models to your own machines, read logs, set variables and share apps.
+- [NoctHost](https://nocthost.com/docs/mcp) `https://mcp.nocthost.com/mcp`
+  [![NoctHost MCP connector](https://glama.ai/mcp/connectors/com.nocthost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.nocthost/mcp)
+  🔐 - Deploy, price and destroy hourly servers on Vultr, DigitalOcean, Hetzner and Linode; top up with crypto or card.
 - [Pethost](https://pethost.dev) `https://mcp.pethost.dev/mcp`
   [![Pethost MCP connector](https://glama.ai/mcp/connectors/dev.pethost/pethost/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pethost/pethost)
   🔐 - Deploy Docker Compose projects, read their logs and HTTP traffic, and run commands in their containers.
