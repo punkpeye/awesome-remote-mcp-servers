@@ -994,6 +994,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentoolRank](https://agentoolrank.com/agents) `https://agentoolrank.com/api/mcp`
   [![AgentoolRank MCP connector](https://glama.ai/mcp/connectors/com.agentoolrank/agent-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentoolrank/agent-tools)
   🔓 - Search and compare open-source AI agent tools ranked by live GitHub activity, and list new ones.
+- [AgentsReady](https://agentsready.dev/mcp-server) `https://agentsready.dev/mcp`
+  [![AgentsReady MCP connector](https://glama.ai/mcp/connectors/dev.agentsready/agentsready/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsready/agentsready)
+  🔓 - Audit any website for AI agents and AI search: a 0–100 score plus paste-ready fixes for llms.txt, schema and more.
 - [AgentTask Atlas](https://agenttaskatlas.com/mcp) `https://agenttaskatlas.com/api/mcp`
   [![AgentTask Atlas MCP connector](https://glama.ai/mcp/connectors/com.agenttaskatlas/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenttaskatlas/catalog)
   🔓 - Search a curated catalog of MCP servers and Agent Skills by dev task, with install steps and practical verdicts.
