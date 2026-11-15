@@ -4450,6 +4450,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
+- [Redactic](https://redactic.eu/ai-assistants/) `https://redactic.eu/mcp`
+  🔐 - Masks personal data in text and documents on EU servers; files go through an upload link outside the chat, so the model only reads the masked text.
 - [satledger](https://satledger.org) `https://api.satledger.org/mcp`
   [![satledger MCP connector](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt/badges/score.svg)](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt)
   🔓 - RFC 3161 timestamp over a digest you supply; USDC per call over x402, no account, verifies offline.
