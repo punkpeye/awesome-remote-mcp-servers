@@ -3877,6 +3877,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
+- [CiteTools](https://citetools.io/tools/mcp) `https://citetools.io/mcp`
+  [![CiteTools MCP connector](https://glama.ai/mcp/connectors/io.citetools/citetools/badges/score.svg)](https://glama.ai/mcp/connectors/io.citetools/citetools)
+  🔓 - Format citations in 12 styles, check references against Crossref, PubMed and other registries, and find a DOI.
 - [CovaSyn](https://covasyn.com/en/mcp) `https://mcp.covasyn.com/mcp`
   [![CovaSyn MCP connector](https://glama.ai/mcp/connectors/com.covasyn/chemistry/badges/score.svg)](https://glama.ai/mcp/connectors/com.covasyn/chemistry)
   🔓 - Chemistry tools for pharma and biotech: NMR, MS, ICH M7 toxicity, stability, HPLC, DoE; tool calls need a key or OAuth.
