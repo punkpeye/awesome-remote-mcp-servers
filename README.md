@@ -564,6 +564,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
   🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
 
+- [Pomerado](https://pomerado.ai) `https://mcp.pomerado.ai/mcp`
+  [![Pomerado MCP connector](https://glama.ai/mcp/connectors/ai.pomerado/pomerado/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pomerado/pomerado)
+  🔐 - Do tasks on websites with tools built per site, such as flight and hotel searches, shopping, order checks and forms.
+
 - [screenshot.com.ar](https://screenshot.com.ar) `https://screenshot.com.ar/mcp`
   [![screenshot.com.ar MCP connector](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot)
   🔐 - Read any public page as clean markdown or capture it as an image in real Chrome; free tier, plans in ARS.
