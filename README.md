@@ -3381,6 +3381,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audexum](https://audexum.com/integrations/mcp) `https://audexum.com/mcp`
   [![Audexum MCP connector](https://glama.ai/mcp/connectors/com.audexum/audexum/badges/score.svg)](https://glama.ai/mcp/connectors/com.audexum/audexum)
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
+- [Audio Plugin Soko-kun](https://audio-soko-kun.allegromoltov.jp/about?lang=en) `https://audio-soko-kun.allegromoltov.jp/mcp`
+  [![Audio Plugin Soko-kun MCP connector](https://glama.ai/mcp/connectors/io.github.AllegroMoltoV/audio-plugin-soko-kun/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AllegroMoltoV/audio-plugin-soko-kun)
+  🔓 - Search open-source VST 3, CLAP, LV2, and AU plugins with checked release files; submitting needs GitHub sign-in.
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
