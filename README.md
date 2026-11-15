@@ -3071,6 +3071,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LinkBunny Placement Checker](https://getlinkbunny.com/tools/backlink-placement-checker?ref=awesome-remote-mcp) `https://mcp.getlinkbunny.com/mcp`
   [![LinkBunny Placement Checker MCP connector](https://glama.ai/mcp/connectors/com.getlinkbunny/placement-checker/badges/score.svg)](https://glama.ai/mcp/connectors/com.getlinkbunny/placement-checker)
   🔓 - Checks whether a public page links to an expected URL and reports the anchor, rel attributes and canonical.
+- [Linq.es](https://linq.es/integrations/mcp) `https://linq.es/mcp`
+  [![Linq.es MCP connector](https://glama.ai/mcp/connectors/io.github.giulianobr/linqes-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.giulianobr/linqes-mcp)
+  🔑 - Manage Link-in-Bio pages, /s/ shortlinks, GA4 UTM tags, 90-day analytics, and captured leads via 10 tools.
 - [LocationLists](https://locationlists.com) `https://locationlists.com/mcp`
   [![LocationLists MCP connector](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists)
   🔓 - Search 725 US business-location datasets (dealers, contractors, chains), preview real rows, and buy CSVs.
