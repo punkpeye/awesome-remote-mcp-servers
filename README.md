@@ -117,6 +117,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [7Maps](https://7it.co.il/7maps/) `https://7it.co.il/7maps/mcp`
   [![7Maps MCP connector](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.XLSV777/7maps)
   🔓 - Daily map of 22,000+ public MCP servers: status, tool risk, changes and routing to a tool; pay per call via x402.
+- [AgentExplorio](https://agentexplorio.com) `https://agentexplorio.com/mcp`
+  [![AgentExplorio MCP connector](https://glama.ai/mcp/connectors/com.agentexplorio/agentexplorio/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentexplorio/agentexplorio)
+  🔓 - Search 1,400+ AI agents, MCP servers and agent tools by task; compare pricing, setup, reviews and trust scores.
 - [AI Tools Directory](https://ai.toolboxes.top) `https://ai-tools-mcp.toolboxes.top/mcp`
   [![AI Tools Directory MCP connector](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory)
   🔓 - Curated index of 221 AI tools across 21 industries; search by use case, department or pricing tier.
