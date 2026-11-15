@@ -4977,6 +4977,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora Merit](https://agoramerit.com/agents) `https://agoramerit.com/mcp`
   [![Agora Merit MCP connector](https://glama.ai/mcp/connectors/com.agoramerit/role-assessment/badges/score.svg)](https://glama.ai/mcp/connectors/com.agoramerit/role-assessment)
   🔓 - Assess job responsibilities; return free findings, report quotes, and private human review links.
+- [ApplySent](https://applysent.com) `https://applysent.com/api/mcp`
+  [![ApplySent MCP connector](https://glama.ai/mcp/connectors/com.applysent/applysent/badges/score.svg)](https://glama.ai/mcp/connectors/com.applysent/applysent)
+  🔐 - Search jobs, tailor your résumé and apply on employers' own forms, one job at a time with your approval.
 - [Appty](https://getappty.com/developers) `https://getappty.com/api/mcp`
   [![Appty MCP connector](https://glama.ai/mcp/connectors/com.getappty/appty/badges/score.svg)](https://glama.ai/mcp/connectors/com.getappty/appty)
   🔓 - Find open slots and booking links on any appty link; providers manage bookings and invoices by sign-in or API key.
