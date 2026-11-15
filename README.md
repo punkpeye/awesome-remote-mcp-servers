@@ -4102,6 +4102,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
   [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
   🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
+- [Job Search (Richie Data)](https://richiedc95.github.io/richie-data/job-search-api/) `https://mcp.apify.com?tools=richiedc95/job-search-api`
+  [![Job Search (Richie Data) MCP connector](https://glama.ai/mcp/connectors/io.github.richiedc95/job-search/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.richiedc95/job-search)
+  🔐 - Search the newest jobs from 25,500+ company career sites (Greenhouse, Lever, Workday...) with salary and apply link.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
