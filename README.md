@@ -3372,6 +3372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [AnyScribe](https://www.anyscribe.app/mcp) `https://mcp.anyscribe.app`
+  [![AnyScribe MCP connector](https://glama.ai/mcp/connectors/app.anyscribe/anyscribe/badges/score.svg)](https://glama.ai/mcp/connectors/app.anyscribe/anyscribe)
+  🔐 - Search and read your AnyScribe transcripts, and send links to your iPhone to transcribe.
 - [Arcmira: YouTube Transcript Search](https://arcmira.com/docs) `https://mcp.arcmira.com/mcp`
   [![Arcmira MCP connector](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arcmira/arcmira)
   🔐 - Search YouTube transcripts for timestamped quotes, speaker appearances, sponsors and recommendations.
