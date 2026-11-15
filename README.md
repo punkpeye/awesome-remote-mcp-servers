@@ -929,6 +929,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [Apex DB](https://apex-db.org) `https://mcp.apex-db.org/mcp`
+  🔓 - Provenance-tracked vehicle specifications: every field carries its source URL and data-quality score.
 - [CloudCrane](https://cloudcrane.ai) `https://cloudcrane.ai/api/build/mcp`
   [![CloudCrane MCP connector](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace)
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
@@ -947,6 +949,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Prisma](https://prisma.io) `https://mcp.prisma.io/mcp`
   [![Prisma MCP connector](https://glama.ai/mcp/connectors/io.prisma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.prisma/mcp)
   🔐 - Manage Prisma Postgres databases and run migrations.
+- [RecallRadar](https://recallradar.dev) `https://api.recallradar.dev/mcp`
+  🔓 - Historical consumer product recalls and safety notices from eight official sources.
+- [RxAtlas](https://rxatlas.dev) `https://api.rxatlas.dev/mcp`
+  🔓 - US drug products with names, ingredients, dosage forms and NDC identifiers.
 - [Speak To Your Database](https://speaktoyourdatabase.com) `https://speaktoyourdatabase.com/mcp`
   [![Speak To Your Database MCP connector](https://glama.ai/mcp/connectors/com.speaktoyourdatabase/styd/badges/score.svg)](https://glama.ai/mcp/connectors/com.speaktoyourdatabase/styd)
   🔐 - Ask your Odoo, PostgreSQL or MySQL data in plain words and get real numbers, computed read-only from your data.
@@ -956,6 +962,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Teable](https://teable.ai) `https://mcp.teable.ai/mcp`
   [![Teable MCP connector](https://glama.ai/mcp/connectors/ai.teable.mcp/teable/badges/score.svg)](https://glama.ai/mcp/connectors/ai.teable.mcp/teable)
   🔐 - Inspect tables and read or update business records in Teable, an AI spreadsheet for business.
+
+- [TrialBase](https://trialbase-db.org) `https://api.trialbase-db.org/mcp`
+  🔓 - Clinical trial records from ClinicalTrials.gov, EU CTIS, EudraCT, ISRCTN and DRKS.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
