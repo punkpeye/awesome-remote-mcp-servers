@@ -3378,6 +3378,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artyfile](https://artyfile.com) `https://artyfile.com/api/mcp`
   [![Artyfile MCP connector](https://glama.ai/mcp/connectors/com.artyfile/music-licensing/badges/score.svg)](https://glama.ai/mcp/connectors/com.artyfile/music-licensing)
   🔓 - Search real recorded music, check licence terms and prepare a one-time sync-licence checkout for a track.
+- [No Stairs Please](https://nostairsplease.com/) `https://nostairsplease.com/mcp` 🔐 - Every small stage in all 50 states, and who books it. Search live-music venues, capacities, and talent buyers via remote MCP.
 - [Audexum](https://audexum.com/integrations/mcp) `https://audexum.com/mcp`
   [![Audexum MCP connector](https://glama.ai/mcp/connectors/com.audexum/audexum/badges/score.svg)](https://glama.ai/mcp/connectors/com.audexum/audexum)
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
