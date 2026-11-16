@@ -1393,6 +1393,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [402post](https://402post.com) `https://402post.com/mcp`
   [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
   🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
+- [Agent Bookability Index](https://index.therunup.ai/agents/) `https://index.therunup.ai/mcp`
+  [![Agent Bookability Index MCP connector](https://glama.ai/mcp/connectors/ai.therunup.index/agent-bookability-index/badges/score.svg)](https://glama.ai/mcp/connectors/ai.therunup.index/agent-bookability-index)
+  🔓 - Prices, areas and booking options for 3,600 NYC-area event vendors, each sourced from the vendor's own site.
 - [AgentXray](https://agentxray.ai) `https://agentxray.ai/api/mcp`
   [![AgentXray MCP connector](https://glama.ai/mcp/connectors/ai.agentxray/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentxray/mcp)
   🔐 - Amazon Seller Central and Ads: profit from your own settlement reports, ads judged on net profit, drafts you approve.
