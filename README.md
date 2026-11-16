@@ -2524,6 +2524,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [Anpheros FHIR](https://developers.anpheros.com/guides/mcp) `https://platform.anpheros.com/mcp`
+  [![Anpheros FHIR MCP connector](https://glama.ai/mcp/connectors/com.anpheros/fhir/badges/score.svg)](https://glama.ai/mcp/connectors/com.anpheros/fhir)
+  🔐 - A person connects their own FHIR R4 health record with consent; read their labs, medications and history, and save new observations.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
