@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
+- [GovDeals Scraper](https://apify.com/magnova/govdeals-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/govdeals-scraper`
+  [![GovDeals Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/govdeals-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/govdeals-scraper-mcp)
+  🔐 - Search GovDeals government surplus auction lots by keyword, category, and state.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
@@ -2264,6 +2267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [SEC Form D Monitor](https://apify.com/magnova/sec-form-d-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/sec-form-d-monitor`
+  [![SEC Form D Monitor MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/sec-form-d-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/sec-form-d-monitor-mcp)
+  🔐 - Search SEC Form D private placement filings by company, industry, and date, straight from EDGAR.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -3622,6 +3628,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLO Law](https://glolaw.org/case-search/connect) `https://mcp.glolaw.org/mcp`
   [![GLO Law MCP connector](https://glama.ai/mcp/connectors/org.glolaw/glo-law/badges/score.svg)](https://glama.ai/mcp/connectors/org.glolaw/glo-law)
   🔓 - U.S. court opinions, statutes, regulations and corrections policies, with each answer's source and coverage stated.
+- [Google Patents Scraper](https://apify.com/magnova/google-patents-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/google-patents-scraper`
+  [![Google Patents Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-patents-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-patents-scraper-mcp)
+  🔐 - Search Google Patents by keyword, assignee, inventor, CPC class, and date range.
 - [GroundRules](https://law.agentlookups.ai) `https://law.agentlookups.ai/mcp`
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
@@ -5060,6 +5069,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [PubMed Scraper](https://apify.com/magnova/pubmed-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/pubmed-scraper`
+  [![PubMed Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/pubmed-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/pubmed-scraper-mcp)
+  🔐 - Search PubMed biomedical literature by term and date, with structured article records and abstracts.
 - [QuestionPunk](https://www.questionpunk.com) `https://app.questionpunk.com/api/v1`
   [![QuestionPunk MCP connector](https://glama.ai/mcp/connectors/io.github.questionpunk/questionpunk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.questionpunk/questionpunk)
   🔐 - Create, edit and publish surveys and AI interviews, then read responses, reports and cross-tabs.
