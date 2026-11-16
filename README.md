@@ -2846,6 +2846,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [NovaPixel LexGrid](https://lexgrid.novapixel.it) `https://lexgrid.novapixel.it/mcp`
+  [![LexGrid MCP](https://glama.ai/mcp/connectors/it.novapixel.lexgrid/nova-pixel-lex-grid/badges/score.svg)](https://glama.ai/mcp/connectors/it.novapixel.lexgrid/nova-pixel-lex-grid)
+  🔓 - Sovereign European Legal, Fiscal & Procurement deterministic engine with 32 production tools across 8 vertical suites (EU Tax VIES, FatturaPA, Italian Tenders D.Lgs 36/2023, DORA, NIS2, CBAM Customs, and CCNL Labour Law).
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
