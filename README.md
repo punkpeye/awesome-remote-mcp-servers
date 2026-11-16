@@ -954,6 +954,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signatoro](https://signatoro.com) `https://signatoro.com/mcp`
   [![Signatoro MCP connector](https://glama.ai/mcp/connectors/com.signatoro/signatoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.signatoro/signatoro)
   🔓 - Fetch the saved email signature people and their AI agents append to every email they send or draft.
+- [Simafri Suite](https://www.simafri.com/en/suite/) `https://suite-mcp.simafri.com/mcp`
+  [![Simafri Suite MCP connector](https://glama.ai/mcp/connectors/com.simafri/professional-email/badges/score.svg)](https://glama.ai/mcp/connectors/com.simafri/professional-email)
+  🔐 - Read, search, answer, forward and file email on your own domain, with calendar, contacts and files.
 - [Skysay](https://skysay.ai/docs/mcp) `https://api.skysay.ai/mcp`
   [![Skysay MCP connector](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay)
   🔐 - Phone numbers, AI voice calls, SMS and campaigns; country availability varies. 100+ countries covered.
