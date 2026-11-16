@@ -694,6 +694,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
+- [ClawCall](https://clawcall.dev/for-agents) `https://api.clawcall.dev/mcp`
+  [![ClawCall MCP connector](https://glama.ai/mcp/connectors/io.github.ClawCall-Dev/clawcall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ClawCall-Dev/clawcall)
+  🔐 - Place real US phone calls that navigate menus, wait on hold, loop you in and return transcripts.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
