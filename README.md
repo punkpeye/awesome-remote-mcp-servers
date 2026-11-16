@@ -4705,6 +4705,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [Underdog API](https://underdogapi.com) `https://underdogapi.com/api/mcp`
+  [![Underdog API MCP connector](https://glama.ai/mcp/connectors/com.underdogapi/underdog/badges/score.svg)](https://glama.ai/mcp/connectors/com.underdogapi/underdog)
+  🔑 - Unofficial Underdog Fantasy data: pick'em lines with Higher and Lower multipliers, line moves and graded results.
 - [FastballAPI](https://fastballapi.com) `https://mcp.fastballapi.com/mcp`
   [![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
   🔓 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
