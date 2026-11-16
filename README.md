@@ -1006,6 +1006,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [AnswerRail](https://answerrail.com) `https://answerrail.com/mcp`
+  [![AnswerRail MCP connector](https://glama.ai/mcp/connectors/io.github.quitegoodproject/answerrail-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quitegoodproject/answerrail-mcp)
+  🔓 - Audit AI search readiness, 25k-token RAG truncation, Schema.org coverage, /llms.txt, and ARD 1.0 catalogs.
 - [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
   [![Apple RAG MCP connector](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server)
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
