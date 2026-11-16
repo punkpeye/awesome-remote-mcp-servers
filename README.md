@@ -3430,6 +3430,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
 - [Importly](https://importly.io) `https://mcp.importly.io/mcp`
+  [![Importly MCP connector](https://glama.ai/mcp/connectors/io.importly/importly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.importly/importly-mcp)
   🔐 - Download, transcribe and inspect any video or audio URL. Hosted, with rotating residential proxies and speech-to-text, so it works from servers and agent sandboxes that get blocked. $3 free credit, no card.
 - [Incarn](https://www.incarn.co/developers) `https://api.incarn.co/mcp`
   [![Incarn MCP connector](https://glama.ai/mcp/connectors/co.incarn/photo-animation/badges/score.svg)](https://glama.ai/mcp/connectors/co.incarn/photo-animation)
