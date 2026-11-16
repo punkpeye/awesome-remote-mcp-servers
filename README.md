@@ -4256,6 +4256,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TerraLab MCP](https://terra-lab.ai/mcp) `https://mcp.terra-lab.ai/mcp`
   [![TerraLab MCP connector](https://glama.ai/mcp/connectors/ai.terra-lab/terralab/badges/score.svg)](https://glama.ai/mcp/connectors/ai.terra-lab/terralab)
   🔓 - Extract open map data, convert GIS files and coordinates, and retrieve elevation and French cadastral parcels.
+- [The Veil Press](https://www.theveilpress.com/developers) `https://www.theveilpress.com/api/mcp`
+  [![The Veil Press MCP connector](https://glama.ai/mcp/connectors/com.theveilpress.www/veilpress/badges/score.svg)](https://glama.ai/mcp/connectors/com.theveilpress.www/veilpress)
+  🔓 - Free, read-only search and full text of The Veil Press breaking news and Desk pieces, with citations.
 - [Tollkit](https://tollkit.dev) `https://api.tollkit.dev/mcp`
   [![Tollkit MCP connector](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract)
   🔓 - Web pages and PDFs read in a real browser, token checks, SEC and US data; x402 pay-per-call, 3 free calls a day.
