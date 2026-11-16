@@ -2928,6 +2928,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [AgentSEO](https://www.agentseo.dev) `https://www.agentseo.dev/mcp`
+  [![AgentSEO MCP connector](https://glama.ai/mcp/connectors/dev.agentseo.www/agentseo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentseo.www/agentseo-mcp)
+  🔓 - Paid SEO/AEO data API for agents: keyword research, Google SERP analysis, rank tracking, backlink and competitor data, site audits, and AI-search visibility. Tool calls require an account, API key and usage credits; 100 one-time introductory credits, with paid plans from $9/month.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
