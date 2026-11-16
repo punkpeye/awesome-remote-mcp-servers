@@ -1787,6 +1787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AStockEvent](https://astockevent.com/) `https://astockevent.com/mcp/`
   [![AStockEvent MCP connector](https://glama.ai/mcp/connectors/com.astockevent/astockevent/badges/score.svg)](https://glama.ai/mcp/connectors/com.astockevent/astockevent)
   🔓 - Source-linked Chinese A-share filings, penalties, share reductions, regulatory letters and stock halts.
+- [Auditro](https://auditro.co/) `https://app.auditro.co/mcp`
+  [![Auditro MCP connector](https://glama.ai/mcp/connectors/co.auditro/auditro/badges/score.svg)](https://glama.ai/mcp/connectors/co.auditro/auditro)
+  🔐 - UAE ICV score estimates, MoHRE Emiratisation quota positions, evidence and action plans, all calculated by Auditro.
 - [ausecon](https://auseconmcp.com) `https://mcp.auseconmcp.com/mcp`
   [![ausecon MCP connector](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AnthonyPuggs/ausecon-mcp-server)
   🔓 - Read-only Australian economic data from ABS, RBA and APRA, including GDP, inflation and interest rates.
