@@ -4684,6 +4684,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pickleball3](https://pickleball3.com) `https://pickleball3.com/mcp`
   [![Pickleball3 MCP connector](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gospodindark-stack/pickleball3)
   🔓 - Compare 152 reviewed pickleball paddles by score and specs, with purchase links.
+- [PrizePicks API](https://prizepicksapi.com) `https://prizepicksapi.com/api/mcp`
+  [![PrizePicks API MCP connector](https://glama.ai/mcp/connectors/com.prizepicksapi/server/badges/score.svg)](https://glama.ai/mcp/connectors/com.prizepicksapi/server)
+  🔑 - Unofficial PrizePicks data: prop lines with goblin and demon tiers, line history, change feed and graded results.
 - [Race Results](https://raceresultsapp.com/mcp-server) `https://raceresultsapp.com/mcp`
   [![Race Results MCP connector](https://glama.ai/mcp/connectors/io.github.manuelescrig/raceresults-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.manuelescrig/raceresults-mcp)
   🔓 - MotoGP, Moto2 and Moto3 standings, race results, calendar and session times, rider profiles, live timing and news.
