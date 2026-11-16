@@ -3735,6 +3735,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
+- [Cost Seg Smart](https://costsegsmart.com/mcp-server/) `https://costsegsmart.com/mcp`
+  [![Cost Seg Smart MCP connector](https://glama.ai/mcp/connectors/com.costsegsmart/cost-seg-smart/badges/score.svg)](https://glama.ai/mcp/connectors/com.costsegsmart/cost-seg-smart)
+  🔓 - Quotes US cost segregation studies with estimated Year-1 depreciation and tax savings, plus Stripe checkout links.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
