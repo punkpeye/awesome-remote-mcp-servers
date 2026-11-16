@@ -2279,7 +2279,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Live bid/ask and OHLC candles for 60 forex pairs and 11 metals, with freshness labels and gap reports.
 - [Toll](https://t0ll.xyz/agents/mcp) `https://t0ll.xyz/mcp`
   [![Toll MCP connector](https://glama.ai/mcp/connectors/xyz.t0ll/toll/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.t0ll/toll)
-  🔓 - Launch checks on Robinhood Chain, Solana, BSC, Arc: bundles, dev funding and record, liquidity; ERC-8004 agent checks.
+  🔓 - Read-only checks on Robinhood Chain: coins (snipers, bundles, dev record, liquidity), pre-sign check of transactions and signatures, ERC-8004 agents, wallet approvals, Stock Token data.
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
