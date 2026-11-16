@@ -4674,7 +4674,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [DraftKings API](https://draftkingsapi.com) `https://draftkingsapi.com/api/mcp`
   [![DraftKings API MCP connector](https://glama.ai/mcp/connectors/com.draftkingsapi/server/badges/score.svg)](https://glama.ai/mcp/connectors/com.draftkingsapi/server)
-  🔑 - Unofficial DraftKings data: Pick6 lines and line moves, DFS salaries, sportsbook odds, EV and arbitrage.
+  🔓 - Unofficial DraftKings data: Pick6 lines and line moves, DFS salaries, sportsbook odds, EV and arbitrage.
 - [EndzoneAPI](https://endzoneapi.com) `https://mcp.endzoneapi.com/mcp`
   [![EndzoneAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/endzoneapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/endzoneapi)
   🔓 - NFL play-by-play with EPA since 1999, player and team stats, injuries, and closing lines for every game.
