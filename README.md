@@ -667,6 +667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wawesome](https://wawesome.io) `https://api.wawesome.io/v1/mcp`
   [![wawesome MCP connector](https://glama.ai/mcp/connectors/io.wawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.wawesome/mcp)
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
+- [xCloud](https://xcloud.host/mcp/) `https://app.xcloud.host/mcp`
+  [![xCloud MCP connector](https://glama.ai/mcp/connectors/host.xcloud/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/host.xcloud/mcp)
+  🔐 - Manage servers, sites, WordPress, SSL, backups and deploys on the xCloud hosting control panel.
   
 ### 💬 <a name="communication"></a>Communication
 
