@@ -1580,6 +1580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
+- [Wren](https://www.wrenapp.ai/docs/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=web_launch_2026) `https://mcp.wrenapp.ai/mcp`
+  [![Wren MCP connector](https://glama.ai/mcp/connectors/ai.wrenapp/wren/badges/score.svg)](https://glama.ai/mcp/connectors/ai.wrenapp/wren)
+  🔐 - Write handwritten study pages, multi-page notebooks and figures into your Wren notebook as editable ink.
 
 ### 🎓 <a name="education"></a>Education
 
