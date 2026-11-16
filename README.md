@@ -2971,6 +2971,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CiteLadder](https://citeladder.com) `https://api.citeladder.com/mcp`
   [![CiteLadder MCP connector](https://glama.ai/mcp/connectors/com.citeladder/citeladder/badges/score.svg)](https://glama.ai/mcp/connectors/com.citeladder/citeladder)
   🔐 - Track how ChatGPT, Gemini and Claude answer buyer questions, which brands they name and sources cited.
+- [Clickflame](https://clickflame.com/connector-docs) `https://mcp.clickflame.com/mcp`
+  [![Clickflame MCP connector](https://glama.ai/mcp/connectors/com.clickflame/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.clickflame/connector)
+  🔐 - Local SEO research, site audits, a website builder and Shop Desk jobs, quotes and invoices for service businesses.
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
@@ -4737,6 +4740,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [Supercanic Auto Repair](https://clickflame.com/connector-docs) `https://mcp.clickflame.com/mcp/auto`
+  [![Supercanic Auto Repair MCP connector](https://glama.ai/mcp/connectors/com.clickflame/auto-repair/badges/score.svg)](https://glama.ai/mcp/connectors/com.clickflame/auto-repair)
+  🔐 - Auto repair Shop Desk: decode VINs, diagnose, quote parts and labor, get the customer's OK and send the invoice.
 - [WorkWing](https://www.workwing.io/developers) `https://api.workwing.io/mcp`
   [![WorkWing MCP connector](https://glama.ai/mcp/connectors/io.workwing/workwing/badges/score.svg)](https://glama.ai/mcp/connectors/io.workwing/workwing)
   🔐 - Field service jobs: find customers and engineers, read the schedule, create and book jobs, and add notes.
