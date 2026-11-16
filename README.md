@@ -1880,6 +1880,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Market Intel](https://datakoot.com/market-intel) `https://market.datakoot.com/mcp`
   [![Datakoot Market Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/fx-currency-exchange-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/fx-currency-exchange-rates)
   🔓 - European Central Bank reference FX rates: latest, historical, time series and currency conversion.
+- [DIVID Planner](https://divid.ai/planner) `https://mcp.divid.ai/mcp`
+  [![DIVID Planner MCP connector](https://glama.ai/mcp/connectors/ai.divid/planner/badges/score.svg)](https://glama.ai/mcp/connectors/ai.divid/planner)
+  🔐 - A connector for Claude that builds a one-year plan for your savings and tests it against 1,000+ market scenarios.
 - [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
   [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
   🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
