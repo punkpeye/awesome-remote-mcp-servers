@@ -1554,6 +1554,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
 - [CRLN](https://crln-learn.com/ai-apps) `https://crln-practice-lab.crln-learn.com/mcp`
+  [![CRLN MCP connector](https://glama.ai/mcp/connectors/com.crln-learn/crln/badges/score.svg)](https://glama.ai/mcp/connectors/com.crln-learn/crln)
   🔓 - Practice real clinical research decisions, scored with the ICH E6(R3) or regulatory rule behind them; GCP answers with sources; read-only.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
