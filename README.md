@@ -2518,6 +2518,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [Aidlab](https://www.aidlab.com/developer/docs/mcp) `https://my.aidlab.com/mcp`
+  [![Aidlab MCP connector](https://glama.ai/mcp/connectors/io.github.Aidlab/aidlab-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Aidlab/aidlab-mcp)
+  🔐 - Your Aidlab wearable data: daily summaries, heart rate, HRV, respiration, SpO2, sleep stages and workouts.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
