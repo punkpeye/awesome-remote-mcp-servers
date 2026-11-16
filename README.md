@@ -4203,7 +4203,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search US and Canadian government recall notices by keyword, UPC, product name, make and model, or photo.
 - [redAi Search](https://redai.pl/search) `https://search.redai.pl/mcp`
   [![redAi Search MCP connector](https://glama.ai/mcp/connectors/pl.redai/search/badges/score.svg)](https://glama.ai/mcp/connectors/pl.redai/search)
-  🔓 - Search Polish .pl websites and companies: contacts, offer, subpages with the answer, NIP checked in MF White List.
+  🔑 - Paid (API key, 0.1 USD per 1000 queries): search Polish .pl websites and companies, contacts, offer, NIP from MF White List.
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
