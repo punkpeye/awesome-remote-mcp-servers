@@ -2028,6 +2028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Knoww](https://knoww.app) `https://mcp.knoww.app/mcp`
   [![Knoww MCP connector](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww/badges/score.svg)](https://glama.ai/mcp/connectors/app.knoww.mcp/knoww)
   🔐 - Read-only Polymarket search, market details, order books, price history, and interactive market cards.
+- [Kote Charts](https://kotecharts.com/mcp) `https://kotecharts.com/api/v1/mcp`
+  [![Kote Charts MCP connector](https://glama.ai/mcp/connectors/com.kotecharts/charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.kotecharts/charts)
+  🔓 - Free Bitcoin on-chain analytics from a full node: MVRV, NUPL, SOPR, exchange flows and whales, history since 2009.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   🔓 - DeFi trading signals and market intelligence on Base; x402 pay-per-call in USDC.
 - [Kunkafa](https://kunkafa.com) `https://kunkafa.com/mcp`
