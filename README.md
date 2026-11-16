@@ -1556,6 +1556,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [Đúng Chưa?](https://dungchua.app/mcp) `https://dungchua.app/api/mcp`
+  [![Đúng Chưa? MCP connector](https://glama.ai/mcp/connectors/app.dungchua/dungchua/badges/score.svg)](https://glama.ai/mcp/connectors/app.dungchua/dungchua)
+  🔓 - Northern Vietnamese tone pitch-contour guides and acoustic DSP recording quality gate checks.
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
