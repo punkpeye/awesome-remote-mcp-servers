@@ -428,6 +428,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gradients Studio](https://www.gradients.studio/mcp) `https://www.gradients.studio/mcp`
   [![Gradients Studio MCP connector](https://glama.ai/mcp/connectors/studio.gradients/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/studio.gradients/mcp)
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
+- [House AI](https://www.houseaiapp.com/connector) `https://mcp.houseaiapp.com/mcp`
+  [![House AI MCP connector](https://glama.ai/mcp/connectors/com.houseaiapp/house-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.houseaiapp/house-ai)
+  🔓 🔐 - Redesign rooms, house exteriors and yards from a photo in 100+ styles, preview paint and flooring, and shop the look.
 - [ImgVX AI](https://imgvx.com/mcp-server/) `https://imgvx.com/mcp`
   [![ImgVX AI MCP connector](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai)
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
