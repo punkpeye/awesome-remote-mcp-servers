@@ -159,6 +159,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CodeTrendy](https://codetrendy.com/mcp) `https://codetrendy.com/api/mcp`
   [![CodeTrendy MCP connector](https://glama.ai/mcp/connectors/com.codetrendy/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.codetrendy/directory)
   🔓 - Search 650+ reviewed SaaS, AI and developer tools, find alternatives to a product and browse trending launches.
+- [Conduit Router](https://router.pipavia.com) `https://router.pipavia.com/mcp`
+  [![Conduit Router MCP connector](https://glama.ai/mcp/connectors/org.aimlds/conduit-router/badges/score.svg)](https://glama.ai/mcp/connectors/org.aimlds/conduit-router)
+  🔑 - Governed MCP routing: every agent call is spend-capped before it fires and sealed with a publicly verifiable receipt.
 - [CorpusIQ](https://www.corpusiq.io/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers) `https://mcp2.corpusiq.io/mcp`
   [![CorpusIQ MCP connector](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp)
   🔓 - One MCP endpoint for 40+ business systems; tools list without a key, per-connector sign-in for cited answers.
@@ -1953,6 +1956,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
+- [Conduit EDGAR](https://router.pipavia.com) `https://conduit-filings-fundamentals.nrupalakolkar.workers.dev/mcp`
+  [![Conduit EDGAR MCP connector](https://glama.ai/mcp/connectors/org.aimlds/edgar/badges/score.svg)](https://glama.ai/mcp/connectors/org.aimlds/edgar)
+  🔑 - SEC EDGAR filings and fundamentals for agents under governed, receipted access; analysis only, never financial advisory.
 - [CortexCloud](https://api.cortexcloud.org) `https://api.cortexcloud.org/mcp`
   [![CortexCloud MCP connector](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud)
   🔓 - Pay-per-call on-chain data: token balances, NFTs, tx history, wallet intel, token risk, whale alerts.
