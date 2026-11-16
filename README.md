@@ -1708,6 +1708,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aether](https://aether-x402.vercel.app/llms.txt) `https://aether-x402.vercel.app/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether)
   🔓 - Base token risk verdicts (honeypot and tax simulation), prices, balances and tx data; pay per call in USDC via x402.
+- [Agent Data Hub](https://api.agentdatahub.de/docs) `https://api.agentdatahub.de/mcp`
+  [![Agent Data Hub MCP connector](https://glama.ai/mcp/connectors/io.github.Jona1245/agentdatahub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Jona1245/agentdatahub)
+  🔓 - Official statistics, central bank rates, FX and energy data; every answer names source and licence.
 - [Agent Einstein](https://emc2ai.io/mcp) `https://emc2ai.io/api/mcp`
   [![Agent Einstein MCP connector](https://glama.ai/mcp/connectors/io.emc2ai/einstein/badges/score.svg)](https://glama.ai/mcp/connectors/io.emc2ai/einstein)
   🔓 - Crypto and market intelligence: 18 free tools, forecasts, whale flows, token scans; paid tools via credit or x402.
