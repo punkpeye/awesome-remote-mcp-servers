@@ -3734,7 +3734,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Official building permits and planning applications for France, NSW Australia and Far North NZ, with sources.
 - [BusinessRateChecker](https://www.businessratechecker.com/connect) `https://www.businessratechecker.com/mcp`
   [![BusinessRateChecker MCP connector](https://glama.ai/mcp/connectors/com.businessratechecker/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.businessratechecker/mcp)
-  🔐 - England and Wales business rates: rateable values, comparables, overpayment verdicts, reliefs and tribunal decisions.
+  🔓 🔐 - England and Wales business rates: rateable values, comparables, overpayment verdicts, reliefs and tribunal decisions.
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
