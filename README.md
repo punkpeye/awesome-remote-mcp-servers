@@ -4206,7 +4206,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Web search, extraction and public-data tools for agent research.
 - [SaltCrate Oracle](https://oracle.saltcrate.com) `https://oracle.saltcrate.com/mcp`
   [![SaltCrate Oracle MCP connector](https://glama.ai/mcp/connectors/com.saltcrate/oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.saltcrate/oracle)
-  🔓 - Eight pay-per-call web intelligence tools: search, schema-driven extract, clean fetch, link check, change detection, URL monitoring, claim verification and dependency checks. 200 free calls/hour, then $0.01/call.
+  🔓 - Eight pay-per-call web intelligence tools: search, schema-driven extract, clean fetch, link check, change detection, URL monitoring, claim verification and dependency checks. 100 free calls to evaluate (no key, no wallet), then $0.05/call in USDC or a $1 card pass for 100 calls.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
   🔓 - AI-industry news as deduplicated, classified events; a free key unlocks listing, search and archive.
