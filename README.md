@@ -1003,6 +1003,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [AIScoreboard](https://aiscoreboard.app/developers/) `https://aiscoreboard.app/mcp`
+  [![AIScoreboard MCP connector](https://glama.ai/mcp/connectors/app.aiscoreboard/catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/app.aiscoreboard/catalogue)
+  🔓 - AI model API prices, price changes and retirement dates, each with its source and the date it was checked.
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
