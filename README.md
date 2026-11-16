@@ -1472,7 +1472,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Profit-aware ecommerce analytics for Shopify brands: revenue, margin, ad spend, ROAS and ranked growth recommendations.
 - [Oferoo.eu](https://oferoo.eu/agents) `https://oferoo.eu/mcp`
   [![Oferoo.eu MCP connector](https://glama.ai/mcp/connectors/eu.oferoo/supermarket-prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.oferoo/supermarket-prices)
-  🔑 - Supermarket prices from 20+ European countries, matched by barcode, with source and daily proof; free trial key or x402.
+  🔓 - Supermarket prices from 20+ European countries, matched by barcode, with source and daily proof; free trial key or x402.
 - [OneFindMe](https://onefindme.com) `https://onefindme.com/mcp`
   [![OneFindMe MCP connector](https://glama.ai/mcp/connectors/com.onefindme/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.onefindme/search)
   🔓 - Search AliExpress in any language and get listings with price, rating, orders and a link.
