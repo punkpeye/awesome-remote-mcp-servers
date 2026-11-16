@@ -1167,6 +1167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
+- [Lighthouse & Accessibility Audit](https://apify.com/fluidfaith/lighthouse-gate) `https://mcp.apify.com/?tools=fluidfaith/lighthouse-gate`
+  [![Lighthouse & Accessibility Audit MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/lighthouse-gate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/lighthouse-gate)
+  🔐 - Lighthouse scores, Core Web Vitals and axe-core accessibility issues per URL on mobile and desktop, with PASS/FAIL.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
@@ -1182,6 +1185,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Metabind Docs](https://docs.metabind.ai) `https://docs.metabind.ai/mcp`
   [![Metabind Docs MCP connector](https://glama.ai/mcp/connectors/ai.metabind/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/docs)
   🔓 - Search and read the Metabind docs: MCP Apps, BindJS, the SDKs, the CLI, and the APIs.
+- [Mobile QA Gate](https://apify.com/fluidfaith/mobile-qa-gate) `https://mcp.apify.com/?tools=fluidfaith/mobile-qa-gate`
+  [![Mobile QA Gate MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/mobile-qa-gate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/mobile-qa-gate)
+  🔐 - PASS or FAIL per web page on current iPhone, Galaxy and Pixel sizes: overflow, contrast, tap targets, screenshots.
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
@@ -3463,6 +3469,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
+- [Media Probe](https://apify.com/fluidfaith/media-probe) `https://mcp.apify.com/?tools=fluidfaith/media-probe`
+  [![Media Probe MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/media-probe/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/media-probe)
+  🔐 - ffprobe metadata, frames at times or scene cuts, a contact sheet and loudness from direct video or audio file links.
 - [Meta Muse MCP Server by useapi.net](https://useapi.net/docs/api-muse-v1/mcp) `https://api.useapi.net/v1/muse/mcp`
   [![Meta Muse MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/muse/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/muse)
   🔐 - Meta Muse (muse.ai) agent chat, images and 10-second videos with sound on your Muse subscription. Not Meta-affiliated.
@@ -4162,6 +4171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Free search of people, companies and open roles on an open professional network.
+- [PDF to Markdown with Tables](https://apify.com/fluidfaith/pdf-to-markdown-tables) `https://mcp.apify.com/?tools=fluidfaith/pdf-to-markdown-tables`
+  [![PDF to Markdown with Tables MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/pdf-to-markdown-tables/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/pdf-to-markdown-tables)
+  🔐 - PDF, Word, PowerPoint and Excel to Markdown, with every table also returned as JSON rows and OCR for scans.
 - [PdfParse](https://pdfparse.net/mcp) `https://mcp.pdfparse.net/mcp`
   [![PdfParse MCP connector](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse)
   🔐 - Extract PDFs into structured tables, query saved records, and configure document inbox workflows.
