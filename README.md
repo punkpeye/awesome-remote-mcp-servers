@@ -959,6 +959,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
+- [ChartKit](https://www.getchartkit.app) `https://www.getchartkit.app/mcp`
+  [![ChartKit MCP connector](https://glama.ai/mcp/connectors/app.getchartkit/chart-kit/badges/score.svg)](https://glama.ai/mcp/connectors/app.getchartkit/chart-kit)
+  🔐 - Draws consulting-style charts from chat data and places them on your selected Google Slides slide.
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
