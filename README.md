@@ -4082,6 +4082,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemalli](https://gemalli.com/en/developers) `https://gemalli.com/api/mcp`
   [![Gemalli MCP connector](https://glama.ai/mcp/connectors/com.gemalli/trade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gemalli/trade)
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
+- [Global News with Sentiment (Richie Data)](https://richiedc95.github.io/richie-data/global-news-scraper/) `https://mcp.apify.com?tools=richiedc95/global-news-scraper`
+  [![Global News with Sentiment (Richie Data) MCP connector](https://glama.ai/mcp/connectors/io.github.richiedc95/global-news/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.richiedc95/global-news)
+  🔐 - Worldwide news in 65+ languages every 15 minutes, with tone and the people, companies and places mentioned.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
@@ -4102,6 +4105,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Bay](https://huggingbay.xyz) `https://huggingbay.xyz/api/mcp`
   [![Hugging Bay MCP connector](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.barneywohl/hugging-bay)
   🔓 - Search open models, read license labels, and get hosted file links and SHA-256 hashes.
+- [Image to Text OCR (Richie Data)](https://richiedc95.github.io/richie-data/image-to-text-ocr/) `https://mcp.apify.com?tools=richiedc95/image-to-text-ocr`
+  [![Image to Text OCR (Richie Data) MCP connector](https://glama.ai/mcp/connectors/io.github.richiedc95/image-ocr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.richiedc95/image-ocr)
+  🔐 - Extract text from images, photos, scans and screenshots with OCR in 100+ languages, with line positions.
+- [Job Search (Richie Data)](https://richiedc95.github.io/richie-data/job-search-api/) `https://mcp.apify.com?tools=richiedc95/job-search-api`
+  [![Job Search (Richie Data) MCP connector](https://glama.ai/mcp/connectors/io.github.richiedc95/job-search/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.richiedc95/job-search)
+  🔐 - Search the newest jobs from 25,500+ company career sites (Greenhouse, Lever, Workday...) with salary and apply link.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
@@ -4162,6 +4171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Free search of people, companies and open roles on an open professional network.
+- [PDF to Text & Markdown (Richie Data)](https://richiedc95.github.io/richie-data/pdf-text-extractor/) `https://mcp.apify.com?tools=richiedc95/pdf-text-extractor`
+  [![PDF to Text & Markdown (Richie Data) MCP connector](https://glama.ai/mcp/connectors/io.github.richiedc95/pdf-to-text/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.richiedc95/pdf-to-text)
+  🔐 - Convert PDF URLs to clean text or LLM-ready Markdown with RAG chunks, metadata and OCR for scanned pages.
 - [PdfParse](https://pdfparse.net/mcp) `https://mcp.pdfparse.net/mcp`
   [![PdfParse MCP connector](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse)
   🔐 - Extract PDFs into structured tables, query saved records, and configure document inbox workflows.
@@ -4180,6 +4192,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProxyCove](https://proxycove.com) `https://mcp.proxycove.com/mcp`
   [![ProxyCove MCP connector](https://glama.ai/mcp/connectors/com.proxycove/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxycove/mcp-server)
   🔓 - Buy and manage residential, mobile and datacenter proxies in 170+ countries, prepaid per GB.
+- [Public Tenders (Richie Data)](https://richiedc95.github.io/richie-data/public-tenders-scraper/) `https://mcp.apify.com?tools=richiedc95/public-tenders-scraper`
+  [![Public Tenders (Richie Data) MCP connector](https://glama.ai/mcp/connectors/io.github.richiedc95/public-tenders/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.richiedc95/public-tenders)
+  🔐 - Open government tenders from UK, EU TED, Canada and Colombia: buyer, value, deadline and official notice link.
 - [PubRecords](https://mcp-pubrecords-production.up.railway.app) `https://mcp-pubrecords-production.up.railway.app/mcp/`
   [![PubRecords MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/pubrecords/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/pubrecords)
   🔓 - Search US company filings, SEC reports, federal court cases, spending awards, licenses, and entity records.
