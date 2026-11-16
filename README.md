@@ -2470,6 +2470,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
+- [Photo2Skin](https://app.photo2skin.com/agents) `https://mcp.photo2skin.com/mcp`
+  [![Photo2Skin MCP connector](https://glama.ai/mcp/connectors/com.photo2skin/photo2skin/badges/score.svg)](https://glama.ai/mcp/connectors/com.photo2skin/photo2skin)
+  🔐 - AI tools for Minecraft: make and edit skins by chatting, plus AI builds, texture packs, pixel art and real-world maps.
 - [Playable Gift](https://playablegift.com) `https://playablegift.com/mcp`
   [![Playable Gift MCP connector](https://glama.ai/mcp/connectors/com.playablegift/playable-gift/badges/score.svg)](https://glama.ai/mcp/connectors/com.playablegift/playable-gift)
   🔓 - Make, save and revise personal browser games, then share a gift link with the recipient.
