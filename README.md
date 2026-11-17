@@ -3794,7 +3794,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Free Google Search Console analytics plus credit-based SERP, keyword, and page audit tools.
 - [Camberstack](https://camberstack.io) `https://camberstack.io/mcp`
   [![Camberstack MCP connector](https://glama.ai/mcp/connectors/io.camberstack/google-ads/badges/score.svg)](https://glama.ai/mcp/connectors/io.camberstack/google-ads)
-  🔐 - Google Ads and Search Console: build campaigns, research keywords, apply only changes you approve, with undo.
+  🔐 - Google Ads, Search Console, Analytics, Merchant Center, Tag Manager: applies only changes you approve, with undo.
 - [Caybl](https://caybl.ai) `https://api.caybl.ai/mcp`
   [![Caybl MCP connector](https://glama.ai/mcp/connectors/ai.caybl/caybl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.caybl/caybl)
   🔐 - Query GA4, Google Ads and Search Console: reports, funnels, search terms, keyword ideas and URL inspection.
