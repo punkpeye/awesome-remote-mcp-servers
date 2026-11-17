@@ -6150,6 +6150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Auto.dev](https://www.auto.dev/agents) `https://mcp.auto.dev/mcp`
   [![Auto.dev MCP connector](https://glama.ai/mcp/connectors/dev.auto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.auto/mcp)
   🔐 - Decode VINs, search US dealer listings, and look up specs, OEM build data, recalls, payments and taxes.
+- [BETAP](https://betap.world/en) `https://api.betap.world/api/mcp`
+  [![BETAP MCP connector](https://glama.ai/mcp/connectors/world.betap/lugares/badges/score.svg)](https://glama.ai/mcp/connectors/world.betap/lugares)
+  🔓 - Verified museums, libraries and cultural places in MX/US/CA, plus local businesses in Mexico.
 - [busik.ch](https://busik.ch) `https://busik.ch/api/mcp`
   [![busik.ch MCP connector](https://glama.ai/mcp/connectors/ch.busik/fahrten/badges/score.svg)](https://glama.ai/mcp/connectors/ch.busik/fahrten)
   🔓 - Minibus trips between Ukraine, Germany and Switzerland: search departures, prices, seats and booking links.
