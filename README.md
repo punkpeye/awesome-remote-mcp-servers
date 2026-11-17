@@ -1067,6 +1067,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Manulyx](https://manulyx.com/connectors) `https://manulyx.com/api/mcp`
   [![Manulyx MCP connector](https://glama.ai/mcp/connectors/com.manulyx/manulyx/badges/score.svg)](https://glama.ai/mcp/connectors/com.manulyx/manulyx)
   🔐 - Online LaTeX editor: start papers in journal templates, edit, cite by DOI and compile to PDF.
+- [Monton](https://monton.dev) `https://monton.dev/mcp`
+  [![Monton MCP connector](https://glama.ai/mcp/connectors/dev.monton/monton/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monton/monton)
+  🔐 - People and agents write shared docs, discuss passages in comments, and review changes in history.
 - [Posy](https://posy.page) `https://posy.page/api/mcp`
   [![Posy MCP connector](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy)
   🔐 - Build and edit a hand-made link-in-bio page: add links, pick a look, publish it at posy.page.
