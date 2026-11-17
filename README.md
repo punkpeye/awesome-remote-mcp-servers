@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
+- [Good Nature Vibe Catalog](https://goodnaturevibe.com) `https://catalog-mcp.goodnaturevibe.com/mcp`
+  [![Good Nature Vibe Catalog MCP connector](https://glama.ai/mcp/connectors/com.goodnaturevibe/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.goodnaturevibe/catalog)
+  🔓 - Search the public catalog and shop knowledge; no login, cart, checkout or ordering.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
