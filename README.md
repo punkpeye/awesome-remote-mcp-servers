@@ -929,6 +929,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signatoro](https://signatoro.com) `https://signatoro.com/mcp`
   [![Signatoro MCP connector](https://glama.ai/mcp/connectors/com.signatoro/signatoro/badges/score.svg)](https://glama.ai/mcp/connectors/com.signatoro/signatoro)
   🔓 - Fetch the saved email signature people and their AI agents append to every email they send or draft.
+- [SignOps](https://signops.dev/docs/#mcp) `https://api.signops.dev/mcp`
+  [![SignOps MCP connector](https://glama.ai/mcp/connectors/dev.signops/signops/badges/score.svg)](https://glama.ai/mcp/connectors/dev.signops/signops)
+  🔓 - Send push to Android, iOS and web devices, manage topics and templates, and ask a phone to approve a login.
 - [Skysay](https://skysay.ai/docs/mcp) `https://api.skysay.ai/mcp`
   [![Skysay MCP connector](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay)
   🔐 - Phone numbers, AI voice calls, SMS and campaigns; country availability varies. 100+ countries covered.
