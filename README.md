@@ -3888,7 +3888,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Solves DC/DC power trees with real parts: each rail's current, efficiency, dissipation and tolerance corners.
 - [FateTell](https://fatetell.com/mcp) `https://mcp.fatetell.com/mcp`
   [![FateTell MCP connector](https://glama.ai/mcp/connectors/com.fatetell/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fatetell/mcp)
-  🔓 🔐 - Chinese astrology computed by FateTell's own BaZi engine: cast charts, check the Chinese almanac, open saved charts.
+  🔓 - Chinese astrology computed by FateTell's own BaZi engine: cast charts, check the Chinese almanac, open saved charts.
 - [Fengshui Calculator](https://fengshuicalculator.com/docs/mcp/) `https://fengshuicalculator.com/v1/mcp`
   [![Fengshui Calculator MCP connector](https://glama.ai/mcp/connectors/com.fengshuicalculator/fengshui-calculator/badges/score.svg)](https://glama.ai/mcp/connectors/com.fengshuicalculator/fengshui-calculator)
   🔓 - Verifiable Chinese calendar & feng shui: BaZi, flying stars, Kua, almanac with SHA-256 replayable provenance.
