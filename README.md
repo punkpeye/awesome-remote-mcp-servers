@@ -5102,6 +5102,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [1cent](https://1cent.maxzoa.ru) `https://1cent.maxzoa.ru/mcp`
   [![1cent MCP connector](https://glama.ai/mcp/connectors/ru.maxzoa/1cent/badges/score.svg)](https://glama.ai/mcp/connectors/ru.maxzoa/1cent)
   🔓 - Extract web content and metadata, map site resources and detect page changes; x402 pay-per-call.
+- [AeonProxy](https://aeonproxy.com/docs/setup/mcp-server) `https://aeonproxy.com/mcp`
+  [![AeonProxy MCP connector](https://glama.ai/mcp/connectors/com.aeonproxy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aeonproxy/mcp)
+  🔓 🔐 - Residential and mobile proxies: coverage, prices, proxy lines, traffic usage and fetching a page from another country.
 - [Agent Company Index](https://agentcompanyindex.com) `https://agentcompanyindex.com/mcp`
   [![Agent Company Index MCP connector](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory)
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
