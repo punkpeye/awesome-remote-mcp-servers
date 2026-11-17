@@ -1866,6 +1866,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![MostExpensiveWatches MCP connector](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp)
   🔓 - Search luxury-watch listings, reference data, sourced auction records, market estimates and upcoming auctions.
 
+- [NeedATicket](https://needaticket.co.uk/developers) `https://needaticket.co.uk/mcp`
+  [![NeedATicket MCP connector](https://glama.ai/mcp/connectors/uk.co.needaticket/ticket-prices/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.needaticket/ticket-prices)
+  🔓 - Live resale ticket prices for UK and US concerts, sport, theatre and festivals, checked hourly; read-only.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NFC Tap Builder by Tap.Giving](https://tap.giving) `https://tap.giving/mcp`
