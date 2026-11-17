@@ -3251,7 +3251,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
 - [GlucoBeat](https://www.glucobeat.com/) `https://mcp.glucobeat.com`
   [![GlucoBeat MCP connector](https://glama.ai/mcp/connectors/com.glucobeat/glucobeat/badges/score.svg)](https://glama.ai/mcp/connectors/com.glucobeat/glucobeat)
-  🔐 - Read and log your glucose, meals, insulin, exercise and sleep from FreeStyle Libre in GlucoBeat.
+  🔐 - Read and log your glucose, meals, insulin, exercise and sleep from your glucose sensor in GlucoBeat.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
