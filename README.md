@@ -716,6 +716,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ankra](https://docs.ankra.ai/platform/mcp-server) `https://platform.ankra.app/api/v1/mcp`
   [![Ankra MCP connector](https://glama.ai/mcp/connectors/ai.ankra/platform/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ankra/platform)
   🔐 - Deploy and operate Kubernetes: build or import clusters, ship apps, read logs and metrics, and triage CVEs.
+- [blitz.cloud](https://blitz.cloud) `https://mcp.blitz.cloud/mcp`
+  [![blitz.cloud MCP connector](https://glama.ai/mcp/connectors/cloud.blitz/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.blitz/mcp)
+  🔐 - Put apps online in the EU from an app store, a Docker image or GitHub, add databases and read logs.
 - [briq](https://briq.cloud) `https://api.briq.cloud/mcp`
   [![briq MCP connector](https://glama.ai/mcp/connectors/cloud.briq/briq/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.briq/briq)
   🔐 - Give an agent a sandbox to run code in, Postgres, Redis or any Docker image, each on a microVM that sleeps when idle.
