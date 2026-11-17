@@ -4030,6 +4030,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RedReplier](https://redreplier.com) `https://mcp.redreplier.com/mcp`
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
+- [Reigniter](https://reigniter.ai) `https://reigniter.ai/mcp`
+  [![Reigniter MCP connector](https://glama.ai/mcp/connectors/ai.reigniter/reigniter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.reigniter/reigniter)
+  🔐 - Make on-brand video adverts, presenter videos and training videos on your brand kit, from your AI assistant.
 - [Revnu](https://revnu.com/mcp) `https://revnu.com/api/mcp`
   [![Revnu MCP connector](https://glama.ai/mcp/connectors/com.revnu/revnu/badges/score.svg)](https://glama.ai/mcp/connectors/com.revnu/revnu)
   🔐 - Review growth work, browse leads and results, message your growth agent, and schedule workflows.
