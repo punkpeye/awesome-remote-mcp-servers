@@ -1565,6 +1565,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
+- [BestPrice](https://www.bestprice.gr/) `https://mcp.bestprice.gr/mcp`
+  [![BestPrice MCP connector](https://glama.ai/mcp/connectors/gr.bestprice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/gr.bestprice/mcp)
+  🔓 - Search Greek products, compare store offers with shipping and check price history; read-only, no key.
 - [BidProwl](https://bidprowl.com/developers) `https://bidprowl.com/api/v1/mcp`
   [![BidProwl MCP connector](https://glama.ai/mcp/connectors/com.bidprowl/bidprowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidprowl/bidprowl)
   🔓 - Search live US government surplus auctions from 26 sources, plus sold-price history and a deal score per lot.
@@ -2414,6 +2417,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
+- [Paidnice](https://www.paidnice.com/mcp) `https://api.paidnice.com/mcp`
+  [![Paidnice MCP connector](https://glama.ai/mcp/connectors/com.paidnice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.paidnice/mcp)
+  🔐 - Read customer replies, contacts, invoices and notes from Paidnice accounts receivable for Xero and QuickBooks Online.
 - [PayGuard](https://api.youraitools.co/payguard/) `https://api.youraitools.co/payguard/mcp`
   [![PayGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/payguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/payguard)
   🔓 - Checks crypto addresses against the US Treasury OFAC SDN list; free yes/no preview, entity details paid via x402.
@@ -2921,6 +2927,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Povver](https://povver.ai) `https://mcp.povver.ai/mcp`
   [![Povver MCP connector](https://glama.ai/mcp/connectors/ai.povver/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.povver/mcp-server)
   🔐 - Your strength-training data: workout history, per-lift trends, muscle-group volume and routines.
+- [Psychologie & Sérénité](https://psychologieetserenite.com/?via=awesome-remote-mcp-servers) `https://psychologieetserenite.com/mcp`
+  [![Psychologie & Sérénité MCP connector](https://glama.ai/mcp/connectors/com.psychologieetserenite/catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.psychologieetserenite/catalogue)
+  🔓 - Read-only catalogue of psychology tests, books, articles and services, with EUR prices and purchase links (FR/EN).
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
