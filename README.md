@@ -1917,7 +1917,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Save words to your vocabulary, look up meanings and images, and practice them with spaced repetition.
 - [Presentr Practice](https://practice.presentr.me/claude) `https://practice.presentr.me/api/mcp/practice`
   [![Presentr Practice MCP connector](https://glama.ai/mcp/connectors/io.github.michaelw-pr/presentr-practice/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.michaelw-pr/presentr-practice)
-  🔓 - Mock job interviews: prepare a spoken practice interview for any role, get a link to start it, and a scored review after.
+  🔓 - Mock job interviews: prepare a spoken practice interview for any role, get a start link, and a scored review after.
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
