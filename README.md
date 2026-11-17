@@ -3840,8 +3840,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
-- [LeadSets](https://www.leadsets.ai) `https://mcp.leadsets.ai`
-  [![LeadSets MCP connector](https://glama.ai/mcp/connectors/ai.leadsets.mcp/lead-sets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.leadsets.mcp/lead-sets)
+- [Leadsets](https://www.leadsets.ai) `https://mcp.leadsets.ai`
+  [![Leadsets MCP connector](https://glama.ai/mcp/connectors/ai.leadsets.mcp/lead-sets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.leadsets.mcp/lead-sets)
   🔐 - Unlimited B2B Contact Data for AI agents: search people and companies, enrich records and verify work emails.
 - [LinkMCP](https://app.linkmcp.io) `https://app.linkmcp.io/api/mcp`
   [![LinkMCP MCP connector](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.linkmcp/linkmcp)
