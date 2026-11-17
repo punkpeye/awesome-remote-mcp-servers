@@ -444,9 +444,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌾 <a name="agriculture"></a>Agriculture
 
-- [Atlas Verified](https://atlasverified.ai/) `https://api.atlasverified.ai/mcp`
-  [![Atlas Verified MCP connector](https://glama.ai/mcp/connectors/ai.atlasverified/atlas-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atlasverified/atlas-mcp)
-  🔐 - Verify agricultural suppliers and certifications, review trade documents, and track shipments.
 - [BestRobotMower](https://bestrobotmower.co/dataset) `https://bestrobotmower.co/api/mcp`
   [![BestRobotMower MCP connector](https://glama.ai/mcp/connectors/io.github.yumaheymans/bestrobotmower-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yumaheymans/bestrobotmower-mcp)
   🔓 - Specs, prices, scores and yard-size picks for 23 robot lawn mowers from an open CC BY 4.0 dataset.
@@ -5144,6 +5141,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [Atlas Verified](https://atlasverified.ai/) `https://api.atlasverified.ai/mcp`
+  [![Atlas Verified MCP connector](https://glama.ai/mcp/connectors/ai.atlasverified/atlas-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atlasverified/atlas-mcp)
+  🔐 - Verify suppliers and certifications, review trade documents, and track shipments across industries.
 - [BeaconMFG](https://beacon-mfg.pages.dev) `https://beacon-mfg.pages.dev/mcp`
   [![BeaconMFG MCP connector](https://glama.ai/mcp/connectors/io.github.eiry16/beacon-mfg-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eiry16/beacon-mfg-mcp)
   🔓 - Search 210k+ Chinese suppliers and service firms by name, city or GB/T 4754 industry; keyless.
