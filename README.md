@@ -2432,6 +2432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
+- [EchoPai](https://echopai.com) `https://mcp.huishengpai.com/mcp`
+  [![EchoPai MCP connector](https://glama.ai/mcp/connectors/com.huishengpai.mcp/echopai-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.huishengpai.mcp/echopai-mcp)
+  🔐 - Event-driven China equity (A-share) & quantitative research MCP server with 50 real-time tools: full-text broker reports, analyst attribution, corporate filings, sentiment cycles, limit-up analytics and concept boards.
 - [Edgrapi](https://edgrapi.com) `https://api.edgrapi.com/mcp`
   [![Edgrapi MCP connector](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills)
   🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
