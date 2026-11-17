@@ -3192,7 +3192,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
 - [SEO Rank Fixer](https://seorankfixer.com/connectors) `https://seorankfixer.com/api/mcp`
   [![SEO Rank Fixer MCP connector](https://glama.ai/mcp/connectors/com.seorankfixer/seo-rank-fixer/badges/score.svg)](https://glama.ai/mcp/connectors/com.seorankfixer/seo-rank-fixer)
-  🔐 - Google Search Console and Bing data with SEO fixes ranked by the clicks they can win, plus site audits, index status, page scans and AI search visibility.
+  🔐 - Google Search Console and Bing data with SEO fixes ranked by clicks, plus site audits, page scans and AI visibility.
 - [seodata.dev](https://www.seodata.dev/mcp) `https://mcp.seodata.dev/mcp`
   [![seodata.dev MCP connector](https://glama.ai/mcp/connectors/dev.seodata/keywords/badges/score.svg)](https://glama.ai/mcp/connectors/dev.seodata/keywords)
   🔓 - Google search volume, CPC, competition and similar keywords for 50+ countries.
