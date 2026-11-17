@@ -6600,6 +6600,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Youform](https://youform.com/) `https://app.youform.com/mcp`
   [![Youform MCP connector](https://glama.ai/mcp/connectors/io.github.mkmaker/youform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mkmaker/youform)
   🔐 - Create forms, surveys and quizzes, edit drafts, publish approved changes, and analyze submissions.
+- [Yoya](https://yoya.ai) `https://yoya.ai/api/mcp`
+  [![Yoya MCP connector](https://glama.ai/mcp/connectors/io.github.makloai/yoya/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makloai/yoya)
+  🔐 - Run an AI scheduling assistant: create booking links, set availability, list bookings and read meeting briefs.
+- [Yoya Booking](https://yoya.ai/help/mcp) `https://yoya.ai/api/mcp/book`
+  [![Yoya Booking MCP connector](https://glama.ai/mcp/connectors/io.github.makloai/yoya-booking/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makloai/yoya-booking)
+  🔓 - Find open times on a host's Yoya booking page and book, reschedule or cancel a meeting, with no account.
 - [Zenning](https://zenning.ai) `https://api.zenning.ai/api/mcp`
   [![Zenning MCP connector](https://glama.ai/mcp/connectors/ai.zenning/zenning/badges/score.svg)](https://glama.ai/mcp/connectors/ai.zenning/zenning)
   🔐 - Run Zenning AI employees and ask Zenning to act across Gmail, Slack, CRMs and 2,000+ connected apps.
