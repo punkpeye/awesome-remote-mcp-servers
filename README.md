@@ -6662,6 +6662,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
+- [Lavenders (LAVNDR120)](https://lavndrs120.github.io/) `https://lavndr.omssolutionorders.workers.dev/mcp`
+  [![Lavenders MCP connector](https://glama.ai/mcp/connectors/io.github.lavndrs120/lavenders/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lavndrs120/lavenders)
+  🔓 - Read-only facts on Lavenders: brand overview, packages, FAQ and the live consumer index card.
 - [LifeVerse Product Discovery](https://lifeverse.gufreelancer.com/mcp) `https://lifeverse.gufreelancer.com/api/mcp?source=mcp-directory`
   [![LifeVerse Product Discovery MCP connector](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog)
   🔓 - Discover, search and recommend eleven ready-to-use LifeVerse AI products and interactive experiences.
