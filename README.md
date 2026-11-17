@@ -270,6 +270,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Store API](https://store-api.com/mcp-guide) `https://store-api.com/mcp`
   [![Store API MCP connector](https://glama.ai/mcp/connectors/com.store-api/store-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.store-api/store-api)
   🔓 - Ask 58 models, including GPT, Claude and Gemini, and generate images; calls need a prepaid key.
+- [Stork](https://www.stork.ai/mcp) `https://mcp.stork.ai/core`
+  [![Stork MCP connector](https://glama.ai/mcp/connectors/ai.stork/core/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stork/core)
+  🔓 - Web search, page reading, library docs and GitHub repo answers through one endpoint; each reply names its provider.
 - [Superpowers](https://superpowers.tools) `https://superpowers.tools/mcp`
   [![Superpowers MCP connector](https://glama.ai/mcp/connectors/tools.superpowers/superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/tools.superpowers/superpowers)
   🔓 - LLMs, web search, scraping, media and business data with one key; compare providers; calls need a key.
