@@ -3646,6 +3646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [Mandate Law](https://mandatelaw.ai) `https://mandatelaw.ai/mcp`
+  [![Mandate Law MCP connector](https://glama.ai/mcp/connectors/ai.mandatelaw/counsel/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mandatelaw/counsel)
+  🔓 - A US law firm's server: free scope and fee checks, then fixed-fee legal review of AI apps and agents.
 - [ONYST RVG](https://onyst.legal/mcp/en) `https://api.onyst.legal/mcp`
   [![ONYST RVG MCP connector](https://glama.ai/mcp/connectors/legal.onyst/rvg/badges/score.svg)](https://glama.ai/mcp/connectors/legal.onyst/rvg)
   🔐 - German lawyers' fees under the RVG, values in dispute and invoices, every amount from the ONYST fee engine.
