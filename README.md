@@ -566,7 +566,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Pomerado](https://pomerado.ai) `https://mcp.pomerado.ai/mcp`
   [![Pomerado MCP connector](https://glama.ai/mcp/connectors/ai.pomerado/pomerado/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pomerado/pomerado)
-  🔐 - Tools for the websites you use, for looking things up, filling in forms and automating web workflows.
+  🔐 - Connect your agents to any website. The cheaper, faster, and more reliable alternative to browser use.
 
 - [screenshot.com.ar](https://screenshot.com.ar) `https://screenshot.com.ar/mcp`
   [![screenshot.com.ar MCP connector](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.screenshot/screenshot)
