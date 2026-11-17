@@ -1930,6 +1930,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FRCEM Mentor](https://www.frcementor.com/blog/frcem-practice-questions-claude-chatgpt) `https://www.frcementor.com/mcp`
   [![FRCEM Mentor MCP connector](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor/badges/score.svg)](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor)
   🔓 - FRCEM Final SBA exam practice for UK emergency medicine doctors: free questions marked with explanations and references.
+- [FreeDict](https://freedict.com/api/docs) `https://freedict.com/mcp`
+  [![FreeDict MCP connector](https://glama.ai/mcp/connectors/com.freedict/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.freedict/mcp)
+  🔐 - English dictionary for AI apps: definitions, synonyms, rhymes, pronunciation, origins, translations.
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
