@@ -6284,7 +6284,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare live hotel and flight prices across Booking.com, Agoda, Trip.com and Traveloka, in USD.
 - [RentADriver](https://rentadriver.ai/docs/mcp) `https://mcp.rentadriver.ai/mcp`
   [![RentADriver MCP connector](https://glama.ai/mcp/connectors/ai.rentadriver.mcp/rent-adriver-sameday-delivery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.rentadriver.mcp/rent-adriver-sameday-delivery)
-  🔐 - Quote, book and track same-day package deliveries by vetted drivers in UK and US cities, with proof of delivery.
+  🔓 - Quote, book and track same-day package deliveries by vetted drivers in UK and US cities, with proof of delivery.
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
