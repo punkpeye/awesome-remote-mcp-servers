@@ -6100,6 +6100,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Webtzm](https://webtzm.com/docs/ai-assistants) `https://webtzm.com/mcp/workspace`
   [![Webtzm MCP connector](https://glama.ai/mcp/connectors/io.github.anotherdteach-maker/webtzm/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anotherdteach-maker/webtzm)
   🔐 - Create and manage forms that send submissions to Google Sheets, and get their HTML for any website.
+- [Weeklane](https://weeklane.app/ai) `https://mcp.weeklane.app/mcp`
+  [![Weeklane MCP connector](https://glama.ai/mcp/connectors/app.weeklane/weeklane/badges/score.svg)](https://glama.ai/mcp/connectors/app.weeklane/weeklane)
+  🔐 - Plan your week in Weeklane: add, move and complete tasks, manage repeating tasks and Task Lock, and undo changes.
 - [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
   [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
   🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
