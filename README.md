@@ -1328,6 +1328,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cuelark Tools](https://tools.cuelark.com/mcp) `https://tools.cuelark.com/mcp`
   [![Cuelark Tools MCP connector](https://glama.ai/mcp/connectors/com.cuelark/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.cuelark/tools)
   🔓 - Exact text and data tools: JSON, tokens, cron, dates, US tax, routing checks, and citations.
+- [Data Cleaner](https://data-cleaner.com/mcp/) `https://mcp.data-cleaner.com/mcp`
+  [![Data Cleaner MCP connector](https://glama.ai/mcp/connectors/com.data-cleaner/data-cleaner/badges/score.svg)](https://glama.ai/mcp/connectors/com.data-cleaner/data-cleaner)
+  🔓 - Turns a messy CSV, Excel, JSON or XML file or URL into a clean, typed table to page, query with SQL and export.
 - [Datakoot Package Intel](https://datakoot.com/package-intel) `https://package.datakoot.com/mcp`
   [![Datakoot Package Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/npm-pypi-crates-packages)
   🔓 - npm, PyPI and crates.io package health, versions, downloads, dependencies and advisories.
@@ -5217,6 +5220,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
+- [EverTables](https://evertables.com/mcp) `https://mcp.evertables.com/mcp`
+  [![EverTables MCP connector](https://glama.ai/mcp/connectors/com.evertables/evertables/badges/score.svg)](https://glama.ai/mcp/connectors/com.evertables/evertables)
+  🔓 - Searches a catalogue of cleaned, typed open-data tables and runs SQL over any of them; read only.
 - [EveryInfra](https://everyinfra.com/en) `https://api.everyinfra.com/mcp`
   [![EveryInfra MCP connector](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra)
   🔓 - Structured data from 90 platforms, incl. RedNote, Douyin, TikTok and Amazon, plus web search; API key for tool calls.
