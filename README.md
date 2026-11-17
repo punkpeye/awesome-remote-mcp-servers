@@ -3267,6 +3267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NobetciEczane.org](https://nobetcieczane.org/) `https://nobetcieczane.org/mcp`
   [![NobetciEczane.org MCP connector](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane/badges/score.svg)](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane)
   🔓 - Today's on-duty pharmacies in all 81 provinces of Türkiye and the TRNC, by district or nearest to a location.
+- [Norm](https://norm.place/en/ai) `https://app.norm.place/api/mcp`
+  [![Norm Booking MCP connector](https://glama.ai/mcp/connectors/place.norm/booking/badges/score.svg)](https://glama.ai/mcp/connectors/place.norm/booking)
+  🔐 - Browse prices and free times and book, list or cancel visits at Norm's two Warsaw beauty studios.
 - [P.R.O. Apple Health](https://proapp.uk/apple-health-mcp) `https://mcp.proapp.uk`
   [![P.R.O. Apple Health MCP connector](https://glama.ai/mcp/connectors/io.github.runwithfun/pro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.runwithfun/pro)
   🔐 - Your Apple Health workouts, sleep, HRV and training plan in ChatGPT, Claude, Gemini and Grok. Free, from any device.
