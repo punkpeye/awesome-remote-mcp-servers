@@ -4333,6 +4333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Upstream](https://upstream-api.pages.dev) `https://upstream.toolweather.workers.dev/mcp`
   [![Upstream MCP connector](https://glama.ai/mcp/connectors/io.github.toolweather/upstream/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toolweather/upstream)
   🔓 - Live status, incidents and model deprecations for ~40 AI and developer APIs, plus a daily digest.
+- [Uptimeify](https://uptimeify.io/mcp-server) `https://uptimeify.io/mcp`
+  [![Uptimeify MCP connector](https://glama.ai/mcp/connectors/io.uptimeify/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.uptimeify/mcp-server)
+  🔓 - Read monitors, uptime and incidents, post status page updates, plan maintenance and check who is on call.
 - [Uptimepage](https://uptimepage.dev/mcp-server) `https://mcp.uptimepage.dev/mcp`
   [![Uptimepage MCP connector](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.uptimepage/uptimepage)
   🔓 - Read monitors and incidents, run checks, create monitors and status pages, post incident updates. Calls need OAuth.
