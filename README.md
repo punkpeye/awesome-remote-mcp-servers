@@ -6345,6 +6345,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [What's Up In](https://whatsupin.ai/agents/) `https://whatsupin.ai/mcp`
   [![What's Up In MCP connector](https://glama.ai/mcp/connectors/ai.whatsupin/events/badges/score.svg)](https://glama.ai/mcp/connectors/ai.whatsupin/events)
   🔓 - Upcoming local events in 14 US cities by date, topic, neighborhood or artist, each linked to its source.
+- [WhichAgent Car Rental](https://whichagent.ai/cli/whichagent-car-rental) `https://whichagent.ai/api/categories/car-rental/mcp`
+  [![WhichAgent Car Rental MCP connector](https://glama.ai/mcp/connectors/ai.whichagent/car-rental/badges/score.svg)](https://glama.ai/mcp/connectors/ai.whichagent/car-rental)
+  🔓 - Search and compare independent car-rental companies in Orange County, CA, check availability and hand off to book.
 - [Your Next Tours](https://yournext.tours/ai-assistant-integration/) `https://api.yournext.tours/api/mcp/guide`
   [![Your Next Tours MCP connector](https://glama.ai/mcp/connectors/tours.yournext/guide/badges/score.svg)](https://glama.ai/mcp/connectors/tours.yournext/guide)
   🔐 - Tour guide workspace: turn a PDF or web page into a tour program, open trips, add guests and edit your site.
