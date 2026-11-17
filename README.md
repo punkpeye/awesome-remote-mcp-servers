@@ -3851,6 +3851,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [KissMyPost](https://kissmypost.com/mcp) `https://kissmypost.com/api/mcp`
+  [![KissMyPost MCP connector](https://glama.ai/mcp/connectors/com.kissmypost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kissmypost/mcp)
+  🔓 - Reddit audience research: find subreddits by topic, audience stats, best posting time, posting rules and brand mentions.
+
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
   🔐 - Whether ChatGPT, Claude, Gemini, Perplexity and Google AI name your brand and what they cite; needs a paid plan.
