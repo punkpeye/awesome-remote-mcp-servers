@@ -4131,6 +4131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Signal by StackEnhance](https://stackenhance.com/signal) `https://mcp.stackenhance.com/mcp`
   [![Signal by StackEnhance MCP connector](https://glama.ai/mcp/connectors/com.stackenhance/signal/badges/score.svg)](https://glama.ai/mcp/connectors/com.stackenhance/signal)
   🔓 - How often Nordic and German e-commerce brands send marketing email: send counts, dates and the most active senders.
+- [Skipole Connect](https://skipoledata.com/?utm_source=github&utm_medium=directory&utm_campaign=awesome_remote_mcp) `https://skipole-data-platform.replit.app/mcp`
+  [![Skipole Connect MCP connector](https://glama.ai/mcp/connectors/io.github.dubbleblack/skipole-connect/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dubbleblack/skipole-connect)
+  🔐 - Browse licensed audiences and owned orders with customer-approved purchase links; paid MCP purchasing unverified.
 - [Soundlink](https://www.getsoundlink.com/docs/mcp-server) `https://api.getsoundlink.com/mcp`
   [![Soundlink MCP connector](https://glama.ai/mcp/connectors/com.getsoundlink.api/soundlink-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.getsoundlink.api/soundlink-mcp-server)
   🔐 - Read-only Meta-to-Spotify attribution, cost per listener, campaign comparisons, and returning-listener analytics.
