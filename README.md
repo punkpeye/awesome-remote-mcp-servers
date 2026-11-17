@@ -1651,6 +1651,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TechFabric](https://www.techfabric.com) `https://www.techfabric.com/mcp`
   [![TechFabric MCP connector](https://glama.ai/mcp/connectors/com.techfabric/techfabric/badges/score.svg)](https://glama.ai/mcp/connectors/com.techfabric/techfabric)
   🔓 - Search and read TechFabric's Databricks and AI content: blog posts with FAQs, services, case studies.
+- [Tensorust Developer](https://tensorust.com/developers/) `https://mcp.tensorust.com/mcp`
+  [![Tensorust Developer MCP connector](https://glama.ai/mcp/connectors/com.tensorust/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tensorust/mcp)
+  🔓 - Dated LLM and GPU prices, real crates.io downloads, RustSec checks for crates, and dev utilities, each with its source.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
