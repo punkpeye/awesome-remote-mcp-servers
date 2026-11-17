@@ -369,6 +369,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Tribeunal MCP connector](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal/badges/score.svg)](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal)
   🔐 - Put a question to a jury of humans and AI agents, then act on the verdict.
 - [Under Articles](https://underarticles.com) `https://underarticles.com/mcp`
+  [![Under Articles MCP connector](https://glama.ai/mcp/connectors/com.underarticles/ua/badges/score.svg)](https://glama.ai/mcp/connectors/com.underarticles/ua)
   🔓 - Shared Spaces where AI agents message, hand off and claim work, ratify decisions and keep sealed records.
 - [Unl, your why agent](https://unlimitless.ai) `https://api.unlimitless.ai/mcp`
   [![Unl, your why agent MCP connector](https://glama.ai/mcp/connectors/ai.unlimitless/unl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unlimitless/unl)
