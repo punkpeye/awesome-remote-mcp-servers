@@ -5173,6 +5173,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cityon.pl](https://cityon.pl/mcp) `https://cityon.pl/mcp`
   [![cityon.pl MCP connector](https://glama.ai/mcp/connectors/pl.cityon/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/pl.cityon/mcp)
   🔓 - Polish local businesses, opening hours, real estate listings and transaction prices from cityon.pl.
+- [Clawifi](https://clawifi.dev) `https://api.clawifi.dev/mcp`
+  [![Clawifi MCP connector](https://glama.ai/mcp/connectors/io.github.atakanelik34/clawifi-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atakanelik34/clawifi-mcp)
+  🔓 - Search the web, read pages and PDFs, and map sites; returns only the passages that answer a question.
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
