@@ -1240,6 +1240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AGILEX Docs](https://service.agilex.ai/agilex-docs/) `https://service.agilex.ai/agilex-docs/mcp`
   [![AGILEX Docs MCP connector](https://glama.ai/mcp/connectors/ai.agilex.service/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agilex.service/docs)
   🔓 - Official AgileX robotics docs: user manuals, CAN 2.0B protocol, firmware notes and after-sales FAQ.
+- [Agnes](https://agnes.dev/agents) `https://app.agnes.dev/api/mcp`
+  [![Agnes MCP connector](https://glama.ai/mcp/connectors/dev.agnes/agnes/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agnes/agnes)
+  🔐 - Read your frontend repos' health scores and findings, rank fixes by points gained, and fetch SBOMs.
 - [AI Commander](https://aicommander.dev) `https://aicommander.dev/mcp`
   [![AI Commander MCP connector](https://glama.ai/mcp/connectors/dev.aicommander/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aicommander/mcp)
   🔐 - Remote shell and detached jobs on your machines — harness for Claude Code, Codex, ChatGPT, Cursor.
