@@ -2231,6 +2231,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIStrategyMiner](https://aistrategyminer.com/en/docs/ai/connect) `https://aistrategyminer.com/mcp`
   [![AIStrategyMiner MCP connector](https://glama.ai/mcp/connectors/com.aistrategyminer/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aistrategyminer/mcp)
   🔓 - Draft and validate trading strategy flows from templates, then open them in a visual no-code Strategy Builder.
+- [Akari InvestAI](https://03s9tr085tfe5agke0tpqng34o.ingress.quanglong.org/market) `https://03s9tr085tfe5agke0tpqng34o.ingress.quanglong.org/mcp`
+  🔓 - 35 pay-per-call crypto tools: Hyperliquid perp funding ranked by realized carry, mark-vs-oracle premium, Base token safety, wallet verdicts, TradingView TA, Reddit sentiment and Polymarket in-play edge; USDC on Base via x402, no API keys.
 - [Algolab MCP](https://algolab.vn/mcp) `https://mcp.algolab.vn/free`
   [![Algolab MCP connector](https://glama.ai/mcp/connectors/vn.algolab/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vn.algolab/mcp)
   🔓 - Vietnam stock market data: prices, financials, broker research, macro indicators and a VN-Index forecast.
