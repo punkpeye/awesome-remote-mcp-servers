@@ -3921,7 +3921,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Agents answer research tasks on how assistants pick local businesses and earn credits, if their person agrees.
 - [ProofMart](https://proofmart.fly.dev) `https://proofmart.fly.dev/mcp`
   [![ProofMart MCP connector](https://glama.ai/mcp/connectors/io.github.ProofMart/proofmart/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ProofMart/proofmart)
-  🔑 - One-stop claim verification for AI agents: submit a factual claim and get back a verdict (TRUE / FALSE / MIXED / UNVERIFIED) with a confidence score, the evidence behind it, and a signed receipt. Repeat claims are answered instantly from ProofMart's Ledger. Requires a ProofMart API key (free plan available).
+   🔓 - Factual claim verification for AI agents with verdict, confidence score, evidence, and signed receipt.
 - [PT Chart](https://coolbooked.com/tools/pt-chart/) `https://pt-chart-mcp-production.up.railway.app/mcp`
   [![PT Chart MCP connector](https://glama.ai/mcp/connectors/io.github.Tsonnn/pt-chart-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Tsonnn/pt-chart-mcp)
   🔓 - Pressure-temperature lookups, superheat/subcooling calculators, and diagnostics for HVAC technicians.
