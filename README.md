@@ -2261,6 +2261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apifirme](https://apifirme.dev) `https://api.apifirme.dev/mcp`
   [![apifirme MCP connector](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme)
   🔐 - Romanian company data from official registers: status, VAT, financial statements, new registrations, BNR rates.
+- [AR Tools](https://ar-tools-api-103907796853.us-east1.run.app/) `https://ar-tools-api-103907796853.us-east1.run.app/mcp`
+  [![AR Tools MCP connector](https://glama.ai/mcp/connectors/io.github.TorlettiJoaquin/ar-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TorlettiJoaquin/ar-tools)
+  🔐 - Argentina: validate CUIT/CUIL and CBU/CVU with bank lookup, normalize phones for WhatsApp, and live dollar rates.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
@@ -2554,6 +2557,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hunter Killer](https://hunterkiller.io/for-agents) `https://agents.hunterkiller.io/mcp`
   [![Hunter Killer MCP connector](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer)
   🔐 - Liquidation walls, snapshot age, evidence labels and a public record for crypto perpetual pairs.
+- [Índices AR](https://indices-ar-api-103907796853.us-east1.run.app/) `https://indices-ar-api-103907796853.us-east1.run.app/mcp`
+  [![Índices AR MCP connector](https://glama.ai/mcp/connectors/io.github.TorlettiJoaquin/indices-ar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TorlettiJoaquin/indices-ar)
+  🔐 - Argentina: inflation (IPC), UVA, CER and ICL, rent increase schedules, historical dollar rates and business days.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
@@ -6636,6 +6642,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CSV File Tools](https://csvfile.tools/mcp) `https://csvfile.tools/api/csv/mcp`
   [![CSV File Tools MCP connector](https://glama.ai/mcp/connectors/tools.csvfile/csv-file-tools/badges/score.svg)](https://glama.ai/mcp/connectors/tools.csvfile/csv-file-tools)
   🔓 - Inspect, filter, sort and edit CSV text with four free remote tools.
+- [Direcciones AR](https://direcciones-ar-api-103907796853.us-east1.run.app/) `https://direcciones-ar-api-103907796853.us-east1.run.app/mcp`
+  [![Direcciones AR MCP connector](https://glama.ai/mcp/connectors/io.github.TorlettiJoaquin/direcciones-ar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TorlettiJoaquin/direcciones-ar)
+  🔐 - Argentina: normalize and geocode addresses with the official street map (INDEC/IGN), localities and reverse lookup.
 - [Dollea Salon](https://www.dollea.de/agents/?language=en) `https://www.dollea.de/mcp/salon`
   [![Dollea Salon MCP connector](https://glama.ai/mcp/connectors/de.dollea/salon/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/salon)
   🔓 - Public beauty service catalog and slots in Munich; OAuth for booking and private appointments.
