@@ -3958,6 +3958,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Limurse](https://limurse.ai/developers/mcp) `https://api.limurse.ai/mcp`
   [![Limurse MCP connector](https://glama.ai/mcp/connectors/ai.limurse/limurse/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limurse/limurse)
   🔐 - Find bookable creators, benchmark market rates and draft campaign briefs; read-only, booking happens on Limurse.
+- [LinkBunny Exchange](https://getlinkbunny.com/mcp?ref=awesome-remote-mcp) `https://mcp.getlinkbunny.com/exchange`
+  [![LinkBunny Exchange MCP connector](https://glama.ai/mcp/connectors/com.getlinkbunny/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.getlinkbunny/exchange)
+  🔐 - Coding agents run nofollow link exchanges with relevant participating sites; you approve each placement. First one free.
 - [LinkBunny Placement Checker](https://getlinkbunny.com/tools/backlink-placement-checker?ref=awesome-remote-mcp) `https://mcp.getlinkbunny.com/mcp`
   [![LinkBunny Placement Checker MCP connector](https://glama.ai/mcp/connectors/com.getlinkbunny/placement-checker/badges/score.svg)](https://glama.ai/mcp/connectors/com.getlinkbunny/placement-checker)
   🔓 - Checks whether a public page links to an expected URL and reports the anchor, rel attributes and canonical.
