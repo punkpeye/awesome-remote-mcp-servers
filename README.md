@@ -825,7 +825,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
 - [while.sh](https://while.sh/en/) `https://app.while.sh/mcp`
   [![while.sh MCP connector](https://glama.ai/mcp/connectors/sh.while/while/badges/score.svg)](https://glama.ai/mcp/connectors/sh.while/while)
-  🔐 - Your agent deploys the apps it builds, for your team only or for everyone, hosted in France.
+  🔐 - Your agent deploys the apps it builds, for your team only or for everyone; try it free, no account.
   
 ### 💬 <a name="communication"></a>Communication
 
