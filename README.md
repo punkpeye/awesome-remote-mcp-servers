@@ -3532,6 +3532,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Substrate](https://trysubstrate.co/?utm_source=awesome-remote-mcp&utm_medium=listing&utm_campaign=plugin-listings&utm_content=plugin) `https://app.trysubstrate.co/mcp`
   [![Substrate MCP connector](https://glama.ai/mcp/connectors/co.trysubstrate/memory/badges/score.svg)](https://glama.ai/mcp/connectors/co.trysubstrate/memory)
   🔐 - Shared memory for your agents: recall cited facts, save and correct them, and forget lines on request.
+- [Synaplan](https://synaplan.com) `https://web.synaplan.com/mcp`
+  [![Synaplan MCP connector](https://glama.ai/mcp/connectors/io.github.metadist/synaplan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.metadist/synaplan)
+  🔓 - Semantic document search (RAG), long-term user memories, and AI chat over your Synaplan workspace; an API key is required to call tools.
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
