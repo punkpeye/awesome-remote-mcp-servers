@@ -1246,6 +1246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Design Blueprint](https://aidesignblueprint.com) `https://aidesignblueprint.com/mcp`
   [![AI Design Blueprint MCP connector](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidesignblueprint/blueprint)
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
+- [AI Rate Card](https://airatecard.com) `https://airatecard.com/mcp`
+  [![AI Rate Card MCP connector](https://glama.ai/mcp/connectors/com.airatecard/ai-rate-card/badges/score.svg)](https://glama.ai/mcp/connectors/com.airatecard/ai-rate-card)
+  🔓 - Daily-checked AI model API prices from 120+ providers: search, compare, find the cheapest, estimate monthly cost.
 - [AiLinkAny](https://ailinkany.com) `https://mcp.ailinkany.com/mcp`
   [![AiLinkAny MCP connector](https://glama.ai/mcp/connectors/io.github.zhangduochuan/ailinkany/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhangduochuan/ailinkany)
   🔐 - Control authorized Windows PCs: files, shell, apps and task status; computer execution needs a subscription.
