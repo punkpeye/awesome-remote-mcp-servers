@@ -3063,6 +3063,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
   🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
+- [Droklo](https://www.droklo.com) `https://www.droklo.com/api/mcp`
+  🔐 - Shared household food memory: each person's targets and foods to avoid, saved recipes, the meal plan, meal logs and one live shopping list.
 - [Dukkani](https://dukkanlink.com) `https://dukkanlink.com/mcp`
   [![Dukkani MCP connector](https://glama.ai/mcp/connectors/io.github.suhaH5/dukkani/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.suhaH5/dukkani)
   🔓 - Find Saudi neighbourhood groceries by city and district, and prepare a WhatsApp shopping list to send them.
