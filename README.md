@@ -850,7 +850,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build and edit a Keepp page (links, shop, bookings, forms) at keepp.link/yourname.
 - [KENJTEC](https://kenjtec.com/en/developers) `https://api.kenjtec.com/mcp`
   [![KENJTEC MCP connector](https://glama.ai/mcp/connectors/com.kenjtec/kenjtec/badges/score.svg)](https://glama.ai/mcp/connectors/com.kenjtec/kenjtec)
-  🔐 - Build and publish websites with AI, manage domains and DNS, write and issue invoices, and read forms, shops and media in your KENJTEC account.
+  🔐 - Build and publish websites with AI, run shops and forms, manage domains and DNS, issue and send invoices, and handle media, brand, print and WordPress in your KENJTEC account.
 - [Kleap](https://kleap.co/mcp) `https://kleap.co/api/mcp`
   [![Kleap MCP connector](https://glama.ai/mcp/connectors/co.kleap/kleap/badges/score.svg)](https://glama.ai/mcp/connectors/co.kleap/kleap)
   🔓 - Build, edit, publish and manage real websites and web apps from your AI agent.
