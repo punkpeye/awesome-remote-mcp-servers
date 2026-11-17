@@ -462,6 +462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [Bannerify](https://bannerify.co/docs/mcp/overview) `https://api.bannerify.co/mcp`
+  [![Bannerify MCP connector](https://glama.ai/mcp/connectors/io.github.bannerify/bannerify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bannerify/bannerify)
+  🔐 - Generate images and PDFs from your design templates, or compose a one-off image from shapes.
 - [BeautySpark](https://beautyspark.me) `https://mcp.beautyspark.me/mcp`
   [![BeautySpark MCP connector](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp)
   🔓 - Makeup and colour-season guidance sourced from BeautySpark's articles, plus saved looks for signed-in users.
