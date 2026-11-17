@@ -4250,7 +4250,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Read EXIF, GPS, XMP, C2PA and AI-generator metadata from a public image or video URL.
 - [Importly](https://importly.io) `https://mcp.importly.io/mcp`
   [![Importly MCP connector](https://glama.ai/mcp/connectors/io.importly/importly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.importly/importly-mcp)
-  🔐 - Download, transcribe and inspect any video or audio URL. Hosted, with rotating residential proxies and speech-to-text, so it works from servers and agent sandboxes that get blocked. $3 free credit, no card.
+  🔐 - Download, transcribe, and read metadata for any video or audio URL. Works from servers and agent sandboxes.
 - [Incarn](https://www.incarn.co/developers) `https://api.incarn.co/mcp`
   [![Incarn MCP connector](https://glama.ai/mcp/connectors/co.incarn/photo-animation/badges/score.svg)](https://glama.ai/mcp/connectors/co.incarn/photo-animation)
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
