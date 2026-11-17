@@ -3210,6 +3210,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TickerMint](https://tickermint.cards/developers) `https://api.tickermint.cards/mcp`
   [![TickerMint MCP connector](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seankarltonlee/tickermint)
   🔓 - Daily trading card prices and history for Pokémon, One Piece, Lorcana, Yu-Gi-Oh, Riftbound and Gundam.
+- [TwitchBoard](https://www.twitchboard.net/mcp-server/) `https://www.twitchboard.net/mcp`
+  [![TwitchBoard MCP connector](https://glama.ai/mcp/connectors/net.twitchboard/twitchboard/badges/score.svg)](https://glama.ai/mcp/connectors/net.twitchboard/twitchboard)
+  🔓 - Streamer tools: Twitch, YouTube and Discord image sizes, name ideas, OBS widgets and bitrate, earnings estimates.
 - [Vice City Hub](https://vicecityhub.github.io/vicecityhub/agents.html) `https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp`
   [![Vice City Hub MCP connector](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub)
   🔓 - GTA VI news, GTA RP servers, Web3 domains, merch and crypto donations for AI agents.
