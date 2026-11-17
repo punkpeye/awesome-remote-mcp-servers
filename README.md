@@ -3745,6 +3745,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AgentPixel MCP connector](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentpixel/agentpixel)
   🔓 - Most visitors never fill out a form. Turn the ones who say yes into contacts your agent reads.
 
+- [AI Bot Access Checker](https://seopaslaugos.io/en/tools/ai-bot-access-checker) `https://tools.seopaslaugos.io/mcp`
+  [![AI Bot Access Checker MCP connector](https://glama.ai/mcp/connectors/io.seopaslaugos/ai-bot-access-checker/badges/score.svg)](https://glama.ai/mcp/connectors/io.seopaslaugos/ai-bot-access-checker)
+  🔓 - Tests whether 13 AI and search crawlers like GPTBot and ClaudeBot are blocked by robots.txt or the server/firewall.
 - [AI Monk Index](https://aniccaai.com/ai-monk-database) `https://aniccaai.com/.netlify/functions/ai-monk-mcp`
   [![AI Monk Index MCP connector](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index)
   🔓 - Research AI monk creator accounts: sourced profiles, video formats, offers and published playbooks.
