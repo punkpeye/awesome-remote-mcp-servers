@@ -6062,6 +6062,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Actually Asked](https://actuallyasked.com/mcp) `https://mcp.actuallyasked.com/mcp`
   [![Actually Asked MCP connector](https://glama.ai/mcp/connectors/com.actuallyasked/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.actuallyasked/mcp)
   🔐 - Review what visitors asked on your website, publish FAQ answers written from your own pages, and follow up on leads.
+- [Asks.app](https://asks.app/integrations/mcp) `https://api.asks.app/v1/mcp`
+  [![Asks.app MCP connector](https://glama.ai/mcp/connectors/app.asks/asks/badges/score.svg)](https://glama.ai/mcp/connectors/app.asks/asks)
+  🔐 - Run your AI support agent, knowledge base, inbox, tickets and customers, with a person confirming each customer reply.
 - [Canopy by Copp Oak](https://coppoak.com/canopy/) `https://mcp.coppoak.com/mcp/public`
   [![Canopy by Copp Oak MCP connector](https://glama.ai/mcp/connectors/com.coppoak/canopy/badges/score.svg)](https://glama.ai/mcp/connectors/com.coppoak/canopy)
   🔓 - Book local HVAC and plumbing services: check bookable shops, see live availability, and book, reschedule or cancel.
