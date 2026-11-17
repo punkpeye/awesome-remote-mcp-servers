@@ -5655,6 +5655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
+- [NullClear Arbiter](https://nullclear.dev) `https://api.nullclear.dev/mcp`
+  [![Nullclear-Protocol/nullclear MCP server](https://glama.ai/mcp/servers/Nullclear-Protocol/nullclear/badges/score.svg)](https://glama.ai/mcp/servers/Nullclear-Protocol/nullclear)
+  🔓 - Zero-key Base/ETH/Solana token & contract forensics, calldata/revert decoder, pre-flight tx simulator, and non-custodial x402 deferred escrow clearing.
 - [Odile Gate](https://gate.odilelabs.com) `https://gate.odilelabs.com/mcp`
   [![Odile Gate MCP connector](https://glama.ai/mcp/connectors/com.odilelabs/gate/badges/score.svg)](https://glama.ai/mcp/connectors/com.odilelabs/gate)
   🔓 - Gateway for the API your AI agent calls: per-app keys, allowed calls, loop breaker, approvals and an audit log.
