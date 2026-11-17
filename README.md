@@ -3851,6 +3851,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [PandaCrawl](https://pandacrawl.app/docs/mcp) `https://app.pandacrawl.app/mcp`
+  [![PandaCrawl MCP connector](https://glama.ai/mcp/connectors/app.pandacrawl/pandacrawl/badges/score.svg)](https://glama.ai/mcp/connectors/app.pandacrawl/pandacrawl)
+  🔐 - SEO and AI visibility: keyword research, rank tracking, audits, Search Console, and ChatGPT/Claude mention tracking.
+
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
   🔐 - Whether ChatGPT, Claude, Gemini, Perplexity and Google AI name your brand and what they cite; needs a paid plan.
