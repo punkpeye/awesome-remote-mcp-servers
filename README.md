@@ -3228,6 +3228,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
 
+- [2hives](https://2hives.com/ai/connect) `https://2hives.com/mcp/full/mcp-registry`
+  [![2hives MCP connector](https://glama.ai/mcp/connectors/com.2hives/meditation/badges/score.svg)](https://glama.ai/mcp/connectors/com.2hives/meditation)
+  🔓 - Find and play free guided sleep, breathing, focus and relaxation audio sessions in your language.
 - [AIm Workout Journal](https://aim-journal.com) `https://aim-journal.com/mcp`
   [![AIm Workout Journal MCP connector](https://glama.ai/mcp/connectors/com.aim-journal/aim/badges/score.svg)](https://glama.ai/mcp/connectors/com.aim-journal/aim)
   🔐 - Workout journal your assistant writes to: log and correct workouts, plan a program, see records and volume.
