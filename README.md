@@ -1730,6 +1730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![mcpserverlist-mcp MCP connector](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp)
   🔓 - Check if your MCP server is ready for MCP directories, then get it submitted.
 
+- [XSDHub](https://xsdhub.com/ai) `https://xsdhub.com/mcp`
+  [![XSDHub MCP connector](https://glama.ai/mcp/connectors/com.xsdhub/validation/badges/score.svg)](https://glama.ai/mcp/connectors/com.xsdhub/validation)
+  🔓 - Validate XML against XSD and e-invoices against EN 16931, XRechnung, Factur-X and KSeF rules.
 - [Zambo](https://zambo.dev) `https://zambo.dev/mcp`
   [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
   🔓 - Verifiable work layer for AI: 153 tools, cross-AI handover, and an AER-1 receipt for every job.
