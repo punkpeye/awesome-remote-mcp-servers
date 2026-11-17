@@ -5613,6 +5613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HefestoAI](https://hefestoai.narapallc.com) `https://hefestoai.narapallc.com/api/mcp-protocol`
   [![HefestoAI MCP connector](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai)
   🔓 - Checks code an agent wrote for secrets, injection risks and declared-vs-real dependency drift before merge.
+- [Homo Universalis — HU-DIAMOND Verifier](https://homouniversalis.ai/oracle/diamond) `https://homouniversalis.ai/mcp/diamond`
+  [![Homo Universalis — HU-DIAMOND Verifier MCP connector](https://glama.ai/mcp/connectors/ai.homouniversalis/diamond-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/ai.homouniversalis/diamond-verifier)
+  🔓 - Verify Python AST code, RFC 6962 Merkle proofs, W3C VC 2.0 dignity credentials, and ROS 2 humanoid proxemics.
 - [InjectScan](https://api.youraitools.co/injectscan/) `https://api.youraitools.co/injectscan/mcp`
   [![InjectScan MCP connector](https://glama.ai/mcp/connectors/co.youraitools/injectscan/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/injectscan)
   🔓 - Scores text, web pages and MCP tool definitions for prompt injection; 30 free calls/day, then x402 USDC.
