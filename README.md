@@ -2874,6 +2874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stoxly](https://www.stoxlyonline.com/mcp) `https://www.stoxlyonline.com/api/mcp`
   [![Stoxly MCP connector](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly)
   🔓 - Free stock and ETF fundamental analysis: 10-criteria score, verdict, and key metrics for any ticker.
+- [StrictScore](https://strictscore.com/developers) `https://strictscore.com/api/mcp`
+  [![StrictScore MCP connector](https://glama.ai/mcp/connectors/com.strictscore/strictscore/badges/score.svg)](https://glama.ai/mcp/connectors/com.strictscore/strictscore)
+  🔑 - STRICT fundamentals scores from 0 to 100 for crypto assets, with rankings and comparisons; calls need a paid API key.
 - [SwapWallet](https://swapwallet.app/docs/mcp) `https://swapwallet.app/mcp`
   [![SwapWallet MCP connector](https://glama.ai/mcp/connectors/app.swapwallet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.swapwallet/mcp)
   🔐 - Read balances, P&L and history; request swaps, transfers and withdrawals that the user approves in Telegram.
