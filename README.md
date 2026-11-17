@@ -4977,7 +4977,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🔬 <a name="science--research"></a>Science & Research
 
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
-  [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news)
+  [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/aging-researchnews/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/aging-researchnews)
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
 - [ByteTrail](https://bytetrail.space/agents) `https://bytetrail.space/mcp`
   [![ByteTrail MCP connector](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail/badges/score.svg)](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail)
