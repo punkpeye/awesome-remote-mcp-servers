@@ -5139,6 +5139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [flayr](https://flayr.social/docs/ai-assistants?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=listings-1029) `https://flayr.social/api/mcp`
   [![flayr MCP connector](https://glama.ai/mcp/connectors/social.flayr/flayr/badges/score.svg)](https://glama.ai/mcp/connectors/social.flayr/flayr)
   🔓 - Draft, schedule and publish posts to 13 social platforms and read analytics; tool calls use OAuth or an API key.
+- [Flux LinkedIn MCP](https://www.fluxgraph.app/features/mcp) `https://www.fluxgraph.app/mcp`
+  [![Flux LinkedIn MCP MCP connector](https://glama.ai/mcp/connectors/app.fluxgraph/flux-linked-in-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxgraph/flux-linked-in-mcp)
+  🔓 🔐 - Post analytics and research for public LinkedIn profiles and company pages. Two preview tools run anonymously; account tools use OAuth.
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
