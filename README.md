@@ -4882,6 +4882,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [fitze x402 Tools](https://fitze-x402-seller.app.workbuddy.host) `https://fitze-x402-seller.app.workbuddy.host/mcp`
   [![fitze x402 Tools MCP connector](https://glama.ai/mcp/connectors/io.github.foxxx009/x402-tools-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foxxx009/x402-tools-mcp)
   🔓 - Pay-per-call agent tools: web fetch, domain/GitHub/token intel, repo diligence and web briefs, in USDC on Base via x402.
+- [FlashData](https://flashdata.dev/mcp) `https://data.flashdata.dev/mcp`
+  [![FlashData MCP connector](https://glama.ai/mcp/connectors/io.github.flashdata-dev/flashdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.flashdata-dev/flashdata)
+  🔐 🔑 - Google Search and YouTube search, metadata and existing transcripts, plus media delivery to customer cloud storage.
 - [flconsole](https://flconsole.com/mcp) `https://mcp.lite.flconsole.com/mcp`
   [![flconsole MCP connector](https://glama.ai/mcp/connectors/com.flconsole/upwork-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.flconsole/upwork-jobs)
   🔐 - New Upwork jobs from the last 30 minutes by saved feeds or filters, plus feed setup; free, Telegram sign-in.
