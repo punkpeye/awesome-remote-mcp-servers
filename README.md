@@ -3843,6 +3843,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![hrva.cc MCP connector](https://glama.ai/mcp/connectors/cc.hrva/url-shortener/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hrva/url-shortener)
   🔐 - Create and list short links and read their click statistics, with safety checks on every link.
 
+- [Hollerpost](https://hollerpost.com/docs/mcp/?utm_source=awesome-remote-mcp-servers) `https://mcp.hollerpost.com/mcp`
+  [![Hollerpost MCP connector](https://glama.ai/mcp/connectors/com.hollerpost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hollerpost/mcp)
+  🔑 - Email marketing for small business: draft, preview, schedule and report on campaigns; a person approves each send.
+
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
