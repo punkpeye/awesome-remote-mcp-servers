@@ -1055,6 +1055,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vericto](https://vericto.com/docs/mcp) `https://mcp.vericto.com/mcp`
   [![Vericto MCP connector](https://glama.ai/mcp/connectors/com.vericto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vericto/mcp)
   🔑 - Database guardrails for AI agents: check SQL against your Vericto rules before it runs, with a suggested fix.
+- [Vericto account](https://vericto.com/docs/mcp#oauth) `https://mcp.vericto.com/mcp/account`
+  [![Vericto account MCP connector](https://glama.ai/mcp/connectors/com.vericto/account/badges/score.svg)](https://glama.ai/mcp/connectors/com.vericto/account)
+  🔐 - Your Vericto workspace over OAuth: setup status, rules, CI reports, docs search and SQL checks.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
