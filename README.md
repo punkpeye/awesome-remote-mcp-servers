@@ -5115,6 +5115,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [imprimeur.paris](https://imprimeur.paris/en/mcp/) `https://mcp.imprimeur.paris/mcp`
   [![imprimeur.paris MCP connector](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris)
   🔓 - Directory of Paris print and copy shops: search by product or district, listings, print-file checks and quote drafts.
+- [Job Alerts](https://recruiting.herakraft.co/developers/docs/mcp) `https://recruiting.herakraft.co/mcp`
+  [![Job Alerts MCP connector](https://glama.ai/mcp/connectors/co.herakraft.recruiting/job-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/co.herakraft.recruiting/job-alerts)
+  🔓 - Search open US internship and new-grad roles read from company career sites, with visa sponsorship, citizenship, clearance and graduation-window filters.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
