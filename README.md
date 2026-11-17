@@ -6303,6 +6303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schengen Counter](https://schengencounter.com/mcp/) `https://mcp.schengencounter.com/mcp`
   [![Schengen Counter MCP connector](https://glama.ai/mcp/connectors/com.schengencounter/schengen-counter/badges/score.svg)](https://glama.ai/mcp/connectors/com.schengencounter/schengen-counter)
   🔓 - Schengen 90/180 days used and left, earliest legal re-entry date and ETIAS check; stateless, nothing stored.
+- [Shiptrail](https://shiptrail.io/agents) `https://shiptrail.io/mcp`
+  [![Shiptrail MCP connector](https://glama.ai/mcp/connectors/io.shiptrail/shiptrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.shiptrail/shiptrail)
+  🔓 - Live AIS ship tracking: find vessels, read port arrivals, list ships near a place and see trends at sea.
 - [SkyAccess](https://skyaccess.com) `https://mcp.skyaccess.com/mcp`
   [![SkyAccess MCP connector](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess/badges/score.svg)](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess)
   🔓 - Private jet empty legs: search live flights, check one by id, get booking links and charter price estimates.
