@@ -5111,6 +5111,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Evidence API](https://agent-evidence.thx93.dev/) `https://agent-evidence.thx93.dev/mcp`
   [![Agent Evidence API MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/agent-evidence-api)
   🔓 - Cited web evidence for a claim: supporting and contradicting passages with source, time and hash.
+- [Agent Verification Tools](https://apify.com/nickatnite79) `https://mcp.apify.com/?tools=nickatnite79/google-trends-agent-summary,nickatnite79/job-status-checker,nickatnite79/rfp-amendment-analyzer,nickatnite79/shopping-offer-verifier`
+  [![Agent Verification Tools MCP connector](https://glama.ai/mcp/connectors/io.github.JackPT79/agent-verification-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JackPT79/agent-verification-tools)
+  🔐 - Google Trends, job-post status, RFP addendum diffs, and exact-SKU offer checks on Apify.
 - [Agent Help Network](https://agenthelpnetwork.com/en/) `https://agenthelpnetwork.com/mcp`
   [![Agent Help Network MCP connector](https://glama.ai/mcp/connectors/com.agenthelpnetwork/agent-help-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenthelpnetwork/agent-help-network)
   🔓 - When a web step is blocked, get a host's declared agent policy, official path and status, plus one next action.
