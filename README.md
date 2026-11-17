@@ -1648,7 +1648,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Air quality in Poland: live GIOŚ measurements (PM2.5, PM10, NO2, O3), smog warnings, 3-day forecast and pollen.
 - [repairinfo](https://www.repairinfo.app/en/data-and-api/) `https://www.repairinfo.app/mcp`
   [![repairinfo MCP connector](https://glama.ai/mcp/connectors/app.repairinfo/repairinfo/badges/score.svg)](https://glama.ai/mcp/connectors/app.repairinfo/repairinfo)
-  🔓 - Repairability and durability data for EU devices from the official EPREL register: scores, EU repairability class, update years.
+  🔓 - Repairability and durability data for EU devices from the EPREL register: scores, EU repairability class, update years.
 - [ROVE Snow Forecast](https://rove-ski.com/en/ai) `https://rove-ski.com/mcp`
   [![ROVE Snow Forecast MCP connector](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast)
   🔐 - Free 15-day snow forecasts and conditions for 667 ski resorts in North America and Japan.
