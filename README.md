@@ -5610,6 +5610,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HANRIA](https://hanria.ai) `https://check.hanria.ai/v1/mcp`
   [![HANRIA MCP connector](https://glama.ai/mcp/connectors/ai.hanria/agent-mandate-check/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hanria/agent-mandate-check)
   🔓 - Free, advisory check of an agent action against its operator's mandate; returns permit, deny or escalate.
+- [Haris Guardian](https://harisguardian.netlify.app) `https://haris-api.vercel.app/mcp`
+  [![Haris Guardian MCP connector](https://glama.ai/mcp/connectors/io.github.fitness9991/haris-guardian/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fitness9991/haris-guardian)
+  🔓 - Read-only Solana SPL/Token-2022 rug-risk score (0-100) with reasons; 3 free checks/day, then x402 $0.01 USDC.
 - [HefestoAI](https://hefestoai.narapallc.com) `https://hefestoai.narapallc.com/api/mcp-protocol`
   [![HefestoAI MCP connector](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai)
   🔓 - Checks code an agent wrote for secrets, injection risks and declared-vs-real dependency drift before merge.
