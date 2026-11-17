@@ -6270,6 +6270,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NomadPoint Travel Facts](https://nomadpoint.app/llms.txt) `https://gxhdcvoveufbkthhendf.supabase.co/functions/v1/mcp-public`
   [![NomadPoint Travel Facts MCP connector](https://glama.ai/mcp/connectors/app.nomadpoint/travel-facts/badges/score.svg)](https://glama.ai/mcp/connectors/app.nomadpoint/travel-facts)
   🔓 - Visa rules for any passport, Schengen 90/180 day counts, and itinerary links a traveller saves for free.
+- [NUM](https://itsnum.com/agents/) `https://itsnum.com/mcp`
+  [![NUM MCP connector](https://glama.ai/mcp/connectors/com.itsnum/num/badges/score.svg)](https://glama.ai/mcp/connectors/com.itsnum/num)
+  🔐 - Search real travel places by city and need, and submit businesses or offers for human review.
+- [NUM Places](https://itsnum.com/agents/) `https://app.itsnum.com/api/partner/mcp`
+  [![Num places MCP connector](https://glama.ai/mcp/connectors/com.itsnum/places/badges/score.svg)](https://glama.ai/mcp/connectors/com.itsnum/places)
+  🔓 - Open, read-only travel places with menus, ratings and booking routes in NUM destinations.
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
   [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
   🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
