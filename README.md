@@ -1482,6 +1482,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Local AI Picks](https://localaipicks.com/docs/mcp) `https://localaipicks.com/mcp`
   [![Local AI Picks MCP connector](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks/badges/score.svg)](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks)
   🔓 - Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.
+- [LogPulse](https://release-ripple-roadmap.lovable.app/) `https://release-ripple-roadmap.lovable.app/mcp`
+  [![LogPulse MCP connector](https://glama.ai/mcp/connectors/app.lovable.release-ripple-roadmap/logpulse/badges/score.svg)](https://glama.ai/mcp/connectors/app.lovable.release-ripple-roadmap/logpulse)
+  🔓 - Machine-readable changelogs for coding agents: versions, breaking changes and migrations.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
@@ -2566,6 +2569,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Invoices to Spreadsheets](https://invoicestospreadsheets.com/mcp) `https://invoicestospreadsheets.com/api/mcp`
   [![Invoices to Spreadsheets MCP connector](https://glama.ai/mcp/connectors/com.invoicestospreadsheets/invoice-spreadsheets/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoicestospreadsheets/invoice-spreadsheets)
   🔓 - Turn invoice details into a checked Excel workbook: totals, VAT, line items and duplicates verified.
+- [InvoiceVerify](https://peppol-invoice-compass.lovable.app/docs/mcp) `https://peppol-invoice-compass.lovable.app/mcp`
+  [![InvoiceVerify MCP connector](https://glama.ai/mcp/connectors/app.lovable.peppol-invoice-compass/invoiceverify/badges/score.svg)](https://glama.ai/mcp/connectors/app.lovable.peppol-invoice-compass/invoiceverify)
+  🔓 - Peppol receivability lookup (incl. Belgian 0208/9925) and EU e-invoice validation; free, no account.
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
@@ -3664,6 +3670,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PRIMAMCP](https://mcp.planitprima.com) `https://mcp.planitprima.com/mcp`
   [![PRIMAMCP MCP connector](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp)
   🔐 - German and EU law: statutes, court decisions, EU acts and legislative materials, with verified citations.
+- [PrivacyPill](https://privacy-pill-consent-studio.lovable.app/) `https://privacy-pill-consent-studio.lovable.app/mcp`
+  [![PrivacyPill MCP connector](https://glama.ai/mcp/connectors/app.lovable.privacy-pill-consent-studio/privacypill/badges/score.svg)](https://glama.ai/mcp/connectors/app.lovable.privacy-pill-consent-studio/privacypill)
+  🔓 - Scan which cookies and trackers load before consent and generate a GDPR banner with Consent Mode v2.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
@@ -3850,6 +3859,14 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Keyword Research API](https://apify.com/gaelasao/keyword-research-api) `https://mcp.apify.com/?tools=gaelasao/keyword-research-api`
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
+
+- [LLMready](https://answer-engine-ready.lovable.app/) `https://answer-engine-ready.lovable.app/mcp`
+  [![LLMready MCP connector](https://glama.ai/mcp/connectors/app.lovable.answer-engine-ready/llmready/badges/score.svg)](https://glama.ai/mcp/connectors/app.lovable.answer-engine-ready/llmready)
+  🔓 - Audit a website for AI search readiness and generate or validate llms.txt; free quick check.
+
+- [LocalSchema](https://local-schema-beacon.lovable.app/developers#mcp) `https://local-schema-beacon.lovable.app/mcp`
+  [![LocalSchema MCP connector](https://glama.ai/mcp/connectors/app.lovable.local-schema-beacon/localschema/badges/score.svg)](https://glama.ai/mcp/connectors/app.lovable.local-schema-beacon/localschema)
+  🔓 - Generate and validate LocalBusiness JSON-LD for local SEO; free tools, optional key for account tools.
 
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
