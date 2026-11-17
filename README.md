@@ -5892,6 +5892,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schedchie](https://www.schedchie.com/ai) `https://mcp.schedchie.com/mcp`
   [![Schedchie MCP connector](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie)
   🔐 - Schedule, edit and retry posts on Instagram, TikTok and more, upload media and read analytics; posting to X is extra.
+- [ShortsIntel](https://www.shortsintel.com) `https://www.shortsintel.com/api/mcp`
+  [![ShortsIntel MCP connector](https://glama.ai/mcp/connectors/com.shortsintel/shorts-intel/badges/score.svg)](https://glama.ai/mcp/connectors/com.shortsintel/shorts-intel)
+  🔐 - Research short-form video and ads on TikTok, Reels, Shorts and Facebook, and track creators, sounds and advertisers.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
