@@ -1547,6 +1547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Runs accessibility, contrast and design-token audits on any URL and files QA issues in OverlayQA.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
+- [Pasportoo Website Audit](https://pasportoo.com/services) `https://mcp.pasportoo.com/tools/mcp`
+  [![Pasportoo Website Audit MCP connector](https://glama.ai/mcp/connectors/io.github.galeaxe5/pasportoo-website-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.galeaxe5/pasportoo-website-audit)
+  🔓 - Order a human-reviewed audit of a public website: bugs, passive security checks, speed and UX, each with a fix.
 - [PCBEditor](https://pcbeditor.com/mcp) `https://mcp.pcbeditor.com/mcp`
   [![PCBEditor MCP connector](https://glama.ai/mcp/connectors/com.pcbeditor/pcbeditor/badges/score.svg)](https://glama.ai/mcp/connectors/com.pcbeditor/pcbeditor)
   🔐 - Design, route, design-rule check and export manufacturable PCBs (Gerber, KiCad) from a plain-language description.
