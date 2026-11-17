@@ -492,7 +492,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
 - [Refcat](https://refcat.app/en/guides/mcp) `https://mcp.refcat.app/mcp`
   [![Refcat MCP connector](https://glama.ai/mcp/connectors/app.refcat/refcat/badges/score.svg)](https://glama.ai/mcp/connectors/app.refcat/refcat)
-  🔑 - Search 1M real UI flows and 3.3M screens from shipped apps, sites, emails and games, so agents design paywalls, onboarding and checkout from real patterns; free key available.
+  🔓 - Search 1M real UI flows and 3.3M screens from shipped apps, sites, emails and games to design from real patterns.
 - [Roomvana](https://roomvana.ai) `https://api.roomvana.co/mcp`
   [![Roomvana MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp)
   🔓 - Browse room types and design styles, then get a Roomvana studio link with those options prefilled.
