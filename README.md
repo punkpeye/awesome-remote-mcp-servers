@@ -3831,6 +3831,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
 
+- [Cygnix SEO MCP](https://mcp.cygnixlabs.com) `https://mcp.cygnixlabs.com/mcp`
+  [![Cygnix SEO MCP connector](https://glama.ai/mcp/connectors/io.github.cygnixlabs-cmd/cygnix-seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cygnixlabs-cmd/cygnix-seo-mcp)
+  🔐 - SEO and AI-search/AEO audit tools, including keyword clustering, title/meta checks and content briefs.
+
 - [Distribution](https://distribution.tech) `https://app.distribution.tech/api/mcp/guest`
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
