@@ -5980,18 +5980,33 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏆 <a name="sports"></a>Sports
 
+- [AcesAPI](https://acesapi.com) `https://mcp.acesapi.com/mcp`
+  [![AcesAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi)
+  🔐 - ATP and WTA tennis since 2007: set scores, draws, rankings, head to head, surface Elo and match prices.
 - [Ball Ranks](https://ballranks.com) `https://ballranks.com/api/mcp`
   [![Ball Ranks MCP connector](https://glama.ai/mcp/connectors/io.github.Ollynov/ball-ranks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ollynov/ball-ranks)
   🔓 - NFL and NBA fantasy rankings and player projections, with weekly NFL and season-long data.
 - [BankrollSZN](https://bankrollszn.com/ai) `https://bankrollszn.com/api/mcp`
   [![BankrollSZN MCP connector](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn)
   🔐 - DFS projections, ownership, lineup optimizers and model picks for NFL, MLB, NBA, NHL, PGA and MMA.
+- [BirdieAPI](https://birdieapi.com) `https://mcp.birdieapi.com/mcp`
+  [![BirdieAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/birdieapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/birdieapi)
+  🔐 - PGA Tour hole-by-hole scores since 2001 plus four more tours, course stats, ratings and major winner odds.
 - [Cast the Water](https://castthewater.com) `https://castthewater.com/mcp`
   [![Cast the Water MCP connector](https://glama.ai/mcp/connectors/com.castthewater/cast-the-water/badges/score.svg)](https://glama.ai/mcp/connectors/com.castthewater/cast-the-water)
   🔓 - Read-only fish stocking, waters and conditions data for US lakes from Cast the Water.
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [DunkAPI](https://dunkapi.com) `https://mcp.dunkapi.com/mcp`
+  [![DunkAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi)
+  🔐 - NBA, WNBA and college basketball play-by-play with shot locations, box scores, odds and player props.
+- [FastballAPI](https://fastballapi.com) `https://mcp.fastballapi.com/mcp`
+  [![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
+  🔐 - MLB since 2015 plus college: every pitch, plate appearances, box scores, odds and player props.
+- [FighterAPI](https://fighterapi.com) `https://mcp.fighterapi.com/mcp`
+  [![FighterAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fighterapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fighterapi)
+  🔐 - UFC fights since 2000: results, round-by-round stats, fighter records, ratings and moneylines.
 - [FootballGPT](https://footballgpt.co/chatgpt) `https://footballgpt.co/api/mcp/stream`
   [![FootballGPT MCP connector](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt)
   🔐 - Football coaching advice, session plans and animated practices, using your FootballGPT coaching profile.
@@ -6023,6 +6038,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PinnFeed](https://pinnfeed.io/docs/mcp) `https://pinnfeed.io/mcp`
   [![PinnFeed MCP connector](https://glama.ai/mcp/connectors/io.github.pinnfeed/odds/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinnfeed/odds)
   🔓 - Live and prematch Pinnacle odds, no-vig fair prices, price drops and closing lines; calls need a free API key.
+- [PuckAPI](https://puckapi.com) `https://mcp.puckapi.com/mcp`
+  [![PuckAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/puckapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/puckapi)
+  🔐 - NHL, AHL, PWHL and junior hockey: play-by-play with expected goals, stats, odds and player props.
 - [Race Results](https://raceresultsapp.com/mcp-server) `https://raceresultsapp.com/mcp`
   [![Race Results MCP connector](https://glama.ai/mcp/connectors/io.github.manuelescrig/raceresults-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.manuelescrig/raceresults-mcp)
   🔓 - MotoGP, Moto2 and Moto3 standings, race results, calendar and session times, rider profiles, live timing and news.
@@ -6041,6 +6059,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Squadcard](https://squadcard.app/agents) `https://squadcard.app/api/mcp`
   [![Squadcard MCP connector](https://glama.ai/mcp/connectors/io.github.iuliczki/squadcard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.iuliczki/squadcard)
   🔐 - Run a weekly football game: fair teams, fixtures, squads with invite links, who's in and the score.
+- [StrikerAPI](https://strikerapi.com) `https://mcp.strikerapi.com/mcp`
+  [![StrikerAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/strikerapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/strikerapi)
+  🔐 - Soccer in 17 competitions: lineups, match events with shot maps and xG, tables, ratings and odds.
 - [StringSpec](https://stringspec.com/connect/) `https://stringspec.com/mcp`
   [![StringSpec MCP connector](https://glama.ai/mcp/connectors/com.stringspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.stringspec/mcp)
   🔓 - Lab measurements of nearly 800 tennis strings: search, compare and get string recommendations.
@@ -6056,6 +6077,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AcesAPI](https://acesapi.com) `https://mcp.acesapi.com/mcp`
   [![AcesAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi)
   🔓 - ATP and WTA tennis since 2007: sets, draws, rankings, head to head, surface Elo, sportsbook lines.
+- [YorkerAPI](https://yorkerapi.com) `https://mcp.yorkerapi.com/mcp`
+  [![YorkerAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/yorkerapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/yorkerapi)
+  🔐 - Cricket ball by ball in every format: scorecards, player splits, matchups, win probability and odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
