@@ -2588,7 +2588,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Publish, schedule and analyze posts across ten platforms, from Instagram and TikTok to LinkedIn and Bluesky.
 - [PostCopilot](https://postcopilot.ai/threads-mcp-connector) `https://postcopilot.ai/mcp`
   [![PostCopilot MCP connector](https://glama.ai/mcp/connectors/io.github.irmasemma/postcopilot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.irmasemma/postcopilot-mcp)
-  🔓 - Export any public Threads profile's posts, followers and following as JSON, plus watermark-free video download and AI captions. No login or API key.
+  🔓 - Export public Threads profiles as JSON, plus watermark-free video download and AI captions. No login needed.
 - [PostLake](https://postlake.dev) `https://api.postlake.dev/mcp`
   [![PostLake MCP connector](https://glama.ai/mcp/connectors/dev.postlake/social/badges/score.svg)](https://glama.ai/mcp/connectors/dev.postlake/social)
   🔐 - Publish, schedule and analyze posts across 9 networks, including X, LinkedIn, Instagram, TikTok and Bluesky.
