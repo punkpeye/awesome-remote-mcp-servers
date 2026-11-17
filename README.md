@@ -3333,6 +3333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Analytics Legends](https://analyticslegends.ai/mcp-server/) `https://analyticslegends.ai/mcp`
   [![Analytics Legends MCP connector](https://glama.ai/mcp/connectors/ai.analyticslegends/sap-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/ai.analyticslegends/sap-analytics)
   🔓 - SAP AI & analytics market data: consulting firms, day-rate bands, job radar and news, each record citable.
+- [Assertion Memory](https://www.assertion-ai.com) `https://memory.assertion-ai.com/memory/mcp`
+  [![Assertion Memory MCP connector](https://glama.ai/mcp/connectors/io.github.Assertion-AI/assertion/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Assertion-AI/assertion)
+  🔓 🔑 - Recall a team's strategic memory for coding agents: goals, key questions, and decisions with their reasons.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
