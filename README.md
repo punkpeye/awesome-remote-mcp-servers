@@ -4107,6 +4107,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Searcherries](https://searcherries.com) `https://app.searcherries.com/mcp/searcherries`
   [![Searcherries MCP connector](https://glama.ai/mcp/connectors/com.searcherries/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherries/mcp)
   🔐 - Read-only AI visibility and SEO data: AI answers, competitors, citations, GSC, Bing, GA4.
+- [SeedReel](https://seedreel.app/mcp) `https://seedreel.app/api/mcp`
+  [![SeedReel MCP connector](https://glama.ai/mcp/connectors/io.github.Hichem212121/seedreel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Hichem212121/seedreel)
+  🔐 - Search a curated library of organic TikTok and Reels videos made for businesses, and read why each one worked.
 - [Segwise](https://segwise.ai/integration-docs/mcp) `https://mcp.segwise.ai/mcp`
   [![Segwise MCP connector](https://glama.ai/mcp/connectors/ai.segwise.mcp/segwise/badges/score.svg)](https://glama.ai/mcp/connectors/ai.segwise.mcp/segwise)
   🔐 - Read-only creative performance, tag-level insights, attribution data, and competitor ad analysis from Segwise.
