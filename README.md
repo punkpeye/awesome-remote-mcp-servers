@@ -2703,8 +2703,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Ontonym MCP connector](https://glama.ai/mcp/connectors/com.ontonym/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.ontonym/memory)
   🔐 - Give your agents your team's real data: read the shared graph, and propose actions a human approves.
 - [OwlMem](https://owlmem.com) `https://mcp.owlmem.com/mcp`
-    [![OwlMem MCP connector](https://glama.ai/mcp/connectors/com.owlmem/owlmem/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlmem/owlmem)
-     🔐 - Shared memory for Claude, Codex, Cursor, ChatGPT and Gemini, so you stop re-explaining each project.
+  [![OwlMem MCP connector](https://glama.ai/mcp/connectors/com.owlmem/owlmem/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlmem/owlmem)
+  🔐 - Shared memory for Claude, Codex, Cursor, ChatGPT and Gemini, so you stop re-explaining each project.
 - - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
