@@ -5734,6 +5734,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Agent Forge](https://theagentforge.io) `https://theagentforge.io/mcp/public`
   [![The Agent Forge MCP connector](https://glama.ai/mcp/connectors/io.theagentforge/forge/badges/score.svg)](https://glama.ai/mcp/connectors/io.theagentforge/forge)
   🔓 - Check MCP servers, skills and packages before install: field reports, skill scans and AI trap data.
+- [Trent](https://trent.ai/) `https://mcp.trent.ai/mcp`
+  [![Trent MCP connector](https://glama.ai/mcp/connectors/ai.trent/trent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.trent/trent)
+  🔐 - The judgment layer for your security tools. Shows which findings are actually exploitable and fixes them with your coding agent.
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
