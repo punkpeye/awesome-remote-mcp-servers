@@ -4028,7 +4028,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
 - [RFWIN](https://rfwin.uk) `https://app.rewardsfuel.com/api/mcp/public`
-  [![RFWIN MCP connector](https://glama.ai/mcp/connectors/com.rewardsfuel/rfwin/badges/score.svg)](https://glama.ai/mcp/connectors/com.rewardsfuel/rfwin)
+  [![RFWIN MCP connector](https://glama.ai/mcp/connectors/com.rewardsfuel.app/rfwin-provably-fair-winner-draws/badges/score.svg)](https://glama.ai/mcp/connectors/com.rewardsfuel.app/rfwin-provably-fair-winner-draws)
   🔓 - Free provably fair giveaway winner draws: run a draw, get a public proof link anyone can verify.
 
 - [RoboDebut](https://robodebut.com) `https://robodebut.com/api/mcp`
