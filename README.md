@@ -3293,7 +3293,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read your own Splyt workouts, personal records, training plan, habits and sleep (read-only).
 - [telo](https://telo.health/apple-health-mcp) `https://telo.health/mcp`
   [![telo MCP connector](https://glama.ai/mcp/connectors/health.telo/telo/badges/score.svg)](https://glama.ai/mcp/connectors/health.telo/telo)
-  🔐 - Your Apple Health history from iPhone: daily metrics, sleep, workouts, HRV baselines and training load.
+  🔐 - Ask Claude or ChatGPT about your Apple Health: sleep, workouts with zones and splits, HRV and resting HR baselines, training load.
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
