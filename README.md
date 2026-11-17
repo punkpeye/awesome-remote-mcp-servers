@@ -5246,7 +5246,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Government surplus auctions in the US, UK, CA and AU, with sold-price comps and resale scores.
 - [GovContractScout](https://scout.govbidportals.com) `https://scout.govbidportals.com/mcp`
   [![GovContractScout MCP connector](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout/badges/score.svg)](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout)
-  🔐 - Search US state & local government contracts, NAICS codes, and AI match scoring via OAuth 2.1.
+  🔐 - Search US state & local government contracts, NAICS codes, and AI match scoring via OAuth 2.1 or an API key.
 - [Headcount Labs](https://headcountlabs.com/mcp/) `https://api.headcountlabs.com/mcp/public`
   [![Headcount Labs MCP connector](https://glama.ai/mcp/connectors/com.headcountlabs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.headcountlabs/jobs)
   🔓 - Search and count 8 million+ open jobs from employer career sites, with published pay and a link to each posting.
