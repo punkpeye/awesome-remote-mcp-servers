@@ -1169,6 +1169,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Query MongoDB Atlas clusters and manage collections and indexes.
 - [Neon](https://neon.tech) `https://mcp.neon.tech/mcp`
   🔐 - Provision and query Neon Postgres projects and branches.
+- [NYSgpt Data Library](https://nysgpt.com/data) `https://data.nysgpt.com/mcp`
+  [![NYSgpt Data Library MCP connector](https://glama.ai/mcp/connectors/com.nysgpt/data-library/badges/score.svg)](https://glama.ai/mcp/connectors/com.nysgpt/data-library)
+  🔓 - Run SQL over 52.8B public records: USAspending, OpenAlex, U.S. patents, LEHD jobs, SEC, EPA, FERC and Medicare.
 - [PostData](https://postdata.cloud) `https://api.postdata.cloud/mcp`
   [![PostData MCP connector](https://glama.ai/mcp/connectors/cloud.postdata/postdata/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.postdata/postdata)
   🔓 - Free, no-signup IoT sensor store: get a device name, read readings and history, wait for a flashed board to report.
