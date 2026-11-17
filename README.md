@@ -3162,6 +3162,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
+- [Markan](https://markan.games/developers/) `https://api.markan.games/mcp`
+  [![Markan MCP connector](https://glama.ai/mcp/connectors/games.markan/markan/badges/score.svg)](https://glama.ai/mcp/connectors/games.markan/markan)
+  🔓 - Steam game data for market research: find similar games, reviews, prices, and sales and revenue estimates.
 - [PC Game Price Broker](https://company.eloai.io) `https://company.eloai.io/mcp`
   [![PC Game Price Broker MCP connector](https://glama.ai/mcp/connectors/io.eloai.company/price-broker/badges/score.svg)](https://glama.ai/mcp/connectors/io.eloai.company/price-broker)
   🔓 - Lowest live price for any PC game across 13 stores, with every store price and the record low.
