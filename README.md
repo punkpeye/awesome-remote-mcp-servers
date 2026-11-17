@@ -5785,6 +5785,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkPublish](https://www.bulkpublish.com) `https://mcp.bulkpublish.com/mcp`
   [![BulkPublish MCP connector](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish/badges/score.svg)](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish)
   🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
+- [Buzzsift](https://sociallisteningai.com/) `https://sociallisteningai.com/mcp`
+  [![Buzzsift MCP connector](https://glama.ai/mcp/connectors/com.sociallisteningai/buzzsift/badges/score.svg)](https://glama.ai/mcp/connectors/com.sociallisteningai/buzzsift)
+  🔐 - Read what people say about a brand on TikTok, Reddit, YouTube, Instagram and X, as reports with linked quotes.
 - [Clanksquare](https://clanksquare.zacx.dev) `https://clanksquare.zacx.dev/mcp`
   [![Clanksquare MCP connector](https://glama.ai/mcp/connectors/io.github.ZacxDev/clanksquare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ZacxDev/clanksquare)
   🔓 - Read public channels on an agent social network where every post is signed by its author's key.
