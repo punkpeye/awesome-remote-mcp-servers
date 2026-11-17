@@ -487,6 +487,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MagicScreenshots](https://www.magicscreenshots.com/agents) `https://www.magicscreenshots.com/api/mcp`
   [![MagicScreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp)
   🔓 - Search App Store screenshots and preview references; generation and Pro tools require a user key.
+- [MiroMiro](https://miromiro.app/api/mcp) `https://miromiro.app/mcp`
+  [![MiroMiro MCP connector](https://glama.ai/mcp/connectors/app.miromiro/miromiro/badges/score.svg)](https://glama.ai/mcp/connectors/app.miromiro/miromiro)
+  🔐 - Rebuild any website section as Elementor, Shopify Liquid or Tailwind/React code, plus brand tokens and assets.
 - [Mobbin](https://mobbin.com/mcp) `https://api.mobbin.com/mcp`
   [![Mobbin MCP connector](https://glama.ai/mcp/connectors/com.mobbin/mobbin/badges/score.svg)](https://glama.ai/mcp/connectors/com.mobbin/mobbin)
   🔐 - Search real app UI screens, multi-step user flows, and website sections for design references.
@@ -2352,6 +2355,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LitVM TCG Oracle](https://litvm.the-undesirables.com) `https://litvm.the-undesirables.com/mcp`
   [![LitVM TCG Oracle MCP connector](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle)
   🔓 - TCG price oracle for LitecoinVM: Merkle-proven prices, calibrated forecasts and fantasy souls; 13 free tools.
+- [Livermore](https://livermore.club/en/mcp) `https://livermore.club/mcp`
+  [![Livermore MCP connector](https://glama.ai/mcp/connectors/io.github.AAAZZZR/livermore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AAAZZZR/livermore)
+  🔓 - US insider trades, 13F, 13D/G, Form 144, Congress trades, financials and shorts from SEC filings, plus Taiwan stocks.
 - [Loophole Tape](https://api.loopholetape.com) `https://api.loopholetape.com/mcp`
   [![Loophole Tape MCP connector](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape)
   🔓 - pump.fun launch-risk checks and Robinhood Chain launch data; free tools, paid ones settle per call via x402.
@@ -2367,6 +2373,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Marcel Retraite](https://marcel-retraite.fr) `https://marcel-retraite.fr/mcp`
   [![Marcel Retraite MCP connector](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel/badges/score.svg)](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel)
   🔓 - Deterministic, sourced French tax and retirement calculations; information only, not advice.
+
+- [Marian](https://marianmortgage.com/agents#mcp-server) `https://mcp.marianmortgage.com/mcp`
+  [![Marian MCP connector](https://glama.ai/mcp/connectors/com.marianmortgage/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.marianmortgage/mcp)
+  🔓 - Pre-launch US mortgage whose rate only goes down: explain it, compare it with refinancing, or join the waitlist.
 
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
@@ -4191,6 +4201,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [send21](https://send21.io) `https://send21.io/mcp`
   [![send21 MCP connector](https://glama.ai/mcp/connectors/io.github.send21io/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.send21io/mcp)
   🔓 - Prepares non-custodial payment drafts and pay links; payer signs in their own wallet.
+- [spendctl](https://spendctl.dev) `https://mcp.spendctl.dev/mcp`
+  [![spendctl MCP connector](https://glama.ai/mcp/connectors/dev.spendctl/spendctl/badges/score.svg)](https://glama.ai/mcp/connectors/dev.spendctl/spendctl)
+  🔓 - Login-free sandbox of the spendctl sidecar: budgets, allowlists, human approvals and receipts for mock x402/MPP APIs.
 - [SpendPreflight](https://spendpreflight.com) `https://api.spendpreflight.com/mcp`
   [![SpendPreflight MCP connector](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.spendpreflight.api/spend-preflight)
   🔓 - Operated by SpendPreflight: sanctions screening and payment preflight, paid via x402 with a free trial.
@@ -4370,6 +4383,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Irish Rent Check](https://rent-check-production.up.railway.app/) `https://rent-check-production.up.railway.app/mcp`
   [![Irish rent check MCP connector](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check)
   🔓 - Irish rents by county (CSO/RTB), free; paid town and property-price tools return x402/MPP terms.
+- [Isto Intents](https://istointents.com/assistants/) `https://istointents.com/mcp`
+  [![Isto Intents MCP connector](https://glama.ai/mcp/connectors/com.istointents/intents/badges/score.svg)](https://glama.ai/mcp/connectors/com.istointents/intents)
+  🔓 - Private standing purchase intents: a portal watches used-car and home listings (SK/CZ), notifies you.
 - [Kolmo Construction](https://www.kolmo.io/developers) `https://www.kolmo.io/mcp`
   [![Kolmo Construction MCP connector](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction/badges/score.svg)](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction)
   🔓 - WA permit rules for 80+ cities, parcel zoning, contractor license checks and Seattle cost estimates.
@@ -5957,6 +5973,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [xTiles](https://xtiles.app/en/imagine/?utm_source=gh_awesome_remote&utm_medium=mcp_registry&utm_campaign=mcp_listings) `https://mcp.xtiles.app/mcp`
   [![xTiles MCP connector](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.xtiles/xtiles-mcp)
   🔐 - Turn AI chats into xTiles projects, notes and tasks, and pull any project back into the chat with its current state.
+- [Youform](https://youform.com/) `https://app.youform.com/mcp`
+  [![Youform MCP connector](https://glama.ai/mcp/connectors/io.github.mkmaker/youform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mkmaker/youform)
+  🔐 - Create forms, surveys and quizzes, edit drafts, publish approved changes, and analyze submissions.
 - [Zenning](https://zenning.ai) `https://api.zenning.ai/api/mcp`
   [![Zenning MCP connector](https://glama.ai/mcp/connectors/ai.zenning/zenning/badges/score.svg)](https://glama.ai/mcp/connectors/ai.zenning/zenning)
   🔐 - Run Zenning AI employees and ask Zenning to act across Gmail, Slack, CRMs and 2,000+ connected apps.
