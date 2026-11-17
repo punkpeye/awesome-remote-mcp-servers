@@ -87,6 +87,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🛒 - [E-Commerce](#e-commerce)
 * 🎓 - [Education](#education)
 * 🌳 - [Environment](#environment)
+* 🎟️ - [Events](#events)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
 * 🍽️ - [Food & Dining](#food--dining)
@@ -2124,6 +2125,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![thirdtrail MCP connector](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail)
   🔓 - Elevation-corrected sunrise, sunset, twilight, moon, solar irradiance, prayer and tide times; paid key to call tools.
 
+### 🎟️ <a name="events"></a>Events
+
+- [Latino Events (events.lat)](https://events.lat) `https://ojlsoqhibryhvuyltwpi.supabase.co/functions/v1/mcp`
+  [![Latino Events (events.lat) MCP connector](https://glama.ai/mcp/connectors/lat.events/latino-events/badges/score.svg)](https://glama.ai/mcp/connectors/lat.events/latino-events)
+  🔐 - Search concerts, festivals and cultural events across Latin America, with venue, dates and official ticket links.
+
 ### 📂 <a name="file-storage"></a>File Storage
 
 - [agentleFS](https://agentlefs.com/?ref=awesome-remote-mcp-servers) `https://mcp.agentlefs.com/mcp`
@@ -3246,6 +3253,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClinX](https://clinx.org/data/assistants/) `https://clinx.org/mcp`
   [![ClinX MCP connector](https://glama.ai/mcp/connectors/org.clinx/clinx/badges/score.svg)](https://glama.ai/mcp/connectors/org.clinx/clinx)
   🔓 - Read-only public records on the 340B drug program and federally funded health centers, each with its official link.
+- [depot.fitness](https://depot.fitness/connect) `https://nihheurtdimdezbhrdba.supabase.co/functions/v1/mcp`
+  [![depot.fitness MCP connector](https://glama.ai/mcp/connectors/fitness.depot/strength-programs/badges/score.svg)](https://glama.ai/mcp/connectors/fitness.depot/strength-programs)
+  🔐 - Search 101 written-out strength programs and 539 exercises, read training guides, and save programs to your library.
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
