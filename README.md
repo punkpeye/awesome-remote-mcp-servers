@@ -6426,6 +6426,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EasyPDF](https://www.easypdf.fr/ai-assistants) `https://www.easypdf.fr/mcp`
   [![EasyPDF MCP connector](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Lorenzino69/easypdf)
   🔐 - Edit text inside PDFs with fonts and layout kept, then compress, merge, split, convert or translate them.
+- [Eddocu](https://eddocu.com/agents) `https://eddocu.com/mcp`
+  [![Eddocu MCP connector](https://glama.ai/mcp/connectors/com.eddocu/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.eddocu/site)
+  🔓 - Read-only facts about the Eddocu PDF, Word and PowerPoint editor, and install links for iOS, Android, Windows and Mac.
 - [Eggtimer.app](https://eggtimer.app/ai.html) `https://eggtimer.app/api/mcp`
   [![Eggtimer.app MCP connector](https://glama.ai/mcp/connectors/app.eggtimer/eggtimer/badges/score.svg)](https://glama.ai/mcp/connectors/app.eggtimer/eggtimer)
   🔓 - Create shareable browser timer links for countdowns, clock times, Pomodoro, Tabata and multi-step recipes.
