@@ -2395,7 +2395,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - European Central Bank reference FX rates: latest, historical, time series and currency conversion.
 - [Debitura](https://www.debitura.com/integration/mcp-server) `https://mcp.debitura.com/mcp`
   [![Debitura MCP connector](https://glama.ai/mcp/connectors/com.debitura.mcp/debitura/badges/score.svg)](https://glama.ai/mcp/connectors/com.debitura.mcp/debitura)
-  🔑 - Cross-border debt collection from your AI assistant: check cases, get pricing, submit new cases.
+  🔓 - Cross-border debt collection: check cases, get pricing and submit cases. Tool calls require an API key.
 - [DFX Intelligence](https://dfxintel.com/agents) `https://exchange-production-9123.up.railway.app/mcp/core?c=dir-awremote`
   [![DFX Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt)
   🔓 - Private credit for agents: BDC lenders, borrowers, marks, spreads and maturities, cited to SEC filings.
