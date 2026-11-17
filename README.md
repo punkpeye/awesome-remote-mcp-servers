@@ -486,7 +486,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Official LinkedIn, Slack and GitHub profile photo specs with sources, headshot style guides and a free headshot audit.
 - [Pretty QR](https://pretty-qr.com/docs/api#mcp) `https://pretty-qr.com/api/mcp`
   [![Pretty QR MCP connector](https://glama.ai/mcp/connectors/com.pretty-qr/pretty-qr/badges/score.svg)](https://glama.ai/mcp/connectors/com.pretty-qr/pretty-qr)
-  🔑 - Create branded QR codes (colours, logo, frames, shapes) as PNG or SVG, with templates and an editor hand-off.
+  🔐 - Create branded QR codes (colours, logo, frames, shapes) as PNG or SVG, with templates and an editor hand-off.
 - [QR Branding](https://qr-branding.com) `https://qr-branding.com/mcp`
   [![QR Branding MCP connector](https://glama.ai/mcp/connectors/io.github.quartzondev/qr-branding/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quartzondev/qr-branding)
   🔓 - Branded QR codes (manual, AI-styled, 118 templates, Wi-Fi/vCard/geo), each decoded server-side before it is returned.
