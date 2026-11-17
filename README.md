@@ -5209,6 +5209,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
 - [Digital Passport Belarus](https://digitalpassport.by/developers/api) `https://digitalpassport.by/api/mcp`
+  [![Digital Passport Belarus MCP connector](https://glama.ai/mcp/connectors/by.digitalpassport/digital-passport-belarus/badges/score.svg)](https://glama.ai/mcp/connectors/by.digitalpassport/digital-passport-belarus)
   🔓 - Open registry of Belarusian companies backed by EGR, MNS, and BelGIE data.
 - [Diogenes Neural Search](https://diogenesgateway.com/#neural-search-engine) `https://diogenesgateway.com/mcp/neural-search-engine`
   [![Diogenes Neural Search MCP connector](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-neural-search-engine-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-neural-search-engine-mcp)
