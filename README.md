@@ -2494,6 +2494,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [FundBiz Lender Index](https://fundbiz.co.uk) `https://fundbiz.co.uk/mcp`
+  [![FundBiz Lender Index MCP connector](https://glama.ai/mcp/connectors/uk.co.fundbiz/lender-index/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.fundbiz/lender-index)
+  🔓 - UK business finance lender terms and rates from the FundBiz Lender Index, compiled from public sources.
 - [FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers&utm_content=readme) `https://mcp.fxmacrodata.com`
   [![FXMacroData MCP connector](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata)
   🔓 - Official macro releases and calendars: public USD data, with an optional API key for broader coverage.
@@ -3231,6 +3234,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIm Workout Journal](https://aim-journal.com) `https://aim-journal.com/mcp`
   [![AIm Workout Journal MCP connector](https://glama.ai/mcp/connectors/com.aim-journal/aim/badges/score.svg)](https://glama.ai/mcp/connectors/com.aim-journal/aim)
   🔐 - Workout journal your assistant writes to: log and correct workouts, plan a program, see records and volume.
+- [Baby Data](https://babydata.co.uk) `https://babydata.co.uk/mcp`
+  [![Baby Data MCP connector](https://glama.ai/mcp/connectors/uk.co.babydata/pregnancy-calculators/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.babydata/pregnancy-calculators)
+  🔓 - UK due date, ovulation, pregnancy weeks and maternity pay calculators that show their working.
 - [Bidwell Health](https://bidwellhealth.com/ai-connector) `https://tools.bidwellhealth.com/mcp`
   [![Bidwell Health MCP connector](https://glama.ai/mcp/connectors/com.bidwellhealth/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.bidwellhealth/connector)
   🔓 - Read-only information on Bidwell Health services, supported states, care limits, pricing, and visit guidance.
@@ -4639,6 +4645,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
   [![Lumière PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck)
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
+- [MerchantHQ Card Acquirer Index](https://merchanthq.co.uk) `https://merchanthq.co.uk/mcp`
+  [![MerchantHQ Card Acquirer Index MCP connector](https://glama.ai/mcp/connectors/uk.co.merchanthq/card-acquirer-index/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.merchanthq/card-acquirer-index)
+  🔓 - UK card payment acquirer terms and published fees from the MerchantHQ Card Acquirer Index.
 - [Ontario Protocol](https://ontarioprotocol.com) `https://ontarioprotocol.com/mcp`
   [![Ontario Protocol MCP connector](https://glama.ai/mcp/connectors/com.ontarioprotocol/ontario-protocol/badges/score.svg)](https://glama.ai/mcp/connectors/com.ontarioprotocol/ontario-protocol)
   🔓 - Find live x402 APIs for a task, read Base balances, transactions and gas, and check readiness before an agent pays.
@@ -4910,6 +4919,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Urban Game Theory — Consensus Builder](https://urbangametheory.xyz) `https://urbangametheory.xyz/mcp`
   [![Urban Game Theory MCP connector](https://glama.ai/mcp/connectors/xyz.urbangametheory/urban-game-theory/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.urbangametheory/urban-game-theory)
   🔓 - Inspect real parcels, draft and edit urban plans, compare alternatives, and share 2D/3D designs.
+- [VettedHome Property Guides](https://vettedhome.co.uk) `https://vettedhome.co.uk/mcp`
+  [![VettedHome Property Guides MCP connector](https://glama.ai/mcp/connectors/uk.co.vettedhome/property-guides/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.vettedhome/property-guides)
+  🔓 - Search plain-English UK guides to property problems and home energy decisions.
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
