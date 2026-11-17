@@ -1500,6 +1500,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiniTools](https://minitools.bigfloppy.net) `https://minitools.bigfloppy.net/mcp`
   [![MiniTools MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools)
   🔓 - Six tiny devtools (slugs, timestamps, case, hash, base64, UUID) over GET endpoints and MCP; no key needed.
+- [Mobilebox](https://mobilebox.dev) `https://mobilebox.dev/mcp`
+  [![Mobilebox MCP connector](https://glama.ai/mcp/connectors/dev.mobilebox/mobilebox/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mobilebox/mobilebox)
+  🔐 - Cloud Android phones for AI agents, over MCP and REST: read the screen, tap, type, install APKs.
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
