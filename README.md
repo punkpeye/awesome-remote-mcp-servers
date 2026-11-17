@@ -1933,6 +1933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shopify Speed Check](https://www.skaidigital.com/tools/shopify-speed-test) `https://tools.skaidigital.com/mcp`
   [![Shopify Speed Check MCP connector](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check)
   🔓 - Check a Shopify store's PageSpeed and Core Web Vitals, find slowing apps, compare plan fees, get a headless estimate.
+- [Shopify Store Intel](https://apify.com/rasareka/shopify-mcp) `https://rasareka--shopify-mcp.apify.actor/mcp`
+  [![Shopify Store Intel MCP connector](https://glama.ai/mcp/connectors/com.rasareka/shopify/badges/score.svg)](https://glama.ai/mcp/connectors/com.rasareka/shopify)
+  🔑 - Analyze any Shopify store's catalog, prices, discounts and new products, and compare competitor stores.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
@@ -2467,6 +2470,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
+- [Finance: Stock, ETF & Crypto Data](https://apify.com/rasareka/finance-mcp) `https://rasareka--finance-mcp.apify.actor/mcp`
+  [![Finance: Stock, ETF & Crypto Data MCP connector](https://glama.ai/mcp/connectors/com.rasareka/finance/badges/score.svg)](https://glama.ai/mcp/connectors/com.rasareka/finance)
+  🔑 - Stock, ETF, index, FX and crypto prices: snapshots, trailing returns, volatility, history and comparisons.
 - [Financial Evidence](https://beepboop2025.github.io/financial-evidence-skills/) `https://liquilens.in/mcp/financial-evidence`
   [![Financial Evidence MCP connector](https://glama.ai/mcp/connectors/io.github.beepboop2025/financial-evidence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beepboop2025/financial-evidence)
   🔓 - Route and retrieve cited funding, bank-risk and market-liquidity evidence, preserving source dates and missingness.
@@ -3835,6 +3841,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
 
+- [Google Trends, News & Keyword Ideas](https://apify.com/rasareka/trends-news-mcp) `https://rasareka--trends-news-mcp.apify.actor/mcp`
+  [![Google Trends, News & Keyword Ideas MCP connector](https://glama.ai/mcp/connectors/com.rasareka/trends-news/badges/score.svg)](https://glama.ai/mcp/connectors/com.rasareka/trends-news)
+  🔑 - Trending Google searches in 100+ countries, Google News search, and Google/YouTube/Amazon keyword ideas.
+
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -4973,6 +4983,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Website Intel: Tech Stack, SEO & Email Check](https://apify.com/rasareka/website-intel-mcp) `https://rasareka--website-intel-mcp.apify.actor/mcp`
+  [![Website Intel: Tech Stack, SEO & Email Check MCP connector](https://glama.ai/mcp/connectors/com.rasareka/website-intel/badges/score.svg)](https://glama.ai/mcp/connectors/com.rasareka/website-intel)
+  🔑 - Detect a site's tech stack, run an on-page SEO audit, profile websites for leads, and validate email lists.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
