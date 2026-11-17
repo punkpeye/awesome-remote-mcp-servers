@@ -990,6 +990,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokolaku](https://tokolaku.id/developers) `https://api.tokolaku.id/mcp`
   [![Tokolaku MCP connector](https://glama.ai/mcp/connectors/id.tokolaku/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/id.tokolaku/mcp)
   🔐 - Send WhatsApp Business messages and manage inbox conversations, products, orders and webhooks for Indonesian SMBs.
+- [TopSMS](https://topsms.eu/mcp) `https://topsms.eu/api/mcp`
+  [![TopSMS MCP connector](https://glama.ai/mcp/connectors/io.github.topsms-ghb/topsms-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.topsms-ghb/topsms-mcp)
+  🔐 - Send and schedule SMS, bulk SMS and OTP codes, and check delivery status and credit in the EU, Czechia and Slovakia.
 - [Unitpost](https://www.unitpost.com/ai/mcp) `https://mcp.unitpost.com/mcp`
   [![Unitpost MCP connector](https://glama.ai/mcp/connectors/com.unitpost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.unitpost/mcp)
   🔐 - Send transactional email, campaigns and SMS; manage contacts, templates, domains, webhooks and inbound email.
