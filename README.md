@@ -3883,6 +3883,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [fnlowl](https://fnlowl.com) `https://api.fnlowl.com/v1/mcp`
   [![fnlowl MCP connector](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl)
   🔓 - Manage website widgets, leads, email sequences and analytics; discovery is open, tool calls need a sign-in.
+- [Fetchwright Google Ads Library](https://apify.com/fetchwright/google-ads-transparency-scraper) `https://mcp.apify.com/?tools=fetchwright/google-ads-transparency-scraper,fetchwright/microsoft-ads-library-scraper`
+  [![Fetchwright Google Ads Library MCP connector](https://glama.ai/mcp/connectors/io.github.Fetchwright/google-ads-library/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fetchwright/google-ads-library)
+  🔐 - Any company's Google ads from the Ads Transparency Center and Microsoft's EU ad library, with dates and new-ad alerts.
+- [Fetchwright Google AI Overview Tracker](https://apify.com/fetchwright/google-ai-overviews-ai-mode-scraper) `https://mcp.apify.com/?tools=fetchwright/google-ai-overviews-ai-mode-scraper,fetchwright/google-trends-scraper`
+  [![Fetchwright Google AI Overview Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.Fetchwright/google-ai-overview-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Fetchwright/google-ai-overview-tracker)
+  🔐 - How often Google's AI Overviews and AI Mode name and cite each brand per query, plus Google Trends interest.
 - [Formgong](https://formgong.com) `https://formgong.com/mcp`
   [![Formgong MCP connector](https://glama.ai/mcp/connectors/com.formgong/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.formgong/mcp)
   🔓 - Create contact forms and get HTML/React/Next.js snippets; discovery is open, every tool call needs a sign-in.
