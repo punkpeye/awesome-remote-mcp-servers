@@ -3212,7 +3212,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Daily trading card prices and history for Pokémon, One Piece, Lorcana, Yu-Gi-Oh, Riftbound and Gundam.
 - [Valo.IA (ValoTCG)](https://valotcg.com/developers/mcp) `https://api.valotcg.com/mcp`
   [![Valo.IA (ValoTCG) MCP connector](https://glama.ai/mcp/connectors/com.valotcg/valo-ia/badges/score.svg)](https://glama.ai/mcp/connectors/com.valotcg/valo-ia)
-  🔑 - Trading card prices for 14 TCGs: Cardmarket, US market, eBay sold, graded sales and PSA populations.
+  🔓 - Trading card prices for 14 TCGs: Cardmarket, US market, eBay and graded sales. Tools need a free API key.
 - [Vice City Hub](https://vicecityhub.github.io/vicecityhub/agents.html) `https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp`
   [![Vice City Hub MCP connector](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub)
   🔓 - GTA VI news, GTA RP servers, Web3 domains, merch and crypto donations for AI agents.
