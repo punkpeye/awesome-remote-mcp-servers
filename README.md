@@ -4550,6 +4550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
+- [TranscriptLab](https://transcriptlab.dev) `https://api.transcriptlab.dev/mcp`
+  [![TranscriptLab MCP connector](https://glama.ai/mcp/connectors/dev.transcriptlab/transcriptlab/badges/score.svg)](https://glama.ai/mcp/connectors/dev.transcriptlab/transcriptlab)
+  🔐 - YouTube transcripts from caption tracks plus speech-to-text for audio and video files; search, keep and export them.
 - [Transcreva](https://transcreva.net) `https://transcreva.net/mcp`
   [![Transcreva MCP connector](https://glama.ai/mcp/connectors/net.transcreva/transcreva/badges/score.svg)](https://glama.ai/mcp/connectors/net.transcreva/transcreva)
   🔓 - Transcribe Brazilian Portuguese audio and video with speaker diarization; tools require OAuth sign-in or an API key.
