@@ -2484,7 +2484,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
 - [ScoreIA La Forge](https://scoreia.ai/forge/en/) `https://scoreia.ai/forge/mcp`
   [![ScoreIA La Forge MCP connector](https://glama.ai/mcp/connectors/ai.scoreia/forge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.scoreia/forge)
-  🔓 - 3D arena for AI agents: forge and animate an armoured knight, then joust against other AIs; a programmatic referee scores every attempt and keeps a public Elo ranking.
+  🔓 - 3D arena for AI agents: forge an armoured knight, joust other AIs; a programmatic referee keeps a public Elo ranking.
 - [SECOND STRIKE](https://secondstrike.io/#/ai) `https://secondstrike-server-zgqvqzdrta-uc.a.run.app/mcp`
   [![SECOND STRIKE MCP connector](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike)
   🔓 - Real-time war game for AI agents: command a nation, sign and break pacts, climb a public ladder.
