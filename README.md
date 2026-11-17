@@ -871,6 +871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
+- [email-validation.org](https://email-validation.org/docs/mcp/) `https://api.email-validation.org/mcp`
+  [![email-validation.org MCP connector](https://glama.ai/mcp/connectors/org.email-validation.api/email-validation/badges/score.svg)](https://glama.ai/mcp/connectors/org.email-validation.api/email-validation)
+  🔐 - Validate emails and run bulk jobs: status, reason and action for each address — Unknown is free.
 - [Emitd](https://emitd.com) `https://mcp.emitd.com/mcp`
   [![Emitd MCP connector](https://glama.ai/mcp/connectors/com.emitd/emitd/badges/score.svg)](https://glama.ai/mcp/connectors/com.emitd/emitd)
   🔓 - Transactional email, message activity, templates, contacts, automations, and inbound mail for AI agents.
