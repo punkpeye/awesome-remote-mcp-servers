@@ -3249,6 +3249,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
+- [GlucoBeat](https://www.glucobeat.com/) `https://mcp.glucobeat.com`
+  [![GlucoBeat MCP connector](https://glama.ai/mcp/connectors/com.glucobeat/glucobeat/badges/score.svg)](https://glama.ai/mcp/connectors/com.glucobeat/glucobeat)
+  🔐 - Read and log your glucose, meals, insulin, exercise and sleep from your glucose sensor in GlucoBeat.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
@@ -6231,6 +6234,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HemmaBo](https://www.hemmabo.com) `https://www.hemmabo.com/mcp`
   [![HemmaBo MCP connector](https://glama.ai/mcp/connectors/com.hemmabo/hemmabo-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.hemmabo/hemmabo-mcp-server)
   🔓 - Vacation rental software: find a host's own booking site, check availability, verify the host-signed stay offer.
+- [Hoy Planes](https://www.hoyplanes.com/mcp/) `https://mcp.hoyplanes.com`
+  [![Hoy Planes MCP connector](https://glama.ai/mcp/connectors/com.hoyplanes/hoy-planes/badges/score.svg)](https://glama.ai/mcp/connectors/com.hoyplanes/hoy-planes)
+  🔓 - What's on in 12 Spanish provinces: concerts, theater and free plans by date, topic, price and distance.
 - [Jet Tracker](https://jettracker.com.br/desenvolvedores) `https://jettracker.com.br/api/mcp`
   [![Jet Tracker MCP connector](https://glama.ai/mcp/connectors/br.com.jettracker/jet-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.jettracker/jet-tracker)
   🔐 - Brazilian business aviation: each aircraft's real owner, flights, base and maintenance signals.
