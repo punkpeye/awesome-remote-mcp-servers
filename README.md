@@ -5561,6 +5561,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Car Rental Brain](https://carrentalbrain.com/ai/) `https://app.carrentalbrain.com/mcp`
   [![Car Rental Brain MCP connector](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain)
   🔓 - Real car-hire costs at 120+ airports: second-driver fees, deposits, debit cards, desk hours and desk excess cover.
+- [ChargingNear.me](https://chargingnear.me/mcp) `https://chargingnear.me/api/mcp`
+  [![ChargingNear.me MCP connector](https://glama.ai/mcp/connectors/me.chargingnear/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.chargingnear/mcp)
+  🔓 - Find U.S. public EV chargers near a place or along a drive, with city, state and highway-gap data.
 - [CheapCarRent search](https://cheapcarent.com) `https://cheapcarent.com/mcp`
   [![CheapCarRent search MCP connector](https://glama.ai/mcp/connectors/com.cheapcarent/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapcarent/search)
   🔓 - Search car rental offers by city or airport and dates, with live prices and a link to each offer.
@@ -5664,6 +5667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Orizn Visa API](https://visa.orizn.app/integrations/mcp) `https://visa.orizn.app/mcp`
   [![Orizn Visa API MCP connector](https://glama.ai/mcp/connectors/io.github.MattJeff/orizn-visa-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MattJeff/orizn-visa-mcp)
   🔓 - Visa rules for 49,750 passport-destination pairs, official sources; 2 tools keyless, X-API-Key for the rest.
+- [Park Graph](https://parkgraph.com/developers/mcp) `https://parkgraph.com/api/mcp`
+  [![Park Graph MCP connector](https://glama.ai/mcp/connectors/com.parkgraph/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.parkgraph/mcp)
+  🔓 - Find, price and hold parking at Park Graph lots; drivers pay on parkgraph.com.
 - [Portmans Motor Lodge](https://www.portmans.co.nz/) `https://portmans-mcp.portmanshastings.workers.dev/mcp`
   [![Portmans Motor Lodge MCP connector](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp)
   🔓 - Hotel availability, public BAR rates, and a direct booking link for Portmans Motor Lodge in Hastings, New Zealand.
