@@ -56,23 +56,32 @@ jobs:
             const { owner, repo } = context.repo;
             const issue_number = context.payload.pull_request.number;
 
+            const HEAD = /^-\s*\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)\s+`(https?:\/\/[^`\s]+)`\s*$/;
+            const normalize = u => u.replace(/\/+$/, '').toLowerCase();
+
+            // Number of real entries per endpoint on the base branch
             const readme = fs.readFileSync('README.md', 'utf8');
-            const existingEndpoints = new Set(
-              [...readme.matchAll(/`(https:\/\/[^`\s]+)`/g)].map(m => m[1].replace(/\/+$/, '').toLowerCase())
-            );
+            const baseCounts = new Map();
+            for (const line of readme.split('\n')) {
+              const h = line.match(HEAD);
+              if (h) baseCounts.set(normalize(h[3]), (baseCounts.get(normalize(h[3])) || 0) + 1);
+            }
 
             const { data: files } = await github.rest.pulls.listFiles({
               owner, repo, pull_number: issue_number, per_page: 100,
             });
 
-            const addedLines = files
+            const patchLines = files
               .filter(f => f.filename === 'README.md' && f.patch)
-              .flatMap(f => f.patch.split('\n'))
+              .flatMap(f => f.patch.split('\n'));
+            const addedLines = patchLines
               .filter(l => l.startsWith('+') && !l.startsWith('+++'))
+              .map(l => l.slice(1));
+            const removedLines = patchLines
+              .filter(l => l.startsWith('-') && !l.startsWith('---'))
               .map(l => l.slice(1));
 
             // Reassemble multi-line entries from the diff
-            const HEAD = /^-\s*\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)\s+`(https?:\/\/[^`\s]+)`\s*$/;
             const BADGE = /^\s+\[!\[[^\]]*\]\(https:\/\/glama\.ai\/mcp\/connectors\/([^/)\s]+\/[^/)\s]+)\/badges\/score\.svg\)\]\(([^)\s]+)\)\s*$/;
             const MARKS = /^\s+([🔓🔑🔐][\s\S]*?)\s+-\s+(\S.*)$/u;
 
@@ -88,9 +97,19 @@ jobs:
               if (m) { cur.marks = m[1].trim(); cur.desc = m[2].trim(); }
             }
 
+            // Entries per endpoint after the PR: base + added - removed
+            const finalCounts = new Map(baseCounts);
+            for (const line of removedLines) {
+              const h = line.match(HEAD);
+              if (h) finalCounts.set(normalize(h[3]), (finalCounts.get(normalize(h[3])) || 0) - 1);
+            }
+            for (const e of entries) {
+              finalCounts.set(normalize(e.endpoint), (finalCounts.get(normalize(e.endpoint)) || 0) + 1);
+            }
+
             // Only look at entries whose endpoint is not already listed
-            const fresh = entries.filter(e => !existingEndpoints.has(e.endpoint.replace(/\/+$/, '').toLowerCase()));
-            const duplicates = entries.filter(e => existingEndpoints.has(e.endpoint.replace(/\/+$/, '').toLowerCase()));
+            const fresh = entries.filter(e => !baseCounts.has(normalize(e.endpoint)));
+            const duplicates = entries.filter(e => finalCounts.get(normalize(e.endpoint)) > 1);
 
             const AUTH = ['🔓', '🔑', '🔐'];
 
