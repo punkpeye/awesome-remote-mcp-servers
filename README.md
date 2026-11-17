@@ -1820,6 +1820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [ForthClear](https://forthclear.io) `https://app.forthclear.io/mcp`
+  [![ForthClear MCP connector](https://glama.ai/mcp/connectors/io.forthclear/liquidation/badges/score.svg)](https://glama.ai/mcp/connectors/io.forthclear/liquidation)
+  🔓 - B2B marketplace for surplus, overstock and returns: search lots, view manifests, request quotes and place orders.
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
