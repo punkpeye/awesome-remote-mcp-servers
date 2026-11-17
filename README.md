@@ -3583,6 +3583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRANCO](https://droit.juan-branco.fr/installer) `https://droit.juan-branco.fr/api/mcp/oauth`
   [![BRANCO MCP connector](https://glama.ai/mcp/connectors/fr.juan-branco/branco/badges/score.svg)](https://glama.ai/mcp/connectors/fr.juan-branco/branco)
   🔐 - Search French legislation and case law, read legal sources, and verify citations with a BRANCO Research account.
+- [CaseNode](https://casenode.ai) `https://api.casenode.ai/mcp`
+  [![CaseNode MCP connector](https://glama.ai/mcp/connectors/io.github.LuptonM/casenode-legal-graph/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LuptonM/casenode-legal-graph)
+  🔐 - UK case law: search 290k+ judgments, resolve and validate citations, and trace treatment across a 2.5M-link graph.
 - [Cheap NY Publication](https://cheapnypublication.com/ai) `https://cheapnypublication.com/mcp`
   [![Cheap NY Publication MCP connector](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc)
   🔓 - New York LLC lookup from the state register: publication deadline, county and price, plus filing quotes.
