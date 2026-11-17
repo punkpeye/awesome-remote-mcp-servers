@@ -375,6 +375,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
+- [Japan Hands](https://japan-hands.vercel.app) `https://japan-hands.vercel.app/mcp`
+  [![Japan Hands MCP connector](https://glama.ai/mcp/connectors/io.github.akihidem/japan-hands/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.akihidem/japan-hands)
+  🔓 - Hire human hands in Japan: shopping proxy, stock checks, on-site photos, restaurant reservations, queueing and package forwarding, with instant itemised quotes.
 - [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
   [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
   🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
@@ -2102,9 +2105,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Korea Ocean Leisure](https://korea-ocean-mcp.picks-site.workers.dev/) `https://korea-ocean-mcp.picks-site.workers.dev/mcp`
   [![Korea Ocean Leisure MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp)
   🔓 - Korean tide times for 42 stations plus fishing, mudflat, beach, surf and scuba forecasts.
-- [Meteosource](https://mcp.meteosource.com) `https://mcp.meteosource.com/mcp`
-  [![Meteosource MCP connector](https://glama.ai/mcp/connectors/com.meteosource.mcp/weather-mcp-server-by-meteosource/badges/score.svg)](https://glama.ai/mcp/connectors/com.meteosource.mcp/weather-mcp-server-by-meteosource)
-  🔓 - Forecasts, severe-weather alerts, air quality, 20 years of history, solar and wind production; free API key needed.
 - [NWS Weather](https://github.com/Thx93/mcp-weather-server) `https://agent-evidence.thx93.dev/weather/mcp`
   [![NWS Weather MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/weather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/weather)
   🔓 - National Weather Service alerts by state code and five-period forecasts by latitude and longitude.
