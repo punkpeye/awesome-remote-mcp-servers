@@ -3827,7 +3827,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Aidenix](https://aidenix.com) `https://mcp.aidenix.com/mcp`
   [![Aidenix MCP connector](https://glama.ai/mcp/connectors/com.aidenix/aidenix/badges/score.svg)](https://glama.ai/mcp/connectors/com.aidenix/aidenix)
-  🔑 - B2B people and company data: search by filters, enrich domains, emails and LinkedIn profiles, score lead fit.
+  🔐 - B2B people and company data: search by filters, enrich domains, emails and LinkedIn profiles, score lead fit.
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
