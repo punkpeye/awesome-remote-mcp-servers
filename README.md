@@ -5455,6 +5455,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TANDIU](https://www.tandiu.cn) `https://www.tandiu.cn/mcp`
   [![TANDIU MCP connector](https://glama.ai/mcp/connectors/cn.tandiu/data/badges/score.svg)](https://glama.ai/mcp/connectors/cn.tandiu/data)
   🔓 - Daily AI infrastructure data for agents: LLM API prices, GPU rental, self-hosting costs, cloud agents and AI funding.
+- [Tapline](https://tapline.sh) `https://api.tapline.sh/mcp`
+  [![Tapline MCP connector](https://glama.ai/mcp/connectors/sh.tapline/tapline/badges/score.svg)](https://glama.ai/mcp/connectors/sh.tapline/tapline)
+  🔐 - Structured JSON from YouTube, Airbnb, TikTok, Instagram, Facebook, LinkedIn, Zillow and Google Maps.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
   🔐 - Web search and content extraction built for agents.
 - [TCI Job Finder](https://tcijobfinder.com) `https://tcijobfinder.com/api/mcp`
