@@ -3664,6 +3664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PRIMAMCP](https://mcp.planitprima.com) `https://mcp.planitprima.com/mcp`
   [![PRIMAMCP MCP connector](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp)
   🔐 - German and EU law: statutes, court decisions, EU acts and legislative materials, with verified citations.
+- [Qanun](https://qanun.tn) `https://qanun.tn/mcp`
+  [![Qanun MCP connector](https://glama.ai/mcp/connectors/tn.qanun/qanun-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tn.qanun/qanun-mcp)
+  🔓 - Tunisian law and JORT announcements in Arabic and French, with article text and JORT citations.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
