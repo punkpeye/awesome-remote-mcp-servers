@@ -5883,6 +5883,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
+- [Pylot AI](https://www.getpylot.com/agents) `https://www.getpylot.com/api/mcp`
+  [![Pylot AI MCP connector](https://glama.ai/mcp/connectors/com.getpylot/pylot/badges/score.svg)](https://glama.ai/mcp/connectors/com.getpylot/pylot)
+  🔑 - Draft, schedule and publish posts to Instagram, Facebook, TikTok, LinkedIn, X and Google Business Profile.
 - [QPost](https://qpost.dev) `https://qpost.dev/mcp`
   [![QPost MCP connector](https://glama.ai/mcp/connectors/io.github.arslan2012/qpost-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arslan2012/qpost-mcp)
   🔓 - Publish and schedule videos and images on TikTok, Instagram and YouTube, with post stats; tools need an API key.
