@@ -2793,6 +2793,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![RevExOS MCP connector](https://glama.ai/mcp/connectors/com.revexos/revexos/badges/score.svg)](https://glama.ai/mcp/connectors/com.revexos/revexos)
   🔓 - Quote-to-cash tools: parse invoices and POs, 3-way match, proration, revenue schedules, dunning emails.
 
+- [RevvedUpCars True Cost Index](https://revvedupcars.com/developers) `https://revvedupcars.com/api/mcp`
+  [![RevvedUpCars True Cost Index MCP connector](https://glama.ai/mcp/connectors/com.revvedupcars/true-cost-index/badges/score.svg)](https://glama.ai/mcp/connectors/com.revvedupcars/true-cost-index)
+  🔓 - Monthly cost to own new US cars: loan, insurance, maintenance and fuel, per car, ranked or head to head.
+
 - [RWA Data MCP Server](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp) `https://rwa-data-mcp.dave-a-bear.workers.dev/mcp`
   [![RWA Data MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp)
     🔓 - Stablecoin & RWA market data for AI agents: metrics, peg monitoring, prices, claim verification; x402 USDC pay-per-call.
