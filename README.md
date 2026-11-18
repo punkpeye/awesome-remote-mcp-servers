@@ -825,7 +825,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
 - [while.sh](https://while.sh/en/) `https://app.while.sh/mcp`
   [![while.sh MCP connector](https://glama.ai/mcp/connectors/sh.while/while/badges/score.svg)](https://glama.ai/mcp/connectors/sh.while/while)
-  🔐 - Tools built with Claude or ChatGPT, online for your team, a client or everyone. No sign-up.
+  🔐 - Deploy and share tools built with Claude or ChatGPT: your team, a client or everyone. No sign-up.
   
 ### 💬 <a name="communication"></a>Communication
 
