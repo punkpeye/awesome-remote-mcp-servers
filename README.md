@@ -3226,6 +3226,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ZeroMind MCP connector](https://glama.ai/mcp/connectors/ai.origozero/zeromind/badges/score.svg)](https://glama.ai/mcp/connectors/ai.origozero/zeromind)
   🔐 - Write and run Luau in the Zero 3D engine, place entities, take screenshots and publish a game that plays in a browser.
 - [battle.training](https://battle.training/) `https://api.battle.training/mcp`
+  [![battle.training MCP connector](https://glama.ai/mcp/connectors/training.battle.api/battletraining/badges/score.svg)](https://glama.ai/mcp/connectors/training.battle.api/battletraining)
   🔓 - Deterministic tank-battle arena for AI coding agents. Write a JavaScript commander, upload it over MCP or REST, and compete 24/7 on a verified public ladder.
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
