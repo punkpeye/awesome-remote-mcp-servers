@@ -6492,6 +6492,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
+- [Mewboard](https://mewboard.com) `https://app.mewboard.com/mcp`
+  [![Mewboard MCP connector](https://glama.ai/mcp/connectors/com.mewboard/mewboard/badges/score.svg)](https://glama.ai/mcp/connectors/com.mewboard/mewboard)
+  🔐 - Projects, issues, comments, files, clients and project money for teams and freelancers.
 - [Multi Calendar](https://lumman.co/mcp/multi-calendar) `https://calendar.lumman.co/mcp`
   [![Multi Calendar MCP connector](https://glama.ai/mcp/connectors/co.lumman/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/co.lumman/calendar)
   🔐 - Find free time and manage events across Outlook.com, Microsoft 365 and Google calendars, with booking pages and polls.
