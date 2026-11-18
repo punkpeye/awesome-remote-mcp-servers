@@ -6165,6 +6165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [China Footnotes](https://chinafootnotes.com) `https://chinafootnotes.com/mcp`
   [![China Footnotes MCP connector](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.chinafootnotes/china-footnotes)
   🔓 - Sourced, dated travel facts for first-time visitors to China: hours, tickets, booking and passport notes.
+- [Declaroad](https://declaroad.com) `https://declaroad.com/mcp`
+  [![Declaroad MCP connector](https://glama.ai/mcp/connectors/com.declaroad/declaroad/badges/score.svg)](https://glama.ai/mcp/connectors/com.declaroad/declaroad)
+  🔓 - Visa status and entry, customs, cash and medicine rules for a destination and passport, each with its official source.
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
