@@ -817,6 +817,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Utplava](https://utplava.dev/mcp/) `https://app.utplava.dev/api/mcp`
   [![Utplava MCP connector](https://glama.ai/mcp/connectors/dev.utplava.app/utplava/badges/score.svg)](https://glama.ai/mcp/connectors/dev.utplava.app/utplava)
   🔐 - Deploy GitHub repos built with AI tools: put apps online, check status, read logs and set environment variables.
+- [vbtnl](https://vbtnl.com) `https://api.vbtnl.com/mcp`
+  [![vbtnl MCP connector](https://glama.ai/mcp/connectors/com.vbtnl/vbtnl/badges/score.svg)](https://glama.ai/mcp/connectors/com.vbtnl/vbtnl)
+  🔐 - Write, run and publish sites, bots and APIs to a live HTTPS URL, with releases, rollback, logs and a database.
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
