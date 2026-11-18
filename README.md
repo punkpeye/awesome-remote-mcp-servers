@@ -6056,6 +6056,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AcesAPI](https://acesapi.com) `https://mcp.acesapi.com/mcp`
   [![AcesAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi)
   🔓 - ATP and WTA tennis since 2007: sets, draws, rankings, head to head, surface Elo, sportsbook lines.
+- [DunkAPI](https://dunkapi.com) `https://mcp.dunkapi.com/mcp`
+  [![DunkAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi)
+  🔓 - NBA, WNBA and college basketball data: play-by-play, shot locations, box scores, odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
