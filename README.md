@@ -3303,6 +3303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Techny](https://techny.dev/agents) `https://techny.dev/mcp`
+  [![Techny MCP connector](https://glama.ai/mcp/connectors/dev.techny/techny/badges/score.svg)](https://glama.ai/mcp/connectors/dev.techny/techny)
+  🔓 - Open tech roles in Egypt, Saudi Arabia and the UAE from companies' own careers pages; company funding, Telegram alerts.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
