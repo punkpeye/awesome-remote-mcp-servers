@@ -5036,6 +5036,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
+- [NomyParts open data](https://www.nomyparts.com/developers/) `https://nomyparts-open-data.nomyparts.workers.dev/mcp`
+  [![NomyParts open data MCP connector](https://glama.ai/mcp/connectors/com.nomyparts/open-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.nomyparts/open-data)
+  🔓 - Search drone and eVTOL components, read specs with units and sources, compare products and list categories.
 - [Oliver's mTOR Atlas](https://mtor-atlas.org/api/#mcp) `https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp`
   [![Oliver's mTOR Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas)
   🔓 - Curated mTOR research: evidence-labelled studies, pathway claims with supporting/conflicting studies, open questions.
