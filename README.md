@@ -2063,6 +2063,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ampworth](https://ampworth.com/developers) `https://ampworth.com/mcp`
   [![Ampworth MCP connector](https://glama.ai/mcp/connectors/com.ampworth/ampworth/badges/score.svg)](https://glama.ai/mcp/connectors/com.ampworth/ampworth)
   🔓 - UK solar PV and heat pump calculators that follow the MCS standards and show their working, plus guides.
+- [Average Electric Bill](https://averageelectricbill.com/about#ai) `https://averageelectricbill.com/mcp`
+  [![Average Electric Bill MCP connector](https://glama.ai/mcp/connectors/com.averageelectricbill/electric-bill/badges/score.svg)](https://glama.ai/mcp/connectors/com.averageelectricbill/electric-bill)
+  🔓 - Check whether a U.S. electric bill is normal for the state and home, plus average rates by state and utility.
 - [Boncourant](https://boncourant.fr/agents?utm_source=awesome_mcp&utm_medium=directory&utm_campaign=fr_geo_launch) `https://boncourant.fr/mcp`
   [![Boncourant MCP connector](https://glama.ai/mcp/connectors/fr.boncourant/boncourant/badges/score.svg)](https://glama.ai/mcp/connectors/fr.boncourant/boncourant)
   🔓 - French electricity bill and contract audits, tariff and subscribed-power checks, with versioned, cited methods.
