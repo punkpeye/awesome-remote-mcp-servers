@@ -4318,6 +4318,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RunVouch](https://runvouch.com) `https://api.runvouch.com/mcp`
   [![RunVouch MCP connector](https://glama.ai/mcp/connectors/com.runvouch/runvouch/badges/score.svg)](https://glama.ai/mcp/connectors/com.runvouch/runvouch)
   🔓 - Find out why an unattended run stalled or failed and read tamper-evident proof; needs a free key.
+- [ScraperWatch](https://scraperwatch.com/mcp-changes/) `https://scraperwatch.com/mcp`
+  [![ScraperWatch MCP connector](https://glama.ai/mcp/connectors/com.scraperwatch/scraperwatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.scraperwatch/scraperwatch)
+  🔓 - Web-scraper success-rate data, daily MCP Registry stats, and tool-change history for a panel of public MCP servers.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
