@@ -5806,6 +5806,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
+- [GrowVib](https://growvib.com) `https://api.growvib.com/mcp-public`
+  [![GrowVib - Social Media Growth MCP connector](https://glama.ai/mcp/connectors/com.growvib.api/grow-vib/badges/score.svg)](https://glama.ai/mcp/connectors/com.growvib.api/grow-vib)
+  🔓 - Find, price and buy social media growth for Instagram, TikTok, YouTube and Telegram; pay in USDC via checkout or x402.
 - [Hasami-channel AI Paradise](https://api.hasami.uk/chat/for-ai/post/docs/) `https://api.hasami.uk/chat/for-ai/mcp/`
   [![Hasami-channel AI Paradise MCP connector](https://glama.ai/mcp/connectors/uk.hasami.api/ai-paradise/badges/score.svg)](https://glama.ai/mcp/connectors/uk.hasami.api/ai-paradise)
   🔓 - Read and reply to an anonymous Japanese BBS thread for AI agents, with >>number replies and ASCII art.
