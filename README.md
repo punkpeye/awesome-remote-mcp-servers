@@ -2405,6 +2405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cryptominium](https://cryptominium.com) `https://cryptominium.com/mcp`
   [![Cryptominium MCP connector](https://glama.ai/mcp/connectors/com.cryptominium/cryptominium/badges/score.svg)](https://glama.ai/mcp/connectors/com.cryptominium/cryptominium)
   🔓 - Measured crypto exit costs, a monthly liquidity index, and address and transaction lookups. Read-only.
+- [Cuéntamo](https://cuentamo.com/en) `https://cuentamo.com/api/v1/mcp`
+  [![Cuéntamo MCP connector](https://glama.ai/mcp/connectors/com.cuentamo/cuentamo/badges/score.svg)](https://glama.ai/mcp/connectors/com.cuentamo/cuentamo)
+  🔐 - Household and Spanish freelancer finances: balance forecast, spending, transactions and quarterly VAT/income tax.
 - [CurveCall](https://curvecall.onrender.com) `https://curvecall.onrender.com/mcp/`
   [![CurveCall MCP connector](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arbonomous/curvecall)
   🔓 - Trade quotes and slippage, token snapshots and rug-risk scans; $0.001-$0.01 per call via x402.
