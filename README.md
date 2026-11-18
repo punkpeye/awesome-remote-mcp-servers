@@ -2375,6 +2375,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CortexCloud](https://api.cortexcloud.org) `https://api.cortexcloud.org/mcp`
   [![CortexCloud MCP connector](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud)
   🔓 - Pay-per-call on-chain data: token balances, NFTs, tx history, wallet intel, token risk, whale alerts.
+- [CrowdWisdom Trading](https://crowdwisdomtrading.com/x402?utm_source=awesome-remote-mcp&utm_medium=github&utm_campaign=mcp) `https://api.crowdwisdomtrading.com/mcp`
+  [![CrowdWisdom Trading MCP connector](https://glama.ai/mcp/connectors/com.crowdwisdomtrading.api/crowd-wisdom-trading/badges/score.svg)](https://glama.ai/mcp/connectors/com.crowdwisdomtrading.api/crowd-wisdom-trading)
+  🔓 - Crowd sentiment score (-100 to +100) from thousands of pro traders on stocks, ETFs and crypto, daily and weekly.
 - [CryptoKeyhole](https://cryptokeyhole.com/mcp/) `https://cryptokeyhole.com/api/v1/mcp`
   [![CryptoKeyhole MCP connector](https://glama.ai/mcp/connectors/com.cryptokeyhole/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.cryptokeyhole/analytics)
   🔓 - On-chain and market metrics for Bitcoin, Ethereum and more from its own nodes, as exact values with provenance.
