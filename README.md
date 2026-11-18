@@ -1005,6 +1005,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
+- [WASender](https://wasender.dev) `https://mcp.wasender.dev/mcp`
+  [![WASender MCP connector](https://glama.ai/mcp/connectors/dev.wasender/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.wasender/whatsapp)
+  🔐 - Send and read WhatsApp messages, media, chats, contacts and groups from a linked number ($4/number/month, 7-day trial).
 - [WolfSMS](https://usewolfsms.com) `https://usewolfsms.com/mcp`
   [![WolfSMS MCP connector](https://glama.ai/mcp/connectors/com.usewolfsms/wolfsms/badges/score.svg)](https://glama.ai/mcp/connectors/com.usewolfsms/wolfsms)
   🔐 - Read the SMS your Android phone receives, like delivery codes and alerts, filtered by sender or time; read-only.
