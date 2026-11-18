@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
+- [Global Shopaholics](https://globalshopaholics.com/mcp/) `https://mcp.globalshopaholics.com/mcp`
+  [![Global Shopaholics MCP connector](https://glama.ai/mcp/connectors/io.github.xuniwattoo/gs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xuniwattoo/gs-mcp)
+  🔓 - Buy from any US store and ship worldwide: live carrier rates, landed cost with duties, assisted purchase, tracking.
 - [haggl.ai](https://www.haggl.ai/protocol) `https://www.haggl.ai/api/mcp`
   [![haggl.ai MCP connector](https://glama.ai/mcp/connectors/ai.haggl/haggl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.haggl/haggl)
   🔓 - Ask a merchant's haggl.ai sales agent for a personalized offer, then hand it to checkout.
