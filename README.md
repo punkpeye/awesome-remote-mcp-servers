@@ -213,6 +213,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ISHOB](https://ishob.com) `https://api.ishob.com/mcp`
   [![ISHOB MCP connector](https://glama.ai/mcp/connectors/com.ishob/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.ishob/archive)
   🔓 - 35 pay-per-call tools: web extraction, crypto token and wallet risk, SEC company data, weather risk; x402 USDC.
+- [Kitbay](https://kitbay.app/) `https://kitbay.app/mcp`
+  [![Kitbay MCP connector](https://glama.ai/mcp/connectors/app.kitbay/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.kitbay/catalog)
+  🔓 - Search 48,000+ MCP servers and agent skills by tool, with sourced facts and install configs for your client.
 - [Makeroo](https://makeroo.app/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://makeroo.app/mcp`
   [![Makeroo MCP connector](https://glama.ai/mcp/connectors/app.makeroo/makeroo/badges/score.svg)](https://glama.ai/mcp/connectors/app.makeroo/makeroo)
   🔓 - Search live product launches and submit a product to a free, AI-verified launch directory for its maker.
