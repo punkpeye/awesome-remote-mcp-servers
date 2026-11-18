@@ -4014,6 +4014,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nuqti](https://nuqti.com/mcp) `https://nuqti.com/api/public/mcp`
   [![Nuqti MCP connector](https://glama.ai/mcp/connectors/com.nuqti/nuqti-ahrefs-alternative-seo-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.nuqti/nuqti-ahrefs-alternative-seo-data)
   🔓 - SEO data: domain overview, backlinks, referring domains, link history, keyword ideas and on-page checks.
+- [Nvivio](https://nvivio.com/docs/mcp) `https://mcp.nvivio.com/mcp`
+  [![Nvivio MCP connector](https://glama.ai/mcp/connectors/com.nvivio/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.nvivio/analytics)
+  🔐 - Read-only cookieless web analytics: visitors, sources, pages, goals, funnels, bots and live visitors.
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
