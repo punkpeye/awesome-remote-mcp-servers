@@ -3300,9 +3300,17 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [AceRound](https://www.aceround.app/connect-ai-assistant/) `https://api.aceround.app/agent/mcp`
+  [![AceRound MCP connector](https://glama.ai/mcp/connectors/app.aceround/aceround/badges/score.svg)](https://glama.ai/mcp/connectors/app.aceround/aceround)
+  🔐 - Run mock interviews, review interview reports and transcripts, and manage resumes and job applications.
+
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+
+- [Mianling AI](https://www.mianlingai.com/ai-agent/) `https://api.mianlingai.com/agent/mcp`
+  [![Mianling AI MCP connector](https://glama.ai/mcp/connectors/com.mianlingai/mianling/badges/score.svg)](https://glama.ai/mcp/connectors/com.mianlingai/mianling)
+  🔐 - Interview copilot for the Chinese job market: mock interviews, interview reports, question banks, resumes, campus jobs.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
