@@ -2859,6 +2859,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
   [![StackEasy MCP connector](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stackeasy/credit-cards)
   🔐 - Read-only view of your credit cards: balances, utilization, best card for a purchase and missed rewards.
+- [StalkChain Data](https://data.stalkchain.com/) `https://data.stalkchain.com/mcp`
+  [![StalkChain Data MCP connector](https://glama.ai/mcp/connectors/com.stalkchain/data/badges/score.svg)](https://glama.ai/mcp/connectors/com.stalkchain/data)
+  🔐 - Research public trader wallets, token holders, wallet PnL, and on-chain flow.
 - [StartupPerks](https://startupperks.co/mcp-server) `https://startupperks.co/mcp`
   [![StartupPerks MCP connector](https://glama.ai/mcp/connectors/co.startupperks/startup-perks/badges/score.svg)](https://glama.ai/mcp/connectors/co.startupperks/startup-perks)
   🔓 - Rank the startup credits, perks and deals a company qualifies for across 1,000+ programs, each with sourced terms.
