@@ -2163,6 +2163,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [100pro Token Risk Screen](https://x402.rendraputra.dev/llms.txt) `https://x402.rendraputra.dev/mcp`
   [![100pro Token Risk Screen MCP connector](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk)
   🔓 - Pre-trade risk screen for EVM and Solana tokens: honeypots, LP lock, holders; $0.05 via x402.
+- [1gateway](https://1gateway.dev) `https://1gateway.dev/mcp`
+  [![1gateway MCP connector](https://glama.ai/mcp/connectors/io.github.code0xff/1gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.code0xff/1gateway)
+  🔓 - Pay-per-call MCP tools (x402 v2) for Korean data, documents, and agent utilities; from $0.002/call.
 
 
 - [47620 Data API](https://47620.xyz/agents) `https://47620.xyz/mcp`
