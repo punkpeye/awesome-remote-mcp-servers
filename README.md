@@ -2669,6 +2669,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MetricDuck](https://www.metricduck.com) `https://mcp.metricduck.com/mcp`
   [![MetricDuck MCP connector](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis)
   🔓 - SEC filing data for AI agents: financials, screening, every figure traceable; tool calls need a free sign-in.
+- [MexCheck](https://mexcheck.com/docs/mcp) `https://mexcheck.com/mcp`
+  [![MexCheck MCP connector](https://glama.ai/mcp/connectors/com.mexcheck/mexcheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.mexcheck/mexcheck)
+  🔐 - Validate Mexican RFCs, SAT 69-B lists, CFDI invoices, CURP (RENAPO) and INE voter IDs against official registries.
 - [Midpoint Card Prices](https://www.cardcenteringtool.com/mcp) `https://mcp.cardcenteringtool.com/mcp`
   [![Midpoint Card Prices MCP connector](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices)
   🔓 - Trading card prices and grading ROI for 1.5M+ Pokémon, TCG and sports cards: raw and PSA 9/10 values, movers.
