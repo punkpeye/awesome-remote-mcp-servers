@@ -5947,6 +5947,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Citadel](https://thecitadelapp.com) `https://thecitadelapp.com/api/mcp`
   [![The Citadel MCP connector](https://glama.ai/mcp/connectors/com.thecitadelapp/citadel/badges/score.svg)](https://glama.ai/mcp/connectors/com.thecitadelapp/citadel)
   🔓 - 6-dimension dating profile and lead photo rubrics, profile readiness scoring, and service status diagnostics.
+- [TikTok Scraper](https://apify.com/magnova/tiktok-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/tiktok-scraper`
+  [![TikTok Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/tiktok-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/tiktok-scraper-mcp)
+  🔐 - Scrape TikTok profiles and videos — followers, views, likes, comments and music — with no login or cookies.
 - [TubeGrade](https://www.tubegrade.com/mcp/) `https://api.tubegrade.com/mcp`
   [![TubeGrade MCP connector](https://glama.ai/mcp/connectors/com.tubegrade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tubegrade/mcp)
   🔐 - YouTube research: channel and video stats, transcripts, outlier videos, viral title formats and competitor tracking.
