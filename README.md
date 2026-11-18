@@ -4017,6 +4017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
+- [OpenQR](https://openqr.uk) `https://openqr.uk/mcp`
+  [![OpenQR MCP connector](https://glama.ai/mcp/connectors/uk.openqr/qr/badges/score.svg)](https://glama.ai/mcp/connectors/uk.openqr/qr)
+  🔓 - Generate QR codes and manage editable dynamic codes with scan analytics; open source, tool calls need a free API key.
 - [PageLens](https://pagelens.io/docs/api) `https://app.pagelens.io/mcp`
   [![PageLens MCP connector](https://glama.ai/mcp/connectors/io.pagelens/pagelens/badges/score.svg)](https://glama.ai/mcp/connectors/io.pagelens/pagelens)
   🔓 - Web analytics for your site and which AI crawlers and assistants read it; tool calls need an API key.
