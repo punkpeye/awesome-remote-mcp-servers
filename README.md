@@ -4933,6 +4933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
+- [LeadWebia](https://leadwebia.com/integrations/mcp) `https://mcp.leadwebia.com/mcp`
+  [![LeadWebia MCP connector](https://glama.ai/mcp/connectors/com.leadwebia/leadwebia/badges/score.svg)](https://glama.ai/mcp/connectors/com.leadwebia/leadwebia)
+  🔐 - Find local businesses on Google Maps that need a website or marketing, with contacts and outreach.
 - [Linkedcamp](https://www.linkedcamp.com/mcp) `https://mcp.linkedcamp.com/mcp`
   [![Linkedcamp MCP connector](https://glama.ai/mcp/connectors/com.linkedcamp.mcp/linked-camp/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkedcamp.mcp/linked-camp)
   🔐 - LinkedIn and email outreach for lead gen agencies: campaigns, unified inbox, leads and analytics.
