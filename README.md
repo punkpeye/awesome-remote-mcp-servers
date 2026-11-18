@@ -4595,6 +4595,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
+- [YouTube & TikTok Transcripts](https://apify.com/heyitsgautham/video-transcripts-mcp-server) `https://heyitsgautham--video-transcripts-mcp-server.apify.actor/mcp`
+  [![YouTube & TikTok Transcripts MCP connector](https://glama.ai/mcp/connectors/actor.apify.heyitsgautham--video-transcripts-mcp-server/you-tube-and-tik-tok-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.heyitsgautham--video-transcripts-mcp-server/you-tube-and-tik-tok-transcripts)
+  🔑 - YouTube and TikTok transcripts plus YouTube search and comments, paid per result with an Apify token.
 - [YouTube Transcript + YouTube Search MCP](https://getyoutubetranscript.com) `https://getyoutubetranscript.com/api/mcp`
   [![YouTube Transcript + YouTube Search MCP MCP connector](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search)
   🔓 - Fetch YouTube transcripts, search videos/channels, and extract playlists; also accepts an API key.
