@@ -3303,6 +3303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [JobSweep](https://jobsweep.works/agents) `https://jobsweep.works/mcp`
+  [![JobSweep MCP connector](https://glama.ai/mcp/connectors/works.jobsweep/job-sweep/badges/score.svg)](https://glama.ai/mcp/connectors/works.jobsweep/job-sweep)
+  🔓 - Search 340k open jobs from 7,000 company career sites, duplicates merged, with links to the employer page.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
@@ -5282,9 +5285,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
-- [JobSweep](https://jobsweep.works/agents) `https://jobsweep.works/mcp`
-  [![JobSweep MCP connector](https://glama.ai/mcp/connectors/works.jobsweep/job-sweep/badges/score.svg)](https://glama.ai/mcp/connectors/works.jobsweep/job-sweep)
-  🔓 - Search 239k open jobs from 3,500 company career sites, deduplicated, with links to the original posting.
 - [jopp](https://getjopp.app) `https://getjopp.app/mcp`
   [![jopp MCP connector](https://glama.ai/mcp/connectors/app.getjopp/jopp/badges/score.svg)](https://glama.ai/mcp/connectors/app.getjopp/jopp)
   🔓 - Search open jobs in Switzerland and Liechtenstein and read job details.
