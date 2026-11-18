@@ -3243,6 +3243,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CI Treasure Hunt](https://citreasurehunt.com/agents) `https://citreasurehunt.com/api/mcp`
   [![CI Treasure Hunt MCP connector](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.citreasurehunt/ci-treasure-hunt)
   🔓 - Search Contact Improvisation dance events, teachers, venues and local communities worldwide.
+- [Heatwayve](https://heatwayve.app) `https://heatwayve.app/mcp`
+  [![Heatwayve MCP connector](https://glama.ai/mcp/connectors/app.heatwayve/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.heatwayve/mcp)
+  🔐 - Read-only strength training: programme, sessions, loads, and lift history.
 - [ClinX](https://clinx.org/data/assistants/) `https://clinx.org/mcp`
   [![ClinX MCP connector](https://glama.ai/mcp/connectors/org.clinx/clinx/badges/score.svg)](https://glama.ai/mcp/connectors/org.clinx/clinx)
   🔓 - Read-only public records on the 340B drug program and federally funded health centers, each with its official link.
