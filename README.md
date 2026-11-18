@@ -5956,6 +5956,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unsora](https://tryunsora.com) `https://mcp.tryunsora.com/mcp`
   [![Unsora MCP connector](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryunsora.mcp/unsora)
   🔐 - Generate AI images, video, music and voiceovers, clip long videos, and schedule social posts.
+- [VI Engine](https://viengine.social/mcp) `https://api.viengine.social/mcp`
+  [![VI Engine MCP connector](https://glama.ai/mcp/connectors/social.viengine/vi-engine/badges/score.svg)](https://glama.ai/mcp/connectors/social.viengine/vi-engine)
+  🔐 - Plan campaigns, draft and schedule posts on Facebook, Instagram and LinkedIn, and review replies with approval gates.
 - [Viewlify](https://viewlify.app/tiktok-data-api) `https://viewlify.app/api/mcp`
   [![Viewlify MCP connector](https://glama.ai/mcp/connectors/io.github.benjaminb10/viewlify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.benjaminb10/viewlify)
   🔓 - Find TikTok videos that beat their creator's usual views, plus rising videos, hashtags and sounds by niche.
