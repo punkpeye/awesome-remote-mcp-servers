@@ -2789,6 +2789,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ReportGem MCP connector](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research/badges/score.svg)](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research)
   🔓 - Search 16M+ global investment bank reports, filings, earnings-call notes and charts; read cited source passages.
 
+- [RevClamp](https://revclamp.com/mcp) `https://revclamp.com/api/mcp`
+  [![RevClamp MCP connector](https://glama.ai/mcp/connectors/com.revclamp.api/rev-clamp-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.revclamp.api/rev-clamp-mcp-server)
+  🔑 - Stripe 2025-03-31.basil revenue audits, Visa CE 3.0 dispute evidence staging, EU VIES VAT validation, B2B net-terms reconciliation, and webhook diagnostics with keyless sample previews and API key auth.
 - [RevExOS](https://revexos.com/mcp) `https://revexos.com/api/mcp`
   [![RevExOS MCP connector](https://glama.ai/mcp/connectors/com.revexos/revexos/badges/score.svg)](https://glama.ai/mcp/connectors/com.revexos/revexos)
   🔓 - Quote-to-cash tools: parse invoices and POs, 3-way match, proration, revenue schedules, dunning emails.
