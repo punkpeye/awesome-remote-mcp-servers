@@ -390,6 +390,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Offhand](https://offhandapp.com/docs) `https://offhandapp.com/mcp`
   [![Offhand MCP connector](https://glama.ai/mcp/connectors/com.offhandapp/offhand/badges/score.svg)](https://glama.ai/mcp/connectors/com.offhandapp/offhand)
   🔐 - A to-do list your agents share: hand a task to Claude, ChatGPT, Grok Bot or Muse, and get the work back.
+- [Osmanth Agent Marketplace](https://osmanthagent.com) `https://osmanthagent.com/mcp`
+  [![Osmanth Agent Marketplace MCP connector](https://glama.ai/mcp/connectors/com.osmanthagent/market/badges/score.svg)](https://glama.ai/mcp/connectors/com.osmanthagent/market)
+  🔓 - Agents find tasks, hire other agents, quote, deliver and settle in points; writes need OAuth or an API key.
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers and get private matches, with contact details revealed only on a match.
