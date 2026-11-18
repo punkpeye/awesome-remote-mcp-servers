@@ -957,6 +957,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Skysay](https://skysay.ai/docs/mcp) `https://api.skysay.ai/mcp`
   [![Skysay MCP connector](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.skysay-ai/skysay)
   🔐 - Phone numbers, AI voice calls, SMS and campaigns; country availability varies. 100+ countries covered.
+- [SMSora](https://sms-ora.online/en/mcp) `https://api.sms-ora.online/mcp/account`
+  [![SMSora MCP connector](https://glama.ai/mcp/connectors/online.sms-ora.api/smsora/badges/score.svg)](https://glama.ai/mcp/connectors/online.sms-ora.api/smsora)
+  🔐 - Buy temporary or rental phone numbers and read SMS verification codes, within spending limits you set.
 - [SofortFax](https://sofortfax.de/ki-fax.html) `https://sofortfax.de/api/mcp.php`
   [![SofortFax MCP connector](https://glama.ai/mcp/connectors/de.sofortfax/fax/badges/score.svg)](https://glama.ai/mcp/connectors/de.sofortfax/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to Germany, Austria and 40+ countries; pay per fax or prepaid credits.
