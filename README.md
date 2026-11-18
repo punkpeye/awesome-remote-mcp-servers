@@ -2432,6 +2432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
+- [Edge Signals](https://signals.edge.report) `https://signals.edge.report/mcp`
+  [![Edge Signals MCP connector](https://glama.ai/mcp/connectors/io.github.konstantinbozukov/edge-signals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.konstantinbozukov/edge-signals)
+  🔓 - Live gas and dust SKUs for agents — x402 USDC on Base before you broadcast or buy a token.
 - [Edgrapi](https://edgrapi.com) `https://api.edgrapi.com/mcp`
   [![Edgrapi MCP connector](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paperandbeyond23-gif/edgrapi-skills)
   🔓 - SEC EDGAR filings as JSON: Form 4 insider trades, 8-K, 13F, 13D/G stakes, XBRL; data tools need a free key.
@@ -2730,6 +2733,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Paidnice](https://www.paidnice.com/mcp) `https://api.paidnice.com/mcp`
   [![Paidnice MCP connector](https://glama.ai/mcp/connectors/com.paidnice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.paidnice/mcp)
   🔐 - Read customer replies, contacts, invoices and notes from Paidnice accounts receivable for Xero and QuickBooks Online.
+- [Pathmint](https://pathmint.edge.report) `https://pathmint.edge.report/mcp`
+  [![Pathmint MCP connector](https://glama.ai/mcp/connectors/io.github.konstantinbozukov/pathmint/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.konstantinbozukov/pathmint)
+  🔓 - Before you pay an x402 URL, ping it live or dead. One cent, USDC on Base.
 - [PayGuard](https://api.youraitools.co/payguard/) `https://api.youraitools.co/payguard/mcp`
   [![PayGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/payguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/payguard)
   🔓 - Checks crypto addresses against the US Treasury OFAC SDN list; free yes/no preview, entity details paid via x402.
