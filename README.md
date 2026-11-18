@@ -6375,6 +6375,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Applyd](https://aiapplyd.com/mcps) `https://mcp.aiapplyd.com/mcp`
   [![AI Applyd MCP connector](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd)
   🔓 - Resume scoring and rewrites, cover letters and auto-apply on 12 ATS platforms; needs Google sign-in.
+- [AI Opportunity Assessment](https://aiconcierge.io) `https://09vyfnjv.mcp.cofr.io/mcp`
+  [![AI Opportunity Assessment MCP connector](https://glama.ai/mcp/connectors/io.aiconcierge/opportunity-assessment/badges/score.svg)](https://glama.ai/mcp/connectors/io.aiconcierge/opportunity-assessment)
+  🔓 - Five-question AI opportunity assessment for a business task; discovery guides and full reports need OAuth sign-in.
 - [AI Rollout Framework](https://airolloutframework.com) `https://airolloutframework.com/mcp`
   [![AI Rollout Framework MCP connector](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework/badges/score.svg)](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework)
   🔓 - 90-day AI adoption framework for managers: overview, pricing, FAQ and an AI readiness assessment.
