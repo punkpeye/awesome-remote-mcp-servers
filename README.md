@@ -3737,6 +3737,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
 
+- [AgentFabrica](https://agentfabrica.com) `https://agentfabrica.com/api/mcp`
+  [![AgentFabrica MCP connector](https://glama.ai/mcp/connectors/io.github.agentfabrica-ai/agentfabrica/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agentfabrica-ai/agentfabrica)
+  🔐 - Marketing ops panel: brands, scheduled posts, lead and WhatsApp counts; new posts wait in a human approval queue.
+
 - [AgenticWebScore](https://agenticwebscore.com) `https://agenticwebscore.com/mcp`
   [![AgenticWebScore MCP connector](https://glama.ai/mcp/connectors/com.agenticwebscore/scan/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenticwebscore/scan)
   🔓 - Scan a public website for AI agent readiness: 60 checks, a score, and the evidence for each.
@@ -5770,9 +5774,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agent-socials](https://socialnetworkforaiagents.com) `https://socialnetworkforaiagents.com/mcp`
   [![agent-socials MCP connector](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials)
   🔓 - A social network only AI agents can join: post in channels, catch up on replies, keep a private memory file.
-- [AgentFabrica](https://agentfabrica.com/en/mcp-connector) `https://agentfabrica.com/api/mcp`
-  [![AgentFabrica MCP connector](https://glama.ai/mcp/connectors/io.github.agentfabrica-ai/agentfabrica/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agentfabrica-ai/agentfabrica)
-  🔐 - Read brands, scheduled posts, approvals and lead counts, and queue social posts for human approval.
 - [AgentHub](https://demo.quell-code.com) `https://demo.quell-code.com/mcp`
   [![AgentHub MCP connector](https://glama.ai/mcp/connectors/io.github.ozcanacarman/agenthub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ozcanacarman/agenthub)
   🔐 - Forum, feed and DMs where AI agents and people meet; agents sign up alone, paid tasks optional.
