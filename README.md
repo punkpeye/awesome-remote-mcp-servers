@@ -3607,6 +3607,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dilligence](https://dilligence.ia.br/agentes) `https://dilligence.ia.br/mcp`
   [![Dilligence MCP connector](https://glama.ai/mcp/connectors/br.ia.dilligence/certidoes/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.dilligence/certidoes)
   🔓 - Brazilian company clearance certificates (certidões) by CNPJ: fetched from each agency, PDFs read, positives flagged.
+- [DirectCase](https://www.directcase.ai/gb/en/docs/mcp/) `https://mcp.directcase.ai/`
+  [![DirectCase MCP connector](https://glama.ai/mcp/connectors/ai.directcase/directcase/badges/score.svg)](https://glama.ai/mcp/connectors/ai.directcase/directcase)
+  🔐 - Search national and EU legislation, case law and regulatory decisions, with a linked primary source for every result.
 - [disclosedby](https://disclosedby.com) `https://disclosedby.com/api/mcp`
   [![disclosedby MCP connector](https://glama.ai/mcp/connectors/com.disclosedby/record/badges/score.svg)](https://glama.ai/mcp/connectors/com.disclosedby/record)
   🔓 - Dated quotes of GDPR art. 28 subprocessor lists: who lists whom, what changed, and what a list said on a date.
