@@ -1148,6 +1148,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TalaLevel](https://talalevel.com) `https://app.talalevel.com/mcp`
   [![TalaLevel MCP connector](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level/badges/score.svg)](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level)
   🔐 - Search leads, read their calls, texts and emails, add notes and tasks, and draft or send follow-ups you confirm.
+- [Tommos](https://tommos.ai) `https://app.tommos.ai/api/mcp`
+  [![Tommos MCP connector](https://glama.ai/mcp/connectors/ai.tommos/tommos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tommos/tommos)
+  🔐 - A CRM whose AI agents answer B2B inquiries and book calls; work its contacts, deals, forms and bookings.
 - [Workspace369](https://workspace369.com) `https://mcp.workspace369.com/mcp`
   [![Workspace369 MCP connector](https://glama.ai/mcp/connectors/com.workspace369/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.workspace369/mcp)
   🔐 - Manage clients, proposals, e-sign contracts, invoices, projects, calendar and time tracking for client-work businesses.
