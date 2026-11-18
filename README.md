@@ -4350,7 +4350,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [AI Rap Generators](https://airapgenerators.com/) `https://airapgenerators.com/api/mcp`
   [![AI Rap Generators MCP connector](https://glama.ai/mcp/connectors/io.github.jasonliu119/airapgenerators/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jasonliu119/airapgenerators)
-  🔑 - Create rap videos from two photos, check task status and credits; video renders cost 10 credits.
+  🔓 - Create rap videos from two photos; tool calls need an API key and video renders cost 10 credits.
 
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
