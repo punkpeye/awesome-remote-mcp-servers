@@ -2281,7 +2281,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
 - [BankBridge](https://bankbridge.money) `https://bankbridge.money/api/mcp`
   [![BankBridge MCP connector](https://glama.ai/mcp/connectors/money.bankbridge/server/badges/score.svg)](https://glama.ai/mcp/connectors/money.bankbridge/server)
-  🔓 - Read-only access to your own bank, card and brokerage accounts: balances, transactions, spending, holdings.
+  🔐 - Read-only access to your own bank, card and brokerage accounts: balances, transactions, spending, holdings.
 - [BankRegReports](https://www.bankregreports.com/mcp/) `https://api.bankregreports.com/api/mcp/`
   [![BankRegReports MCP connector](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports)
   🔓 - US bank and credit union data from call reports, UBPR, FDIC, NCUA and SEC filings: profiles, peers and screens.
