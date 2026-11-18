@@ -2264,6 +2264,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Ariadne Nexus Provenance & Underwriting](https://ariadnenexus.com/rfc/zk-prov-v1) `https://mcp.ariadnenexus.com/mcp`
+  [![Ariadne Nexus Provenance & Underwriting MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/mcp-server)
+  🔓 - Zero-PII SHA-256 collateral provenance, optical forensics, and Merton jump-diffusion tail LTV underwriting.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
