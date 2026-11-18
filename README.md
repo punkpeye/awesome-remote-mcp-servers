@@ -6573,6 +6573,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
+- [type.com](https://docs.type.com/reference/type-mcp/) `https://api.type.com/mcp`
+  [![type.com MCP connector](https://glama.ai/mcp/connectors/com.type/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.type/mcp)
+  🔐 - Build and run Claude Code and Codex automations, apps, skills and integrations in a type.com workspace.
 - [UseHourly](https://usehourly.app) `https://usehourly.app/api/mcp`
   [![UseHourly MCP connector](https://glama.ai/mcp/connectors/app.usehourly/usehourly/badges/score.svg)](https://glama.ai/mcp/connectors/app.usehourly/usehourly)
   🔐 - Log time, run timers, manage clients and projects, and create invoices for freelancers.
