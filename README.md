@@ -1219,6 +1219,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aeon](https://www.aeon.fun/connect) `https://www.aeon.fun/connect/mcp`
   [![Aeon MCP connector](https://glama.ai/mcp/connectors/fun.aeon/aeon/badges/score.svg)](https://glama.ai/mcp/connectors/fun.aeon/aeon)
   🔐 - Run and manage your Aeon autonomous agent on GitHub Actions: skills, runs, memory, strategy and settings.
+- [Agent Provider Depot](https://getagentdepot.com) `https://getagentdepot.com/mcp`
+  [![Agent Provider Depot MCP connector](https://glama.ai/mcp/connectors/com.getagentdepot/agent-provider-depot/badges/score.svg)](https://glama.ai/mcp/connectors/com.getagentdepot/agent-provider-depot)
+  🔓 - Ask before you integrate: one no-key call picks your agent's LLM, sandbox, search, email or DB provider, with sourced prices.
 - [Agent Stack Directory](https://agentstackdirectory.com) `https://agentstackdirectory.com/mcp`
   [![Agent Stack Directory MCP connector](https://glama.ai/mcp/connectors/com.agentstackdirectory/agent-stack-directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentstackdirectory/agent-stack-directory)
   🔓 - Search, inspect and compare infrastructure tools for AI agents: browsers, sandboxes, memory, search APIs and more.
