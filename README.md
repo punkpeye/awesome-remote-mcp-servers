@@ -6477,6 +6477,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [KDAN PDF](https://pdf-reader.kdandoc.com/products/mcp/claude) `https://mcp.kdandoc.com/mcp`
   [![KDAN PDF MCP connector](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.kdandoc.mcp/kdan-pdf-mcp)
   🔓 - Compress, delete pages, redact PII, compare versions, and add or remove password protection on PDFs.
+- [Knacco](https://knacco.com/en/plugin) `https://knacco.com/api/v1/agent/mcp`
+  [![Knacco MCP connector](https://glama.ai/mcp/connectors/com.knacco/knacco/badges/score.svg)](https://glama.ai/mcp/connectors/com.knacco/knacco)
+  🔐 - Search your Knacco library of AI skills and workflows, read product guides and get download links for your files.
 - [LFG Alarm](https://lfg.gm) `https://mcp.lfg.gm`
   [![LFG Alarm MCP connector](https://glama.ai/mcp/connectors/gm.lfg/alarm/badges/score.svg)](https://glama.ai/mcp/connectors/gm.lfg/alarm)
   🔐 - Set real alarms that ring on your phone and your friends' phones: wake-up times, events, posts, price moves or webhooks.
