@@ -3354,6 +3354,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [CAP-Shield](https://cap-shield-robin.fly.dev) `https://cap-shield-robin.fly.dev/mcp`
+  [![CAP-Shield MCP connector](https://glama.ai/mcp/connectors/io.github.robinlidberg-dot/cap-shield/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.robinlidberg-dot/cap-shield)
+  🔑 - Selects the memory entries that answer a question within a token budget instead of sending the whole history, plus a dated wide context for time and count questions. Every figure, including what measures badly, is published. Three tools work without a key.
 - [Cloud FinOps by OptimNow](https://pypi.org/project/cloud-finops-mcp/) `https://mcp.optimnow.io/mcp`
   [![Cloud FinOps by OptimNow MCP connector](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops)
   🔓 - Fetches FinOps reference guides and waste-pattern runbooks on cloud and AI cost management; no account needed.
