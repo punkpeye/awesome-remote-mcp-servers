@@ -6483,6 +6483,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LucyESL](https://lucyesl.com/developers) `https://lucyesl.com/mcp`
   [![LucyESL MCP connector](https://glama.ai/mcp/connectors/com.lucyesl/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.lucyesl/jobs)
   🔓 - Search English-teaching jobs in South Korea and read their salary, disclosure and by-region statistics.
+- [Lumina Tasks](https://lumina-app.me/en/ai) `https://lumina-app.me/mcp`
+  [![Lumina Tasks MCP connector](https://glama.ai/mcp/connectors/io.github.stoptimed/lumina-tasks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stoptimed/lumina-tasks)
+  🔐 - Add tasks, habits, notes and Google Calendar events, see today's plan, complete and search tasks.
 - [Lunacal](https://lunacal.ai) `https://mcp.lunacal.ai/mcp`
   [![Lunacal MCP connector](https://glama.ai/mcp/connectors/ai.lunacal.mcp/lunacal/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lunacal.mcp/lunacal)
   🔐 - Find open slots, book, reschedule and cancel meetings, and create or update event types on Lunacal.
