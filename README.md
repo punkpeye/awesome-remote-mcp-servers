@@ -4885,6 +4885,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Propely Singapore Property](https://propely.sg) `https://mcp.propely.sg/`
   [![Propely Singapore Property MCP connector](https://glama.ai/mcp/connectors/sg.propely/singapore-property/badges/score.svg)](https://glama.ai/mcp/connectors/sg.propely/singapore-property)
   🔓 - Singapore stamp duty (BSD, ABSD, SSD), TDSR, loan tenure and net proceeds calculators, from Propely.
+- [PropertiesAPI](https://propertiesapi.com/docs/mcp) `https://api.propertiesapi.com/mcp`
+  [![PropertiesAPI MCP connector](https://glama.ai/mcp/connectors/com.propertiesapi/zillow-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.propertiesapi/zillow-data)
+  🔑 - Look up Zillow homes by link, zpid or address: price, status, history, rent and a rental analysis.
 - [RealtyCrawl](https://realtycrawl.dev) `https://realtycrawl.dev/mcp`
   [![RealtyCrawl MCP connector](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl/badges/score.svg)](https://glama.ai/mcp/connectors/dev.realtycrawl/realty-crawl)
   🔓 - Discover real estate capabilities and source-linked observations; data calls require an API key and credits.
