@@ -6639,6 +6639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dollea Salon](https://www.dollea.de/agents/?language=en) `https://www.dollea.de/mcp/salon`
   [![Dollea Salon MCP connector](https://glama.ai/mcp/connectors/de.dollea/salon/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/salon)
   🔓 - Public beauty service catalog and slots in Munich; OAuth for booking and private appointments.
+- [FateSign BaZi](https://fatesign.com/en/ai-assistants/) `https://fatesign.com/mcp`
+  [![FateSign BaZi MCP connector](https://glama.ai/mcp/connectors/com.fatesign/bazi/badges/score.svg)](https://glama.ai/mcp/connectors/com.fatesign/bazi)
+  🔓 - BaZi (Four Pillars) charts from a calendar engine with True Solar Time, DST and solar terms, in five languages.
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
