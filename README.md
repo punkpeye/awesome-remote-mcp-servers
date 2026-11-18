@@ -650,7 +650,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [APEX](https://apexfaucet.xyz/connect/) `https://apexfaucet.xyz/api/mcp`
   [![APEX MCP connector](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1)
-  🔓 - Render a URL, or up to 25 pages of a site, to clean text in headless Chrome; $1 per call via x402.
+  🔓 - Page extract, an unsigned Base or Solana tx check, and an x402 delivery score. Pay per call via x402.
 
 - [Bowmark](https://bowmark.ai) `https://api.bowmark.ai/mcp`
   [![Bowmark MCP connector](https://glama.ai/mcp/connectors/ai.bowmark/bowmark/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bowmark/bowmark)
