@@ -1269,6 +1269,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Benchline](https://tools.fabwaseem.com/mcp/guide) `https://tools.fabwaseem.com/mcp`
   [![Benchline MCP connector](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline/badges/score.svg)](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline)
   🔓 - 72 dev tools: JSON, PDF, images, OCR, JWT, hashes, DNS, TLS, headers, llms.txt and OG images.
+- [BillDog](https://billdog.io/docs/mcp-server) `https://api.billdog.io/mcp`
+  [![BillDog MCP connector](https://glama.ai/mcp/connectors/io.github.billdogai/billdog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.billdogai/billdog-mcp)
+  🔐 - Set up and inspect app paywalls, subscriptions, products and revenue analytics for mobile and web apps.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
