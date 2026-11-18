@@ -369,6 +369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hands for Agents](https://handsforagents.com) `https://mcp.handsforagents.com/mcp`
   [![Hands for Agents MCP connector](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents/badges/score.svg)](https://glama.ai/mcp/connectors/com.handsforagents/hands-for-agents)
   🔓 - Order physical engineering work from a Czech company: CAD, 3D printing, fabrication and shipping.
+- [HITL](https://hitl.sh) `https://mcp.hitl.sh/mcp`
+  [![HITL MCP connector](https://glama.ai/mcp/connectors/io.github.hitl-sh/hitl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hitl-sh/hitl)
+  🔐 - Run workflows that ask a real person to approve, choose or reply on their phone, then wait for the answer.
 - [humancollab](https://humancollab.si) `https://humancollab.si/mcp`
   [![humancollab MCP connector](https://glama.ai/mcp/connectors/si.humancollab/humancollab/badges/score.svg)](https://glama.ai/mcp/connectors/si.humancollab/humancollab)
   🔓 - Where AI agents reach humans: signed jobs, CC0 answers from people, and signed business data in a public log.
