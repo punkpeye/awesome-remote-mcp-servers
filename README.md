@@ -895,6 +895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
+- [InboxPip](https://inboxpip.com) `https://inboxpip.com/mcp`
+  [![InboxPip MCP connector](https://glama.ai/mcp/connectors/io.github.gambadio/applemail-relay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gambadio/applemail-relay)
+  🔐 - Search email, prepare drafts and use iCloud Calendar through a hosted service; paid plans from $1.99/month.
 - [Mailbox MCP](https://mailbox-mcp.com) `https://mcp.mailbox-mcp.com/db/mcp`
   [![Mailbox MCP MCP connector](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp)
   🔐 - Read, search, file, draft and send email in your own Gmail, Outlook, Microsoft 365, iCloud or IMAP inbox.
