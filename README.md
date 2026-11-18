@@ -6399,6 +6399,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BCD](https://bcd.snack-wrap.com) `https://bcd.snack-wrap.com/mcp`
   [![BCD MCP connector](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd/badges/score.svg)](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd)
   🔐 - Use your own Mac, Windows or Linux computer from ChatGPT or Claude: files, shell commands and documents.
+- [Bookare](https://bookare.app/agents) `https://bookare.app/mcp`
+  [![Bookare MCP connector](https://glama.ai/mcp/connectors/app.bookare/bookare/badges/score.svg)](https://glama.ai/mcp/connectors/app.bookare/bookare)
+  🔓 - Online booking for gyms, salons, restaurants and stays: set up, run and embed a venue. REST API too.
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
