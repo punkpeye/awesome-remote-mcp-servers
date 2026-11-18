@@ -2312,6 +2312,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Beyond Payday](https://beyondpayday.com/mcp) `https://beyondpayday.com/api/mcp`
   [![Beyond Payday MCP connector](https://glama.ai/mcp/connectors/com.beyondpayday/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.beyondpayday/mcp)
   🔐 - Household finance planner: cash flow, net worth, bills, debts, savings goals and retirement projections.
+- [Bills AI](https://billsai.cc/mcp) `https://billsai.cc/api/mcp`
+  [![Bills AI MCP connector](https://glama.ai/mcp/connectors/cc.billsai/billsai/badges/score.svg)](https://glama.ai/mcp/connectors/cc.billsai/billsai)
+  🔐 - Convert a bank statement PDF to CSV and read your saved statements and transactions, all read-only.
 - [Billstride](https://billstride.com/mcp) `https://billstride.com/api/mcp`
   [![Billstride MCP connector](https://glama.ai/mcp/connectors/com.billstride/billstride/badges/score.svg)](https://glama.ai/mcp/connectors/com.billstride/billstride)
   🔐 - Create, send and track invoices, chase overdue payments, see revenue, and export ZUGFeRD, XRechnung and DATEV.
