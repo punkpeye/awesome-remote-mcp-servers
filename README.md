@@ -459,6 +459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [AirGallery](https://airgallery.com/api#mcp) `https://airgallery.com/mcp`
+  [![AirGallery MCP connector](https://glama.ai/mcp/connectors/com.airgallery/airgallery/badges/score.svg)](https://glama.ai/mcp/connectors/com.airgallery/airgallery)
+  🔑 - 22 image models and 25 photo tools (background removal, upscaling, restoration), billed per call in credits.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
