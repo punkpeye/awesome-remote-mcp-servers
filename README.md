@@ -6168,6 +6168,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [Does It Work In](https://doesitworkin.com) `https://doesitworkin.com/mcp`
+  [![Does It Work In MCP connector](https://glama.ai/mcp/connectors/com.doesitworkin/doesitworkin/badges/score.svg)](https://glama.ai/mcp/connectors/com.doesitworkin/doesitworkin)
+  🔓 - Verified travel compatibility for eSIMs, VPNs, Alipay/WeChat Pay, IC cards and maps abroad.
 - [Doorfarer](https://doorfarer.com) `https://doorfarer.com/mcp`
   [![Doorfarer MCP connector](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer/badges/score.svg)](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer)
   🔓 - Door-to-door trip search: compares every reachable airport including the ground leg, with price calendars.
