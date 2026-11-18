@@ -3147,6 +3147,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
+- [Famlore](https://famlore.app/connect?utm_source=awesome-remote&utm_medium=listing) `https://famlore.app/mcp`
+  [![Famlore MCP connector](https://glama.ai/mcp/connectors/app.famlore/famlore/badges/score.svg)](https://glama.ai/mcp/connectors/app.famlore/famlore)
+  🔐 - Keeps the record of the subject you are furthest into and hands you one specific thing to go find out.
 - [Foundplay](https://foundplay.io/connect) `https://foundplay.io/mcp`
   [![Foundplay MCP connector](https://glama.ai/mcp/connectors/io.foundplay/foundplay/badges/score.svg)](https://glama.ai/mcp/connectors/io.foundplay/foundplay)
   🔓 - Search free indie browser games by genre, phone support or multiplayer, with a link to each game's page.
