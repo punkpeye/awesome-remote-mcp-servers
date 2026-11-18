@@ -2431,7 +2431,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - EIP-712 and Permit2 phishing decoders, Solana priority fee oracle, and token honeypot auditor.
 - [drillr](https://drillr.ai/docs/mcp) `https://gateway.drillr.ai/mcp/data`
   [![drillr MCP connector](https://glama.ai/mcp/connectors/ai.drillr/drillr/badges/score.svg)](https://glama.ai/mcp/connectors/ai.drillr/drillr)
-  🔓 - US, China A-share and Japan equity filings, statements, prices and ownership; tool calls need free sign-in.
+  🔐 - US, China A-share and Japan equity filings, statements, prices and ownership.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
