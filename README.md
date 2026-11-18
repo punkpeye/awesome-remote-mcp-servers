@@ -850,6 +850,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atendio](https://atendio.co/conecta-tu-claude) `https://atendio.co/api/mcp`
   [![Atendio MCP connector](https://glama.ai/mcp/connectors/co.atendio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.atendio/mcp)
   🔐 - Read WhatsApp conversations and analytics, and manage the rules of a business's AI WhatsApp assistant.
+- [BounceLayer](https://bouncelayer.com/docs/mcp) `https://api.bouncelayer.com/mcp/`
+  [![BounceLayer MCP connector](https://glama.ai/mcp/connectors/com.bouncelayer/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.bouncelayer/mcp)
+  🔓 - Check if an email address is real before you send, with a plain-English reason for every result; full checks need a free API key.
 - [BumbleBox](https://bumblebox.ai/integrations) `https://api.bumblebox.ai/api/mcp`
   [![BumbleBox MCP connector](https://glama.ai/mcp/connectors/ai.bumblebox/mail/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebox/mail)
   🔓 - Search, triage and draft replies across Gmail, Outlook and IMAP mailboxes; sending only at the level you set.
