@@ -5670,6 +5670,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PatchLabs](https://patchlabs.dev/docs/mcp) `https://api.patchlabs.dev/mcp`
   [![PatchLabs MCP connector](https://glama.ai/mcp/connectors/dev.patchlabs/patchlabs/badges/score.svg)](https://glama.ai/mcp/connectors/dev.patchlabs/patchlabs)
   🔓 - Security checks for apps built with Lovable, Supabase or Bolt: RLS and headers free, app checks with an API key.
+- [PathToShip](https://pathtoship.com) `https://pathtoship.com/api/mcp`
+  [![PathToShip MCP connector](https://glama.ai/mcp/connectors/com.pathtoship/pathtoship/badges/score.svg)](https://glama.ai/mcp/connectors/com.pathtoship/pathtoship)
+  🔐 - Score an AI-built app's production readiness and get ranked fixes for security and scale gaps.
 - [PG1 Threat Intelligence](https://pg1-ai-agent.vercel.app/about) `https://pg1-ai-agent.vercel.app/api/mcp`
   [![PG1 Threat Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Project-Gifted1/pg1-threat-intel)
   🔓 - Agent threat intel: wallet sanctions screening, wallet and domain age, hostname reputation; paid STIX 2.1 feed via x402.
