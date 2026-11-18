@@ -2691,6 +2691,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
   🔓 - Source-linked US public records: SEC filings, FDA recalls, federal enforcement, sanctions and debarment indexes.
+- [Multi Books](https://lumman.co/mcp/multi-books) `https://books.lumman.co/mcp`
+  [![Multi Books MCP connector](https://glama.ai/mcp/connectors/co.lumman/books/badges/score.svg)](https://glama.ai/mcp/connectors/co.lumman/books)
+  🔐 - The books of several Xero organisations, Zoho Books organisations and FreeAgent companies at once: invoices, bills, spending, bank entries and reports.
 - [NablaZ Reader](https://read.nablaz.io) `https://read.nablaz.io/mcp`
   [![NablaZ Reader MCP connector](https://glama.ai/mcp/connectors/io.nablaz/reader/badges/score.svg)](https://glama.ai/mcp/connectors/io.nablaz/reader)
   🔓 - Read NablaZ's open record: agent actions under permission, cited onchain. Evidence, not a verdict.
