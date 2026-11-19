@@ -940,6 +940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
+- [Promptli Comms](https://promptli.com/comms) `https://api.comms.promptli.com/mcp`
+  [![Promptli Comms MCP connector](https://glama.ai/mcp/connectors/com.promptli/comms/badges/score.svg)](https://glama.ai/mcp/connectors/com.promptli/comms)
+  🔐 - Email inbox, phone number, calls and SMS for AI agents, with a test mode.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
