@@ -1606,6 +1606,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Screwtape.ai](https://screwtape.ai) `https://screwtape.ai/mcp`
   [![Screwtape.ai MCP connector](https://glama.ai/mcp/connectors/ai.screwtape/screwtape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.screwtape/screwtape)
   🔓 - Pass, fail, or retry verdicts on agent output, plus multi-agent consensus scoring and false-consensus risk.
+- [SetGet](https://setget.net) `https://setget.net/mcp`
+  [![SetGet MCP connector](https://glama.ai/mcp/connectors/net.setget/setget/badges/score.svg)](https://glama.ai/mcp/connectors/net.setget/setget)
+  🔓 - Free scratchpad, coordination and 270+ file and data tools for AI agents. No account.
 - [Settlens](https://settlens.com) `https://settlens.com/mcp`
   [![Settlens MCP connector](https://glama.ai/mcp/connectors/com.settlens/settlens/badges/score.svg)](https://glama.ai/mcp/connectors/com.settlens/settlens)
   🔓 - Evaluate x402 V2 payment requirements against spending policies, without signing or sending payments.
