@@ -1790,6 +1790,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Code actu](https://codeactu.com/assistants-ia/) `https://codeactu.com/mcp`
   [![Code actu MCP connector](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Cryptomoon7/codeactu)
   🔓 - French referral codes verified on brands' official pages: rewards, conditions, verification date and source links.
+- [Codixio API](https://api.codixio.com/en) `https://api.codixio.com/mcp`
+  [![Codixio API MCP connector](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api)
+  🔐 - Create and validate XRechnung and ZUGFeRD e-invoices, suggest EU tariff codes and localize marketplace listings.
+- [Codixio API Tariff](https://api.codixio.com/en) `https://api.codixio.com/mcp/tariff`
+  [![Codixio API Tariff MCP connector](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api-tariff/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api-tariff)
+  🔐 - Suggest EU tariff codes (CN, TARIC) for product descriptions, with reasoning, alternatives and import measures.
 - [CommerceForAI](https://commerceforai.com) `https://api.commerceforai.com/mcp`
   [![CommerceForAI MCP connector](https://glama.ai/mcp/connectors/com.commerceforai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.commerceforai/mcp)
   🔐 - Run an online store end to end: products, Stripe checkout, orders, refunds, shipping labels and print-on-demand.
@@ -2354,6 +2360,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cleave for Agents](https://cleave.fi/docs/agents) `https://api.cleave.fi/mcp`
   [![Cleave for Agents MCP connector](https://glama.ai/mcp/connectors/fi.cleave/swap/badges/score.svg)](https://glama.ai/mcp/connectors/fi.cleave/swap)
   🔓 - Plans split token swaps, cross-chain swaps and gas top-ups on 6 EVM chains as unsigned calls.
+- [Codixio API E-Invoice](https://api.codixio.com/en) `https://api.codixio.com/mcp/einvoice`
+  [![Codixio API E-Invoice MCP connector](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api-einvoice/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api-einvoice)
+  🔐 - Create XRechnung and ZUGFeRD e-invoices and validate e-invoices with the official KoSIT validator.
 - [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
   [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
   🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
@@ -6100,6 +6109,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌍 <a name="translation--localization"></a>Translation & Localization
 
+- [Codixio API Listing](https://api.codixio.com/en) `https://api.codixio.com/mcp/listing`
+  [![Codixio API Listing MCP connector](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api-listing/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.codixio/codixio-api-listing)
+  🔐 - Localize marketplace listings (title, bullets, description, search terms) for a target marketplace and language.
 - [eVerbary](https://www.everbary.com/integrations/ai-assistants) `https://orders.everbary.com/mcp`
   [![eVerbary MCP connector](https://glama.ai/mcp/connectors/com.everbary.www/orders/badges/score.svg)](https://glama.ai/mcp/connectors/com.everbary.www/orders)
   🔐 - Quote, order, pay for and track certified translations of official documents for USCIS, courts and universities.
