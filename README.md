@@ -4955,6 +4955,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Quibbly](https://quibbly.co/linkedin-mcp) `https://server.quibbly.co/mcp`
   [![Quibbly MCP connector](https://glama.ai/mcp/connectors/co.quibbly/linkedin-inbox/badges/score.svg)](https://glama.ai/mcp/connectors/co.quibbly/linkedin-inbox)
   🔐 - Read your LinkedIn inbox, see who watched your videos, set follow-ups and draft replies you send yourself.
+- [Raising.fi](https://raising.fi/mcp) `https://raising.fi/api/mcp`
+  [![Raising.fi MCP connector](https://glama.ai/mcp/connectors/fi.raising/raising/badges/score.svg)](https://glama.ai/mcp/connectors/fi.raising/raising)
+  🔐 - Search new startup funding rounds and lead investors, and find decision-makers with rated emails.
 - [Realtimer](https://realtimer.ai/help/claude/) `https://realtimer.ai/api/mcp`
   [![Realtimer MCP connector](https://glama.ai/mcp/connectors/ai.realtimer/calls/badges/score.svg)](https://glama.ai/mcp/connectors/ai.realtimer/calls)
   🔐 - Read your saved sales call transcripts and AI summaries: find calls by client or topic and read them in full.
