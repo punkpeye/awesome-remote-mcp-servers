@@ -5564,7 +5564,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free tools for signed-record verify and EU DPP readiness; paid seal verify is $0.05 USDC on Base via x402.
 - [AVU (Agent Verification Utility)](https://agent-economy.kgninja.dev) `https://agent-economy.kgninja.dev/mcp`
   [![AVU (Agent Verification Utility) MCP connector](https://glama.ai/mcp/connectors/dev.kgninja.agent-economy/agent-verification-utility/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kgninja.agent-economy/agent-verification-utility)
-  🔓 - Validates input evidence and returns a signed verification result for 0.01 USDC per call via x402 on Base.  
+  🔓 - Validates input evidence and returns a signed verification result for 0.01 USDC per call via x402 on Base.
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
