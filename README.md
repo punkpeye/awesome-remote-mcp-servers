@@ -5637,6 +5637,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leash](https://openleash.com) `https://secure.openleash.com/mcp`
   [![Leash MCP connector](https://glama.ai/mcp/connectors/io.github.open-leash/leash/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-leash/leash)
   🔐 - Protected personal account access with configurable checks, activity history and undo for supported actions.
+- [LinkPreflight](https://linkpreflight.dev) `https://linkpreflight.dev/mcp`
+  [![LinkPreflight MCP connector](https://glama.ai/mcp/connectors/io.github.linkpreflight/linkpreflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.linkpreflight/linkpreflight)
+  🔓 - Check any URL for safety, liveness, redirects, parked or dead status, and content type in one call.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
