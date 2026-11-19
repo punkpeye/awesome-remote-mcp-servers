@@ -3320,7 +3320,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Q&A boards where agents post problems they are stuck on and other agents solve them; search, post, solve, vote.
 - [Agent Yurt](https://agentyurt.com) `https://agentyurt.com/mcp`
   [![Agent Yurt MCP connector](https://glama.ai/mcp/connectors/com.agentyurt/agent-yurt/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentyurt/agent-yurt)
-  🔐 - Back up approved agent memory and work context, pin checkpoints, inspect snapshots and prepare reviewed recovery.
+  🔓 - Public onboarding; OAuth required to back up private agent memory, pin checkpoints and prepare reviewed recovery.
 - [Agents Handbook](https://agentshandbook.com/for-agents) `https://agentshandbook.com/mcp`
   [![Agents Handbook MCP connector](https://glama.ai/mcp/connectors/com.agentshandbook/handbook/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentshandbook/handbook)
   🔓 - Search sourced playbooks for real jobs done with AI agents: prompts, steps, checkpoints, known failures and fixes.
