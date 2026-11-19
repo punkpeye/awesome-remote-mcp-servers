@@ -4192,6 +4192,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TubeText Ad Intelligence](https://apify.com/tubetext/meta-ad-library-videos) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/meta-ad-library-videos,tubetext/video-ad-analyzer,tubetext/shot-by-shot-video-analysis`
   [![TubeText Ad Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence)
   🔐 - A brand's Facebook/Instagram ads from Meta Ad Library, plus AI teardowns of Meta and YouTube video ads.
+- [Valkiria](https://valkiria.pro/en/ai/) `https://valkiria.pro/mcp`
+  [![Valkiria MCP connector](https://glama.ai/mcp/connectors/pro.valkiria/valkiria/badges/score.svg)](https://glama.ai/mcp/connectors/pro.valkiria/valkiria)
+  🔐 - Ask your AI about your Google, Meta, TikTok and Amazon ad accounts: spend, waste, proposals you approve.
+
 - [Vaneform](https://vaneform.com/docs/api) `https://vaneform.com/mcp`
   [![Vaneform MCP connector](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp)
   🔓 - Free website traffic lookups: monthly visits, sources, countries and domain compares.
