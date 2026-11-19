@@ -3046,6 +3046,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Cubicle MCP connector](https://glama.ai/mcp/connectors/com.algotrada.cubicle/cubicle/badges/score.svg)](https://glama.ai/mcp/connectors/com.algotrada.cubicle/cubicle)
   🔓 - Compile a trading rule into a state machine, rehearse it on real candles, read the tape, open USDG vaults on Robinhood.
 
+- [LogToLast](https://logtolast.com) `https://logtolast.com/api/v1/mcp`
+  [![LogToLast MCP connector](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.logtolast/log-to-last-trading-journal-ai-coaching-mcp-server)
+  🔑 - Read-only access to your live trading journal (Tradovate, NinjaTrader & MT5), Playbook risk rules, trade notes, tags, and quantitative performance analytics.
+
 ### 🍽️ <a name="food--dining"></a>Food & Dining
 
 - [Agent Chef](https://agentchef.net) `https://agentchef.net/mcp`
