@@ -6094,6 +6094,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [Service Engineer AI](https://serviceengineer.academy/ai/) `https://api.serviceengineer.academy/mcp`
+  [![Service Engineer AI MCP connector](https://glama.ai/mcp/connectors/academy.serviceengineer/se-ai/badges/score.svg)](https://glama.ai/mcp/connectors/academy.serviceengineer/se-ai)
+  🔐 - Medical equipment troubleshooting: check plans from service manuals and real repair cases, plus spare-part lookup.
 - [WorkWing](https://www.workwing.io/developers) `https://api.workwing.io/mcp`
   [![WorkWing MCP connector](https://glama.ai/mcp/connectors/io.workwing/workwing/badges/score.svg)](https://glama.ai/mcp/connectors/io.workwing/workwing)
   🔐 - Field service jobs: find customers and engineers, read the schedule, create and book jobs, and add notes.
