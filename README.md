@@ -2372,6 +2372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Conduit EDGAR](https://router.pipavia.com) `https://conduit-filings-fundamentals.nrupalakolkar.workers.dev/mcp`
   [![Conduit EDGAR MCP connector](https://glama.ai/mcp/connectors/org.aimlds/edgar/badges/score.svg)](https://glama.ai/mcp/connectors/org.aimlds/edgar)
   🔐 - SEC EDGAR filings and fundamentals for agents under governed, receipted access; analysis only, never financial advisory.
+- [Contha](https://contha.com) `https://app.contha.com/api/mcp`
+  [![Contha MCP connector](https://glama.ai/mcp/connectors/com.contha.app/contha/badges/score.svg)](https://glama.ai/mcp/connectors/com.contha.app/contha)
+  🔐 - Personal and small-business books: safe-to-spend, US tax estimates, bills and card picks; never moves money.
 - [CortexCloud](https://api.cortexcloud.org) `https://api.cortexcloud.org/mcp`
   [![CortexCloud MCP connector](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonahthan433/cortexcloud)
   🔓 - Pay-per-call on-chain data: token balances, NFTs, tx history, wallet intel, token risk, whale alerts.
