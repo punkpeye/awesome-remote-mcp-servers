@@ -4538,6 +4538,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shortform Kit](https://shortformkit.com/mcp-server/) `https://shortformkit.com/mcp`
   [![Shortform Kit MCP connector](https://glama.ai/mcp/connectors/io.github.diegobruegger-prog/shortformkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.diegobruegger-prog/shortformkit)
   🔓 - Transcribe and read public Reels, TikToks and Shorts, plus sourced creator data: upload specs and loudness targets.
+- [shuut](https://shuut.ai/mcp) `https://shuut.ai/mcp`
+  [![shuut MCP connector](https://glama.ai/mcp/connectors/ai.shuut/shuut/badges/score.svg)](https://glama.ai/mcp/connectors/ai.shuut/shuut)
+  🔐 - Create and edit images, videos, voice, music and captions with GPT Image, Seedance, Kling and Veo.
 - [snapWONDERS Vaultify](https://snapwonders.com/developers) `https://snapwonders.com/mcp`
   [![snapWONDERS Vaultify MCP connector](https://glama.ai/mcp/connectors/com.snapwonders/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.snapwonders/mcp)
   🔓 - Forensic photo and video analysis, hidden-file steganography and media format conversion.
