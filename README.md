@@ -2258,6 +2258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Executive Brief](https://antevo.ch/executive/) `https://api.antevo.ch/mcp/executive/mcp`
   [![Antevo Executive Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/executive/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/executive)
   🔓 - Daily markets, macro and world-events brief: market regime, themes, risks, catalysts and country drilldowns.
+- [Antevo Wealth](https://antevo.ch/wealth/) `https://api.antevo.ch/mcp/wealth/mcp`
+  [![Antevo Wealth MCP connector](https://glama.ai/mcp/connectors/ch.antevo/wealth/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/wealth)
+  🔓 - A household's own balance sheet, after OAuth sign-in: net worth, holdings, exposure, risk, real assets and goals.
 - [apifirme](https://apifirme.dev) `https://api.apifirme.dev/mcp`
   [![apifirme MCP connector](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme)
   🔐 - Romanian company data from official registers: status, VAT, financial statements, new registrations, BNR rates.
