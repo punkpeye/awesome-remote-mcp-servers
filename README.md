@@ -4945,6 +4945,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MailBeast.ai](https://mailbeast.ai) `https://mcp.mailbeast.ai/mcp`
   [![MailBeast.ai MCP connector](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast)
   🔐 - Cold email outreach: campaigns with A/B sequences, leads, mailboxes and warmup, reply inbox and campaign analytics.
+- [NAUT](https://naut.so/docs/api/mcp) `https://api.naut.so/mcp`
+  [![NAUT MCP connector](https://glama.ai/mcp/connectors/so.naut/naut/badges/score.svg)](https://glama.ai/mcp/connectors/so.naut/naut)
+  🔑 - Web3 people and company data: founders, teams, investors, portfolios and service providers.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
