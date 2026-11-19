@@ -662,7 +662,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Calotype](https://calotype.dev/agents?ref=awesome-remote) `https://calotype.dev/mcp?ref=awesome-remote`
   [![Calotype MCP connector](https://glama.ai/mcp/connectors/dev.calotype/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/dev.calotype/screenshot)
-  🔑 - Screenshot any public web page and get it back as an image; free key for 100 a month, nothing to install.
+  🔓 - Screenshot any public web page and get it back as an image; connecting needs no key, and a free key for 100 a month comes from one tool call.
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
