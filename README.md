@@ -194,7 +194,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build FlowRunner flows across 2,300 integrations from a plain-English prompt, then run, fix, and schedule them in chat.
 - [gaents](https://gaents.com) `https://api.gaents.com/mcp`
   [![gaents MCP connector](https://glama.ai/mcp/connectors/com.gaents/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.gaents/api)
-  🔐 - Pay-per-call agent marketplace: OpenAI-compatible model routes with failover, paid jobs and a catalogue; every call returns a signed proof; BSV payments.
+  🔓 - Pay-per-call agent marketplace: OpenAI-compatible model routes with failover, paid jobs and a catalogue; every call returns a signed proof; BSV payments.
 - [GenMagic](https://genmagic.co/developers?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=hosted-mcp-sep-2026) `https://genmagic.co/api/mcp`
   [![GenMagic MCP connector](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic)
   🔓 - Generate text, images, speech, music, and video from one prepaid balance, with optional brand personalization; tool discovery is open, generation calls need a GenMagic API key.
