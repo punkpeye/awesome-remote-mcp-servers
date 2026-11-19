@@ -5460,6 +5460,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TCI Job Finder](https://tcijobfinder.com) `https://tcijobfinder.com/api/mcp`
   [![TCI Job Finder MCP connector](https://glama.ai/mcp/connectors/com.tcijobfinder/tci-job-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.tcijobfinder/tci-job-finder)
   🔓 - Search current job vacancies in the Turks and Caicos Islands, with links to the job page and the official advert.
+- [tenderkit](https://tenderkit.pl/) `https://mcp.tenderkit.pl/mcp`
+  [![tenderkit MCP connector](https://glama.ai/mcp/connectors/pl.tenderkit/tenderkit/badges/score.svg)](https://glama.ai/mcp/connectors/pl.tenderkit/tenderkit)
+  🔓 - Search Polish public tenders and awards from BZP and TED: notices, contractors, prices and bid counts per lot.
 - [TerraLab MCP](https://terra-lab.ai/mcp) `https://mcp.terra-lab.ai/mcp`
   [![TerraLab MCP connector](https://glama.ai/mcp/connectors/ai.terra-lab/terralab/badges/score.svg)](https://glama.ai/mcp/connectors/ai.terra-lab/terralab)
   🔓 - Extract open map data, convert GIS files and coordinates, and retrieve elevation and French cadastral parcels.
