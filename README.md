@@ -2730,6 +2730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Paidnice](https://www.paidnice.com/mcp) `https://api.paidnice.com/mcp`
   [![Paidnice MCP connector](https://glama.ai/mcp/connectors/com.paidnice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.paidnice/mcp)
   🔐 - Read customer replies, contacts, invoices and notes from Paidnice accounts receivable for Xero and QuickBooks Online.
+- [Papertrade AI](https://papertrade-ai.ninabrekkerese.workers.dev) `https://papertrade-ai.ninabrekkerese.workers.dev/mcp`
+  [![Papertrade AI MCP connector](https://glama.ai/mcp/connectors/io.github.nirholas/papertrade-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.nirholas/papertrade-ai)
+  🔐 - BTC and ETH perps on Papertrade: live markets, liquidation map, leaderboards, wallet analytics and guarded trading.
 - [PayGuard](https://api.youraitools.co/payguard/) `https://api.youraitools.co/payguard/mcp`
   [![PayGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/payguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/payguard)
   🔓 - Checks crypto addresses against the US Treasury OFAC SDN list; free yes/no preview, entity details paid via x402.
