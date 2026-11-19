@@ -4973,6 +4973,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Vendo AI](https://vendo-ai.com/api-mcp/) `https://api.vendo-ai.com/mcp`
+  [![Vendo AI MCP connector](https://glama.ai/mcp/connectors/com.vendo-ai/vendo-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.vendo-ai/vendo-ai)
+  🔓 - Find in-market buyers from live buying signals, run AI outreach by email and LinkedIn, manage the CRM and agents. Tool discovery is open, account actions need a Vendo API key.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
