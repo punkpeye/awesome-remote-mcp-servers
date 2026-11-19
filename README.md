@@ -942,7 +942,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
 - [Promptli Comms](https://promptli.com/comms) `https://api.comms.promptli.com/mcp`
   [![Promptli Comms MCP connector](https://glama.ai/mcp/connectors/com.promptli/comms/badges/score.svg)](https://glama.ai/mcp/connectors/com.promptli/comms)
-  🔐 - Email inbox, phone number, calls and SMS for AI agents, with a test mode.
+  🔐 - Give your AI agent its own email address and phone number: send and read email, texts and phone calls.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
