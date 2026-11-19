@@ -2240,8 +2240,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [algoum](https://algoum.de/) `https://api.algoum.de/v1/mcp`
   [![algoum MCP connector](https://glama.ai/mcp/connectors/de.algoum.api/algoum/badges/score.svg)](https://glama.ai/mcp/connectors/de.algoum.api/algoum)
   🔑 - SEC EDGAR insider trades (Form 4/5), 8-K events, 13F holdings and insider cluster-buy signals.
-(https://glama.ai/mcp/connectors/io.github.algorover/algorover-research)
-  🔐 - Discover trading strategies, run historical backtests, and inspect trades and research reports.
 - [AlphaGrowth](https://alphagrowth.io/mcp-server) `https://alphagrowth.io/mcp`
   [![AlphaGrowth MCP connector](https://glama.ai/mcp/connectors/io.alphagrowth/data/badges/score.svg)](https://glama.ai/mcp/connectors/io.alphagrowth/data)
   🔓 - Free crypto data: TVL, fees, funding rounds, investors, yields, token unlocks and DAO treasuries.
