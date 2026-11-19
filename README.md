@@ -2179,6 +2179,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aayat AI](https://aayatai.com) `https://aayatai.com/mcp`
   [![Aayat AI MCP connector](https://glama.ai/mcp/connectors/io.github.faisal-maverick/aayat-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faisal-maverick/aayat-ai)
   🔓 - Crypto token scam checks, wallet risk, gas, web search and live docs; free daily trial, then USDC credits or x402.
+- [AccountsOS](https://accounts-os.com/developers) `https://accounts-os.com/api/mcp/plugin`
+  [![AccountsOS MCP connector](https://glama.ai/mcp/connectors/com.accounts-os/accounts-os/badges/score.svg)](https://glama.ai/mcp/connectors/com.accounts-os/accounts-os)
+  🔐 - AI accountant Finn: books, invoices, bills, VAT, deadlines and reports for 32 countries, free tax tools with no sign-in.
 - [Aether](https://aether-x402.vercel.app/llms.txt) `https://aether-x402.vercel.app/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.francosmit94-web/aether)
   🔓 - Base token risk verdicts (honeypot and tax simulation), prices, balances and tx data; pay per call in USDC via x402.
