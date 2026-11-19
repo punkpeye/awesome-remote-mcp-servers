@@ -5044,7 +5044,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Research paper search with citations from OpenAlex, Semantic Scholar, PubMed, Crossref and arXiv.
 - [PartsPlan](https://partsplanai.com/en) `https://worker.partsplanai.com/mcp`
   [![PartsPlan MCP connector](https://glama.ai/mcp/connectors/io.github.bboinzg-dev/partsplan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bboinzg-dev/partsplan)
-  🔐 - Manufacturer datasheet pages, tables, graphs and drawings for AI circuit design, cited by page.
+  🔐 - Electronic component datasheets: manufacturer values cited by document and page, BOM checks, and live stock on request.
 - [Perigee](https://perigee.info/) `https://perigee-mcp.perigeeinfo.workers.dev/mcp`
   [![Perigee MCP connector](https://glama.ai/mcp/connectors/io.github.dlamarre-dev/perigee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dlamarre-dev/perigee)
   🔓 - Real-time positions, passes, sky, eclipses and facts for satellites, Moon and Mars orbiters and deep-space probes.
