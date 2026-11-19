@@ -3291,6 +3291,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Splyt](https://splyt.fit/developers) `https://splyt.fit/mcp`
   [![Splyt MCP connector](https://glama.ai/mcp/connectors/fit.splyt/splyt/badges/score.svg)](https://glama.ai/mcp/connectors/fit.splyt/splyt)
   🔐 - Read your own Splyt workouts, personal records, training plan, habits and sleep (read-only).
+- [spokojnie](https://spokojnierodzice.pl) `https://spokojnie-mcp.vercel.app/api/mcp`
+  [![spokojnie MCP connector](https://glama.ai/mcp/connectors/pl.spokojnierodzice/spokojnie/badges/score.svg)](https://glama.ai/mcp/connectors/pl.spokojnierodzice/spokojnie)
+  🔓 - Source-linked Polish answers on child development 0–5: norm, when to worry, when to call 112 (Polish).
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
