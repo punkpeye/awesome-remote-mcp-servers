@@ -4443,14 +4443,20 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kelpo](https://kelpo.app) `https://kelpo.app/api/mcp`
   [![Kelpo MCP connector](https://glama.ai/mcp/connectors/app.kelpo/kelpo/badges/score.svg)](https://glama.ai/mcp/connectors/app.kelpo/kelpo)
   🔐 - Create vertical UGC-style videos with AI actors or your own photo and voice, with automatic Shorts-style editing.
+- [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
+  🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
 - [Kinetune](https://kinetune.com/developers#mcp) `https://kinetune.com/mcp`
   [![Kinetune MCP connector](https://glama.ai/mcp/connectors/com.kinetune/kinetune/badges/score.svg)](https://glama.ai/mcp/connectors/com.kinetune/kinetune)
   🔐 - Word-synced lyric videos (9:16, 16:9, 1:1) and Spotify Canvas loops from your songs, quoted in credits first.
 - [Kleo](https://kleooai.com) `https://mcp.kleooai.com/mcp`
   [![Kleo MCP connector](https://glama.ai/mcp/connectors/com.kleooai/kleo/badges/score.svg)](https://glama.ai/mcp/connectors/com.kleooai/kleo)
   🔐 - Narrated 4K 60 fps films from a brief, realistic or animated, with every shot generated.
-- [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
-  🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
+- [Kling AI China Plugin](https://klingai.com) `https://klingai.com/mcp/plugin`
+  [![Kling AI China Plugin MCP connector](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai-cn/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai-cn)
+  🔐 - Generate images and videos through the official China MCP endpoint; OAuth and China Kling credits are required.
+- [Kling AI Global Plugin](https://kling.ai) `https://kling.ai/mcp/plugin`
+  [![Kling AI Global Plugin MCP connector](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai)
+  🔐 - Generate images and videos through the official Global MCP endpoint; OAuth and Global Kling credits are required.
 - [Kling AI MCP Server by useapi.net](https://useapi.net/docs/api-kling-v1/mcp) `https://api.useapi.net/v1/kling/mcp`
   [![Kling AI MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/kling/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/kling)
   🔐 - Kling 4.0, v3 and Omni video, avatars, lip-sync and images on your own Kling account. Not affiliated with Kuaishou.
