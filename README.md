@@ -5929,6 +5929,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sociro](https://sociro.com/mcp) `https://mcp.sociro.com/mcp`
   [![Sociro MCP connector](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp)
   🔐 - Schedule, publish, edit and cancel social posts, and plan a week of posts with an AI planner you approve.
+- [Spica Post](https://spicapost.com) `https://app.spicapost.com/mcp`
+  [![Spica Post MCP connector](https://glama.ai/mcp/connectors/com.spicapost/spica-post/badges/score.svg)](https://glama.ai/mcp/connectors/com.spicapost/spica-post)
+  🔐 - Draft, schedule and publish posts to X, LinkedIn and Bluesky, each only after you approve it.
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
