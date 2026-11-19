@@ -6106,6 +6106,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [globalize.now](https://globalize.now) `https://api.globalize.now/mcp`
   [![globalize.now MCP connector](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.globalize-now/globalize)
   🔐 - Localize apps: translate locale files, set glossaries and connect GitHub repos.
+- [Lithuanian Name Declension](https://apibase.lt/vardai/api/#mcp) `https://apibase.lt/api/vardai/mcp`
+  🔑 - Decline Lithuanian first names and surnames into all 7 cases, get the vocative for e-mail greetings and check greetings in text; 20 calls/day without a key.
 - [localization.one](https://localization.one/mcp/) `https://api.localization.one/mcp`
   [![localization.one MCP connector](https://glama.ai/mcp/connectors/one.localization.api/localizationone/badges/score.svg)](https://glama.ai/mcp/connectors/one.localization.api/localizationone)
   🔐 - Localize apps: create projects, add languages, import i18n files, add strings and export AI translations.
