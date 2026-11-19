@@ -704,7 +704,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Writ Cloud](https://usewrit.app) `https://api.usewrit.app/mcp`
   [![Writ Cloud MCP connector](https://glama.ai/mcp/connectors/app.usewrit/writ-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/app.usewrit/writ-cloud)
-  🔐 - Turn any website into an API: build, test and call site APIs, read pages and crawl sites, signed in as you.
+  🔓 - Turn any website into an API: build, test and call site APIs, read pages and crawl sites, signed in as you.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
