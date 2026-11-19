@@ -1925,6 +1925,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Santa's Calling](https://santascalling.co.uk/assistants) `https://santascalling.co.uk/mcp`
   [![Santa's Calling MCP connector](https://glama.ai/mcp/connectors/uk.co.santascalling/santas-calling/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.santascalling/santas-calling)
   🔓 - Gift a UK child a live phone call from an AI Santa (£6.99); returns a Stripe Checkout link the buyer pays.
+- [SaveGeeks Price Finder](https://savegeeks.com) `https://savegeeks.com/mcp`
+  [![SaveGeeks Price Finder MCP connector](https://glama.ai/mcp/connectors/io.github.savegeeks/savegeeks-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.savegeeks/savegeeks-mcp)
+  🔓 - Find the lowest current Amazon.com price for any product a shopper describes, leaving out accessories and spare parts.
 - [ScentVerdict](https://scentverdict.com) `https://scentverdict.com/mcp`
   [![ScentVerdict MCP connector](https://glama.ai/mcp/connectors/com.scentverdict/fragrances/badges/score.svg)](https://glama.ai/mcp/connectors/com.scentverdict/fragrances)
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
