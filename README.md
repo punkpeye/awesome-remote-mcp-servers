@@ -3996,6 +3996,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MentionAgent](https://mentionagent.ai/mcp/) `https://mentionagent.ai/mcp`
   [![MentionAgent MCP connector](https://glama.ai/mcp/connectors/ai.mentionagent/mentionagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mentionagent/mentionagent)
   🔐 - Link building outreach from your agent: review drafts, approve the batch, answer publisher replies, record placements.
+- [Mentioned](https://mentioned.to) `https://mentioned.to/mcp`
+  [![Mentioned MCP connector](https://glama.ai/mcp/connectors/to.mentioned/mentioned/badges/score.svg)](https://glama.ai/mcp/connectors/to.mentioned/mentioned)
+  🔐 - Find the Reddit threads Google ranks for your buyers' searches, see what went live, schedule posts and comments.
 - [Mimiq](https://www.mimiqai.com) `https://mcp.mimiqai.com/mcp`
   [![Mimiq MCP connector](https://glama.ai/mcp/connectors/io.github.victorgulchenko/mimiq-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.victorgulchenko/mimiq-mcp)
   🔓 - Test landing pages, copy and sign-up flows on simulated customers who say why they would stay or leave.
@@ -4147,6 +4150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [stillindexed](https://stillindexed.com/mcp) `https://api.stillindexed.com/mcp`
   [![stillindexed MCP connector](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers/badges/score.svg)](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers)
   🔓 - Indexability, robots.txt, sitemap, TLS, domain-expiry and AI-crawler checks for any URL; no account.
+- [Subgrow](https://subgrow.ai) `https://subgrow.ai/mcp`
+  [![Subgrow MCP connector](https://glama.ai/mcp/connectors/ai.subgrow/subgrow/badges/score.svg)](https://glama.ai/mcp/connectors/ai.subgrow/subgrow)
+  🔐 - Set up a subreddit for your brand that gets a new post every day, and see what went up.
 - [SubmitMyStartup](https://submitmystartup.com/) `https://submitmystartup.com/mcp`
   [![SubmitMyStartup MCP connector](https://glama.ai/mcp/connectors/com.submitmystartup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.submitmystartup/mcp)
   🔓 - Searches a free list of startup directories and launch sites with real submission results.
