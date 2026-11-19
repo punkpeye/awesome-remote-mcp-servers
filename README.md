@@ -1835,6 +1835,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Home Generator HQ](https://homegeneratorhq.com) `https://homegeneratorhq.com/mcp`
   [![Home Generator HQ MCP connector](https://glama.ai/mcp/connectors/com.homegeneratorhq/generators/badges/score.svg)](https://glama.ai/mcp/connectors/com.homegeneratorhq/generators)
   🔓 - Search and compare 33 standby and portable generators and power stations, with prices, sizing help and buy links.
+- [Korea Import Customs Calculator](https://smart-deal-calculator.b2bintel-edge.workers.dev) `https://smart-deal-calculator.b2bintel-edge.workers.dev/mcp`
+  [![Korea Import Customs Calculator MCP connector](https://glama.ai/mcp/connectors/io.github.BeakDo/korea-import-customs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.BeakDo/korea-import-customs-mcp)
+  🔓 - Calculate South Korean overseas direct-import customs duty, VAT, multi-currency FX, and USDC payout fees.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
@@ -2393,6 +2396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Market Intel](https://datakoot.com/market-intel) `https://market.datakoot.com/mcp`
   [![Datakoot Market Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/fx-currency-exchange-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/fx-currency-exchange-rates)
   🔓 - European Central Bank reference FX rates: latest, historical, time series and currency conversion.
+- [DeFi Route Intel](https://defi-route-intel.b2bintel-edge.workers.dev) `https://defi-route-intel.b2bintel-edge.workers.dev/mcp`
+  [![DeFi Route Intel MCP connector](https://glama.ai/mcp/connectors/io.github.BeakDo/defi-funding-arbitrage-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.BeakDo/defi-funding-arbitrage-mcp)
+  🔓 - Scan live perpetual funding rate arbitrage spreads, Pendle fixed APYs, and Kalshi vs Polymarket odds.
 - [DFX Intelligence](https://dfxintel.com/agents) `https://exchange-production-9123.up.railway.app/mcp/core?c=dir-awremote`
   [![DFX Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt)
   🔓 - Private credit for agents: BDC lenders, borrowers, marks, spreads and maturities, cited to SEC filings.
@@ -4918,6 +4924,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [B2B Domain & Lead Intel](https://b2b-intel-rapidapi-worker.b2bintel-edge.workers.dev) `https://b2b-intel-rapidapi-worker.b2bintel-edge.workers.dev/mcp`
+  [![B2B Domain & Lead Intel MCP connector](https://glama.ai/mcp/connectors/io.github.BeakDo/b2b-lead-signal-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.BeakDo/b2b-lead-signal-mcp)
+  🔓 - Detect corporate SaaS tech stacks and query NetSuite ERP partners, FDA 510(k) clearances, and Form D filings.
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
@@ -5598,6 +5607,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
   [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
   🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
+- [Email Security & Deliverability Grader](https://email-security-deliverability-grader.b2bintel-edge.workers.dev) `https://email-security-deliverability-grader.b2bintel-edge.workers.dev/mcp`
+  [![Email Security & Deliverability Grader MCP connector](https://glama.ai/mcp/connectors/io.github.BeakDo/email-deliverability-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.BeakDo/email-deliverability-mcp)
+  🔓 - Audit corporate email SPF, DMARC, MX records, and disposable domain risks via DNS-over-HTTPS.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
