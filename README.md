@@ -1497,6 +1497,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Metabind Docs](https://docs.metabind.ai) `https://docs.metabind.ai/mcp`
   [![Metabind Docs MCP connector](https://glama.ai/mcp/connectors/ai.metabind/docs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/docs)
   🔓 - Search and read the Metabind docs: MCP Apps, BindJS, the SDKs, the CLI, and the APIs.
+- [Midge](https://midge.dev/docs/share/ai-coding-assistants) `https://midge.dev/mcp`
+  [![Midge MCP connector](https://glama.ai/mcp/connectors/dev.midge/midge/badges/score.svg)](https://glama.ai/mcp/connectors/dev.midge/midge)
+  🔐 - Read Midge bug reports: video, console logs, network requests and user actions, with secrets redacted.
 - [MiniTools](https://minitools.bigfloppy.net) `https://minitools.bigfloppy.net/mcp`
   [![MiniTools MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools)
   🔓 - Six tiny devtools (slugs, timestamps, case, hash, base64, UUID) over GET endpoints and MCP; no key needed.
