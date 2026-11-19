@@ -1269,6 +1269,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Benchline](https://tools.fabwaseem.com/mcp/guide) `https://tools.fabwaseem.com/mcp`
   [![Benchline MCP connector](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline/badges/score.svg)](https://glama.ai/mcp/connectors/com.fabwaseem.tools/benchline)
   🔓 - 72 dev tools: JSON, PDF, images, OCR, JWT, hashes, DNS, TLS, headers, llms.txt and OG images.
+- [bf16.ai](https://bf16.ai) `https://api.bf16.ai/mcp`
+  🔑 - Uncensored LLM API gateway for coding and personal AI agents with 1M context, native OpenAI & Anthropic endpoints, and zero prompt retention.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
   [![Bitrise MCP connector](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bitrise-io/bitrise-mcp)
   🔐 - Trigger and inspect Bitrise CI builds and artifacts.
