@@ -1384,6 +1384,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Firedrill](https://firedrill.run/agents) `https://mcp.firedrill.run/mcp`
   [![Firedrill MCP connector](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill)
   🔐 - Prepare AI agent simulations, scenarios and synthetic tools, and inspect saved outcomes and evidence. Free to use.
+- [First.new](https://first.new/) `https://mcp.first.new/mcp`
+  [![First.new MCP connector](https://glama.ai/mcp/connectors/io.github.autorender/first-new/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autorender/first-new)
+  🔐 - Build, preview, edit, and publish web apps from a prompt using your First.new account.
 - [Fixlight](https://fixlight.fernwaylabs.com/) `https://fixlight.fernwaylabs.com/mcp`
   [![Fixlight MCP connector](https://glama.ai/mcp/connectors/io.github.fernwaylabs/fixlight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fernwaylabs/fixlight)
   🔓 - Checks a public web page for accessibility problems and explains each one in plain English.
