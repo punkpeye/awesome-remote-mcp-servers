@@ -5562,6 +5562,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ChainK9](https://api.chaink9.com) `https://api.chaink9.com/mcp`
   [![ChainK9 MCP connector](https://glama.ai/mcp/connectors/com.chaink9/chaink9/badges/score.svg)](https://glama.ai/mcp/connectors/com.chaink9/chaink9)
   🔓 - Tests tokens on BNB Chain, Ethereum, Base and Arc for honeypots and hidden taxes by trading on a fork; paid via x402.
+- [CORDON](https://blvkware.dev/cordon/) `https://cordon.blvkware.dev/mcp`
+  [![CORDON MCP connector](https://glama.ai/mcp/connectors/dev.blvkware/cordon/badges/score.svg)](https://glama.ai/mcp/connectors/dev.blvkware/cordon)
+  🔓 - Reads a web page as clean markdown with hidden text removed and injection flagged; 50 free units/day, then x402.
 - [CrawlCheck](https://crawlcheck.io/for-agents) `https://crawlcheck.io/mcp`
   [![CrawlCheck MCP connector](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck)
   🔓 - A signed answer about any site before an agent acts: policy, what crawlers were served, findings, a decision per action.
