@@ -3613,6 +3613,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DutyKit](https://dutykit.dev) `https://dutykit.dev/mcp`
   [![DutyKit MCP connector](https://glama.ai/mcp/connectors/io.github.renschrder-stack/dutykit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.renschrder-stack/dutykit)
   🔓 - EU business duties for DE, LU and EU: legal obligations with sources, plus pre-checks for invoices and marketing.
+- [EU TED Tenders Scraper](https://apify.com/magnova/eu-ted-tenders-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/eu-ted-tenders-scraper`
+  [![EU TED Tenders Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/eu-ted-tenders-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/eu-ted-tenders-scraper-mcp)
+  🔐 - Every EU public tender, award and change notice from TED's official API, with new-notice alerts.
+
 - [fynk](https://fynk.com/en/integrations/mcp-server/) `https://app.fynk.com/mcp`
   [![fynk MCP connector](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp)
   🔐 - Manage contracts end to end: find and analyze them, draft or upload new ones, add signatories and send for e-signature.
@@ -3904,6 +3908,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GoodLeads](https://goodleads.club) `https://mcp.goodleads.club/mcp`
   [![GoodLeads MCP connector](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts/badges/score.svg)](https://glama.ai/mcp/connectors/club.goodleads/new-business-owner-contacts)
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
+- [Google Ads Transparency Scraper](https://apify.com/magnova/google-ads-transparency-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/google-ads-transparency-monitor`
+  [![Google Ads Transparency Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-ads-transparency-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-ads-transparency-monitor-mcp)
+  🔐 - Scrape any advertiser's Google ads — creative, format, first/last shown dates — with new-ad alerts.
+
 - [GSC Magic](https://gscmagic.com) `https://mcp.gscmagic.com/mcp`
   [![GSC Magic MCP connector](https://glama.ai/mcp/connectors/com.gscmagic/gsc-magic/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscmagic/gsc-magic)
   🔐 - Search Console, Bing, GA4, IndexNow and Core Web Vitals with SEO reports: quick wins, drops, decay, index health.
@@ -4918,6 +4926,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [Buyer Intent Lead Finder](https://apify.com/magnova/buyer-intent-lead-finder) `https://mcp.apify.com?tools=fetch-actor-details,magnova/buyer-intent-lead-finder`
+  [![Buyer Intent Lead Finder MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/buyer-intent-lead-finder-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/buyer-intent-lead-finder-mcp)
+  🔐 - Find people asking for a product like yours across Bluesky, Hacker News and forums, scored 0–100.
+
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
@@ -5737,6 +5749,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
+- [Vibe Code Security Scanner](https://apify.com/magnova/vibe-code-security-scanner) `https://mcp.apify.com?tools=fetch-actor-details,magnova/vibe-code-security-scanner`
+  [![Vibe Code Security Scanner MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/vibe-code-security-scanner-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/vibe-code-security-scanner-mcp)
+  🔐 - Scan any AI-built app for leaked API keys, open databases and missing headers, with an A–F grade.
+
 - [vuln-intel](https://vulntel.com) `https://mcp.rozetyp.com/mcp`
   [![vuln-intel MCP connector](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel)
   🔓 - CVE intel for bug-bounty agents: CVE claim fact-checks, attack approaches from HackerOne reports. Free key for calls.
