@@ -641,6 +641,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WikiBrand](https://wikibrand.org) `https://wikibrand.org/api/mcp`
   [![WikiBrand MCP connector](https://glama.ai/mcp/connectors/org.wikibrand/wikibrand/badges/score.svg)](https://glama.ai/mcp/connectors/org.wikibrand/wikibrand)
   🔓 - Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from its own website.
+- [Wixel](https://www.wix.com/wixel) `https://mcp.wix.com/wixel?ref=awesome-remote-mcp`
+  [![Wixel MCP connector](https://glama.ai/mcp/connectors/com.wix/wixel/badges/score.svg)](https://glama.ai/mcp/connectors/com.wix/wixel)
+  🔐 - Create images, logos, slide decks, videos and documents, and remove backgrounds, upscale and vectorize images.
   
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
