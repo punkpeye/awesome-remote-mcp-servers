@@ -1351,6 +1351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
+- [DocStar](https://docstar.io) `https://mcp.docstar.io/mcp`
+  [![DocStar MCP connector](https://glama.ai/mcp/connectors/io.github.swayammaheshwari/docstar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.swayammaheshwari/docstar-mcp)
+  🔓 - Turn your API into published docs that AI assistants can read and call; reading is open, changes need OAuth.
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
