@@ -3641,6 +3641,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![LienDeadline MCP connector](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp)
   🔓 - Read-only US mechanics lien and preliminary notice deadlines for suppliers, plus lien guides for all 50 states and DC.
 - [Lithuania Public Procurement](https://apibase.lt/pirkimai/api/#mcp) `https://apibase.lt/api/pirkimai/mcp`
+  [![Lithuania Public Procurement MCP connector](https://glama.ai/mcp/connectors/lt.apibase/pirkimai/badges/score.svg)](https://glama.ai/mcp/connectors/lt.apibase/pirkimai)
   🔓 - Search active Lithuanian public tenders (EU TED + national CVP IS) by CPV, keywords, region and deadline; link to the source notice on every record.
 - [MachineWitness](https://machinewitness.eu/api) `https://machinewitness.eu/mcp`
   [![MachineWitness MCP connector](https://glama.ai/mcp/connectors/eu.machinewitness/archive/badges/score.svg)](https://glama.ai/mcp/connectors/eu.machinewitness/archive)
