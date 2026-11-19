@@ -1533,6 +1533,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
+- [Optimatika Optimisation Service](https://www.optimatika.se/optimisation-service/docs/#mcp) `https://service-api.optimatika.se/optimisation/mcp`
+  [![Optimatika Optimisation Service MCP connector](https://glama.ai/mcp/connectors/se.optimatika/optimisation-service/badges/score.svg)](https://glama.ai/mcp/connectors/se.optimatika/optimisation-service)
+  🔓 - Solve LP, QP and mixed-integer optimisation models with deterministic solvers; values come back by name.
 - [OtaKit](https://otakit.app) `https://console.otakit.app/mcp`
   [![OtaKit MCP connector](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit)
   🔐 - Ship over-the-air updates for Capacitor apps: publish releases with approval, control rollouts, read health, revert.
