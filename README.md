@@ -724,6 +724,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
 - [Cloudflare Bindings](https://developers.cloudflare.com/agents/model-context-protocol/) `https://bindings.mcp.cloudflare.com/mcp`
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
+- [CloudPloy](https://cloudploy.com/mcp) `https://brain.cloudploy.com/mcp`
+  [![CloudPloy MCP connector](https://glama.ai/mcp/connectors/com.cloudploy/cloudploy/badges/score.svg)](https://glama.ai/mcp/connectors/com.cloudploy/cloudploy)
+  🔐 - Deploy apps to your own server: AWS EC2 in your account or any SSH server, with automatic SSL and zero-downtime deploys.
 - [Control Plane](https://docs.controlplane.com/ai/mcp) `https://mcp.cpln.io/mcp`
   [![Control Plane MCP connector](https://glama.ai/mcp/connectors/io.cpln/control-plane/badges/score.svg)](https://glama.ai/mcp/connectors/io.cpln/control-plane)
   🔐 - Deploy and operate apps, databases, secrets, domains, and logs on Control Plane across AWS, GCP, and Azure.
