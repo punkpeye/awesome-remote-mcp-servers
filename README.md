@@ -2234,6 +2234,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Algolab MCP](https://algolab.vn/mcp) `https://mcp.algolab.vn/free`
   [![Algolab MCP connector](https://glama.ai/mcp/connectors/vn.algolab/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vn.algolab/mcp)
   🔓 - Vietnam stock market data: prices, financials, broker research, macro indicators and a VN-Index forecast.
+- [AlgoRover Research](https://research.algorover.ai/) `https://research.algorover.ai/mcp`
+  [![AlgoRover Research MCP connector](https://glama.ai/mcp/connectors/io.github.algorover/algorover-research/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.algorover/algorover-research)
+  🔓 - Discover strategies, run historical backtests, and inspect reports; tool calls require OAuth.
 - [algoum](https://algoum.de/) `https://api.algoum.de/v1/mcp`
   [![algoum MCP connector](https://glama.ai/mcp/connectors/de.algoum.api/algoum/badges/score.svg)](https://glama.ai/mcp/connectors/de.algoum.api/algoum)
   🔑 - SEC EDGAR insider trades (Form 4/5), 8-K events, 13F holdings and insider cluster-buy signals.
