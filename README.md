@@ -4209,6 +4209,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
+- [Whizbrew](https://whizbrew.com) `https://whizbrew.com/mcp`
+  [![Whizbrew MCP connector](https://glama.ai/mcp/connectors/com.whizbrew/whizbrew/badges/score.svg)](https://glama.ai/mcp/connectors/com.whizbrew/whizbrew)
+  🔐 🔓 - Live public data from TikTok, Instagram, YouTube, LinkedIn, Reddit, Meta ads and the App Store, paid per call.
 - [Wrendex](https://wrendex.com) `https://app.wrendex.com/mcp`
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
