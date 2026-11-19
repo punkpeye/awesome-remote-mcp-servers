@@ -719,6 +719,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [briq](https://briq.cloud) `https://api.briq.cloud/mcp`
   [![briq MCP connector](https://glama.ai/mcp/connectors/cloud.briq/briq/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.briq/briq)
   🔐 - Give an agent a sandbox to run code in, Postgres, Redis or any Docker image, each on a microVM that sleeps when idle.
+- [Center AI Vision GPU cloud](https://console.centeraivision.com/agents) `https://console.centeraivision.com/mcp`
+  [![Center AI Vision GPU cloud MCP connector](https://glama.ai/mcp/connectors/com.centeraivision/gpu-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeraivision/gpu-cloud)
+  🔐 - Compare GPU prices, rent an A100 or H100 by the minute and start an AI model on it, within a spending limit you set.
 - [Cloud World Model](https://www.cloudworldmodel.ai/mcp-quickstart) `https://www.cloudworldmodel.ai/mcp`
   [![Cloud World Model MCP connector](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model)
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
