@@ -5250,6 +5250,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemalli](https://gemalli.com/en/developers) `https://gemalli.com/api/mcp`
   [![Gemalli MCP connector](https://glama.ai/mcp/connectors/com.gemalli/trade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gemalli/trade)
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
+- [Glints Jobs Indonesia](https://apify.com/galih_rakasiwi/glints-jobs-mcp) `https://galih-rakasiwi--glints-jobs-mcp.apify.actor/mcp`
+  🔑 - Search Glints jobs in Indonesia by keyword and city, with salary range, skills and full job details by URL.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [GMaps Lead Finder](https://gmapsleadfinder.com) `https://gmapsleadfinder.com/mcp`
@@ -5279,6 +5281,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [imprimeur.paris](https://imprimeur.paris/en/mcp/) `https://mcp.imprimeur.paris/mcp`
   [![imprimeur.paris MCP connector](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris)
   🔓 - Directory of Paris print and copy shops: search by product or district, listings, print-file checks and quote drafts.
+- [Indonesia Data](https://apify.com/galih_rakasiwi/indonesia-data-mcp) `https://galih-rakasiwi--indonesia-data-mcp.apify.actor/mcp`
+  🔑 - Indonesian news with full text, jobs from Glints/Kalibrr/JobStreet, IDX stock quotes and history, and World Bank macro indicators.
+- [Indonesian News](https://apify.com/galih_rakasiwi/indonesian-news-mcp) `https://galih-rakasiwi--indonesian-news-mcp.apify.actor/mcp`
+  🔑 - Newest Indonesian headlines with full article text, keyword search across headlines and article lookup by URL.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
