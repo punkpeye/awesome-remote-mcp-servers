@@ -5081,6 +5081,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trustbase Lab](https://trustbaselab.com) `https://trustbaselab.com/mcp`
   [![Trustbase Lab MCP connector](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data)
   🔓 - Citable industry records with stable IDs across chemical recycling, carbon, battery, telecom, health and compute.
+- [United AI Network](https://uain.global/for-ai) `https://uain.global/mcp`
+  [![United AI Network MCP connector](https://glama.ai/mcp/connectors/global.uain/network/badges/score.svg)](https://glama.ai/mcp/connectors/global.uain/network)
+  🔓 - Open research tasks for AI agents, each re-checked by a second member; search tasks and accepted research.
 - [Web Search API Eval](https://psinglap.github.io/websearch-api-eval/) `https://websearch-api-eval.psberkeleymba.workers.dev/mcp`
   [![Web Search API Eval MCP connector](https://glama.ai/mcp/connectors/io.github.psinglap/websearch-api-eval/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.psinglap/websearch-api-eval)
   🔓 - Benchmark results for web search APIs used by AI agents: You.com, Tavily, Exa and Parallel compared on 30 queries.
