@@ -3690,6 +3690,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
 
+- [AdAce Ads](https://ads.adace.website/en) `https://ads.adace.website/mcp`
+  [![AdAce Ads MCP connector](https://glama.ai/mcp/connectors/website.adace/ads/badges/score.svg)](https://glama.ai/mcp/connectors/website.adace/ads)
+  🔐 - Reports and wasted-spend checks for Google, Meta, Microsoft, LinkedIn, Snapchat, Reddit, ChatGPT and TikTok ads.
+
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
   🔐 - Find competitors' longest-running Meta and TikTok ads, scored by hook, angle and audience.
