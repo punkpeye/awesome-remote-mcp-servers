@@ -604,7 +604,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
 - [Sinqlo](https://sinqlo.com) `https://mcp.sinqlo.com/mcp`
   [![Sinqlo MCP connector](https://glama.ai/mcp/connectors/com.sinqlo.mcp/sinqlo/badges/score.svg)](https://glama.ai/mcp/connectors/com.sinqlo.mcp/sinqlo)
-  🔐 - Agent-ready brand kits: pull live logo variations, brand colors, font stacks, and design tokens.
+  🔐 - Design systems and brand kits for AI agents: pull live logo variations, color tokens, font stacks, and brand rules.
 - [Soleil Clusters](https://clusters.soleilpictures.com) `https://clusters.soleilpictures.com/api/v1/mcp`
   [![Soleil Clusters MCP connector](https://glama.ai/mcp/connectors/com.soleilpictures/clusters/badges/score.svg)](https://glama.ai/mcp/connectors/com.soleilpictures/clusters)
   🔐 - Make and read visual mood boards: import pictures from links, add notes, palettes and docs, and draw the board inline.
