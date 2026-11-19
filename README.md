@@ -3749,6 +3749,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AI Monk Index MCP connector](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index)
   🔓 - Research AI monk creator accounts: sourced profiles, video formats, offers and published playbooks.
 
+- [Ansvra](https://ansvra.com/product/mcp-ai-assistant/) `https://app.ansvra.com/mcp`
+  [![Ansvra MCP connector](https://glama.ai/mcp/connectors/com.ansvra/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ansvra/mcp)
+  🔓 - Public discovery. Saved AI visibility, competitor and citation reports require an active paid Ansvra account.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
