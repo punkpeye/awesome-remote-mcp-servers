@@ -2744,6 +2744,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
+- [Polymarket vs Kalshi](https://apify.com/forgedata/prediction-markets-api) `https://mcp.apify.com?tools=forgedata/prediction-markets-api`
+  [![Polymarket vs Kalshi MCP connector](https://glama.ai/mcp/connectors/com.apify.mcp/polymarket-vs-kalshi/badges/score.svg)](https://glama.ai/mcp/connectors/com.apify.mcp/polymarket-vs-kalshi)
+  🔐 - Same market on Polymarket and Kalshi: both prices, the gap, edge, alerts and history. Sports lines too.
 - [PredixLab](https://predixlab.com) `https://api.predixlab.com/mcp/`
   [![PredixLab MCP connector](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab)
   🔐 - Daily US stock signals, screeners and options analysis over MCP. Read-only.
@@ -5279,6 +5282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [imprimeur.paris](https://imprimeur.paris/en/mcp/) `https://mcp.imprimeur.paris/mcp`
   [![imprimeur.paris MCP connector](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris)
   🔓 - Directory of Paris print and copy shops: search by product or district, listings, print-file checks and quote drafts.
+- [Jobs & Hiring Data](https://apify.com/forgedata/jobs-database) `https://mcp.apify.com?tools=forgedata/jobs-database,forgedata/salary-data,forgedata/company-hiring-signals,forgedata/ats-jobs-scraper,forgedata/remote-jobs-aggregator`
+  [![Jobs & Hiring Data MCP connector](https://glama.ai/mcp/connectors/com.apify.mcp/jobs-and-hiring-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.apify.mcp/jobs-and-hiring-data)
+  🔐 - 1.2M+ jobs from employer career sites, salary benchmarks by title and location, and company hiring signals.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
