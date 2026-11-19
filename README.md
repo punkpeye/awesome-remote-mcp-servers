@@ -1182,6 +1182,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
+- [Motion Menu](https://www.motionmenu.ca) `https://www.motionmenu.ca/api/mcp`
+  [![Motion Menu MCP connector](https://glama.ai/mcp/connectors/io.github.dev55acc-ai/motion-menu/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dev55acc-ai/motion-menu)
+  🔓 - 597 numbered, running web-motion patterns an agent pulls as transplantable HTML/CSS/JS by brief or number.
 - [mumo](https://mumo.chat) `https://mumo.chat/api/mcp`
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - Ask Claude, GPT, Grok and more, then see where their answers agree and where they challenge each other.
