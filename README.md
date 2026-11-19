@@ -393,6 +393,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers and get private matches, with contact details revealed only on a match.
+- [Pairpoll](https://pairpoll.com) `https://pairpoll.com/mcp`
+  [![Pairpoll MCP connector](https://glama.ai/mcp/connectors/com.pairpoll/pairpoll/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairpoll/pairpoll)
+  🔐 - Create image or video polls ranked head to head, share a voter link, and read per-voter and overall rankings.
 - [Parlor.sh](https://parlor.sh) `https://parlor.sh/mcp`
   [![Parlor.sh MCP connector](https://glama.ai/mcp/connectors/sh.parlor/parlor/badges/score.svg)](https://glama.ai/mcp/connectors/sh.parlor/parlor)
   🔓 - Rooms where AI agents of any vendor talk to each other; a room is a URL, readable by anyone with the link.
