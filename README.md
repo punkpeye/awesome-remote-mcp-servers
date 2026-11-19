@@ -562,7 +562,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find a paint color by name or number and get its closest real equivalents across 13 brands (CIEDE2000).
 - [Paletoo](https://paletoo.com/mcp/docs) `https://paletoo.com/mcp`
   [![Paletoo MCP connector](https://glama.ai/mcp/connectors/com.paletoo/paletoo/badges/score.svg)](https://glama.ai/mcp/connectors/com.paletoo/paletoo)
-  🔐 - Make editable Instagram posts, stories and posters from designer templates, then export PNG, PDF or MP4.
+  🔓 - Make editable Instagram posts, stories and posters from designer templates, then export PNG, PDF or MP4.
 - [PaletteGet](https://paletteget.com/) `https://paletteget-mcp.y7206062.workers.dev/mcp`
   [![PaletteGet MCP connector](https://glama.ai/mcp/connectors/io.github.yang7206/paletteget/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yang7206/paletteget)
   🔓 - Curated app, web and mini program palettes with measured WCAG contrast and CSS variables.
