@@ -1735,6 +1735,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Verifiable work layer for AI: 153 tools, cross-AI handover, and an AER-1 receipt for every job.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
+- [ProveCart](https://provecart.com) `https://api.provecart.com/mcp`
+  [![ProveCart MCP connector](https://glama.ai/mcp/connectors/com.provecart/provecart/badges/score.svg)](https://glama.ai/mcp/connectors/com.provecart/provecart)
+  🔑 - Pre-payment verification for agent commerce, checking orders, bookings and reservations before payment.
 
 - [3Descu](https://quote.3descu.com/) `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp`
   [![3Descu MCP connector](https://glama.ai/mcp/connectors/io.github.cadi27tech/3descu-quote/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cadi27tech/3descu-quote)
