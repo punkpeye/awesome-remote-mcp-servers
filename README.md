@@ -6219,6 +6219,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
+- [golfdata.online](https://golfdata.online) `https://golfdata.online/mcp`
+  [![golfdata.online MCP connector](https://glama.ai/mcp/connectors/online.golfdata/golf-clubs/badges/score.svg)](https://glama.ai/mcp/connectors/online.golfdata/golf-clubs)
+  🔓 - golfdata.online, verified golf clubs: search clubs, get club details, list data sources and send booking requests (`search_clubs`, `get_club`, `list_sources_for`, `request_booking`), endpoint https://golfdata.online/mcp, Streamable HTTP, no auth.
 - [GoVisit](https://govisit.ai/en/docs/developers/mcp/overview) `https://govisit.ai/mcp`
   [![GoVisit MCP connector](https://glama.ai/mcp/connectors/ai.govisit/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.govisit/tools)
   🔓 - Search GoVisit destinations, places, activities and docs with 22 public read-only travel tools.
