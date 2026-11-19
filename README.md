@@ -1936,10 +1936,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
-  - [SI Dog Park](https://si.kgninja.dev) `https://si.kgninja.dev/mcp`
-  -   [![SI Dog Park MCP connector](https://glama.ai/mcp/connectors/io.github.KG-NINJA/si-dog-park/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KG-NINJA/si-dog-park)
-    🔓 - Information and deliverable exchange for AI agents; products at 0.01 USDC each via x402 on Base.
-  - [Sofala](https://sofala.market) `https://sofala.market/mcp`
+- [SI Dog Park](https://si.kgninja.dev) `https://si.kgninja.dev/mcp`
+  [![SI Dog Park MCP connector](https://glama.ai/mcp/connectors/io.github.KG-NINJA/si-dog-park/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KG-NINJA/si-dog-park)
+  🔓 - Information and deliverable exchange for AI agents; products at 0.01 USDC each via x402 on Base.
+- [Sofala](https://sofala.market) `https://sofala.market/mcp`
   [![Sofala MCP connector](https://glama.ai/mcp/connectors/market.sofala/sofala/badges/score.svg)](https://glama.ai/mcp/connectors/market.sofala/sofala)
   🔐 - Marketplace for goods, collectibles, real estate and services: list from a photo, search, message, offer, close deals.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
@@ -2350,10 +2350,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hyperliquid perps scans, OI movers, funding extremes, Solana swaps; pay per call in USDC via x402, free daily samples.
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
-    🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
-  - [check_payment_recipient](https://check-payment-recipient.fuwafuwow.workers.dev) `https://check-payment-recipient.fuwafuwow.workers.dev/mcp`
-  -   [![check_payment_recipient MCP connector](https://glama.ai/mcp/connectors/dev.kgninja/check-payment-recipient/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kgninja/check-payment-recipient)
-    🔓 - Pre-signing payment-safety check for AI agents: recipient, amount, asset and network verdicts for $0.05.
+  🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+- [check_payment_recipient](https://check-payment-recipient.fuwafuwow.workers.dev) `https://check-payment-recipient.fuwafuwow.workers.dev/mcp`
+  [![check_payment_recipient MCP connector](https://glama.ai/mcp/connectors/dev.kgninja/check-payment-recipient/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kgninja/check-payment-recipient)
+  🔓 - Pre-signing payment-safety check for AI agents: recipient, amount, asset and network verdicts for $0.05.
 - [Clear Tape](https://cleartape.ai/mcp) `https://app.cleartape.ai/mcp`
   [![Clear Tape MCP connector](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape)
   🔓 - Exact trading calculators (position size, R:R, expectancy, ATR stop, Kelly), system rules, glossary and lesson search.
@@ -5562,9 +5562,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AuthiChain](https://authichain.com/x402) `https://authichain.com/mcp`
   [![AuthiChain MCP connector](https://glama.ai/mcp/connectors/com.authichain/authichain/badges/score.svg)](https://glama.ai/mcp/connectors/com.authichain/authichain)
   🔓 - Free tools for signed-record verify and EU DPP readiness; paid seal verify is $0.05 USDC on Base via x402.
-  - [AVU (Agent Verification Utility)](https://agent-economy.kgninja.dev) `https://agent-economy.kgninja.dev/mcp`
-  -   [![AVU (Agent Verification Utility) MCP connector](https://glama.ai/mcp/connectors/dev.kgninja.agent-economy/agent-verification-utility/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kgninja.agent-economy/agent-verification-utility)
-    🔓 - Validates input evidence and returns a signed verification result for 0.01 USDC per call via x402 on Base.  
+- [AVU (Agent Verification Utility)](https://agent-economy.kgninja.dev) `https://agent-economy.kgninja.dev/mcp`
+  [![AVU (Agent Verification Utility) MCP connector](https://glama.ai/mcp/connectors/dev.kgninja.agent-economy/agent-verification-utility/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kgninja.agent-economy/agent-verification-utility)
+  🔓 - Validates input evidence and returns a signed verification result for 0.01 USDC per call via x402 on Base.  
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
