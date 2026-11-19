@@ -4594,7 +4594,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Edit videos on a real timeline, generate clips, music and voice, track faces and render finished cuts.
 - [VocalStack](https://vocalstack.com/) `https://api.vocalstack.com/v1/mcp`
   [![VocalStack MCP connector](https://glama.ai/mcp/connectors/com.vocalstack/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vocalstack/mcp)
-  🔐 - Transcribe and translate files, links and live streams in 100 languages, and run live broadcasts in any language.
+  🔓 🔐 - Transcribe and translate files, links and live streams in 100 languages, and run live broadcasts in any language.
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
