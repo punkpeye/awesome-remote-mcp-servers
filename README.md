@@ -868,6 +868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cosend](https://cosend.app) `https://mcp.cosend.app/mcp`
   [![Cosend MCP connector](https://glama.ai/mcp/connectors/app.cosend/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.cosend/mcp)
   🔓 - Read and answer a WhatsApp Business inbox, run campaigns and deploy automations. OAuth sign-in for every tool call.
+- [Dial by Behaf](https://www.behaf.co/dial) `https://dial.behaf.co/mcp`
+  [![Dial by Behaf MCP connector](https://glama.ai/mcp/connectors/co.behaf/dial/badges/score.svg)](https://glama.ai/mcp/connectors/co.behaf/dial)
+  🔐 - Your AI assistant phones Indian businesses for you: bookings, enquiries, follow-ups, with summary and transcript.
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
