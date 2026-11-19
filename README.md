@@ -2330,6 +2330,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BLIA — Bank Product Terms](https://www.bliahub.com) `https://mcp.bliahub.com/mcp`
   [![BLIA — Bank Product Terms MCP connector](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue)
   🔓 - Bank account terms as banks publish them, dated: fees, waivers, offers. Read-only. Canada today.
+- [BoomTax](https://api.boomtax.com) `https://api.boomtax.com/mcp`
+  [![BoomTax MCP connector](https://glama.ai/mcp/connectors/com.boomtax.api/boom-tax-1099-w-2-aca-filing/badges/score.svg)](https://glama.ai/mcp/connectors/com.boomtax.api/boom-tax-1099-w-2-aca-filing)
+  🔐 - Read-only access to filings, forms, payers, e-file status and errors; requires an API-enabled BoomTax account.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
