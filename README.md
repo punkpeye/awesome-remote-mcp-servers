@@ -5577,6 +5577,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Caelara Labs Compliance & Trust](https://caelaralabs.com) `https://compliance.caelaralabs.com/mcp`
   [![Caelara Labs Compliance & Trust MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/compliance/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/compliance)
   🔓 - Domain trust, entity KYB, SPF/DMARC grading, IBAN/VAT validation, sanctions screening and header audits. Paid per call. The handshake and tool list are open; tools/call needs an X-Caelara-Key header.
+- [Caelara Labs Shield](https://caelaralabs.com/shield/) `https://shield.caelaralabs.com/mcp`
+  🔓 - Screens prompts, model output, fetched URLs and EVM transactions before an agent acts. Heuristic screening, not a guarantee. The handshake and tool list are open; tools/call needs an X-Caelara-Key header (free 50-call trial key).
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
