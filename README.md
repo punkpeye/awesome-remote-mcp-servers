@@ -5399,6 +5399,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Recall Kitchen](https://recallkitchen.com/docs) `https://app.recallkitchen.com/mcp`
   [![Recall Kitchen MCP connector](https://glama.ai/mcp/connectors/com.recallkitchen.app/recall-kitchen/badges/score.svg)](https://glama.ai/mcp/connectors/com.recallkitchen.app/recall-kitchen)
   🔓 - Search US and Canadian government recall notices by keyword, UPC, product name, make and model, or photo.
+- [redAi Search](https://redai.pl/search) `https://search.redai.pl/mcp`
+  [![redAi Search MCP connector](https://glama.ai/mcp/connectors/pl.redai/search/badges/score.svg)](https://glama.ai/mcp/connectors/pl.redai/search)
+  🔓 - Polish web search engine for AI (polska wyszukiwarka): search Polish .pl websites and companies with contacts, offer and NIP from MF White List. Connect and list tools anonymously; queries need an API key (0.1 USD per 1000).
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
