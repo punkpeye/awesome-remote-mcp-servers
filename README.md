@@ -3032,7 +3032,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - On-chain data: ERC-20 reports, contract DD, pool depth and wallet activity; USDC per call via x402.
 - [xmlvalid](https://xmlvalid.com/docs/api#mcp) `https://xmlvalid.com/mcp`
   [![xmlvalid MCP connector](https://glama.ai/mcp/connectors/com.xmlvalid/xmlvalid/badges/score.svg)](https://glama.ai/mcp/connectors/com.xmlvalid/xmlvalid)
-  🔐 - Validate XML and e-invoices (XSD, EN 16931, Peppol, XRechnung rules) and explain errors; lookups need no account.
+  🔓 - Validate XML and e-invoices (XSD, EN 16931, Peppol, XRechnung rules) and explain errors; validation signs in (OAuth).
 - [YABA](https://yaba.day) `https://app.yaba.day/mcp`
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
   🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
