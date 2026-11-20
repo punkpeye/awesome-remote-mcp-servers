@@ -841,6 +841,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
   [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
   🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
+- [AISend](https://aisend.app) `https://api.aisend.app/mcp`
+  [![AISend MCP connector](https://glama.ai/mcp/connectors/app.aisend/aisend/badges/score.svg)](https://glama.ai/mcp/connectors/app.aisend/aisend)
+  🔐 - Send email from your verified domain, track delivery, list mail and validate addresses.
 - [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
   [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
   🔐 - Turn a slide deck into a rehearsable talk with a voice-following script and slides that advance as you speak.
@@ -3300,6 +3303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [CVPosh](https://cvposh.com) `https://cvposh.com/api/mcp`
+  [![CVPosh MCP connector](https://glama.ai/mcp/connectors/com.cvposh/cvposh/badges/score.svg)](https://glama.ai/mcp/connectors/com.cvposh/cvposh)
+  🔐 - Read your resumes, check ATS compatibility and match keywords to a job posting.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
@@ -4113,6 +4119,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
   [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
   🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
+- [SEOBolt](https://seobolt.app) `https://seobolt.app/mcp`
+  [![SEOBolt MCP connector](https://glama.ai/mcp/connectors/app.seobolt/seobolt/badges/score.svg)](https://glama.ai/mcp/connectors/app.seobolt/seobolt)
+  🔐 - Crawl a site, audit Google and AI-search readiness, get a fix plan for your coding agent.
 - [seodata.dev](https://www.seodata.dev/mcp) `https://mcp.seodata.dev/mcp`
   [![seodata.dev MCP connector](https://glama.ai/mcp/connectors/dev.seodata/keywords/badges/score.svg)](https://glama.ai/mcp/connectors/dev.seodata/keywords)
   🔓 - Google search volume, CPC, competition and similar keywords for 50+ countries.
@@ -4227,6 +4236,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
   [![Baromio MCP connector](https://glama.ai/mcp/connectors/io.baromio/baromio/badges/score.svg)](https://glama.ai/mcp/connectors/io.baromio/baromio)
   🔐 - Read uptime, incidents, SSL, domain expiry and Core Web Vitals; create, edit and pause monitors on paid plans.
+- [Bugsly](https://bugsly.dev) `https://bugsly.dev/api/mcp`
+  [![Bugsly MCP connector](https://glama.ai/mcp/connectors/dev.bugsly/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/dev.bugsly/mcp-server)
+  🔐 - List, read and resolve Bugsly error-tracking issues and check monitors.
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
 - [Codex Reset](https://codex-reset.com/developers) `https://codex-reset.com/mcp`
@@ -4508,6 +4520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
+- [RemixViral](https://remixviral.ai) `https://remixviral.ai/api/mcp`
+  [![RemixViral MCP connector](https://glama.ai/mcp/connectors/ai.remixviral/clipper/badges/score.svg)](https://glama.ai/mcp/connectors/ai.remixviral/clipper)
+  🔐 - Check clip jobs, videos and credits, and create faceless Shorts from a prompt.
 - [Revid](https://www.revid.ai/mcp) `https://www.revid.ai/api/mcp`
   [![Revid MCP connector](https://glama.ai/mcp/connectors/ai.revid/revid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.revid/revid)
   🔐 - Research what goes viral, make finished short-form videos and post them to TikTok, YouTube, Instagram and X.
@@ -4930,6 +4945,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GetSales](https://getsales.io/blog/outreach-mcp-server/) `https://mcp2.getsales.io/mcp/public`
   [![GetSales MCP connector](https://glama.ai/mcp/connectors/io.getsales/outreach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.getsales/outreach-mcp)
   🔐 - Drive a GetSales workspace: tables, people, companies, enrichment, workflows, inbox, tasks, signals.
+- [GrowFast](https://growfast.sh) `https://growfast.sh/api/mcp`
+  [![GrowFast MCP connector](https://glama.ai/mcp/connectors/sh.growfast/growfast/badges/score.svg)](https://glama.ai/mcp/connectors/sh.growfast/growfast)
+  🔐 - Find B2B customers for a product: score matching companies and draft cold emails you approve before anything is sent.
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
