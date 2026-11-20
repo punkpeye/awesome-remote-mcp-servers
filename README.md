@@ -2785,6 +2785,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
   [![Regime MCP connector](https://glama.ai/mcp/connectors/xyz.regimetoken/regime/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.regimetoken/regime)
   🔓 - Checks crypto trading claims on real price history: leverage liquidations, drawdown, DCA, stop-loss, seasonality.
+- [Regime Card](https://regimecard.com/agents) `https://agent.regimecard.com/mcp`
+  [![Regime Card MCP connector](https://glama.ai/mcp/connectors/com.regimecard/market-regime/badges/score.svg)](https://glama.ai/mcp/connectors/com.regimecard/market-regime)
+  🔓 - Market regime check for agents: 0-100 risk-on/off score, five regimes, stress gate; $0.01 to $0.05 per call via x402.
 - [ReportGem 报告驿站](https://www.reportgem.com/mcp.html) `https://www.reportgem.com/mcp`
   [![ReportGem MCP connector](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research/badges/score.svg)](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research)
   🔓 - Search 16M+ global investment bank reports, filings, earnings-call notes and charts; read cited source passages.
