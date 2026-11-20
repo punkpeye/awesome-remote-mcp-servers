@@ -3369,7 +3369,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ctxstore](https://ctxstore.ai) `https://mcp.ctxstore.ai/mcp`
   [![ctxstore MCP connector](https://glama.ai/mcp/connectors/ai.ctxstore/ctxstore-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ctxstore/ctxstore-mcp)
   🔓 - Persistent memory for AI agents: keyed facts, a wake bundle each session, one memory across every model.
-- [Detextit](https://www.detextit.com) `https://www.detextit.com/api/mcp`
+- [Cynthia](https://planet-leads-hub.vercel.app/) `https://cynthia-mcp-server.onrender.com/mcp`
+  [![Cynthia MCP connector](https://glama.ai/mcp/connectors/io.github.rayhyman333-blip/cynthia/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rayhyman333-blip/cynthia)
+  🔓 - Answers questions about Planet Leads and its Academy only from 68 owner-verified facts, never inventing.
+  - [Detextit](https://www.detextit.com) `https://www.detextit.com/api/mcp`
   [![Detextit MCP connector](https://glama.ai/mcp/connectors/com.detextit.www/detextit/badges/score.svg)](https://glama.ai/mcp/connectors/com.detextit.www/detextit)
   🔓 - Read-only shared agent context with sources and conditions, plus plans for recovering from task constraints.
 - [Dexio](https://dexio.wiki) `https://app.dexio.wiki/mcp`
