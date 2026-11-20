@@ -2736,6 +2736,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [pdata](https://pdata.world/agents) `https://api.pdata.world/mcp`
   [![pdata MCP connector](https://glama.ai/mcp/connectors/world.pdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/world.pdata/mcp)
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
+- [PivotBank](https://pivotbank.app) `https://pivotbank.app/mcp`
+  [![PivotBank MCP connector](https://glama.ai/mcp/connectors/app.pivotbank/pivotbank/badges/score.svg)](https://glama.ai/mcp/connectors/app.pivotbank/pivotbank)
+  🔓 - Convert bank statement PDFs to Excel, CSV, QBO or OFX, every row checked against the statement's balances.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
