@@ -4002,6 +4002,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miraqo](https://miraqo.io) `https://app.miraqo.io/mcp`
   [![Miraqo MCP connector](https://glama.ai/mcp/connectors/io.github.deleteweb/seo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deleteweb/seo)
   🔐 - Rankings, audits, backlinks, Search Console and AI visibility for your Miraqo SEO projects.
+- [MsgVibe](https://www.msgvibe.com/integrations/ai) `https://api.msgvibe.com/v1/mcp`
+  [![MsgVibe MCP connector](https://glama.ai/mcp/connectors/com.msgvibe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.msgvibe/mcp)
+  🔐 🔑 - Turn product photos into branded video ads with a studio set, three AI concepts, captions and a voice-over.
 - [Nitrosend](https://nitrosend.com) `https://api.nitrosend.com/mcp`
   [![Nitrosend MCP connector](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend/badges/score.svg)](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend)
   🔐 - Draft campaigns and flows, manage audiences, send tests, and inspect results in your Nitrosend account.
