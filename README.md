@@ -588,7 +588,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
 - [RenderPixels](https://renderpixels.com) `https://renderpixels.com/mcp`
-  [![RenderPixels MCP connector](https://glama.ai/mcp/connectors/NAMESPACE/NAME/badges/score.svg)](https://glama.ai/mcp/connectors/NAMESPACE/NAME)
+  [![RenderPixels MCP connector](https://glama.ai/mcp/connectors/com.renderpixels/render-pixels/badges/score.svg)](https://glama.ai/mcp/connectors/com.renderpixels/render-pixels)
   🔐 - Renders marketing images, social posts, Open Graph images, favicons and logos with your saved brand colors and logo.
 - [Roomvana](https://roomvana.ai) `https://api.roomvana.co/mcp`
   [![Roomvana MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp)
