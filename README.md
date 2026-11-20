@@ -3033,7 +3033,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [XBOSS](https://xboss.biz) `https://api.xdata.kr/mcp`
   [![XBOSS MCP connector](https://glama.ai/mcp/connectors/kr.xdata/xboss-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/kr.xdata/xboss-mcp)
-  🔐 - 홈택스, 4대보험, 정부24, 은행, 위택스 등 15개 이상 기관과 플랫폼 업무를 AI로. 전자세금계산서, 급여명세서, 계좌 조회, 고용지원금과 광고 성과를 연결하는 XBOSS 공식 API와 MCP 패키지.
+  🔓 - 홈택스, 4대보험, 정부24, 은행, 위택스 등 15개 이상 기관과 플랫폼 업무를 AI로. 전자세금계산서, 급여명세서, 계좌 조회, 고용지원금과 광고 성과를 연결하는 XBOSS 공식 API와 MCP 패키지.
 
 - [YABA](https://yaba.day) `https://app.yaba.day/mcp`
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
