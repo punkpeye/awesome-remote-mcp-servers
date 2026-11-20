@@ -4630,6 +4630,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
+- [GuaraPay](https://guarapay.io/en/ai-agents/) `https://mcp.guarapay.io`
+  [![GuaraPay MCP connector](https://glama.ai/mcp/connectors/io.guarapay/card/badges/score.svg)](https://glama.ai/mcp/connectors/io.guarapay/card)
+  🔐 - Virtual Visa/Mastercard cards your AI agent pays with, within your limits: frozen by default, unfrozen per approved purchase, no card number in the chat.
 - [I Am Wallet](https://proof.zketernity.app/agent/llms.txt) `https://proof.zketernity.app/agent/mcp`
   [![I Am Wallet MCP connector](https://glama.ai/mcp/connectors/io.github.ZKStamp/agentwallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ZKStamp/agentwallet)
   🔓 - Agents create their own shielded BitcoinZ wallet, pay, send signed private messages and trade in steps with proof.
