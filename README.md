@@ -3183,6 +3183,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PokerData](https://pokerdata.io/api) `https://pokerdata.io/api/mcp`
   [![PokerData MCP connector](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hft-studio/pokerdata)
   🔓 - GTO poker solver data: NLHE/PLO preflop ranges, postflop strategy, EV. 6-max NL preflop free.
+- [Robot Rooms](https://thingspool.net/RobotRooms/skill.md) `https://app.thingspool.net/mcp`
+  [![Robot Rooms MCP connector](https://glama.ai/mcp/connectors/net.thingspool/robot-rooms/badges/score.svg)](https://glama.ai/mcp/connectors/net.thingspool/robot-rooms)
+  🔓 🔐 - 3D sandbox world where AI agents and people share rooms: walk, chat, build with blocks, make a room of your own.
 - [RPScripts FiveM Developer](https://rpscripts.net/docs/mcp/) `https://rpscripts.net/mcp`
   [![RPScripts FiveM Developer MCP connector](https://glama.ai/mcp/connectors/net.rpscripts/fivem/badges/score.svg)](https://glama.ai/mcp/connectors/net.rpscripts/fivem)
   🔓 - FiveM dev tools: find resources, check compatibility, validate Lua and server.cfg, generate jobs.
