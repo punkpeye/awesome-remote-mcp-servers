@@ -2445,6 +2445,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [emissaoja](https://emissaoja.com.br/emitir-nota-fiscal-por-ia) `https://emissaoja.com.br/mcp`
   [![emissaoja MCP connector](https://glama.ai/mcp/connectors/br.com.emissaoja/nfse/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.emissaoja/nfse)
   🔓 - Issue, track and cancel Brazilian service invoices (NFS-e) via Emissor Nacional, no certificate; OAuth to issue.
+- [Everstrike](https://docs.everstrike.xyz/ai/mcp) `https://mcp.everstrike.xyz/mcp`
+  [![Everstrike MCP connector](https://glama.ai/mcp/connectors/xyz.everstrike.mcp/everstrike/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everstrike.mcp/everstrike)
+  🔓 - Read-only crypto derivatives market data: tickers, order books, trades, candles, funding rates and vault stats.
 
 - [EveryCalc](https://everycalc.xyz) `https://everycalc.xyz/mcp`
   [![EveryCalc MCP connector](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.everycalc/every-calc)
