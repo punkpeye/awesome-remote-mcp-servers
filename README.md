@@ -1944,6 +1944,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Store Canary](https://storecanary.app/mcp) `https://mcp.storecanary.app/mcp`
   [![Store Canary MCP connector](https://glama.ai/mcp/connectors/io.github.erikras/store-canary/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.erikras/store-canary)
   🔓 - Free read-only WooCommerce store checks: SSL, exposed files, SEO basics, speed, products and store policies.
+- [Tally](https://tally.backspinlabs.com) `https://tally.backspinlabs.com/mcp`
+  [![Tally MCP connector](https://glama.ai/mcp/connectors/com.backspinlabs/tally/badges/score.svg)](https://glama.ai/mcp/connectors/com.backspinlabs/tally)
+  🔐 - Lightspeed Retail (R-Series) sales, stock, customers, and work orders, counted the way Lightspeed's reports count them.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
