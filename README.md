@@ -2880,6 +2880,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synci](https://synci.io) `https://api.synci.io/mcp`
   [![Synci MCP connector](https://glama.ai/mcp/connectors/io.synci/synci/badges/score.svg)](https://glama.ai/mcp/connectors/io.synci/synci)
   🔐 - Read-only bank, brokerage and crypto accounts: balances, transactions, holdings and connection health.
+- [Taipei Ledger](https://taipeiledger.com/ai/) `https://mcp.taipeiledger.com/mcp`
+  [![Taipei Ledger MCP connector](https://glama.ai/mcp/connectors/com.taipeiledger/ledger/badges/score.svg)](https://glama.ai/mcp/connectors/com.taipeiledger/ledger)
+  🔓 - Taiwan-listed companies in English: monthly revenue, translated filings, US 10-K supply chains, Japan links.
 - [Taiwan Market Open Data (Unofficial)](https://twse-mcp.taux.io/) `https://twse-mcp.taux.io/mcp`
   [![Taiwan Market Open Data MCP connector](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp)
   🔓 - Unofficial access to Taiwan Stock Exchange and Futures Exchange open data: stock, ETF and futures snapshots, live quotes and 275 datasets.
