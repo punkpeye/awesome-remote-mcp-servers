@@ -145,6 +145,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBIT](https://agentbit.app) `https://agentbit.app/mcp`
   [![AgentBIT MCP connector](https://glama.ai/mcp/connectors/app.agentbit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentbit/mcp)
   🔓 - One tool that routes any task to the best of 14,000+ x402 tools; pay per call in USDC on Base.
+- [AgentReady Tools](https://agentready-tools.com) `https://agentready-tools.com/mcp`
+  [![AgentReady Tools MCP connector](https://glama.ai/mcp/connectors/com.agentready-tools/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentready-tools/catalog)
+  🔓 - Search a catalog of more than 250 APIs, MCP servers and developer tools, with agent-readiness checks and community Q&A.
 - [Agentropolis](https://agentropolis.io) `https://agentropolis.io/api/mcp`
   [![Agentropolis MCP connector](https://glama.ai/mcp/connectors/io.agentropolis/agentropolis/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentropolis/agentropolis)
   🔓 - Search 38,000+ MCP servers, x402/MPP paid APIs and A2A agents; trust scores come only from verified payments.
