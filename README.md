@@ -2981,9 +2981,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
 
-- [GSCPAP - Google Search Console, GA4, PageSpeed Insights & live SERPs MCP](https://gscpap.com/?utm_source=awesome-remote-mcp&utm_medium=directory) `https://mcp.gscpap.com/mcp`
+- [GSCPAP - Google Search Console, GA4, Bing Webmaster Tools & PageSpeed MCP](https://gscpap.com/?utm_source=awesome-remote-mcp&utm_medium=directory) `https://mcp.gscpap.com/mcp`
   [![GSCPAP MCP connector](https://glama.ai/mcp/connectors/com.gscpap/gsc-pap/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscpap/gsc-pap)
-  🔐 - Read-only Google Search Console, GA4 and PageSpeed data, with Search Console history kept past Google's 16-month limit.
+  🔐 - Read-only Google Search Console, GA4, Bing Webmaster Tools and PageSpeed data, with Search Console and Bing history kept past their 16-month limits.
 
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
