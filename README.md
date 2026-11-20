@@ -4970,6 +4970,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Silicon Valley Atlas](https://svatlas.io) `https://svatlas.io/mcp`
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
+- [Skrap.ai](https://skrap.ai/mcp) `https://mcp.skrap.ai/mcp`
+  [![Skrap.ai MCP connector](https://glama.ai/mcp/connectors/ai.skrap/skrap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.skrap/skrap)
+  🔐 - Verify emails, find verified work emails, search B2B leads and run bulk jobs with your Skrap.ai credits.
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
