@@ -2165,6 +2165,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Pre-trade risk screen for EVM and Solana tokens: honeypots, LP lock, holders; $0.05 via x402.
 
 
+- [21btc.cc Bitcoin Data](https://21btc.cc/mcp) `https://21btc.cc/mcp`
+  [![21btc.cc Bitcoin Data MCP connector](https://glama.ai/mcp/connectors/cc.21btc/bitcoin-data/badges/score.svg)](https://glama.ai/mcp/connectors/cc.21btc/bitcoin-data)
+  🔓 - Free read-only Bitcoin data: price, US spot ETF flows, treasury holders, network stats, wiki and events.
+
 - [47620 Data API](https://47620.xyz/agents) `https://47620.xyz/mcp`
   [![47620 Data API MCP connector](https://glama.ai/mcp/connectors/xyz.47620/solana-data/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.47620/solana-data)
   🔓 - Pay-per-call data over x402 on Solana, Base and Polygon: prices, liquidity, balances, txs and token analytics.
