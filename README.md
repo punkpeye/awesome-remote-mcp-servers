@@ -4133,7 +4133,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - How often Nordic and German e-commerce brands send marketing email: send counts, dates and the most active senders.
 - [Socialync](https://www.socialync.io/go/awesome-remote-mcp) `https://mcp.socialync.io/mcp`
   [![Socialync MCP connector](https://glama.ai/mcp/connectors/io.github.JackVitick/socialync/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JackVitick/socialync)
-  🔐 - Schedule and publish posts to TikTok, Instagram, YouTube, Facebook, X, LinkedIn, Threads and Bluesky, with your approval.
+  🔐 - Schedule and publish to TikTok, Instagram, YouTube, Facebook, X, LinkedIn, Threads and Bluesky, with your approval.
 - [Soundlink](https://www.getsoundlink.com/docs/mcp-server) `https://api.getsoundlink.com/mcp`
   [![Soundlink MCP connector](https://glama.ai/mcp/connectors/com.getsoundlink.api/soundlink-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.getsoundlink.api/soundlink-mcp-server)
   🔐 - Read-only Meta-to-Spotify attribution, cost per listener, campaign comparisons, and returning-listener analytics.
