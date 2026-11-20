@@ -1639,9 +1639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
-- [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
+- [Supero](https://www.supero.dev/mcp/) `https://mcp.supero.dev/mcp`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
- 🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
+  🔐 - Plan, validate and deploy multi-tenant web apps, and manage their schemas, data, roles and data connectors.
 - [Synap](https://synap.linkrra.com) `https://pool.linkrra.com/mcp`
   [![Synap MCP connector](https://glama.ai/mcp/connectors/com.linkrra/synap/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkrra/synap)
   🔓 - OpenAI-compatible inference on open models: list models and prices, estimate cost, run chat billed per token.
