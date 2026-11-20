@@ -6276,6 +6276,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Orizn Visa API](https://visa.orizn.app/integrations/mcp) `https://visa.orizn.app/mcp`
   [![Orizn Visa API MCP connector](https://glama.ai/mcp/connectors/io.github.MattJeff/orizn-visa-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MattJeff/orizn-visa-mcp)
   🔓 - Visa rules for 49,750 passport-destination pairs, official sources; 2 tools keyless, X-API-Key for the rest.
+- [OsmO Travel eSIM](https://esim.getosmo.app) `https://esim.getosmo.app/mcp`
+  [![OsmO Travel eSIM MCP connector](https://glama.ai/mcp/connectors/app.getosmo.esim/travel-esim/badges/score.svg)](https://glama.ai/mcp/connectors/app.getosmo.esim/travel-esim)
+  🔓 - Compare travel eSIM plans for a trip, check phone eSIM support, estimate data and get setup help.
 - [Portmans Motor Lodge](https://www.portmans.co.nz/) `https://portmans-mcp.portmanshastings.workers.dev/mcp`
   [![Portmans Motor Lodge MCP connector](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.briandoylenz/portmans-mcp)
   🔓 - Hotel availability, public BAR rates, and a direct booking link for Portmans Motor Lodge in Hastings, New Zealand.
