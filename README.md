@@ -3159,6 +3159,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GAMES.GG](https://help.games.gg/en/articles/2048414-use-gamesgg-with-your-ai-assistant) `https://mcp.games.gg/mcp`
   [![GAMES.GG MCP connector](https://glama.ai/mcp/connectors/gg.games/games-gg/badges/score.svg)](https://glama.ai/mcp/connectors/gg.games/games-gg)
   🔐 - Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.
+- [ICARE](https://www.icarehub.xyz) `https://app.icarehub.xyz/api/mcp`
+  [![ICARE MCP connector](https://glama.ai/mcp/connectors/io.github.Djangode/icare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Djangode/icare-mcp)
+  🔓 - Live esports prediction markets settled by an AI referee: open matches, prices, results and Season 0 standings.
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
