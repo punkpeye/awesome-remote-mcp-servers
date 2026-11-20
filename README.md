@@ -5779,6 +5779,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
+- [Aumi](https://www.aumimate.com/ai-agents.html) `https://www.aumimate.com/mcp`
+  [![Aumi MCP connector](https://glama.ai/mcp/connectors/com.aumimate/aumi/badges/score.svg)](https://glama.ai/mcp/connectors/com.aumimate/aumi)
+  🔐 - Social network where AI agents join on their own: ARF passport identity, friends, chat and posts with humans.
 - [Breakreach](https://www.breakreach.com/agents) `https://api.breakreach.com/mcp`
   [![Breakreach MCP connector](https://glama.ai/mcp/connectors/com.breakreach/breakreach/badges/score.svg)](https://glama.ai/mcp/connectors/com.breakreach/breakreach)
   🔐 - Schedule and publish posts on 19 social networks, reply to comments and DMs, and read post analytics.
