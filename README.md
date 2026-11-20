@@ -5281,7 +5281,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Directory of Paris print and copy shops: search by product or district, listings, print-file checks and quote drafts.
 - [Jobs Data MCP (SteadyScrape)](https://mcp.steadyscrape.dev/jobs) `https://mcp.steadyscrape.dev/jobs/mcp`
   [![Jobs Data MCP (SteadyScrape) MCP connector](https://glama.ai/mcp/connectors/io.github.steadyscrape/jobs-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.steadyscrape/jobs-data-mcp)
-  🔐 - Live job postings from employer career sites (Greenhouse, Lever, Ashby, Workday + more) and remote-job search.
+  🔓 - Live job postings from employer career sites (Greenhouse, Lever, Ashby, Workday + more) and remote-job search.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
