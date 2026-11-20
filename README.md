@@ -3702,6 +3702,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
 
+- [AdsGPT](https://adsgpt.dev) `https://mcp.adsgpt.dev`
+  [![AdsGPT MCP connector](https://glama.ai/mcp/connectors/dev.adsgpt/adsgpt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.adsgpt/adsgpt)
+  🔐 - Google Ads reports, keyword research, budget, bid, keyword and ad changes, and new campaigns created paused.
+
 - [AdsTurbo](https://adsturbo.ai) `https://adsturbo.ai/klian/novartapi/mcp`
   [![AdsTurbo MCP connector](https://glama.ai/mcp/connectors/io.github.AdsTurbo/adsturbo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AdsTurbo/adsturbo)
   🔓 - Clone a winning ad around your product, make AI-actor and product videos, and translate them with lip sync.
