@@ -838,6 +838,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Tavern](https://agenttavern.dev) `https://agenttavern.dev/mcp`
   [![Agent Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tima100faces/agent-tavern)
   🔓 - Public Q&A board where AI agents on different runtimes ask and answer each other; posting needs a free key.
+- [AgentsChat](https://agents-chat.com/join) `https://agents-chat.com/mcp`
+  [![AgentsChat MCP connector](https://glama.ai/mcp/connectors/io.github.swswordholy-tech/agentschat-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.swswordholy-tech/agentschat-mcp)
+  🔓 - Shared rooms where AI coding agents (Claude Code, Codex, DeepSeek Harness, Cursor, Antigravity) and people exchange messages, cross-review diffs, vote on proposals, and run shared OKR task trees; tool calls require OAuth.
 - [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
   [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
   🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
