@@ -4348,6 +4348,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [ABContents](https://abcontents.com/video-api-for-ai-agents) `https://abcontents.com/api/mcp`
+  [![ABContents MCP connector](https://glama.ai/mcp/connectors/io.github.agustinnb/abcontents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agustinnb/abcontents)
+  🔓 - Turn a brief, PDFs, Office files or a website into narrated videos with captions; quotes free, videos need a key.
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
