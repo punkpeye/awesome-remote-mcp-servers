@@ -6582,6 +6582,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VeritaHire Hiring Intelligence](https://veritahire.com/salary-benchmarking/) `https://veritahire.com/mcp/employers`
   [![VeritaHire Hiring Intelligence MCP connector](https://glama.ai/mcp/connectors/com.veritahire/hiring-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.veritahire/hiring-intelligence)
   🔓 - Posted pay, competing employers and time to close for a role in any US market, from employers' own career sites.
+- [Virtual Assistant Capital](https://virtualassistantcapital.com/) `https://virtualassistantcapital.com/mcp`
+  [![Virtual Assistant Capital MCP connector](https://glama.ai/mcp/connectors/com.virtualassistantcapital/virtual-assistant-capital/badges/score.svg)](https://glama.ai/mcp/connectors/com.virtualassistantcapital/virtual-assistant-capital)
+  🔓 - Virtual assistant plans and prices, tasks by industry, a local-hire cost comparison and hiring guides.
 - [Walkie](https://trywalkie.com/mcp) `https://mcp.trywalkie.com/mcp`
   [![Walkie MCP connector](https://glama.ai/mcp/connectors/io.github.adamperlis/walkie-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.adamperlis/walkie-mcp)
   🔐 - Search and read your recorded meetings: notes, action items, participants and speaker-labeled transcripts.
