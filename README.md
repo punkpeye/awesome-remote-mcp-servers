@@ -1901,6 +1901,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PegaRex](https://pegarex.com.br) `https://pegarex.com.br/api/mcp`
   [![PegaRex MCP connector](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex)
   🔓 - Search 1.8M+ live Brazilian used-car and motorcycle listings with FIPE prices, price ranges and cheapest states.
+- [PlugRail JP Recall](https://plugrail.dev) `https://jp-recall.plugrail.dev/mcp`
+  [![PlugRail JP Recall MCP connector](https://glama.ai/mcp/connectors/dev.plugrail/jp-recall/badges/score.svg)](https://glama.ai/mcp/connectors/dev.plugrail/jp-recall)
+  🔓 - Search Japanese product recalls by keyword and category using Consumer Affairs Agency data.
 - [Pokemon TCG Restock Alerts - bujusjujus](https://bujusjujus.com/api) `https://bujusjuj.us/mcp`
   [![Pokemon TCG Restock Alerts - bujusjujus MCP connector](https://glama.ai/mcp/connectors/com.bujusjujus/alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.bujusjujus/alerts)
   🔓 - Pokémon TCG restock alerts across US retailers: recent drops, MSRP, restock timing, webhooks. Tools need a free API key.
@@ -2264,6 +2267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [PlugRail JP Corporate](https://plugrail.dev) `https://jp-corporate.plugrail.dev/mcp`
+  [![PlugRail JP Corporate MCP connector](https://glama.ai/mcp/connectors/dev.plugrail/jp-corporate/badges/score.svg)](https://glama.ai/mcp/connectors/dev.plugrail/jp-corporate)
+  🔓 - Search Japanese corporations and verify invoice numbers using National Tax Agency data.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -6522,6 +6528,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perizent](https://perizent.ir) `https://perizent.ir/api/mcp`
   [![Perizent MCP connector](https://glama.ai/mcp/connectors/io.github.ablmontazer1997/perizent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ablmontazer1997/perizent)
   🔓 - Build editable right-to-left Persian (Farsi) PowerPoint decks from a topic or text; tool calls need a Perizent key.
+- [PlugRail Japanese Calendar](https://plugrail.dev) `https://jp-calendar.plugrail.dev/mcp`
+  [![PlugRail Japanese Calendar MCP connector](https://glama.ai/mcp/connectors/dev.plugrail/jp-calendar/badges/score.svg)](https://glama.ai/mcp/connectors/dev.plugrail/jp-calendar)
+  🔓 - Japanese public holidays and business-day calculations from official Cabinet Office data.
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
