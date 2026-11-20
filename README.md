@@ -3851,6 +3851,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [NoteSupreme Claude SEO Skills](https://notesupreme.com) `https://notesupreme.com/p/claude-seo-skills?token=nsp_9_aGgxEI87BKDjSVUU8Zfg`
+  [![Claude SEO Skills MCP connector](https://glama.ai/mcp/connectors/io.github.NoteSupreme/claude-seo-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.NoteSupreme/claude-seo-skills)
+  🔓 - Two open-source SEO skill packs (Claude SEO, Illyism SEO Skills): audits, local SEO, schema and copy; read-only.
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
   🔐 - Whether ChatGPT, Claude, Gemini, Perplexity and Google AI name your brand and what they cite; needs a paid plan.
@@ -5652,6 +5655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NetAPI](https://netapi.com/help/mcp/) `https://mcp.netapi.com/mcp`
   [![NetAPI MCP connector](https://glama.ai/mcp/connectors/com.netapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.netapi/mcp)
   🔐 - Domain intelligence: compromised domain and IP checks, TLD stats, Top 1M ranks, new domains, registrars and DNS.
+- [NoteSupreme VPS Hardening](https://notesupreme.com) `https://notesupreme.com/p/vps-hardening?token=nsp_6bmDN1j4mZCnQJCfL0rgDA`
+  [![VPS Hardening MCP connector](https://glama.ai/mcp/connectors/io.github.NoteSupreme/vps-hardening/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.NoteSupreme/vps-hardening)
+  🔓 - Read-only security checklists for hardening a VPS, Docker, secrets, Supabase, Stripe, auth and AI agents.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
