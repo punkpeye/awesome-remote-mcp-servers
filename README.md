@@ -3964,6 +3964,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LinkGPT](https://www.linkgpt.app) `https://www.linkgpt.app/mcp`
   [![LinkGPT MCP connector](https://glama.ai/mcp/connectors/app.linkgpt/linkgpt/badges/score.svg)](https://glama.ai/mcp/connectors/app.linkgpt/linkgpt)
   🔑 - SEO and AI search visibility: Search Console data, keyword research, AI visibility audits and fixes.
+- [Local SEO Data](https://localseodata.com/docs/mcp-server) `https://mcp.localseodata.com/mcp`
+  [![Local SEO Data MCP connector](https://glama.ai/mcp/connectors/io.github.localseodata/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.localseodata/mcp-server)
+  🔐 - Local pack and Maps rankings, Business Profile and review data, citation audits, geogrid scans and AI visibility.
 - [LocationLists](https://locationlists.com) `https://locationlists.com/mcp`
   [![LocationLists MCP connector](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kylehawke-stack/locationlists)
   🔓 - Search 725 US business-location datasets (dealers, contractors, chains), preview real rows, and buy CSVs.
