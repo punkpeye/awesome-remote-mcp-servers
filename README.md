@@ -684,7 +684,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Oya Browser](https://oyabrowser.com) `https://oyabrowser.com/mcp/pool`
   [![Oya Browser MCP connector](https://glama.ai/mcp/connectors/io.github.OyadotAI/oya-browser/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OyadotAI/oya-browser)
-  🔐 - Real Chrome browser control plane for AI agents: browse, keep logins, human takeover, replay as Playwright playbooks, and HIPAA/BAA cloud option.
+  🔓🔐 - Real Chrome browser control plane for AI agents: browse, keep logins, human takeover, replay as Playwright playbooks, and HIPAA/BAA cloud option.
 
 - [pilotfish](https://pilotfish.gai.ventures) `https://pilotfish-be.gai.ventures/mcp`
   [![pilotfish MCP connector](https://glama.ai/mcp/connectors/io.github.gAI-ventures/pilotfish-managed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gAI-ventures/pilotfish-managed)
