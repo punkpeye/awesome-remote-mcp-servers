@@ -3303,6 +3303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Google Trends and Google Jobs](https://apify.com/krammer/google-jobs-scraper) `https://mcp.apify.com/?tools=krammer/google-trends-scraper,krammer/google-jobs-scraper`
+  [![Google Trends and Google Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.krammer0/google-trends-and-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.krammer0/google-trends-and-jobs)
+  🔐 - Google Jobs postings with parsed salary and job type, plus Google Trends interest over time and related queries.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
