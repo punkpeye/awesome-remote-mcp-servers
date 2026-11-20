@@ -1248,7 +1248,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search 10 design principles, examples and guides; spec and UI validators on paid plans.
 - [AIDNode](https://botstop-dev.botstop-dev-lab-2026.workers.dev/about) `https://botstop-dev.botstop-dev-lab-2026.workers.dev/mcp`
   [![AIDNode MCP connector](https://glama.ai/mcp/connectors/io.github.AIDNodeOfficial/aidnode/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AIDNodeOfficial/aidnode)
-  🔑 - Retry advice, change checks, signed validation receipts, health probes and safe resume plans for agents. Free beta.
+  🔓 - Retry advice, change checks, signed validation receipts, health probes and safe resume plans for agents. Free beta; tool calls need a free self-serve key.
 - [AiLinkAny](https://ailinkany.com) `https://mcp.ailinkany.com/mcp`
   [![AiLinkAny MCP connector](https://glama.ai/mcp/connectors/io.github.zhangduochuan/ailinkany/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhangduochuan/ailinkany)
   🔐 - Control authorized Windows PCs: files, shell, apps and task status; computer execution needs a subscription.
