@@ -1639,6 +1639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
+- [Sundogs](https://sundo.gs) `https://sundo.gs/mcp`
+  [![Sundogs MCP connector](https://glama.ai/mcp/connectors/gs.sundo/sundogs/badges/score.svg)](https://glama.ai/mcp/connectors/gs.sundo/sundogs)
+  🔓 - The self-hosted MCP and control plane for your sites: this store lets your agent find, claim and buy its apps.
 - [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
