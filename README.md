@@ -1933,6 +1933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shopify Speed Check](https://www.skaidigital.com/tools/shopify-speed-test) `https://tools.skaidigital.com/mcp`
   [![Shopify Speed Check MCP connector](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check)
   🔓 - Check a Shopify store's PageSpeed and Core Web Vitals, find slowing apps, compare plan fees, get a headless estimate.
+- [ShopsBuilder](https://shopsbuilder.app/en/docs/connect-ai-agent/) `https://mcp.shopsbuilder.app/mcp`
+  [![ShopsBuilder MCP connector](https://glama.ai/mcp/connectors/app.shopsbuilder/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.shopsbuilder/mcp)
+  🔐 - Launch and manage online stores with AI agents: products, inventory, pricing, orders and promotions.
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
