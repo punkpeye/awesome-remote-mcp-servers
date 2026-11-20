@@ -4075,6 +4075,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![RedReplier MCP connector](https://glama.ai/mcp/connectors/com.redreplier/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.redreplier/mcp-server)
   🔐 - Find Reddit, Hacker News, X and Bluesky posts mentioning your product, scored as leads.
 - [Repping.ai](https://www.repping.ai/mcp) `https://www.repping.ai/api/mcp`
+  [![Repping.ai MCP connector](https://glama.ai/mcp/connectors/io.github.reppingai/repping/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reppingai/repping)
   🔐 - Schedule, cross-post and analyze social posts on 20+ platforms (Instagram, TikTok, YouTube, X, LinkedIn, Threads). Prepares changes for human approval. [Agent skill](https://github.com/reppingai/social-media-scheduler-skill).
 
 - [ReputeMap](https://reputemap.com/mcp) `https://api.reputemap.com/mcp`
