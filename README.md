@@ -682,6 +682,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
   🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
 
+- [Oya Browser](https://oyabrowser.com) `https://oyabrowser.com/mcp/pool`
+  [![Oya Browser MCP connector](https://glama.ai/mcp/connectors/io.github.OyadotAI/oya-browser/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OyadotAI/oya-browser)
+  🔓🔐 - Real Chrome browser control plane for AI agents: browse, keep logins, human takeover, replay as Playwright playbooks, and HIPAA/BAA cloud option.
+
 - [pilotfish](https://pilotfish.gai.ventures) `https://pilotfish-be.gai.ventures/mcp`
   [![pilotfish MCP connector](https://glama.ai/mcp/connectors/io.github.gAI-ventures/pilotfish-managed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gAI-ventures/pilotfish-managed)
   🔐 - Run whole web tasks in a cloud browser signed in with your saved logins; returns answers, files and replays.
