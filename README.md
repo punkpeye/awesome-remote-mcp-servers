@@ -1258,6 +1258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
   [![Apple RAG MCP connector](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server)
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
+- [Arobi Immaculate](https://aura-genesis.org/immaculate/mcp/) `https://aura-genesis.org/api/v1/mcp`
+  [![Arobi Immaculate MCP connector](https://glama.ai/mcp/connectors/io.github.Arobi-Technology-Alliance-Lab/immaculate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Arobi-Technology-Alliance-Lab/immaculate)
+  🔑 - Pre-action AI governance verdicts (`arobi_authorize`), policy-aware model routing, and cryptographic evidence chain verification (`arobi_verify_chain`). Starts free with 110 credits.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 - Search the Astro documentation.
 - [Atlantic Agentic Labs](https://docs.atlanticagenticlabs.com/mcp/public/) `https://ask.atlanticagenticlabs.com/mcp`
