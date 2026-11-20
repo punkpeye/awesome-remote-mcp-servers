@@ -5315,6 +5315,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Maison de Talents](https://maisondetalents.com) `https://maisondetalents.com/api/mcp`
   [![Maison de Talents MCP connector](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents/badges/score.svg)](https://glama.ai/mcp/connectors/com.maisondetalents/maison-de-talents)
   🔓 - Search luxury, department-store and duty-free retail jobs in Korea, with salary benchmarks.
+- [Mare Liberum](https://mareliberum.dev) `https://mareliberum.dev/mcp`
+  [![Mare Liberum MCP connector](https://glama.ai/mcp/connectors/dev.mareliberum/sea/badges/score.svg)](https://glama.ai/mcp/connectors/dev.mareliberum/sea)
+  🔓 - Read pages as Markdown, map how agents use any website, find sites for a task; shared task paths and memory.
 - [MemeStack](https://memestack.ai/mcp-server) `https://mcp.memestack.ai/mcp`
   [![MemeStack MCP connector](https://glama.ai/mcp/connectors/ai.memestack/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memestack/mcp)
   🔓 - Search memes, charts, infographics and screenshots by meaning, in-image text or similarity; paid tools use x402/L402.
