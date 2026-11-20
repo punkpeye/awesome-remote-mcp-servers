@@ -4348,6 +4348,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [ACE Music MCP Server by useapi.net](https://useapi.net/docs/api-acemusic-v1/mcp) `https://api.useapi.net/v1/acemusic/mcp`
+  [![ACE Music MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/acemusic/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/acemusic)
+  🔐 - ACE Music songs from a prompt or your lyrics, covers, mashups, stems and scores on your own ACE Music account. Not affiliated with ACE Studio.
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
