@@ -1476,6 +1476,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
+- [Lighthouse Audit](https://apify.com/magnova/lighthouse-audit) `https://mcp.apify.com?tools=fetch-actor-details,magnova/lighthouse-audit`
+  [![Lighthouse Audit MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/lighthouse-audit-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/lighthouse-audit-mcp)
+  🔐 - Run Google Lighthouse audits on any URL for performance, SEO, accessibility, and best-practices scores.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
@@ -3677,6 +3680,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
+- [USPTO Trademark Search](https://apify.com/magnova/uspto-trademark-search) `https://mcp.apify.com?tools=fetch-actor-details,magnova/uspto-trademark-search`
+  [![USPTO Trademark Search MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/uspto-trademark-search-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/uspto-trademark-search-mcp)
+  🔐 - Search USPTO trademark records by wordmark, owner, or class, with live/dead status and filing dates.
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
   🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
