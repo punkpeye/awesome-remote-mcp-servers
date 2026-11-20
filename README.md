@@ -5595,6 +5595,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DomainCanary](https://domaincanary.com/guides/check-your-domain-from-chatgpt-or-claude) `https://domaincanary.com/mcp`
   [![DomainCanary MCP connector](https://glama.ai/mcp/connectors/com.domaincanary/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.domaincanary/mcp)
   🔓 - Check a domain's DMARC, SPF and DKIM, build an SPF record, explain bounces, read DMARC reports.
+- [Domainwächter](https://www.domainwaechter.de) `https://www.domainwaechter.de/api/v1/mcp`
+  [![Domainwächter MCP connector](https://glama.ai/mcp/connectors/io.github.martinschenk/domainwaechter/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.martinschenk/domainwaechter)
+  🔐 - Passive security check of a website you operate, with score, findings and a repair guide.
 - [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
   [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
   🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
