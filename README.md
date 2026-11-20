@@ -3877,6 +3877,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
+- [Exepal](https://exepal.com/docs#mcp) `https://api.exepal.com/mcp`
+  [![Exepal MCP connector](https://glama.ai/mcp/connectors/com.exepal/exepal/badges/score.svg)](https://glama.ai/mcp/connectors/com.exepal/exepal)
+  🔓 - Safe web reading with prompt-injection checks, secret and PII scans, MCP server audits, and SEO and website checks; 20 free calls a day, then pay per call with card credit.
 - [ExtensionDash](https://extensiondash.com/) `https://extensiondash.com/mcp`
   [![ExtensionDash MCP connector](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard)
   🔓 - Research Chrome and Firefox extension catalogs as a guest; OAuth unlocks your listing and keyword tracking.
