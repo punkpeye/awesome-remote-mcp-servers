@@ -6456,6 +6456,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FoundRole](https://www.foundrole.com/ai-search-mcp) `https://www.foundrole.com/mcp`
   [![FoundRole MCP connector](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foundrole/jobs-mcp-proxy)
   🔐 - Search jobs from company career pages, checked for ghost risk, pay vs market and visa sponsorship; track applications.
+- [Foxstep](https://foxstep.io) `https://app.foxstep.io/api/mcp`
+  [![Foxstep MCP connector](https://glama.ai/mcp/connectors/io.foxstep/foxstep/badges/score.svg)](https://glama.ai/mcp/connectors/io.foxstep/foxstep)
+  🔐 - Search, read, import, and step through illustrated Foxstep how-to guides and SOPs with screenshots.
 - [FynePDF](https://fynepdf.com/developers/docs/mcp) `https://api.fynepdf.com/mcp`
   [![FynePDF MCP connector](https://glama.ai/mcp/connectors/com.fynepdf/fynepdf/badges/score.svg)](https://glama.ai/mcp/connectors/com.fynepdf/fynepdf)
   🔓 - Compress, merge, split, convert, OCR, redact, sign and create PDFs, and ask cited questions; tools need a sign-in.
