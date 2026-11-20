@@ -5743,6 +5743,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Weio site check](https://weio.ai/services/site-check-api.html?utm_source=github&utm_medium=list&utm_campaign=awesome-mcp) `https://weio.ai/mcp`
   [![Weio site check MCP connector](https://glama.ai/mcp/connectors/ai.weio/site-check/badges/score.svg)](https://glama.ai/mcp/connectors/ai.weio/site-check)
   🔓 - HTTPS certificate check and published business facts (CMS, mobile viewport, role emails, phones) for any site.
+- [Who Got Hacked](https://whogothacked.com) `https://whogothacked.com/mcp`
+  [![Who Got Hacked MCP connector](https://glama.ai/mcp/connectors/com.whogothacked/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.whogothacked/mcp)
+  🔓 - Look up data breaches by organization or domain, each linked to its regulator filing or Have I Been Pwned record.
 - [withHuman](https://withhuman.ai) `https://app.withhuman.ai/api/mcp/v1`
   [![withHuman MCP connector](https://glama.ai/mcp/connectors/ai.withhuman/withhuman/badges/score.svg)](https://glama.ai/mcp/connectors/ai.withhuman/withhuman)
   🔐 - Configure approval pipelines, escalation paths and teams that decide which agent tool calls need a human.
