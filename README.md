@@ -2619,6 +2619,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [KzCalc](https://kzcalc.com/ru/mcp/) `https://mcp.kzcalc.com/mcp`
   [![KzCalc MCP connector](https://glama.ai/mcp/connectors/com.kzcalc/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/com.kzcalc/calculators)
   🔓 - Kazakhstan 2026 salary, tax, benefit and mortgage estimates with primary-source links.
+- [lafo.trade](https://lafo.trade/en/guide/assistant-ia) `https://mcp.lafo.trade/mcp`
+  [![lafo.trade MCP connector](https://glama.ai/mcp/connectors/trade.lafo/robots/badges/score.svg)](https://glama.ai/mcp/connectors/trade.lafo/robots)
+  🔑 - Read your lafo.trade crypto trading robots, positions and history, and pause them; never places orders.
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
