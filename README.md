@@ -4451,6 +4451,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Narrated 4K 60 fps films from a brief, realistic or animated, with every shot generated.
 - [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
   🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
+- [Kling AI China Plugin](https://klingai.com/) `https://klingai.com/mcp/plugin`
+  [![Kling AI China Plugin MCP connector](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai-cn/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai-cn)
+  🔐 - Official China-region Kling AI MCP plugin for image and video generation via OAuth; uses China Kling credits. Setup: [official guide](https://klingai.com/app/mcp/guide). npm: [Plugin](https://www.npmjs.com/package/@klingai/plugin-cn) · [CLI](https://www.npmjs.com/package/@klingai/cli-cn).
+- [Kling AI Global Plugin](https://kling.ai/) `https://kling.ai/mcp/plugin`
+  [![Kling AI Global Plugin MCP connector](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai)
+  🔐 - Official Global Kling AI MCP plugin for image and video generation via OAuth; uses Global Kling credits. Setup: [official guide](https://kling.ai/app/mcp/guide). npm: [Plugin](https://www.npmjs.com/package/@klingai/plugin-global) · [CLI](https://www.npmjs.com/package/@klingai/cli-global).
 - [Kling AI MCP Server by useapi.net](https://useapi.net/docs/api-kling-v1/mcp) `https://api.useapi.net/v1/kling/mcp`
   [![Kling AI MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/kling/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/kling)
   🔐 - Kling 4.0, v3 and Omni video, avatars, lip-sync and images on your own Kling account. Not affiliated with Kuaishou.
