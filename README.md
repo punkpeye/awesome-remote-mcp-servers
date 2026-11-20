@@ -1844,6 +1844,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
+- [Loyal Spark](https://loyalspark.online/for-agents) `https://api.loyalspark.online/loyalty-mcp`
+  [![Loyal Spark MCP connector](https://glama.ai/mcp/connectors/io.github.aspekt19/loyal-spark/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aspekt19/loyal-spark)
+  🔓 - Launch onchain loyalty programs on Base: mint points, manage rewards and vouchers; free reads, optional API key or x402 pay-per-call.
 - [Lupamundo](https://lupamundo.com) `https://lupamundo.com/mcp`
   [![Lupamundo MCP connector](https://glama.ai/mcp/connectors/com.lupamundo/lupamundo/badges/score.svg)](https://glama.ai/mcp/connectors/com.lupamundo/lupamundo)
   🔓 - Spanish buying guides for Mexico and Latin America: dated prices in pesos, sources and picks with partner links.
