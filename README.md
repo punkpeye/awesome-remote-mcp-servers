@@ -1820,6 +1820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [FOPilot](https://fopilot.com.ua/en) `https://fopilot.com.ua/mcp`
+  [![FOPilot MCP connector](https://glama.ai/mcp/connectors/ua.com.fopilot/fopilot/badges/score.svg)](https://glama.ai/mcp/connectors/ua.com.fopilot/fopilot)
+  🔐 - Nova Poshta waybills, Prom and Horoshop orders, Checkbox receipts and monobank statements for Ukrainian sellers.
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
@@ -5472,6 +5475,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolSnap](https://mcp.toolsnap.app) `https://mcp.toolsnap.app/mcp`
   [![ToolSnap MCP connector](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp)
   🔓 - Deterministic page-to-text, PDF, CSV/JSON, sitemap and feed extraction; 36 of 47 tools free, x402 for the rest.
+- [Torhy](https://torhy.com.ua/en) `https://torhy.com.ua/mcp`
+  [![Torhy MCP connector](https://glama.ai/mcp/connectors/ua.com.torhy/tenders/badges/score.svg)](https://glama.ai/mcp/connectors/ua.com.torhy/tenders)
+  🔐 - Search Ukrainian Prozorro and EU TED tenders, read tender documents, compare award prices and set alerts.
 - [Trends MCP](https://trendsmcp.ai) `https://api.trendsmcp.ai/mcp`
   [![Trends MCP connector](https://glama.ai/mcp/connectors/ai.trendsmcp/trends/badges/score.svg)](https://glama.ai/mcp/connectors/ai.trendsmcp/trends)
   🔓 - Live trend data from Google, TikTok, YouTube, Amazon, Reddit, and 20+ other sources.
