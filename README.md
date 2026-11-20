@@ -5654,7 +5654,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Domain intelligence: compromised domain and IP checks, TLD stats, Top 1M ranks, new domains, registrars and DNS.
 - [NorthBound Sentinel](https://northboundintelligence.com) `https://app.northboundintelligence.com/api/mcp`
   [![NorthBound Sentinel MCP connector](https://glama.ai/mcp/connectors/com.northboundintelligence/sentinel/badges/score.svg)](https://glama.ai/mcp/connectors/com.northboundintelligence/sentinel)
-  🔑 - Review your attack surface and findings and launch governed security tests on domains you own.
+  🔓 - Connect your agent to NorthBound Sentinel; discovery is open, an API key unlocks findings and governed tests.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
