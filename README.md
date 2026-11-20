@@ -166,6 +166,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CodeTrendy](https://codetrendy.com/mcp) `https://codetrendy.com/api/mcp`
   [![CodeTrendy MCP connector](https://glama.ai/mcp/connectors/com.codetrendy/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.codetrendy/directory)
   🔓 - Search 650+ reviewed SaaS, AI and developer tools, find alternatives to a product and browse trending launches.
+- [Conduit Router](https://router.pipavia.com) `https://router.pipavia.com/mcp`
+  [![Conduit Router MCP connector](https://glama.ai/mcp/connectors/org.aimlds/conduit-router/badges/score.svg)](https://glama.ai/mcp/connectors/org.aimlds/conduit-router)
+  🔓 - Governed MCP routing: every agent call is spend-capped before it fires and sealed with a publicly verifiable receipt.
 - [CorpusIQ](https://www.corpusiq.io/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers) `https://mcp2.corpusiq.io/mcp`
   [![CorpusIQ MCP connector](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp)
   🔓 - One MCP endpoint for 40+ business systems; tools list without a key, per-connector sign-in for cited answers.
