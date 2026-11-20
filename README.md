@@ -4219,6 +4219,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Customer Reviews](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-store-review-scraper,delicious_zebu/yelp-reviews-scraper,delicious_zebu/tripadvisor-review-collector,delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters,delicious_zebu/naver-shopping-reviews-scraper,delicious_zebu/coupang-reviews-scraper`
   [![Zebu Data - Customer Reviews MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews)
   🔐 - Reviews from Google Maps, Yelp, TripAdvisor, eBay, Naver and Coupang, with ratings and dates.
+- [ZeroBounce](https://www.zerobounce.net/mcp) `https://mcp.zerobounce.net/mcp`
+  [![ZeroBounce MCP connector](https://glama.ai/mcp/connectors/net.zerobounce/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.zerobounce/mcp)
+  🔐 - Validate, score and find email addresses, clean lists in bulk, and run inbox placement tests and email warmup.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
