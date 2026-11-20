@@ -4374,7 +4374,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![HefestoAI MCP connector](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai)
   🔓 - Checks code an agent wrote for secrets, injection risks and declared-vs-real dependency drift before merge.
 - [IDigiTrust SSL Toolkit](https://tools.idigitrust.com) `https://tools.idigitrust.com/api/v1/mcp`
-  🔓 - Free SSL/PKI toolkit: HTTPS audits with GM SM2/TLCP cipher detection, DCV pre-checks (byte-level DNS/HTTP, CAA, WAF), CSR generation/decoding, certificate chain & revocation checks, PEM/P12/JKS conversion.
+  [![IDigiTrust SSL Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.Mintreetech/ssl-toolkit-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mintreetech/ssl-toolkit-mcp)
+  🔓 - Free SSL/PKI tools for HTTPS/TLCP audits, DCV checks, CSR generation, certificate checks, and PEM/P12/JKS conversion.
 - [InjectScan](https://api.youraitools.co/injectscan/) `https://api.youraitools.co/injectscan/mcp`
   [![InjectScan MCP connector](https://glama.ai/mcp/connectors/co.youraitools/injectscan/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/injectscan)
   🔓 - Scores text, web pages and MCP tool definitions for prompt injection; 30 free calls/day, then x402 USDC.
