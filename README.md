@@ -4083,6 +4083,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Revup](https://revup.com/docs/mcp/) `https://revup.com/mcp`
   [![Revup MCP connector](https://glama.ai/mcp/connectors/com.revup/revup/badges/score.svg)](https://glama.ai/mcp/connectors/com.revup/revup)
   🔐 - Create, customize, preview and report on sweepstakes, contests, forms, surveys, quizzes and other promotions.
+- [RFWIN](https://rfwin.uk) `https://app.rewardsfuel.com/api/mcp/public`
+  [![RFWIN MCP connector](https://glama.ai/mcp/connectors/com.rewardsfuel.app/rfwin-provably-fair-winner-draws/badges/score.svg)](https://glama.ai/mcp/connectors/com.rewardsfuel.app/rfwin-provably-fair-winner-draws)
+  🔓 - Free provably fair giveaway winner draws: run a draw, get a public proof link anyone can verify.
+
 - [RoboDebut](https://robodebut.com) `https://robodebut.com/api/mcp`
   [![RoboDebut MCP connector](https://glama.ai/mcp/connectors/com.robodebut/submissions/badges/score.svg)](https://glama.ai/mcp/connectors/com.robodebut/submissions)
   🔓 - Submit projects for manual review; homepage badge and private email required; built by LinkBunny's founder.
