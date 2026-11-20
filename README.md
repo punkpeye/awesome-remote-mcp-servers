@@ -3300,6 +3300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [B2B Hiring Intent & 9-ATS Signals](https://apify.com/yan0lovesha/multi-ats-jobs-hiring-intent) `https://mcp.apify.com/?tools=yan0lovesha/multi-ats-jobs-hiring-intent`
+  [![B2B Hiring Intent & 9-ATS Signals MCP connector](https://glama.ai/mcp/connectors/io.github.yan0lovesha/hiring-intent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yan0lovesha/hiring-intent-mcp)
+  🔐 - Query 9 ATS job boards for live postings, disclosed salary and equity bands, 125+ tech-stack tags, and hiring intent.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
