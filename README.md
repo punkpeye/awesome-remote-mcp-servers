@@ -5923,6 +5923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialRobot](https://socialrobot.io/mcp) `https://socialrobot.io/api/mcp`
   [![SocialRobot MCP connector](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp)
   🔓 - Schedule and analyze posts on 9 platforms, including Instagram, LinkedIn, X and TikTok; tools need OAuth.
+- [SocialTap](https://socialtap.dev/mcp/) `https://socialtap.dev/mcp`
+  [![SocialTap MCP connector](https://glama.ai/mcp/connectors/dev.socialtap/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.socialtap/mcp)
+  🔐 - Live public posts, profiles, comments and transcripts from LinkedIn, Reddit, X, TikTok and 30+ more platforms.
 - [SocialToAI](https://socialtoai.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://mcp.socialtoai.com/mcp`
   [![SocialToAI MCP connector](https://glama.ai/mcp/connectors/com.socialtoai/socialtoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialtoai/socialtoai)
   🔐 - Read public social media posts, comments, profiles and trends from 18 platforms, billed per call.
