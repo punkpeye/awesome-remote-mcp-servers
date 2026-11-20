@@ -1841,6 +1841,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iDevice](https://idevice.com) `https://idevice.com/api/mcp`
   [![iDevice MCP connector](https://glama.ai/mcp/connectors/com.idevice/wearables/badges/score.svg)](https://glama.ai/mcp/connectors/com.idevice/wearables)
   🔓 - Wearable and phone prices, specs, compatibility, release dates and sourced reports for buyers.
+- [iEscrow Marketplace](https://iescrow.io/ai) `https://api.iescrow.io/mcp/public`
+  [![iEscrow Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.iEscrow/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.iEscrow/marketplace)
+  🔓 - Search an escrow marketplace: products, services and P2P crypto offers, with seller track records and live quotes.
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
