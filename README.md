@@ -6531,6 +6531,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Remote Impact Jobs](https://remoteimpact.org/developers/) `https://remoteimpact.org/mcp/`
   [![Remote Impact Jobs MCP connector](https://glama.ai/mcp/connectors/org.remoteimpact/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/org.remoteimpact/jobs)
   🔓 - Search remote jobs at climate, global health, AI safety and other impact organizations by country, level and pay.
+- [Ren AI](https://tryren.com/mcp) `https://mcp.tryren.com/mcp`
+  [![Ren AI MCP connector](https://glama.ai/mcp/connectors/com.tryren/ren/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryren/ren)
+  🔐 - Prep 1:1s, draft feedback on the Accountability Dial and work through hard conversations at work.
 - [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
   [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
   🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
