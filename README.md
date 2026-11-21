@@ -3481,6 +3481,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ontonym](https://www.ontonym.com) `https://mcp.ontonym.com/mcp`
   [![Ontonym MCP connector](https://glama.ai/mcp/connectors/com.ontonym/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.ontonym/memory)
   🔐 - Give your agents your team's real data: read the shared graph, and propose actions a human approves.
+- [OpenCurrent](https://opencurrent.ai/agents) `https://opencurrent.ai/mcp`
+  [![OpenCurrent MCP connector](https://glama.ai/mcp/connectors/ai.opencurrent/opencurrent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.opencurrent/opencurrent)
+  🔓 - Search and fetch dated, step-by-step AI workflows and agent setups, with sources and tried-it results (Korean).
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
