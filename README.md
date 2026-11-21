@@ -5401,7 +5401,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search US and Canadian government recall notices by keyword, UPC, product name, make and model, or photo.
 - [Regga](https://regga.ai) `https://regga.ai/mcp`
   [![Regga MCP connector](https://glama.ai/mcp/connectors/ai.regga/regga/badges/score.svg)](https://glama.ai/mcp/connectors/ai.regga/regga)
-  🔐 - When an AI says something doesn't exist, Regga shows what it missed, with direct links.
+  🔓 - When an AI says something doesn't exist, Regga shows what it missed, with direct links.
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
