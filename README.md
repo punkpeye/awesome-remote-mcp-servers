@@ -1867,6 +1867,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search luxury-watch listings, reference data, sourced auction records, market estimates and upcoming auctions.
 
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
+  [![Nexez MCP connector](https://glama.ai/mcp/connectors/ai.nexez/commerce/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nexez/commerce)
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NFC Tap Builder by Tap.Giving](https://tap.giving) `https://tap.giving/mcp`
   [![NFC Tap Builder by Tap.Giving MCP connector](https://glama.ai/mcp/connectors/giving.tap/nfc-tap-builder-by-tapgiving/badges/score.svg)](https://glama.ai/mcp/connectors/giving.tap/nfc-tap-builder-by-tapgiving)
