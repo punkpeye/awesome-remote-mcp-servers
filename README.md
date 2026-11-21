@@ -5725,6 +5725,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Solana Pulse](https://solana-pulse-gateway-1021990235790.us-central1.run.app) `https://solana-pulse-gateway-1021990235790.us-central1.run.app/mcp`
   [![Solana Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.Timothymycompc/solana-pulse-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Timothymycompc/solana-pulse-gateway)
   🔓 - Safety checks for AI agents on Solana: transaction preflight, intent matching and token safety verdicts.
+- [Stormap](https://stormap.ai/developers) `https://stormap.ai/mcp`
+  [![Stormap MCP connector](https://glama.ai/mcp/connectors/io.github.boriskendev/stormap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.boriskendev/stormap)
+  🔓 - Checks npm/PyPI packages and public GitHub repos for malware and poisoned AI-agent configs.
 - [TamingDNS](https://tamingdns.com/mcp) `https://tamingdns.com/mcp`
   [![TamingDNS MCP connector](https://glama.ai/mcp/connectors/com.tamingdns/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tamingdns/mcp)
   🔓 - Checks SPF, DKIM, DMARC, MX, MTA-STS, TLS-RPT, BIMI, DANE and DNSSEC, and analyses email headers.
