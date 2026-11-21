@@ -4478,6 +4478,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiCompress](https://micompress.com/mcp-server) `https://micompress.com/mcp`
   [![MiCompress MCP connector](https://glama.ai/mcp/connectors/com.micompress/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.micompress/mcp)
   🔓 - Compress images, PDFs, video, audio and Office files from a URL and get a download link to the smaller file.
+- [MiniMax MCP Server by useapi.net](https://useapi.net/docs/api-minimax-v1/mcp) `https://api.useapi.net/v1/minimax/mcp`
+  [![MiniMax MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/minimax/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/minimax)
+  🔐 - MiniMax (Hailuo) video, images, songs, speech and voice cloning on your own accounts. Not affiliated with MiniMax.
 - [MockClip](https://mockclip.com/integrations) `https://mockclip.com/api/mcp`
   [![MockClip MCP connector](https://glama.ai/mcp/connectors/com.mockclip/mockclip/badges/score.svg)](https://glama.ai/mcp/connectors/com.mockclip/mockclip)
   🔑 - Create fake chat and phone-screen videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit) as MP4.
