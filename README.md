@@ -2120,6 +2120,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sunrise-Sunset.org](https://sunrise-sunset.org/mcp) `https://api.sunrise-sunset.org/mcp`
   [![Sunrise-Sunset.org MCP connector](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times/badges/score.svg)](https://glama.ai/mcp/connectors/org.sunrise-sunset/sun-times)
   🔓 - Sunrise, sunset, twilight, golden hour and moon times for any place and date, worldwide.
+- [Swellwise](https://www.swellwise.io/mcp) `https://www.swellwise.io/api/mcp`
+  [![Swellwise MCP connector](https://glama.ai/mcp/connectors/io.swellwise/forecast/badges/score.svg)](https://glama.ai/mcp/connectors/io.swellwise/forecast)
+  🔓 - Surf forecasts for Portugal: hourly swell, wind and tides for hand-reviewed beaches.
 - [thirdtrail](https://thirdtrail.life/docs/mcp/) `https://thirdtrail.life/mcp`
   [![thirdtrail MCP connector](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail)
   🔓 - Elevation-corrected sunrise, sunset, twilight, moon, solar irradiance, prayer and tide times; paid key to call tools.
