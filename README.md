@@ -6077,6 +6077,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontDesk Chat](https://frontdeskchat.com/features/mcp/) `https://api.frontdeskchat.com/mcp`
   [![FrontDesk Chat MCP connector](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.5ak3t/frontdeskchat)
   🔐 - Read your AI website front desk's conversations, visitors, bookings and analytics, and draft desk changes for approval.
+- [Gleap](https://www.gleap.ai/mcp) `https://mcp.gleap.ai/mcp`
+  [![Gleap MCP connector](https://glama.ai/mcp/connectors/ai.gleap/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.gleap/mcp)
+  🔐 - Search and triage support tickets, reply to customers, look up contacts and CRM data, and write help center articles.
 - [HelpCenter.io](https://helpcenter.io/integrations/mcp) `https://mcp.helpcenter.io`
   [![HelpCenter.io MCP connector](https://glama.ai/mcp/connectors/io.helpcenter/authoring/badges/score.svg)](https://glama.ai/mcp/connectors/io.helpcenter/authoring)
   🔐 - Write, organize, measure and restyle a HelpCenter.io help center: articles, categories, analytics and design.
