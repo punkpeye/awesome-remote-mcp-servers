@@ -4511,6 +4511,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Revid](https://www.revid.ai/mcp) `https://www.revid.ai/api/mcp`
   [![Revid MCP connector](https://glama.ai/mcp/connectors/ai.revid/revid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.revid/revid)
   🔐 - Research what goes viral, make finished short-form videos and post them to TikTok, YouTube, Instagram and X.
+- [RipClip](https://ripclip.org/ai-assistants) `https://ripclip.org/mcp/`
+  [![RipClip MCP connector](https://glama.ai/mcp/connectors/org.ripclip/ripclip/badges/score.svg)](https://glama.ai/mcp/connectors/org.ripclip/ripclip)
+  🔓 - Turn Twitch and Kick streams and long videos into captioned shorts, then edit them, draft posts and track views.
 - [RiverScript](https://riverscript.com/docs/platform-details/mcp) `https://riverscript.com/mcp`
   [![RiverScript MCP connector](https://glama.ai/mcp/connectors/com.riverscript/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.riverscript/mcp)
   🔓 - Get the text of any transcript or translation shared with a RiverScript share link.
