@@ -4432,6 +4432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
+- [i2v.ai](https://i2v.ai/mcp) `https://i2v.ai/api/mcp`
+  [![i2v.ai MCP connector](https://glama.ai/mcp/connectors/io.github.i2v-ai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.i2v-ai/mcp)
+  🔐 - Generate images and videos across 12 image and 16 video models with a USD quote before every paid task.
 - [Image Metadata Inspector](https://metadataremoverai.com) `https://metadataremoverai.com/mcp`
   [![Image Metadata Inspector MCP connector](https://glama.ai/mcp/connectors/com.metadataremoverai/metadata-inspector/badges/score.svg)](https://glama.ai/mcp/connectors/com.metadataremoverai/metadata-inspector)
   🔓 - Read EXIF, GPS, XMP, C2PA and AI-generator metadata from a public image or video URL.
