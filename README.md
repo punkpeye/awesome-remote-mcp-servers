@@ -4369,6 +4369,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
+- [BlitzReels](https://blitzreels.com/mcp) `https://www.blitzreels.com/api/mcp`
+  [![BlitzReels MCP connector](https://glama.ai/mcp/connectors/com.blitzreels/blitzreels/badges/score.svg)](https://glama.ai/mcp/connectors/com.blitzreels/blitzreels)
+  🔐 - Clip long videos into captioned shorts, edit timelines, generate images and videos, and export finished files.
 - [BudgetPixel](https://budgetpixel.com/mcp) `https://mcp.budgetpixel.com/mcp`
   [![BudgetPixel MCP connector](https://glama.ai/mcp/connectors/com.budgetpixel/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.budgetpixel/mcp)
   🔓 - Generate images, video, music and sound effects, then upscale them; the tools need a BudgetPixel sign-in (OAuth).
