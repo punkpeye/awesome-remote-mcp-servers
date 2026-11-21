@@ -4227,6 +4227,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
   [![Baromio MCP connector](https://glama.ai/mcp/connectors/io.baromio/baromio/badges/score.svg)](https://glama.ai/mcp/connectors/io.baromio/baromio)
   🔐 - Read uptime, incidents, SSL, domain expiry and Core Web Vitals; create, edit and pause monitors on paid plans.
+- [Beamfar](https://beamfar.com/mcp-server) `https://api.beamfar.com/mcp`
+  [![Beamfar MCP connector](https://glama.ai/mcp/connectors/com.beamfar/website-monitoring/badges/score.svg)](https://glama.ai/mcp/connectors/com.beamfar/website-monitoring)
+  🔐 - Read-only website monitoring: two-region uptime, incident timelines, DNS/SSL/SEO diffs, and security findings.
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
 - [Codex Reset](https://codex-reset.com/developers) `https://codex-reset.com/mcp`
