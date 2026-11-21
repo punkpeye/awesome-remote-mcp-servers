@@ -5176,6 +5176,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
   [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔐 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners (masked CPF).
+- [Company Data MCP (SteadyScrape)](https://mcp.steadyscrape.dev/company) `https://mcp.steadyscrape.dev/company/mcp`
+  [![Company Data MCP (SteadyScrape) MCP connector](https://glama.ai/mcp/connectors/dev.steadyscrape/company-data/badges/score.svg)](https://glama.ai/mcp/connectors/dev.steadyscrape/company-data)
+  🔓 - Company profiles from public websites, lists of sites using a named technology, and hiring summaries.
 - [Conqueia](https://conqueia.com) `https://conqueia.com/mcp`
   [![Conqueia MCP connector](https://glama.ai/mcp/connectors/com.conqueia/conqueia/badges/score.svg)](https://glama.ai/mcp/connectors/com.conqueia/conqueia)
   🔓 - Spanish-language directory of 1,300+ real AI use cases, skills and tools for business; search, read entries, get picks.
