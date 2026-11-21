@@ -1199,6 +1199,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [chartlink](https://chartlink.app) `https://chartlink.app/mcp`
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
+- [Fluxygram](https://fluxygram.app) `https://fluxygram.app/mcp`
+  [![Fluxygram MCP connector](https://glama.ai/mcp/connectors/app.fluxygram/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxygram/mcp)
+  🔓 - Animated, step-by-step diagrams from a small JSON format, validated and shared as links to watch, edit or present.
 - [ngx-json-render UI](https://ngx-json-render.vercel.app) `https://ngx-json-render.vercel.app/mcp`
   [![ngx-json-render UI MCP connector](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui)
   🔓 - Renders dashboards, forms and tables as Angular Material components inline in the chat (MCP App).
