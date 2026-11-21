@@ -3300,6 +3300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [BirJob](https://www.birjob.com/ai) `https://www.birjob.com/mcp`
+  [![BirJob MCP connector](https://glama.ai/mcp/connectors/com.birjob/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.birjob/jobs)
+  🔓 - Azerbaijan's job market in one search: about 10,000 jobs from about 90 sites, each listed once.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
