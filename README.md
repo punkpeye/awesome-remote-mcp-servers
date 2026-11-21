@@ -1748,6 +1748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [402post](https://402post.com) `https://402post.com/mcp`
   [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
   🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
+- [AddSynapse Store Manager for WooCommerce](https://addsynapse.com/woocommerce-mcp) `https://api.addsynapse.com/mcp/woocommerce`
+  [![AddSynapse Store Manager for WooCommerce MCP connector](https://glama.ai/mcp/connectors/com.addsynapse/woocommerce/badges/score.svg)](https://glama.ai/mcp/connectors/com.addsynapse/woocommerce)
+  🔐 - Manage a WooCommerce store from Claude or ChatGPT: products, prices, stock, SEO; every change is a draft you approve.
 - [AgentXray](https://agentxray.ai) `https://agentxray.ai/api/mcp`
   [![AgentXray MCP connector](https://glama.ai/mcp/connectors/ai.agentxray/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentxray/mcp)
   🔐 - Amazon Seller Central and Ads: profit from your own settlement reports, ads judged on net profit, drafts you approve.
@@ -3689,6 +3692,14 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [402registry](https://402registry.com) `https://402registry.com/mcp`
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
+
+- [AddSynapse Ads Manager](https://addsynapse.com/ads) `https://api.addsynapse.com/mcp/ads`
+  [![AddSynapse Ads Manager MCP connector](https://glama.ai/mcp/connectors/com.addsynapse/ads/badges/score.svg)](https://glama.ai/mcp/connectors/com.addsynapse/ads)
+  🔐 - Read-only Google Ads: what runs, what it costs, what changed and which search terms spend without converting.
+
+- [AddSynapse Analytics](https://addsynapse.com/analytics) `https://api.addsynapse.com/mcp/analytics`
+  [![AddSynapse Analytics MCP connector](https://glama.ai/mcp/connectors/com.addsynapse/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.addsynapse/analytics)
+  🔐 - Read-only Google Analytics 4 and Search Console: why traffic or sales changed and which pages lose Google clicks.
 
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
