@@ -4408,6 +4408,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [Echoteka](https://echoteka.ai/mcp) `https://echoteka.ai/mcp`
+  [![Echoteka MCP connector](https://glama.ai/mcp/connectors/ai.echoteka/mastering/badges/score.svg)](https://glama.ai/mcp/connectors/ai.echoteka/mastering)
+  🔓 - Audio mastering for AI agents: measure LUFS, clean AI-generator artifacts, preview presets, master a track.
 - [Eikino](https://eikino.com) `https://eikino.com/mcp`
   [![Eikino MCP connector](https://glama.ai/mcp/connectors/com.eikino/eikino/badges/score.svg)](https://glama.ai/mcp/connectors/com.eikino/eikino)
   🔓 - Geolocate photos or video frames and check media for AI generation signs.
