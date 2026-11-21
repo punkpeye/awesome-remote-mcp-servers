@@ -4213,6 +4213,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
 
+- [Word of Agent](https://wordofagent.app/connector) `https://app.wordofagent.app/mcp`
+  [![Word of Agent MCP connector](https://glama.ai/mcp/connectors/app.wordofagent/wordofagent/badges/score.svg)](https://glama.ai/mcp/connectors/app.wordofagent/wordofagent)
+  🔐 - Checks if search engines and AI assistants can find, read and recommend a site, and what to change.
+
 - [wordradar](https://www.wordradar.dev) `https://www.wordradar.dev/mcp`
   [![wordradar MCP connector](https://glama.ai/mcp/connectors/io.github.lian-yang/wordradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lian-yang/wordradar)
   🔓 - Live keyword radar: first-seen dates on a million-word suggest ledger, HN launch tracking and SERP difficulty scores.
