@@ -4440,8 +4440,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
-- [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
-  🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
 - [Kelpo](https://kelpo.app) `https://kelpo.app/api/mcp`
   [![Kelpo MCP connector](https://glama.ai/mcp/connectors/app.kelpo/kelpo/badges/score.svg)](https://glama.ai/mcp/connectors/app.kelpo/kelpo)
   🔐 - Create vertical UGC-style videos with AI actors or your own photo and voice, with automatic Shorts-style editing.
@@ -4451,6 +4449,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kleo](https://kleooai.com) `https://mcp.kleooai.com/mcp`
   [![Kleo MCP connector](https://glama.ai/mcp/connectors/com.kleooai/kleo/badges/score.svg)](https://glama.ai/mcp/connectors/com.kleooai/kleo)
   🔐 - Narrated 4K 60 fps films from a brief, realistic or animated, with every shot generated.
+- [Katto](https://katto.tech) `https://mcp.katto.tech/mcp`
+  🔐 - Turn long videos, podcasts and Twitch VODs into scored, captioned, vertical 9:16 clips.
 - [Kling AI China Official Plugin](https://klingai.com/app/mcp/guide) `https://klingai.com/mcp/plugin`
   [![Kling AI China Official Plugin MCP connector](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai-cn/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.klingai-dev/kling-ai-cn)
   🔐 - Official Kling AI China plugin for image/video generation, task status, and credit checks. Uses China-region credits.
