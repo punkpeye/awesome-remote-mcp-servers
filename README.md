@@ -4547,6 +4547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [TemPolor MCP Server by useapi.net](https://useapi.net/docs/api-tempolor-v1/mcp) `https://api.useapi.net/v1/tempolor/mcp`
+  [![TemPolor MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/tempolor/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/tempolor)
+  🔐 - TemPolor royalty-free songs, instrumentals, cloned-voice vocals and stems on your own TemPolor plan. Not affiliated.
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
