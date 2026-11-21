@@ -2774,6 +2774,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Radikabunavi](https://radikabunavi.com/mcp-service) `https://radikabunavi.com/mcp`
   [![Radikabunavi MCP connector](https://glama.ai/mcp/connectors/com.radikabunavi/japan-stock-edinet/badges/score.svg)](https://glama.ai/mcp/connectors/com.radikabunavi/japan-stock-edinet)
   🔐 - Japanese listed-company data from EDINET and TDnet: financials, 6-axis score, ideal price, DCF, screening.
+- [Raise Lens](https://raiselens.com/connect) `https://mcp.raiselens.com/mcp`
+  [![Raise Lens MCP connector](https://glama.ai/mcp/connectors/com.raiselens/raise-lens/badges/score.svg)](https://glama.ai/mcp/connectors/com.raiselens/raise-lens)
+  🔐 - Search sustainability grants, tenders and funders worldwide, with open status, deadlines and source links.
 - [RateSonar](https://ratesonar.com) `https://api.ratesonar.com/mcp`
   [![RateSonar MCP connector](https://glama.ai/mcp/connectors/com.ratesonar/rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.ratesonar/rates)
   🔓 - Daily dated record of advertised Australian bank and lender rates: compare, history, rate changes and RBA curves.
