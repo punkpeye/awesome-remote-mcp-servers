@@ -2108,7 +2108,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NWS Weather](https://github.com/Thx93/mcp-weather-server) `https://agent-evidence.thx93.dev/weather/mcp`
   [![NWS Weather MCP connector](https://glama.ai/mcp/connectors/io.github.Thx93/weather/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thx93/weather)
   🔓 - National Weather Service alerts by state code and five-period forecasts by latitude and longitude.
-- [Peskio](https://peskio.com/agents.md) `https://peskio.com/mcp`
+- [Peskio](https://peskio.com/en/mcp) `https://peskio.com/mcp`
   [![Peskio MCP connector](https://glama.ai/mcp/connectors/com.peskio/peskio/badges/score.svg)](https://glama.ai/mcp/connectors/com.peskio/peskio)
   🔓 - Tides, sea conditions and fishing day scores for 48,000+ coastal places in Europe, North Africa and the US.
 - [Powietrze PL (powietrze-mcp)](https://powietrze.compabase.com) `https://powietrze.compabase.com/mcp`
