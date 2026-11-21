@@ -4408,6 +4408,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [Dreamina MCP Server by useapi.net](https://useapi.net/docs/api-dreamina-v1/mcp) `https://api.useapi.net/v1/dreamina/mcp`
+  [![Dreamina MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/dreamina/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/dreamina)
+  🔐 - Seedance video and images on your own Dreamina (CapCut) accounts, drafts to full quality. Not affiliated with ByteDance.
 - [Eikino](https://eikino.com) `https://eikino.com/mcp`
   [![Eikino MCP connector](https://glama.ai/mcp/connectors/com.eikino/eikino/badges/score.svg)](https://glama.ai/mcp/connectors/com.eikino/eikino)
   🔓 - Geolocate photos or video frames and check media for AI generation signs.
