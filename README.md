@@ -4532,6 +4532,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scribiz](https://scribiz.com/video-mcp) `https://scribiz.com/mcp`
   [![Scribiz MCP connector](https://glama.ai/mcp/connectors/com.scribiz/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribiz/mcp)
   🔓 - Video transcripts, scene-deduped on-screen OCR notes, summaries, chapters and cited moments from video links.
+- [Scriptivox](https://www.scriptivox.com/docs/mcp) `https://platform.scriptivox.com/mcp`
+  [![Scriptivox MCP connector](https://glama.ai/mcp/connectors/com.scriptivox.www/transcription/badges/score.svg)](https://glama.ai/mcp/connectors/com.scriptivox.www/transcription)
+  🔐 - Transcribe audio, video and meetings in 119 languages, then read, edit and export transcripts and subtitles.
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
