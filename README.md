@@ -5357,6 +5357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
   [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
   🔓 - Read any public page as clean Markdown, page metadata, or a page plus 4 same-site pages; USDC per call via x402.
+- [Pandapi](https://apify.com/blueberry_rainstorm/pandapi-mcp-server) `https://mcp.apify.com/?tools=blueberry_rainstorm/pandapi-mcp-server`
+  [![Pandapi MCP connector](https://glama.ai/mcp/connectors/io.github.rabroubx-coder/pandapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rabroubx-coder/pandapi)
+  🔐 - Web pages and PDFs to Markdown, PDF tables, screenshots, site contacts, public tenders and app store reviews.
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Free search of people, companies and open roles on an open professional network.
