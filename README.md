@@ -5541,6 +5541,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticRail](https://agenticrail.nz/docs/) `https://mcp.agenticrail.nz/`
   [![AgenticRail MCP connector](https://glama.ai/mcp/connectors/nz.agenticrail/gate/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agenticrail/gate)
   🔓 - Gate for AI agent steps: ALLOW or DENY before a step runs, sealed into signed receipts that verify offline.
+- [API Key Safety MCP](https://quantaira.app/api-key-safety-checker?utm_source=awesome-remote-mcp&utm_medium=referral&utm_campaign=mcp) `https://api-key-safety-mcp.agentgate.workers.dev/mcp`
+  [![API Key Safety MCP MCP connector](https://glama.ai/mcp/connectors/io.github.Duffey234/api-key-safety-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Duffey234/api-key-safety-mcp)
+  🔓 - Read-only exchange API key guidance for trading bots: permissions, error fixes, red flags; takes no keys.
 - [APIR Agent Verification](https://apir.ai/developers) `https://apir.ai/api/mcp`
   [![APIR Agent Verification MCP connector](https://glama.ai/mcp/connectors/ai.apir/verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.apir/verify)
   🔓 - Verify an AI agent's signed credential and the human mandate behind it; keys are public for offline checks.
