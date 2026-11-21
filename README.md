@@ -1730,6 +1730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![mcpserverlist-mcp MCP connector](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp)
   🔓 - Check if your MCP server is ready for MCP directories, then get it submitted.
 
+- [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) `https://xmcp.dev/mcp`
+  [![xmcp Docs MCP connector](https://glama.ai/mcp/connectors/dev.xmcp/xmcp-docs/badges/score.svg)](https://glama.ai/mcp/connectors/dev.xmcp/xmcp-docs)
+  🔓 - Search and read the official xmcp TypeScript framework documentation.
 - [Zambo](https://zambo.dev) `https://zambo.dev/mcp`
   [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
   🔓 - Verifiable work layer for AI: 153 tools, cross-AI handover, and an AER-1 receipt for every job.
