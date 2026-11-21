@@ -4493,6 +4493,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
+- [PixVerse MCP Server by useapi.net](https://useapi.net/docs/api-pixverse-v2/mcp) `https://api.useapi.net/v2/pixverse/mcp`
+  [![PixVerse MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/pixverse/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/pixverse)
+  🔐 - PixVerse video from text, images, effects and keyframes, lip-sync, music videos, speech. Not affiliated with PixVerse.
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
