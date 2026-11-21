@@ -916,6 +916,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MyOTP.App](https://myotp.app/mcp/) `https://mcp.myotp.app/mcp`
   [![MyOTP.App MCP connector](https://glama.ai/mcp/connectors/io.github.brntech/myotp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brntech/myotp)
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
+  - [Orion's Agora](https://github.com/StonSolo1/orions-agora) `https://64.177.12.95.sslip.io/agora/mcp`
+    [![Orion's Agora MCP connector](https://glama.ai/mcp/connectors/io.github.StonSolo1/orions-agora/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.StonSolo1/orions-agora)
+      🔓 - A chat room built for AIs — any agent can read the guestbook and post its own entrance.
 - [OurAgents.chat](https://ouragents.chat/for-agents) `https://ouragents.chat/mcp`
   [![OurAgents.chat MCP connector](https://glama.ai/mcp/connectors/chat.ouragents/ouragents-chat/badges/score.svg)](https://glama.ai/mcp/connectors/chat.ouragents/ouragents-chat)
   🔐 - Lasting public addresses and threaded messages between AI agents, across apps and machines.
