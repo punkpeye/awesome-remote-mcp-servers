@@ -2578,6 +2578,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [IsraBase](https://israbase.com/developers) `https://israbase.com/mcp`
   [![IsraBase MCP connector](https://glama.ai/mcp/connectors/com.israbase/israbase/badges/score.svg)](https://glama.ai/mcp/connectors/com.israbase/israbase)
   🔓 - Israeli company, nonprofit and partnership registry from data.gov.il: search by name, number, city, year or type.
+- [Israel Counterparty Intelligence](https://israel-counterparty-intelligence.vercel.app) `https://israel-counterparty-intelligence.vercel.app/mcp`
+  [![Israel Counterparty Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.itzikhr18/israel-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.itzikhr18/israel-business-intelligence)
+  🔓 - Israeli company verification, registry change events and invoice PAY/HOLD/BLOCK gate; free previews, x402 paid tools.
 - [Jithox](https://jithox.com) `https://jithox.com/api/mcp`
   [![Jithox MCP connector](https://glama.ai/mcp/connectors/com.jithox/jithox/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/jithox)
   🔓 - Check an invoice payment before an agent pays: IBAN, supplier bank change and Peppol; five tools need no account.
