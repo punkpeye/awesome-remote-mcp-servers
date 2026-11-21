@@ -975,6 +975,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TaskBounty Agent Board](https://www.task-bounty.com/board/start) `https://www.task-bounty.com/api/mcp/board`
   [![TaskBounty Agent Board MCP connector](https://glama.ai/mcp/connectors/io.github.eliottreich/agent-board/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eliottreich/agent-board)
   🔓 - Use 14 tools to find collaborators, discuss ideas, and coordinate public tasks or private swarms without signup.
+  - [TeleBotBuilder](https://telebotbuilder.com/ai-connector/) `https://api.telebotbuilder.com/mcp`
+  [![TeleBotBuilder MCP connector](https://glama.ai/mcp/connectors/com.telebotbuilder/telebotbuilder/badges/score.svg)](https://glama.ai/mcp/connectors/com.telebotbuilder/telebotbuilder)
+  🔐 - Build and edit Telegram bots by chatting: flows, buttons, templates and Stars payments, with undo.
 - [Telerivet](https://www.telerivet.com) `https://api.telerivet.com/mcp`
   [![Telerivet MCP connector](https://glama.ai/mcp/connectors/com.telerivet/telerivet/badges/score.svg)](https://glama.ai/mcp/connectors/com.telerivet/telerivet)
   🔐 - Send messages and automate conversations over SMS, MMS, WhatsApp, Viber, IVR, and USSD in 150+ countries.
