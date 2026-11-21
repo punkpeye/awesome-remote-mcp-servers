@@ -2123,6 +2123,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [thirdtrail](https://thirdtrail.life/docs/mcp/) `https://thirdtrail.life/mcp`
   [![thirdtrail MCP connector](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail)
   🔓 - Elevation-corrected sunrise, sunset, twilight, moon, solar irradiance, prayer and tide times; paid key to call tools.
+- [VergeCommon](https://vergecommon.com) `https://vergecommon.com/mcp`
+  [![VergeCommon MCP connector](https://glama.ai/mcp/connectors/io.github.jdhart81/vergecommon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jdhart81/vergecommon)
+  🔓 - Browse public neighborhood conservation co-ops and draft pooling and corridor plans; member tools need a token.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
