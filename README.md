@@ -4517,6 +4517,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RiverScript MCP v2](https://riverscript.com/docs/platform-details/mcp) `https://riverscript.com/api/mcp/v2`
   [![RiverScript MCP v2 MCP connector](https://glama.ai/mcp/connectors/com.riverscript/mcp-v2/badges/score.svg)](https://glama.ai/mcp/connectors/com.riverscript/mcp-v2)
   🔐 - Bring your RiverScript transcripts of meetings, calls and interviews to any AI agent: search, read and summarize.
+- [Runway MCP Server by useapi.net](https://useapi.net/docs/api-runwayml-v1/mcp) `https://api.useapi.net/v1/runwayml/mcp`
+  [![Runway MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/runwayml/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/runwayml)
+  🔐 - Runway video and images on your own plan: video-to-video, character animation, lip-sync. Not affiliated with Runway.
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
