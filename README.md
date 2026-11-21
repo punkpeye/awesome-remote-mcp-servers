@@ -1945,6 +1945,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Store Canary MCP connector](https://glama.ai/mcp/connectors/io.github.erikras/store-canary/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.erikras/store-canary)
   🔓 - Free read-only WooCommerce store checks: SSL, exposed files, SEO basics, speed, products and store policies.
 - [StoreTechScan](https://storetechscan.com) `https://storetechscan.com/mcp`
+  [![StoreTechScan MCP connector](https://glama.ai/mcp/connectors/com.storetechscan/storetechscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.storetechscan/storetechscan)
   🔓 🔑 - Live website tech stack + passive DNS + auditable evidence, and real-time Shopify/WooCommerce/DTC product price, variants and availability probes (25 free checks, pay-as-you-go).
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
