@@ -4180,6 +4180,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+
+- [ThinkNova](https://thinknova.top/mcp) `https://api.thinknova.top/mcp`
+  [![ThinkNova MCP connector](https://glama.ai/mcp/connectors/top.thinknova.api/think-nova/badges/score.svg)](https://glama.ai/mcp/connectors/top.thinknova.api/think-nova)
+  🔐 - Product images, posters and short videos for small shops: credits, reference photos, generation and task follow-up.
+
 - [Tracetify](https://tracetify.com/mcp) `https://tracetify.com/api/mcp`
   [![Tracetify MCP connector](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tracetify/tracetify-mcp)
   🔓 - Find competitors, trace how they grew from dated public sources, and see their ads; tools need an account.
