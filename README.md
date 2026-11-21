@@ -3300,6 +3300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [Aethel](https://aethel.pro/mcp) `https://us-central1-aethel-pro.cloudfunctions.net/mcp`
+  [![Aethel MCP connector](https://glama.ai/mcp/connectors/pro.aethel/company-interviews/badges/score.svg)](https://glama.ai/mcp/connectors/pro.aethel/company-interviews)
+  🔓 - What 42 companies' own pages say about their AI and video interviews, with source and date, in English or Spanish.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
