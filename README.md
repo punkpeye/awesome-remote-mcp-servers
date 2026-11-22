@@ -660,6 +660,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
   🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
 
+- [Bumblebeez](https://bumblebeez.ai) `https://agents.browserbox.io/oauth/mcp`
+  [![Bumblebeez MCP connector](https://glama.ai/mcp/connectors/ai.bumblebeez/browser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebeez/browser)
+  🔐 - Cloud browsers for your AI: email-code sign-in, prepaid 1 cent a minute, 25 cents starter credit once per email.
+
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
