@@ -3573,6 +3573,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
   🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
+- [Act 60 Business](https://act60.business) `https://mcp.act60.business/mcp`
+  [![Act 60 Business MCP connector](https://glama.ai/mcp/connectors/business.act60/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/business.act60/mcp)
+  🔓 - Puerto Rico Act 60 and Act 22 decree rules with citations, deadlines and CECFL nonprofits, in English and Spanish.
 
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
