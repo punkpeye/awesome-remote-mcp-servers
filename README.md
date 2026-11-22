@@ -6237,6 +6237,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Korea Nationwide Data](https://korea-data-mcp.picks-site.workers.dev/) `https://korea-data-mcp.picks-site.workers.dev/mcp`
   [![Korea Nationwide Data MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-data-mcp)
   🔓 - Korean tourist attractions in Korean and English, bus stops across 138 cities, and 30-year weather normals.
+- [Lalawe](https://lalawe.com/submit#mcp) `https://lalawe.com/mcp`
+  [![Lalawe MCP connector](https://glama.ai/mcp/connectors/com.lalawe/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.lalawe/events)
+  🔓 - Submit in-person Greater Toronto Area events to a bilingual (English/Chinese) weekend listing for human review.
 - [localhum](https://localhum.app/assistants) `https://localhum.app/mcp`
   [![localhum MCP connector](https://glama.ai/mcp/connectors/app.localhum/localhum/badges/score.svg)](https://glama.ai/mcp/connectors/app.localhum/localhum)
   🔓 - What's on at San Diego's small venues tonight or this week: live music, trivia, comedy, open mics, happy hours.
