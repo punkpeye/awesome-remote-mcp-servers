@@ -2808,6 +2808,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
+- [Seiche](https://seiche.info) `https://api.seiche.info/mcp`
+  [![Seiche MCP connector](https://glama.ai/mcp/connectors/io.github.beepboop2025/seiche/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beepboop2025/seiche)
+  🔓 - USD funding stress, SOFR-IORB, repo, central-bank reference FX, and capital-market evidence with explicit source clocks.
 - [Sentio Connect](https://connect.sentio.xyz) `https://connect.sentio.xyz/v1/mcp`
   [![Sentio Connect MCP connector](https://glama.ai/mcp/connectors/xyz.sentio/connect/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.sentio/connect)
   🔐 - Wallet balances, token prices, portfolio value, DeFi positions and holding history across EVM chains and Sui.
@@ -2955,6 +2958,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trust Check](https://trust-check.gm-tools.workers.dev) `https://trust-check.gm-tools.workers.dev/mcp`
   [![Trust Check MCP connector](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gmahar82-stack/trust-check)
   🔓 - Safety check for a Base token or address before you trade or pay it; USDC per call via x402.
+- [Undertow](https://liquilens-undertow.com) `https://api.seiche.info/undertow/mcp`
+  [![Undertow MCP connector](https://glama.ai/mcp/connectors/io.github.beepboop2025/undertow/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beepboop2025/undertow)
+  🔓 - Cross-market liquidity board, US HY/IG credit spreads, and stated-size exit-cost evidence with explicit withholding rules.
 - [Unlock Pulse](https://billibo6.github.io/unlockpulse/ai.html) `https://unlockpulse-mcp.unlockpulse.workers.dev/mcp`
   [![Unlock Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.Billibo6/unlockpulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Billibo6/unlockpulse)
   🔓 - Token unlock calendar for the next 60 days, rated by size vs circulating supply, with past-unlock price history.
