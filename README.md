@@ -3357,6 +3357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [Christian Pure](https://christianpure.com/wp-json/christianpure-connector/v1/docs?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://christianpure.com/wp-json/christianpure-connector/v1/mcp`
+  [![Christian Pure MCP connector](https://glama.ai/mcp/connectors/com.christianpure/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.christianpure/connector)
+  🔓 - Written prayers for a need, Bible verses by subject, Bible study and church history from Christian Pure; read-only.
 - [Cloud FinOps by OptimNow](https://pypi.org/project/cloud-finops-mcp/) `https://mcp.optimnow.io/mcp`
   [![Cloud FinOps by OptimNow MCP connector](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops)
   🔓 - Fetches FinOps reference guides and waste-pattern runbooks on cloud and AI cost management; no account needed.
