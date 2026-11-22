@@ -6704,6 +6704,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Strike a Block](https://strikeablock.com) `https://strikeablock.com/mcp`
   [![Strike a Block MCP connector](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block/badges/score.svg)](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block)
   🔓 - Preview a one-line inscription as a keepsake block, browse the public vault and verify a block's proof of work.
+- [TidyUse](https://tidyuse.com/mcp-server/) `https://tidyuse.com/mcp`
+  [![TidyUse MCP connector](https://glama.ai/mcp/connectors/com.tidyuse/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/com.tidyuse/calculators)
+  🔓 - 19 free, deterministic home, garden, and DIY material calculators (concrete, paint, mulch, roof, tile, stairs).
 - [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
   [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
   🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
