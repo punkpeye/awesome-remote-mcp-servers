@@ -5601,6 +5601,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
+- [Fortifie](https://fortifie.xyz) `https://fortifie-mcp.fly.dev/mcp`
+  [![Fortifie MCP connector](https://glama.ai/mcp/connectors/xyz.fortifie/fortifie/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.fortifie/fortifie)
+  🔑 - Assess and harden JS or Mac app builds you own, and find copies of your app online.
 - [Front Sentinel](https://frontsentinel.com/mcp) `https://frontsentinel.com/mcp`
   [![Front Sentinel MCP connector](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security/badges/score.svg)](https://glama.ai/mcp/connectors/com.frontsentinel/domain-security)
   🔓 - Read-only dApp and website domain checks: registrar and registry locks, DNSSEC, CAA, SRI, SEAL DNS & Registrar controls.
