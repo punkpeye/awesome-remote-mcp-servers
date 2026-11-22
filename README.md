@@ -1342,6 +1342,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [DeployIt](https://deployit.ai/docs) `https://mcp.deployit.ai/demo`
+  [![DeployIt MCP connector](https://glama.ai/mcp/connectors/ai.deployit/product-expert/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deployit/product-expert)
+  🔓 - Answers questions about a codebase from its code, each with a status; this public demo runs on a demo repository.
 - [Devutils](https://devutils.bigfloppy.net) `https://devutils.bigfloppy.net/mcp`
   [![Devutils MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.devutils/devutils/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.devutils/devutils)
   🔓 - Free hosted dev toolkit: UUID, hash, base64, JWT decode, CSV→JSON, time and JSON tools as MCP; no signup.
