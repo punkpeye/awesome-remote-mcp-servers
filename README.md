@@ -6677,6 +6677,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate a decision from every side; debates need a Pro key.
+- [Power Players](https://powerplayers.app/connect-ai) `https://powerplayers.app/api/mcp/v1`
+  [![Power Players MCP connector](https://glama.ai/mcp/connectors/io.github.Playpowerpolitics/powerplayers/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Playpowerpolitics/powerplayers)
+  🔓 - US elected officials by address or place, crowdsourced citizen ratings, races and voter-registration links.
 - [Private SuperIntelligence](https://privatesuperintelligence.si) `https://privatesuperintelligence.si/mcp`
   [![Private SuperIntelligence MCP connector](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence/badges/score.svg)](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence)
   🔓 - Read about Private SuperIntelligence, a private AI concierge, search its guides and join the waitlist.
