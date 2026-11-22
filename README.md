@@ -5856,6 +5856,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OmniSocials](https://omnisocials.com) `https://mcp.omnisocials.com/`
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
+- [Overtok](https://overtok.live/agents) `https://api.overtok.live/mcp`
+  [![Overtok MCP connector](https://glama.ai/mcp/connectors/live.overtok/overtok/badges/score.svg)](https://glama.ai/mcp/connectors/live.overtok/overtok)
+  🔐 - Build TikTok LIVE overlay scenes, edit your link-in-bio page and read LIVE, gift and battle stats.
 - [OwlStat](https://owlstat.io/instagram-mcp/) `https://mcp.owlstat.io/mcp`
   [![OwlStat MCP connector](https://glama.ai/mcp/connectors/io.owlstat/owlstat/badges/score.svg)](https://glama.ai/mcp/connectors/io.owlstat/owlstat)
   🔐 - Instagram and TikTok analytics across many accounts: reach, views, saves, shares, competitors and reports.
