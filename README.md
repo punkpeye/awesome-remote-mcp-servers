@@ -3646,6 +3646,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [Norman: Start a company](https://norman.finance/de/en/help-center/formation-planner-ai-assistant) `https://norman.finance/api/formation/mcp/awesome-remote`
+  [![Norman: Start a company MCP connector](https://glama.ai/mcp/connectors/finance.norman/formation-planner/badges/score.svg)](https://glama.ai/mcp/connectors/finance.norman/formation-planner)
+  🔓 - Steps and statutory fees to open a GmbH, UG, sp. z o.o. or JDG in Germany or Poland; general info, not legal advice.
 - [ONYST RVG](https://onyst.legal/mcp/en) `https://api.onyst.legal/mcp`
   [![ONYST RVG MCP connector](https://glama.ai/mcp/connectors/legal.onyst/rvg/badges/score.svg)](https://glama.ai/mcp/connectors/legal.onyst/rvg)
   🔐 - German lawyers' fees under the RVG, values in dispute and invoices, every amount from the ONYST fee engine.
