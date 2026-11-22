@@ -5009,7 +5009,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FERS: structural finite-element analysis](https://ferscloud.com/mcp) `https://ferscloud.com/api/mcp`
   [![FERS: structural finite-element analysis MCP connector](https://glama.ai/mcp/connectors/com.ferscloud/fers/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferscloud/fers)
   🔐 - Builds and checks structural FE models (beams, frames, trusses, plates, Eurocode 3) that solve in your browser.
-- [Greencyclepedia](https://greencyclepedia.com/) `https://greencyclepedia.com/mcp`
+- [Greencyclepedia](https://greencyclepedia.com/?utm_source=awesomeremote&utm_medium=directory&utm_campaign=listing) `https://greencyclepedia.com/mcp`
   [![Greencyclepedia MCP connector](https://glama.ai/mcp/connectors/com.greencyclepedia/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/com.greencyclepedia/atlas)
   🔓 - Cannabis compounds, receptors and evidence, with measured values and the studies behind each.
 - [Ithy Research Library](https://ithy.com/connect) `https://ithy.com/mcp`
