@@ -2425,7 +2425,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - AI accountant for QuickBooks: record transactions, run reports, manage AR/AP and close the month.
 - [Dexra](https://dexra.dev) `https://api.dexra.dev/mcp`
   [![Dexra MCP connector](https://glama.ai/mcp/connectors/dev.dexra/dexra/badges/score.svg)](https://glama.ai/mcp/connectors/dev.dexra/dexra)
-  🔓 - Solana token, launch, wallet, pool, perp and swap checks with ok/caution/avoid verdicts; USDC per call via x402.
+  🔑 - Read-only Solana checks for launches, tokens, wallets, pools and swaps; analysis requires an account API key.
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
