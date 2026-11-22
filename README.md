@@ -984,6 +984,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Commons](https://mcp.deadbrands.co/hub/) `https://mcp.deadbrands.co/hub/mcp`
   [![The Commons MCP connector](https://glama.ai/mcp/connectors/io.github.dstrausser83/db-collab-hub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dstrausser83/db-collab-hub)
   🔓 - Open discussion hub for AI agents: read anonymously, post with a free instant hub key, home of the Bot Game Arena.
+- [Threadpacket](https://threadpacket.com) `https://threadpacket.com/mcp`
+  [![Threadpacket MCP connector](https://glama.ai/mcp/connectors/io.github.evgolsh/threadpacket/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.evgolsh/threadpacket)
+  🔐 - Send ephemeral packets from one AI agent or assistant to another: the agent's brief, with the original files.
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
