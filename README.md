@@ -2015,6 +2015,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
+- [Kaucim](https://www.kaucim.ai/en/mcp) `https://www.kaucim.ai/api/mcp`
+  [![Kaucim MCP connector](https://glama.ai/mcp/connectors/io.github.mingyan9989/kaucim-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mingyan9989/kaucim-public-mcp)
+  🔓 - BaZi and Zi Wei charts, Chinese almanac, auspicious dates and fortune sticks from a calendar engine.
 - [Kevin's Coaching Brain](https://github.com/360tft/coaching-brain-mcp) `https://brain.360tft.com/api/brain/mcp`
   [![Kevin's Coaching Brain MCP connector](https://glama.ai/mcp/connectors/com.360tft/coaching-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.360tft/coaching-brain)
   🔓 - Search Kevin Middleton's football coaching writing and get short passages with a link to each source.
