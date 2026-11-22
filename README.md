@@ -2847,6 +2847,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
+- [Snappa Kvitton](https://www.snappakvitton.se) `https://www.snappakvitton.se/api/mcp`
+  [![Snappa Kvitton MCP connector](https://glama.ai/mcp/connectors/se.snappakvitton/snappa-kvitton/badges/score.svg)](https://glama.ai/mcp/connectors/se.snappakvitton/snappa-kvitton)
+  🔐 - Swedish bookkeeping: book receipts, send invoices, handle VAT, payroll and year-end for small businesses.
 - [SnowSignals TrendVane](https://snowsignals.io) `https://snowsignals.io/mcp`
   [![SnowSignals TrendVane MCP connector](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals/badges/score.svg)](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals)
   🔓 - Market-phase state per currency across timeframes (not trade signals); free phase stats, metered live reads.
