@@ -3628,9 +3628,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLO Law](https://glolaw.org/case-search/connect) `https://mcp.glolaw.org/mcp`
   [![GLO Law MCP connector](https://glama.ai/mcp/connectors/org.glolaw/glo-law/badges/score.svg)](https://glama.ai/mcp/connectors/org.glolaw/glo-law)
   🔓 - U.S. court opinions, statutes, regulations and corrections policies, with each answer's source and coverage stated.
-- [Google Patents Scraper](https://apify.com/magnova/google-patents-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/google-patents-scraper`
-  [![Google Patents Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-patents-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-patents-scraper-mcp)
-  🔐 - Search Google Patents by keyword, assignee, inventor, CPC class, and date range.
 - [GroundRules](https://law.agentlookups.ai) `https://law.agentlookups.ai/mcp`
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
