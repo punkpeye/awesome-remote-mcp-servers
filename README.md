@@ -3060,6 +3060,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CostRail](https://www.food-cost-calculator.com/mcp) `https://www.food-cost-calculator.com/api/mcp`
   [![CostRail MCP connector](https://glama.ai/mcp/connectors/com.food-cost-calculator/costrail/badges/score.svg)](https://glama.ai/mcp/connectors/com.food-cost-calculator/costrail)
   🔓 - Restaurant recipe plate cost, butcher trim yield, and bar pour cost calculations with menu pricing.
+- [Daejeon Hankok](https://daejeon.ferrorium.com/ai) `https://daejeon.ferrorium.com/mcp`
+  [![Daejeon Hankok MCP connector](https://glama.ai/mcp/connectors/com.ferrorium.daejeon/hankok/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferrorium.daejeon/hankok)
+  🔓 - Restaurants, cafes, hair and nail salons in Daejeon, Korea, with hours, events and Naver booking links.
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
   🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
