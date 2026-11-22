@@ -4434,7 +4434,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
 - [Hourlore](https://hourlore.com) `https://hourlore.com/mcp`
   [![Hourlore MCP connector](https://glama.ai/mcp/connectors/com.hourlore/hourlore/badges/score.svg)](https://glama.ai/mcp/connectors/com.hourlore/hourlore)
-  🔑 - AI documentary maker for faceless channels: type a topic and get a narrated 15-minute 1080p film.
+  🔓 - AI documentary maker for faceless channels: type a topic and get a narrated 15-minute 1080p film.
 - [Image Metadata Inspector](https://metadataremoverai.com) `https://metadataremoverai.com/mcp`
   [![Image Metadata Inspector MCP connector](https://glama.ai/mcp/connectors/com.metadataremoverai/metadata-inspector/badges/score.svg)](https://glama.ai/mcp/connectors/com.metadataremoverai/metadata-inspector)
   🔓 - Read EXIF, GPS, XMP, C2PA and AI-generator metadata from a public image or video URL.
