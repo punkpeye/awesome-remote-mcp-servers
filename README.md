@@ -4613,6 +4613,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aether](https://explorer.157-245-252-221.sslip.io) `https://explorer.157-245-252-221.sslip.io/mcp`
   [![Aether MCP connector](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whoyoujoshin/aether-wallet)
   🔓 - Read-only view of the Aether testnet: balances, transactions, miners and its directory of x402-paid services.
+- [Agent Tollbooth 402](https://tollbooth.redcenterstudio.com/pay) `https://tollbooth.redcenterstudio.com/mcp`
+  [![Agent Tollbooth 402 MCP connector](https://glama.ai/mcp/connectors/io.github.Red-Center-Studio/agent-tollbooth-402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Red-Center-Studio/agent-tollbooth-402)
+  🔓 - Price, verify and settle x402 USDC payments for APIs and MCP servers that charge AI agents per call, paid straight to the seller's own wallet.
 - [agentpay](https://entangleit.com/agentpay/) `https://entangleit.com/api/agentpay/mcp`
   [![agentpay MCP connector](https://glama.ai/mcp/connectors/com.entangleit/agentpay/badges/score.svg)](https://glama.ai/mcp/connectors/com.entangleit/agentpay)
   🔓 - Pay-per-call LLM (Fuse) and x402 APIs paid in BSV sats from prepaid agent wallets; free trial wallet, chat needs a key.
