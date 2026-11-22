@@ -3664,6 +3664,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PRIMAMCP](https://mcp.planitprima.com) `https://mcp.planitprima.com/mcp`
   [![PRIMAMCP MCP connector](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp)
   🔐 - German and EU law: statutes, court decisions, EU acts and legislative materials, with verified citations.
+- [Privacyboard](https://privacyboard.io/integrations/ai-assistants) `https://privacyboard.io/mcp`
+  [![Privacyboard MCP connector](https://glama.ai/mcp/connectors/io.privacyboard/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.privacyboard/workspace)
+  🔐 - GDPR records: privacy requests, vendors, processing register, incidents and documents; changes need your confirmation.
+- [Privacyboard Vendors](https://privacyboard.io/integrations/coding-agents) `https://privacyboard.io/mcp/vendors`
+  [![Privacyboard Vendors MCP connector](https://glama.ai/mcp/connectors/io.privacyboard/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.privacyboard/vendors)
+  🔓 - GDPR facts on 1,290+ SaaS tools, and a cookie banner and privacy policy set up from a project's packages.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
