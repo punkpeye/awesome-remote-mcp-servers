@@ -3351,6 +3351,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Brainattic](https://brainattic.ai) `https://app.brainattic.ai/api/mcp`
   [![Brainattic MCP connector](https://glama.ai/mcp/connectors/ai.brainattic/knowledge-base/badges/score.svg)](https://glama.ai/mcp/connectors/ai.brainattic/knowledge-base)
   🔐 - The knowledge base your AI reads and writes, under your rules: search, edit and govern docs and skills.
+- [BrainTube](https://brain-tube.com) `https://mcp.brain-tube.com/mcp`
+  🔐 - Search, read and save your own library of YouTube videos, podcasts, articles and notes, with answers cited to the saved item.
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
