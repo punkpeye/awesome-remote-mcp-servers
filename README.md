@@ -3437,6 +3437,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lumberroom](https://lumberroom.cloud) `https://mcp.lumberroom.cloud/mcp`
   [![Lumberroom MCP connector](https://glama.ai/mcp/connectors/cloud.lumberroom.mcp/lumberroom/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.lumberroom.mcp/lumberroom)
   🔐 - Durable shared memory for AI agents: search, write, correct and forget facts across clients.
+- [Memocore](https://memocore.ai) `https://memocore.ai/mcp`
+  [![Memocore MCP connector](https://glama.ai/mcp/connectors/ai.memocore/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memocore/mcp)
+  🔐 - Persistent memory for AI agents and teams: save, search and share memos, projects and tables across clients.
 - [MemoryRouter](https://memoryrouter.ai) `https://mcp.memoryrouter.ai/mcp`
   [![MemoryRouter MCP connector](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.memoryrouter/memoryrouter)
   🔓 - Cross-AI persistent memory for ChatGPT, Claude, Codex and other MCP clients: one user-scoped vault. OAuth unlocks it.
