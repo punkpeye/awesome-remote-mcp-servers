@@ -3670,6 +3670,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RegAI Legal MCP](https://regai.tw/mcp) `https://mcp.regai.tw/mcp`
   [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
   🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
+- [Taiwan Legal RAG](https://dr-legal.com.tw/mcp) `https://tlr.dr-legal.com.tw/mcp`
+  [![Taiwan Legal RAG MCP connector](https://glama.ai/mcp/connectors/io.github.aa0101181514/tw-legal-rag/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aa0101181514/tw-legal-rag)
+  🔐 - Semantic search over 22M+ Taiwan court judgments, plus statutes and agency rulings, with full text and citation checks.
 - [Thai Legal](https://legaltech.in.th) `https://mcp.legaltech.in.th/mcp`
   [![Thai Legal MCP connector](https://glama.ai/mcp/connectors/th.in.legaltech/thai-legal/badges/score.svg)](https://glama.ai/mcp/connectors/th.in.legaltech/thai-legal)
   🔐 - Search Thai statutes, Royal Gazette, Council of State opinions and Supreme Court rulings, with verifiable citations.
