@@ -3306,9 +3306,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
-- [NestDaddy Memory](https://nestdaddy.com/memory) `https://nestdaddy.com/memory/mcp`
-  [![NestDaddy Memory MCP connector](https://glama.ai/mcp/connectors/com.nestdaddy/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.nestdaddy/memory)
-  🔐 - One memory shared by every AI app you use: save, search by meaning, and the latest decision replaces the old.
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
@@ -3458,6 +3455,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mnemoverse](https://mnemoverse.com) `https://mcp.mnemoverse.com/mcp`
   [![Mnemoverse MCP connector](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server)
   🔐 - Persistent agent memory; tell it a recalled memory helped or misled and it re-ranks the next recall.
+- [NestDaddy Memory](https://nestdaddy.com/memory) `https://nestdaddy.com/memory/mcp`
+  [![NestDaddy Memory MCP connector](https://glama.ai/mcp/connectors/com.nestdaddy/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.nestdaddy/memory)
+  🔐 - One memory shared by every AI app you use: save, search by meaning, and the latest decision replaces the old.
 - [New Runtime](https://newruntime.com/agents/) `https://newruntime.com/mcp`
   [![New Runtime MCP connector](https://glama.ai/mcp/connectors/com.newruntime/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.newruntime/archive)
   🔓 - Dated, source-linked AI-engineering archive: what changed since a date, topic briefs, forecasts with a track record.
