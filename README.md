@@ -2557,6 +2557,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hunter Killer](https://hunterkiller.io/for-agents) `https://agents.hunterkiller.io/mcp`
   [![Hunter Killer MCP connector](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer)
   🔐 - Liquidation walls, snapshot age, evidence labels and a public record for crypto perpetual pairs.
+- [Hyperliquid Liquidation Heatmap by HyperPerps](https://hyperperps.app/hyperliquid-liquidation-heatmap) `https://hyperperps.app/mcp`
+  [![Hyperliquid Liquidation Heatmap by HyperPerps MCP connector](https://glama.ai/mcp/connectors/app.hyperperps/liquidation-heatmap/badges/score.svg)](https://glama.ai/mcp/connectors/app.hyperperps/liquidation-heatmap)
+  🔓 - Hyperliquid liquidation heatmap for BTC, ETH, SOL and HYPE: liquidation, stop-loss and take-profit walls, positioning.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
