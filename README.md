@@ -6219,6 +6219,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
+- [Go2Trip](https://mcp.go2trip.com) `https://mcp.go2trip.com/mcp`
+  [![Go2Trip MCP connector](https://glama.ai/mcp/connectors/com.go2trip.mcp/go2trip/badges/score.svg)](https://glama.ai/mcp/connectors/com.go2trip.mcp/go2trip)
+  🔓 - Travel search from Go2Trip: flights at live prices tagged best, cheapest or fastest, with a booking link.
 - [GoVisit](https://govisit.ai/en/docs/developers/mcp/overview) `https://govisit.ai/mcp`
   [![GoVisit MCP connector](https://glama.ai/mcp/connectors/ai.govisit/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.govisit/tools)
   🔓 - Search GoVisit destinations, places, activities and docs with 22 public read-only travel tools.
