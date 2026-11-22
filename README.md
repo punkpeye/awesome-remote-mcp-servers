@@ -516,6 +516,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kodza](https://kodza.dev/docs/) `https://kodza.dev/api/mcp`
   [![Kodza MCP connector](https://glama.ai/mcp/connectors/dev.kodza/kodza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kodza/kodza)
   🔓 - Search free UI components in plain HTML, CSS and vanilla JS, and get their exact code, ready to paste.
+- [Kontext by Marco Polo](https://kontext.marcopolo.agency/en) `https://kontext.marcopolo.agency/api/mcp`
+  [![Kontext by Marco Polo MCP connector](https://glama.ai/mcp/connectors/io.github.marcopolodesign/kontext/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marcopolodesign/kontext)
+  🔐 - Design review for AI-made sites: 0-100 score, brand checks, font pairing and on-brand design pieces.
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
