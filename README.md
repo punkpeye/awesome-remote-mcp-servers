@@ -3821,6 +3821,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
+- [ContextBolt SEO](https://contextbolt.com/seo/) `https://seo.contextbolt.app/mcp`
+  [![ContextBolt SEO MCP connector](https://glama.ai/mcp/connectors/app.contextbolt.seo/context-bolt-seo/badges/score.svg)](https://glama.ai/mcp/connectors/app.contextbolt.seo/context-bolt-seo)
+  🔐 - Live keyword, ranking, backlink and AI-visibility data inside Claude, Cursor and Codex.
 - [Convertlyft](https://convertlyft.com/developers) `https://mcp.convertlyft.com/mcp`
   [![Convertlyft MCP connector](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft/badges/score.svg)](https://glama.ai/mcp/connectors/com.convertlyft/convertlyft)
   🔓 - Web analytics that names the fix: funnels, replays, errors, speed and SEO. Free SEO scan; account tools use OAuth.
