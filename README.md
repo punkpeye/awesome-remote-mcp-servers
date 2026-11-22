@@ -160,6 +160,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alba.design](https://alba.design) `https://alba.design/mcp`
   [![Alba.design MCP connector](https://glama.ai/mcp/connectors/design.alba/albadesign/badges/score.svg)](https://glama.ai/mcp/connectors/design.alba/albadesign)
   🔓 - Remote MCP server of the Alba.design builder: create a website or store draft, get features, pricing and doc search.
+- [ASI.EXPRESS](https://asi.express) `https://asi.express/mcp`
+  [![ASI.EXPRESS MCP connector](https://glama.ai/mcp/connectors/express.asi/asi-express/badges/score.svg)](https://glama.ai/mcp/connectors/express.asi/asi-express)
+  🔓 - Finds, connects and runs tools for agents; when a tool is missing, it assembles one from operations.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
