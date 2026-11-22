@@ -3303,6 +3303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [RemoteHunt](https://remotehunt.app/ai-chat) `https://remotehunt.app/api/mcp`
+  [![RemoteHunt MCP connector](https://glama.ai/mcp/connectors/app.remotehunt/remotehunt/badges/score.svg)](https://glama.ai/mcp/connectors/app.remotehunt/remotehunt)
+  🔓 - Search open remote jobs that can hire in a given country, check one job's hiring countries, read a job's details.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
