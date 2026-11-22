@@ -3249,6 +3249,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
+- [HealthStylz](https://healthstylz.com/mcp) `https://healthstylz.com/api/knowledge/mcp`
+  🔓 - Read-only evidence-first health library and 13 sports and nutrition calculators (TDEE, BMR, VO2 Max, FFMI, 1RM, sleep cycles, caffeine decay), NIH/PubMed supplement trial counts, and 1,100+ dietitian articles.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
