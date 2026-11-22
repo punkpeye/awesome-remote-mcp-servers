@@ -4762,6 +4762,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [Mechanic Atlas Auto Manual](https://mechanic.us.com/mcp/) `https://mechanic.us.com/mcp`
   [![Mechanic Atlas Auto Manual MCP connector](https://glama.ai/mcp/connectors/com.us.mechanic/auto-manual/badges/score.svg)](https://glama.ai/mcp/connectors/com.us.mechanic/auto-manual)
+  🔓 - Repair jobs by vehicle, factory manual links, NHTSA recalls and complaints, and mechanic pay by state.
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
