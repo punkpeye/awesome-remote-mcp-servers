@@ -3541,6 +3541,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Thea](https://thealibrary.org) `https://thealibrary.org/mcp`
   [![Thea MCP connector](https://glama.ai/mcp/connectors/org.thealibrary/thea/badges/score.svg)](https://glama.ai/mcp/connectors/org.thealibrary/thea)
   🔓 - Open, people-curated knowledge library: 1M+ Korean places, people and works, no signup or key.
+- [todox](https://www.todox.dev) `https://www.todox.dev/api/mcp`
+  [![todox MCP connector](https://glama.ai/mcp/connectors/io.github.beydemirfurkan/todox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.beydemirfurkan/todox)
+  🔑 - Task log for coding agents: decisions, dead ends and handoffs the next session reads first.
 - [Urantia Papers](https://urantia.dev) `https://api.urantia.dev/mcp`
   [![Urantia Papers MCP connector](https://glama.ai/mcp/connectors/dev.urantia/urantia-papers/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urantia/urantia-papers)
   🔓 - Read and search the Urantia Papers by reference, keyword, or meaning, with named entities and Bible cross-references.
