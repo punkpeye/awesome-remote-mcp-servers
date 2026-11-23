@@ -1708,6 +1708,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VibeRaven Guides](https://viberaven.dev) `https://viberaven.dev/mcp`
   [![VibeRaven Guides MCP connector](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides)
   🔓 - Explains VibeRaven findings and returns launch guides and checklists for Vercel + Supabase apps, read-only.
+- [Visual Regression & Screenshot Diff](https://apify.com/fluidfaith/visual-diff-gate) `https://mcp.apify.com/?tools=fluidfaith/visual-diff-gate`
+  [![Visual Regression & Screenshot Diff MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/visual-diff-gate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/visual-diff-gate)
+  🔐 - Compare production and preview pages on desktop and phones: percent changed, changed regions, diff image, PASS/FAIL.
 - [Watermelon UI](https://ui.watermelon.sh/developers/mcp) `https://mcp.watermelon.sh/mcp`
   [![Watermelon UI MCP connector](https://glama.ai/mcp/connectors/sh.watermelon/ui/badges/score.svg)](https://glama.ai/mcp/connectors/sh.watermelon/ui)
   🔓 - Search free React, Tailwind and shadcn components, blocks and dashboards and get source plus install commands.
