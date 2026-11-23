@@ -1555,7 +1555,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
 - [CRLN](https://crln-learn.com/ai-apps) `https://crln-practice-lab.crln-learn.com/mcp`
   [![CRLN MCP connector](https://glama.ai/mcp/connectors/com.crln-learn/crln/badges/score.svg)](https://glama.ai/mcp/connectors/com.crln-learn/crln)
-  🔓 - Practice real clinical research decisions, scored with the ICH E6(R3) or regulatory rule behind them; GCP answers with sources; read-only.
+  🔓 - Practice real clinical research decisions scored with the ICH E6(R3) rule behind them. Read-only.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
