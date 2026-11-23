@@ -2267,6 +2267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Scrapemint Market Data](https://apify.com/scrapemint) `https://mcp.apify.com?tools=scrapemint/forexfactory-economic-calendar,scrapemint/kalshi-prediction-market-scraper,scrapemint/polymarket-market-monitor,scrapemint/prediction-market-odds-comparison,scrapemint/sports-odds-scraper,scrapemint/sec-form4-insider-tracker,scrapemint/sec-8k-event-tracker,scrapemint/earnings-call-transcripts,scrapemint/tradingview-ideas-scraper,scrapemint/dexscreener-token-scraper`
+  [![Scrapemint Market Data MCP connector](https://glama.ai/mcp/connectors/io.github.Ken-Mutisya/scrapemint-market-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ken-Mutisya/scrapemint-market-data)
+  🔐 - Economic calendar, Kalshi and Polymarket odds, sports odds, SEC Form 4 and 8-K filings, earnings calls and DEX tokens.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -4098,6 +4101,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Say It Again](https://sayitagain.ai/docs/api) `https://app.sayitagain.ai/mcp`
   [![Say It Again MCP connector](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain)
   🔐 - Read a store's product page, write 3 scripts and make an AI UGC video with a generated presenter.
+- [Scrapemint Lead Data](https://apify.com/scrapemint) `https://mcp.apify.com?tools=scrapemint/website-tech-stack-detector,scrapemint/company-enrichment,scrapemint/company-email-finder,scrapemint/linkedin-jobs-scraper-pro,scrapemint/new-shopify-store-leads,scrapemint/twitch-streamer-leads,scrapemint/fmcsa-trucking-carrier-leads,scrapemint/florida-sunbiz-new-business-leads,scrapemint/contractor-license-lookup,scrapemint/journalist-request-finder`
+  [![Scrapemint Lead Data MCP connector](https://glama.ai/mcp/connectors/io.github.Ken-Mutisya/scrapemint-lead-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ken-Mutisya/scrapemint-lead-data)
+  🔐 - Tech stack, company enrichment, emails, LinkedIn jobs, new Shopify stores, trucking carriers and contractor leads.
 - [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
   [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
   🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
