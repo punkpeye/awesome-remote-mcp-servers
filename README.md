@@ -2027,6 +2027,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moshid](https://moshid.com/connector) `https://moshid.com/api/mcp`
   [![Moshid MCP connector](https://glama.ai/mcp/connectors/com.moshid/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.moshid/mcp)
   🔐 - Arabic AI-at-work guides and Claude skills: search the catalog, read guides, install skills, get one next step.
+- [OpenCollege](https://opencollege.thecompound.tech/assistants) `https://opencollege.thecompound.tech/mcp`
+  [![OpenCollege MCP connector](https://glama.ai/mcp/connectors/tech.thecompound.opencollege/opencollege/badges/score.svg)](https://glama.ai/mcp/connectors/tech.thecompound.opencollege/opencollege)
+  🔓 - Federal earnings and debt figures for US college programs, one program at a time.
 - [Polidict](https://polidict.com) `https://api.polidict.com/mcp`
   [![Polidict MCP connector](https://glama.ai/mcp/connectors/io.github.solomkinmv/polidict/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.solomkinmv/polidict)
   🔓 - Save words to your vocabulary, look up meanings and images, and practice them with spaced repetition.
