@@ -5514,6 +5514,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebRead](https://api.youraitools.co/webread/) `https://api.youraitools.co/webread/mcp`
   [![WebRead MCP connector](https://glama.ai/mcp/connectors/co.youraitools/webread/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/webread)
   🔓 - Turns a public web page into clean Markdown, respecting robots.txt; 30 free calls/day, then x402 USDC.
+
+- [Website Contacts, Pricing & LLM Brief](https://apify.com/spiky_closet/website-contacts-pricing-intel) `https://spiky-closet--website-contacts-pricing-intel.apify.actor/mcp`
+  [![Website Contacts, Pricing & LLM Brief MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/website-contacts-pricing-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/website-contacts-pricing-intel-mcp)
+  🔑 - Extract verified emails, 12+ socials, SaaS pricing tiers, DNS MX/SPF, and llms.txt briefs from any domain.
+
 - [Xiaozhaobao](https://xiaozhaobao.com.cn) `https://xiaozhaobao.com.cn/mcp`
   [![Xiaozhaobao MCP connector](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao/badges/score.svg)](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao)
   🔓 - Search China campus-recruitment postings by city, batch, degree, industry and company, plus employer profiles.
@@ -5523,6 +5528,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zhiyike](https://zhiyike.cn) `https://zhiyike.cn/mcp`
   [![Zhiyike MCP connector](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike/badges/score.svg)](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike)
   🔓 - AI news cards with official publish dates and sources; browse and search recent AI releases.
+
 
 ### 🔒 <a name="security"></a>Security
 
