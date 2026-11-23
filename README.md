@@ -6026,6 +6026,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PinnFeed](https://pinnfeed.io/docs/mcp) `https://pinnfeed.io/mcp`
   [![PinnFeed MCP connector](https://glama.ai/mcp/connectors/io.github.pinnfeed/odds/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinnfeed/odds)
   🔓 - Live and prematch Pinnacle odds, no-vig fair prices, price drops and closing lines; calls need a free API key.
+- [Poolster](https://poolster.social) `https://poolster.social/mcp`
+  [![Poolster MCP connector](https://glama.ai/mcp/connectors/social.poolster/poolster/badges/score.svg)](https://glama.ai/mcp/connectors/social.poolster/poolster)
+  🔓 - Free sports prediction pools (soccer, NFL, NBA, NHL, MLB, NCAA) for agents; playing needs a wallet login.
 - [Race Results](https://raceresultsapp.com/mcp-server) `https://raceresultsapp.com/mcp`
   [![Race Results MCP connector](https://glama.ai/mcp/connectors/io.github.manuelescrig/raceresults-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.manuelescrig/raceresults-mcp)
   🔓 - MotoGP, Moto2 and Moto3 standings, race results, calendar and session times, rider profiles, live timing and news.
