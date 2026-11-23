@@ -4951,7 +4951,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
-
+- [PipeForge US B2B Federal & Domain Signal Engine](https://apify.com/pipeforge) `https://mcp.apify.com/?tools=pipeforge/us-socrata-b2b-signal-crossjoin-engine,pipeforge/b2b-domain-tech-stack-dns-ssl-sales-trigger,pipeforge/us-sec-form-d-startup-funding-leads,pipeforge/us-cms-npi2-clinic-owner-phone-leads`
+  [![PipeForge US B2B Federal & Domain Signal Engine MCP connector](https://glama.ai/mcp/connectors/com.apify.mcp/pipe-forge-us-b2b-federal-and-domain-signal-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.apify.mcp/pipe-forge-us-b2b-federal-and-domain-signal-engine)
+  🔐 - Zero-proxy US B2B data: SEC Form D startups, CMS NPI-2 clinic owners, FMCSA insurance gaps & DMARC/SSL triggers.
 - [PumpGTM](https://pumpgtm.com/docs/mcp) `https://mcp.pumpgtm.com/mcp`
   [![PumpGTM MCP connector](https://glama.ai/mcp/connectors/com.pumpgtm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pumpgtm/mcp)
   🔐 - Find buyers, run LinkedIn, email and X outreach from your own accounts, and approve drafted replies.
