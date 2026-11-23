@@ -5803,6 +5803,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Echoly](https://echoly.2cstudio.app/docs/mcp) `https://echoly.2cstudio.app/mcp`
   [![Echoly MCP connector](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly)
   🔐 - Draft and schedule posts to X, Telegram channels, Bluesky, Mastodon and Discord, with human approval.
+- [Emelyn](https://www.emelyn.ai/integrations/mcp) `https://www.emelyn.ai/mcp`
+  [![Emelyn MCP connector](https://glama.ai/mcp/connectors/ai.emelyn/emelyn/badges/score.svg)](https://glama.ai/mcp/connectors/ai.emelyn/emelyn)
+  🔐 - Plan content, draft, schedule and publish social posts, and review their performance.
 - [flayr](https://flayr.social/docs/ai-assistants?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=listings-1029) `https://flayr.social/api/mcp`
   [![flayr MCP connector](https://glama.ai/mcp/connectors/social.flayr/flayr/badges/score.svg)](https://glama.ai/mcp/connectors/social.flayr/flayr)
   🔓 - Draft, schedule and publish posts to 13 social platforms and read analytics; tool calls use OAuth or an API key.
