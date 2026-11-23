@@ -3927,6 +3927,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Honeyfield Marketing MCP MCP connector](https://glama.ai/mcp/connectors/at.honeyfield/marketing-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/at.honeyfield/marketing-mcp)
   🔐 - Google Ads, GA4, Search Console, Meta and LinkedIn Ads for agencies, one workspace per client, writes after approval.
 
+- [Hoop AI](https://hoopai.com.br/conectar-ia) `https://mcp.hoopai.com.br/mcp`
+  [![Hoop AI MCP connector](https://glama.ai/mcp/connectors/br.com.hoopai/hoop/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.hoopai/hoop)
+  🔐 - Read-only Meta, Google, TikTok and LinkedIn Ads campaign data via Hoop AI: performance, diagnosis and forecasts.
+
 - [How It Spread](https://howitspread.com/mcp) `https://howitspread.com/api/mcp`
   [![How It Spread MCP connector](https://glama.ai/mcp/connectors/com.howitspread/howitspread/badges/score.svg)](https://glama.ai/mcp/connectors/com.howitspread/howitspread)
   🔓 - Viral marketing precedents with dated, sourced spread timelines and a Spread Score. No sign-in.
