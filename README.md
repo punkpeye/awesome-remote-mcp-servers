@@ -33,6 +33,7 @@ A remote MCP server is an MCP server someone else operates for you. Instead of i
 
 Everything listed here is a remote server. Entries are only listed after the endpoint answers an MCP `initialize` handshake.
 
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 ## How to connect
 
 Most clients accept a bare URL. A few examples:
