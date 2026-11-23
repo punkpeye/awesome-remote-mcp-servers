@@ -6648,6 +6648,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
+- [ForLab Geo API](https://forlab.io/en/projects/geo-api) `https://api.forlab.io/geo/mcp`
+  [![ForLab Geo API MCP connector](https://glama.ai/mcp/connectors/io.forlab/geo/badges/score.svg)](https://glama.ai/mcp/connectors/io.forlab/geo)
+  🔓 🔑 - Countries, admin units, boundaries, timezones, postal codes and phones; Türkiye's official mahalle list.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
