@@ -1503,6 +1503,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiniTools](https://minitools.bigfloppy.net) `https://minitools.bigfloppy.net/mcp`
   [![MiniTools MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools)
   🔓 - Six tiny devtools (slugs, timestamps, case, hash, base64, UUID) over GET endpoints and MCP; no key needed.
+- [Mobile QA Gate](https://apify.com/fluidfaith/mobile-qa-gate) `https://mcp.apify.com/?tools=fluidfaith/mobile-qa-gate`
+  [![Mobile QA Gate MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/mobile-qa-gate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/mobile-qa-gate)
+  🔐 - PASS or FAIL per web page on current iPhone, Galaxy and Pixel sizes: overflow, contrast, tap targets, screenshots.
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
