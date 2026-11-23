@@ -4475,6 +4475,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
+- [Media Probe](https://apify.com/fluidfaith/media-probe) `https://mcp.apify.com/?tools=fluidfaith/media-probe`
+  [![Media Probe MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/media-probe/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/media-probe)
+  🔐 - ffprobe metadata, frames at times or scene cuts, a contact sheet and loudness from direct video or audio file links.
 - [Meta Muse MCP Server by useapi.net](https://useapi.net/docs/api-muse-v1/mcp) `https://api.useapi.net/v1/muse/mcp`
   [![Meta Muse MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/muse/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/muse)
   🔐 - Meta Muse (muse.ai) agent chat, images and 10-second videos with sound on your Muse subscription. Not Meta-affiliated.
