@@ -6560,7 +6560,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
 - [SteerLatch](https://www.steerlatch.com/) `https://app.steerlatch.com/mcp`
   [![SteerLatch MCP connector](https://glama.ai/mcp/connectors/com.steerlatch/steerlatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.steerlatch/steerlatch)
-  🔐 - Control authorized Mac and Windows desktops, files and terminal, with STOP, revocation and shared AI context.
+  🔐 - AI/phone control of authorized Macs/PCs; Context Hub shares agent memory. Trial: 3 PCs, 5,000 calls/mo, 3 months.
 - [TakeMeUp.cv](https://takemeup.cv/en/ai-assistants) `https://takemeup.cv/api/mcp`
   [![TakeMeUp.cv MCP connector](https://glama.ai/mcp/connectors/cv.takemeup/takemeup/badges/score.svg)](https://glama.ai/mcp/connectors/cv.takemeup/takemeup)
   🔓 - CV & resume builder for Europe: country formats in 14 languages, ATS checks, cover letters, job tracker; needs sign-in.
