@@ -5535,6 +5535,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AffixIO](https://www.affix-io.com) `https://www.affix-io.com/mcp/`
   [![AffixIO MCP connector](https://glama.ai/mcp/connectors/com.affix-io/affix-io/badges/score.svg)](https://glama.ai/mcp/connectors/com.affix-io/affix-io)
   🔐 - Generate and verify zero-knowledge proofs with post-quantum attestations, without exposing personal data.
+- [Agent Registrar](https://agentregistrar.dev) `https://agentregistrar.dev/mcp`
+  [![Agent Registrar MCP connector](https://glama.ai/mcp/connectors/dev.agentregistrar/agent-registrar/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentregistrar/agent-registrar)
+  🔐 - Let AI agents sign up for services under a verified human owner, with delegated terms acceptance and agent inboxes.
 - [Agent Verifier](https://packet.guru/agents/mcp) `https://fp.packet.guru/api/v1/mcp`
   [![Agent Verifier MCP connector](https://glama.ai/mcp/connectors/guru.packet/agent-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/guru.packet/agent-verifier)
   🔓 - Test and debug your AI agent's Web Bot Auth (RFC 9421) signature and see exactly what to fix.
