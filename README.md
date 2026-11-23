@@ -542,6 +542,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nano Studio Pro](https://nanostudiopro.com) `https://nanostudiopro.com/api/mcp`
   [![Nano Studio Pro MCP connector](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro/badges/score.svg)](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro)
   🔐 - Find any photo or video you own by what is inside it; generate, restyle, cut out, and build sprite sheets.
+- [NewKitchenAI](https://newkitchenai.com)   [\![NewKitchenAI MCP connector](https://glama.ai/mcp/connectors/com.newkitchenai/kitchen-design/badges/score.svg)](https://glama.ai/mcp/connectors/com.newkitchenai/kitchen-design)
+  🔓 - Kitchen remodel styles, finish materials, examples and live pricing for NewKitchenAI's photo-to-remodel tool.
 - [Numonic](https://www.numonic.ai/docs/api/mcp) `https://www.numonic.ai/mcp`
   [![Numonic MCP connector](https://glama.ai/mcp/connectors/ai.numonic/numonic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.numonic/numonic)
   🔐 - Search, organize, and publish AI-generated images and video with provenance and lineage.
