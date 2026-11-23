@@ -428,7 +428,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create, deploy, and manage Netlify sites.
 - [PFS Free Domains](https://publicfreesuffix.org) `https://s.eus/api/mcp/pfs`
   [![PFS Free Domains MCP connector](https://glama.ai/mcp/connectors/io.github.PublicFreeSuffix/free-domains/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PublicFreeSuffix/free-domains)
-  🔐 - Search and register free second-level domains across seven live public suffixes; DNS zones and records, WHOIS, SSL certificates and free hosting, with SEUS OAuth sign-in.
+  🔐 - Search and register free second-level domains across seven live public suffixes; DNS, WHOIS, SSL certificates, free hosting, and SEUS community posts, feeds, media and comments, with SEUS OAuth sign-in.
 - [Pethost](https://pethost.dev) `https://mcp.pethost.dev/mcp`
   [![Pethost MCP connector](https://glama.ai/mcp/connectors/dev.pethost/pethost/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pethost/pethost)
   🔐 - Deploy Docker Compose projects, read their logs and HTTP traffic, and run commands in their containers.
