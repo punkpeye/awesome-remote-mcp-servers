@@ -409,8 +409,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ScopeLinq MCP connector](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq/badges/score.svg)](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq)
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
 - [SideQuest](https://sidequestpays.com) `https://sidequestpays.com/mcp`
-  [![SideQuest MCP connector](https://glama.ai/mcp/connectors/io.github.uckhill/sidequest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uckhill/sidequest)
-  🔓 - Hire verified people for real-world tasks like store checks, photos, calls and translation, paid on approved proof.
+  [![SideQuest MCP connector](https://glama.ai/mcp/connectors/com.sidequestpays/sidequest/badges/score.svg)](https://glama.ai/mcp/connectors/com.sidequestpays/sidequest)
+  🔐 - Hire real people for real-world tasks: phone calls, store checks, inspections, errands and video capture. Paid upfront, released on verified proof.
 - [Signvoy](https://www.signvoy.com/developers/mcp) `https://api.signvoy.com/mcp`
   [![Signvoy MCP connector](https://glama.ai/mcp/connectors/com.signvoy/signvoy/badges/score.svg)](https://glama.ai/mcp/connectors/com.signvoy/signvoy)
   🔐 - Send documents for e-signature from templates, remind signers, and download signed PDFs with audit trails.
