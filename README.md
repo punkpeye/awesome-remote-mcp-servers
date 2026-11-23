@@ -6201,6 +6201,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlightPowers Google Flights](https://flights.flightpowers.com) `https://flights.flightpowers.com/mcp`
   [![FlightPowers Google Flights MCP connector](https://glama.ai/mcp/connectors/com.flightpowers/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/com.flightpowers/google-flights)
   🔐 - Live Google Flights fares with a price verdict, round trips, date ranges and destination lists.
+- [Flights MCP Server](https://apify.com/lergassy/flights-mcp-server) `https://lergassy--flights-mcp-server.apify.actor/mcp`
+  [![Flights MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.lergassy/flights-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lergassy/flights-mcp-server)
+  🔑 - Google Flights fares, Google vs KAYAK price comparison, cheapest travel dates and cheapest destinations.
 - [FlyBest](https://flybest.org/en/ai/) `https://ai.flybest.org/mcp`
   [![FlyBest MCP connector](https://glama.ai/mcp/connectors/org.flybest.ai/fly-best-ai-travel-luxury-hotels-with-perks/badges/score.svg)](https://glama.ai/mcp/connectors/org.flybest.ai/fly-best-ai-travel-luxury-hotels-with-perks)
   🔐 - Live hotel rates with travel-advisor benefits (breakfast, credit, upgrade) and a one-time payment page to book.
