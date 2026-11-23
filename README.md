@@ -4988,6 +4988,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
+- [CiteStamp](https://citestamp.com/for-ai) `https://mcp.citestamp.com/mcp`
+  [![CiteStamp MCP connector](https://glama.ai/mcp/connectors/com.citestamp/citestamp/badges/score.svg)](https://glama.ai/mcp/connectors/com.citestamp/citestamp)
+  🔓 - Checks whether a reference resolves to a real work and reads what supports, refutes or cites a paper.
 - [ComputeFinder](https://computefinder.net/) `https://computefinder.net/mcp`
   [![ComputeFinder MCP connector](https://glama.ai/mcp/connectors/net.computefinder/compute-finder/badges/score.svg)](https://glama.ai/mcp/connectors/net.computefinder/compute-finder)
   🔓 - Evidence-led compute directory: providers, programmes and site records as dated MCP resources; no prices or rankings.
