@@ -3264,6 +3264,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
   [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
   🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
+- [Memory.fit](https://memory.fit) `https://api.memory.fit/mcp`
+  [![Memory.fit MCP connector](https://glama.ai/mcp/connectors/fit.memory/memory-fit/badges/score.svg)](https://glama.ai/mcp/connectors/fit.memory/memory-fit)
+  🔐 - Your training, sleep, recovery and fuel for the AI you use: it reads your week from your watch and apps, and writes sessions, daily targets and meal plans back.
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
