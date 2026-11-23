@@ -6117,6 +6117,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Flights MCP Server](https://apify.com/lergassy/flights-mcp-server) `https://lergassy--flights-mcp-server.apify.actor/mcp`
+  [![Flights MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.lergassy/flights-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lergassy/flights-mcp-server)
+  🔑 - Google Flights fares, Google vs KAYAK price comparison, cheapest travel dates and cheapest destinations.
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
