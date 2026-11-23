@@ -2357,6 +2357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cleave for Agents](https://cleave.fi/docs/agents) `https://api.cleave.fi/mcp`
   [![Cleave for Agents MCP connector](https://glama.ai/mcp/connectors/fi.cleave/swap/badges/score.svg)](https://glama.ai/mcp/connectors/fi.cleave/swap)
   🔓 - Plans split token swaps, cross-chain swaps and gas top-ups on 6 EVM chains as unsigned calls.
+- [CMD+RVL Receipts](https://cmdrvl.com/tools/receipts/) `https://receipts.cmdrvl.com/mcp`
+  [![CMD+RVL Receipts MCP connector](https://glama.ai/mcp/connectors/com.cmdrvl/receipts/badges/score.svg)](https://glama.ai/mcp/connectors/com.cmdrvl/receipts)
+  🔓 - Check CMBS deal and loan claims against public filings and get a verdict with filing citations.
 - [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
   [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
   🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
