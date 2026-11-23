@@ -3306,6 +3306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [TechJobs.vn](https://techjobs.vn/mcp/setup) `https://techjobs.vn/mcp`
+  [![TechJobs.vn MCP connector](https://glama.ai/mcp/connectors/vn.techjobs/techjobs/badges/score.svg)](https://glama.ai/mcp/connectors/vn.techjobs/techjobs)
+  🔐 - Search open tech jobs in Vietnam, evaluate them against your CV, track applications and prepare interviews.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
