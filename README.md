@@ -4843,6 +4843,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hercules](https://hercules.properties/integrations/mcp) `https://app.hercules.properties/mcp`
   [![Hercules MCP connector](https://glama.ai/mcp/connectors/properties.hercules/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/properties.hercules/property-data)
   🔓 - NYC and US property records: owners, LLC lookups, portfolios, mortgages, NYC pre-foreclosures and investor searches.
+- [Homechecker Guides](https://homechecker.com.au/ai) `https://mcp.homechecker.com.au/mcp`
+  [![Homechecker Guides MCP connector](https://glama.ai/mcp/connectors/io.github.Steven3265/homechecker-guides/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Steven3265/homechecker-guides)
+  🔓 - Australian homebuyer guides: building risks, sale and strata documents, and sourced pre-purchase checklists.
 - [Homesage.ai](https://homesage.ai/products/real-estate-mcps/) `https://api.homesage.ai/mcp`
   [![Homesage.ai MCP connector](https://glama.ai/mcp/connectors/ai.homesage.api/homesageai-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.homesage.api/homesageai-mcp)
   🔐 - US property values, comps, rent, rehab costs, flip returns and owner of record for 160M+ properties.
@@ -4876,6 +4879,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miramo](https://www.miramo.fr/outils/mcp) `https://mcp.miramo.fr/mcp`
   [![Miramo MCP connector](https://glama.ai/mcp/connectors/fr.miramo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fr.miramo/mcp)
   🔓 - French rental law: rent caps at an address, tense and ABC zones, airport noise zones and unfurnished lease drafts.
+- [Moyne Ross](https://moyneross.com/assistants) `https://mcp.moyneross.com/mcp`
+  [![Moyne Ross MCP connector](https://glama.ai/mcp/connectors/io.github.Steven3265/moyneross/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Steven3265/moyneross)
+  🔓 - Capital research and a 103-page library on how commercial building elements fail, graded and cited.
 - [NebenkostenPro](https://nebenkostenpro.de/mcp) `https://nebenkostenpro.de/mcp`
   [![NebenkostenPro MCP connector](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten/badges/score.svg)](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten)
   🔓 - German utility costs for 400 cities, property tax rates, housing benefit levels and utility bill deadlines.
