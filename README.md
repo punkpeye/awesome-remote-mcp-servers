@@ -602,6 +602,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Showoff](https://showoff.dev) `https://showoff.dev/mcp`
   [![Showoff MCP connector](https://glama.ai/mcp/connectors/dev.showoff/showoff/badges/score.svg)](https://glama.ai/mcp/connectors/dev.showoff/showoff)
   🔐 - Art-direct 3D device mockups, App Store screenshot sets and launch videos for your app.
+- [Shystudio](https://shystudio.ai) `https://shystudio.ai/app/mcp`
+  [![Shystudio MCP connector](https://glama.ai/mcp/connectors/ai.shystudio/shystudio/badges/score.svg)](https://glama.ai/mcp/connectors/ai.shystudio/shystudio)
+  🔐 - Clean up speech, remove noise, add captions and export video edits from your AI assistant.
 - [Soleil Clusters](https://clusters.soleilpictures.com) `https://clusters.soleilpictures.com/api/v1/mcp`
   [![Soleil Clusters MCP connector](https://glama.ai/mcp/connectors/com.soleilpictures/clusters/badges/score.svg)](https://glama.ai/mcp/connectors/com.soleilpictures/clusters)
   🔐 - Make and read visual mood boards: import pictures from links, add notes, palettes and docs, and draw the board inline.
