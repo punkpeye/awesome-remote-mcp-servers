@@ -3307,6 +3307,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
 
+- [Unified 6-ATS Jobs & Hiring Intelligence](https://apify.com/spiky_closet/ats-jobs-hiring-intel) `https://spiky-closet--ats-jobs-hiring-intel.apify.actor/mcp`
+  [![Unified 6-ATS Jobs & Hiring Intel MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/ats-jobs-hiring-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/ats-jobs-hiring-intel-mcp)
+  🔑 - Extract jobs, USD salary ranges, and 135+ JD tech signals across Ashby, Greenhouse, Lever, Workday, and BambooHR.
+
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
