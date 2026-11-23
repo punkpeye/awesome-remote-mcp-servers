@@ -33,7 +33,6 @@ A remote MCP server is an MCP server someone else operates for you. Instead of i
 
 Everything listed here is a remote server. Entries are only listed after the endpoint answers an MCP `initialize` handshake.
 
-- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 ## How to connect
 
 Most clients accept a bare URL. A few examples:
@@ -4231,6 +4230,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SiteCheck](https://api.sitecheck-api.workers.dev) `https://api.sitecheck-api.workers.dev/mcp`
   [![SiteCheck MCP connector](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck)
   🔓 - 29 x402 pay-per-call tools: web page to Markdown, PDF text, tech stack, email, domain, Solana, KYB.
+- [Skool Community Scraper](https://apify.com/publicrecords/skool-community-growth-tracker) `https://mcp.apify.com?tools=publicrecords/skool-community-growth-tracker`
+  [![Skool Community Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/skool-community-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/skool-community-mcp)
+  🔐 - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - [SnoopScan](https://snoopscan.com) `https://api.snoopscan.com/mcp-oauth`
   [![SnoopScan MCP connector](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan)
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
