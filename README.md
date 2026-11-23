@@ -6324,6 +6324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
+- [Transportli Car Shipping](https://transportli.com/auto-transport/car-shipping-api/) `https://app.transportli.com/mcp`
+  [![Transportli Car Shipping MCP connector](https://glama.ai/mcp/connectors/io.github.Transportlicom/car-shipping/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Transportlicom/car-shipping)
+  🔑 - US car shipping price range (lowest, medium, highest), real shipping requests and carrier bids.
 - [Travel Check](https://tools.openkrill.app/#travel) `https://travel.openkrill.app/mcp`
   [![Travel Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/travel/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/travel)
   🔓 - UK and US government travel advice by country, plus live FAA delays and weather for US airports.
