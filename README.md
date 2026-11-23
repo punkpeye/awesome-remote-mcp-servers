@@ -3818,6 +3818,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CiteLadder](https://citeladder.com) `https://api.citeladder.com/mcp`
   [![CiteLadder MCP connector](https://glama.ai/mcp/connectors/com.citeladder/citeladder/badges/score.svg)](https://glama.ai/mcp/connectors/com.citeladder/citeladder)
   🔐 - Track how ChatGPT, Gemini and Claude answer buyer questions, which brands they name and sources cited.
+- [ClaraConverts](https://claraconverts.com) `https://claraconverts.com/mcp`
+  [![ClaraConverts MCP connector](https://glama.ai/mcp/connectors/com.claraconverts/clara/badges/score.svg)](https://glama.ai/mcp/connectors/com.claraconverts/clara)
+  🔓 - Add a voice and text chat agent to a website: trial, embed code, site content, settings; account key for most calls.
 - [CommunityMentions](https://communitymentions.com) `https://communitymentions.com/api/mcp`
   [![CommunityMentions MCP connector](https://glama.ai/mcp/connectors/com.communitymentions/communitymentions/badges/score.svg)](https://glama.ai/mcp/connectors/com.communitymentions/communitymentions)
   🔓 - Which subreddits AI answers cite for a product or niche, with each subreddit's most-cited threads. Read-only.
