@@ -4547,6 +4547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
   [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
+- [StoryCut](https://www.storycut.com/features/mcp-connector) `https://app.storycut.com/mcp`
+  [![StoryCut MCP connector](https://glama.ai/mcp/connectors/com.storycut/storycut/badges/score.svg)](https://glama.ai/mcp/connectors/com.storycut/storycut)
+  🔐 - Turn YouTube, Twitch and Kick videos into captioned vertical clips with virality scores.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
