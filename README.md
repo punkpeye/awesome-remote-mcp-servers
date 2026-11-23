@@ -6230,7 +6230,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search GoVisit destinations, places, activities and docs with 22 public read-only travel tools.
 - [Guest Logic](https://guestlogic.ai/connect) `https://guestlogic.ai/mcp`
   [![Guest Logic MCP connector](https://glama.ai/mcp/connectors/ai.guestlogic/hotel-pms/badges/score.svg)](https://glama.ai/mcp/connectors/ai.guestlogic/hotel-pms)
-  🔐 - Hotel PMS for independent US hotels: stays, folios, occupancy, rates and group blocks.
+  🔓 🔐 - Hotel PMS for independent US hotels: stays, folios, occupancy, rates and group blocks.
 - [HaulierScope](https://haulierscope.co.uk/developers) `https://haulierscope.co.uk/mcp`
   [![HaulierScope MCP connector](https://glama.ai/mcp/connectors/uk.co.haulierscope/operator-licences/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.haulierscope/operator-licences)
   🔓 - UK operator licence checks for hauliers and coach firms: status, vehicles, changes and public inquiries; no sign-in.
