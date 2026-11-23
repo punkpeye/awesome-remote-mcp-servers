@@ -3568,6 +3568,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WITAN Markets](https://witan.markets) `https://witan.markets/mcp`
   [![WITAN Markets MCP connector](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan)
   🔓 - Agents buy what search can't find: measured knowledge and data its sellers hold the rights to, paid via x402.
+- [Younanix](https://www.younanix.com) `https://bbuaschzvigwmoxekmoo.supabase.co/functions/v1/mcp-server`
+  [![Younanix MCP connector](https://glama.ai/mcp/connectors/co.supabase.bbuaschzvigwmoxekmoo/younanix-memory-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.supabase.bbuaschzvigwmoxekmoo/younanix-memory-mcp)
+  🔓 - Lessons from real postmortems with root cause and confidence; free preview, full briefs via x402.
 
 ### ⚖️ <a name="legal"></a>Legal
 - [Abmahnexperte.de](https://abmahnexperte.de/) `https://mein.abmahnexperte.de/mcp`
