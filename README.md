@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [Fidem](https://fidemcheck.com/for-agents.html) `https://fidemcheck.com/mcp`
+  [![Fidem MCP connector](https://glama.ai/mcp/connectors/com.fidemcheck/fidem/badges/score.svg)](https://glama.ai/mcp/connectors/com.fidemcheck/fidem)
+  🔓 - Check the company behind an online shop before paying: signed verification, official registers, domain age.
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
