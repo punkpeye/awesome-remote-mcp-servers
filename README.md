@@ -4481,6 +4481,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiCompress](https://micompress.com/mcp-server) `https://micompress.com/mcp`
   [![MiCompress MCP connector](https://glama.ai/mcp/connectors/com.micompress/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.micompress/mcp)
   🔓 - Compress images, PDFs, video, audio and Office files from a URL and get a download link to the smaller file.
+- [Mira: TikTok, Instagram Reels & YouTube Transcript](https://mira-ai-skill.pro/?source=arm) `https://mira-ai-skill.pro/mcp`
+  [![Mira MCP connector](https://glama.ai/mcp/connectors/io.github.Mira-AI-Tools/mira/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mira-AI-Tools/mira)
+  🔑 - Transcribe TikTok, Instagram Reels and YouTube videos: transcript, on-screen text, structured extract, video download.
 - [MockClip](https://mockclip.com/integrations) `https://mockclip.com/api/mcp`
   [![MockClip MCP connector](https://glama.ai/mcp/connectors/com.mockclip/mockclip/badges/score.svg)](https://glama.ai/mcp/connectors/com.mockclip/mockclip)
   🔑 - Create fake chat and phone-screen videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit) as MP4.
