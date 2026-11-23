@@ -644,6 +644,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
+- [AIVane](https://aivane.net/docs/ai-tools/) `https://app.aivane.net/mcp`
+  [![AIVane MCP connector](https://glama.ai/mcp/connectors/net.aivane/aivane/badges/score.svg)](https://glama.ai/mcp/connectors/net.aivane/aivane)
+  🔐 - Run saved browser automations to scrape sites, extract data to CSV or Sheets, fill forms and download files.
+
 - [Allscreenshots](https://allscreenshots.com) `https://mcp.allscreenshots.com/mcp/v1`
   [![Allscreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots)
   🔐 - Capture website screenshots, run bulk captures, and manage screenshot schedules and history.
