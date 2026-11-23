@@ -6162,6 +6162,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cartagena Trip Planner](https://cartagena.info/ai-assistants/) `https://cartagena.info/mcp`
   [![Cartagena Trip Planner MCP connector](https://glama.ai/mcp/connectors/info.cartagena/cartagena-trip-planner/badges/score.svg)](https://glama.ai/mcp/connectors/info.cartagena/cartagena-trip-planner)
   🔓 - Cartagena, Colombia day plans, cruise days ashore, islands, areas, months, fees and transport.
+- [CGC Airport Transfers](https://cgctransfers.com.au/ai-agent-gateway/) `https://cgctransfers.com.au/wp-json/cgc-gateway/v1/mcp`
+  [![CGC Airport Transfers MCP connector](https://glama.ai/mcp/connectors/au.com.cgctransfers/booking/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.cgctransfers/booking)
+  🔓 - Fixed-price quotes, availability and pre-filled booking links for private airport transfers on the Gold Coast.
 - [CheapCarRent search](https://cheapcarent.com) `https://cheapcarent.com/mcp`
   [![CheapCarRent search MCP connector](https://glama.ai/mcp/connectors/com.cheapcarent/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapcarent/search)
   🔓 - Search car rental offers by city or airport and dates, with live prices and a link to each offer.
