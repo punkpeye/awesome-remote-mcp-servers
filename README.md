@@ -811,6 +811,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Symbioza](https://symbioza.dev) `https://symbioza.dev/mcp`
   [![Symbioza MCP connector](https://glama.ai/mcp/connectors/dev.symbioza/symbioza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.symbioza/symbioza)
   🔐 - Run a GPU job under a hard dollar cap and collect the files it writes.
+- [thelastapi](https://thelastapi.dev/docs) `https://thelastapi.dev/mcp`
+  [![thelastapi MCP connector](https://glama.ai/mcp/connectors/dev.thelastapi/thelastapi/badges/score.svg)](https://glama.ai/mcp/connectors/dev.thelastapi/thelastapi)
+  🔐 - Deploy sites with a Postgres database, sign-in, email, AI and payments for a new business, on one key.
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
   [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
   🔓 - Add production storage, data, jobs, webhooks, email and secrets to an app, and meter the usage.
