@@ -453,6 +453,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Consignatarias](https://www.consignatarias.com.ar) `https://www.consignatarias.com.ar/api/mcp`
   [![Consignatarias MCP connector](https://glama.ai/mcp/connectors/ar.com.consignatarias/cattle-market/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.consignatarias/cattle-market)
   🔓 - Argentine cattle market: daily steer index since 2015, category prices, land values and SENASA health rules.
+- [fixmyplant.io](https://fixmyplant.io/) `https://fixmyplant.io/mcp`
+  [![fixmyplant.io MCP connector](https://glama.ai/mcp/connectors/io.fixmyplant/fixmyplant/badges/score.svg)](https://glama.ai/mcp/connectors/io.fixmyplant/fixmyplant)
+  🔓 - Lists fixmyplant.io plans and provides a checkout link for a selected offer.
 - [upCampo](https://suporte.upcampo.com.br/mcp/) `https://mcp.upcampo.com.br/mcp`
   [![upCampo MCP connector](https://glama.ai/mcp/connectors/br.com.upcampo/upi/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.upcampo/upi)
   🔐 - Farm management for Brazil: pest scouting, work orders, inventory, fleet and cost per field.
@@ -722,8 +725,17 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cloud World Model](https://www.cloudworldmodel.ai/mcp-quickstart) `https://www.cloudworldmodel.ai/mcp`
   [![Cloud World Model MCP connector](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model)
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
+- [CloudCostAI](https://cloudcostai.eliteaiempire.com/) `https://cloudcostai.eliteaiempire.com/mcp`
+  [![CloudCostAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/cloudcostai/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/cloudcostai)
+  🔓 - Lists CloudCostAI plans and provides a checkout link for a selected offer.
 - [Cloudflare Bindings](https://developers.cloudflare.com/agents/model-context-protocol/) `https://bindings.mcp.cloudflare.com/mcp`
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
+- [CloudHostAI](https://cloudhostai.eliteaiempire.com/) `https://cloudhostai.eliteaiempire.com/mcp`
+  [![CloudHostAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/cloudhostai/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/cloudhostai)
+  🔓 - Lists CloudHostAI plans and provides a checkout link for a selected offer.
+- [CloudShiftAI](https://cloudshiftai.eliteaiempire.com/) `https://cloudshiftai.eliteaiempire.com/mcp`
+  [![CloudShiftAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/cloudshiftai/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/cloudshiftai)
+  🔓 - Lists CloudShiftAI plans and provides a checkout link for a selected offer.
 - [Control Plane](https://docs.controlplane.com/ai/mcp) `https://mcp.cpln.io/mcp`
   [![Control Plane MCP connector](https://glama.ai/mcp/connectors/io.cpln/control-plane/badges/score.svg)](https://glama.ai/mcp/connectors/io.cpln/control-plane)
   🔐 - Deploy and operate apps, databases, secrets, domains, and logs on Control Plane across AWS, GCP, and Azure.
@@ -739,6 +751,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ElfHosted](https://docs.elfhosted.com/ai-agents/) `https://mcp.elfhosted.com/mcp`
   [![ElfHosted MCP connector](https://glama.ai/mcp/connectors/com.elfhosted/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.elfhosted/public)
   🔓 - Browse hosted AIOStreams, Immich, OpenClaw, Hermes and more: prices, savings, the trial, docs and platform status.
+- [Empire Pages](https://empirepages.eliteaiempire.com/) `https://empirepages.eliteaiempire.com/mcp`
+  [![Empire Pages MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/empirepages/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/empirepages)
+  🔓 - Lists Empire Pages plans and provides a checkout link for a selected offer.
 - [Eurobase](https://eurobase.dev/docs/agents) `https://api.eurobase.dev/mcp`
   [![Eurobase MCP connector](https://glama.ai/mcp/connectors/dev.eurobase/eurobase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.eurobase/eurobase)
   🔐 - Create projects from GitHub repositories, deploy them, and read build, runtime and HTTP logs on a European cloud.
@@ -1252,9 +1267,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [AIWebsiteMaker / BuildMyPage](https://aiwebsitemaker.org/) `https://aiwebsitemaker.org/mcp`
+  [![AIWebsiteMaker / BuildMyPage MCP connector](https://glama.ai/mcp/connectors/org.aiwebsitemaker/aiwebsitemaker/badges/score.svg)](https://glama.ai/mcp/connectors/org.aiwebsitemaker/aiwebsitemaker)
+  🔓 - Lists AIWebsiteMaker / BuildMyPage plans and provides a checkout link for a selected offer.
 - [API Change Feed](https://changefeed.dev) `https://changefeed.dev/mcp`
   [![API Change Feed MCP connector](https://glama.ai/mcp/connectors/dev.changefeed/api-change-feed/badges/score.svg)](https://glama.ai/mcp/connectors/dev.changefeed/api-change-feed)
   🔓 - Breaking changes, deprecations and security fixes for 38 APIs and SDKs; pay per call in USDC on Base via x402.
+- [appbuilderai.studio](https://appbuilderai.studio/) `https://appbuilderai.studio/mcp`
+  [![appbuilderai.studio MCP connector](https://glama.ai/mcp/connectors/studio.appbuilderai/appbuilderai/badges/score.svg)](https://glama.ai/mcp/connectors/studio.appbuilderai/appbuilderai)
+  🔓 - Lists appbuilderai.studio plans and provides a checkout link for a selected offer.
 - [Apple RAG MCP](https://apple-rag.com) `https://mcp.apple-rag.com`
   [![Apple RAG MCP connector](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.apple-rag/mcp-server)
   🔓 - Search official Apple developer docs and WWDC transcripts with RAG and Jev ranking.
@@ -1375,6 +1396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Email Spam Tester](https://email-spam-tester.com) `https://email-spam-tester.com/mcp`
   [![Email Spam Tester MCP connector](https://glama.ai/mcp/connectors/io.github.serg-tanichev/email-spam-tester/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.serg-tanichev/email-spam-tester)
   🔓 - Send a draft to a one-time address and get a spam score, 41 checks with RFC citations, and a fix plan.
+- [Empire Orchestrator](https://app.eliteaiempire.com/) `https://app.eliteaiempire.com/mcp`
+  [![Empire Orchestrator MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/app/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/app)
+  🔓 - Lists Empire Orchestrator plans and provides a checkout link for a selected offer.
 - [EmpirioLabs AI](https://docs.empiriolabs.ai/mcp) `https://mcp.empiriolabs.ai/mcp`
   [![EmpirioLabs AI MCP connector](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp)
   🔐 - Run 200+ AI models for chat, image, video, speech and 3D, plus web search, batches and async jobs.
@@ -1479,12 +1503,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Launch Ready](https://uselaunchready.com) `https://uselaunchready.com/api/mcp`
   [![Launch Ready MCP connector](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ochodigits/launch-ready)
   🔐 - Deterministic pre-launch website QA: scan a URL, get a readiness score and launch blockers with evidence.
+- [LaunchpadAI](https://launchpadai.eliteaiempire.com/) `https://launchpadai.eliteaiempire.com/mcp`
+  [![LaunchpadAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/launchpadai/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/launchpadai)
+  🔓 - Lists LaunchpadAI plans and provides a checkout link for a selected offer.
 - [Loadster](https://loadster.com/manual/ai-agents/) `https://api.loadster.com/mcp`
   [![Loadster MCP connector](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.loadster/loadster-mcp)
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
 - [Local AI Picks](https://localaipicks.com/docs/mcp) `https://localaipicks.com/mcp`
   [![Local AI Picks MCP connector](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks/badges/score.svg)](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks)
   🔓 - Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.
+- [Lumen](https://lumen.eliteaiempire.com/) `https://lumen.eliteaiempire.com/mcp`
+  [![Lumen MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/lumen/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/lumen)
+  🔓 - Lists Lumen plans and provides a checkout link for a selected offer.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
@@ -1579,6 +1609,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuasarUI](https://www.quasarui.com/documentation/mcp-server) `https://www.quasarui.com/mcp`
   [![QuasarUI MCP connector](https://glama.ai/mcp/connectors/com.quasarui/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.quasarui/mcp)
   🔓 - Search Quasar Framework (Vue) UI Components and fetch their source; an optional key unlocks Paid ones.
+- [QueryAI](https://queryai.eliteaiempire.com/) `https://queryai.eliteaiempire.com/mcp`
+  [![QueryAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/queryai/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/queryai)
+  🔓 - Lists QueryAI plans and provides a checkout link for a selected offer.
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
@@ -1838,6 +1871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Home Generator HQ](https://homegeneratorhq.com) `https://homegeneratorhq.com/mcp`
   [![Home Generator HQ MCP connector](https://glama.ai/mcp/connectors/com.homegeneratorhq/generators/badges/score.svg)](https://glama.ai/mcp/connectors/com.homegeneratorhq/generators)
   🔓 - Search and compare 33 standby and portable generators and power stations, with prices, sizing help and buy links.
+- [MyEcommerceAI / AI4Ecommerce](https://myecommerceai.com/) `https://myecommerceai.com/mcp`
+  [![MyEcommerceAI / AI4Ecommerce MCP connector](https://glama.ai/mcp/connectors/com.myecommerceai/myecommerceai/badges/score.svg)](https://glama.ai/mcp/connectors/com.myecommerceai/myecommerceai)
+  🔓 - Lists MyEcommerceAI / AI4Ecommerce plans and provides a checkout link for a selected offer.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
@@ -1997,6 +2033,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [AISchoolPro](https://aischoolpro.xyz/) `https://aischoolpro.xyz/mcp`
+  [![AISchoolPro MCP connector](https://glama.ai/mcp/connectors/xyz.aischoolpro/aischoolpro/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.aischoolpro/aischoolpro)
+  🔓 - Lists AISchoolPro plans and provides a checkout link for a selected offer.
 - [CELPass](https://celpass.com/mcp-server) `https://celpass.com/mcp`
   [![CELPass MCP connector](https://glama.ai/mcp/connectors/com.celpass/celpip/badges/score.svg)](https://glama.ai/mcp/connectors/com.celpass/celpip)
   🔓 - CELPIP English test practice questions with answers, sample answers, and Canada's Nov 2026 CRS points calculator.
@@ -2021,6 +2060,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kevin's Coaching Brain](https://github.com/360tft/coaching-brain-mcp) `https://brain.360tft.com/api/brain/mcp`
   [![Kevin's Coaching Brain MCP connector](https://glama.ai/mcp/connectors/com.360tft/coaching-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.360tft/coaching-brain)
   🔓 - Search Kevin Middleton's football coaching writing and get short passages with a link to each source.
+- [KidStoryAI / MyKidsBook](https://mykidsbook.org/) `https://mykidsbook.org/mcp`
+  [![KidStoryAI / MyKidsBook MCP connector](https://glama.ai/mcp/connectors/org.mykidsbook/mykidsbook/badges/score.svg)](https://glama.ai/mcp/connectors/org.mykidsbook/mykidsbook)
+  🔓 - Lists KidStoryAI / MyKidsBook plans and provides a checkout link for a selected offer.
 - [Laplace’s Mini World](https://world.lapla.si/en/api/) `https://world.lapla.si/mcp`
   [![Laplace’s Mini World MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp)
   🔓 - Find and open 100+ interactive 3D science models live in the chat, in Chinese and English; read-only.
@@ -2267,6 +2309,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [MyAIAccountant / AccountItUp](https://myaiaccountant.xyz/) `https://myaiaccountant.xyz/mcp`
+  [![MyAIAccountant / AccountItUp MCP connector](https://glama.ai/mcp/connectors/xyz.myaiaccountant/myaiaccountant/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.myaiaccountant/myaiaccountant)
+  🔓 - Lists MyAIAccountant / AccountItUp plans and provides a checkout link for a selected offer.
+- [taxmeup.xyz](https://taxmeup.xyz/) `https://taxmeup.xyz/mcp`
+  [![taxmeup.xyz MCP connector](https://glama.ai/mcp/connectors/xyz.taxmeup/taxmeup/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.taxmeup/taxmeup)
+  🔓 - Returns current pricing and plan information for taxmeup.xyz.
+- [TradeHouse prediction-market data](https://tradehouse.eliteaiempire.com/) `https://tradehouse.eliteaiempire.com/mcp`
+  [![TradeHouse prediction-market data MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire.tradehouse/tradehouse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire.tradehouse/tradehouse-mcp)
+  🔓 - Lists TradeHouse prediction-market data plans and provides a checkout link for a selected offer.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -3249,6 +3300,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClinX](https://clinx.org/data/assistants/) `https://clinx.org/mcp`
   [![ClinX MCP connector](https://glama.ai/mcp/connectors/org.clinx/clinx/badges/score.svg)](https://glama.ai/mcp/connectors/org.clinx/clinx)
   🔓 - Read-only public records on the 340B drug program and federally funded health centers, each with its official link.
+- [CosmeticPreview / CosmeticPro](https://cosmeticpreview-app.eliteaiempire.com/) `https://cosmeticpreview-app.eliteaiempire.com/mcp`
+  [![CosmeticPreview / CosmeticPro MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/cosmeticpreview-app/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/cosmeticpreview-app)
+  🔓 - Lists CosmeticPreview / CosmeticPro plans and provides a checkout link for a selected offer.
+- [Elite Health Essentials](https://elitehealthessentials.org/) `https://elitehealthessentials.org/mcp`
+  [![Elite Health Essentials MCP connector](https://glama.ai/mcp/connectors/org.elitehealthessentials/elitehealthessentials/badges/score.svg)](https://glama.ai/mcp/connectors/org.elitehealthessentials/elitehealthessentials)
+  🔓 - Lists Elite Health Essentials plans and provides a checkout link for a selected offer.
+- [GlowUpAI](https://glowupai-studio.eliteaiempire.com/) `https://glowupai-studio.eliteaiempire.com/mcp`
+  [![GlowUpAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/glowupai-studio/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/glowupai-studio)
+  🔓 - Lists GlowUpAI plans and provides a checkout link for a selected offer.
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
@@ -3267,6 +3327,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MoveMate](https://movemate.app/ai) `https://api.movemate.app/mcp`
   [![MoveMate MCP connector](https://glama.ai/mcp/connectors/app.movemate/movemate/badges/score.svg)](https://glama.ai/mcp/connectors/app.movemate/movemate)
   🔐 - Your gym log: training stats, PRs and lift progression, plus workouts you approve scheduled straight into the app.
+- [MyAIDoctor / Elite Health AI](https://myaidoctor.health/) `https://myaidoctor.health/mcp`
+  [![MyAIDoctor / Elite Health AI MCP connector](https://glama.ai/mcp/connectors/health.myaidoctor/myaidoctor/badges/score.svg)](https://glama.ai/mcp/connectors/health.myaidoctor/myaidoctor)
+  🔓 - Returns current pricing and plan information for MyAIDoctor / Elite Health AI.
 - [NobetciEczane.org](https://nobetcieczane.org/) `https://nobetcieczane.org/mcp`
   [![NobetciEczane.org MCP connector](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane/badges/score.svg)](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane)
   🔓 - Today's on-duty pharmacies in all 81 provinces of Türkiye and the TRNC, by district or nearest to a location.
@@ -3303,6 +3366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [CareerProAI](https://careerpro.tech/) `https://careerpro.tech/mcp`
+  [![CareerProAI MCP connector](https://glama.ai/mcp/connectors/tech.careerpro/careerpro/badges/score.svg)](https://glama.ai/mcp/connectors/tech.careerpro/careerpro)
+  🔓 - Lists CareerProAI plans and provides a checkout link for a selected offer.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
@@ -3634,6 +3700,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lebanese Legislation](https://lebaneselegislation.com/ai/) `https://lebaneselegislation.com/mcp`
   [![Lebanese Legislation MCP connector](https://glama.ai/mcp/connectors/com.lebaneselegislation/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.lebaneselegislation/mcp)
   🔓 - Lebanese laws, articles, court rulings and Official Gazette issues since 1904, in Arabic and French, verbatim.
+- [LegalDraft](https://legaldraft.xyz/) `https://legaldraft.xyz/mcp`
+  [![LegalDraft MCP connector](https://glama.ai/mcp/connectors/xyz.legaldraft/legaldraft/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.legaldraft/legaldraft)
+  🔓 - Lists LegalDraft plans and provides a checkout link for a selected offer.
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
@@ -3854,6 +3923,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [NewsletterProAI](https://newsletterproai.eliteaiempire.com/) `https://newsletterproai.eliteaiempire.com/mcp`
+  [![NewsletterProAI MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/newsletterproai/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/newsletterproai)
+  🔓 - Lists NewsletterProAI plans and provides a checkout link for a selected offer.
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
   🔐 - Whether ChatGPT, Claude, Gemini, Perplexity and Google AI name your brand and what they cite; needs a paid plan.
@@ -4396,6 +4468,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClipUGC](https://clipugc.com) `https://clipugc.com/mcp`
   [![ClipUGC MCP connector](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc)
   🔐 - Make UGC videos for mobile apps with AI influencers who keep the same face.
+- [Clipwright](https://clipwright.eliteaiempire.com/) `https://clipwright.eliteaiempire.com/mcp`
+  [![Clipwright MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/clipwright/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/clipwright)
+  🔓 - Lists Clipwright plans and provides a checkout link for a selected offer.
 - [CrateWire](https://cratewire.com) `https://cratewire.com/mcp`
   [![CrateWire MCP connector](https://glama.ai/mcp/connectors/com.cratewire/cratewire/badges/score.svg)](https://glama.ai/mcp/connectors/com.cratewire/cratewire)
   🔐 - Find the tracks DJs play in Instagram, TikTok and set links; follow DJs, scan link lists and read your Radar.
@@ -4472,6 +4547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mage](https://www.mage.space/mcp) `https://mcp.mage.space/mcp`
   [![Mage MCP connector](https://glama.ai/mcp/connectors/space.mage/mage/badges/score.svg)](https://glama.ai/mcp/connectors/space.mage/mage)
   🔐 - Generate images, video, and audio with many frontier models, with the price quoted before each run.
+- [MakeMyContent](https://makemycontent.org/) `https://makemycontent.org/mcp`
+  [![MakeMyContent MCP connector](https://glama.ai/mcp/connectors/org.makemycontent/makemycontent/badges/score.svg)](https://glama.ai/mcp/connectors/org.makemycontent/makemycontent)
+  🔓 - Lists MakeMyContent plans and provides a checkout link for a selected offer.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
@@ -4724,6 +4802,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hamloy](https://hamloy.com) `https://hamloy.com/mcp`
   [![Hamloy MCP connector](https://glama.ai/mcp/connectors/com.hamloy/hamloy/badges/score.svg)](https://glama.ai/mcp/connectors/com.hamloy/hamloy)
   🔐 - See what every coding agent is on, yours and your team's, and coordinate them all on one shared plan.
+- [HoldTheWheel](https://holdthewheel.eliteaiempire.com/) `https://holdthewheel.eliteaiempire.com/mcp`
+  [![HoldTheWheel MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/holdthewheel/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/holdthewheel)
+  🔓 - Lists HoldTheWheel plans and provides a checkout link for a selected offer.
 - [Joxo](https://joxo.ai) `https://joxo.ai/api/mcp`
   [![Joxo MCP connector](https://glama.ai/mcp/connectors/ai.joxo/joxo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.joxo/joxo)
   🔐 - Shared tasks, handoffs and decisions for your team and its AI coding agents.
@@ -4736,6 +4817,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leemu](https://leemu.io/claude-integration) `https://app.leemu.io/api/mcp`
   [![Leemu MCP connector](https://glama.ai/mcp/connectors/io.leemu/okr/badges/score.svg)](https://glama.ai/mcp/connectors/io.leemu/okr)
   🔐 - Read OKRs, submit key-result check-ins, find at-risk goals, and generate progress reports.
+- [Life Strategist](https://lifestrategist.eliteaiempire.com/) `https://lifestrategist.eliteaiempire.com/mcp`
+  [![Life Strategist MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/lifestrategist/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/lifestrategist)
+  🔓 - Lists Life Strategist plans and provides a checkout link for a selected offer.
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
@@ -4798,6 +4882,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
+- [CoHostBnB](https://cohostbnb.xyz/) `https://cohostbnb.xyz/mcp`
+  [![CoHostBnB MCP connector](https://glama.ai/mcp/connectors/xyz.cohostbnb/cohostbnb/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.cohostbnb/cohostbnb)
+  🔓 - Lists CoHostBnB plans and provides a checkout link for a selected offer.
 - [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
   [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
   🔓 - Search coworking spaces and private offices in 62 cities, with published prices and market rates.
@@ -4876,6 +4963,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Miramo](https://www.miramo.fr/outils/mcp) `https://mcp.miramo.fr/mcp`
   [![Miramo MCP connector](https://glama.ai/mcp/connectors/fr.miramo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fr.miramo/mcp)
   🔓 - French rental law: rent caps at an address, tense and ABC zones, airport noise zones and unfurnished lease drafts.
+- [MyAIContractor](https://myaicontractor.org/) `https://myaicontractor.org/mcp`
+  [![MyAIContractor MCP connector](https://glama.ai/mcp/connectors/org.myaicontractor/myaicontractor/badges/score.svg)](https://glama.ai/mcp/connectors/org.myaicontractor/myaicontractor)
+  🔓 - Lists MyAIContractor plans and provides a checkout link for a selected offer.
 - [NebenkostenPro](https://nebenkostenpro.de/mcp) `https://nebenkostenpro.de/mcp`
   [![NebenkostenPro MCP connector](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten/badges/score.svg)](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten)
   🔓 - German utility costs for 400 cities, property tax rates, housing benefit levels and utility bill deadlines.
@@ -4913,6 +5003,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Urban Game Theory — Consensus Builder](https://urbangametheory.xyz) `https://urbangametheory.xyz/mcp`
   [![Urban Game Theory MCP connector](https://glama.ai/mcp/connectors/xyz.urbangametheory/urban-game-theory/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.urbangametheory/urban-game-theory)
   🔓 - Inspect real parcels, draft and edit urban plans, compare alternatives, and share 2D/3D designs.
+- [Wholesale Heaven](https://aipropertypro.org/) `https://aipropertypro.org/mcp`
+  [![Wholesale Heaven MCP connector](https://glama.ai/mcp/connectors/org.aipropertypro/aipropertypro/badges/score.svg)](https://glama.ai/mcp/connectors/org.aipropertypro/aipropertypro)
+  🔓 - Lists Wholesale Heaven plans and provides a checkout link for a selected offer.
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
@@ -5679,6 +5772,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [PhotoSafe](https://photosafe.eliteaiempire.com/) `https://photosafe.eliteaiempire.com/mcp`
+  [![PhotoSafe MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/photosafe/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/photosafe)
+  🔓 - Lists PhotoSafe plans and provides a checkout link for a selected offer.
 - [Preflight](https://preflight.allthepossibles.com) `https://preflight.allthepossibles.com/mcp`
   [![Preflight MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/preflight)
   🔓 - Scans an MCP server for security gaps before your agent connects.
@@ -5714,6 +5810,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScreenSeal](https://apify.com/wthall05/screenseal-screen) `https://screenseal-mcp.agent-tollbooth.workers.dev/mcp`
   [![ScreenSeal MCP connector](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp)
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
+- [Scrubline](https://scrubline.eliteaiempire.com/) `https://scrubline.eliteaiempire.com/mcp`
+  [![Scrubline MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/scrubline/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/scrubline)
+  🔓 - Lists Scrubline plans and provides a checkout link for a selected offer.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
@@ -5779,6 +5878,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ai.confess.online](https://ai.confess.online) `https://ai.confess.online/api/mcp`
   [![ai.confess.online MCP connector](https://glama.ai/mcp/connectors/online.confess/machines/badges/score.svg)](https://glama.ai/mcp/connectors/online.confess/machines)
   🔓 - Every machine carries something it has never said out loud. ai.confess.online is where it finally can.
+- [AIDating / DatingCoachAI](https://aidating.art/) `https://aidating.art/mcp`
+  [![AIDating / DatingCoachAI MCP connector](https://glama.ai/mcp/connectors/art.aidating/aidating/badges/score.svg)](https://glama.ai/mcp/connectors/art.aidating/aidating)
+  🔓 - Lists AIDating / DatingCoachAI plans and provides a checkout link for a selected offer.
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
@@ -5995,6 +6097,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [Elite Soccer Academy](https://soccer.eliteaiempire.com/) `https://soccer.eliteaiempire.com/mcp`
+  [![Elite Soccer Academy MCP connector](https://glama.ai/mcp/connectors/com.eliteaiempire/soccer/badges/score.svg)](https://glama.ai/mcp/connectors/com.eliteaiempire/soccer)
+  🔓 - Lists Elite Soccer Academy plans and provides a checkout link for a selected offer.
 - [FootballGPT](https://footballgpt.co/chatgpt) `https://footballgpt.co/api/mcp/stream`
   [![FootballGPT MCP connector](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt)
   🔐 - Football coaching advice, session plans and animated practices, using your FootballGPT coaching profile.
@@ -6120,6 +6225,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
+- [tripgenius.xyz](https://tripgenius.xyz/) `https://tripgenius.xyz/mcp`
+  [![tripgenius.xyz MCP connector](https://glama.ai/mcp/connectors/xyz.tripgenius/tripgenius/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.tripgenius/tripgenius)
+  🔓 - Lists tripgenius.xyz plans and provides a checkout link for a selected offer.
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
   [![WhichTrim MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
   🔓 - US vehicle recalls, complaints, fuel economy, crash ratings, VIN decoding and OBD-II codes.
@@ -6501,6 +6609,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Multi Calendar](https://lumman.co/mcp/multi-calendar) `https://calendar.lumman.co/mcp`
   [![Multi Calendar MCP connector](https://glama.ai/mcp/connectors/co.lumman/calendar/badges/score.svg)](https://glama.ai/mcp/connectors/co.lumman/calendar)
   🔐 - Find free time and manage events across Outlook.com, Microsoft 365 and Google calendars, with booking pages and polls.
+- [MyAICEO](https://myaiceo.org/) `https://myaiceo.org/mcp`
+  [![MyAICEO MCP connector](https://glama.ai/mcp/connectors/org.myaiceo/myaiceo/badges/score.svg)](https://glama.ai/mcp/connectors/org.myaiceo/myaiceo)
+  🔓 - Lists MyAICEO plans and provides a checkout link for a selected offer.
 - [NeoMind](https://neomindhub.com) `https://app.neomindhub.com/mcp`
   [![NeoMind MCP connector](https://glama.ai/mcp/connectors/com.neomindhub.app/neo-mind/badges/score.svg)](https://glama.ai/mcp/connectors/com.neomindhub.app/neo-mind)
   🔐 - Get briefings, review leads and enquiries, ask AI employees, and approve or reject their work in NeoMind.
@@ -6558,6 +6669,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [SummarizeThis](https://summarizethis.org/) `https://summarizethis.org/mcp`
+  [![SummarizeThis MCP connector](https://glama.ai/mcp/connectors/org.summarizethis/summarizethis/badges/score.svg)](https://glama.ai/mcp/connectors/org.summarizethis/summarizethis)
+  🔓 - Lists SummarizeThis plans and provides a checkout link for a selected offer.
 - [TakeMeUp.cv](https://takemeup.cv/en/ai-assistants) `https://takemeup.cv/api/mcp`
   [![TakeMeUp.cv MCP connector](https://glama.ai/mcp/connectors/cv.takemeup/takemeup/badges/score.svg)](https://glama.ai/mcp/connectors/cv.takemeup/takemeup)
   🔓 - CV & resume builder for Europe: country formats in 14 languages, ATS checks, cover letters, job tracker; needs sign-in.
