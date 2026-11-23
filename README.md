@@ -1850,6 +1850,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lupamundo](https://lupamundo.com) `https://lupamundo.com/mcp`
   [![Lupamundo MCP connector](https://glama.ai/mcp/connectors/com.lupamundo/lupamundo/badges/score.svg)](https://glama.ai/mcp/connectors/com.lupamundo/lupamundo)
   🔓 - Spanish buying guides for Mexico and Latin America: dated prices in pesos, sources and picks with partner links.
+- [Magistry](https://www.magistry.io) `https://app.magistry.io/api/mcp`
+  [![Magistry MCP connector](https://glama.ai/mcp/connectors/io.magistry/magistry/badges/score.svg)](https://glama.ai/mcp/connectors/io.magistry/magistry)
+  🔐 - Run an online store from your MCP client: orders, catalog, Google Ads, Merchant Center feed and customer service.
 - [Make Parts Now](https://makepartsnow.com/developers) `https://makepartsnow.com/mcp`
   [![Make Parts Now MCP connector](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing/badges/score.svg)](https://glama.ai/mcp/connectors/com.makepartsnow/manufacturing)
   🔓 - Quote and order custom 3D printed and CNC machined parts from CAD files: SLS, FDM, aluminum and brass, US shipping.
