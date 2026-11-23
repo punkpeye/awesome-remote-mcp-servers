@@ -1919,6 +1919,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
+- [Reevol Source](https://source.reevol.com/for-agents/) `https://source.reevol.com/mcp`
+  [![Reevol Source MCP connector](https://glama.ai/mcp/connectors/com.reevol.source/supplier-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.reevol.source/supplier-search)
+  🔓 - Search and compare 200,000+ global suppliers by name, brief, HS code or country; free read tools.
 - [reusefulshop](https://reusefulshop.com) `https://reusefulshop.com/mcp`
   [![reusefulshop MCP connector](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop)
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
@@ -4964,6 +4967,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
   [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
   🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
+- [Reevi](https://reevi.ai/find-buyers) `https://reevi.ai/mcp`
+  [![Reevi MCP connector](https://glama.ai/mcp/connectors/ai.reevi/find-buyers/badges/score.svg)](https://glama.ai/mcp/connectors/ai.reevi/find-buyers)
+  🔓 - Find named buyer companies by product and target country; five free searches per day, no key.
 - [Revenue Enablement](https://tools.gtmhelix.com/connectors/) `https://revenue-enablement.gtmhelix.com/mcp`
   [![Revenue Enablement MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp)
   🔓 - Twelve deal strategy and sales enablement tools for B2B revenue teams.
