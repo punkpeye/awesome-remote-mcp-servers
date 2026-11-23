@@ -4977,6 +4977,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
 
+- [Website Tech Stack & Ad Pixel Detector](https://apify.com/spiky_closet/tech-stack-ad-pixel-detector) `https://spiky-closet--tech-stack-ad-pixel-detector.apify.actor/mcp`
+  [![Tech Stack & Ad Pixel Detector MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/tech-stack-ad-pixel-detector-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/tech-stack-ad-pixel-detector-mcp)
+  🔑 - Detect 180+ web technologies, paid ad conversion pixels, and 70+ DNS-verified B2B SaaS tools from any domain.
+
 ### 🔬 <a name="science--research"></a>Science & Research
 
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
