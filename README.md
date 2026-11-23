@@ -3372,6 +3372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ctxstore](https://ctxstore.ai) `https://mcp.ctxstore.ai/mcp`
   [![ctxstore MCP connector](https://glama.ai/mcp/connectors/ai.ctxstore/ctxstore-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ctxstore/ctxstore-mcp)
   🔓 - Persistent memory for AI agents: keyed facts, a wake bundle each session, one memory across every model.
+- [DeNasty Memory](https://denasty.me/connect) `https://denasty.me/v1/mcp`
+  [![DeNasty Memory MCP connector](https://glama.ai/mcp/connectors/me.denasty/memory/badges/score.svg)](https://glama.ai/mcp/connectors/me.denasty/memory)
+  🔐 - Shared project memory for AI coding tools: recall, save and brief decisions across clients.
 - [Detextit](https://www.detextit.com) `https://www.detextit.com/api/mcp`
   [![Detextit MCP connector](https://glama.ai/mcp/connectors/com.detextit.www/detextit/badges/score.svg)](https://glama.ai/mcp/connectors/com.detextit.www/detextit)
   🔓 - Read-only shared agent context with sources and conditions, plus plans for recovering from task constraints.
