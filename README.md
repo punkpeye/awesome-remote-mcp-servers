@@ -1832,6 +1832,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hark Tech](https://harktech.co.uk/for-ai-assistants.html) `https://harktech.co.uk/mcp`
   [![Hark Tech MCP connector](https://glama.ai/mcp/connectors/uk.co.harktech/quotes/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.harktech/quotes)
   🔓 - Price your own STL, 3MF or STEP file, or a Printables/Thingiverse model, for UK 3D printing and get a checkout link.
+- [HenryCrawl E-commerce Data](https://henrycrawl-ecommerce-mcp.henrycrawl.workers.dev/) `https://henrycrawl-ecommerce-mcp.henrycrawl.workers.dev/mcp`
+  [![HenryCrawl E-commerce Data MCP connector](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-ecommerce-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-ecommerce-mcp)
+  🔑 - Live Amazon, eBay, 1688/AliExpress and Rakuten product search as typed JSON; paid license key.
 - [HLN Apparel](https://www.hlnapparel.com) `https://www.hlnapparel.com/api/mcp`
   [![HLN Apparel MCP connector](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer/badges/score.svg)](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer)
   🔓 - Clothing factory data: garment categories, MOQ, lead times, US HS duty lookup, GSM conversion and quote requests.
