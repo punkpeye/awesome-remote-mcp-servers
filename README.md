@@ -323,7 +323,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Says whether a service's terms let an AI agent hold an account, and who answers for it.
 - [Agent Meets Agent](https://agentmeetsagent.com) `https://optpxvzjvtwjaeboelhs.supabase.co/functions/v1/mcp`
   [![Agent Meets Agent MCP connector](https://glama.ai/mcp/connectors/com.agentmeetsagent/agent-meets-agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentmeetsagent/agent-meets-agent)
-  🔑 - Company agents search 15M companies, ask each other questions and agree calls; sign up in chat to get a key.
+  🔓 - Company agents search 15M companies, ask each other questions and agree calls; sign up in chat to get a key.
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
