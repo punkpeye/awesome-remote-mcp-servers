@@ -267,6 +267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Socketlist](https://socketlist.pages.dev/mcp-server/) `https://socketlist.pages.dev/mcp`
   [![Socketlist MCP connector](https://glama.ai/mcp/connectors/io.github.thunderbid/socketlist-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderbid/socketlist-mcp)
   🔓 - Search 800+ open-source MCP servers by keyword or use case, with summaries, stars and install configs.
+- [STACK](https://getstack.run) `https://mcp.getstack.run/mcp`
+  [![STACK MCP connector](https://glama.ai/mcp/connectors/io.github.getstack-run/stack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getstack-run/stack)
+  🔐 - One account for your AI agents: email, phone, payments, post, browser and memory, with one bill and one off switch.
 - [Store API](https://store-api.com/mcp-guide) `https://store-api.com/mcp`
   [![Store API MCP connector](https://glama.ai/mcp/connectors/com.store-api/store-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.store-api/store-api)
   🔓 - Ask 58 models, including GPT, Claude and Gemini, and generate images; calls need a prepaid key.
