@@ -1145,6 +1145,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
+- [Start Atende](https://startatende.com) `https://mcp.startatende.com/mcp`
+  [![Start Atende MCP connector](https://glama.ai/mcp/connectors/com.startatende/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.startatende/mcp)
+  🔐 - Query your AI customer-service data: WhatsApp and website chat conversations, leads, FAQ gaps and support metrics.
 - [TalaLevel](https://talalevel.com) `https://app.talalevel.com/mcp`
   [![TalaLevel MCP connector](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level/badges/score.svg)](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level)
   🔐 - Search leads, read their calls, texts and emails, add notes and tasks, and draft or send follow-ups you confirm.
