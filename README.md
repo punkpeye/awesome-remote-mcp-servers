@@ -6468,6 +6468,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [HomeHero](https://homehero.pro/ai-assistants/) `https://api.homehero.pro/mcp`
+  [![HomeHero MCP connector](https://glama.ai/mcp/connectors/pro.homehero/homehero/badges/score.svg)](https://glama.ai/mcp/connectors/pro.homehero/homehero)
+  🔐 - Search and update your synced HomeHero home inventory, locations, and household upkeep tasks (Sync plan needed).
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
