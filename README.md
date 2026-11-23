@@ -4724,6 +4724,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hamloy](https://hamloy.com) `https://hamloy.com/mcp`
   [![Hamloy MCP connector](https://glama.ai/mcp/connectors/com.hamloy/hamloy/badges/score.svg)](https://glama.ai/mcp/connectors/com.hamloy/hamloy)
   🔐 - See what every coding agent is on, yours and your team's, and coordinate them all on one shared plan.
+- [Hive](https://hive.com/integrations/claude?utm_source=awesome-remote-mcp&utm_medium=mcp_directory&utm_campaign=awesome-remote-mcp) `https://hive-mind.hive.com/mcp`
+  [![Hive MCP connector](https://glama.ai/mcp/connectors/com.hive/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hive/hive)
+  🔐 - Find and update Hive projects, actions, CRM and finance records from your AI assistant.
 - [Joxo](https://joxo.ai) `https://joxo.ai/api/mcp`
   [![Joxo MCP connector](https://glama.ai/mcp/connectors/ai.joxo/joxo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.joxo/joxo)
   🔐 - Shared tasks, handoffs and decisions for your team and its AI coding agents.
@@ -4774,7 +4777,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ybug](https://ybug.io/features/mcp-server) `https://mcp.ybug.io/mcp`
   [![Ybug MCP connector](https://glama.ai/mcp/connectors/io.ybug.mcp/ybug/badges/score.svg)](https://glama.ai/mcp/connectors/io.ybug.mcp/ybug)
   🔐 - Read website bug reports with screenshots and console logs, and triage status, priority, tags, and assignees.
-
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 - [AskRentAI](https://askrentai.com) `https://api.askrentai.com/mcp`
