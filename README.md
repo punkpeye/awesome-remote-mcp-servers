@@ -771,6 +771,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lium](https://docs.lium.io/developers/mcp) `https://docs.lium.io/mcp`
   [![Lium MCP connector](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs)
   🔓 - Search and read the docs of Lium, a GPU rental marketplace: rent GPU pods by the second via CLI, SDK or REST API.
+- [MofCloud Pricing MCP](https://mofcloud.com/mcp) `https://mcp.mofcloud.com/`
+  [![MofCloud Pricing MCP connector](https://glama.ai/mcp/connectors/com.mofcloud/pricing/badges/score.svg)](https://glama.ai/mcp/connectors/com.mofcloud/pricing)
+  🔓 - Daily list prices from 15 clouds incl. Alibaba, Tencent, Huawei: servers, GPUs, disks, egress, IPs, managed DBs.
 - [NetActuate](https://netactuate.com) `https://netactuate.com/mcp`
   [![NetActuate MCP connector](https://glama.ai/mcp/connectors/com.netactuate/net-actuate/badges/score.svg)](https://glama.ai/mcp/connectors/com.netactuate/net-actuate)
   🔓 - Read-only answers from NetActuate's published network data: data centers, compliance, exchanges, products and pricing.
