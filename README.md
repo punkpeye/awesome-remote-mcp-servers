@@ -2996,7 +2996,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Your own crypto portfolio across exchanges and wallets: holdings, history, FIFO P&L, fees and income. Read-only.
 - [WorkbookAPI](https://workbookapi.com) `https://api.workbookapi.com/mcp`
   [![WorkbookAPI MCP connector](https://glama.ai/mcp/connectors/com.workbookapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.workbookapi/mcp)
-  🔑 - Calculate your uploaded Excel models with their own formulas: one scenario or up to 10,000 per call.
+  🔓 - Calculate your uploaded Excel models with their own formulas, up to 10,000 scenarios per call; calls need an API key.
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
    🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
