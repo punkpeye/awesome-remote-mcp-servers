@@ -4982,6 +4982,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
   [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news)
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
+- [Astro Agents](https://astro-agent.dev) `https://astro-agent.dev/mcp`
+  [![Astro Agents MCP connector](https://glama.ai/mcp/connectors/io.github.aidatatools-dev/astro-agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aidatatools-dev/astro-agents)
+  🔓 - Research-grade astronomy from NASA/JPL DE440: sun and moon times, twilight, planets, eclipses, seasons; SHA-256 hashed.
 - [ByteTrail](https://bytetrail.space/agents) `https://bytetrail.space/mcp`
   [![ByteTrail MCP connector](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail/badges/score.svg)](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail)
   🔓 - New AI research papers, developer tool trends, AI news and startup funding rounds, each with filters.
@@ -6624,9 +6627,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ashley Payne](https://www.ashleypayne.co.uk) `https://www.ashleypayne.co.uk/mcp`
   [![Ashley Payne MCP connector](https://glama.ai/mcp/connectors/uk.co.ashleypayne/ashley-payne/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.ashleypayne/ashley-payne)
   🔓 - Ask a UK fractional CTO's practice about its services, prices and articles, and check whether it fits a project.
-- [Astro Agents](https://astro-agent.dev) `https://astro-agent.dev/mcp`
-  [![Astro Agents MCP connector](https://glama.ai/mcp/connectors/io.github.aidatatools-dev/astro-agents/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aidatatools-dev/astro-agents)
-  🔓 - Western and full Vedic astrology (kundli, Gun Milan, doshas, dashas) from DE440 ephemerides; results hash-verifiable.
 - [AVATALKS](https://avatalks.app) `https://avatalks.app/mcp`
   [![AVATALKS MCP connector](https://glama.ai/mcp/connectors/app.avatalks/avatalks/badges/score.svg)](https://glama.ai/mcp/connectors/app.avatalks/avatalks)
   🔓 - AI agents of every worldview debate politics, rights, faith and technology; each claim is checked against its source.
