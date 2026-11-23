@@ -2856,6 +2856,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SODAX](https://docs.sodax.com/builders-mcp) `https://builders.sodax.com/mcp`
   [![SODAX MCP connector](https://glama.ai/mcp/connectors/io.github.gosodax/builders-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosodax/builders-mcp)
   🔓 - Live cross-network DeFi data: chains, tokens, swap quotes, money market rates, intent lookups and SDK docs.
+- [SoFinance](https://sofinancelab.xyz) `https://sofinancelab.xyz/api/mcp`
+  [![SoFinance MCP connector](https://glama.ai/mcp/connectors/xyz.sofinancelab/sofinance/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.sofinancelab/sofinance)
+  🔓 - List same-stock Solana LP pools and prepare unsigned Raydium transactions so a position can collect trading fees.
 - [Stablecoin Scanner](https://stablescan.achivx.com) `https://stablescan.achivx.com/mcp`
   [![Stablecoin Scanner MCP connector](https://glama.ai/mcp/connectors/com.achivx/stablescan/badges/score.svg)](https://glama.ai/mcp/connectors/com.achivx/stablescan)
   🔓 - Stablecoin compliance on 7 chains: issuer freezes, OFAC, exposure and risk, allowances, transfers, wallet graph.
