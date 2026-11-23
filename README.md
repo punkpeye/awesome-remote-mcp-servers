@@ -2488,6 +2488,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FLOPS Index](https://app.flopsindex.com/i/) `https://app.flopsindex.com/mcp`
   [![FLOPS Index MCP connector](https://glama.ai/mcp/connectors/com.flopsindex.app/flopsindex-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.flopsindex.app/flopsindex-mcp)
   🔓 - Indicative GPU rental reference prices (spot, on-demand, DePIN), refreshed every 6 hours, each with a verify URL.
+- [FlowFeed](https://flowfeed.cc) `https://mcp.flowfeed.cc/mcp`
+  [![FlowFeed MCP connector](https://glama.ai/mcp/connectors/cc.flowfeed/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/cc.flowfeed/mcp)
+  🔐 - Real-time macro, forex and crypto news: central bank releases, economic data with actual vs forecast, economic calendar, each with source and time.
 - [FocusPulse](https://www.focuspulse.pro/mcp-docs.html) `https://mcp.focuspulse.pro/mcp`
   [![FocusPulse MCP connector](https://glama.ai/mcp/connectors/pro.focuspulse/focuspulse/badges/score.svg)](https://glama.ai/mcp/connectors/pro.focuspulse/focuspulse)
   🔓 - India and US news stories linked to listed companies, commodities and indices, with sources.
