@@ -462,6 +462,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
+- [AniBG](https://anibg.com) `https://anibg.com/mcp`
+  [![AniBG MCP connector](https://glama.ai/mcp/connectors/com.anibg/ani-bg/badges/score.svg)](https://glama.ai/mcp/connectors/com.anibg/ani-bg)
+  🔓 - Search a free library of anime backgrounds without characters and get direct 1920x1080 image links.
 - [BeautySpark](https://beautyspark.me) `https://mcp.beautyspark.me/mcp`
   [![BeautySpark MCP connector](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp)
   🔓 - Makeup and colour-season guidance sourced from BeautySpark's articles, plus saved looks for signed-in users.
