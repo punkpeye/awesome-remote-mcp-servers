@@ -5366,6 +5366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PdfParse](https://pdfparse.net/mcp) `https://mcp.pdfparse.net/mcp`
   [![PdfParse MCP connector](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse)
   🔐 - Extract PDFs into structured tables, query saved records, and configure document inbox workflows.
+- [PeerPush](https://peerpush.com/mcp) `https://peerpush.com/api/mcp`
+  [![PeerPush MCP connector](https://glama.ai/mcp/connectors/com.peerpush/peerpush/badges/score.svg)](https://glama.ai/mcp/connectors/com.peerpush/peerpush)
+  🔓 - Search and compare software products and find alternatives, with structured pricing, platforms and use cases.
 - [PeopleSearch.im](https://peoplesearch.im/mcp) `https://peoplesearch.im/api/mcp`
   [![PeopleSearch.im MCP connector](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder/badges/score.svg)](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder)
   🔓 - Search people and companies in plain English and get verified work emails; tool calls sign in with OAuth or an API key.
