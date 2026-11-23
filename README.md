@@ -4976,6 +4976,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Wines Export](https://www.wines-export.com/connetti) `https://mcp.wines-export.com/mcp`
+  [![Wines Export MCP connector](https://glama.ai/mcp/connectors/com.wines-export/ufficio-export/badges/score.svg)](https://glama.ai/mcp/connectors/com.wines-export/ufficio-export)
+  🔐 - For Italian wineries: find foreign wine buyers by country, open their contacts and check the documents needed to export.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
