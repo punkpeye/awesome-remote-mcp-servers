@@ -2563,6 +2563,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Investboard](https://investboard.com/product/mcp) `https://app.investboard.com/mcp`
   [![Investboard MCP connector](https://glama.ai/mcp/connectors/com.investboard/investboard/badges/score.svg)](https://glama.ai/mcp/connectors/com.investboard/investboard)
   🔓 - Analyze holdings and fund overlap; two tools need no sign-in, while account tools require OAuth.
+- [InvestIQ](https://www.getinvestiq.com/connect/mcp-server) `https://www.getinvestiq.com/mcp`
+  [![InvestIQ MCP connector](https://glama.ai/mcp/connectors/com.getinvestiq/research/badges/score.svg)](https://glama.ai/mcp/connectors/com.getinvestiq/research)
+  🔐 - Equity research: stock analysis, fundamentals, valuation, estimates, insider trades and your own portfolio audit.
 - [InvoiceParser Pro](https://invoiceparserpro.com/ai-assistants) `https://api.invoiceparserpro.com/mcp`
   [![InvoiceParser Pro MCP connector](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp)
   🔓 - Read invoices into line items, check the math, and get Excel, CSV or JSON; free trial, no account.
