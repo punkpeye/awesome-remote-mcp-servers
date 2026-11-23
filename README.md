@@ -2718,6 +2718,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenFinance](https://openfinance.tech/agents) `https://api.openfinance.tech/agent/mcp`
   [![OpenFinance MCP connector](https://glama.ai/mcp/connectors/tech.openfinance/trading/badges/score.svg)](https://glama.ai/mcp/connectors/tech.openfinance/trading)
   🔐 - Easy trading for AI agents: crypto and stock perps, Polymarket, swaps, bridges and token launches.
+- [OpenMortgage](https://openmortgage.thecompound.tech/) `https://openmortgage.thecompound.tech/mcp`
+  [![OpenMortgage MCP connector](https://glama.ai/mcp/connectors/tech.thecompound.openmortgage/openmortgage/badges/score.svg)](https://glama.ai/mcp/connectors/tech.thecompound.openmortgage/openmortgage)
+  🔓 - Federal HMDA mortgage records by lender: applications, denials, rate spread and closing costs.
 - [OptimistFi](https://optimistfi.com/mcp) `https://mcp.optimistfi.com/mcp`
   [![OptimistFi MCP connector](https://glama.ai/mcp/connectors/com.optimistfi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.optimistfi/mcp)
   🔓 - Perpetual futures on 40 venues, 21 prop firms' rules and prices, and SEC-sourced theses on 6,100+ US stocks.
@@ -3270,6 +3273,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NobetciEczane.org](https://nobetcieczane.org/) `https://nobetcieczane.org/mcp`
   [![NobetciEczane.org MCP connector](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane/badges/score.svg)](https://glama.ai/mcp/connectors/org.nobetcieczane/nobetci-eczane)
   🔓 - Today's on-duty pharmacies in all 81 provinces of Türkiye and the TRNC, by district or nearest to a location.
+- [OpenHealth](https://getopenhealth.org/assistants) `https://getopenhealth.org/mcp`
+  [![OpenHealth MCP connector](https://glama.ai/mcp/connectors/org.getopenhealth/openhealth/badges/score.svg)](https://glama.ai/mcp/connectors/org.getopenhealth/openhealth)
+  🔓 - Public US records on doctors, hospitals, prices, nursing homes, drugs and health plans.
 - [P.R.O. Apple Health](https://proapp.uk/apple-health-mcp) `https://mcp.proapp.uk`
   [![P.R.O. Apple Health MCP connector](https://glama.ai/mcp/connectors/io.github.runwithfun/pro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.runwithfun/pro)
   🔐 - Your Apple Health workouts, sleep, HRV and training plan in ChatGPT, Claude, Gemini and Grok. Free, from any device.
@@ -6677,6 +6683,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
+- [OpenInjury](https://openinjury.thecompound.tech/assistants) `https://openinjury.thecompound.tech/mcp`
+  [![OpenInjury MCP connector](https://glama.ai/mcp/connectors/tech.thecompound.openinjury/openinjury/badges/score.svg)](https://glama.ai/mcp/connectors/tech.thecompound.openinjury/openinjury)
+  🔓 - OSHA injury reports from named US worksites and employers, with computed and BLS rates.
 - [Penny Press](https://www.pennypress.org) `https://www.pennypress.org/mcp`
   [![Penny Press MCP connector](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press)
   🔓 - Original essays on freedom, economics and philosophy; free for humans, pay-per-read for machines via x402 micropayments.
