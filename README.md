@@ -3580,6 +3580,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
   🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
+- [Amendment](https://www.amendment.app/data) `https://mcp.amendment.app/mcp`
+  [![Amendment MCP connector](https://glama.ai/mcp/connectors/app.amendment/amendment/badges/score.svg)](https://glama.ai/mcp/connectors/app.amendment/amendment)
+  🔐 - Federal and state bills, U.S. Code, CFR and Constitution with source links, plus companies lobbying on federal bills.
 - [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
