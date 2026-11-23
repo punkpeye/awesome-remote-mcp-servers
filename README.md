@@ -5803,9 +5803,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Echoly](https://echoly.2cstudio.app/docs/mcp) `https://echoly.2cstudio.app/mcp`
   [![Echoly MCP connector](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly)
   🔐 - Draft and schedule posts to X, Telegram channels, Bluesky, Mastodon and Discord, with human approval.
-- [Flaghand](https://flaghand.com) `https://app.flaghand.com/mcp`
+- [Flaghand](https://flaghand.com) `https://app.flaghand.com/mcp/via/awesome-remote`
   [![Flaghand MCP connector](https://glama.ai/mcp/connectors/com.flaghand/flaghand/badges/score.svg)](https://glama.ai/mcp/connectors/com.flaghand/flaghand)
-  🔐 - Agents draft X (Twitter), LinkedIn, TikTok and YouTube posts; nothing posts until the owner approves it by passkey.
+  🔐 - Agents schedule X, LinkedIn, Bluesky and YouTube posts on one schedule you can edit, and Flaghand posts each on time.
 - [flayr](https://flayr.social/docs/ai-assistants?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=listings-1029) `https://flayr.social/api/mcp`
   [![flayr MCP connector](https://glama.ai/mcp/connectors/social.flayr/flayr/badges/score.svg)](https://glama.ai/mcp/connectors/social.flayr/flayr)
   🔓 - Draft, schedule and publish posts to 13 social platforms and read analytics; tool calls use OAuth or an API key.
