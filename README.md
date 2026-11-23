@@ -1239,7 +1239,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up and compare verified, dated prices for 231 AI APIs in 38 markets, ranked in one unit per market.
 - [Pugi](https://pugi.io/agents.md) `https://api.pugi.io/api/agent/v1/mcp`
   [![Pugi MCP connector](https://glama.ai/mcp/connectors/io.pugi/pugi/badges/score.svg)](https://glama.ai/mcp/connectors/io.pugi/pugi)
-  🔓 - AI product team: builds and publishes websites, draws logos, checks sites and GitHub repos for security; OAuth sign-in.
+  🔓 - Your AI product team: build websites and web apps, design logos, check security, publish.
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
