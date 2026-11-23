@@ -3680,6 +3680,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
+- [USPTO Patent Search](https://apify.com/magnova/uspto-patent-search) `https://mcp.apify.com?tools=fetch-actor-details,magnova/uspto-patent-search`
+  [![USPTO Patent Search MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/uspto-patent-search-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/uspto-patent-search-mcp)
+  🔐 - Search USPTO patents by keyword, assignee or inventor.
+
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
   🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
@@ -4366,12 +4370,20 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audexum](https://audexum.com/integrations/mcp) `https://audexum.com/mcp`
   [![Audexum MCP connector](https://glama.ai/mcp/connectors/com.audexum/audexum/badges/score.svg)](https://glama.ai/mcp/connectors/com.audexum/audexum)
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
+- [Audio to MIDI Converter](https://apify.com/magnova/audio-to-midi-converter) `https://mcp.apify.com?tools=fetch-actor-details,magnova/audio-to-midi-converter`
+  [![Audio to MIDI Converter MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/audio-to-midi-converter-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/audio-to-midi-converter-mcp)
+  🔐 - Convert songs and recordings to MIDI notes, tempo and key.
+
 - [AvatarSay](https://avatarsay.com/mcp) `https://avatarsay.com/mcp`
   [![AvatarSay MCP connector](https://glama.ai/mcp/connectors/com.avatarsay/avatar-say/badges/score.svg)](https://glama.ai/mcp/connectors/com.avatarsay/avatar-say)
   🔓 - Generate fictional character portraits and lip-synced talking MP4 videos from text in 8 styles and 8 voices.
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
+- [Batch Voiceover Studio](https://apify.com/magnova/batch-voiceover-studio) `https://mcp.apify.com?tools=fetch-actor-details,magnova/batch-voiceover-studio`
+  [![Batch Voiceover Studio MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/batch-voiceover-studio-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/batch-voiceover-studio-mcp)
+  🔐 - Turn scripts into MP3 voiceovers in one run, 37 voices.
+
 - [BudgetPixel](https://budgetpixel.com/mcp) `https://mcp.budgetpixel.com/mcp`
   [![BudgetPixel MCP connector](https://glama.ai/mcp/connectors/com.budgetpixel/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.budgetpixel/mcp)
   🔓 - Generate images, video, music and sound effects, then upscale them; the tools need a BudgetPixel sign-in (OAuth).
@@ -6117,6 +6129,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Hotel Price Watch](https://apify.com/magnova/hotel-price-watch) `https://mcp.apify.com?tools=fetch-actor-details,magnova/hotel-price-watch`
+  [![Hotel Price Watch MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/hotel-price-watch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/hotel-price-watch-mcp)
+  🔐 - Watch Google Hotels rates for price drops, with alerts.
+
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
