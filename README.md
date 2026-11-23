@@ -3230,7 +3230,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Write and run Luau in the Zero 3D engine, place entities, take screenshots and publish a game that plays in a browser.
 
 ### 🏋️ <a name="health--fitness"></a>Health & Fitness
-
+- [ABA Team Intelligence](https://operation-optimize.com/ai-connect) `https://operation-optimize.com/api/public/mcp`
+  [![ABA Team Intelligence Tools MCP connector](https://glama.ai/mcp/connectors/com.operation-optimize/aba-team-intelligence-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.operation-optimize/aba-team-intelligence-tools)
+  🔓 - Verified ABA clinical compliance, RBT 5% audits, PDU/CEU pacing, and BACB transition tools for behavior analysts.
 - [AIm Workout Journal](https://aim-journal.com) `https://aim-journal.com/mcp`
   [![AIm Workout Journal MCP connector](https://glama.ai/mcp/connectors/com.aim-journal/aim/badges/score.svg)](https://glama.ai/mcp/connectors/com.aim-journal/aim)
   🔐 - Workout journal your assistant writes to: log and correct workouts, plan a program, see records and volume.
