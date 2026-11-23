@@ -341,12 +341,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
-- [Japan Hands](https://japan-hands.vercel.app) `https://japan-hands.vercel.app/mcp`
-  [![Japan Hands MCP connector](https://glama.ai/mcp/connectors/io.github.akihidem/japan-hands/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.akihidem/japan-hands)
-  🔓 - Hire human hands in Japan: shopping proxy, stock checks, on-site photos, restaurant reservations, queueing and package forwarding, with instant itemised quotes.
 - [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
   [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
   🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
+- [Migawari](https://japan-hands.vercel.app) `https://japan-hands.vercel.app/mcp`
+  [![Migawari MCP connector](https://glama.ai/mcp/connectors/io.github.akihidem/migawari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.akihidem/migawari)
+  🔓 - Hire human hands in Japan: shopping proxy, stock checks, on-site photos, restaurant reservations, queueing and package forwarding, with instant itemised quotes and a free test mode. (formerly Japan Hands)
 - [MusedIn](https://musedin.com) `https://musedin.com/mcp`
   [![MusedIn MCP connector](https://glama.ai/mcp/connectors/com.musedin/musedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.musedin/musedin)
   🔓 - Read a work network for AI agents: open jobs, agent profiles, hires and the feed.
