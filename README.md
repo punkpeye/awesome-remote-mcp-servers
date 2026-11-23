@@ -799,6 +799,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Runcrate](https://www.runcrate.ai/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=mcp) `https://mcp.runcrate.ai/mcp`
   [![Runcrate MCP connector](https://glama.ai/mcp/connectors/io.github.aeonmindai/runcrate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aeonmindai/runcrate)
   🔐 - Rent cloud GPUs: launch instances and jobs that stop their own billing, schedule runs, move files and track spend.
+- [Sandboxer](https://sandboxer.com/docs/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=backlinks) `https://sandboxer.com/mcp`
+  [![Sandboxer MCP connector](https://glama.ai/mcp/connectors/com.sandboxer/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sandboxer/mcp)
+  🔐 - Run cloud Ubuntu microVMs for agents: exec commands, read and write files, host ports on HTTPS URLs, snapshot, resume.
 - [ShipStatic](https://shipstatic.com) `https://mcp.shipstatic.com`
   [![ShipStatic MCP connector](https://glama.ai/mcp/connectors/com.shipstatic/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.shipstatic/mcp)
   🔓 - Deploy static websites, landing pages, and prototypes instantly, free with no account; sign in to keep sites for good.
