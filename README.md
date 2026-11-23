@@ -4091,7 +4091,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Submit projects for manual review; homepage badge and private email required; built by LinkBunny's founder.
 - [RoboWrite](https://www.robowrite.ai/guides/robowrite-mcp) `https://mcp.robowrite.ai/mcp`
   [![RoboWrite MCP connector](https://glama.ai/mcp/connectors/ai.robowrite/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.robowrite/mcp)
-  🔐 - SEO/GEO content grounded in keyword research, competitor insights, brand voice, and knowledge.
+  🔓 - SEO/GEO content from keyword and competitor research, brand voice and knowledge; tools need OAuth sign-in.
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
