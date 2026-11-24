@@ -4113,6 +4113,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Segwise](https://segwise.ai/integration-docs/mcp) `https://mcp.segwise.ai/mcp`
   [![Segwise MCP connector](https://glama.ai/mcp/connectors/ai.segwise.mcp/segwise/badges/score.svg)](https://glama.ai/mcp/connectors/ai.segwise.mcp/segwise)
   🔐 - Read-only creative performance, tag-level insights, attribution data, and competitor ad analysis from Segwise.
+- [Semilattice](https://semilattice.ai) `https://mcp.semilattice.ai`
+  [![Semilattice MCP connector](https://glama.ai/mcp/connectors/io.github.semilattice-research/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.semilattice-research/mcp)
+  🔐 - Test copy, prices, flows and product ideas on simulated users built from real human data, with feedback in minutes.
 - [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
   [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
   🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
