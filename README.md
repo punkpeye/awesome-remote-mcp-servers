@@ -3667,6 +3667,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PRIMAMCP](https://mcp.planitprima.com) `https://mcp.planitprima.com/mcp`
   [![PRIMAMCP MCP connector](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp)
   🔐 - German and EU law: statutes, court decisions, EU acts and legislative materials, with verified citations.
+- [Przetargowy Janusz](https://przetargowyjanusz.pl) `https://przetargowyjanusz.pl/mcp`
+  [![Przetargowy Janusz MCP connector](https://glama.ai/mcp/connectors/pl.przetargowyjanusz/tenders/badges/score.svg)](https://glama.ai/mcp/connectors/pl.przetargowyjanusz/tenders)
+  🔐 - Polish public tenders from BZP, TED and e-procurement platforms with AI summaries of tender documents.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
