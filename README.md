@@ -4592,6 +4592,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VidFare](https://vidfare.com/mcp/) `https://mcp.vidfare.com/mcp`
   [![VidFare MCP connector](https://glama.ai/mcp/connectors/com.vidfare/vidfare/badges/score.svg)](https://glama.ai/mcp/connectors/com.vidfare/vidfare)
   🔓 - Compare AI video prices per second, estimate clip costs, find cheapest options, and browse deals across 9 models.
+- [Vidocu](https://vidocu.ai/features/mcp) `https://mcp.vidocu.ai/`
+  [![Vidocu MCP connector](https://glama.ai/mcp/connectors/ai.vidocu/vidocu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vidocu/vidocu)
+  🔐 - Turn videos, PDFs and slides into subtitles, voiceovers, translations, help articles and training modules.
 - [Vidova](https://vidova.ai) `https://mcp.vidova.ai/mcp`
   [![Vidova MCP connector](https://glama.ai/mcp/connectors/ai.vidova/vidova/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vidova/vidova)
   🔐 - Edit videos on a real timeline, generate clips, music and voice, track faces and render finished cuts.
