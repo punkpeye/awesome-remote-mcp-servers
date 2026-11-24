@@ -5616,6 +5616,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HefestoAI](https://hefestoai.narapallc.com) `https://hefestoai.narapallc.com/api/mcp-protocol`
   [![HefestoAI MCP connector](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.artvepa80/hefestoai)
   🔓 - Checks code an agent wrote for secrets, injection risks and declared-vs-real dependency drift before merge.
+- [HostSherlock](https://www.hostsherlock.com/mcp) `https://mcp.hostsherlock.com/v1/mcp`
+  [![HostSherlock MCP connector](https://glama.ai/mcp/connectors/com.hostsherlock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hostsherlock/mcp)
+  🔐 - Check SPF, DKIM, DMARC and MX of any domain, and read the DMARC reports of domains you monitor.
 - [InjectScan](https://api.youraitools.co/injectscan/) `https://api.youraitools.co/injectscan/mcp`
   [![InjectScan MCP connector](https://glama.ai/mcp/connectors/co.youraitools/injectscan/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/injectscan)
   🔓 - Scores text, web pages and MCP tool definitions for prompt injection; 30 free calls/day, then x402 USDC.
