@@ -3255,6 +3255,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
+- [KeepMD MCP for EOB Decoder](https://keepmd.org/mcp-eob-decoder/) `https://mcp.keepmd.org/eob`
+  [![KeepMD MCP for EOB Decoder MCP connector](https://glama.ai/mcp/connectors/org.keepmd/mcp-eob-decoder/badges/score.svg)](https://glama.ai/mcp/connectors/org.keepmd/mcp-eob-decoder)
+  🔓 - Explains the codes, insurance terms and patient-responsibility math on a medical EOB or bill.
 - [KinToolkit](https://kintoolkit.com/developers) `https://kintoolkit.com/api/mcp`
   [![KinToolkit MCP connector](https://glama.ai/mcp/connectors/com.kintoolkit/label-reference/badges/score.svg)](https://glama.ai/mcp/connectors/com.kintoolkit/label-reference)
   🔓 - Educational US medicine label references and sourced guides; no patient inputs or personalized prescriptions.
