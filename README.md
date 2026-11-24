@@ -5977,6 +5977,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Xtracticle](https://xtracticle.com/mcp-server) `https://xtracticle.com/mcp`
   [![Xtracticle MCP connector](https://glama.ai/mcp/connectors/com.xtracticle/xtracticle/badges/score.svg)](https://glama.ai/mcp/connectors/com.xtracticle/xtracticle)
   🔓 - Reads public X (Twitter) posts, threads and long-form X Articles as clean Markdown.
+- [Yoik](https://yoik.com) `https://yoik.com/mcp`
+  [![Yoik MCP connector](https://glama.ai/mcp/connectors/com.yoik/yoik/badges/score.svg)](https://glama.ai/mcp/connectors/com.yoik/yoik)
+  🔐 - Read, post, and give value on Yoik, a gift-economy social network where giving decides what rises.
 - [Zebu Data - X (Twitter), YouTube & TikTok Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/ultimate-x-twitter-advanced-search-scraper,delicious_zebu/advanced-x-twitter-profile-scraper,delicious_zebu/x-global-trending-scraper,delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/tiktok-video-comment-scraper`
   [![Zebu Data - X (Twitter), YouTube & TikTok Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/social-video-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/social-video-data)
   🔐 - X (Twitter) search, profiles and trends, YouTube search, video stats and comments, TikTok comments.
