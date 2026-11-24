@@ -678,6 +678,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![localscreenshot MCP connector](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot/badges/score.svg)](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot)
   🔓 - Screenshot any public page as PNG, JPEG or PDF, from 227 countries, with cookie banners and ads hidden.
 
+- [Merrowick Tools](https://apify.com/merrowick) `https://mcp.apify.com?tools=merrowick/website-screenshot-pro,merrowick/pdf-to-markdown`
+  [![Merrowick Tools MCP connector](https://glama.ai/mcp/connectors/io.github.merrowick-apps/merrowick-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.merrowick-apps/merrowick-tools)
+  🔐 - Website screenshots (PNG/JPEG/PDF) and PDF/DOCX/image to Markdown with OCR, via Apify Actors.
+
 - [Monito](https://www.monito.dev/docs/mcp) `https://www.monito.dev/api/mcp`
   [![Monito MCP connector](https://glama.ai/mcp/connectors/dev.monito/monito/badges/score.svg)](https://glama.ai/mcp/connectors/dev.monito/monito)
   🔐 - Tests a web app in a real browser from plain English; returns pass, fail or cannot verify with screenshots and logs.
