@@ -2922,6 +2922,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
+- [TraderMarketCap](https://tradermarketcap.com) `https://tradermarketcap.com/mcp`
+  [![TraderMarketCap MCP connector](https://glama.ai/mcp/connectors/com.tradermarketcap/prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradermarketcap/prices)
+  🔓 - Live crypto prices, market caps and exchange markets for 600+ coins, each number linked to its public source.
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
