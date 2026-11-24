@@ -1119,6 +1119,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bullpen](https://bullpen.sale) `https://bullpen.sale/mcp`
   [![Bullpen MCP connector](https://glama.ai/mcp/connectors/sale.bullpen/bullpen/badges/score.svg)](https://glama.ai/mcp/connectors/sale.bullpen/bullpen)
   🔓 - AI phone crew gets past phone trees and hold to a real person, then rings your rep in; OAuth to place calls.
+- [Capable](https://capable.run) `https://crm.capable.run/api/mcp`
+  [![Capable MCP connector](https://glama.ai/mcp/connectors/run.capable/crm/badges/score.svg)](https://glama.ai/mcp/connectors/run.capable/crm)
+  🔐 - MCP-native CRM: search contacts and deals, then review and approve proposed updates field by field.
 - [Data Parrot](https://dataparrot.ai) `https://api-v3.dataparrot.ai/api/v3/data-parrot/mcp`
   [![Data Parrot MCP connector](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot)
   🔐 - AI revenue analysis of your HubSpot data.
