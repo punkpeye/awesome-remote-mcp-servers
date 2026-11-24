@@ -3999,6 +3999,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MentionAgent](https://mentionagent.ai/mcp/) `https://mentionagent.ai/mcp`
   [![MentionAgent MCP connector](https://glama.ai/mcp/connectors/ai.mentionagent/mentionagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mentionagent/mentionagent)
   🔐 - Link building outreach from your agent: review drafts, approve the batch, answer publisher replies, record placements.
+- [MentionBird](https://www.mentionbird.ai) `https://mcp.mentionbird.ai/mcp`
+  [![MentionBird MCP connector](https://glama.ai/mcp/connectors/ai.mentionbird/mentionbird/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mentionbird/mentionbird)
+  🔐 - Track how ChatGPT, Claude, Perplexity and other AI assistants mention your brand.
 - [Mimiq](https://www.mimiqai.com) `https://mcp.mimiqai.com/mcp`
   [![Mimiq MCP connector](https://glama.ai/mcp/connectors/io.github.victorgulchenko/mimiq-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.victorgulchenko/mimiq-mcp)
   🔓 - Test landing pages, copy and sign-up flows on simulated customers who say why they would stay or leave.
