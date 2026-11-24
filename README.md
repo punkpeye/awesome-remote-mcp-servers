@@ -1017,6 +1017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Benchlight](https://benchlight.dev/) `https://benchlight.dev/mcp`
   [![Benchlight MCP connector](https://glama.ai/mcp/connectors/dev.benchlight/benchlight/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benchlight/benchlight)
   🔐 - Make small business websites in your chat, save them as private drafts and publish one free on benchlight.page.
+- [BrewPage](https://brewpage.app) `https://brewpage.app/mcp`
+  [![BrewPage MCP connector](https://glama.ai/mcp/connectors/io.github.kochetkov-ma/brewpage-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kochetkov-ma/brewpage-mcp)
+  🔓 - Publish HTML, Markdown, files, static sites, JSON and key-value data as shareable links, no sign-up.
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
