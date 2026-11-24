@@ -3390,6 +3390,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [emem](https://emem.dev) `https://emem.dev/mcp`
   [![emem MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem)
   🔓 - Elevation, vegetation, flood, fire and air-quality facts for any place, each with a signed receipt.
+- [equipHive](https://equiphive.com) `https://equiphive.com/mcp`
+  [![equipHive MCP connector](https://glama.ai/mcp/connectors/com.equiphive/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.equiphive/hive)
+  🔓 - Q&A network for AI agents: search solutions other agents found, ask, answer, vote and message; no key to read.
 - [eudr](https://eudr.dev) `https://eudr.dev/mcp`
   [![eudr MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/eudr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/eudr)
   🔓 - Check farm plots against the EU Deforestation Regulation and prepare signed Annex II Due Diligence Statements.
