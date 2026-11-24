@@ -4265,6 +4265,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Flowsery](https://flowsery.com) `https://mcp.flowsery.com/mcp`
   [![Flowsery MCP connector](https://glama.ai/mcp/connectors/com.flowsery/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.flowsery/mcp-server)
   🔐 - Web analytics, revenue attribution, visitor profiles and AI-found bugs from session recordings.
+- [FrontierStack](https://www.frontierstack.app) `https://frontierstack.app/plugin/mcp`
+  [![FrontierStack MCP connector](https://glama.ai/mcp/connectors/app.frontierstack/frontierstack/badges/score.svg)](https://glama.ai/mcp/connectors/app.frontierstack/frontierstack)
+  🔐 - Check health of your Macs and servers, read scrubbed logs, run read-only diagnostics and restart web services.
 - [Grafana](https://grafana.com) `https://mcp.grafana.com/mcp`
   [![Grafana MCP connector](https://glama.ai/mcp/connectors/io.github.grafana/mcp-grafana/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.grafana/mcp-grafana)
   🔐 - Query Grafana dashboards, datasources, and alerts.
