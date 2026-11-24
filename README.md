@@ -3932,9 +3932,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![iMario MCP connector](https://glama.ai/mcp/connectors/ai.imario/imario/badges/score.svg)](https://glama.ai/mcp/connectors/ai.imario/imario)
   🔐 - Ask synthetic audiences built from real people how they react to copy, pages, prices and images.
 
-- [Improvado](https://improvado.io/docs-section-topic/improvado-mcp) `https://report.improvado.io/experimental/agent/api/mcp-customer/v1/invoke/`
+- [Improvado](https://improvado.io/docs-section-topic/improvado-mcp) `https://ai.improvado.io/experimental/agent/api/mcp-customer/v1/invoke/`
   [![Improvado MCP connector](https://glama.ai/mcp/connectors/io.improvado/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.improvado/mcp)
-  🔐 - Query ads, web analytics and CRM data from an Improvado workspace: spend, ROAS and results by channel.
+  🔐 - Query ads, web analytics and CRM data from an Improvado workspace: spend, ROAS and results by channel. Free sign-up; existing customers use report.improvado.io.
 
 - [IndustryLens](https://industry-lens.com) `https://api.industry-lens.com/mcp/public`
   [![IndustryLens MCP connector](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public/badges/score.svg)](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public)
