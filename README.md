@@ -6633,6 +6633,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
   🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
+- [Bookvia](https://api.bookvia.de/entwickler) `https://api.bookvia.de/mcp`
+  [![Bookvia MCP connector](https://glama.ai/mcp/connectors/de.bookvia/bookvia/badges/score.svg)](https://glama.ai/mcp/connectors/de.bookvia/bookvia)
+  🔓 - Find local service businesses in Germany and see free times; OAuth to request quotes and book appointments.
 - [CAFE Saju & BaZi](https://24plus.ai.kr/partner/docs) `https://mcp.24plus.ai.kr/mcp`
   [![CAFE Saju & BaZi MCP connector](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp)
   🔓 - Korean Saju and Chinese BaZi (Four Pillars) charts, Five Elements, chart structure and a solar-term calendar.
