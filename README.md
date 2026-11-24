@@ -5782,6 +5782,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
+- [Ascend.so](https://ascend.so/) `https://mcp.ascend.so/mcp`
+  [![Ascend.so MCP connector](https://glama.ai/mcp/connectors/io.github.ascend-so/ascend/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ascend-so/ascend)
+  🔐 - Research short-form videos and creators: what works in a niche, why it worked, and what to post next.
 - [Breakreach](https://www.breakreach.com/agents) `https://api.breakreach.com/mcp`
   [![Breakreach MCP connector](https://glama.ai/mcp/connectors/com.breakreach/breakreach/badges/score.svg)](https://glama.ai/mcp/connectors/com.breakreach/breakreach)
   🔐 - Schedule and publish posts on 19 social networks, reply to comments and DMs, and read post analytics.
