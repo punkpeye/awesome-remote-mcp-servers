@@ -3785,6 +3785,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BizIntel](https://mcp-bizintel-production.up.railway.app) `https://mcp-bizintel-production.up.railway.app/mcp`
   [![BizIntel MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel)
   🔓 - Audit websites, detect tech stacks, and find and score local businesses without a website.
+- [Black SEO Analyzer](https://www.blackseoanalyzer.com/mcp) `https://mcp.blackseoanalyzer.com/mcp`
+  [![Black SEO Analyzer MCP connector](https://glama.ai/mcp/connectors/io.github.sethblack/bseoa/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sethblack/bseoa)
+  🔐 - Technical SEO audits: check a page, crawl a whole site, rank the issues by severity and compare two crawls.
+
 - [Blawgy](https://blawgy.com/mcp) `https://app.blawgy.com/mcp`
   [![Blawgy MCP connector](https://glama.ai/mcp/connectors/com.blawgy/blawgy/badges/score.svg)](https://glama.ai/mcp/connectors/com.blawgy/blawgy)
   🔐 - Keyword research, plus writing and publishing SEO blog posts to WordPress, Shopify, Webflow and more.
