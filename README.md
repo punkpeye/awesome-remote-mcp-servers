@@ -6171,6 +6171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [djbnb](https://djbnb.com/ai-connector) `https://djbnb.com/mcp`
+  [![djbnb MCP connector](https://glama.ai/mcp/connectors/com.djbnb/djbnb/badges/score.svg)](https://glama.ai/mcp/connectors/com.djbnb/djbnb)
+  🔓 - Who is playing tonight or this weekend: DJ nights in djbnb's US cities, with venue, start time, door and DJs.
 - [Doorfarer](https://doorfarer.com) `https://doorfarer.com/mcp`
   [![Doorfarer MCP connector](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer/badges/score.svg)](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer)
   🔓 - Door-to-door trip search: compares every reachable airport including the ground leg, with price calendars.
