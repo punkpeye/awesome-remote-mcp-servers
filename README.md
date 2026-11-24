@@ -4550,6 +4550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [SunoBoard](https://sunoboard.com/suno-mcp) `https://mcp.sunoboard.com/mcp`
+  [![SunoBoard MCP connector](https://glama.ai/mcp/connectors/com.sunoboard/sunoboard/badges/score.svg)](https://glama.ai/mcp/connectors/com.sunoboard/sunoboard)
+  🔐 - Generate songs, game music, loops and sound effects with Suno, Google Lyria, Stable Audio, MiniMax and ElevenLabs, wait for the audio and search a public track library (independent, not affiliated with Suno).
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
