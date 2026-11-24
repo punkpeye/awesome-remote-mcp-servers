@@ -1913,6 +1913,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PoloPan Fashion MCP](https://polopan.com) `https://mcp-server.polopan.com/mcp`
   [![PoloPan Fashion MCP connector](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion/badges/score.svg)](https://glama.ai/mcp/connectors/com.polopan.mcp-server/mcp-fashion)
   🔓 - Shop fashion: break an outfit photo into items, get in-stock looks for an occasion and check out.
+- [Pouch.me](https://agents.pouch.me) `https://agents.pouch.me/mcp`
+  [![Pouch.me MCP connector](https://glama.ai/mcp/connectors/me.pouch/agents/badges/score.svg)](https://glama.ai/mcp/connectors/me.pouch/agents)
+  🔓 - Custom printed pouches, plus labels, tissue, tape and boxes: specs, bag-type and material suggestions, quote requests.
 - [ProductGuru](https://myproduct.guru/developers) `https://myproduct.guru/mcp`
   [![ProductGuru MCP connector](https://glama.ai/mcp/connectors/guru.myproduct/product-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/guru.myproduct/product-lookup)
   🔓 - Look up a product by EAN or UPC barcode: name, brand, category, specs and official government recall notices.
