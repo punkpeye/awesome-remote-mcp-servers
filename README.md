@@ -95,6 +95,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 💼 - [Jobs & Careers](#jobs--careers)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
+* 📦 - [Logistics & Shipping](#logistics--shipping)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia](#multimedia)
@@ -3686,6 +3687,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zitierfest](https://zitierfest.de) `https://mcp.zitierfest.de/mcp`
   [![Zitierfest MCP connector](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest/badges/score.svg)](https://glama.ai/mcp/connectors/de.zitierfest/zitierfest)
   🔐 - German statutes verbatim (federal, 16 states, EU), federal court decisions with paragraph numbers, legal fees.
+
+### 📦 <a name="logistics--shipping"></a>Logistics & Shipping
+
+- [Mothership](https://www.mothership.com) `https://mcp.mothership.com`
+  [![Mothership MCP connector](https://glama.ai/mcp/connectors/com.mothership/mothership/badges/score.svg)](https://glama.ai/mcp/connectors/com.mothership/mothership)
+  🔐 - Mothership LTL, FTL & Local Freight: get quotes and track shipments.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
