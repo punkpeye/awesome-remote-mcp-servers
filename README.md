@@ -2270,6 +2270,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
+- [Arkham](https://arkm.com/api/docs) `https://mcp.arkm.com/mcp`
+  [![Arkham MCP connector](https://glama.ai/mcp/connectors/com.arkm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkm/mcp)
+  🔐 - Blockchain intelligence: wallet and entity attribution, balances, transfers, token flows, Polymarket and HyperCore.
 - [Asiento Uno](https://asientouno.com/mcp) `https://mcp.asientouno.com/mcp`
   [![Asiento Uno MCP connector](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana/badges/score.svg)](https://glama.ai/mcp/connectors/com.asientouno.mcp/asiento-uno-registro-mercantil-de-espana)
   🔓 - Spanish company registry (BORME) with grants and procurement per company, linked to sources. Data tools need a free key.
