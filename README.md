@@ -3833,6 +3833,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
+- [Cueston](https://cueston.com/docs/mcp) `https://app.cueston.com/api/mcp`
+  [![Cueston MCP connector](https://glama.ai/mcp/connectors/com.cueston/cueston/badges/score.svg)](https://glama.ai/mcp/connectors/com.cueston/cueston)
+  🔐 - Build, preview and publish product tours, tooltips, banners, checklists and surveys in your web app; read analytics.
 
 - [Distribution](https://distribution.tech) `https://app.distribution.tech/api/mcp/guest`
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
