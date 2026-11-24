@@ -461,7 +461,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [AirGallery](https://airgallery.com/api#mcp) `https://airgallery.com/mcp`
   [![AirGallery MCP connector](https://glama.ai/mcp/connectors/com.airgallery/airgallery/badges/score.svg)](https://glama.ai/mcp/connectors/com.airgallery/airgallery)
-  🔑 - 22 image models and 25 photo tools (background removal, upscaling, restoration), billed per call in credits.
+  🔓 - 20+ image models and 25 photo tools (background removal, upscaling, restoration); read-only tools need no key, generation is billed per call in credits with a free `ag_` API key.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
