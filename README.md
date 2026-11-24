@@ -2988,6 +2988,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Web3Juice](https://web3juice.com/mcp) `https://web3juice.com/api/mcp`
   [![Web3Juice MCP connector](https://glama.ai/mcp/connectors/com.web3juice/web3juice/badges/score.svg)](https://glama.ai/mcp/connectors/com.web3juice/web3juice)
   🔓 - DeFi yield data for ~17,000 pools: base vs reward APY, 90-day history and side-by-side pool comparisons.
+- [Weekend Gap Board](https://weekend-gap-board.pages.dev) `https://weekend-gap-board.pages.dev/mcp`
+  [![Weekend Gap Board MCP connector](https://glama.ai/mcp/connectors/dev.pages.weekend-gap-board/weekend-gap-board/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.weekend-gap-board/weekend-gap-board)
+  🔓 - Weekend gaps of tokenized US stocks vs a Fri 16:00 ET ref (Hyperliquid oracle/token avg), issuer spread, funding APR.
 - [Wellspent](https://find.wellspent.co) `https://api.wellspent.co/mcp`
   [![Wellspent MCP connector](https://glama.ai/mcp/connectors/co.wellspent/advisors/badges/score.svg)](https://glama.ai/mcp/connectors/co.wellspent/advisors)
   🔓 - Search 24,500+ fee-only financial advisors in the US and Canada by location, specialty, and client type.
