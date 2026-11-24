@@ -2970,6 +2970,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
+- [Varosyan](https://varosyanllc.com/developers) `https://varosyanllc.com/api/public/mcp`
+  [![Varosyan MCP connector](https://glama.ai/mcp/connectors/com.varosyanllc/company-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.varosyanllc/company-data)
+  🔓 - Search companies from official national registers, with public tenders, contract awards and dated signals.
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
   🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
