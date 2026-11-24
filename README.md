@@ -2351,6 +2351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
+- [Check before you pay](https://check.loopholetape.com) `https://check.loopholetape.com/mcp`
+  [![Check before you pay MCP connector](https://glama.ai/mcp/connectors/com.loopholetape/check-before-you-pay/badges/score.svg)](https://glama.ai/mcp/connectors/com.loopholetape/check-before-you-pay)
+  🔓 - Measured outcomes of entries that paid a Bittensor subnet registration fee, and what a new entry earns today.
 - [Clear Tape](https://cleartape.ai/mcp) `https://app.cleartape.ai/mcp`
   [![Clear Tape MCP connector](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleartape/clear-tape)
   🔓 - Exact trading calculators (position size, R:R, expectancy, ATR stop, Kelly), system rules, glossary and lesson search.
