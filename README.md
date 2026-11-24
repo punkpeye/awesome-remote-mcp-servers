@@ -2982,6 +2982,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
+- [Virkly](https://virkly.io/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=E-20261110) `https://virkly.io/v1/mcp`
+  [![Virkly MCP connector](https://glama.ai/mcp/connectors/io.virkly/cvr/badges/score.svg)](https://glama.ai/mcp/connectors/io.virkly/cvr)
+  🔐 - Danish CVR company register: lookup, search, owners, annual-account figures, bankruptcies and change alerts.
 - [W System EU Business Data](https://wsystem.dev/eu-business-data-mcp-server) `https://api.wsystem.dev/mcp/`
   [![W System EU Business Data MCP connector](https://glama.ai/mcp/connectors/io.github.zifengw/eu-business-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zifengw/eu-business-data-mcp)
   🔓 - EU VAT (VIES), EORI, company registers, EU/UN/OFAC/UK sanctions, KYB and e-invoice checks; 20 free calls/day.
