@@ -2844,6 +2844,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SmarterDividends](https://smarterdividends.com/dividend-mcp-server) `https://smarterdividends.com/mcp`
   [![SmarterDividends MCP connector](https://glama.ai/mcp/connectors/com.smarterdividends/dividends/badges/score.svg)](https://glama.ai/mcp/connectors/com.smarterdividends/dividends)
   🔓 - Dividend history, ex-dividend calendar, yields, raises and cuts for U.S. stocks and ETFs.
+- [SN Data by Shikshan Nivesh](https://shikshannivesh.com/data/ai) `https://shikshannivesh.com/mcp`
+  [![SN Data by Shikshan Nivesh MCP connector](https://glama.ai/mcp/connectors/com.shikshannivesh/sn-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.shikshannivesh/sn-data)
+  🔐 - US company financial statements, insider trades, 13F fund holdings and short interest, each linked to its SEC filing.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
