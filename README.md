@@ -811,6 +811,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Symbioza](https://symbioza.dev) `https://symbioza.dev/mcp`
   [![Symbioza MCP connector](https://glama.ai/mcp/connectors/dev.symbioza/symbioza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.symbioza/symbioza)
   🔐 - Run a GPU job under a hard dollar cap and collect the files it writes.
+- [Tessryx](https://tessryx.com) `https://mcp.tessryx.io/mcp`
+  [![Tessryx MCP connector](https://glama.ai/mcp/connectors/io.tessryx/tessryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.tessryx/tessryx)
+  🔐 - Build, publish and host web apps: pages, APIs, data, schedules and AI agents, from ChatGPT or Claude.
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
   [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
   🔓 - Add production storage, data, jobs, webhooks, email and secrets to an app, and meter the usage.
