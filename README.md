@@ -2315,6 +2315,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Beyond Payday](https://beyondpayday.com/mcp) `https://beyondpayday.com/api/mcp`
   [![Beyond Payday MCP connector](https://glama.ai/mcp/connectors/com.beyondpayday/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.beyondpayday/mcp)
   🔐 - Household finance planner: cash flow, net worth, bills, debts, savings goals and retirement projections.
+- [Bifrost K-Finance](https://github.com/ballostark-wq/bifrost-kfinance-mcp) `https://bifrost-x402-production.up.railway.app/mcp`
+  [![Bifrost K-Finance MCP connector](https://glama.ai/mcp/connectors/app.railway.up.bifrost-x402-production/bifrost-kfinance-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.bifrost-x402-production/bifrost-kfinance-mcp)
+  🔓 - Live Korean OpenDART filings, Bank of Korea ECOS FX/yields, and US-KR AI supply-chain tools settled via x402 USDC on Base.
 - [Billstride](https://billstride.com/mcp) `https://billstride.com/api/mcp`
   [![Billstride MCP connector](https://glama.ai/mcp/connectors/com.billstride/billstride/badges/score.svg)](https://glama.ai/mcp/connectors/com.billstride/billstride)
   🔐 - Create, send and track invoices, chase overdue payments, see revenue, and export ZUGFeRD, XRechnung and DATEV.
