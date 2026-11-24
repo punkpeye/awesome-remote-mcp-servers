@@ -6671,6 +6671,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
+- [JinXinCai Printing](https://customprintingco.com) `https://customprintingco.com/mcp`
+  [![JinXinCai Printing MCP connector](https://glama.ai/mcp/connectors/com.customprintingco/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.customprintingco/site)
+  🔓 - Custom roll label guides: digital vs flexo cost, materials, FDA and food label compliance; ask a label specialist.
 - [LifeVerse Product Discovery](https://lifeverse.gufreelancer.com/mcp) `https://lifeverse.gufreelancer.com/api/mcp?source=mcp-directory`
   [![LifeVerse Product Discovery MCP connector](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog)
   🔓 - Discover, search and recommend eleven ready-to-use LifeVerse AI products and interactive experiences.
