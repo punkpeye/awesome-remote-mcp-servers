@@ -6695,6 +6695,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RFQdecoder](https://rfqdecoder.com/api-mcp-ai-agents/) `https://rfqdecoder.com/api/mcp`
   [![RFQdecoder MCP connector](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder)
   🔓 - Should-cost of an industrial part from its PDF, DXF or STEP drawing, line by line, with assumptions and exclusions.
+- [RoxyAPI Vedic Astrology](https://roxyapi.com/products/vedic-astrology-api) `https://roxyapi.com/mcp/vedic-astrology`
+  [![RoxyAPI Vedic Astrology MCP connector](https://glama.ai/mcp/connectors/com.roxyapi/vedic-astrology/badges/score.svg)](https://glama.ai/mcp/connectors/com.roxyapi/vedic-astrology)
+  🔓 - Kundli, panchang, dasha, doshas, yogas, KP and kundli matching from NASA JPL DE440; API key to call tools.
 - [SerialHunt](https://bigballi.com/SerialHunt/connect) `https://bigballi.com/SerialHunt/mcp`
   [![SerialHunt MCP connector](https://glama.ai/mcp/connectors/com.bigballi/serialhunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/serialhunt)
   🔓 - US bill serial numbers: star note print runs from government figures and fancy serial patterns with exact odds.
