@@ -477,6 +477,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
+- [Cozu](https://cozu.xyz) `https://cozu.xyz/mcp`
+  [![Cozu MCP connector](https://glama.ai/mcp/connectors/xyz.cozu/cozu/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.cozu/cozu)
+  🔓 - Search and download free, game-ready 3D models (GLB, OBJ) under CC BY 4.0, with the credit line for each.
 - [CropDen](https://cropden.com) `https://cropden.com/mcp`
   [![CropDen MCP connector](https://glama.ai/mcp/connectors/io.github.geektao1024/cropden/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.geektao1024/cropden)
   🔓 - Image sizes and safe zones for 14 social platforms; AI extend, upscale and background removal need a key.
