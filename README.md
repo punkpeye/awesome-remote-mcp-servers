@@ -4698,6 +4698,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atwork](https://atwork.so/mcp) `https://mcp.atwork.so/mcp`
   [![Atwork MCP connector](https://glama.ai/mcp/connectors/so.atwork/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/so.atwork/workspace)
   🔐 - Work with your Atwork sheets, tasks and pages from Claude, ChatGPT or any MCP client, with one OAuth scope per tool.
+- [Clearly](https://www.clearly.sh/docs/mcp) `https://relay.clearly.sh/mcp`
+  [![Clearly MCP connector](https://glama.ai/mcp/connectors/sh.clearly/clearly/badges/score.svg)](https://glama.ai/mcp/connectors/sh.clearly/clearly)
+  🔐 - Workspace for AI agents: docs, tickets, boards, memory and an editable canvas with print-ready PDF export.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
 - [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
