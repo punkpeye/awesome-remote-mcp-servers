@@ -3846,6 +3846,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![hrva.cc MCP connector](https://glama.ai/mcp/connectors/cc.hrva/url-shortener/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hrva/url-shortener)
   🔐 - Create and list short links and read their click statistics, with safety checks on every link.
 
+- [IMPACT](https://tools.gtmhelix.com/connectors/) `https://impact.gtmhelix.com/mcp`
+  [![IMPACT MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/impact-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/impact-mcp)
+  🔓 - Nine B2B positioning and messaging tools built on the IMPACT method.
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
