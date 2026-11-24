@@ -660,6 +660,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
   🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
 
+- [Browser.lol](https://browser.lol/en/docs/mcp) `https://api.browser.lol/mcp`
+  [![Browser.lol MCP connector](https://glama.ai/mcp/connectors/lol.browser/browser/badges/score.svg)](https://glama.ai/mcp/connectors/lol.browser/browser)
+  🔐 - A real cloud browser your agent drives with mouse and keyboard input, with a live view to watch and take over.
+
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
