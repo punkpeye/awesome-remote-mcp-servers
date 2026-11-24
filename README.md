@@ -2282,6 +2282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [Avanciq](https://avanciq.com/agents/) `https://api.avanciq.com/connect/mcp`
+  [![Avanciq MCP connector](https://glama.ai/mcp/connectors/com.avanciq/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.avanciq/connector)
+  🔓 - Official VAT/GST rates on a date, Brazil/Mexico/Poland tax-code validity, EN 16931 e-invoice checks and exact business sums, with sources.
 - [BankRegReports](https://www.bankregreports.com/mcp/) `https://api.bankregreports.com/api/mcp/`
   [![BankRegReports MCP connector](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports)
   🔓 - US bank and credit union data from call reports, UBPR, FDIC, NCUA and SEC filings: profiles, peers and screens.
