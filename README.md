@@ -4366,6 +4366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audexum](https://audexum.com/integrations/mcp) `https://audexum.com/mcp`
   [![Audexum MCP connector](https://glama.ai/mcp/connectors/com.audexum/audexum/badges/score.svg)](https://glama.ai/mcp/connectors/com.audexum/audexum)
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
+- [Audio Plugin Soko-kun](https://audio-soko-kun.allegromoltov.jp/about?lang=en) `https://audio-soko-kun.allegromoltov.jp/mcp`
+  [![Audio Plugin Soko-kun MCP connector](https://glama.ai/mcp/connectors/io.github.AllegroMoltoV/audio-plugin-soko-kun/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AllegroMoltoV/audio-plugin-soko-kun)
+  🔓 - Search open-source VST 3, CLAP, LV2, and AU plugins with checked release files; submitting needs GitHub sign-in.
 - [AvatarSay](https://avatarsay.com/mcp) `https://avatarsay.com/mcp`
   [![AvatarSay MCP connector](https://glama.ai/mcp/connectors/com.avatarsay/avatar-say/badges/score.svg)](https://glama.ai/mcp/connectors/com.avatarsay/avatar-say)
   🔓 - Generate fictional character portraits and lip-synced talking MP4 videos from text in 8 styles and 8 voices.
