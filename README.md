@@ -5208,6 +5208,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datacircle](https://datacircle.dev) `https://api.datacircle.dev/mcp`
   [![Datacircle MCP connector](https://glama.ai/mcp/connectors/dev.datacircle/datacircle/badges/score.svg)](https://glama.ai/mcp/connectors/dev.datacircle/datacircle)
   🔓 - Find the best GTM APIs: list every API, see who is best for each, search every plan. Free, no key.
+- [datapress](https://apify.com/datapress) `https://mcp.apify.com/?tools=datapress/uk-government-tenders,datapress/global-tenders,datapress/uk-companies-house,datapress/eu-company-registers,datapress/company-job-boards,datapress/app-store-intel,datapress/domain-checker`
+  [![datapress MCP connector](https://glama.ai/mcp/connectors/io.github.JD-ZY/datapress/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JD-ZY/datapress)
+  🔐 - UK/EU/US public tenders, Companies House with filed financials, EU company registers, job boards, app stores, domains.
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
