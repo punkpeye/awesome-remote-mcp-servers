@@ -2856,6 +2856,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SODAX](https://docs.sodax.com/builders-mcp) `https://builders.sodax.com/mcp`
   [![SODAX MCP connector](https://glama.ai/mcp/connectors/io.github.gosodax/builders-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosodax/builders-mcp)
   🔓 - Live cross-network DeFi data: chains, tokens, swap quotes, money market rates, intent lookups and SDK docs.
+- [SPECTRE Markets](https://spectre.markets/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp_listing_202611) `https://spectre.markets/mcp`
+  [![SPECTRE Markets MCP connector](https://glama.ai/mcp/connectors/io.github.sina158/spectre-markets/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sina158/spectre-markets)
+  🔓 - Daily futures and crypto levels: dealer gamma for NQ, ES, BTC and ETH, gold structure and ranked session paths.
 - [Stablecoin Scanner](https://stablescan.achivx.com) `https://stablescan.achivx.com/mcp`
   [![Stablecoin Scanner MCP connector](https://glama.ai/mcp/connectors/com.achivx/stablescan/badges/score.svg)](https://glama.ai/mcp/connectors/com.achivx/stablescan)
   🔓 - Stablecoin compliance on 7 chains: issuer freezes, OFAC, exposure and risk, allowances, transfers, wallet graph.
