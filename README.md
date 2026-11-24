@@ -1099,6 +1099,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Writing studio for novels and screenplays: cited fact-checks and continuity checks on your drafts; never writes prose.
 - [Storyblok](https://storyblok.com) `https://mcp.storyblok.com/mcp`
   🔓 - Manage Storyblok spaces, stories, and components.
+- [Total CMS Docs](https://docs.totalcms.co/mcp/server) `https://totalcms.co/mcp`
+  [![Total CMS Docs MCP connector](https://glama.ai/mcp/connectors/co.totalcms/docs/badges/score.svg)](https://glama.ai/mcp/connectors/co.totalcms/docs)
+  🔓 - Total CMS docs, guides and comparisons: Twig signatures, field types, schema options, CLI and REST API reference.
 - [UiChemy](https://uichemy.com) `https://app.uichemy.com/api/mcp`
   [![UiChemy MCP connector](https://glama.ai/mcp/connectors/com.uichemy.app/ui-chemy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.uichemy.app/ui-chemy-mcp)
   🔐 - Build editable WordPress pages for Elementor and Gutenberg from Claude, Cursor, Codex and VS Code.
