@@ -3749,7 +3749,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AI Monk Index MCP connector](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index)
   🔓 - Research AI monk creator accounts: sourced profiles, video formats, offers and published playbooks.
 
-- [allclicks](https://allclicks.net/mcp-server) `https://app.allclicks.net/mcp`
+- [allclicks](https://allclicks.net/mcp-server) `https://app.allclicks.net/mcp/github`
   [![allclicks MCP connector](https://glama.ai/mcp/connectors/net.allclicks/search-console/badges/score.svg)](https://glama.ai/mcp/connectors/net.allclicks/search-console)
   🔐 - Google Search Console for all your sites at once: clicks, queries, pages, Discover traffic and index status.
 
