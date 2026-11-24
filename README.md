@@ -2984,7 +2984,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - EU VAT (VIES), EORI, company registers, EU/UN/OFAC/UK sanctions, KYB and e-invoice checks; 20 free calls/day.
 - [Wall of Decks](https://wallofdecks.com/connect) `https://wallofdecks.com/api/mcp`
   [![Wall of Decks MCP connector](https://glama.ai/mcp/connectors/com.wallofdecks/wall-of-decks/badges/score.svg)](https://glama.ai/mcp/connectors/com.wallofdecks/wall-of-decks)
-  🔓 - Real pre-seed and seed pitch deck slides by section, stage and reviewer verdict, plus section benchmarks.
+  🔓 - Real pre-seed and seed pitch deck slides by section and stage, with reviewer notes and section benchmarks.
 - [Web3Juice](https://web3juice.com/mcp) `https://web3juice.com/api/mcp`
   [![Web3Juice MCP connector](https://glama.ai/mcp/connectors/com.web3juice/web3juice/badges/score.svg)](https://glama.ai/mcp/connectors/com.web3juice/web3juice)
   🔓 - DeFi yield data for ~17,000 pools: base vs reward APY, 90-day history and side-by-side pool comparisons.
