@@ -6558,6 +6558,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
+- [Signathing](https://signathing.com/developers) `https://signathing.com/api/mcp`
+  [![Signathing MCP connector](https://glama.ai/mcp/connectors/com.signathing/signathing/badges/score.svg)](https://glama.ai/mcp/connectors/com.signathing/signathing)
+  🔐 - Send PDFs for e-signature recognized under ESIGN and UETA (up to 25 signers plus view-only recipients, placed fields, templates, reminders, void, sealed certified copies) with a public hash-chained evidence log anyone can verify; 100 free documents a month, then prepaid per document.
 - [TakeMeUp.cv](https://takemeup.cv/en/ai-assistants) `https://takemeup.cv/api/mcp`
   [![TakeMeUp.cv MCP connector](https://glama.ai/mcp/connectors/cv.takemeup/takemeup/badges/score.svg)](https://glama.ai/mcp/connectors/cv.takemeup/takemeup)
   🔓 - CV & resume builder for Europe: country formats in 14 languages, ATS checks, cover letters, job tracker; needs sign-in.
