@@ -2500,6 +2500,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers&utm_content=readme) `https://mcp.fxmacrodata.com`
   [![FXMacroData MCP connector](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata)
   🔓 - Official macro releases and calendars: public USD data, with an optional API key for broader coverage.
+- [FXpeek](https://fxpeek.com/en/answers/invoice-date-exchange-rate) `https://fxpeek.com/api/mcp`
+  [![FXpeek MCP connector](https://glama.ai/mcp/connectors/io.github.Jenpo/fxpeek/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Jenpo/fxpeek)
+  🔓 - Source-linked dated reference rates: latest plus historical series for invoice dates.
 - [FxSocket](https://fxsocket.com/docs/mcp) `https://mcp.fxsocket.com/mcp`
   [![FxSocket MCP connector](https://glama.ai/mcp/connectors/com.fxsocket/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fxsocket/mcp)
   🔑 - Read-only MetaTrader 4 and 5 accounts: balances, open positions, trade history, quotes, symbol specs and candles.
