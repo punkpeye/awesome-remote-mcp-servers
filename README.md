@@ -261,6 +261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScorpTech x402 Tools](https://scorptech.it.com/api/x402/docs) `https://scorptech.it.com/api/x402/mcp`
   [![ScorpTech x402 Tools MCP connector](https://glama.ai/mcp/connectors/com.it.scorptech/x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.it.scorptech/x402)
   🔓 - 1,012 pay-per-call tools: web data, SEO, security, OSINT, SEC filings and Solana/EVM lookups; USDC via x402.
+- [Serverdex](https://serverdex.io/developers) `https://serverdex.io/mcp`
+  [![Serverdex MCP connector](https://glama.ai/mcp/connectors/io.serverdex/serverdex/badges/score.svg)](https://glama.ai/mcp/connectors/io.serverdex/serverdex)
+  🔓 - Search 41,000+ registry MCP servers by task or category; returns configs, GitHub facts and live-check status.
 - [SkillTide](https://anclum.com) `https://anclum.com/mcp`
   [![SkillTide MCP connector](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp)
   🔓 - Search 7,500+ MCP servers, agent skills and AI projects with verified official links.
