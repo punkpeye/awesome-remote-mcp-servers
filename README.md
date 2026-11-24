@@ -3947,6 +3947,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Kliqo AI MCP connector](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility)
   🔓 - Free AI crawler and page checks, then see if ChatGPT and Google AI name you or your competitors.
 
+- [Komendly](https://www.komendly.com) `https://www.komendly.com/api/mcp`
+  [![Komendly MCP connector](https://glama.ai/mcp/connectors/io.github.Gahroot/komendly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Gahroot/komendly)
+  🔐 - Turn any website URL into on-brand Facebook and Instagram ad creatives and short promo videos.
+
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
