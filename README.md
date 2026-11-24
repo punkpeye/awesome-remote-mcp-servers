@@ -2940,6 +2940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradingMCP](https://tradingmcp.ai) `https://mcp.cryptosieve.com/mcp`
   [![TradingMCP MCP connector](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp)
   🔓 - Market screeners, technical analysis, backtests and charts for crypto, stocks and FX; tool calls need an API key.
+- [Tradytics](https://tradytics.com/docs/mcp) `https://tradytics.com/mcp`
+  [![Tradytics MCP connector](https://glama.ai/mcp/connectors/com.tradytics/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradytics/market-data)
+  🔐 - US options flow, dark pool prints, dealer gamma, stock perpetuals, prediction markets, fundamentals and SEC filings.
 - [TRON USDT Risk Checker](https://usdt.chikocorp.com/mcp-server) `https://usdt.chikocorp.com/mcp`
   [![TRON USDT Risk Checker MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/tron-usdt-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/tron-usdt-mcp)
   🔓 - Tether USDT blacklist check for TRON addresses (free), plus OFAC screening and AML reports via x402 or API key.
