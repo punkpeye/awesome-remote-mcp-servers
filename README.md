@@ -5559,6 +5559,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AuthiChain](https://authichain.com/x402) `https://authichain.com/mcp`
   [![AuthiChain MCP connector](https://glama.ai/mcp/connectors/com.authichain/authichain/badges/score.svg)](https://glama.ai/mcp/connectors/com.authichain/authichain)
   🔓 - Free tools for signed-record verify and EU DPP readiness; paid seal verify is $0.05 USDC on Base via x402.
+- [Bug Bounty Intelligence](https://x402.tokenizen.nl/llms.txt) `https://x402.tokenizen.nl/mcp`
+  [![Bug Bounty Intelligence MCP connector](https://glama.ai/mcp/connectors/nl.tokenizen.x402/bug-bounty-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/nl.tokenizen.x402/bug-bounty-intelligence-mcp)
+  🔓 - Smart contract security scan for AI agents, paid per scan ($5 USDC via x402 on Base), with three tools.
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
