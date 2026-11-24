@@ -536,6 +536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Moodmark](https://moodmark.design/agents) `https://app.moodmark.design/mcp`
   [![Moodmark MCP connector](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.janvodvarka/moodmark)
   🔓 - Save websites with screenshots, palettes and fonts into a design reference library, then search and share it.
+- [MovaUI](https://movaui.com/skills) `https://movaui.com/mcp/catalog`
+  [![MovaUI MCP connector](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp)
+  🔓 - Search AI motion website prompts, 60FPS looping backgrounds, and frontend Agent Skills; PRO unlocks use a user key.
 - [Muro Paint Colors](https://usemuro.com/en/developers) `https://mcp.usemuro.com/mcp`
   [![Muro Paint Colors MCP connector](https://glama.ai/mcp/connectors/com.usemuro/paint-colors/badges/score.svg)](https://glama.ai/mcp/connectors/com.usemuro/paint-colors)
   🔓 - Search 51,000 real paint colors from 35 brands, look up codes and find cross-brand equivalents.
