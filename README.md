@@ -739,6 +739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ElfHosted](https://docs.elfhosted.com/ai-agents/) `https://mcp.elfhosted.com/mcp`
   [![ElfHosted MCP connector](https://glama.ai/mcp/connectors/com.elfhosted/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.elfhosted/public)
   🔓 - Browse hosted AIOStreams, Immich, OpenClaw, Hermes and more: prices, savings, the trial, docs and platform status.
+- [EOL Watch](https://eolwatch.dev/agents?utm_source=awesome_remote_mcp_servers&utm_medium=directory&utm_campaign=eolwatch_launch) `https://eolwatch.dev/mcp`
+  [![EOL Watch MCP connector](https://glama.ai/mcp/connectors/dev.eolwatch/eolwatch/badges/score.svg)](https://glama.ai/mcp/connectors/dev.eolwatch/eolwatch)
+  🔓 - Search cloud retirements, end of support dates and IaC breaking changes for Azure, AWS, GCP and OCI.
 - [Eurobase](https://eurobase.dev/docs/agents) `https://api.eurobase.dev/mcp`
   [![Eurobase MCP connector](https://glama.ai/mcp/connectors/dev.eurobase/eurobase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.eurobase/eurobase)
   🔐 - Create projects from GitHub repositories, deploy them, and read build, runtime and HTTP logs on a European cloud.
