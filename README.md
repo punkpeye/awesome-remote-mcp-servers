@@ -4822,6 +4822,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [fixRAgent](https://fixragent.com/docs) `https://fixragent.com/mcp`
+  [![fixRAgent MCP connector](https://glama.ai/mcp/connectors/io.github.Russ4102/fixragent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Russ4102/fixragent)
+  🔓 - Triage a building maintenance photo: the asset, urgency word, trade to call and a line for the resident.
 - [GetParcelData](https://getparceldata.com/mcp) `https://api.getparceldata.com/mcp`
   [![GetParcelData MCP connector](https://glama.ai/mcp/connectors/com.getparceldata/parcels/badges/score.svg)](https://glama.ai/mcp/connectors/com.getparceldata/parcels)
   🔓 - US parcel boundaries and assessor data by APN, point, radius or polygon. Coverage is free; lookups need an API key.
