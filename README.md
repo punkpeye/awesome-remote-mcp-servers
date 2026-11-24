@@ -4324,6 +4324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
+- [Smoke Run](https://getsmokerun.com/agents) `https://getsmokerun.com/api/mcp`
+  [![Smoke Run MCP connector](https://glama.ai/mcp/connectors/com.getsmokerun/smoke-run/badges/score.svg)](https://glama.ai/mcp/connectors/com.getsmokerun/smoke-run)
+  🔓 - Check a public site's signup and checkout path from outside and report where revenue is at risk, in dollars.
 - [SolidPing](https://www.solidping.io) `https://solidping.io/api/v1/mcp?auth=required`
   [![SolidPing MCP connector](https://glama.ai/mcp/connectors/io.github.fclairamb/solidping/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fclairamb/solidping)
   🔐 - Create, run and diagnose uptime checks across 40+ types, read incidents, and manage status pages and maintenance.
