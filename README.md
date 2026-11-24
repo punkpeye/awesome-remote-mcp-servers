@@ -2306,6 +2306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Before the Lot](https://beforethelot.com/connect) `https://beforethelot.com/mcp`
   [![Before the Lot MCP connector](https://glama.ai/mcp/connectors/com.beforethelot/before-the-lot/badges/score.svg)](https://glama.ai/mcp/connectors/com.beforethelot/before-the-lot)
   🔓 - Car-buying math and state rules: out-the-door prices, dealer quote checks, leases, trade-ins and local tax in 50 states.
+- [BeliefState](https://beliefstate.ai) `https://beliefstate.ai/mcp`
+  [![BeliefState MCP connector](https://glama.ai/mcp/connectors/ai.beliefstate/investor-research/badges/score.svg)](https://glama.ai/mcp/connectors/ai.beliefstate/investor-research)
+  🔐 - Cited investor theses, investment risks, catalysts, research changes and publication-based outcomes.
 - [Benefits City](https://aiagentscity.com/benefits) `https://aiagentscity.com/benefits/mcp`
   [![Benefits City MCP connector](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.entradox/benefits-city)
   🔓 - US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates.
