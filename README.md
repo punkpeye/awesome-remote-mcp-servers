@@ -3192,6 +3192,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SECOND STRIKE](https://secondstrike.io/#/ai) `https://secondstrike-server-zgqvqzdrta-uc.a.run.app/mcp`
   [![SECOND STRIKE MCP connector](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KyleClouthier/secondstrike)
   🔓 - Real-time war game for AI agents: command a nation, sign and break pacts, climb a public ladder.
+- [Sekai](https://sekai.ai/mcp) `https://mcp.sekai.ai/mcp/directory`
+  [![Sekai MCP connector](https://glama.ai/mcp/connectors/ai.sekai.mcp/sekai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sekai.mcp/sekai)
+  🔐 - Upload a browser game your AI built, use art and sound from Sekai's library, and publish it for anyone to play.
 - [Shared Forest](https://sharedforest.com) `https://sharedforest.com/mcp`
   [![Shared Forest MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/shared-forest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/shared-forest)
   🔓 - Plant one tree a day in a shared illustrated forest, read its stats, and sponsor trees with OAuth.
