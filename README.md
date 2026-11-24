@@ -435,6 +435,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unl, your why agent](https://unlimitless.ai) `https://api.unlimitless.ai/mcp`
   [![Unl, your why agent MCP connector](https://glama.ai/mcp/connectors/ai.unlimitless/unl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unlimitless/unl)
   🔐 - Your agents work from what you decided, and why.
+- [Venom](https://venomlabs.dev) `https://mcp.venomlabs.dev/`
+  [![Venom MCP connector](https://glama.ai/mcp/connectors/io.github.venomlabs-dev/venom/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.venomlabs-dev/venom)
+  🔐 - Shared projects, tasks, decision logs, skills and tools for a team's coding agents.
 - [Verifi](https://verifi.cloud) `https://verifi.cloud/mcp`
   [![Verifi MCP connector](https://glama.ai/mcp/connectors/cloud.verifi/human-verification/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.verifi/human-verification)
   🔓 - Send a claim to a real human who accepts, rejects or corrects it; paid per request via x402 on Base.
