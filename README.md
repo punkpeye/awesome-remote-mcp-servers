@@ -6402,6 +6402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atako](https://docs.atako.ai/developers/mcp/overview) `https://api.atako.ai/mcp`
   [![Atako MCP connector](https://glama.ai/mcp/connectors/ai.atako/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atako/mcp)
   🔑 - Run your company's AI agents: chat, projects and kanban, files, integrations, email and webhooks.
+- [Atrix AI](https://atrix.dev/en/features/mcp) `https://atrix.dev/api/mcp`
+  [![Atrix AI MCP connector](https://glama.ai/mcp/connectors/dev.atrix/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/dev.atrix/workspace)
+  🔐 - Manage a small team's projects, tasks, docs, CRM deals, calendar, hiring and HR records in one workspace.
 - [BCD](https://bcd.snack-wrap.com) `https://bcd.snack-wrap.com/mcp`
   [![BCD MCP connector](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd/badges/score.svg)](https://glama.ai/mcp/connectors/com.snack-wrap.bcd/bcd)
   🔐 - Use your own Mac, Windows or Linux computer from ChatGPT or Claude: files, shell commands and documents.
