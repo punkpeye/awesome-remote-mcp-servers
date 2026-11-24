@@ -4550,6 +4550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
+- [tday.com](https://tday.com) `https://tday.com/api/mcp`
+  [![tday.com MCP connector](https://glama.ai/mcp/connectors/com.tday/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.tday/connector)
+  🔐 - Brands, credits, product screens and launch videos for tday, which records narrated demo videos of the app you build.
 - [TranscriptAPI](https://transcriptapi.io/mcp) `https://api.transcriptapi.io/mcp`
   [![TranscriptAPI MCP connector](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript/badges/score.svg)](https://glama.ai/mcp/connectors/io.transcriptapi/youtube-transcript)
   🔓 - YouTube transcripts with timestamps, plus video search, channel uploads and playlists. Calls need a free API key.
