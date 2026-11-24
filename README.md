@@ -2460,7 +2460,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
 - [Edgegap](https://docs.edgegap.com/docs/mcp-integration) `https://mcp.edgegap.dev/mcp`
   [![Edgegap MCP connector](https://glama.ai/mcp/connectors/dev.edgegap/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.edgegap/mcp)
-  🔑 - Host multiplayer game servers: deploy dedicated servers near players, read logs and metrics, build matchmaker configs and load agent skills for Unity, Unreal, Godot and web games.
+  🔓 - Host multiplayer game servers: deploy dedicated servers near players, read logs and metrics, build matchmaker configs and load agent skills for Unity, Unreal, Godot and web games (Edgegap API token needed for tool calls).
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
