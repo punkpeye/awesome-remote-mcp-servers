@@ -4366,6 +4366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audexum](https://audexum.com/integrations/mcp) `https://audexum.com/mcp`
   [![Audexum MCP connector](https://glama.ai/mcp/connectors/com.audexum/audexum/badges/score.svg)](https://glama.ai/mcp/connectors/com.audexum/audexum)
   🔐 - Text to speech in 30+ languages as MP3 links, audio transcription, and YouTube transcripts.
+- [Audora](https://audora.music/ai-assistant/) `https://audora.music/mcp`
+  [![Audora MCP connector](https://glama.ai/mcp/connectors/music.audora/audora/badges/score.svg)](https://glama.ai/mcp/connectors/music.audora/audora)
+  🔓 - Fills in an artist's Audora profile, tracks, albums, credits and release drafts after an OAuth sign-in.
 - [AvatarSay](https://avatarsay.com/mcp) `https://avatarsay.com/mcp`
   [![AvatarSay MCP connector](https://glama.ai/mcp/connectors/com.avatarsay/avatar-say/badges/score.svg)](https://glama.ai/mcp/connectors/com.avatarsay/avatar-say)
   🔓 - Generate fictional character portraits and lip-synced talking MP4 videos from text in 8 styles and 8 voices.
