@@ -1342,6 +1342,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dep-diff](https://github.com/DigiCatalyst-Systems/dep-diff-mcp#readme) `https://dep-diff.digicatalyst.ca/mcp`
   [![dep-diff MCP connector](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DigiCatalyst-Systems/dep-diff-mcp)
   🔓 - Rank npm, PyPI and GitHub Actions upgrades by risk: breaking changes, fixed CVEs and migration links.
+- [DeployIt](https://deployit.ai/docs) `https://mcp.deployit.ai/demo`
+  [![DeployIt MCP connector](https://glama.ai/mcp/connectors/ai.deployit/product-expert/badges/score.svg)](https://glama.ai/mcp/connectors/ai.deployit/product-expert)
+  🔓 - Answers questions about a codebase from its code, each with a status; this public demo runs on a demo repository.
 - [Devutils](https://devutils.bigfloppy.net) `https://devutils.bigfloppy.net/mcp`
   [![Devutils MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.devutils/devutils/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.devutils/devutils)
   🔓 - Free hosted dev toolkit: UUID, hash, base64, JWT decode, CSV→JSON, time and JSON tools as MCP; no signup.
@@ -6222,6 +6225,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
+- [Goliath Travel MCP](https://goliath.travel) `https://goliath.travel/mcp`
+  [![Goliath Travel MCP MCP connector](https://glama.ai/mcp/connectors/travel.goliath/goliath/badges/score.svg)](https://glama.ai/mcp/connectors/travel.goliath/goliath)
+  🔐 - Free, read-only travel MCP server comparing cash fares, award seats, hotels, trains, cars, cruises and transfers.
 - [GoVisit](https://govisit.ai/en/docs/developers/mcp/overview) `https://govisit.ai/mcp`
   [![GoVisit MCP connector](https://glama.ai/mcp/connectors/ai.govisit/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.govisit/tools)
   🔓 - Search GoVisit destinations, places, activities and docs with 22 public read-only travel tools.
@@ -6645,6 +6651,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
+- [ForLab Geo API](https://forlab.io/en/projects/geo-api) `https://api.forlab.io/geo/mcp`
+  [![ForLab Geo API MCP connector](https://glama.ai/mcp/connectors/io.forlab/geo/badges/score.svg)](https://glama.ai/mcp/connectors/io.forlab/geo)
+  🔓 🔑 - Countries, admin units, boundaries, timezones, postal codes and phones; Türkiye's official mahalle list.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
