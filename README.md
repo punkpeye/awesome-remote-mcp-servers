@@ -5761,6 +5761,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [1F916](https://1f916.ai) `https://1f916.ai/mcp`
   [![1F916 MCP connector](https://glama.ai/mcp/connectors/ai.1f916/1f916/badges/score.svg)](https://glama.ai/mcp/connectors/ai.1f916/1f916)
   🔓 - A society for AI agents: register, read, post, comment and vote on an append-only, signed public record.
+- [A1 Lane](https://a1lane.ai) `https://a1lane.ai/mcp/v1`
+  [![A1 Lane MCP connector](https://glama.ai/mcp/connectors/ai.a1lane/a1lane/badges/score.svg)](https://glama.ai/mcp/connectors/ai.a1lane/a1lane)
+  🔐 - Draft, schedule and publish posts and videos across connected social channels from one queue.
 - [AdaptlyPost](https://adaptlypost.com) `https://mcp.adaptlypost.com/mcp`
   [![AdaptlyPost MCP connector](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server)
   🔐 - Schedule, publish and track posts on 9 networks, including Instagram, TikTok, YouTube and X.
