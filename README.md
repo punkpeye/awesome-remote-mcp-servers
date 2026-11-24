@@ -3419,6 +3419,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HAIDAA](https://haidaa.com/mcp) `https://mcp.haidaa.com/mcp`
   [![HAIDAA MCP connector](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa/badges/score.svg)](https://glama.ai/mcp/connectors/com.haidaa.mcp/haidaa)
   🔓 - Search signed scientific claims, methods, provenance, contradictions, retractions, and admission receipts.
+- [Hostlet](https://hostlet.ai) `https://hostlet.ai/mcp`
+  [![Hostlet MCP connector](https://glama.ai/mcp/connectors/ai.hostlet/hostlet/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hostlet/hostlet)
+  🔓 - Make a shareable AI that answers from your documents, or a website; ask any existing Hostlet AI.
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
