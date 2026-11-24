@@ -6492,6 +6492,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lunacal](https://lunacal.ai) `https://mcp.lunacal.ai/mcp`
   [![Lunacal MCP connector](https://glama.ai/mcp/connectors/ai.lunacal.mcp/lunacal/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lunacal.mcp/lunacal)
   🔐 - Find open slots, book, reschedule and cancel meetings, and create or update event types on Lunacal.
+- [Lusor](https://lusor.ai) `https://mcp.lusor.ai/mcp`
+  [![Lusor MCP connector](https://glama.ai/mcp/connectors/ai.lusor/lusor/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lusor/lusor)
+  🔐 🔑 - AI agents that work your own iPhone or Android: run tasks in real apps, read the screen, tap, swipe and type.
 - [MagicInterview](https://magicinterview.app) `https://magicinterview.app/mcp`
   [![MagicInterview MCP connector](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.samihalawa/magicinterview)
   🔐 - Live AI suggestions for interviews, client calls, and meetings, with reusable context and conversation management.
