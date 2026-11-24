@@ -4882,6 +4882,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pillr](https://pillr.fr/mcp) `https://pillr.fr/api/mcp`
   [![Pillr MCP connector](https://glama.ai/mcp/connectors/fr.pillr/pillr/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pillr/pillr)
   🔓 - French property data: price per m² by municipality, local market summary and planning permit requirements.
+- [Praesago](https://praesago.com/docs/mcp) `https://praesago.com/api/mcp`
+  [![Praesago MCP connector](https://glama.ai/mcp/connectors/com.praesago/praesago/badges/score.svg)](https://glama.ai/mcp/connectors/com.praesago/praesago)
+  🔓 - England and Wales area data by postcode: sold prices, rents, listings, planning, crime, schools and flood risk.
 - [Prism](https://prism.parad1gm.com/agents) `https://prism.parad1gm.com/api/prism-mcp`
   [![Prism MCP connector](https://glama.ai/mcp/connectors/com.parad1gm/prism/badges/score.svg)](https://glama.ai/mcp/connectors/com.parad1gm/prism)
   🔐 - Every deadline in a lease, mortgage, insurance or HOA document, with its date and source quote.
