@@ -4198,6 +4198,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vaneform](https://vaneform.com/docs/api) `https://vaneform.com/mcp`
   [![Vaneform MCP connector](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp)
   🔓 - Free website traffic lookups: monthly visits, sources, countries and domain compares.
+- [Versabot](https://www.versabot.co/mcp-server) `https://www.versabot.co/api/growth/v2/mcp`
+  [![Versabot MCP connector](https://glama.ai/mcp/connectors/io.github.tcmartin/versabot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tcmartin/versabot)
+  🔐 - Check leads and revenue, draft social posts, and build landing pages and A/B tests for small businesses and agencies.
+
 - [VertoDigital](https://vertodigital.com) `https://mcp.vertodigital.com/mcp`
   [![VertoDigital MCP Server MCP connector](https://glama.ai/mcp/connectors/com.vertodigital/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertodigital/mcp)
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
