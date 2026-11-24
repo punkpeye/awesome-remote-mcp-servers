@@ -5670,6 +5670,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OrionCMD Checks](https://orioncmd.com) `https://api.orioncmd.com/mcp`
   [![OrionCMD Checks MCP connector](https://glama.ai/mcp/connectors/com.orioncmd.api/checks/badges/score.svg)](https://glama.ai/mcp/connectors/com.orioncmd.api/checks)
   🔓 - Domain threat checks, a 30-day domain watch, and TLS, DNS/email-auth and expiry checks; paid per call in USDC via x402.
+- [Palisade](https://www.palisade.email/mcp) `https://api.palisade.email/mcp/public`
+  [![Palisade MCP connector](https://glama.ai/mcp/connectors/email.palisade/palisade-audit/badges/score.svg)](https://glama.ai/mcp/connectors/email.palisade/palisade-audit)
+  🔓 - Audits any domain's SPF, DKIM, DMARC, MTA-STS and BIMI from live public DNS, with no account or sign-in.
 - [PatchLabs](https://patchlabs.dev/docs/mcp) `https://api.patchlabs.dev/mcp`
   [![PatchLabs MCP connector](https://glama.ai/mcp/connectors/dev.patchlabs/patchlabs/badges/score.svg)](https://glama.ai/mcp/connectors/dev.patchlabs/patchlabs)
   🔓 - Security checks for apps built with Lovable, Supabase or Bolt: RLS and headers free, app checks with an API key.
