@@ -3736,6 +3736,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Data API](https://agent.chiemgaufilms.com) `https://agent.chiemgaufilms.com/mcp`
   [![Agent Data API MCP connector](https://glama.ai/mcp/connectors/com.chiemgaufilms.agent/agent-data-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.chiemgaufilms.agent/agent-data-api)
   🔓 - SEO data for agencies and agents in DACH: keywords, SERP, competitors, local search; pay per call with x402 USDC.
+- [Agent Loadout](https://agentloadout.com/mcp) `https://mcp.agentloadout.com/mcp`
+  [![Agent Loadout MCP connector](https://glama.ai/mcp/connectors/com.agentloadout/agent-loadout/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentloadout/agent-loadout)
+  🔐 - Finds clients for agencies and does the work on live data: Maps and SEO audits, ad research, outreach, client reports.
+
 - [agentbuilt](https://agentbuilt.dev/mcp) `https://agentbuilt.dev/api/mcp`
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
