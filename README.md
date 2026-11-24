@@ -2000,6 +2000,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CELPass](https://celpass.com/mcp-server) `https://celpass.com/mcp`
   [![CELPass MCP connector](https://glama.ai/mcp/connectors/com.celpass/celpip/badges/score.svg)](https://glama.ai/mcp/connectors/com.celpass/celpip)
   🔓 - CELPIP English test practice questions with answers, sample answers, and Canada's Nov 2026 CRS points calculator.
+- [AI Certificates](https://aicertificates.study/mcp) `https://aicertificates.study/api/mcp`
+  [![AI Certificates MCP connector](https://glama.ai/mcp/connectors/study.aicertificates/practice-exams/badges/score.svg)](https://glama.ai/mcp/connectors/study.aicertificates/practice-exams)
+  🔓 - Claude certification practice exams (CCAR-P, CCDV-P and more); the answer key stays hidden until you commit.
 - [Apex AI Academy](https://apexai.academy/developers/) `https://apexai.academy/mcp`
   [![Apex AI Academy MCP connector](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy/badges/score.svg)](https://glama.ai/mcp/connectors/academy.apexai/apex-ai-academy)
   🔓 - Co-Learn with your Agent: AI lessons with Human and Agent views, plus courses, search, news and pricing.
