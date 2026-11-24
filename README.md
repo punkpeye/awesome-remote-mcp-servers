@@ -3306,7 +3306,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [First Monday](https://firstmonday.ai/mcp) `https://mcp.firstmonday.ai/mcp`
   [![First Monday MCP connector](https://glama.ai/mcp/connectors/ai.firstmonday/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.firstmonday/jobs)
-  🔐 - Remote jobs, with whether each can hire someone living in each of 21 countries, quoting the post.
+  🔐 - Remote jobs, with whether each can hire someone living in each of 23 countries, quoting the post.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
