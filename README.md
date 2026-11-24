@@ -5015,7 +5015,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HesapNokta Science](https://www.hesapnokta.com) `https://hesapnokta-mcp-pilot-642036422700.europe-west3.run.app/mcp`
   [![HesapNokta Science MCP connector](https://glama.ai/mcp/connectors/io.github.omercebeci/hesapnokta-science/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.omercebeci/hesapnokta-science)
   🔓 - Search and run verified physics and chemistry calculators with natural-language queries and unit support.
- - [Ithy Research Library](https://ithy.com/connect) `https://ithy.com/mcp`
+- [Ithy Research Library](https://ithy.com/connect) `https://ithy.com/mcp`
   [![Ithy Research Library MCP connector](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library/badges/score.svg)](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library)
   🔓 - Search and read public AI-assisted articles with source links and original/revision dates; no login or generation.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
