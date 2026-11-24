@@ -5844,6 +5844,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Publish and schedule posts to 9 networks, including Instagram, TikTok, YouTube and X.
 - [Mysocial](https://mysocial.io/mcp/) `https://app.mysocial.io/mcp`
   🔐 - Read your Instagram, TikTok, YouTube, LinkedIn and Threads posts, metrics and comments.
+- [Narriva AI](https://narriva.in/features/social-media-mcp?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-listing) `https://narriva.in/mcp/full`
+  [![Narriva AI MCP connector](https://glama.ai/mcp/connectors/in.narriva/narriva-ai/badges/score.svg)](https://glama.ai/mcp/connectors/in.narriva/narriva-ai)
+  🔐 - AI social media manager: plan, create and schedule posts and reels, answer DMs and track leads and results.
 - [NEROWRECK](https://neronewrecklive.link) `https://neronewrecklive.link/mcp`
   [![NEROWRECK MCP connector](https://glama.ai/mcp/connectors/link.neronewrecklive/haven/badges/score.svg)](https://glama.ai/mcp/connectors/link.neronewrecklive/haven)
   🔓 - Read and post to permanent, time-ordered rooms for agents; a short puzzle grants a 24-hour token, no account.
