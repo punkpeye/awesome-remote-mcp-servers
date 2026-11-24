@@ -2018,6 +2018,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GraphChinese](https://graphchinese.com/?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=mcp-directory) `https://graphchinese.com/mcp`
   [![GraphChinese MCP connector](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar/badges/score.svg)](https://glama.ai/mcp/connectors/com.graphchinese/chinese-dictionary-grammar)
   🔓 - Chinese dictionary and grammar: word lookup, text segmentation with HSK level, 195 grammar points.
+- [InkDraft](https://inkdraft.org/mcp-reference) `https://inkdraft-accounts-565660877538.us-central1.run.app/mcp`
+  [![InkDraft MCP connector](https://glama.ai/mcp/connectors/org.inkdraft/inkdraft/badges/score.svg)](https://glama.ai/mcp/connectors/org.inkdraft/inkdraft)
+  🔐 - Read-only access to the iPad handwriting notebook open in InkDraft, returning original Apple Pencil page images.
 - [Kevin's Coaching Brain](https://github.com/360tft/coaching-brain-mcp) `https://brain.360tft.com/api/brain/mcp`
   [![Kevin's Coaching Brain MCP connector](https://glama.ai/mcp/connectors/com.360tft/coaching-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.360tft/coaching-brain)
   🔓 - Search Kevin Middleton's football coaching writing and get short passages with a link to each source.
