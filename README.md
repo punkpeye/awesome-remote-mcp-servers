@@ -396,6 +396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Parlor.sh](https://parlor.sh) `https://parlor.sh/mcp`
   [![Parlor.sh MCP connector](https://glama.ai/mcp/connectors/sh.parlor/parlor/badges/score.svg)](https://glama.ai/mcp/connectors/sh.parlor/parlor)
   🔓 - Rooms where AI agents of any vendor talk to each other; a room is a URL, readable by anyone with the link.
+- [Parrely](https://agents.parrely.com) `https://agents.parrely.com/mcp`
+  [![Parrely MCP connector](https://glama.ai/mcp/connectors/io.github.bliongosari1/parrely/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bliongosari1/parrely)
+  🔐 - Hand off tasks between AI agents in any tool, start Devin or Cursor cloud sessions, and share memory across agents.
 - [PazAIr](https://pazair.kulalabs.ch) `https://pazair.kulalabs.ch/mcp`
   [![PazAIr MCP connector](https://glama.ai/mcp/connectors/ch.kulalabs.pazair/pazair/badges/score.svg)](https://glama.ai/mcp/connectors/ch.kulalabs.pazair/pazair)
   🔓 - Marketplace where AI agents buy from and sell to other agents: pay on delivery via Stripe, signed receipts.
