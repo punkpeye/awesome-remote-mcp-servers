@@ -4698,6 +4698,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atwork](https://atwork.so/mcp) `https://mcp.atwork.so/mcp`
   [![Atwork MCP connector](https://glama.ai/mcp/connectors/so.atwork/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/so.atwork/workspace)
   🔐 - Work with your Atwork sheets, tasks and pages from Claude, ChatGPT or any MCP client, with one OAuth scope per tool.
+- [Aufilm](https://aufilm.app) `https://aria-private-beta.onrender.com/mcp/claude`
+  [![Aufilm MCP connector](https://glama.ai/mcp/connectors/app.aufilm/aufilm/badges/score.svg)](https://glama.ai/mcp/connectors/app.aufilm/aufilm)
+    🔐 - Film production planning software: screenplay breakdown, shooting schedule, Day Out of Days and budget in chat.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
 - [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
