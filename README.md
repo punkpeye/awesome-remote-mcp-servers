@@ -2747,6 +2747,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
+- [Polypad](https://polypad.family/build) `https://polypad.family/api/mcp`
+  [![Polypad MCP connector](https://glama.ai/mcp/connectors/family.polypad/polypad/badges/score.svg)](https://glama.ai/mcp/connectors/family.polypad/polypad)
+  🔓 - Launch, trade and run tokenized funds on Robinhood Chain; writes return unsigned transactions.
 - [PredixLab](https://predixlab.com) `https://api.predixlab.com/mcp/`
   [![PredixLab MCP connector](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab)
   🔐 - Daily US stock signals, screeners and options analysis over MCP. Read-only.
