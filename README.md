@@ -1838,6 +1838,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Home Generator HQ](https://homegeneratorhq.com) `https://homegeneratorhq.com/mcp`
   [![Home Generator HQ MCP connector](https://glama.ai/mcp/connectors/com.homegeneratorhq/generators/badges/score.svg)](https://glama.ai/mcp/connectors/com.homegeneratorhq/generators)
   🔓 - Search and compare 33 standby and portable generators and power stations, with prices, sizing help and buy links.
+- [Hoplix Print on Demand](https://hoplix.com/en/mcp-integration) `https://api.hoplix.com/mcp`
+  [![Hoplix Print on Demand MCP connector](https://glama.ai/mcp/connectors/com.hoplix/print-on-demand/badges/score.svg)](https://glama.ai/mcp/connectors/com.hoplix/print-on-demand)
+  🔐 - Print-on-demand: browse products and base costs, create campaigns with your designs, quote, order and track.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
