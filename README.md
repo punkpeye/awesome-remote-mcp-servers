@@ -2175,7 +2175,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![990.tax MCP connector](https://glama.ai/mcp/connectors/tax.990/nonprofit-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/tax.990/nonprofit-lookup)
   🔓 - IRS records on US nonprofits: exempt status, revocations, Form 990 financials, due dates and statistics.
 
-
+- [Dividend Seeker](https://dividend-seeker.com) [![com.dividend-seeker/Dividend-Seeker MCP server](https://glama.ai/mcp/connectors/com.dividend-seeker/dividend-seeker/badges/score.svg)]([https://glama.ai/mcp/servers/com.dividend-seeker/Dividend-Seeker](https://glama.ai/mcp/connectors/com.dividend-seeker/dividend-seeker))    🔓 -  Reverse SEC Form N-PORT institutional portfolio screener to discover ETFs, closed-end funds (CEFs), and mutual funds holding concentrated allocations of target equities for single-stock exposure without single-stock risk.
 - [Aave](https://aave.com) `https://mcp.aave.com`
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
   🔓 - Aave V3 and V4 markets, rates, wallet positions, governance and non-custodial transaction building.
