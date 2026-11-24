@@ -1402,6 +1402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
+- [GitRanks Contribute](https://gitranks.com/contribute/mcp?utm_source=awesome-remote-mcp&utm_campaign=mcp-listing) `https://mcp.gitranks.com/mcp`
+  [![GitRanks Contribute MCP connector](https://glama.ai/mcp/connectors/com.gitranks/contribute/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitranks/contribute)
+  🔐 - Find open-source GitHub issues to contribute to, matched to your skills; you approve every PR.
 - [Gluo](https://gluo.dev) `https://gluo.dev/mcp`
   [![Gluo MCP connector](https://glama.ai/mcp/connectors/dev.gluo/gluo/badges/score.svg)](https://glama.ai/mcp/connectors/dev.gluo/gluo)
   🔓 - Free agent tools: click through apps in a real browser, extract web pages, check sites, domains and dependencies.
