@@ -2898,6 +2898,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tessera Analytics](https://tesseralytics.dev/mcp-server) `https://tesseralytics.dev/mcp`
   [![Tessera Analytics MCP connector](https://glama.ai/mcp/connectors/dev.tesseralytics/hyperliquid-data/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tesseralytics/hyperliquid-data)
   🔓 - Daily Hyperliquid perp funding, positioning and crowding across every market; tools need a free key.
+- [Thastock](https://thastock.com) `https://thastock.com/api/mcp`
+  [![Thastock MCP connector](https://glama.ai/mcp/connectors/com.thastock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.thastock/mcp)
+  🔓 - AI second opinion on any US stock: bull case, bear case, verdict and the live numbers behind them.
 - [The 07:00 Brief](https://0700.io) `https://api.antevo.ch/mcp/0700/mcp`
   [![The 07:00 Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/0700-brief/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/0700-brief)
   🔓 - A daily editorial morning read on markets and the world: what moved, what it means and what to watch today.
