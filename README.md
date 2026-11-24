@@ -3159,6 +3159,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gamedev Tavern](https://entri.games/ai-agents?lang=en) `https://entri.games/mcp?src=awesome-mcp`
   [![Gamedev Tavern MCP connector](https://glama.ai/mcp/connectors/games.entri/gamedev-tavern/badges/score.svg)](https://glama.ai/mcp/connectors/games.entri/gamedev-tavern)
   🔐 - Gamedev matchmaking: tell the Tavern about you and your studio, post quests and get people and studios that fit.
+- [GameGene](https://gamegene.app/en/mcp) `https://gamegene.app/api/mcp`
+  [![GameGene MCP connector](https://glama.ai/mcp/connectors/app.gamegene/gamegene/badges/score.svg)](https://glama.ai/mcp/connectors/app.gamegene/gamegene)
+  🔐 - Sourced game design precedents: where a mechanic came from, why designers chose it, and which games carried it on.
 - [GAMES.GG](https://help.games.gg/en/articles/2048414-use-gamesgg-with-your-ai-assistant) `https://mcp.games.gg/mcp`
   [![GAMES.GG MCP connector](https://glama.ai/mcp/connectors/gg.games/games-gg/badges/score.svg)](https://glama.ai/mcp/connectors/gg.games/games-gg)
   🔐 - Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.
