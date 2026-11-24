@@ -6171,6 +6171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [DiveTripPlanner](https://divetripplanner.com/en) `https://divetripplanner.com/mcp`
+  [![DiveTripPlanner MCP connector](https://glama.ai/mcp/connectors/com.divetripplanner/caves/badges/score.svg)](https://glama.ai/mcp/connectors/com.divetripplanner/caves)
+  🔓 - Cave and cavern diving sites worldwide in five languages: depths, certification, access, warnings, fills, guides and current conditions, plus a team certification check.
 - [Doorfarer](https://doorfarer.com) `https://doorfarer.com/mcp`
   [![Doorfarer MCP connector](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer/badges/score.svg)](https://glama.ai/mcp/connectors/com.doorfarer/doorfarer)
   🔓 - Door-to-door trip search: compares every reachable airport including the ground leg, with price calendars.
