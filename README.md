@@ -612,6 +612,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SpriteForge Editor MCP connector](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge-editor/badges/score.svg)](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge-editor)
   🔓 - Free pixel and tileset editor: open sprites, animations and Wang tilesets in an editor and get the edited PNG back.
 - [StarVeil AI](https://starveilai.com) `https://starveilai.com/api/mcp`
+  [![StarVeil AI MCP connector](https://glama.ai/mcp/connectors/com.starveilai/star-veil-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.starveilai/star-veil-ai)
   🔐 - Agent-first comic & webtoon studio with 0-credit photo character lock, multi-page continuity, drag-to-box speech-bubble editing, live companion canvas, and 6-language translation.
 - [svgapp.ai](https://svgapp.ai) `https://web.svgapp.ai/mcp`
   [![svgapp.ai MCP connector](https://glama.ai/mcp/connectors/io.github.Xyz3R/svgapp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Xyz3R/svgapp)
