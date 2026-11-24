@@ -3943,6 +3943,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Jepto MCP connector](https://glama.ai/mcp/connectors/com.jepto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.jepto/mcp)
   🔐 - Query live Google Ads, GA4, Search Console, Meta Ads and Google Business Profile data, and manage KPIs and budgets.
 
+- [Kiko](https://meetkiko.com) `https://agent.kikocreators.com/mcp`
+  [![Kiko MCP connector](https://glama.ai/mcp/connectors/com.kikocreators/kiko/badges/score.svg)](https://glama.ai/mcp/connectors/com.kikocreators/kiko)
+  🔐 - Find niche Instagram, YouTube and TikTok creators for your product, and why each one fits.
+
 - [Kliqo AI](https://kliqo.ai/docs/ai-apps) `https://kliqo.ai/mcp`
   [![Kliqo AI MCP connector](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility)
   🔓 - Free AI crawler and page checks, then see if ChatGPT and Google AI name you or your competitors.
