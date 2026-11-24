@@ -5078,6 +5078,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SNEWPapers](https://snewpapers.com/connect) `https://mcp.snewpapers.com/mcp`
   [![SNEWPapers MCP connector](https://glama.ai/mcp/connectors/com.snewpapers/research/badges/score.svg)](https://glama.ai/mcp/connectors/com.snewpapers/research)
   🔐 - Search and cite newspaper articles extracted from Library of Congress scans, 1736-1963; subscription required.
+- [Thermoprops](https://luisbedoia.github.io/thermoprops/) `https://thermoprops-api.luisbedoia.workers.dev/mcp`
+  [![Thermoprops MCP connector](https://glama.ai/mcp/connectors/io.github.luisbedoia/thermoprops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luisbedoia/thermoprops)
+  🔓 - Thermodynamic properties of 30 fluids and refrigerants, and cycles (Rankine, refrigeration), computed with CoolProp.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
