@@ -4324,6 +4324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
+- [site-check-mcp](https://api.mergefix.com/openapi.json) `https://wazir-x402.duckdns.org/site-check-mcp`
+  [![site-check-mcp MCP connector](https://glama.ai/mcp/connectors/org.duckdns.wazir-x402/site-check-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.duckdns.wazir-x402/site-check-mcp)
+  🔓 - Real-browser check of one URL (status, load time, console errors, JS exceptions) for $0.02 USDC per call via x402.
 - [SolidPing](https://www.solidping.io) `https://solidping.io/api/v1/mcp?auth=required`
   [![SolidPing MCP connector](https://glama.ai/mcp/connectors/io.github.fclairamb/solidping/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fclairamb/solidping)
   🔐 - Create, run and diagnose uptime checks across 40+ types, read incidents, and manage status pages and maintenance.
