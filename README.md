@@ -2868,6 +2868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stock Bloc](https://stockbloc.ai.studio) `https://stockbloc.ai.studio/api/mcp/rpc`
   [![Stock Bloc MCP connector](https://glama.ai/mcp/connectors/studio.ai.stockbloc/stock-bloc/badges/score.svg)](https://glama.ai/mcp/connectors/studio.ai.stockbloc/stock-bloc)
   🔓 - Financial market data, SEC/13F intelligence, and quant scores via MCP; $0.01–$0.35/call in USDC on Base via x402 v2.
+- [StockLens](https://stocklens.com/features/ai-integrations) `https://mcp.stocklens.com/mcp`
+  [![StockLens MCP connector](https://glama.ai/mcp/connectors/com.stocklens/stocklens/badges/score.svg)](https://glama.ai/mcp/connectors/com.stocklens/stocklens)
+  🔓 - Explainable stock scores, company analysis, screening and portfolio insights; account tools need OAuth sign-in.
 - [StockPortfolio.pro](https://www.stockportfolio.pro/api) `https://www.stockportfolio.pro/mcp`
   [![StockPortfolio.pro MCP connector](https://glama.ai/mcp/connectors/pro.stockportfolio/stock-portfoliopro/badges/score.svg)](https://glama.ai/mcp/connectors/pro.stockportfolio/stock-portfoliopro)
   🔓 - Limited keyless US stock research: SEC financials, filings, comparisons, screens, fund profiles and sourced answers.
