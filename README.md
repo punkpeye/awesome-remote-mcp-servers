@@ -6225,6 +6225,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Goliath Travel MCP](https://goliath.travel) `https://goliath.travel/mcp`
   [![Goliath Travel MCP MCP connector](https://glama.ai/mcp/connectors/travel.goliath/goliath/badges/score.svg)](https://glama.ai/mcp/connectors/travel.goliath/goliath)
   🔐 - Free, read-only travel MCP server comparing cash fares, award seats, hotels, trains, cars, cruises and transfers.
+- [Google Flights (Apify)](https://apify.com/lergassy/google-flights-scraper) `https://mcp.apify.com/?tools=lergassy/google-flights-scraper,lergassy/flight-price-calendar,lergassy/kayak-flights-scraper`
+  [![Google Flights (Apify) MCP connector](https://glama.ai/mcp/connectors/io.github.lergassy/google-flights/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lergassy/google-flights)
+  🔐 - Google Flights itineraries, a fare price calendar, explore-anywhere destinations and KAYAK fares.
 - [GoVisit](https://govisit.ai/en/docs/developers/mcp/overview) `https://govisit.ai/mcp`
   [![GoVisit MCP connector](https://glama.ai/mcp/connectors/ai.govisit/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.govisit/tools)
   🔓 - Search GoVisit destinations, places, activities and docs with 22 public read-only travel tools.
