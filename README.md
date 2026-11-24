@@ -844,6 +844,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
   [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
   🔐 - Turn a slide deck into a rehearsable talk with a voice-following script and slides that advance as you speak.
+- [Andy](https://andypartner.com/en/mcp) `https://app.andypartner.com/api/mcp`
+  [![Andy MCP connector](https://glama.ai/mcp/connectors/io.github.Andesphere/andy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Andesphere/andy)
+  🔐 - Read and reply to a business's WhatsApp and Instagram chats, and manage its AI agent's knowledge and settings.
 - [AskOne](https://askone.org) `https://askone.org/api/mcp`
   [![AskOne MCP connector](https://glama.ai/mcp/connectors/io.github.phuryn/askone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.phuryn/askone)
   🔐 - Run live audience Q&A and polls with free AI moderation: start rooms, launch polls, answer questions, draft a FAQ.
