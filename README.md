@@ -6336,6 +6336,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Untap](https://untap.money/connect) `https://untap.money/api/mcp`
   [![Untap MCP connector](https://glama.ai/mcp/connectors/io.github.aneduaim/untap-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aneduaim/untap-mcp)
   🔓 - Checks UK train Delay Repay, UK261 and EU261 flight compensation and TfL refunds, with the amount and how to claim.
+- [VakayMood](https://vakaymood.com/developers#mcp) `https://vakaymood.com/mcp`
+  [![VakayMood MCP connector](https://glama.ai/mcp/connectors/com.vakaymood/inventory/badges/score.svg)](https://glama.ai/mcp/connectors/com.vakaymood/inventory)
+  🔓 - Timeshare rental stays at resorts: availability by destination and dates, pricing, beds and cancellation options.
 - [Vedar](https://vedarai.ru/mcp) `https://vedarai.ru/api/mcp`
   [![Vedar MCP connector](https://glama.ai/mcp/connectors/ru.vedarai/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ru.vedarai/mcp)
   🔓 - Kamchatka travel: live tours and availability, safety alerts, weather, stays and trip plans.
