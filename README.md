@@ -1070,6 +1070,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Posy](https://posy.page) `https://posy.page/api/mcp`
   [![Posy MCP connector](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Himanshu-Sangshetti/posy)
   🔐 - Build and edit a hand-made link-in-bio page: add links, pick a look, publish it at posy.page.
+- [ReleasePad](https://www.releasepad.io/features/mcp-server/) `https://pro.releasepad.io/mcp`
+  [![ReleasePad MCP connector](https://glama.ai/mcp/connectors/io.releasepad/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.releasepad/mcp)
+  🔐 - Draft, schedule and publish release notes and changelogs, manage categories, and read view analytics.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
