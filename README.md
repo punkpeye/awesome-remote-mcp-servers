@@ -993,6 +993,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unitpost](https://www.unitpost.com/ai/mcp) `https://mcp.unitpost.com/mcp`
   [![Unitpost MCP connector](https://glama.ai/mcp/connectors/com.unitpost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.unitpost/mcp)
   🔐 - Send transactional email, campaigns and SMS; manage contacts, templates, domains, webhooks and inbound email.
+- [Unlimited Messaging](https://unlimitedmessaging.app/mcp) `https://mcp.unlimitedmessaging.app`
+  [![Unlimited Messaging MCP connector](https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp)
+  🔐 - Send and read WhatsApp, email and SMS from your own number, mailbox and Android phone.
 - [voicehook](https://voicehook.ai/?utm_source=awesome-remote-mcp&utm_campaign=d13-remote-list) `https://voicehook.ai/mcp`
   [![voicehook MCP connector](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook)
   🔓 - Talk with your agents: a voice call in the browser that your agent can start or join.
