@@ -6091,6 +6091,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ORYKSA AI Employees](https://mcp.oryksa.com) `https://mcp.oryksa.com`
   [![ORYKSA AI Employees MCP connector](https://glama.ai/mcp/connectors/com.oryksa/ai-employees/badges/score.svg)](https://glama.ai/mcp/connectors/com.oryksa/ai-employees)
   🔐 - Add an AI support agent to the site you build: it learns every page and answers visitors by chat and voice.
+- [Peeve Docs](https://peeve.ai/mcp/) `https://docs.peeve.ai/mcp`
+  [![Peeve Docs MCP connector](https://glama.ai/mcp/connectors/ai.peeve.docs/peeve-docs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.peeve.docs/peeve-docs-mcp)
+  🔓 - Search and read Peeve's docs on installing its AI support agent for SaaS, its REST API, MCP and pricing.
 - [Replai](https://replai.tw/en/guide/connect-ai-agents) `https://api.replai.tw/mcp`
   [![Replai MCP connector](https://glama.ai/mcp/connectors/tw.replai/replai/badges/score.svg)](https://glama.ai/mcp/connectors/tw.replai/replai)
   🔐 - Set up, test and publish an AI customer support Agent for your SaaS product.
