@@ -2335,6 +2335,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Bank account terms as banks publish them, dated: fees, waivers, offers. Read-only. Canada today.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
+  - [Builders in Fintech](https://buildersinfintech.ai/mcp) `https://buildersinfintech.ai/mcp`
+  [![Builders in Fintech MCP connector](https://glama.ai/mcp/connectors/ai.buildersinfintech/fintech-data/badges/score.svg)](https://glama.ai/mcp/connectors/ai.buildersinfintech/fintech-data)
+  🔓 - Fintech funding rounds, companies, investors, licences and the latest fintech news, each linked to its source.
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
 - [Business Verify](https://mbiyepyh.gensparkclaw.com/docs) `https://mbiyepyh.gensparkclaw.com/mcp`
   [![Business Verify MCP connector](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify/badges/score.svg)](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify)
