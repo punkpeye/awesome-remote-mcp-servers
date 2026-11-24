@@ -5173,6 +5173,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CareJobs.Now](https://carejobs.now/data) `https://carejobs.now/api/mcp`
   [![CareJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs)
   🔓 - Search 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each one posts.
+- [CheaterBusting](https://cheaterbusting.com) `https://cheaterbusting.com/mcp`
+  [![CheaterBusting MCP connector](https://glama.ai/mcp/connectors/io.github.MindCraftersGroup/cheaterbusting/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MindCraftersGroup/cheaterbusting)
+  🔓 - Checks Tinder, Bumble, Hinge and 9 more dating apps for a public profile matching a photo, name, age and city.
 - [cityon.pl](https://cityon.pl/mcp) `https://cityon.pl/mcp`
   [![cityon.pl MCP connector](https://glama.ai/mcp/connectors/pl.cityon/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/pl.cityon/mcp)
   🔓 - Polish local businesses, opening hours, real estate listings and transaction prices from cityon.pl.
