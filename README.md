@@ -2476,6 +2476,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FinancialFilings](https://financialfilings.com/mcp/) `https://mcp.financialfilings.com/mcp`
   [![FinancialFilings MCP connector](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/eu.financialreports/mcp-server)
   🔐 - Regulatory filings, XBRL financials and company data from securities regulators in about 60 markets.
+- [FinOps Studio](https://geornaden.github.io/finops-studio/) `https://finops-rapidapi-edge.ria-rader.workers.dev/public-mcp`
+  [![FinOps Studio MCP connector](https://glama.ai/mcp/connectors/io.github.Geornaden/finops-free-bank-validator-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Geornaden/finops-free-bank-validator-mcp)
+  🔓 - Validate IBAN/ABA/VAT and preview SEPA XML, NACHA ACH, Peppol e-invoices, DATEV CSV and BAI2 bank statements.
 - [Firmoscop](https://firmoscop.ro/developers) `https://firmoscop.ro/mcp`
   [![Firmoscop MCP connector](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop)
   🔐 - Romanian companies from official registries: search, risk verdict by tax ID with cited sources, and prospect lists.
