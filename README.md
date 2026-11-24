@@ -4822,6 +4822,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
+- [FigureDeck US Mortgage Data](https://figuredeck.com/us/mortgage/conforming-limit/) `https://mcp.figuredeck.com/mcp`
+  [![FigureDeck US Mortgage Data MCP connector](https://glama.ai/mcp/connectors/com.figuredeck/conforming-limits/badges/score.svg)](https://glama.ai/mcp/connectors/com.figuredeck/conforming-limits)
+  🔓 - 2026 FHFA conforming loan limits for 3,235 US counties, plus monthly payment and affordability math.
 - [GetParcelData](https://getparceldata.com/mcp) `https://api.getparceldata.com/mcp`
   [![GetParcelData MCP connector](https://glama.ai/mcp/connectors/com.getparceldata/parcels/badges/score.svg)](https://glama.ai/mcp/connectors/com.getparceldata/parcels)
   🔓 - US parcel boundaries and assessor data by APN, point, radius or polygon. Coverage is free; lookups need an API key.
