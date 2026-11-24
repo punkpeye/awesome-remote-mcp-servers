@@ -3304,7 +3304,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
 - [AIGradJobs](https://aigradjobs.com/) `https://aigradjobs.com/mcp`
-  [![AIGradJobs MCP connector](https://glama.ai/mcp/connectors/io.github.YazanAlabed/aigradjobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YazanAlabed/aigradjobs)
+  [![AIGradJobs MCP connector](https://glama.ai/mcp/connectors/com.aigradjobs/careers/badges/score.svg)](https://glama.ai/mcp/connectors/com.aigradjobs/careers)
   🔓 - Find early-career AI/ML jobs, match resumes, prepare for interviews, and compare salary benchmarks.
 
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
