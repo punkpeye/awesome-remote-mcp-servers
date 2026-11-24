@@ -614,6 +614,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [svgapp.ai](https://svgapp.ai) `https://web.svgapp.ai/mcp`
   [![svgapp.ai MCP connector](https://glama.ai/mcp/connectors/io.github.Xyz3R/svgapp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Xyz3R/svgapp)
   🔐 - Generate brand mascots with consistent poses and animations, exported as SVG or transparent PNG.
+- [TatSeek](https://tatseek.com/for-ai-agents/) `https://tatseek.com/mcp`
+  [![TatSeek MCP connector](https://glama.ai/mcp/connectors/com.tatseek/tatseek/badges/score.svg)](https://glama.ai/mcp/connectors/com.tatseek/tatseek)
+  🔓 - Search credited tattoo photos, artists and studios; explore styles, placements and cultural meanings.
+
 - [Tastepix](https://tastepix.com/?ref=github-awesome-remote) `https://mcp.tastepix.com/mcp`
   [![Tastepix MCP connector](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.paablobello/tastepix)
   🔐 - Generate and edit images with 12 models (Nano Banana, GPT Image, FLUX…) from chat; pay per image, no API keys.
