@@ -551,6 +551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OODS Foundry](https://oods-foundry.com) `https://oods-foundry.com/mcp`
   [![OODS Foundry MCP connector](https://glama.ai/mcp/connectors/com.oods-foundry/foundry/badges/score.svg)](https://glama.ai/mcp/connectors/com.oods-foundry/foundry)
   🔓 - Read a design system's component catalog and registry, and draw and certify charts from your own data.
+- [Orshot](https://orshot.com/agents) `https://mcp.orshot.com/mcp`
+  [![Orshot MCP connector](https://glama.ai/mcp/connectors/com.orshot/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.orshot/mcp-server)
+  🔐 - Automate Videos, PDFs and Images from templates for marketing, post to social platforms, and track and grow engagement.
 - [Overflow Design](https://www.overflow.design/mcp/?utm_source=awesome-remote&utm_medium=mcp-directory) `https://www.overflow.design/api/mcp/`
   [![Overflow Design MCP connector](https://glama.ai/mcp/connectors/design.overflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/design.overflow/mcp)
   🔓 - Hand-drawn icons, illustrations and isometric drawings, searched by meaning and fetched as SVG, JSX or a file.
