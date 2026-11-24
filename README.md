@@ -4351,6 +4351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Dadan](https://www.dadan.io/dadan-mcp) `https://mcp.dadan.io/mcp`
+  [![Dadan MCP connector](https://glama.ai/mcp/connectors/io.dadan/dadan/badges/score.svg)](https://glama.ai/mcp/connectors/io.dadan/dadan)
+  🔐 - Record, edit, transcribe, translate and share videos, plus meeting notes and analytics.
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
