@@ -2796,6 +2796,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![RevExOS MCP connector](https://glama.ai/mcp/connectors/com.revexos/revexos/badges/score.svg)](https://glama.ai/mcp/connectors/com.revexos/revexos)
   🔓 - Quote-to-cash tools: parse invoices and POs, 3-way match, proration, revenue schedules, dunning emails.
 
+- [RulesWatch](https://ruleswatch.com) `https://ruleswatch.com/api/mcp`
+  [![RulesWatch MCP connector](https://glama.ai/mcp/connectors/io.github.whosman/ruleswatch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whosman/ruleswatch)
+  🔓 - Rules of Polymarket and Kalshi markets and every change made to them, with old and new text side by side.
 - [RWA Data MCP Server](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp) `https://rwa-data-mcp.dave-a-bear.workers.dev/mcp`
   [![RWA Data MCP Server MCP connector](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.daveabear/rwa-data-mcp)
     🔓 - Stablecoin & RWA market data for AI agents: metrics, peg monitoring, prices, claim verification; x402 USDC pay-per-call.
@@ -3138,9 +3141,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Chessigma](https://www.chessigma.com/developers/mcp) `https://www.chessigma.com/api/mcp`
   [![Chessigma MCP connector](https://glama.ai/mcp/connectors/com.chessigma/chessigma/badges/score.svg)](https://glama.ai/mcp/connectors/com.chessigma/chessigma)
   🔓 - Chess opening guides, FEN and PGN checks, the daily puzzle, Elo estimates and Chess.com or Lichess game review links.
+- [Club Ladder](https://chessclubladder.com) `https://chessclubladder.com/api/mcp`
+  [![Club Ladder MCP connector](https://glama.ai/mcp/connectors/io.github.whosman/chessclubladder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whosman/chessclubladder)
+  🔓 - Convert chess ratings between Lichess and chess.com, read public club ladders and find Lichess clubs at a rating.
 - [Creative Cult](https://creativecult.digital) `https://creativecult.digital/mcp`
   [![Creative Cult MCP connector](https://glama.ai/mcp/connectors/digital.creativecult/research/badges/score.svg)](https://glama.ai/mcp/connectors/digital.creativecult/research)
   🔓 - Player-review data on new video games: daily recommend share, findings, best-of lists and a release calendar.
+- [Curator Match](https://curatormatch.com) `https://curatormatch.com/api/mcp`
+  [![Curator Match MCP connector](https://glama.ai/mcp/connectors/io.github.whosman/curatormatch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whosman/curatormatch)
+  🔓 - Find Steam curators who covered games like yours and check a curator for key-reseller warning signs.
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
@@ -5932,6 +5941,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sociro](https://sociro.com/mcp) `https://mcp.sociro.com/mcp`
   [![Sociro MCP connector](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp)
   🔐 - Schedule, publish, edit and cancel social posts, and plan a week of posts with an AI planner you approve.
+- [Stackblade](https://stackblade.app) `https://stackblade.app/api/mcp`
+  [![Stackblade MCP connector](https://glama.ai/mcp/connectors/io.github.whosman/stackblade/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whosman/stackblade)
+  🔓 - Substack writers' followers, growth and leaderboard ranks, and each category's leaderboards.
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
