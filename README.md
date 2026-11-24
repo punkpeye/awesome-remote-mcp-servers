@@ -4056,6 +4056,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Quelta](https://quelta.ai/mcp-server/) `https://quelta.ai/mcp`
   [![Quelta MCP connector](https://glama.ai/mcp/connectors/ai.quelta/quelta/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quelta/quelta)
   🔐 - Score short vertical video ads by link: first 3 seconds, issues with timecodes and fixes.
+- [RankbyAI](https://rankbyai.live/) `https://rankbyai.live/api/mcp`
+  [![RankbyAI MCP connector](https://glama.ai/mcp/connectors/live.rankbyai/rankbyai/badges/score.svg)](https://glama.ai/mcp/connectors/live.rankbyai/rankbyai)
+  🔑 - See where ChatGPT, Perplexity and Gemini recommend your clients, next to their Google Maps rank.
 - [Ranklogs](https://ranklogs.com/mcp) `https://mcp.ranklogs.com/mcp`
   [![Ranklogs MCP connector](https://glama.ai/mcp/connectors/com.ranklogs/ranklogs/badges/score.svg)](https://glama.ai/mcp/connectors/com.ranklogs/ranklogs)
   🔐 - Rank tracking, site audits, backlinks, keyword research and AI search visibility for your sites, in plain English.
