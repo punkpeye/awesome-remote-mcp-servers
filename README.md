@@ -4137,6 +4137,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soundlink](https://www.getsoundlink.com/docs/mcp-server) `https://api.getsoundlink.com/mcp`
   [![Soundlink MCP connector](https://glama.ai/mcp/connectors/com.getsoundlink.api/soundlink-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.getsoundlink.api/soundlink-mcp-server)
   🔐 - Read-only Meta-to-Spotify attribution, cost per listener, campaign comparisons, and returning-listener analytics.
+- [Sprites](https://www.sprites.ai/mcp) `https://mcp.sprites.ai/mcp`
+  [![Sprites MCP connector](https://glama.ai/mcp/connectors/ai.sprites/ads/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sprites/ads)
+  🔐 - Run Google, Meta, LinkedIn, TikTok, Reddit, Microsoft and Apple ads; every change waits for your approval.
+
 - [Spytrend](https://spytrend.com/mcp/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-launch) `https://mcp.spytrend.com/mcp`
   [![Spytrend MCP connector](https://glama.ai/mcp/connectors/com.spytrend/spytrend/badges/score.svg)](https://glama.ai/mcp/connectors/com.spytrend/spytrend)
   🔐 - Search Meta and TikTok ads, find the advertisers behind them, and rank what is scaling.
