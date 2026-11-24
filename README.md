@@ -1548,6 +1548,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OverlayQA](https://overlayqa.com/mcp/) `https://api.overlayqa.com/mcp`
   [![OverlayQA MCP connector](https://glama.ai/mcp/connectors/com.overlayqa/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.overlayqa/mcp)
   🔐 - Runs accessibility, contrast and design-token audits on any URL and files QA issues in OverlayQA.
+- [ParallelSandbox](https://parallelsandbox.com/en/) `https://mcp.parallelsandbox.com/mcp`
+  [![ParallelSandbox MCP connector](https://glama.ai/mcp/connectors/com.parallelsandbox/parallelsandbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.parallelsandbox/parallelsandbox)
+  🔐 - A row of in-progress test builds of your app. Use each one, say what's wrong, circle it on screen.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
 - [PCBEditor](https://pcbeditor.com/mcp) `https://mcp.pcbeditor.com/mcp`
