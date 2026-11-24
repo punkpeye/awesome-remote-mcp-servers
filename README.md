@@ -6674,6 +6674,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LifeVerse Product Discovery](https://lifeverse.gufreelancer.com/mcp) `https://lifeverse.gufreelancer.com/api/mcp?source=mcp-directory`
   [![LifeVerse Product Discovery MCP connector](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog)
   🔓 - Discover, search and recommend eleven ready-to-use LifeVerse AI products and interactive experiences.
+- [Moon Dasha](https://moondasha.com/vedic-astrology-mcp-server) `https://api.moondasha.com/mcp`
+  [![Moon Dasha MCP connector](https://glama.ai/mcp/connectors/com.moondasha/vedic-astrology/badges/score.svg)](https://glama.ai/mcp/connectors/com.moondasha/vedic-astrology)
+  🔓 - Vedic astrology: birth charts, 26 divisional charts, seven dasha systems, Shadbala, transits, Panchang and Guna Milan.
 - [Muslim Prayer Reminder MCP](https://tareq7.github.io/muslim-prayer-mcp/) `https://muslim-prayer-mcp.najetareqz.workers.dev/mcp`
   [![Muslim Prayer Reminder MCP connector](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp)
   🔓 - Computes Muslim prayer times by location and regional method, with daily timetables and next-prayer countdowns.
