@@ -3830,6 +3830,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CRAFT Content](https://tools.gtmhelix.com/connectors/) `https://craft-content.gtmhelix.com/mcp`
   [![CRAFT Content MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-content-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-content-mcp)
   🔓 - Eight B2B content tools: case studies, newsletters, webinars, repurposing and thought leadership.
+- [CRAFT GTM](https://tools.gtmhelix.com/connectors/) `https://craft-gtm.gtmhelix.com/mcp`
+  [![CRAFT GTM MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-gtm-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/craft-gtm-mcp)
+  🔓 - Ten go to market tools: product market fit, launch, retention, partners, crisis, competitive intelligence, paid scaling and segment cuts.
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
