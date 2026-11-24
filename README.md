@@ -4511,6 +4511,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
+- [Renderster](https://renderster.com) `https://mcp.renderster.com/mcp`
+  [![Renderster MCP connector](https://glama.ai/mcp/connectors/com.renderster/renderster/badges/score.svg)](https://glama.ai/mcp/connectors/com.renderster/renderster)
+  🔐 - Turn long videos into captioned vertical clips, dub them into 16 languages, transcribe them or auto edit them; results come back as file links.
 - [Revid](https://www.revid.ai/mcp) `https://www.revid.ai/api/mcp`
   [![Revid MCP connector](https://glama.ai/mcp/connectors/ai.revid/revid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.revid/revid)
   🔐 - Research what goes viral, make finished short-form videos and post them to TikTok, YouTube, Instagram and X.
