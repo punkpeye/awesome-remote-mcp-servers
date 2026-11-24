@@ -895,6 +895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
+- [Juncts](https://juncts.com/docs/mcp-cloud-connectors) `https://juncts.com/api/connectors/mcp`
+  [![Juncts MCP connector](https://glama.ai/mcp/connectors/com.juncts/inbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.juncts/inbox)
+  🔐 - Read, search, draft and organize your LinkedIn, X, Instagram, WhatsApp and Telegram messages from one inbox.
 - [Mailbox MCP](https://mailbox-mcp.com) `https://mcp.mailbox-mcp.com/db/mcp`
   [![Mailbox MCP MCP connector](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp)
   🔐 - Read, search, file, draft and send email in your own Gmail, Outlook, Microsoft 365, iCloud or IMAP inbox.
