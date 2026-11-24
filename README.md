@@ -4435,6 +4435,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GrowingUpVideo](https://growingupvideo.com) `https://growingupvideo.com/mcp`
   [![GrowingUpVideo MCP connector](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.growingupvideo/growingupvideo)
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
+- [guessit-js](https://github.com/opensubtitles/guessit-js#ai-agents-mcp) `https://guessit.opensubtitles.com/mcp`
+  [![guessit-js MCP connector](https://glama.ai/mcp/connectors/com.opensubtitles/guessit-js/badges/score.svg)](https://glama.ai/mcp/connectors/com.opensubtitles/guessit-js)
+  🔓 - Parse movie and TV filenames into title, year, season, episode, codecs, languages and release group.
 - [Image Metadata Inspector](https://metadataremoverai.com) `https://metadataremoverai.com/mcp`
   [![Image Metadata Inspector MCP connector](https://glama.ai/mcp/connectors/com.metadataremoverai/metadata-inspector/badges/score.svg)](https://glama.ai/mcp/connectors/com.metadataremoverai/metadata-inspector)
   🔓 - Read EXIF, GPS, XMP, C2PA and AI-generator metadata from a public image or video URL.
