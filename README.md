@@ -6309,6 +6309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schengen Counter](https://schengencounter.com/mcp/) `https://mcp.schengencounter.com/mcp`
   [![Schengen Counter MCP connector](https://glama.ai/mcp/connectors/com.schengencounter/schengen-counter/badges/score.svg)](https://glama.ai/mcp/connectors/com.schengencounter/schengen-counter)
   🔓 - Schengen 90/180 days used and left, earliest legal re-entry date and ETIAS check; stateless, nothing stored.
+- [Siima](https://siima.online) `https://api.siima.online/mcp`
+  [![Siima MCP connector](https://glama.ai/mcp/connectors/online.siima/esim/badges/score.svg)](https://glama.ai/mcp/connectors/online.siima/esim)
+  🔓 - Search travel eSIM data plans for 150+ countries and create a Stripe checkout link the buyer approves.
 - [SkyAccess](https://skyaccess.com) `https://mcp.skyaccess.com/mcp`
   [![SkyAccess MCP connector](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess/badges/score.svg)](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess)
   🔓 - Private jet empty legs: search live flights, check one by id, get booking links and charter price estimates.
