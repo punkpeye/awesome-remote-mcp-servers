@@ -1470,6 +1470,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Klarhimmel UI](https://ui.klarhimmel.com/get-started/mcp) `https://ui.klarhimmel.com/mcp`
   [![Klarhimmel UI MCP connector](https://glama.ai/mcp/connectors/com.klarhimmel.ui/klarhimmel-ui/badges/score.svg)](https://glama.ai/mcp/connectors/com.klarhimmel.ui/klarhimmel-ui)
   🔓 - Search 300+ shadcn-compatible blocks, templates and components and get each one's install command.
+- [Kliv](https://kliv.dev) `https://mcp.kliv.dev/mcp`
+  [![Kliv MCP connector](https://glama.ai/mcp/connectors/dev.kliv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kliv/mcp)
+  🔐 - Edit files, run SQL, write edge functions, run tests and publish your Kliv web apps from your own AI tool.
 - [Koppar](https://koppar.ai) `https://app.koppar.ai/mcp`
   [![Koppar MCP connector](https://glama.ai/mcp/connectors/ai.koppar.app/koppar/badges/score.svg)](https://glama.ai/mcp/connectors/ai.koppar.app/koppar)
   🔓 - Design a KiCad PCB from a prompt: parts, schematic checks, routing, KiCad DRC, Gerbers. Free key for tool calls.
