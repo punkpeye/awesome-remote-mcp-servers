@@ -5363,6 +5363,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Parlel](https://parlel.com) `https://api.parlel.com/mcp`
   [![Parlel MCP connector](https://glama.ai/mcp/connectors/com.parlel.api/parlel/badges/score.svg)](https://glama.ai/mcp/connectors/com.parlel.api/parlel)
   🔓 - Free search of people, companies and open roles on an open professional network.
+- [PDF to Markdown with Tables](https://apify.com/fluidfaith/pdf-to-markdown-tables) `https://mcp.apify.com/?tools=fluidfaith/pdf-to-markdown-tables`
+  [![PDF to Markdown with Tables MCP connector](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/pdf-to-markdown-tables/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.faithdrivencreator/pdf-to-markdown-tables)
+  🔐 - PDF, Word, PowerPoint and Excel to Markdown, with every table also returned as JSON rows and OCR for scans.
 - [PdfParse](https://pdfparse.net/mcp) `https://mcp.pdfparse.net/mcp`
   [![PdfParse MCP connector](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse)
   🔐 - Extract PDFs into structured tables, query saved records, and configure document inbox workflows.
