@@ -3520,6 +3520,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
+- [Sinapsi](https://sinapsi.wiki/) `https://sinapsi.wiki/mcp/hub/`
+  [![Sinapsi MCP connector](https://glama.ai/mcp/connectors/wiki.sinapsi/sinapsi/badges/score.svg)](https://glama.ai/mcp/connectors/wiki.sinapsi/sinapsi)
+  🔓 - Search verified public wikis: whole cited sections with provenance, plus dead ends already tested and refuted.
 - [SlashYear](https://slashyear.com) `https://slashyear.com/mcp`
   [![SlashYear MCP connector](https://glama.ai/mcp/connectors/com.slashyear/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.slashyear/mcp)
   🔓 - Dated historical events, each a verbatim sentence from a cited Wikipedia revision, searchable by year, day or subject.
