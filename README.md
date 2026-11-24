@@ -6309,6 +6309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schengen Counter](https://schengencounter.com/mcp/) `https://mcp.schengencounter.com/mcp`
   [![Schengen Counter MCP connector](https://glama.ai/mcp/connectors/com.schengencounter/schengen-counter/badges/score.svg)](https://glama.ai/mcp/connectors/com.schengencounter/schengen-counter)
   🔓 - Schengen 90/180 days used and left, earliest legal re-entry date and ETIAS check; stateless, nothing stored.
+- [Skinow](https://skinow.co/mcp) `https://skinow.co/mcp`
+  [![Skinow MCP connector](https://glama.ai/mcp/connectors/eu.skimetric/skimetric/badges/score.svg)](https://glama.ai/mcp/connectors/eu.skimetric/skimetric)
+  🔓 - Multi-model 10-day snow forecasts, station accuracy, lift status and AI trip planning for 2,800+ ski resorts.
 - [SkyAccess](https://skyaccess.com) `https://mcp.skyaccess.com/mcp`
   [![SkyAccess MCP connector](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess/badges/score.svg)](https://glama.ai/mcp/connectors/com.skyaccess/skyaccess)
   🔓 - Private jet empty legs: search live flights, check one by id, get booking links and charter price estimates.
