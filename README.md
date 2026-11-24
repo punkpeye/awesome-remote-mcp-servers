@@ -3147,6 +3147,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes EVE: Frontier](https://diogenesgateway.com/#eve-frontier) `https://diogenesgateway.com/mcp/eve-frontier`
   [![Diogenes EVE: Frontier MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp)
   🔓 - 14 Sui Move smart assembly development engines, smart gate route planner, and capacitor optimizer.
+- [Duoly](https://duoly.gg/developers/mcp) `https://duoly.gg/mcp`
+  [![Duoly MCP connector](https://glama.ai/mcp/connectors/gg.duoly/gaming/badges/score.svg)](https://glama.ai/mcp/connectors/gg.duoly/gaming)
+  🔓 - Find gaming teammates and coaches, compare session prices and prepare booking links.
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
