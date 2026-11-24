@@ -4195,6 +4195,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TubeText Ad Intelligence](https://apify.com/tubetext/meta-ad-library-videos) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/meta-ad-library-videos,tubetext/video-ad-analyzer,tubetext/shot-by-shot-video-analysis`
   [![TubeText Ad Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence)
   🔐 - A brand's Facebook/Instagram ads from Meta Ad Library, plus AI teardowns of Meta and YouTube video ads.
+- [Vadyu](https://vadyu.com) `https://vadyu.com/api/mcp`
+  [![Vadyu MCP connector](https://glama.ai/mcp/connectors/com.vadyu/vadyu/badges/score.svg)](https://glama.ai/mcp/connectors/com.vadyu/vadyu)
+  🔓 - Preview Shopify/DTC products for free and render 9:16, 4:5, 1:1, and 16:9 AI commercial video ads with voiceover.
+
 - [Vaneform](https://vaneform.com/docs/api) `https://vaneform.com/mcp`
   [![Vaneform MCP connector](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jiangqizheng/vaneform-mcp)
   🔓 - Free website traffic lookups: monthly visits, sources, countries and domain compares.
