@@ -1597,6 +1597,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Review Times](https://reviewtimes.fyi) `https://reviewtimes.fyi/mcp`
   [![Review Times MCP connector](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times/badges/score.svg)](https://glama.ai/mcp/connectors/fyi.reviewtimes/review-times)
   🔓 - Live review times for AI app, connector and plugin stores: ChatGPT, Claude, Muse, Grok, Cursor and more.
+- [Ribox](https://ribox.app/mcp/) `https://ribox.app/api/mcp`
+  [![Ribox MCP connector](https://glama.ai/mcp/connectors/io.github.AlgoWolfx/ribox/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AlgoWolfx/ribox)
+  🔓 - Exact QR codes (link, Wi-Fi, vCard, WhatsApp, location), character and word counts, text diffs and strict JSON validation; free, no account, nothing stored.
 - [Routebase](https://routebase.dev/mcp-server/) `https://mcp.routebase.dev`
   [![Routebase MCP connector](https://glama.ai/mcp/connectors/dev.routebase.mcp/routebase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.routebase.mcp/routebase)
   🔐 - Design, mock, test, document and monitor your APIs from one living OpenAPI spec.
