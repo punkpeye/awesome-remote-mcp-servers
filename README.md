@@ -4212,6 +4212,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
+- [WeCookFlow](https://wecookflow.com) `https://wecookflow.com/mcp`
+  [![WeCookFlow MCP connector](https://glama.ai/mcp/connectors/com.wecookflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wecookflow/mcp)
+  🔓 - Guest post prices for the same sites across link-building marketplaces, and site search by niche, DR and budget.
 - [Wrendex](https://wrendex.com) `https://app.wrendex.com/mcp`
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
