@@ -3307,6 +3307,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
 
+- [First Monday](https://firstmonday.ai/mcp) `https://mcp.firstmonday.ai/mcp`
+  [![First Monday MCP connector](https://glama.ai/mcp/connectors/ai.firstmonday/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/ai.firstmonday/jobs)
+  🔐 - Remote jobs, with whether each can hire someone living in each of 23 countries, quoting the post.
+
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
