@@ -6333,6 +6333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trvlrr](https://trvlrr.app/assistants) `https://trvlrr.app/mcp`
   [![Trvlrr MCP connector](https://glama.ai/mcp/connectors/app.trvlrr/trvlrr/badges/score.svg)](https://glama.ai/mcp/connectors/app.trvlrr/trvlrr)
   🔐 - Personal travel journal: trips, flights, stays, stats and photo search; import trips and add bookings.
+- [Tubroom](https://tubroom.com/mcp-server/) `https://tubroom.com/mcp`
+  [![Tubroom MCP connector](https://glama.ai/mcp/connectors/com.tubroom/tubroom/badges/score.svg)](https://glama.ai/mcp/connectors/com.tubroom/tubroom)
+  🔓 - Hotel rooms with their own jacuzzi or hot tub in the US, Canada and UK: the exact room to book and its check date.
 - [Untap](https://untap.money/connect) `https://untap.money/api/mcp`
   [![Untap MCP connector](https://glama.ai/mcp/connectors/io.github.aneduaim/untap-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aneduaim/untap-mcp)
   🔓 - Checks UK train Delay Repay, UK261 and EU261 flight compensation and TfL refunds, with the amount and how to claim.
