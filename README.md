@@ -5282,6 +5282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [imprimeur.paris](https://imprimeur.paris/en/mcp/) `https://mcp.imprimeur.paris/mcp`
   [![imprimeur.paris MCP connector](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mojapiero/imprimeur-paris)
   🔓 - Directory of Paris print and copy shops: search by product or district, listings, print-file checks and quote drafts.
+- [Job Market & EU Supplier Data](https://apify.com/gleanery_actors) `https://mcp.apify.com?tools=gleanery_actors/ats-job-search,gleanery_actors/career-site-jobs-scraper,gleanery_actors/arbeitsagentur-jobs-scraper,gleanery_actors/wellfound-jobs-scraper,gleanery_actors/europages-scraper`
+  [![Job Market & EU Supplier Data MCP connector](https://glama.ai/mcp/connectors/io.github.gleanery-works/job-and-supplier-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gleanery-works/job-and-supplier-data)
+  🔐 - Live jobs from 14,000+ company career sites, Germany's Arbeitsagentur and Wellfound, plus EU suppliers with VAT IDs.
 - [JobsPipe](https://docs.jobspipe.dev/ai-agents/mcp) `https://mcp.jobspipe.dev/mcp`
   [![JobsPipe MCP connector score](https://glama.ai/mcp/connectors/dev.jobspipe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.jobspipe/mcp)
   🔐 - Search live jobs from 30+ boards and ATS feeds, read full postings, and save searches to catch new matches.
