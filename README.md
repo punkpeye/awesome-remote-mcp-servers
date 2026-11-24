@@ -471,6 +471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [betterimage.io](https://betterimage.io/mcp) `https://betterimage.io/mcp`
   [![betterimage.io MCP connector](https://glama.ai/mcp/connectors/io.betterimage/betterimage/badges/score.svg)](https://glama.ai/mcp/connectors/io.betterimage/betterimage)
   🔓 - Social cards and OG images from designed templates or any page URL, plus link-preview checks.
+- [Brik](https://brik.space) `https://brik.space/connect/mcp`
+  [![Brik MCP connector](https://glama.ai/mcp/connectors/space.brik/brik/badges/score.svg)](https://glama.ai/mcp/connectors/space.brik/brik)
+  🔐 - Build design tools with live controls from a brief, find and remix gallery tools, and lay out canvases.
 - [Canva](https://canva.com) `https://mcp.canva.com/mcp`
   [![Canva MCP connector](https://glama.ai/mcp/connectors/com.canva.mcp/canva/badges/score.svg)](https://glama.ai/mcp/connectors/com.canva.mcp/canva)
   🔐 - Create, edit, and export Canva designs.
