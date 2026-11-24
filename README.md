@@ -4089,6 +4089,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RoboDebut](https://robodebut.com) `https://robodebut.com/api/mcp`
   [![RoboDebut MCP connector](https://glama.ai/mcp/connectors/com.robodebut/submissions/badges/score.svg)](https://glama.ai/mcp/connectors/com.robodebut/submissions)
   🔓 - Submit projects for manual review; homepage badge and private email required; built by LinkBunny's founder.
+- [Rowfeed SEO Data](https://apify.com/rowfeed) `https://mcp.apify.com?tools=rowfeed/keyword-search-volume,rowfeed/keyword-generator,rowfeed/competitor-keywords,rowfeed/backlink-checker,rowfeed/competitor-backlink-checker,rowfeed/da-pa-checker,rowfeed/website-traffic-checker,rowfeed/page-traffic-checker,rowfeed/google-serp-api,rowfeed/google-ai-overview-tracker,rowfeed/ai-search-visibility-tracker,rowfeed/seo-site-audit,rowfeed/broken-link-checker,rowfeed/google-index-checker,rowfeed/pagespeed-insights-api,rowfeed/google-trends-explorer`
+  [![Rowfeed SEO Data MCP connector](https://glama.ai/mcp/connectors/io.github.kristerkb-pixel/rowfeed-seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kristerkb-pixel/rowfeed-seo-mcp)
+  🔐 - Pay-per-use SEO data: keyword search volume, keyword ideas and gaps, backlinks, DA/PA, traffic estimates, SERP and AI Overview tracking, site audits.
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
