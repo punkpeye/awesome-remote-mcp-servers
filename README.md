@@ -910,6 +910,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MepMail](https://mepmail.dev) `https://api.mepmail.dev/mcp`
   [![MepMail MCP connector](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail)
   🔐 - Send email, manage broadcasts and domains, and read or reply to Correio mailboxes within granted permissions.
+- [MoeMail](https://moemail.app/en/mcp) `https://moemail.app/mcp`
+  [![MoeMail MCP connector](https://glama.ai/mcp/connectors/app.moemail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.moemail/mcp)
+  🔐 - Disposable inboxes for agents: create a mailbox, wait for the verification email, read the code, then delete it.
 - [Multi Mail](https://lumman.co/mcp/multi-mail) `https://mail.lumman.co/mcp`
   [![Multi Mail MCP connector](https://glama.ai/mcp/connectors/co.lumman/mail/badges/score.svg)](https://glama.ai/mcp/connectors/co.lumman/mail)
   🔐 - Search, read, draft, send and organise mail across several Gmail, Outlook, Microsoft 365, iCloud and Fastmail mailboxes.
