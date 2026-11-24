@@ -1485,6 +1485,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Local AI Picks](https://localaipicks.com/docs/mcp) `https://localaipicks.com/mcp`
   [![Local AI Picks MCP connector](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks/badges/score.svg)](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks)
   🔓 - Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.
+- [MapIron](https://mapiron.com/docs/mcp) `https://api.mapiron.com/v1/mcp`
+  [![MapIron Maps MCP connector](https://glama.ai/mcp/connectors/com.mapiron/maps/badges/score.svg)](https://glama.ai/mcp/connectors/com.mapiron/maps)
+  🔑 - Geocoding, static and privacy-area maps, directions and isochrones on OpenStreetMap data, hard-capped.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
