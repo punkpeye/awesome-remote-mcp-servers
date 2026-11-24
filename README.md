@@ -2672,6 +2672,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MetricDuck](https://www.metricduck.com) `https://mcp.metricduck.com/mcp`
   [![MetricDuck MCP connector](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/com.metricduck/financial-analysis)
   🔓 - SEC filing data for AI agents: financials, screening, every figure traceable; tool calls need a free sign-in.
+- [Microverse Market Data](https://microversesystems.com/mcp.html) `https://mcp.microversesystems.com/mcp`
+  [![Microverse Market Data MCP connector](https://glama.ai/mcp/connectors/com.microversesystems/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.microversesystems/market-data)
+  🔓 - Live and historical L2 order books from 18 crypto exchanges, Kalshi and Polymarket.
 - [Midpoint Card Prices](https://www.cardcenteringtool.com/mcp) `https://mcp.cardcenteringtool.com/mcp`
   [![Midpoint Card Prices MCP connector](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.cardcenteringtool/card-prices)
   🔓 - Trading card prices and grading ROI for 1.5M+ Pokémon, TCG and sports cards: raw and PSA 9/10 values, movers.
