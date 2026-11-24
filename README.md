@@ -6707,6 +6707,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Strike a Block](https://strikeablock.com) `https://strikeablock.com/mcp`
   [![Strike a Block MCP connector](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block/badges/score.svg)](https://glama.ai/mcp/connectors/com.strikeablock/strike-a-block)
   🔓 - Preview a one-line inscription as a keepsake block, browse the public vault and verify a block's proof of work.
+- [Tarotap](https://tarotap.com/en) `https://tarotap.com/mcp`
+  [![Tarotap MCP connector](https://glama.ai/mcp/connectors/com.tarotap/tarot/badges/score.svg)](https://glama.ai/mcp/connectors/com.tarotap/tarot)
+  🔓 - Tarot readings with real draws: browse spreads and draw cards from a shuffled 78-card Rider-Waite-Smith deck.
 - [Toolalize](https://toolalize.com) `https://toolalize.com/mcp`
   [![Toolalize MCP connector](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vertisky/toolalize-mcp)
   🔓 - Convert units (NIST SP 811 / SI factors) and currencies with live rates, and list every supported unit, in 13 languages.
