@@ -4948,6 +4948,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MailBeast.ai](https://mailbeast.ai) `https://mcp.mailbeast.ai/mcp`
   [![MailBeast.ai MCP connector](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast)
   🔐 - Cold email outreach: campaigns with A/B sequences, leads, mailboxes and warmup, reply inbox and campaign analytics.
+- [OwnlyBrand](https://ownlybrand.com) `https://ownlybrand.com/mcp`
+  [![OwnlyBrand MCP connector](https://glama.ai/mcp/connectors/com.ownlybrand/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownlybrand/site)
+  🔓 - Manufacturer guides on IndiaMART, Alibaba, ThomasNet and GlobalSpec costs vs an owned B2B sales channel.
 - [Pinpoint dealership sales tools](https://usepinpoint.ai/resources/api/) `https://usepinpoint.ai/api/mcp`
   [![Pinpoint dealership sales tools MCP connector](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.usepinpoint/pinpoint-dealership-sales-tools)
   🔓 - Car dealership sales tools from Pinpoint, the sales intelligence platform for car dealerships.
