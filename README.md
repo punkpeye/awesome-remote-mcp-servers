@@ -1997,6 +1997,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎓 <a name="education"></a>Education
 
+- [Abinomics Reference](https://abinomics.com/developers/) `https://abinomics.com/mcp`
+  [![Abinomics Reference MCP connector](https://glama.ai/mcp/connectors/com.abinomics/reference/badges/score.svg)](https://glama.ai/mcp/connectors/com.abinomics/reference)
+  🔓 - Look up economics, finance, politics and genomics terms in 36 languages, with citations.
+
 - [CELPass](https://celpass.com/mcp-server) `https://celpass.com/mcp`
   [![CELPass MCP connector](https://glama.ai/mcp/connectors/com.celpass/celpip/badges/score.svg)](https://glama.ai/mcp/connectors/com.celpass/celpip)
   🔓 - CELPIP English test practice questions with answers, sample answers, and Canada's Nov 2026 CRS points calculator.
