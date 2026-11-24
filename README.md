@@ -3306,6 +3306,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Dice Jobs Scraper](https://apify.com/magnova/dice-jobs-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/dice-jobs-monitor`
+  [![Dice Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/dice-jobs-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/dice-jobs-monitor-mcp)
+  🔐 - Search Dice tech jobs and get only the new and changed postings.
+
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
@@ -3837,6 +3841,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Distribution](https://distribution.tech) `https://app.distribution.tech/api/mcp/guest`
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
+
+- [Google Maps Reviews Scraper](https://apify.com/magnova/google-maps-reviews-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/google-maps-reviews-monitor`
+  [![Google Maps Reviews Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-maps-reviews-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/google-maps-reviews-monitor-mcp)
+  🔐 - Watch Google Maps places for new reviews and rating changes, with alerts.
 
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
@@ -4879,6 +4887,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NebenkostenPro](https://nebenkostenpro.de/mcp) `https://nebenkostenpro.de/mcp`
   [![NebenkostenPro MCP connector](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten/badges/score.svg)](https://glama.ai/mcp/connectors/de.nebenkostenpro/nebenkosten)
   🔓 - German utility costs for 400 cities, property tax rates, housing benefit levels and utility bill deadlines.
+- [OnTheMarket Property Scraper](https://apify.com/magnova/onthemarket-listings-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/onthemarket-listings-monitor`
+  [![OnTheMarket Property Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/onthemarket-listings-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/onthemarket-listings-monitor-mcp)
+  🔐 - Watch any OnTheMarket search for new listings and price drops, with alerts.
+
 - [Pillr](https://pillr.fr/mcp) `https://pillr.fr/api/mcp`
   [![Pillr MCP connector](https://glama.ai/mcp/connectors/fr.pillr/pillr/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pillr/pillr)
   🔓 - French property data: price per m² by municipality, local market summary and planning permit requirements.
@@ -6117,6 +6129,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [Flight Price Watch](https://apify.com/magnova/flight-price-watch) `https://mcp.apify.com?tools=fetch-actor-details,magnova/flight-price-watch`
+  [![Flight Price Watch MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/flight-price-watch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/flight-price-watch-mcp)
+  🔐 - Watch Google Flights fares for price drops, with alerts.
+
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
