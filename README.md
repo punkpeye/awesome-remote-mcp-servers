@@ -2963,7 +2963,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
 - [ValuEdge](https://valuedge.app) `https://valuedge.app/mcp`
   [![ValuEdge MCP connector](https://glama.ai/mcp/connectors/app.valuedge/valu-edge/badges/score.svg)](https://glama.ai/mcp/connectors/app.valuedge/valu-edge)
-  🔓 - Stock screening, valuation and fundamentals; OAuth enables read-only access to your own portfolio and watchlist.
+  🔐 - Stock valuation, fundamentals and bounded screening. Guest ticker lookup; OAuth for screening, daily technicals and private account tools. No brokerage trades.
 - [Valuein](https://valuein.biz) `https://mcp.valuein.biz/mcp`
   [![Valuein MCP connector](https://glama.ai/mcp/connectors/biz.valuein/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/biz.valuein/mcp)
   🔓 - Point-in-time SEC EDGAR fundamentals since 1993; every figure carries a fact_id traceable to its filing.
