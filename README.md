@@ -3162,6 +3162,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GAMES.GG](https://help.games.gg/en/articles/2048414-use-gamesgg-with-your-ai-assistant) `https://mcp.games.gg/mcp`
   [![GAMES.GG MCP connector](https://glama.ai/mcp/connectors/gg.games/games-gg/badges/score.svg)](https://glama.ai/mcp/connectors/gg.games/games-gg)
   🔐 - Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.
+- [Kineticist](https://www.kineticist.com/mcp) `https://www.kineticist.com/api/mcp`
+  [![Kineticist MCP connector](https://glama.ai/mcp/connectors/com.kineticist/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.kineticist/mcp-server)
+  🔓 - Pinball games and editions, designers, places to play, news and the Hype Index, read-only.
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
