@@ -5069,6 +5069,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuickUnits](https://quickunits.global) `https://quickunits.global/mcp`
   [![QuickUnits MCP connector](https://glama.ai/mcp/connectors/io.github.Robomupp/quickunits/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Robomupp/quickunits)
   🔓 - Exact unit conversion across 213 pairs: states the factor behind each answer and cites a page per conversion.
+- [RegDataLab](https://www.regdatalab.com/fda-mcp-server) `https://www.regdatalab.com/mcp`
+  [![RegDataLab MCP connector](https://glama.ai/mcp/connectors/io.github.medley/fda-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.medley/fda-data)
+  🔐 - Look up public FDA inspections, Form 483s, warning letters, recalls, and import refusals.
+
+
+
 - [Research Methods Library](https://research-methods-mcp.vercel.app/) `https://research-methods-mcp.vercel.app/mcp`
   [![Research Methods Library MCP connector](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp)
   🔓 - Study designs, assumptions, runnable R and Python code, and citations from research methods textbooks.
