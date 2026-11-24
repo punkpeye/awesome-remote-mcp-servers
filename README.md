@@ -5714,6 +5714,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScreenSeal](https://apify.com/wthall05/screenseal-screen) `https://screenseal-mcp.agent-tollbooth.workers.dev/mcp`
   [![ScreenSeal MCP connector](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wthall05/screenseal-mcp)
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
+- [secuveri](https://secuveri.com/docs) `https://mcp.secuveri.com/mcp`
+  [![secuveri MCP connector](https://glama.ai/mcp/connectors/com.secuveri/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.secuveri/mcp)
+  🔐 - Identity and age verification: create verification links, read outcomes, build workflows, run AML screening.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
