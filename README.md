@@ -4116,6 +4116,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SEO Expert: Digital Darts](https://www.digitaldarts.com.au/shopify-seo-expert-digital-darts-app/mcp) `https://seo.digitaldarts.com.au/mcp`
   [![SEO Expert: Digital Darts MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/seo-expert)
   🔐 - Audit a Shopify store's SEO and fix meta tags, alt text, structured data and broken links from chat.
+- [SEO Skills](https://seoskills.io) `https://mcp.seoskills.io/mcp`
+  [![SEO Skills MCP connector](https://glama.ai/mcp/connectors/io.github.mirackacmazcom/seo-skills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mirackacmazcom/seo-skills)
+  🔓 - Search the Google leak, Google and LLM patents, official Search docs and Google staff statements, with citations.
 - [seodata.dev](https://www.seodata.dev/mcp) `https://mcp.seodata.dev/mcp`
   [![seodata.dev MCP connector](https://glama.ai/mcp/connectors/dev.seodata/keywords/badges/score.svg)](https://glama.ai/mcp/connectors/dev.seodata/keywords)
   🔓 - Google search volume, CPC, competition and similar keywords for 50+ countries.
