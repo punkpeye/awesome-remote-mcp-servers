@@ -1187,6 +1187,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Teable](https://teable.ai) `https://mcp.teable.ai/mcp`
   [![Teable MCP connector](https://glama.ai/mcp/connectors/ai.teable.mcp/teable/badges/score.svg)](https://glama.ai/mcp/connectors/ai.teable.mcp/teable)
   🔐 - Inspect tables and read or update business records in Teable, an AI spreadsheet for business.
+- [Thunderduck](https://thunderduck.ai) `https://mcp.thunderduck.ai/mcp`
+  [![Thunderduck MCP connector](https://glama.ai/mcp/connectors/ai.thunderduck/thunderduck/badges/score.svg)](https://glama.ai/mcp/connectors/ai.thunderduck/thunderduck)
+  🔐 - Query Postgres, MySQL, BigQuery, Iceberg and files as one DuckDB warehouse, with per-query cost checks.
 - [Vericto](https://vericto.com/docs/mcp) `https://mcp.vericto.com/mcp`
   [![Vericto MCP connector](https://glama.ai/mcp/connectors/com.vericto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vericto/mcp)
   🔑 - Database guardrails for AI agents: check SQL against your Vericto rules before it runs, with a suggested fix.
