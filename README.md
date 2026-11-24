@@ -1933,6 +1933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Look up fragrances: verdicts, notes, drydowns, similar picks and bottle prices for your country.
 - [Sense2](https://sense2.com.au) `https://sense2.com.au/api/mcp`
   🔓 - Search 4,000+ Australian promotional products, get quantity-break quotes, browse categories and case studies.
+- [Sellit](https://sellit.ge/en/ai) `https://api.sellit.ge/mcp`
+  [![Sellit MCP connector](https://glama.ai/mcp/connectors/ge.sellit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ge.sellit/mcp)
+  🔐 - Manage a Sellit online shop: products, stock, orders, discounts, analytics and site design drafts.
 - [Shopify Speed Check](https://www.skaidigital.com/tools/shopify-speed-test) `https://tools.skaidigital.com/mcp`
   [![Shopify Speed Check MCP connector](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check)
   🔓 - Check a Shopify store's PageSpeed and Core Web Vitals, find slowing apps, compare plan fees, get a headless estimate.
