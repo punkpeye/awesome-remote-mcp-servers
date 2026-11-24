@@ -3306,6 +3306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Oaki AI](https://www.oaki.io/assistants) `https://www.oaki.io/mcp`
+  [![Oaki AI MCP connector](https://glama.ai/mcp/connectors/io.oaki.www/oaki/badges/score.svg)](https://glama.ai/mcp/connectors/io.oaki.www/oaki)
+  🔓 - Find live jobs that fit a resume, from postings on company career sites; free, no sign-in, the resume is not stored.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
