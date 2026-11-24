@@ -4119,6 +4119,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [seodata.dev](https://www.seodata.dev/mcp) `https://mcp.seodata.dev/mcp`
   [![seodata.dev MCP connector](https://glama.ai/mcp/connectors/dev.seodata/keywords/badges/score.svg)](https://glama.ai/mcp/connectors/dev.seodata/keywords)
   🔓 - Google search volume, CPC, competition and similar keywords for 50+ countries.
+- [SEOmatic](https://seomatic.ai/developers/mcp) `https://app.seomatic.ai/api/mcp`
+  [![SEOmatic MCP connector](https://glama.ai/mcp/connectors/ai.seomatic/seomatic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.seomatic/seomatic)
+  🔐 - Search Console performance, decay and backlink analysis, plus AI-visibility tracking and approval-gated site fixes.
 - [SEO·AEO·GEO](https://seoaeogeo.app/agents) `https://seoaeogeo.app/mcp`
   [![SEO·AEO·GEO MCP connector](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo/badges/score.svg)](https://glama.ai/mcp/connectors/app.seoaeogeo/seo-aeo-geo)
   🔓 - Audit a URL for SEO, AEO and GEO: AI crawler access, schema and extractability, with ranked code fixes; free preview.
