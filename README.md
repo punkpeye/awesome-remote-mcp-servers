@@ -5524,6 +5524,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zhiyike MCP connector](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike/badges/score.svg)](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike)
   🔓 - AI news cards with official publish dates and sources; browse and search recent AI releases.
 
+- [Clify](https://github.com/ToukoUrsin/clify) `https://bold-cloud-h4u6s.run.mcp-use.com/mcp`
+  🔓 - Read-only JSON APIs and a hosted MCP server for 135 public websites, with 1,619 live-verified commands.
+
 ### 🔒 <a name="security"></a>Security
 
 - [AEGIS Events](https://console.int-tech.solutions/docs) `https://mcp.int-tech.solutions`
