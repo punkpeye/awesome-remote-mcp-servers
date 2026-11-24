@@ -587,6 +587,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRX](https://qrx.codes/developers/mcp) `https://qrx.codes/mcp`
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
+- [Rainbrand](https://www.rainbrand.com) `https://mcp.rainbrand.com/mcp`
+  [![Rainbrand MCP connector](https://glama.ai/mcp/connectors/com.rainbrand/rainbrand/badges/score.svg)](https://glama.ai/mcp/connectors/com.rainbrand/rainbrand)
+  🔐 - Give agents and products reusable brand context through MCP or the API.
 - [Roomvana](https://roomvana.ai) `https://api.roomvana.co/mcp`
   [![Roomvana MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp)
   🔓 - Browse room types and design styles, then get a Roomvana studio link with those options prefilled.
