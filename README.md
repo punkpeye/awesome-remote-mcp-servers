@@ -590,6 +590,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roomvana](https://roomvana.ai) `https://api.roomvana.co/mcp`
   [![Roomvana MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp)
   🔓 - Browse room types and design styles, then get a Roomvana studio link with those options prefilled.
+- [Saymock](https://saymock.com/en/?utm_source=awesome-remote-mcp-servers&utm_medium=mcp-directory) `https://app.saymock.com/mcp`
+  [![Saymock MCP connector](https://glama.ai/mcp/connectors/com.saymock/saymock/badges/score.svg)](https://glama.ai/mcp/connectors/com.saymock/saymock)
+  🔐 - Design app and web screens on a shared board as editable HTML + Tailwind frames your team reviews live.
 - [Sceneplane](https://sceneplane.online) `https://mcp.sceneplane.online/v1`
   [![Sceneplane MCP connector](https://glama.ai/mcp/connectors/online.sceneplane/sceneplane/badges/score.svg)](https://glama.ai/mcp/connectors/online.sceneplane/sceneplane)
   🔐 - Build, inspect, render and animate Blender scenes in the cloud; export editable .blend, GLB or STL files.
