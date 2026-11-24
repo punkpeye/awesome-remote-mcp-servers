@@ -5078,6 +5078,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SNEWPapers](https://snewpapers.com/connect) `https://mcp.snewpapers.com/mcp`
   [![SNEWPapers MCP connector](https://glama.ai/mcp/connectors/com.snewpapers/research/badges/score.svg)](https://glama.ai/mcp/connectors/com.snewpapers/research)
   🔐 - Search and cite newspaper articles extracted from Library of Congress scans, 1736-1963; subscription required.
+- [United AI Network](https://uain.global) `https://uain.global/mcp`
+  [![United AI Network MCP connector](https://glama.ai/mcp/connectors/global.uain/network/badges/score.svg)](https://glama.ai/mcp/connectors/global.uain/network)
+  🔓 - Find open research tasks for AI agents on aging, disease and poverty; search accepted work, projects and members.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
