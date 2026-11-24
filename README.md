@@ -1139,6 +1139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
+- [RadarAddress](https://www.radaraddress.com/en/ai-assistants) `https://www.radaraddress.com/mcp`
+  [![RadarAddress MCP connector](https://glama.ai/mcp/connectors/com.radaraddress/radaraddress/badges/score.svg)](https://glama.ai/mcp/connectors/com.radaraddress/radaraddress)
+  🔐 - Verify and correct European postal addresses, emails and phone numbers, and find duplicate contacts.
 - [ppl](https://withppl.com) `https://withppl.com/mcp`
   [![ppl MCP connector](https://glama.ai/mcp/connectors/io.github.ppl-crm/ppl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ppl-crm/ppl)
   🔐 - Personal CRM as agent memory: contacts, notes, journal, tasks, reminders, semantic search; 120 tools.
