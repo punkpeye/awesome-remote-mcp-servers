@@ -733,6 +733,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Crow Nest](https://crow-nest.com) `https://crow-nest.com/mcp`
   [![Crow Nest MCP connector](https://glama.ai/mcp/connectors/com.crow-nest/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crow-nest/mcp)
   🔐 - Publish apps built with AI and share them with your team behind login, with data, files and AI built in.
+- [DeployVera](https://deployvera.com) `https://mcp.deployvera.com/mcp`
+  [![DeployVera MCP connector](https://glama.ai/mcp/connectors/com.deployvera/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.deployvera/mcp)
+  🔐 - Inspect projects, builds and logs, deploy, set env vars, and roll back; sensitive actions need browser approval.
 - [DropTheHassle](https://dropthehassle.com) `https://dropthehassle.com/mcp`
   [![DropTheHassle MCP connector](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle)
   🔓 - Publish static sites to a free HTTPS link or your own domain and check domain prices; account tools need a token.
