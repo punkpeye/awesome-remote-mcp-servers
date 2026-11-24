@@ -2441,6 +2441,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [egrul.org](https://egrul.org) `https://egrul.org/mcp/`
   [![egrul.org MCP connector](https://glama.ai/mcp/connectors/org.egrul/egrulorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.egrul/egrulorg)
   🔓 - Russian company/individual checks: EGRUL/EGRIP, sanctions, foreign-agent, bankruptcy; most tools need a subscription.
+- [EInvoice Engine](https://einvoiceengine.com/docs/mcp) `https://einvoiceengine.com/mcp`
+  [![EInvoice Engine MCP connector](https://glama.ai/mcp/connectors/com.einvoiceengine/einvoicing/badges/score.svg)](https://glama.ai/mcp/connectors/com.einvoiceengine/einvoicing)
+  🔐 - Validate, convert, create and repair EU e-invoices (XRechnung, ZUGFeRD, Peppol, KSeF) with official EN 16931 rules.
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
