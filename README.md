@@ -1699,6 +1699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
+- [Verified Work](https://verify.admeldo.com) `https://verify.admeldo.com/mcp`
+  [![Verified Work MCP connector](https://glama.ai/mcp/connectors/com.admeldo/verified-work/badges/score.svg)](https://glama.ai/mcp/connectors/com.admeldo/verified-work)
+  🔓 - Verify delivered agent work and return a signed pass/fail receipt; $0.02 USDC on Base via x402.
 - [Vibe Shipped](https://vibeshipped.io/agents) `https://vibeshipped.io/api/mcp`
   [![Vibe Shipped MCP connector](https://glama.ai/mcp/connectors/io.github.sorindecu/vibeshipped/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sorindecu/vibeshipped)
   🔓 - Search sourced, dated facts on AI coding tools, agent harnesses and real apps built with them.
