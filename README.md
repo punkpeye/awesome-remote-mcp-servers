@@ -3836,7 +3836,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Cromanion](https://cromanion.com/agents) `https://cromanion.com/api/mcp`
   [![Cromanion MCP connector](https://glama.ai/mcp/connectors/com.cromanion/cromanion/badges/score.svg)](https://glama.ai/mcp/connectors/com.cromanion/cromanion)
-  🔑 - Read a site's visits live, page attention and AI-agent visits, or run a conversion agent on a site you prove you own.
+  🔓 - Read a site's visits live, page attention and AI-agent visits, or run a conversion agent on a site you prove you own.
 
 - [Distribution](https://distribution.tech) `https://app.distribution.tech/api/mcp/guest`
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
