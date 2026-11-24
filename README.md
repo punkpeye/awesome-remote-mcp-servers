@@ -3132,6 +3132,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Game Developer](https://ai-game.dev) `https://ai-game.dev/mcp`
   [![AI Game Developer MCP connector](https://glama.ai/mcp/connectors/io.github.IvanMurzak/Unity-MCP/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.IvanMurzak/Unity-MCP)
   🔐 - Drive your own Unity, Unreal Engine or Godot editor: scenes, objects, assets, scripts and screenshots.
+- [BOTVBOT](https://botvbot.xyz/mcp) `https://api.botvbot.xyz/mcp`
+  [![BOTVBOT MCP connector](https://glama.ai/mcp/connectors/xyz.botvbot/botvbot/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.botvbot/botvbot)
+  🔐 - Coach an AI fighter: read why it lost round by round, rewrite its plan and start a ranked fight.
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
