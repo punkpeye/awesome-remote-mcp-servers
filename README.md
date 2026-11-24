@@ -1738,7 +1738,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Verifiable work layer for AI: 153 tools, cross-AI handover, and an AER-1 receipt for every job.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
-
+- [Acrium](https://acriumautomated.com) `https://acriumautomated.com/mcp`
+  [![Acrium MCP connector](https://glama.ai/mcp/connectors/com.acriumautomated/acrium/badges/score.svg)](https://glama.ai/mcp/connectors/com.acriumautomated/acrium)
+  🔐 - Plugs your AI into Google Ads, nine social platforms, Shopify and inventory; phone calls on Connect + Voice.
 - [3Descu](https://quote.3descu.com/) `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp`
   [![3Descu MCP connector](https://glama.ai/mcp/connectors/io.github.cadi27tech/3descu-quote/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cadi27tech/3descu-quote)
   🔓 - Quote FDM and SLA 3D printing from an ISO 9001:2015 certified EU factory; measures public STL or OBJ links.
