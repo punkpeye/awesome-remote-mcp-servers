@@ -4065,6 +4065,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ranla](https://ranla.ai) `https://mcp.ranla.ai/mcp`
   [![Ranla MCP connector](https://glama.ai/mcp/connectors/ai.ranla/ranla/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ranla/ranla)
   🔐 - AI growth engineer for software businesses: ships SEO pages, gets you into AI answers, replies on Reddit, sends email.
+- [RawQuotes](https://rawquotes.io/mcp) `https://mcp.rawquotes.io/mcp`
+  [![RawQuotes MCP connector](https://glama.ai/mcp/connectors/io.rawquotes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.rawquotes/mcp)
+  🔐 - Customer feedback grouped into insights backed by verbatim quotes; run surveys, import feedback and track trends.
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
