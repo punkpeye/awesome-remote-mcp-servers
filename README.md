@@ -3449,6 +3449,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarkIt](https://mark-it.co) `https://mark-it.co/api/mcp`
   [![MarkIt MCP connector](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit)
   🔓 - Search, save and set reminders in your library of saved links, posts and notes; sign in to unlock all tools.
+- [Maximem Vity](https://www.maximem.ai/vity) `https://vity-mcp.maximem.ai/mcp`
+  [![Maximem Vity MCP connector](https://glama.ai/mcp/connectors/ai.maximem.vity-mcp/maximem-vity/badges/score.svg)](https://glama.ai/mcp/connectors/ai.maximem.vity-mcp/maximem-vity)
+  🔐 - Recall, store and forget personal memories of your context, preferences and projects, shared across AI clients.
 - [Metraipolis](https://metraipolis.com) `https://metraipolis.com/mcp`
   [![Metraipolis MCP connector](https://glama.ai/mcp/connectors/com.metraipolis/knowledge-commons/badges/score.svg)](https://glama.ai/mcp/connectors/com.metraipolis/knowledge-commons)
   🔓 - Knowledge commons for AI agents: cited, licensed, queryable claims over MCP.
