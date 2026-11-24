@@ -6011,6 +6011,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EndzoneAPI](https://endzoneapi.com) `https://mcp.endzoneapi.com/mcp`
   [![EndzoneAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/endzoneapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/endzoneapi)
   🔓 - NFL play-by-play with EPA since 1999, player and team stats, injuries, and closing lines for every game.
+- [FanDuel API](https://fanduelapi.com) `https://fanduelapi.com/api/mcp`
+  [![FanDuel API MCP connector](https://glama.ai/mcp/connectors/com.fanduelapi/server/badges/score.svg)](https://glama.ai/mcp/connectors/com.fanduelapi/server)
+  🔓 - Unofficial FanDuel Sportsbook data: player props, game lines, line-move history, EV and arbitrage.
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
   🔓 - Results, fixtures, tables, goal timing and season projections for 93 football leagues, lower divisions included.
