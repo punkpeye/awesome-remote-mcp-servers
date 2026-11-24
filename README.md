@@ -3306,6 +3306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Jobs Every Hour](https://jobseveryhour.com/) `https://jobseveryhour.com/mcp`
+  [![Jobs Every Hour MCP connector](https://glama.ai/mcp/connectors/com.jobseveryhour/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.jobseveryhour/jobs)
+  🔓 - Search open jobs read every hour from employers' own career pages, and read any one job in full.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
