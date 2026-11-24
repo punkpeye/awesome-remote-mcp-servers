@@ -3661,6 +3661,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Patlas](https://patlas.dev) `https://patlas.dev/mcp`
   [![Patlas MCP connector](https://glama.ai/mcp/connectors/dev.patlas/patlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.patlas/patlas)
   🔐 - Patent prior-art search over USPTO and EPO data, claim comparison, and codebase scans for patentable tech.
+- [Prawnet](https://prawnet.pl) `https://api.prawnet.pl/mcp`
+  [![Prawnet MCP connector](https://glama.ai/mcp/connectors/pl.prawnet.api/prawnet-polish-case-law-and-legislation/badges/score.svg)](https://glama.ai/mcp/connectors/pl.prawnet.api/prawnet-polish-case-law-and-legislation)
+  🔓 - Search Polish court rulings and legislation, verify cited case numbers and get outcome statistics.
 - [Precleared](https://precleared.dev) `https://precleared.dev/mcp`
   [![Precleared MCP connector](https://glama.ai/mcp/connectors/dev.precleared/contact-check/badges/score.svg)](https://glama.ai/mcp/connectors/dev.precleared/contact-check)
   🔓 - Checks if a cold marketing email to one address is allowed under UK, US, Canadian, German or French law, with a receipt.
