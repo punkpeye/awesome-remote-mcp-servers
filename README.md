@@ -6516,6 +6516,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nunify](https://www.nunify.com) `https://app.nunify.com/mcp`
   [![Nunify MCP connector](https://glama.ai/mcp/connectors/com.nunify.app/nunify/badges/score.svg)](https://glama.ai/mcp/connectors/com.nunify.app/nunify)
   🔐 - Connects AI assistants to Nunify for event-data retrieval and event-management operations through MCP.
+- [Open Flow](https://openflow.run/en/install/mcp/) `https://open-flow.oomol.com/v1/mcp`
+  🔑 - Author, edit, validate, run, and approve visual workflows across 1,700+ app integrations from coding agents (Claude Code, Codex, Cursor, ChatGPT).
 - [Offpeak](https://offpeak.fyi) `https://offpeak.fyi/mcp`
   [![Offpeak MCP connector](https://glama.ai/mcp/connectors/io.github.vicentesurraco/offpeak/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicentesurraco/offpeak)
   🔓 - Search US jobs by driving commute, pay and seniority; optional OAuth sign-in saves jobs and searches.
