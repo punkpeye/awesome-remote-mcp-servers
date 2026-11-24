@@ -5208,6 +5208,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datacircle](https://datacircle.dev) `https://api.datacircle.dev/mcp`
   [![Datacircle MCP connector](https://glama.ai/mcp/connectors/dev.datacircle/datacircle/badges/score.svg)](https://glama.ai/mcp/connectors/dev.datacircle/datacircle)
   🔓 - Find the best GTM APIs: list every API, see who is best for each, search every plan. Free, no key.
+- [Datapika](https://datapika.com) `https://mcp.apify.com/?tools=fetch-actor-details,openclawai/job-board-scraper,openclawai/linkedin-jobs-scraper,openclawai/reddit-scraper,openclawai/tiktok-douyin-bilibili-scraper,openclawai/airbnb-scraper,openclawai/career-site-ats-jobs-scraper,openclawai/google-maps-scraper,openclawai/meta-ad-library-scraper,openclawai/google-flights-scraper,openclawai/threads-scraper,openclawai/tiktok-shop-scraper,openclawai/google-ads-transparency-scraper,openclawai/kuaishou-scraper,openclawai/hotel-rental-scraper,openclawai/indeed-ziprecruiter-scraper,openclawai/wechat-scraper,openclawai/youtube-video-scraper,openclawai/trustpilot-reviews-scraper,openclawai/bilibili-scraper`
+  [![Datapika MCP connector](https://glama.ai/mcp/connectors/io.github.lnvestor/datapika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnvestor/datapika)
+  🔐 - Live public web data as tools: jobs from 6 boards, Reddit posts and comments, TikTok and YouTube, Trustpilot reviews, Meta and Google ads, Google Maps, Airbnb, hotels and flights; pay per result.
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
