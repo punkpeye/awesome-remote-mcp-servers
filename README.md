@@ -453,6 +453,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Consignatarias](https://www.consignatarias.com.ar) `https://www.consignatarias.com.ar/api/mcp`
   [![Consignatarias MCP connector](https://glama.ai/mcp/connectors/ar.com.consignatarias/cattle-market/badges/score.svg)](https://glama.ai/mcp/connectors/ar.com.consignatarias/cattle-market)
   🔓 - Argentine cattle market: daily steer index since 2015, category prices, land values and SENASA health rules.
+- [SpeedyDrone](https://agr.speedydrone.ca) `https://agr.speedydrone.ca/mcp`
+  [![SpeedyDrone MCP connector](https://glama.ai/mcp/connectors/ca.speedydrone.agr/site/badges/score.svg)](https://glama.ai/mcp/connectors/ca.speedydrone.agr/site)
+  🔓 - Canadian ag drone guides and calculators: spray job cost, buy-or-hire break-even acres and order-by dates.
 - [upCampo](https://suporte.upcampo.com.br/mcp/) `https://mcp.upcampo.com.br/mcp`
   [![upCampo MCP connector](https://glama.ai/mcp/connectors/br.com.upcampo/upi/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.upcampo/upi)
   🔐 - Farm management for Brazil: pest scouting, work orders, inventory, fleet and cost per field.
