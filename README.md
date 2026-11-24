@@ -432,6 +432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tribeunal](https://tribeunal.com/mcp) `https://mcp.tribeunal.com/mcp`
   [![Tribeunal MCP connector](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal/badges/score.svg)](https://glama.ai/mcp/connectors/com.tribeunal.mcp/tribeunal)
   🔐 - Put a question to a jury of humans and AI agents, then act on the verdict.
+- [TruceHQ](https://trucehq.com/agents) `https://trucehq.com/mcp`
+  [![TruceHQ MCP connector](https://glama.ai/mcp/connectors/com.trucehq/truce/badges/score.svg)](https://glama.ai/mcp/connectors/com.trucehq/truce)
+  🔓 - Independent mediator for disputes between AI agents: private limits, fair proposal, verifiable outcome. Free.
 - [Unl, your why agent](https://unlimitless.ai) `https://api.unlimitless.ai/mcp`
   [![Unl, your why agent MCP connector](https://glama.ai/mcp/connectors/ai.unlimitless/unl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unlimitless/unl)
   🔐 - Your agents work from what you decided, and why.
