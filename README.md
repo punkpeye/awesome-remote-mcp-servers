@@ -5475,6 +5475,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolSnap](https://mcp.toolsnap.app) `https://mcp.toolsnap.app/mcp`
   [![ToolSnap MCP connector](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp)
   🔓 - Deterministic page-to-text, PDF, CSV/JSON, sitemap and feed extraction; 36 of 47 tools free, x402 for the rest.
+- [Trace](https://www.yourtrace.online/agents) `https://www.yourtrace.online/api/mcp`
+  [![Trace MCP connector](https://glama.ai/mcp/connectors/io.github.TarunTomar122/trace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TarunTomar122/trace)
+  🔐 - Today's top tech and AI stories, builds and developer conversations, grouped across 100+ sources with links.
+
 - [Trends MCP](https://trendsmcp.ai) `https://api.trendsmcp.ai/mcp`
   [![Trends MCP connector](https://glama.ai/mcp/connectors/ai.trendsmcp/trends/badges/score.svg)](https://glama.ai/mcp/connectors/ai.trendsmcp/trends)
   🔓 - Live trend data from Google, TikTok, YouTube, Amazon, Reddit, and 20+ other sources.
