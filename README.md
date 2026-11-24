@@ -4727,6 +4727,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Joxo](https://joxo.ai) `https://joxo.ai/api/mcp`
   [![Joxo MCP connector](https://glama.ai/mcp/connectors/ai.joxo/joxo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.joxo/joxo)
   🔐 - Shared tasks, handoffs and decisions for your team and its AI coding agents.
+- [JustRoadmap](https://www.justroadmap.io/developers) `https://www.justroadmap.io/mcp`
+  [![JustRoadmap MCP connector](https://glama.ai/mcp/connectors/io.justroadmap/justroadmap/badges/score.svg)](https://glama.ai/mcp/connectors/io.justroadmap/justroadmap)
+  🔐 - Connect AI clients to a JustRoadmap account to list, read, and update workspaces, roadmaps, lanes, and items.
 - [Kaiku](https://kaiku.tech/en/docs/mcp) `https://mcp.kaiku.tech/mcp`
   [![Kaiku MCP connector](https://glama.ai/mcp/connectors/tech.kaiku.mcp/kaiku/badges/score.svg)](https://glama.ai/mcp/connectors/tech.kaiku.mcp/kaiku)
   🔓 - Issue tracker with a wiki for people and AI agents: search, file and update issues, comment, read and write pages.
