@@ -1898,6 +1898,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Panda Greetings](https://www.pandagreetings.com/ai-assistants) `https://www.pandagreetings.com/mcp/designs`
   [![Panda Greetings MCP connector](https://glama.ai/mcp/connectors/com.pandagreetings/cards/badges/score.svg)](https://glama.ai/mcp/connectors/com.pandagreetings/cards)
   🔓 - Greeting card designs with your message inside, each linking to order it printed and mailed in the US.
+- [PeakRoam](https://superboutdoorco.com) `https://superboutdoorco.com/mcp`
+  [![PeakRoam MCP connector](https://glama.ai/mcp/connectors/com.superboutdoorco/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.superboutdoorco/site)
+  🔓 - Bulk buying guides for event chairs, tables, canopies, tents and campground gear; ask a wholesale specialist.
 - [PedalBro](https://pedalbro.com/mcp) `https://api.pedalbro.com/mcp`
   [![PedalBro MCP connector](https://glama.ai/mcp/connectors/com.pedalbro/pedalbro/badges/score.svg)](https://glama.ai/mcp/connectors/com.pedalbro/pedalbro)
   🔓 - Guitar pedal specs, new and used prices, 90-day price history, review scores, pedalboard checks and buying guides.
