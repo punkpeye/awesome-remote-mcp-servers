@@ -1974,10 +1974,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VRAMGlass](https://vramglass.com/mcp) `https://mcp.vramglass.com/mcp`
   [![VRAMGlass MCP connector](https://glama.ai/mcp/connectors/com.vramglass/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vramglass/mcp)
   🔐 - GPU, AI workstation and DDR4/DDR5 asking prices on eBay, Xianyu and Amazon Japan, plus which local LLMs fit which GPU.
+- [Wintraits](https://wintraits.com/agentes?o=mcp-remote) `https://wintraits.com/mcp`
+  [![Wintraits MCP connector](https://glama.ai/mcp/connectors/com.wintraits/wintraits/badges/score.svg)](https://glama.ai/mcp/connectors/com.wintraits/wintraits)
+  🔓 - Attributes that set Amazon best sellers apart, by category, and a check of your listing against them; no key needed.
 - [work-access-tools](https://work-access-platform.bfurrow26.workers.dev/?utm_source=punkpeye_awesome&utm_medium=directory&utm_campaign=reach_001) `https://work-access-platform.bfurrow26.workers.dev/mcp/c/punkpeye`
   [![work-access-tools MCP connector](https://glama.ai/mcp/connectors/dev.workers.bfurrow26.work-access-platform/work-access-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.bfurrow26.work-access-platform/work-access-tools)
   🔓 - Verified product categorization for Shopify/Google taxonomies, package checks and locks; free tier, no signup.
-
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
