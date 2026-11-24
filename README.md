@@ -3804,6 +3804,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
+- [Soycasero](https://soycasero.es/en/asistente-ia) `https://soycasero.es/api/mcp`
+  [![Soycasero MCP connector](https://glama.ai/mcp/connectors/es.soycasero/soycasero/badges/score.svg)](https://glama.ai/mcp/connectors/es.soycasero/soycasero)
+  🔐 - Long-term rentals in Spain for private landlords: upload the lease, get deadlines, IRAV/IPC rent update previews and message drafts for the tenant.
 - [Tenantback](https://tenantback.com) `https://tenantback.com/mcp`
   [![Tenantback MCP connector](https://glama.ai/mcp/connectors/com.tenantback/cam-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenantback/cam-audit)
   🔓 - Audits a landlord's CAM reconciliation against the commercial lease; cites the clause behind each overcharge.
