@@ -3880,6 +3880,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
+- [Epovest](https://epovest.com) `https://mcp.epovest.com/mcp`
+  [![Epovest MCP connector](https://glama.ai/mcp/connectors/com.epovest/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.epovest/ai-visibility)
+  🔐 - Measure how AI assistants answer your market's questions and which sources they cite, then improve your visibility.
 - [ExtensionDash](https://extensiondash.com/) `https://extensiondash.com/mcp`
   [![ExtensionDash MCP connector](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard)
   🔓 - Research Chrome and Firefox extension catalogs as a guest; OAuth unlocks your listing and keyword tracking.
