@@ -3252,6 +3252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
+- [Holos33](https://holos33.com) `https://mcp.holos33.com/mcp`
+  [![Holos33 MCP connector](https://glama.ai/mcp/connectors/com.holos33/holos33/badges/score.svg)](https://glama.ai/mcp/connectors/com.holos33/holos33)
+  🔓 - Read-only sourced facts on Holos33 modules, Early Access, privacy, access and contact.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
