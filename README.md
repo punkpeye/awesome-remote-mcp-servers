@@ -826,6 +826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [while.sh](https://while.sh/en/) `https://app.while.sh/mcp`
   [![while.sh MCP connector](https://glama.ai/mcp/connectors/sh.while/while/badges/score.svg)](https://glama.ai/mcp/connectors/sh.while/while)
   🔐 - French PaaS built for AI agents: deploy apps, PostgreSQL, caches, S3 and jobs over MCP.
+- [workerfuse](https://workerfuse.com/developers) `https://workerfuse.com/mcp`
+  [![workerfuse MCP connector](https://glama.ai/mcp/connectors/com.workerfuse/workerfuse/badges/score.svg)](https://glama.ai/mcp/connectors/com.workerfuse/workerfuse)
+  🔐 - Read per-Worker Cloudflare spend estimates, then pause or resume a runaway Worker while the rest keep running.
   
 ### 💬 <a name="communication"></a>Communication
 
