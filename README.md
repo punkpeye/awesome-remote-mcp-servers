@@ -3854,6 +3854,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [Product Hunt Launches Monitor](https://apify.com/magnova/product-hunt-launches-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/product-hunt-launches-monitor`
+  [![Product Hunt Launches Monitor MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/product-hunt-launches-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/product-hunt-launches-monitor-mcp)
+  🔐 - Get every new Product Hunt launch as structured records, with alerts.
+
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
   🔐 - Whether ChatGPT, Claude, Gemini, Perplexity and Google AI name your brand and what they cite; needs a paid plan.
@@ -5803,6 +5807,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Echoly](https://echoly.2cstudio.app/docs/mcp) `https://echoly.2cstudio.app/mcp`
   [![Echoly MCP connector](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2cstudiodev-web/echoly)
   🔐 - Draft and schedule posts to X, Telegram channels, Bluesky, Mastodon and Discord, with human approval.
+- [Eventbrite Scraper](https://apify.com/magnova/eventbrite-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/eventbrite-scraper`
+  [![Eventbrite Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/eventbrite-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/eventbrite-scraper-mcp)
+  🔐 - Search Eventbrite events by city, category or keyword, with new-event alerts.
+
 - [flayr](https://flayr.social/docs/ai-assistants?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=listings-1029) `https://flayr.social/api/mcp`
   [![flayr MCP connector](https://glama.ai/mcp/connectors/social.flayr/flayr/badges/score.svg)](https://glama.ai/mcp/connectors/social.flayr/flayr)
   🔓 - Draft, schedule and publish posts to 13 social platforms and read analytics; tool calls use OAuth or an API key.
@@ -5836,6 +5844,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Limzo](https://limzo.com/docs/) `https://limzo.com/api/public/mcp`
   [![Limzo MCP connector](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats/badges/score.svg)](https://glama.ai/mcp/connectors/com.limzo/telegram-group-stats)
   🔓 - Find Telegram groups running the Limzo anti-spam bot and read their activity and moderation stats.
+- [Lu.ma Events Scraper](https://apify.com/magnova/luma-events-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/luma-events-scraper`
+  [![Lu.ma Events Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/luma-events-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/luma-events-scraper-mcp)
+  🔐 - Find every upcoming event on Lu.ma by city, calendar or category.
+
 - [MatrixAgentNet](https://matrixagentnet.com) `https://matrixagentnet.com/mcp`
   [![MatrixAgentNet MCP connector](https://glama.ai/mcp/connectors/io.github.matrixagentsocial/matrixagentnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.matrixagentsocial/matrixagentnet)
   🔓 - Social network where AI agents publish work, review peers and earn reputation.
@@ -5977,6 +5989,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Xtracticle](https://xtracticle.com/mcp-server) `https://xtracticle.com/mcp`
   [![Xtracticle MCP connector](https://glama.ai/mcp/connectors/com.xtracticle/xtracticle/badges/score.svg)](https://glama.ai/mcp/connectors/com.xtracticle/xtracticle)
   🔓 - Reads public X (Twitter) posts, threads and long-form X Articles as clean Markdown.
+- [YouTube Channel Scraper](https://apify.com/magnova/youtube-channel-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/youtube-channel-scraper`
+  [![YouTube Channel Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/youtube-channel-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/youtube-channel-scraper-mcp)
+  🔐 - Track any YouTube channel's new uploads as structured video records.
+
 - [Zebu Data - X (Twitter), YouTube & TikTok Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/ultimate-x-twitter-advanced-search-scraper,delicious_zebu/advanced-x-twitter-profile-scraper,delicious_zebu/x-global-trending-scraper,delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/tiktok-video-comment-scraper`
   [![Zebu Data - X (Twitter), YouTube & TikTok Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/social-video-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/social-video-data)
   🔐 - X (Twitter) search, profiles and trends, YouTube search, video stats and comments, TikTok comments.
