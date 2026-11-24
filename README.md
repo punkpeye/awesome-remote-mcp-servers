@@ -4765,6 +4765,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
+- [Timix.AI](https://timix.ai/use-cases/mcp-time-tracking-server) `https://api.timix.ai/api/integration/v1/mcp`
+  [![Timix.AI MCP connector](https://glama.ai/mcp/connectors/ai.timix/time-tracking/badges/score.svg)](https://glama.ai/mcp/connectors/ai.timix/time-tracking)
+  🔓 🔐 - Log time, run timers, approve timesheets and report unbilled hours and budgets; tool calls need OAuth sign-in.
 - [TrackingTime](https://trackingtime.co) `https://mcp.trackingtime.co/mcp`
   [![TrackingTime MCP connector](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TrackingTime/mcp-server)
   🔐 - Start and stop timers, log time and report on hours, projects, tasks and customers.
