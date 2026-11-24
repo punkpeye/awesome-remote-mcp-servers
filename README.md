@@ -4493,6 +4493,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phoenix Labs](https://phoenixlabs.space/developers) `https://api.phoenixlabs.space/mcp`
   [![Phoenix Labs MCP connector](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thekillsquad007/phoenix-labs)
   🔐 - Restore old video and turn stills into clips with sound; you approve a spending limit, top-ups by card or USDC.
+- [Photoproduct.io](https://photoproduct.io) `https://photoproduct.io/mcp`
+  [![Photoproduct.io MCP connector](https://glama.ai/mcp/connectors/io.photoproduct/photoproduct/badges/score.svg)](https://glama.ai/mcp/connectors/io.photoproduct/photoproduct)
+  🔐 - Make images, video, music and voiceovers with more than 1,000 generation models.
 - [Pixly](https://pixly.app) `https://pixly.app/api/mcp`
   [![Pixly MCP connector](https://glama.ai/mcp/connectors/app.pixly/pixly/badges/score.svg)](https://glama.ai/mcp/connectors/app.pixly/pixly)
   🔓 - Stage, declutter, and enhance real-estate listing photos, and turn them into listing videos.
