@@ -3897,7 +3897,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
 - [GatherHQ](https://synthetic.gatherhq.com/docs/reports-mcp) `https://synthetic.gatherhq.com/api/v1/mcp`
   [![GatherHQ MCP connector](https://glama.ai/mcp/connectors/com.gatherhq.synthetic/research-reports/badges/score.svg)](https://glama.ai/mcp/connectors/com.gatherhq.synthetic/research-reports)
-  🔐 - Turn a business question into a customer research report from simulated interviews.
+  🔓 - Turn a business question into a customer research report from simulated interviews.
 - [GEO Audit](https://geo-al6bxcngia-ue.a.run.app) `https://geo-al6bxcngia-ue.a.run.app/mcp`
   [![GEO Audit MCP connector](https://glama.ai/mcp/connectors/app.run.a.geo-al6bxcngia-ue/geo-audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.run.a.geo-al6bxcngia-ue/geo-audit)
   🔓 - Scores any URL's AI-search visibility across 20 weighted checks, with fixes; $1.50/call via x402 plus a free lite tier.
