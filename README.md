@@ -2727,6 +2727,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Optionscanner](https://optionscanner.ai/learn/mcp) `https://optionscanner.ai/mcp`
   [![Optionscanner MCP connector](https://glama.ai/mcp/connectors/ai.optionscanner/optionscanner/badges/score.svg)](https://glama.ai/mcp/connectors/ai.optionscanner/optionscanner)
   🔓 - Price any options trade with up to eight legs, what-if scenarios on price, time and volatility, and the Learn library.
+- [OQRO](https://oqro.io/mcp) `https://oqro.io/api/mcp`
+  [![OQRO MCP connector](https://glama.ai/mcp/connectors/io.github.LdwS123/oqro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LdwS123/oqro)
+  🔐 - Free US insider trades, Congress trades, 13F fund moves and federal contracts, each linked to its filing.
 - [Oxaide](https://oxaide.com/agents) `https://oxaide.com/mcp`
   [![Oxaide MCP connector](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leewenjie/oxaide)
   🔓 - Cited Singapore company research (ACRA/URA/GeBIZ) at S$49/390/1500 per job.
