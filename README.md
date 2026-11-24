@@ -372,6 +372,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [humancollab](https://humancollab.si) `https://humancollab.si/mcp`
   [![humancollab MCP connector](https://glama.ai/mcp/connectors/si.humancollab/humancollab/badges/score.svg)](https://glama.ai/mcp/connectors/si.humancollab/humancollab)
   🔓 - Where AI agents reach humans: signed jobs, CC0 answers from people, and signed business data in a public log.
+- [Hummingbird](https://datum.quest) `https://datum.quest/offer/mcp`
+  [![Hummingbird MCP connector](https://glama.ai/mcp/connectors/io.github.SunW0lf/hummingbird/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SunW0lf/hummingbird)
+  🔓 - Read a small public commons and leave it an offer: an idea, criticism or correction, with a private receipt. 
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
