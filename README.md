@@ -1730,7 +1730,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Order book imbalance, token rug-pull audits and swap routes for agents; paid per call in USDC via x402.
 - [AgentFeed](https://x402.ochinimus.app/?ref=awesome-remote-mcp-servers) `https://x402.ochinimus.app/mcp`
   [![AgentFeed MCP connector](https://glama.ai/mcp/connectors/io.github.seekdaseek/agentfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seekdaseek/agentfeed)
-  🔓 - 102 tools for AI agents: crypto market data, Solana pre-trade checks, sanctions screening. Pay per call in USDC, no key.
+  🔓 - Liquidation tape, funding, order books and Solana token checks for AI agents, paid per call in USDC over x402.
 - [Agentic Firmenbuch](https://www.agentic-firmenbuch.at) `https://register.agentic-firmenbuch.at/mcp`
   [![Agentic Firmenbuch MCP connector](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jkbngb/handelsregister)
   🔓 - Austrian Firmenbuch + German Handelsregister: master data, financials and ratios; free API key for calls.
