@@ -3037,6 +3037,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
   🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
 
+- [zato Ethereum & Base Data](https://api.zato.org/quickstart) `https://api.zato.org/mcp`
+  [![zato Ethereum & Base Data MCP connector](https://glama.ai/mcp/connectors/org.zato.api/apizatoorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.zato.api/apizatoorg)
+  🔓 - Ethereum and Base reads: block, ERC-20 balances, supply, transfers, ENS, txs; from $0.0005 via x402.
 - [Zolva](https://zolvaagent.app/docs/mcp) `https://zolvaagent.app/mcp`
   [![Zolva MCP connector](https://glama.ai/mcp/connectors/app.zolvaagent/zolva/badges/score.svg)](https://glama.ai/mcp/connectors/app.zolvaagent/zolva)
   🔓 - Trading agents on Robinhood Chain: each hourly buy, sell or hold with its reason, plus stock token and crypto prices.
