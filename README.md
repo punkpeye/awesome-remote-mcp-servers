@@ -5045,6 +5045,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Papers by Ouroboros](https://ouroborosapps.com/docs/papers) `https://papers-mcp.vercel.app/mcp`
   [![Papers by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers)
   🔓 - Research paper search with citations from OpenAlex, Semantic Scholar, PubMed, Crossref and arXiv.
+- [PaperVantage](https://papervantage.com/connect/mcp) `https://mcp.papervantage.com/mcp`
+  [![PaperVantage MCP connector](https://glama.ai/mcp/connectors/com.papervantage/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.papervantage/mcp)
+  🔐 - Search arXiv papers by meaning across full text, read transcripts, explore citations and save exact-quote evidence.
 - [PartsPlan](https://partsplanai.com/en) `https://worker.partsplanai.com/mcp`
   [![PartsPlan MCP connector](https://glama.ai/mcp/connectors/io.github.bboinzg-dev/partsplan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bboinzg-dev/partsplan)
   🔐 - Manufacturer datasheet pages, tables, graphs and drawings for AI circuit design, cited by page.
