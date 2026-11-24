@@ -2327,6 +2327,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bitquery](https://bitquery.io/products/bitquery-mcp-server) `https://mcp.bitquery.io`
   [![Bitquery MCP connector](https://glama.ai/mcp/connectors/io.bitquery/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.bitquery/mcp)
   🔐 - Crypto investigations and trading data: fund tracing, address labels, AML risk, DEX trades, OHLCV and trader PnL.
+- [BizStats.me](https://bizstats.me/en/api/) `https://api.bizstats.me/mcp`
+  [![BizStats.me MCP connector](https://glama.ai/mcp/connectors/me.bizstats/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.bizstats/mcp)
+  🔓 - Montenegro company financial statements, CRPS registry data, public tenders, and state treasury payments.
 - [BlazePhoenix](https://blazephoenix.xyz) `https://blazephoenix.xyz/mcp`
   [![BlazePhoenix MCP connector](https://glama.ai/mcp/connectors/xyz.blazephoenix/blaze-phoenix-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.blazephoenix/blaze-phoenix-mcp)
   🔓 - Quotes and verified swap calldata for an on-chain DEX aggregator, computed on your own RPC.
