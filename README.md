@@ -4170,7 +4170,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
 - [SwipeHarbor](https://swipeharbor.com/mcp) `https://swipeharbor.com/mcp`
   [![SwipeHarbor MCP connector](https://glama.ai/mcp/connectors/com.swipeharbor/swipeharbor/badges/score.svg)](https://glama.ai/mcp/connectors/com.swipeharbor/swipeharbor)
-  🔐 - Search NewsBreak, Rumble and YouTube ads with recorded funnels, Rumble transcripts and saved collections.
+  🔓 - Search NewsBreak, Rumble and YouTube ads with funnels, transcripts and saved collections; paid plan for tool calls.
 - [Syl Guardian](https://sylai.io/guardian) `https://guardian.sylai.io/mcp`
   [![Syl Guardian MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.sylai/guardian/badges/score.svg)](https://glama.ai/mcp/connectors/io.sylai/guardian)
   🔓 - Check that an AI agent's claimed effect is causal before it acts. Free API key needed for tool calls.
