@@ -4843,6 +4843,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hercules](https://hercules.properties/integrations/mcp) `https://app.hercules.properties/mcp`
   [![Hercules MCP connector](https://glama.ai/mcp/connectors/properties.hercules/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/properties.hercules/property-data)
   🔓 - NYC and US property records: owners, LLC lookups, portfolios, mortgages, NYC pre-foreclosures and investor searches.
+- [Homedex](https://homedex.uk) `https://api.homedex.uk/mcp`
+  [![Homedex MCP connector](https://glama.ai/mcp/connectors/uk.homedex/homedex/badges/score.svg)](https://glama.ai/mcp/connectors/uk.homedex/homedex)
+  🔓 - Free, rate-limited search of UK homes for sale and to let from estate agents' sites, plus HM Land Registry sold prices.
 - [Homesage.ai](https://homesage.ai/products/real-estate-mcps/) `https://api.homesage.ai/mcp`
   [![Homesage.ai MCP connector](https://glama.ai/mcp/connectors/ai.homesage.api/homesageai-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.homesage.api/homesageai-mcp)
   🔐 - US property values, comps, rent, rehab costs, flip returns and owner of record for 160M+ properties.
