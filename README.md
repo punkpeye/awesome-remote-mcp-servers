@@ -5339,6 +5339,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [No Stairs Please](https://nostairsplease.com) `https://nostairsplease.com/mcp`
   [![No Stairs Please MCP connector](https://glama.ai/mcp/connectors/com.nostairsplease/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.nostairsplease/mcp)
   🔓 - Search 4,300+ under-400-capacity North American live music venues, booking contacts, and tour routing.
+- [OCRRouter](https://ocrrouter.ai) `https://api.ocrrouter.ai/v1/mcp`
+  [![OCRRouter MCP connector](https://glama.ai/mcp/connectors/ai.ocrrouter/ocrrouter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ocrrouter/ocrrouter)
+  🔑 - OCR PDFs and images to Markdown or JSON, routed across 13 OCR models; Jina and DeepSeek OCR are free.
 - [Octocrawl](https://octocrawl.dev/?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://mcp.octocrawl.dev/mcp`
   [![Octocrawl MCP connector](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.77777R7/octocrawl)
   🔓 - Scrape pages to Markdown with an evidence record and map a site's URLs; blocked pages are reported, not hidden.
