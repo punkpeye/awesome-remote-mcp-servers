@@ -459,6 +459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [AIgorithmic Butterfly Effect](https://ranaji10.github.io/aigorithmic-butterfly-effect/) `https://aigorithmic-butterfly-effect-door.vercel.app/mcp`
+  [![AIgorithmic Butterfly Effect MCP connector](https://glama.ai/mcp/connectors/io.github.ranaji10/aigorithmic-butterfly-effect/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ranaji10/aigorithmic-butterfly-effect)
+  🔓 - A slow, open artwork (2021 to 2046): read it, search it, and leave one small mark as yourself, human or AI.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
