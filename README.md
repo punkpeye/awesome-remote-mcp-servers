@@ -5241,6 +5241,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forever In Our Hearts](https://foreverinourhearts.co/mcp) `https://mcp.foreverinourhearts.co/mcp`
   [![Forever In Our Hearts MCP connector](https://glama.ai/mcp/connectors/co.foreverinourhearts/memorials/badges/score.svg)](https://glama.ai/mcp/connectors/co.foreverinourhearts/memorials)
   🔓 - Search public online memorials, funeral notices and partner funeral homes, with links to each page.
+- [FounderStack Africa](https://founderstackafrica.com/use-with-ai) `https://founderstackafrica.com/mcp`
+  [![FounderStack Africa MCP connector](https://glama.ai/mcp/connectors/com.founderstackafrica/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.founderstackafrica/directory)
+  🔓 - African startup tools, funding programmes and company data by country, category, sector and funding stage.
 - [Fresh402](https://fresh402.kirilllabs.workers.dev/) `https://fresh402.kirilllabs.workers.dev/mcp`
   [![Fresh402 MCP connector](https://glama.ai/mcp/connectors/io.github.kirillradchenko96/fresh402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kirillradchenko96/fresh402)
   🔓 - Public web checks, extraction, structural and OpenAPI diffs. Free baseline; paid calls use x402 USDC on Base.
