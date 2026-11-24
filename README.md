@@ -5012,6 +5012,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FERS: structural finite-element analysis](https://ferscloud.com/mcp) `https://ferscloud.com/api/mcp`
   [![FERS: structural finite-element analysis MCP connector](https://glama.ai/mcp/connectors/com.ferscloud/fers/badges/score.svg)](https://glama.ai/mcp/connectors/com.ferscloud/fers)
   🔐 - Builds and checks structural FE models (beams, frames, trusses, plates, Eurocode 3) that solve in your browser.
+- [GenesisCore Astrology](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/developers) `https://genesis-astro-guide-r2owtywexa-an.a.run.app/mcp`
+  [![GenesisCore Astrology MCP connector](https://glama.ai/mcp/connectors/io.github.AETHER-CORE1219/genesis-astro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AETHER-CORE1219/genesis-astro)
+  🔓 - Western and Vedic astrology math: planet signs, nakshatra, Ascendant/Lagna, retrograde and sign-ingress dates.
 - [Ithy Research Library](https://ithy.com/connect) `https://ithy.com/mcp`
   [![Ithy Research Library MCP connector](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library/badges/score.svg)](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library)
   🔓 - Search and read public AI-assisted articles with source links and original/revision dates; no login or generation.
