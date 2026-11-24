@@ -2497,6 +2497,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
+- [Futures Clock](https://futuresclock.com/en/mcp/) `https://mcp.futuresclock.com/mcp`
+  [![Futures Clock MCP connector](https://glama.ai/mcp/connectors/com.futuresclock/china-futures/badges/score.svg)](https://glama.ai/mcp/connectors/com.futuresclock/china-futures)
+  🔓 - China futures trading days, night-session dates, session hours, expiries and exchange rule changes.
 - [FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers&utm_content=readme) `https://mcp.fxmacrodata.com`
   [![FXMacroData MCP connector](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fxmacrodata/fxmacrodata)
   🔓 - Official macro releases and calendars: public USD data, with an optional API key for broader coverage.
