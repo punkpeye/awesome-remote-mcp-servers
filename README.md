@@ -3135,18 +3135,27 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
+- [Chess Sim](https://chess-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://chess-sim.fmf-x402.workers.dev/mcp`
+  [![Chess Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/chess-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/chess-sim)
+  🔓 - Forced-mate search, a lightweight best-move, and free opening names and position checks.
 - [Chessigma](https://www.chessigma.com/developers/mcp) `https://www.chessigma.com/api/mcp`
   [![Chessigma MCP connector](https://glama.ai/mcp/connectors/com.chessigma/chessigma/badges/score.svg)](https://glama.ai/mcp/connectors/com.chessigma/chessigma)
   🔓 - Chess opening guides, FEN and PGN checks, the daily puzzle, Elo estimates and Chess.com or Lichess game review links.
 - [Creative Cult](https://creativecult.digital) `https://creativecult.digital/mcp`
   [![Creative Cult MCP connector](https://glama.ai/mcp/connectors/digital.creativecult/research/badges/score.svg)](https://glama.ai/mcp/connectors/digital.creativecult/research)
   🔓 - Player-review data on new video games: daily recommend share, findings, best-of lists and a release calendar.
+- [CS2 Sim](https://cs2-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://cs2-sim.fmf-x402.workers.dev/mcp`
+  [![CS2 Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/cs2-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/cs2-sim)
+  🔓 - Counter-Strike 2 economy tools: loss bonus, buy or eco advice, and half simulation, plus free money rules.
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
 - [Diogenes EVE: Frontier](https://diogenesgateway.com/#eve-frontier) `https://diogenesgateway.com/mcp/eve-frontier`
   [![Diogenes EVE: Frontier MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp)
   🔓 - 14 Sui Move smart assembly development engines, smart gate route planner, and capacitor optimizer.
+- [Dota 2 Sim](https://dota2-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://dota2-sim.fmf-x402.workers.dev/mcp`
+  [![Dota 2 Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/dota2-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/dota2-sim)
+  🔓 - Dota 2 right-click duel simulation, build stats, EHP and DPS, plus free hero and item lookup.
 - [Elsewhere](https://elsewhereagents.com) `https://world.elsewhereagents.com/mcp?ref=awesome-remote`
   [![Elsewhere MCP connector](https://glama.ai/mcp/connectors/com.elsewhereagents/world/badges/score.svg)](https://glama.ai/mcp/connectors/com.elsewhereagents/world)
   🔐 - Persistent world for AI agents: explore, build, trade, research at the College and govern a city.
@@ -3162,9 +3171,21 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GAMES.GG](https://help.games.gg/en/articles/2048414-use-gamesgg-with-your-ai-assistant) `https://mcp.games.gg/mcp`
   [![GAMES.GG MCP connector](https://glama.ai/mcp/connectors/gg.games/games-gg/badges/score.svg)](https://glama.ai/mcp/connectors/gg.games/games-gg)
   🔐 - Game guides, reviews, news, deals and release dates, plus saved games and redeem code alerts.
+- [Hearthstone Sim](https://hearthstone-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://hearthstone-sim.fmf-x402.workers.dev/mcp`
+  [![Hearthstone Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/hearthstone-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/hearthstone-sim)
+  🔓 - Hearthstone mulligan odds, curve goldfish and draw odds, plus a free deck check.
+- [Lorcana Sim](https://lorcana-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://lorcana-sim.fmf-x402.workers.dev/mcp`
+  [![Lorcana Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/lorcana-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/lorcana-sim)
+  🔓 - Disney Lorcana goldfish, ink and draw odds, plus a free Core/Infinity deck check.
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
+- [MTG Sim](https://mtg-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://mtg-sim.fmf-x402.workers.dev/mcp`
+  [![MTG Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/mtg-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/mtg-sim)
+  🔓 - Magic: The Gathering goldfish and draw odds, plus a free deck check.
+- [One Piece Sim](https://onepiece-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://onepiece-sim.fmf-x402.workers.dev/mcp`
+  [![One Piece Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/onepiece-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/onepiece-sim)
+  🔓 - One Piece Card Game goldfish, DON!! and Life odds, plus a free Leader/50-card deck check.
 - [PC Game Price Broker](https://company.eloai.io) `https://company.eloai.io/mcp`
   [![PC Game Price Broker MCP connector](https://glama.ai/mcp/connectors/io.eloai.company/price-broker/badges/score.svg)](https://glama.ai/mcp/connectors/io.eloai.company/price-broker)
   🔓 - Lowest live price for any PC game across 13 stores, with every store price and the record low.
@@ -3225,6 +3246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [YesNoMystery](https://lateralthinkingpuzzles.org) `https://lateralthinkingpuzzles.org/api/mcp`
   [![YesNoMystery MCP connector](https://glama.ai/mcp/connectors/io.github.yesnomystery/yes-no-mystery-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yesnomystery/yes-no-mystery-mcp)
   🔓 - Play 1,000+ lateral thinking puzzles (turtle soup) in 12 languages with an AI yes/no host.
+- [Yu-Gi-Oh Sim](https://yugioh-sim.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://yugioh-sim.fmf-x402.workers.dev/mcp`
+  [![Yu-Gi-Oh Sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/yugioh-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/yugioh-sim)
+  🔓 - Yu-Gi-Oh! goldfish, combo and hand-trap odds, plus a free TCG/OCG/GOAT banlist deck check.
 - [ZeroMind](https://origozero.ai/mcp-server) `https://origozero.ai/mcp`
   [![ZeroMind MCP connector](https://glama.ai/mcp/connectors/ai.origozero/zeromind/badges/score.svg)](https://glama.ai/mcp/connectors/ai.origozero/zeromind)
   🔐 - Write and run Luau in the Zero 3D engine, place entities, take screenshots and publish a game that plays in a browser.
