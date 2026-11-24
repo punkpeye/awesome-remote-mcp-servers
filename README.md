@@ -1113,6 +1113,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Wix sites, business data, and bookings.
 
 ### 👤 <a name="crm"></a>CRM
+- [ActBook](https://actbookapp.com) `https://actbook.app/api/mcp`
+  [![ActBook MCP connector](https://glama.ai/mcp/connectors/io.github.semcycle/actbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.semcycle/actbook)
+  🔐 - Booking, CRM, contracts, invoicing, payments, texting and outreach for live-entertainment businesses (and any small business in Capture mode); 110+ tools.
 - [Atimeüs](https://www.atimeus.com/fonctionnalites-erp/ia-et-serveur-mcp) `https://atimeus.app/mcp`
   [![Atimeüs MCP connector](https://glama.ai/mcp/connectors/com.atimeus/atimeus/badges/score.svg)](https://glama.ai/mcp/connectors/com.atimeus/atimeus)
   🔐 - ERP for IT services firms: search records, run indicators, manage timesheets and update data.
