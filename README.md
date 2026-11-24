@@ -3689,6 +3689,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [1Alexander AI Visibility Tracker](https://1alexander.ai/ai-visibility-tracker) `https://1alexander.ai/ai-visibility-tracker/api/mcp`
+  [![1Alexander AI Visibility Tracker MCP connector](https://glama.ai/mcp/connectors/ai.1alexander/ai-visibility-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.1alexander/ai-visibility-tracker)
+  🔓 - Tracks whether ChatGPT, Gemini and Perplexity mention or cite your brand, with saved answers and cited URLs.
+
 - [402registry](https://402registry.com) `https://402registry.com/mcp`
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
