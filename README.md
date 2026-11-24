@@ -2147,6 +2147,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [quickS3](https://quicks3.com/s3-mcp-server/) `https://quicks3.com/mcp`
   [![quickS3 MCP connector](https://glama.ai/mcp/connectors/com.quicks3/quicks3/badges/score.svg)](https://glama.ai/mcp/connectors/com.quicks3/quicks3)
   🔐 - List, upload, download, and share files in S3, R2, B2, Wasabi, and Spaces buckets, scoped by delegated roles.
+- [Tarkle](https://tarkle.tech/docs/mcp) `https://mcp.tarkle.tech/mcp`
+  [![Tarkle MCP connector](https://glama.ai/mcp/connectors/tech.tarkle/tarkle/badges/score.svg)](https://glama.ai/mcp/connectors/tech.tarkle/tarkle)
+  🔐 - Upload, organize and share files and folders, and request documents from your team, clients and partners.
 - [Yungle](https://yungle.co/for/ai-agents) `https://yungle.co/mcp`
   [![Yungle MCP connector](https://glama.ai/mcp/connectors/co.yungle/yungle/badges/score.svg)](https://glama.ai/mcp/connectors/co.yungle/yungle)
   🔐 - Send files to people as download links, list transfers and read download receipts, hosted in the EU.
