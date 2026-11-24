@@ -1325,6 +1325,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConvertFileFast](https://www.convertfilefast.com) `https://mcp.convertfilefast.com/mcp`
   [![ConvertFileFast MCP connector](https://glama.ai/mcp/connectors/io.github.MLTCorp/convertfilefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MLTCorp/convertfilefast)
   🔓 - Convert documents, images and data files between formats, and merge, split, compress or protect PDFs.
+- [Copybook](https://copybook.page/mcp) `https://copybook.page/mcp/account`
+  [![Copybook MCP connector](https://glama.ai/mcp/connectors/page.copybook/copybook/badges/score.svg)](https://glama.ai/mcp/connectors/page.copybook/copybook)
+  🔓 - Search prompts, rules and skills for coding agents and get their exact text with where to paste it.
 - [Cuelark Tools](https://tools.cuelark.com/mcp) `https://tools.cuelark.com/mcp`
   [![Cuelark Tools MCP connector](https://glama.ai/mcp/connectors/com.cuelark/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.cuelark/tools)
   🔓 - Exact text and data tools: JSON, tokens, cron, dates, US tax, routing checks, and citations.
