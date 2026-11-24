@@ -5908,6 +5908,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
   🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
 
+- [Social Fanout](https://socialfanout.com) `https://socialfanout.com/mcp`
+  [![Social Fanout MCP connector](https://glama.ai/mcp/connectors/com.socialfanout/social-fanout/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialfanout/social-fanout)
+  🔐 - Publish one post to 10 networks, including Instagram, TikTok, X, LinkedIn and Bluesky, with a result per network.
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Scrape public social media profiles, posts, comments and transcripts, live on every request.
 - [SocialDataX Hongguo](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/hongguo/mcp`
