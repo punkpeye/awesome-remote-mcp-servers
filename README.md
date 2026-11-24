@@ -6636,6 +6636,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CAFE Saju & BaZi](https://24plus.ai.kr/partner/docs) `https://mcp.24plus.ai.kr/mcp`
   [![CAFE Saju & BaZi MCP connector](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp)
   🔓 - Korean Saju and Chinese BaZi (Four Pillars) charts, Five Elements, chart structure and a solar-term calendar.
+- [CARTESIAN ECU](https://cartesianecu.com/integrations/mcp/) `https://cartesianecu.com/mcp`
+  [![CARTESIAN ECU MCP connector](https://glama.ai/mcp/connectors/io.github.cartesianecu/cartesian-ecu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cartesianecu/cartesian-ecu-mcp)
+  🔐 - Check and repair the checksum of ECU and TCU (car control unit) flash files; needs a CARTESIAN ULTIMATE plan.
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
