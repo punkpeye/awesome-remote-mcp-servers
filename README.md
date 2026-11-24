@@ -3306,6 +3306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [SpaceJobs.Now](https://spacejobs.now/data) `https://spacejobs.now/api/mcp`
+  [![SpaceJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.spacejobs/spacejobs-now/badges/score.svg)](https://glama.ai/mcp/connectors/now.spacejobs/spacejobs-now)
+  🔓 - Search 21,000+ open space industry jobs and internships at 200+ space companies, with the pay each one posts.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
