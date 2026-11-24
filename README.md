@@ -2886,6 +2886,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Taiwan Market Open Data (Unofficial)](https://twse-mcp.taux.io/) `https://twse-mcp.taux.io/mcp`
   [![Taiwan Market Open Data MCP connector](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp)
   🔓 - Unofficial access to Taiwan Stock Exchange and Futures Exchange open data: stock, ETF and futures snapshots, live quotes and 275 datasets.
+- [Tally](https://tallycatalog.com) `https://tallycatalog.com/mcp`
+  [![Tally MCP connector](https://glama.ai/mcp/connectors/io.github.verkyyi/tally/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.verkyyi/tally)
+  🔓 - Company and open-source numbers with history and sources: valuations, revenue, prices, open roles, GitHub stars.
 - [Tapetide](https://tapetide.com/mcp) `https://mcp.tapetide.com/mcp`
   [![Tapetide MCP connector](https://glama.ai/mcp/connectors/com.tapetide/stock-research-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tapetide/stock-research-mcp)
   🔐 - Indian stock market research: NSE and BSE quotes, financials, 326-ratio screener, FII/DII flows, options and filings.
