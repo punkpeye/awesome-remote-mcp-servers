@@ -765,6 +765,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Publish a live website from an agent in one tool call, expiring or permanent, with human review hooks.
 - [Heroku](https://heroku.com) `https://mcp.heroku.com/mcp`
   🔐 - Manage Heroku apps, dynos, add-ons, and logs.
+- [Hypamoon](https://hypamoon.com/docs/mcp) `https://api.hypamoon.com/api/v1/mcp`
+  [![Hypamoon MCP connector](https://glama.ai/mcp/connectors/com.hypamoon/hypamoon/badges/score.svg)](https://glama.ai/mcp/connectors/com.hypamoon/hypamoon)
+  🔐 - Publish sites and apps with a database, take payments, send email from your domain, and connect your own software.
 - [kad.dev](https://kad.dev) `https://kad.dev/mcp`
   [![kad.dev MCP connector](https://glama.ai/mcp/connectors/dev.kad/kaddev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kad/kaddev)
   🔐 - Deploy and run web apps from an agent: live URL per commit, managed Postgres, S3 storage, logs, rollback.
