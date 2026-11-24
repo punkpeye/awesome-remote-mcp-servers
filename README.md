@@ -1956,6 +1956,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tiana & Co. Seller Compliance](https://www.tiana-co.com/for-ai) `https://www.tiana-co.com/api/mcp`
   [![Tiana & Co. Seller Compliance MCP connector](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks)
   🔓 - Which certificate (CPC, GCC, FCC, FDA), what marketplaces ask, supplier blacklists, customs holds.
+- [UK Drops Feed](https://uk-drops-feed.8bitbudgets.workers.dev) `https://uk-drops-feed.8bitbudgets.workers.dev/mcp`
+  [![UK Drops Feed MCP connector](https://glama.ai/mcp/connectors/dev.workers.8bitbudgets.uk-drops-feed/uk-drops-feed/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.8bitbudgets.uk-drops-  feed/uk-drops-feed)
+  🔓 - Official TCG pre-order, restock and release dates for agents; free next_drops, then $0.01 USDC on Base via x402.
 - [Undercart](https://undercart.co/docs/mcp) `https://undercart.co/api/mcp`
   [![Undercart MCP connector](https://glama.ai/mcp/connectors/co.undercart/undercart/badges/score.svg)](https://glama.ai/mcp/connectors/co.undercart/undercart)
   🔐 - Research Shopify brands: revenue estimates, installed apps, live ads and captured marketing emails.
