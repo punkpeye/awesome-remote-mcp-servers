@@ -3655,6 +3655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pakistan Case Law](https://pakistancaselaw.com) `https://pakistancaselaw.com/mcp`
   [![Pakistan Case Law MCP connector](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw/badges/score.svg)](https://glama.ai/mcp/connectors/com.pakistancaselaw/caselaw)
   🔓 - 230,000+ Pakistani court judgments: search by issue, question, court, judge or citation; walk the citation graph.
+- [Passim AI](https://passimai.com) `https://mcp.biaedge.com/mcp`
+  [![Passim AI MCP connector](https://glama.ai/mcp/connectors/com.biaedge/immigration-research/badges/score.svg)](https://glama.ai/mcp/connectors/com.biaedge/immigration-research)
+  🔐 - U.S. immigration law research and ImmCite citator: 1.19M+ decisions, INA/CFR, USCIS policy, 46 state criminal codes.
 - [Patent by Ouroboros](https://ouroborosapps.com/docs/patent) `https://patent-mcp.vercel.app/mcp`
   [![Patent by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent)
   🔓 - US patent search and prior art lookup that returns only records the patent office returned; not legal advice.
