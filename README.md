@@ -5253,6 +5253,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemalli](https://gemalli.com/en/developers) `https://gemalli.com/api/mcp`
   [![Gemalli MCP connector](https://glama.ai/mcp/connectors/com.gemalli/trade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gemalli/trade)
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
+- [glim.sh](https://glim.sh) `https://glim.sh/mcp`
+  [![glim.sh MCP connector](https://glama.ai/mcp/connectors/sh.glim/glim/badges/score.svg)](https://glama.ai/mcp/connectors/sh.glim/glim)
+  🔓 🔐 - Live web search and page fetch plus Twitter/X, Reddit, GitHub, Amazon, YouTube and Telegram data; pay per call.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [GMaps Lead Finder](https://gmapsleadfinder.com) `https://gmapsleadfinder.com/mcp`
