@@ -2033,6 +2033,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
+- [Schwanki](https://schwankiapp.com/integrations/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://schwankiapp.com/mcp`
+  [![Schwanki MCP connector](https://glama.ai/mcp/connectors/io.github.La-Salida/schwanki/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.La-Salida/schwanki)
+  🔐 - Save words from a chat as a language flashcard deck, list decks and cards due, and read review progress.
 - [Speakeroo](https://speakeroo.app/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://mcp.speakeroo.app/mcp`
   [![Speakeroo MCP connector](https://glama.ai/mcp/connectors/app.speakeroo/speaking-coach/badges/score.svg)](https://glama.ai/mcp/connectors/app.speakeroo/speaking-coach)
   🔓 - Speaking coach: feedback on speeches and interview answers from text or audio, plus topics and pronunciation.
