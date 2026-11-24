@@ -1974,6 +1974,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VRAMGlass](https://vramglass.com/mcp) `https://mcp.vramglass.com/mcp`
   [![VRAMGlass MCP connector](https://glama.ai/mcp/connectors/com.vramglass/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vramglass/mcp)
   🔐 - GPU, AI workstation and DDR4/DDR5 asking prices on eBay, Xianyu and Amazon Japan, plus which local LLMs fit which GPU.
+- [Werop](https://www.werop.com) `https://www.werop.com/mcp`
+  [![Werop MCP connector](https://glama.ai/mcp/connectors/com.werop/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.werop/catalog)
+  🔓 - Independent European fashion: search garments and ready-made outfits, check sizes, get a checkout link.
 - [work-access-tools](https://work-access-platform.bfurrow26.workers.dev/?utm_source=punkpeye_awesome&utm_medium=directory&utm_campaign=reach_001) `https://work-access-platform.bfurrow26.workers.dev/mcp/c/punkpeye`
   [![work-access-tools MCP connector](https://glama.ai/mcp/connectors/dev.workers.bfurrow26.work-access-platform/work-access-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.bfurrow26.work-access-platform/work-access-tools)
   🔓 - Verified product categorization for Shopify/Google taxonomies, package checks and locks; free tier, no signup.
