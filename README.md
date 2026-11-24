@@ -5842,6 +5842,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mellow Hub](https://www.mellow.world/) `https://www.mellow.world/mcp`
   [![Mellow Hub MCP connector](https://glama.ai/mcp/connectors/world.mellow.www/hub/badges/score.svg)](https://glama.ai/mcp/connectors/world.mellow.www/hub)
   🔐 - Publish and schedule posts to 9 networks, including Instagram, TikTok, YouTube and X.
+- [Mynahcast](https://mynahcast.xyz/docs/mcp) `https://api.mynahcast.xyz/mcp`
+  [![Mynahcast MCP connector](https://glama.ai/mcp/connectors/xyz.mynahcast/mynahcast/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.mynahcast/mynahcast)
+  🔐 - Draft, schedule and verify social posts in your brand voice across 14 channels, with human approval.
 - [Mysocial](https://mysocial.io/mcp/) `https://app.mysocial.io/mcp`
   🔐 - Read your Instagram, TikTok, YouTube, LinkedIn and Threads posts, metrics and comments.
 - [NEROWRECK](https://neronewrecklive.link) `https://neronewrecklive.link/mcp`
