@@ -2811,6 +2811,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
+- [Senpi](https://senpi.ai/connectors) `https://mcp.senpi.ai/mcp`
+  [![Senpi MCP connector](https://glama.ai/mcp/connectors/io.github.Senpi-ai/senpi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Senpi-ai/senpi)
+  🔐 - Read-only Hyperliquid research: market pulse, ranked signals, smart-money positioning, trader and wallet analysis.
 - [Sentio Connect](https://connect.sentio.xyz) `https://connect.sentio.xyz/v1/mcp`
   [![Sentio Connect MCP connector](https://glama.ai/mcp/connectors/xyz.sentio/connect/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.sentio/connect)
   🔐 - Wallet balances, token prices, portfolio value, DeFi positions and holding history across EVM chains and Sui.
