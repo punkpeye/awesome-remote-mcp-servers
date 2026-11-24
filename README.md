@@ -3261,6 +3261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leki PL (leki-mcp)](https://leki.compabase.com) `https://leki.compabase.com/mcp`
   [![Leki PL (leki-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp)
   🔓 - Polish medicines: official refunded drug prices, patient co-payment, cheaper equivalents and leaflets.
+- [Leo Training](https://leotraining.app) `https://mcp.leotraining.app/mcp`
+  [![Leo Training MCP connector](https://glama.ai/mcp/connectors/io.github.leo-runningcoach/coachleo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leo-runningcoach/coachleo)
+  🔐 - Running, trail and triathlon coach: reads your Strava or Garmin training and builds and adapts your plan.
 - [MedBillAnalyzer](https://medbillanalyzer.com) `https://app.medbillanalyzer.com/mcp/apps?via=awesome_remote`
   [![MedBillAnalyzer MCP connector](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.medbillanalyzer/medbillanalyzer)
   🔓 - Compares a medical bill with your insurer's EOB and flags mismatches; free scan, $10 per bill for findings and a letter.
