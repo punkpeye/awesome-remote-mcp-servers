@@ -5015,6 +5015,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ithy Research Library](https://ithy.com/connect) `https://ithy.com/mcp`
   [![Ithy Research Library MCP connector](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library/badges/score.svg)](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library)
   🔓 - Search and read public AI-assisted articles with source links and original/revision dates; no login or generation.
+- [Kelvin](https://kelvin.openconverters.com) `https://kelvin.openconverters.com/mcp`
+  [![Kelvin MCP connector](https://glama.ai/mcp/connectors/io.github.OpenConverters/kelvin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OpenConverters/kelvin)
+  🔓 - Search ~1.4M power-electronics parts (MOSFETs, diodes, capacitors, magnetics); select and cross-reference substitutes.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
