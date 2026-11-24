@@ -1567,6 +1567,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search a human-reviewed directory of free tools and projects, including AI agent tooling, or suggest a new one.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
+- [PreviewSend](https://previewsend.com/docs/mcp) `https://previewsend.com/api/mcp`
+  [![PreviewSend MCP connector](https://glama.ai/mcp/connectors/com.previewsend/previewsend/badges/score.svg)](https://glama.ai/mcp/connectors/com.previewsend/previewsend)
+  🔐 - Deploy a built website from a coding agent and get a link for client review.
 - [Prompeteer](https://prompeteer.ai) `https://prompeteer.ai/mcp`
   [![Prompeteer MCP connector](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer/badges/score.svg)](https://glama.ai/mcp/connectors/ai.prompeteer/prompeteer)
   🔐 - Generates contextual prompts and agent skills for 140+ AI platforms, with a 16-dimension Prompt Score.
