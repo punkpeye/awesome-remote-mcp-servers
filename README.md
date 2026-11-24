@@ -3854,6 +3854,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
   🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
 
+- [Pilot by Braike](https://pilot.braike.com/en/pilot-mcp) `https://app.pilot.braike.com/mcp`
+  [![Pilot by Braike MCP connector](https://glama.ai/mcp/connectors/com.braike/pilot/badges/score.svg)](https://glama.ai/mcp/connectors/com.braike/pilot)
+  🔐 - Google Ads, Meta, TikTok, LinkedIn and 12 more ad platforms, GA4 and Search Console, with spend and pacing analyses.
+
 - [Promvia AI](https://promvia.app) `https://promvia.app/api/mcp`
   [![Promvia AI MCP connector](https://glama.ai/mcp/connectors/app.promvia/promvia/badges/score.svg)](https://glama.ai/mcp/connectors/app.promvia/promvia)
   🔐 - Whether ChatGPT, Claude, Gemini, Perplexity and Google AI name your brand and what they cite; needs a paid plan.
