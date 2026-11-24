@@ -2266,7 +2266,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Romanian company data from official registers: status, VAT, financial statements, new registrations, BNR rates.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
-  🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+  🔓 - 9-digit CUSIP bond valuation, FINRA TRACE spreads, portfolio VaR, OFAC safe-harbor certs, and SEC XBRL forensics.
+- [Ariadne Nexus CUSIP & Bond Finance](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp/cusip-bond-trace-finance`
+  [![Ariadne Nexus CUSIP & Bond Finance MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance)
+  🔓 - 9-digit CUSIP corporate and Treasury bond valuation, FINRA TRACE secondary spreads, collars, and portfolio VaR.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -3583,6 +3586,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
+- [Ariadne Nexus SEC Forensics](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp/sec-forensics-whistleblower`
+  [![Ariadne Nexus SEC Forensics MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower)
+  🔓 - SEC XBRL forensic accounting, Beneish M-Score manipulation checks, Form TCR workpapers, and APA 553 synthesis.
 - [BRANCO](https://droit.juan-branco.fr/installer) `https://droit.juan-branco.fr/api/mcp/oauth`
   [![BRANCO MCP connector](https://glama.ai/mcp/connectors/fr.juan-branco/branco/badges/score.svg)](https://glama.ai/mcp/connectors/fr.juan-branco/branco)
   🔐 - Search French legislation and case law, read legal sources, and verify citations with a BRANCO Research account.
@@ -5547,6 +5553,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [APIR Agent Verification](https://apir.ai/developers) `https://apir.ai/api/mcp`
   [![APIR Agent Verification MCP connector](https://glama.ai/mcp/connectors/ai.apir/verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.apir/verify)
   🔓 - Verify an AI agent's signed credential and the human mandate behind it; keys are public for offline checks.
+- [Ariadne Nexus OFAC & Escrow](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp/ofac-sanctions-escrow`
+  [![Ariadne Nexus OFAC & Escrow MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow)
+  🔓 - Zero-trust OFAC SDN counterparty screening with SHA-256 Merkle proofs and 31 CFR 501 closing certificates.
 - [arifOS](https://mcp.arif-fazil.com) `https://mcp.arif-fazil.com/mcp`
   [![arifOS MCP connector](https://glama.ai/mcp/connectors/io.github.ariffazil/arifos/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ariffazil/arifos)
   🔓 - Fail-closed governance and separation of powers for MCP-enabled AI agents.
