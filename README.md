@@ -5375,6 +5375,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Present of AI](https://presentofai.com/developers) `https://presentofai.com/mcp`
   [![Present of AI MCP connector](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.presentofai/present-of-ai)
   🔓 - Sourced data on 4,900 AI companies, open AI jobs and dated AI news; every result links to its page.
+- [Prince George Pulse](https://princegeorgepulse.ca/) `https://princegeorgepulse.ca/mcp`
+  [![Prince George Pulse MCP connector](https://glama.ai/mcp/connectors/ca.princegeorgepulse/pg-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/ca.princegeorgepulse/pg-pulse)
+  🔓 - Search local events, businesses, weather, transit and civic information for Prince George, BC.
 - [Proxmint](https://proxmint.com) `https://proxmint.com/api/mcp`
   [![Proxmint MCP connector](https://glama.ai/mcp/connectors/com.proxmint/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxmint/mcp)
   🔓 - Proxy prices, balance, usage, geo-targeted proxy lines and connection checks; account tools need an API key.
