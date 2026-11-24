@@ -2444,6 +2444,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [El Tablero](https://eltablero.ar/docs) `https://eltablero.ar/api/mcp`
   [![El Tablero MCP connector](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data/badges/score.svg)](https://glama.ai/mcp/connectors/ar.eltablero/el-tablero-argentina-economic-data)
   🔓 - Argentine economic data from BCRA and INDEC: FX, inflation, rates, reserves, projections and release calendar.
+- [Era Context](https://era.app/context) `https://context.era.app/mcp`
+  [![Era Context MCP connector](https://glama.ai/mcp/connectors/app.era/context/badges/score.svg)](https://glama.ai/mcp/connectors/app.era/context)
+  🔐 - Ask an AI assistant about your balances, spending, recurring charges and forecasts from accounts you connect.
 
 - [emissaoja](https://emissaoja.com.br/emitir-nota-fiscal-por-ia) `https://emissaoja.com.br/mcp`
   [![emissaoja MCP connector](https://glama.ai/mcp/connectors/br.com.emissaoja/nfse/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.emissaoja/nfse)
