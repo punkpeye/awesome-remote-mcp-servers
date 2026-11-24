@@ -5568,6 +5568,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CrawlCheck](https://crawlcheck.io/for-agents) `https://crawlcheck.io/mcp`
   [![CrawlCheck MCP connector](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck)
   🔓 - A signed answer about any site before an agent acts: policy, what crawlers were served, findings, a decision per action.
+- [Council of AI GSPC](https://councilof.ai) `https://councilof.ai/mcp/free`
+  [![Council of AI GSPC MCP connector](https://glama.ai/mcp/connectors/ai.councilof/gspc-free/badges/score.svg)](https://glama.ai/mcp/connectors/ai.councilof/gspc-free)
+  🔓 - AI governance measurement MCP over streamable HTTP. Free tools for board data and verification, x402-paid evidence bundles. UK-sovereign, AUKUS-compatible.
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
