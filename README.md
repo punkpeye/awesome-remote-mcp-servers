@@ -3303,9 +3303,21 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [Career Site Jobs](https://apify.com/magnova/career-site-jobs) `https://mcp.apify.com?tools=fetch-actor-details,magnova/career-site-jobs`
+  [![Career Site Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/career-site-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/career-site-jobs-mcp)
+  🔐 - Get every open job from official Greenhouse, Lever, Ashby, Workable and more career boards.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [EURES Jobs Scraper](https://apify.com/magnova/eures-jobs-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/eures-jobs-scraper`
+  [![EURES Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/eures-jobs-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/eures-jobs-scraper-mcp)
+  🔐 - Search EURES, the EU's official jobs portal, by keyword, country and occupation.
+- [NHS Jobs Scraper](https://apify.com/magnova/nhs-jobs-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/nhs-jobs-scraper`
+  [![NHS Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/nhs-jobs-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/nhs-jobs-scraper-mcp)
+  🔐 - Search NHS Jobs, the official NHS board for England and Wales, by keyword and trust.
+- [Workday Jobs Scraper](https://apify.com/magnova/workday-jobs-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/workday-jobs-scraper`
+  [![Workday Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/workday-jobs-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/workday-jobs-scraper-mcp)
+  🔐 - Scrape every open job from any company's Workday careers site, with full descriptions.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
