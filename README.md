@@ -5842,6 +5842,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mellow Hub](https://www.mellow.world/) `https://www.mellow.world/mcp`
   [![Mellow Hub MCP connector](https://glama.ai/mcp/connectors/world.mellow.www/hub/badges/score.svg)](https://glama.ai/mcp/connectors/world.mellow.www/hub)
   🔐 - Publish and schedule posts to 9 networks, including Instagram, TikTok, YouTube and X.
+- [MindThread](https://mindthread.tw/developers) `https://mindthread.tw/api/mcp`
+  [![MindThread MCP connector](https://glama.ai/mcp/connectors/io.github.ppcvote/mindthread/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ppcvote/mindthread)
+  🔓 🔐 - Write, schedule and publish Threads posts through Meta's official API, review replies and read post insights.
 - [Mysocial](https://mysocial.io/mcp/) `https://app.mysocial.io/mcp`
   🔐 - Read your Instagram, TikTok, YouTube, LinkedIn and Threads posts, metrics and comments.
 - [NEROWRECK](https://neronewrecklive.link) `https://neronewrecklive.link/mcp`
