@@ -1485,6 +1485,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Local AI Picks](https://localaipicks.com/docs/mcp) `https://localaipicks.com/mcp`
   [![Local AI Picks MCP connector](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks/badges/score.svg)](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks)
   🔓 - Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.
+- [MCP Check](https://mcp.nischaldhakal.com.np) `https://mcp.nischaldhakal.com.np/mcp`
+  [![MCP Check MCP connector](https://glama.ai/mcp/connectors/np.com.nischaldhakal/mcp-check/badges/score.svg)](https://glama.ai/mcp/connectors/np.com.nischaldhakal/mcp-check)
+  🔓 - Grade any MCP server A–F against the spec, with a fix for each problem, and search a directory of graded servers.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
