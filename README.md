@@ -635,6 +635,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vibesignet](https://vibesignet.com) `https://vibesignet.com/api/mcp`
   [![Vibesignet MCP connector](https://glama.ai/mcp/connectors/com.vibesignet/templates/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibesignet/templates)
   🔓 - Search website templates and components, and fetch their build prompts for AI coding agents; full prompts need a key.
+- [VoltPlan](https://voltplan.app) `https://mcp.voltplan.app/mcp`
+  [![VoltPlan MCP connector](https://glama.ai/mcp/connectors/io.github.YUZU-Hub/wiring-diagram-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.YUZU-Hub/wiring-diagram-mcp)
+  🔓 - Wiring diagrams plus wire, fuse, battery, solar and inverter sizing for 12V/24V/48V camper, boat and off-grid systems.
 - [Whimsical](https://whimsical.com/mcp) `https://mcp.whimsical.com/mcp`
   [![Whimsical MCP connector](https://glama.ai/mcp/connectors/com.whimsical/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.whimsical/mcp)
   🔐 - Turn prompts into editable flowcharts, mind maps, sequence diagrams and wireframes, and search your Whimsical workspace.
