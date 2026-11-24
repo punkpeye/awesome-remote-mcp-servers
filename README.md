@@ -1936,6 +1936,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shopify Speed Check](https://www.skaidigital.com/tools/shopify-speed-test) `https://tools.skaidigital.com/mcp`
   [![Shopify Speed Check MCP connector](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.skaidigital.tools/shopify-speed-check)
   🔓 - Check a Shopify store's PageSpeed and Core Web Vitals, find slowing apps, compare plan fees, get a headless estimate.
+- [Shopify Store Scraper](https://apify.com/magnova/shopify-actor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/Shopify-Actor`
+  [![Shopify Store Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/shopify-actor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/shopify-actor-mcp)
+  🔐 - Find e-commerce sites ready to migrate to Shopify, with a scored migration readiness.
+
 - [Shortlist Price Index](https://shortlist-mcp.vercel.app) `https://shortlist-mcp.vercel.app/mcp`
   [![Shortlist Price Index MCP connector](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ies86/shortlist-price-index)
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
@@ -3302,6 +3306,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
+
+- [ATS New Job Postings Monitor](https://apify.com/magnova/ats-new-postings-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/ats-new-postings-monitor`
+  [![ATS New Job Postings Monitor MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/ats-new-postings-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/ats-new-postings-monitor-mcp)
+  🔐 - Watch Greenhouse, Lever and Ashby boards and get only the new job postings.
 
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
@@ -4897,6 +4905,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RenovationRoute](https://renovationroute.com/contractors/federal-opportunities) `https://mcp.renovationroute.com/mcp`
   [![RenovationRoute MCP connector](https://glama.ai/mcp/connectors/com.renovationroute/federal-opportunities/badges/score.svg)](https://glama.ai/mcp/connectors/com.renovationroute/federal-opportunities)
   🔓 - Search open US federal construction bids from SAM.gov by state, NAICS code or keyword; no login needed.
+- [Rightmove Property Scraper](https://apify.com/magnova/rightmove-listings-monitor) `https://mcp.apify.com?tools=fetch-actor-details,magnova/rightmove-listings-monitor`
+  [![Rightmove Property Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/rightmove-listings-monitor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/rightmove-listings-monitor-mcp)
+  🔐 - Watch any Rightmove search for new listings and price drops, with alerts.
+
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
@@ -4976,6 +4988,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Website Contact Scraper](https://apify.com/magnova/website-contact-info-scraper) `https://mcp.apify.com?tools=fetch-actor-details,magnova/website-contact-info-scraper`
+  [![Website Contact Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.memeanalyst/website-contact-info-scraper-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.memeanalyst/website-contact-info-scraper-mcp)
+  🔐 - Get emails, validated phones and social links for any company website, one row per site.
+
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
