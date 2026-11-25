@@ -2968,11 +2968,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Valuein MCP connector](https://glama.ai/mcp/connectors/biz.valuein/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/biz.valuein/mcp)
   🔓 - Point-in-time SEC EDGAR fundamentals since 1993; every figure carries a fact_id traceable to its filing.
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
+- [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
+  🔐 - Ask questions about cloud cost and usage data.
 - [Velquent Reports](https://velquent.com/mcp/) `https://velquent.com/mcp`
   [![Velquent Reports MCP connector](https://glama.ai/mcp/connectors/com.velquent/velquent-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.velquent/velquent-mcp)
   🔓 - Delayed reports on large Hyperliquid open-interest changes and exchange perpetual price moves.
-  [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
-  🔐 - Ask questions about cloud cost and usage data.
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
   🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
