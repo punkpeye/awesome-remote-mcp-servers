@@ -2703,6 +2703,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neumann](https://neumann.kromatic.com/llms.txt?utm_source=awesome-remote-mcp-servers&utm_medium=mcp-directory&utm_campaign=neumann) `https://neumann.kromatic.com/mcp`
   [![Neumann MCP connector](https://glama.ai/mcp/connectors/io.github.Kromatic-Innovation/neumann/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Kromatic-Innovation/neumann)
   🔓 - Monte Carlo ranges for uncertain plans: project cost, budget, timeline, capacity, NPV/IRR/payback.
+- [Nidhipati](https://mrpkk.github.io/nidhipati/) `https://rta.lat/nidhipati/mcp`
+  [![Nidhipati MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/nidhipati/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/nidhipati)
+  🔓 - Proof-of-spend and reserve checks for AI agents: receipts, spend audit, RWA, prediction evidence, reconciliation.
 - [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
   [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
   🔐 - Read-only NuMetric accounting and ERP data: statements, KPIs, receivables, payables, invoices and documents.
