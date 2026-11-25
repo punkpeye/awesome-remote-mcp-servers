@@ -5000,6 +5000,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Economic Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/economy`
   [![Economic Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/economic-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/economic-statistics)
   🔓 - GDP, inflation, trade, interest rates and public debt for 150+ countries from Eurostat, OECD, World Bank and IMF.
+- [Election.org](https://election.org) `https://election.org/api/mcp`
+  [![Election.org MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/election-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/election-org)
+  🔓 - Look up U.S. election results, elected representatives, ballot races, and official FEC campaign finance records.
 - [Electronics Architect](https://electronics-architect.com/developers) `https://electronics-architect.com/mcp`
   [![Electronics Architect MCP connector](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect/badges/score.svg)](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect)
   🔐 - Solves DC/DC power trees with real parts: each rail's current, efficiency, dissipation and tolerance corners.
