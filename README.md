@@ -3838,6 +3838,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
 
+- [Emblem Studio](https://emblemstudio.ai/mcp) `https://emblemstudio.ai/mcp/strategist`
+  [![Emblem Studio MCP connector](https://glama.ai/mcp/connectors/io.github.emblemstudio-ai/emblem-studio/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emblemstudio-ai/emblem-studio)
+  🔐 - Build popups, opt-in forms and surveys on your website, run A/B tests and read lead capture stats. New popups start switched off.
+
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
