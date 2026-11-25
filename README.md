@@ -2030,6 +2030,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Polidict](https://polidict.com) `https://api.polidict.com/mcp`
   [![Polidict MCP connector](https://glama.ai/mcp/connectors/io.github.solomkinmv/polidict/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.solomkinmv/polidict)
   🔓 - Save words to your vocabulary, look up meanings and images, and practice them with spaced repetition.
+- [School Timetable Builder](https://wilbek-source.github.io/timetable-builder/) `https://timetable-builder.wilbek.workers.dev/mcp`
+  [![School Timetable Builder MCP connector](https://glama.ai/mcp/connectors/io.github.wilbek-source/timetable-builder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wilbek-source/timetable-builder)
+  🔓 - Builds a clash-free weekly school timetable for every class and teacher from your files; names stay in the chat.
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
