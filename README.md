@@ -4150,6 +4150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [stillindexed](https://stillindexed.com/mcp) `https://api.stillindexed.com/mcp`
   [![stillindexed MCP connector](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers/badges/score.svg)](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers)
   🔓 - Indexability, robots.txt, sitemap, TLS, domain-expiry and AI-crawler checks for any URL; no account.
+- [StunList](https://stunlist.com/agents) `https://stunlist.com/mcp`
+  [![StunList MCP connector](https://glama.ai/mcp/connectors/com.stunlist/stunlist/badges/score.svg)](https://glama.ai/mcp/connectors/com.stunlist/stunlist)
+  🔓 - Free launch check for any site (link preview, crawlability) and curated directory listings paid in USDC.
 - [SubmitMyStartup](https://submitmystartup.com/) `https://submitmystartup.com/mcp`
   [![SubmitMyStartup MCP connector](https://glama.ai/mcp/connectors/com.submitmystartup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.submitmystartup/mcp)
   🔓 - Searches a free list of startup directories and launch sites with real submission results.
