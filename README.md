@@ -3258,6 +3258,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [KinToolkit](https://kintoolkit.com/developers) `https://kintoolkit.com/api/mcp`
   [![KinToolkit MCP connector](https://glama.ai/mcp/connectors/com.kintoolkit/label-reference/badges/score.svg)](https://glama.ai/mcp/connectors/com.kintoolkit/label-reference)
   🔓 - Educational US medicine label references and sourced guides; no patient inputs or personalized prescriptions.
+- [Kove Journal](https://kovejournal.com/connect/) `https://app.kovejournal.com/mcp`
+  [![Kove Journal MCP connector](https://glama.ai/mcp/connectors/com.kovejournal/kove/badges/score.svg)](https://glama.ai/mcp/connectors/com.kovejournal/kove)
+  🔐 - Calorie, macro and workout journal your assistant writes to: each food looked up, the day added up, 7-day undo.
 - [Leki PL (leki-mcp)](https://leki.compabase.com) `https://leki.compabase.com/mcp`
   [![Leki PL (leki-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/leki-mcp)
   🔓 - Polish medicines: official refunded drug prices, patient co-payment, cheaper equivalents and leaflets.
