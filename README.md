@@ -312,6 +312,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebArm24](https://webarm24.online) `https://webarm24.online/mcp`
   [![WebArm24 MCP connector](https://glama.ai/mcp/connectors/online.webarm24/webarm24/badges/score.svg)](https://glama.ai/mcp/connectors/online.webarm24/webarm24)
   🔓 - AI automation platform (n8n/Zapier alternative): build, schedule and run workflows from your agent; tools need a key.
+- [whichapi](https://whichapi.dev) `https://whichapi.dev/mcp`
+  [![whichapi MCP connector](https://glama.ai/mcp/connectors/dev.whichapi/whichapi/badges/score.svg)](https://glama.ai/mcp/connectors/dev.whichapi/whichapi)
+  🔓 - Search engine for agents: find APIs, x402/MPP pay-per-call endpoints and MCP tools, ranked by real buyers.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
