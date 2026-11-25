@@ -2666,6 +2666,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
+- [MCP Integrator](https://www.g-integrator.com/mcp-integrator.html) `https://mcp.g-integrator.com/mcp`
+  [![MCP Integrator MCP connector](https://glama.ai/mcp/connectors/com.g-integrator/mcp-integrator/badges/score.svg)](https://glama.ai/mcp/connectors/com.g-integrator/mcp-integrator)
+  🔐 - Finance ops for e-commerce: order financials, payout reconciliation, customer 360 and financial reports.
 - [Mestre Prático & NutriPreço](https://mestrepratico.com.br/developers) `https://mestrepratico.com.br/mcp/v1`
   [![Mestre Prático MCP connector](https://glama.ai/mcp/connectors/io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp)
   🔓 - Sovereign Brazilian real-economy price & regulatory oracle (ANP fuels, CMED medicines, DIEESE food basket).
