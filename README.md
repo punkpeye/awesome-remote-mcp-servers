@@ -3519,7 +3519,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Perfume portraits, raw materials, scent pairings and occasion edits, with a scento.com page on every answer.
 - [ScrapLibra](https://scraplibra.com/) `https://telelibra-cloud-222446907059.europe-west1.run.app/mcp`
   [![ScrapLibra MCP connector](https://glama.ai/mcp/connectors/app.run.europe-west1.telelibra-cloud-222446907059/scrap-libra/badges/score.svg)](https://glama.ai/mcp/connectors/app.run.europe-west1.telelibra-cloud-222446907059/scrap-libra)
-  🔑 - AI Second Brain & Obsidian vault MCP gateway with TOON-compressed hybrid search across bookmarks and Telegram.
+  🔓 - AI Second Brain & Obsidian vault MCP gateway with TOON-compressed hybrid search across bookmarks and Telegram.
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
