@@ -4044,6 +4044,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Proxy](https://useproxy.dev) `https://mcp.useproxy.dev/mcp`
   [![Proxy MCP connector](https://glama.ai/mcp/connectors/dev.useproxy/proxy/badges/score.svg)](https://glama.ai/mcp/connectors/dev.useproxy/proxy)
   🔐 - Search Meta, Google, LinkedIn and TikTok ad libraries for competitor ads, creatives and transcripts.
+- [Qonvert Marketing AI](https://qonvert.ai/connect) `https://mcp.qonvert.ai/mcp`
+  [![Qonvert MCP connector](https://glama.ai/mcp/connectors/ai.qonvert/qonvert/badges/score.svg)](https://glama.ai/mcp/connectors/ai.qonvert/qonvert)
+  🔓 - Check Google Ads and Yandex Direct URL tags as a guest, and use OAuth for authorized project sources.
 - [QQQ AI Visibility Checker](https://qqq.ee/en/mcp-server/) `https://qqq.ee/mcp`
   [![QQQ AI Visibility Checker MCP connector](https://glama.ai/mcp/connectors/ee.qqq/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ee.qqq/ai-visibility)
   🔓 - Free AI visibility check: AI crawler access, AI search readiness and brand citations in ChatGPT, Gemini, Perplexity.
