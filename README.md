@@ -3628,6 +3628,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GroundRules](https://law.agentlookups.ai) `https://law.agentlookups.ai/mcp`
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
+- [Kiescy](https://kiescy.com/product/fix-with-ai) `https://mcp.kiescy.com/mcp`
+  [![Kiescy MCP connector](https://glama.ai/mcp/connectors/com.kiescy/kiescy/badges/score.svg)](https://glama.ai/mcp/connectors/com.kiescy/kiescy)
+  🔑 - Reads cookie consent, privacy, accessibility and security issues found on your live site and fixes them in code.
+- [Kiescy Documents](https://kiescy.com/product/fix-with-ai) `https://mcp.kiescy.com/mcp/documents`
+  [![Kiescy Documents MCP connector](https://glama.ai/mcp/connectors/com.kiescy/documents/badges/score.svg)](https://glama.ai/mcp/connectors/com.kiescy/documents)
+  🔑 - Writes, imports, checks and publishes your privacy policy, cookie policy and terms from your AI assistant.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
