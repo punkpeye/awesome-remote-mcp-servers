@@ -1440,6 +1440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HopBase](https://hop-base.com/en/docs/getting-started/ai-agent) `https://api.hop-base.com/mcp`
   [![HopBase MCP connector](https://glama.ai/mcp/connectors/com.hop-base/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hop-base/mcp)
   🔓 - Read-only tools for a HopBase AI gateway key: models, limits, docs search, balance and usage; calls need a key.
+- [Hormouz](https://hormouz.net) `https://api.hormouz.net/mcp`
+  [![Hormouz MCP connector](https://glama.ai/mcp/connectors/net.hormouz/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.hormouz/mcp)
+  🔑 - Read-only access to your Hormouz (unified AI API) balance, API keys and usage, plus coding and chat client setup help.
 - [HTML/CSS to Image](https://htmlcsstoimage.com) `https://mcp.hcti.io`
   [![HTML/CSS to Image MCP connector](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.htmlcsstoimage/html-css-to-image)
   🔐 - Capture website screenshots, render HTML/CSS, and make templated graphics as images or PDFs.
