@@ -2753,6 +2753,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
+- [Pulis Insurance Services](https://www.pulisinsurance.com) `https://www.pulisinsurance.com/mcp`
+  [![Pulis Insurance Services MCP connector](https://glama.ai/mcp/connectors/com.pulisinsurance/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.pulisinsurance/mcp)
+  🔓 - Independent insurance agency in West Monroe, NY: coverage info, office details and call-back requests.
 - [pumpdata](https://pumpdata.fun/?utm_source=github&utm_medium=listing&utm_campaign=open) `https://pumpdata.fun/mcp`
   [![pumpdata MCP connector](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata/badges/score.svg)](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata)
   🔓 - Every pump.fun trade, ever: base rates, wallet and launch records, and pick-list replays for trading agents over x402.
