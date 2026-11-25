@@ -1252,6 +1252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AISkills402](https://aiskills402.com) `https://mcp.aiskills402.com/mcp`
   [![AISkills402 MCP connector](https://glama.ai/mcp/connectors/com.aiskills402/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiskills402/mcp)
   🔓 - Search tested agent skill files (SKILL.md) and read their cards for free; buy a file once with x402 in USDC on Base.
+- [AIWget](https://aiwget.com) `https://aiwget.com/api/mcp`
+  [![AIWget MCP connector](https://glama.ai/mcp/connectors/io.github.aiwget/aiwget-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aiwget/aiwget-mcp)
+  🔓 - Search curated B2B AI software, calculate Nov 2026 API TCOs, inspect MCP endpoints, and check Ahrefs DR.
 - [API Change Feed](https://changefeed.dev) `https://changefeed.dev/mcp`
   [![API Change Feed MCP connector](https://glama.ai/mcp/connectors/dev.changefeed/api-change-feed/badges/score.svg)](https://glama.ai/mcp/connectors/dev.changefeed/api-change-feed)
   🔓 - Breaking changes, deprecations and security fixes for 38 APIs and SDKs; pay per call in USDC on Base via x402.
