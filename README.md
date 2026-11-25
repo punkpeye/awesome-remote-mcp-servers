@@ -5996,7 +5996,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
 - [CourtsApp](https://courtsapp.com) `https://api.courtsapp.com/mcp`
-  [![CourtsApp MCP connector](https://glama.ai/mcp/connectors/io.github.courtsapp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.courtsapp/mcp)
+  [![CourtsApp MCP connector](https://glama.ai/mcp/connectors/com.courtsapp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.courtsapp/mcp)
   🔓 - Find and book US pickleball, tennis and padel courts, open play, coaches and tournaments, with live times.
 - [FootballGPT](https://footballgpt.co/chatgpt) `https://footballgpt.co/api/mcp/stream`
   [![FootballGPT MCP connector](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt)
