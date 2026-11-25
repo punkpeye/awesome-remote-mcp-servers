@@ -5357,6 +5357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Openpath](https://openpath.sh) `https://openpath.sh/mcp/search`
   [![Openpath MCP connector](https://glama.ai/mcp/connectors/sh.openpath/openpath/badges/score.svg)](https://glama.ai/mcp/connectors/sh.openpath/openpath)
   🔓 - Live jobs (Austin, TX and remote) and Austin-area local businesses, each with an Apply link or an Openpath inbox.
+- [PageDigest](https://glama.ai/mcp/connectors/io.github.SuBai520-QWQ/pagedigest) `https://4021-agqz5x3ybel4f5yrdnvpaqbzgi.instabox.tech/mcp`
+  [![PageDigest MCP connector](https://glama.ai/mcp/connectors/io.github.SuBai520-QWQ/pagedigest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SuBai520-QWQ/pagedigest)
+  🔓 - Summarize any web page into a summary, key points, headings and entities; x402 pay-per-call ($0.01 in USD₮0).
 - [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
   [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
   🔓 - Read any public page as clean Markdown, page metadata, or a page plus 4 same-site pages; USDC per call via x402.
