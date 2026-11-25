@@ -3756,6 +3756,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
 
+- [Appeak Pro](https://appeak.pro/connect) `https://appeak.pro/api/mcp`
+  [![Appeak Pro MCP connector](https://glama.ai/mcp/connectors/pro.appeak/appeak-pro/badges/score.svg)](https://glama.ai/mcp/connectors/pro.appeak/appeak-pro)
+  🔓 - Audit App Store and Google Play listings, check metadata, ranks and competitors, and see if ChatGPT recommends an app.
+
 - [AppTrack Ninja](https://apptrack.ninja/tools/mcp) `https://mcp.apptrack.ninja`
   [![AppTrack Ninja MCP connector](https://glama.ai/mcp/connectors/ninja.apptrack.api/app-track-ninja/badges/score.svg)](https://glama.ai/mcp/connectors/ninja.apptrack.api/app-track-ninja)
   🔐 - App Store and Google Play data: apps, charts, keyword ranks, version history, ads and icon redesign effects.
