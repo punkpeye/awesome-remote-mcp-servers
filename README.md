@@ -5529,6 +5529,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [A2P-32 Guard](https://zealous-unburned-tameness.ngrok-free.dev) `https://zealous-unburned-tameness.ngrok-free.dev/mcp`
+  [![A2P-32 Guard MCP connector](https://glama.ai/mcp/connectors/org.duckdns.a2p32guard/a2p32-guard/badges/score.svg)](https://glama.ai/mcp/connectors/org.duckdns.a2p32guard/a2p32-guard)
+  🔓 - Approve or block an agent's action before it happens: budget, rate, write and transfer limits.
 - [AEGIS Events](https://console.int-tech.solutions/docs) `https://mcp.int-tech.solutions`
   [![AEGIS Events MCP connector](https://glama.ai/mcp/connectors/solutions.int-tech.mcp/aegis-events/badges/score.svg)](https://glama.ai/mcp/connectors/solutions.int-tech.mcp/aegis-events)
   🔐 - Search security events from the news by place, point and radius, category and date.
