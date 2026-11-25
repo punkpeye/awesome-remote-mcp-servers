@@ -963,6 +963,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SovaTalk](https://sovatalk.com) `https://sovatalk.com/mcp`
   [![SovaTalk MCP connector](https://glama.ai/mcp/connectors/com.sovatalk/sovatalk/badges/score.svg)](https://glama.ai/mcp/connectors/com.sovatalk/sovatalk)
   🔓 - Find real people to talk to live on video: who is live, who listens about a topic, prices and site answers.
+- [Spam I Am](https://ismynumberspam.com) `https://ismynumberspam.com/mcp`
+  [![Spam I Am MCP connector](https://glama.ai/mcp/connectors/com.ismynumberspam/spam-i-am/badges/score.svg)](https://glama.ai/mcp/connectors/com.ismynumberspam/spam-i-am)
+  🔓 - See how AT&T, Verizon and T-Mobile label your outbound number on real phones, with caller name and a screenshot.
 - [Subo](https://subo.gg/blog/connect-discord-community-to-ai-agent/) `https://api.subo.ai/mcp`
   [![Subo MCP connector](https://glama.ai/mcp/connectors/gg.subo/survey-bot/badges/score.svg)](https://glama.ai/mcp/connectors/gg.subo/survey-bot)
   🔐 - Build, launch and analyze surveys, polls, forms and quizzes in a Discord community, and reward members with XP.
