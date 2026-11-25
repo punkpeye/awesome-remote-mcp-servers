@@ -4227,6 +4227,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
+- [AyeWatch](https://ayewatch.ai/documentation/mcp) `https://ayewatch.ai/api/mcp`
+  [![AyeWatch MCP connector](https://glama.ai/mcp/connectors/ai.ayewatch/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ayewatch/monitors)
+  🔑 - Create, edit, pause and delete monitors for web pages, news and social media, and send alerts to a webhook.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
   [![Baromio MCP connector](https://glama.ai/mcp/connectors/io.baromio/baromio/badges/score.svg)](https://glama.ai/mcp/connectors/io.baromio/baromio)
   🔐 - Read uptime, incidents, SSL, domain expiry and Core Web Vitals; create, edit and pause monitors on paid plans.
