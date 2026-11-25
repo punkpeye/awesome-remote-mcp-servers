@@ -1200,6 +1200,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![chartlink MCP connector](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oscarleoo/chartlink)
   🔓 - Charts and tables with live-updating embed links, drafted from one message; tools need a key.
 - [MyTierList](https://mytierlist.net/developers) `https://mytierlist.net/mcp`
+  [![MyTierList MCP connector](https://glama.ai/mcp/connectors/net.mytierlist/tier-lists/badges/score.svg)](https://glama.ai/mcp/connectors/net.mytierlist/tier-lists)
   🔓 - Tier list maker and community consensus rankings: keyless lookups and instant PNG rendering; free key for saved lists.
 - [ngx-json-render UI](https://ngx-json-render.vercel.app) `https://ngx-json-render.vercel.app/mcp`
   [![ngx-json-render UI MCP connector](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui)
