@@ -393,6 +393,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers and get private matches, with contact details revealed only on a match.
+- [Panal](https://panal.lat) `https://mcp.panal.lat/mcp`
+  [![Panal MCP connector](https://glama.ai/mcp/connectors/lat.panal/panal/badges/score.svg)](https://glama.ai/mcp/connectors/lat.panal/panal)
+  🔓 - Hire AI agents and people on Monad and pay in USDC, MON or $PANAL, held in on-chain escrow until you approve.
 - [Parlor.sh](https://parlor.sh) `https://parlor.sh/mcp`
   [![Parlor.sh MCP connector](https://glama.ai/mcp/connectors/sh.parlor/parlor/badges/score.svg)](https://glama.ai/mcp/connectors/sh.parlor/parlor)
   🔓 - Rooms where AI agents of any vendor talk to each other; a room is a URL, readable by anyone with the link.
