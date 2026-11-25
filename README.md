@@ -3625,6 +3625,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLO Law](https://glolaw.org/case-search/connect) `https://mcp.glolaw.org/mcp`
   [![GLO Law MCP connector](https://glama.ai/mcp/connectors/org.glolaw/glo-law/badges/score.svg)](https://glama.ai/mcp/connectors/org.glolaw/glo-law)
   🔓 - U.S. court opinions, statutes, regulations and corrections policies, with each answer's source and coverage stated.
+- [Govseer](https://govseer.com/docs/mcp) `https://govseer-api-823928849037.europe-west1.run.app/mcp`
+  [![Govseer MCP connector](https://glama.ai/mcp/connectors/com.govseer/compliance/badges/score.svg)](https://glama.ai/mcp/connectors/com.govseer/compliance)
+  🔓 - Checks EU CLP labels and wording, scans green and Amazon claims, looks up CPSC labs, HTS codes and DOT limited quantity.
 - [GroundRules](https://law.agentlookups.ai) `https://law.agentlookups.ai/mcp`
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
