@@ -542,6 +542,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nano Studio Pro](https://nanostudiopro.com) `https://nanostudiopro.com/api/mcp`
   [![Nano Studio Pro MCP connector](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro/badges/score.svg)](https://glama.ai/mcp/connectors/com.nanostudiopro/studiopro)
   🔐 - Find any photo or video you own by what is inside it; generate, restyle, cut out, and build sprite sheets.
+  - [NowFound](https://nowfound.app/agents) `https://nowfound.app/mcp`
+  [![NowFound MCP connector](https://glama.ai/mcp/connectors/app.nowfound/now-found/badges/score.svg)](https://glama.ai/mcp/connectors/app.nowfound/now-found)
+  🔓 - Search 800,000 product launches by the job they do and add your own product to a free directory, no account needed.
 - [Numonic](https://www.numonic.ai/docs/api/mcp) `https://www.numonic.ai/mcp`
   [![Numonic MCP connector](https://glama.ai/mcp/connectors/ai.numonic/numonic/badges/score.svg)](https://glama.ai/mcp/connectors/ai.numonic/numonic)
   🔐 - Search, organize, and publish AI-generated images and video with provenance and lineage.
