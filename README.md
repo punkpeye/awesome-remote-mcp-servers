@@ -5220,6 +5220,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
+- [EveryAI](https://every-ai.com) `https://api.every-ai.com/mcp`
+  [![EveryAI MCP connector](https://glama.ai/mcp/connectors/com.every-ai/ai-tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.every-ai/ai-tools)
+  🔓 - Pick the right AI tool for any task: search and compare 2,000+ reviewed AI tools, or list yours.
 - [EveryInfra](https://everyinfra.com/en) `https://api.everyinfra.com/mcp`
   [![EveryInfra MCP connector](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra)
   🔓 - Structured data from 90 platforms, incl. RedNote, Douyin, TikTok and Amazon, plus web search; API key for tool calls.
