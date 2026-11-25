@@ -1787,6 +1787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CartViral](https://cartviral.com/mcp) `https://app.cartviral.com/mcp`
   [![CartViral MCP connector](https://glama.ai/mcp/connectors/com.cartviral/cartviral/badges/score.svg)](https://glama.ai/mcp/connectors/com.cartviral/cartviral)
   🔐 - Import store products, generate TikTok and Reels product clips, get download links, join brand affiliate offers.
+- [Chexlow](https://chexlow.com/developers) `https://chexlow.com/mcp`
+  [![Chexlow MCP connector](https://glama.ai/mcp/connectors/com.chexlow/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.chexlow/catalog)
+  🔓 - Search fashion, beauty, and sports products and compare live store prices across retailers.
 - [China Sourcing Audit](https://lu7897859-tech.github.io/doors/sourcing-audit/) `https://x402-stable-door.lu7897859.workers.dev/mcp`
   [![China Sourcing Audit MCP connector](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lu7897859-tech/china-sourcing-audit)
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
