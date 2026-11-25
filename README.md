@@ -5785,6 +5785,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
+- [AppStruct Social](https://appstruct.ai/social?utm_source=awesome_remote_mcp&utm_medium=referral&utm_campaign=social_mcp_launch_20261114&utm_content=directory_visit) `https://api.appstruct.ai/v1/social/mcp`
+  [![AppStruct Social MCP connector](https://glama.ai/mcp/connectors/io.github.VladimirTambovtsev/appstruct-social/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.VladimirTambovtsev/appstruct-social)
+  🔑 - Read social channels and analytics, and create or revise unscheduled drafts for review.
 - [Breakreach](https://www.breakreach.com/agents) `https://api.breakreach.com/mcp`
   [![Breakreach MCP connector](https://glama.ai/mcp/connectors/com.breakreach/breakreach/badges/score.svg)](https://glama.ai/mcp/connectors/com.breakreach/breakreach)
   🔐 - Schedule and publish posts on 19 social networks, reply to comments and DMs, and read post analytics.
