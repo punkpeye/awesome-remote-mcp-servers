@@ -5003,6 +5003,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Electronics Architect](https://electronics-architect.com/developers) `https://electronics-architect.com/mcp`
   [![Electronics Architect MCP connector](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect/badges/score.svg)](https://glama.ai/mcp/connectors/com.electronics-architect/electronics-architect)
   🔐 - Solves DC/DC power trees with real parts: each rail's current, efficiency, dissipation and tolerance corners.
+- [EnergyIA.NET](https://energyia.net) `https://energyia.net/mcp`
+  [![EnergyIA.NET MCP connector](https://glama.ai/mcp/connectors/net.energyia/energyia/badges/score.svg)](https://glama.ai/mcp/connectors/net.energyia/energyia)
+  🔐 - Official oil, gas and mining data for 12 countries of the Americas, month by month, every figure with its source.
 - [FateTell](https://fatetell.com/mcp) `https://mcp.fatetell.com/mcp`
   [![FateTell MCP connector](https://glama.ai/mcp/connectors/com.fatetell/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fatetell/mcp)
   🔓 - Chinese astrology computed by FateTell's own BaZi engine: cast charts, check the Chinese almanac, open saved charts.
