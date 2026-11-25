@@ -261,6 +261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScorpTech x402 Tools](https://scorptech.it.com/api/x402/docs) `https://scorptech.it.com/api/x402/mcp`
   [![ScorpTech x402 Tools MCP connector](https://glama.ai/mcp/connectors/com.it.scorptech/x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.it.scorptech/x402)
   🔓 - 1,012 pay-per-call tools: web data, SEO, security, OSINT, SEC filings and Solana/EVM lookups; USDC via x402.
+- [Shortlist SaaS](https://shortlistsaas.com/mcp-server) `https://shortlistsaas.com/mcp`
+  [![Shortlist SaaS MCP connector](https://glama.ai/mcp/connectors/com.shortlistsaas/shortlist/badges/score.svg)](https://glama.ai/mcp/connectors/com.shortlistsaas/shortlist)
+  🔓 - Describe what you need in your own words and find software that fits, with no sign-up.
 - [SkillTide](https://anclum.com) `https://anclum.com/mcp`
   [![SkillTide MCP connector](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp)
   🔓 - Search 7,500+ MCP servers, agent skills and AI projects with verified official links.
