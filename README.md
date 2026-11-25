@@ -3693,6 +3693,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![402registry MCP connector](https://glama.ai/mcp/connectors/com.402registry/402registry/badges/score.svg)](https://glama.ai/mcp/connectors/com.402registry/402registry)
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
 
+- [Adbloop](https://adbloop.com/mcp/) `https://mcp.adbloop.com/mcp`
+  [![Adbloop Meta Ads MCP connector](https://glama.ai/mcp/connectors/com.adbloop/meta-ads/badges/score.svg)](https://glama.ai/mcp/connectors/com.adbloop/meta-ads)
+  🔐 - Create and manage Facebook and Instagram (Meta) ad campaigns from Claude, ChatGPT, or Cursor. Bulk creation, multi-account, spend guardrails. Meta Verified Tech Provider, free plan.
+
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
   [![AdRadar MCP connector](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Egggy1998/adradar)
   🔐 - Find competitors' longest-running Meta and TikTok ads, scored by hook, angle and audience.
@@ -3726,6 +3730,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AffiliateBase](https://www.affiliatebase.io) `https://app.affiliatebase.io/mcp`
   [![AffiliateBase MCP connector](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase/badges/score.svg)](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase)
   🔐 - Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions and payouts.
+
 
 - [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
   [![AfterLaunch MCP connector](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing)
