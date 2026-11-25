@@ -2739,6 +2739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [pdata](https://pdata.world/agents) `https://api.pdata.world/mcp`
   [![pdata MCP connector](https://glama.ai/mcp/connectors/world.pdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/world.pdata/mcp)
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
+- [PerpSpread](https://perpspread.com) `https://perpspread.com/api/mcp`
+  [![PerpSpread MCP connector](https://glama.ai/mcp/connectors/io.github.123mason123/perpspread-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.123mason123/perpspread-mcp)
+  🔓 🔑 - Live 7-venue crypto perpetual funding rate arbitrage spreads, 7D/30D settled history, Top-20 L2 orderbook slippage audits, and cash-and-carry yields across OKX, Binance, Bybit, Bitget, Gate.io, Hyperliquid, and Aster.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
