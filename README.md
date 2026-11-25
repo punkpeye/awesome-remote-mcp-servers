@@ -5865,6 +5865,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pith](https://pith.day/connect/mcp) `https://pith.day/api/mcp`
   [![Pith MCP connector](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing/badges/score.svg)](https://glama.ai/mcp/connectors/day.pith/pith-instagram-publishing)
   🔐 - Publish your photo and caption to Instagram, and review and approve daily AI story drafts.
+- [Pom Labs Social Data](https://apify.com/pomlabs) `https://mcp.apify.com/?tools=pomlabs/youtube-comments-scraper,pomlabs/social-video-transcript,pomlabs/linkedin-company-scraper,pomlabs/youtube-transcript-scraper,pomlabs/instagram-profile-data,pomlabs/aliexpress-scraper,pomlabs/linkedin-profile-scraper,pomlabs/reddit-posts-comments-scraper,pomlabs/threads-scraper,pomlabs/video-downloader,pomlabs/page-time-machine,pomlabs/google-trends-scraper,pomlabs/ai-brand-visibility,pomlabs/mercadolivre-coupon-checker,pomlabs/image-moderation-tagger`
+  [![Pom Labs Social Data MCP connector](https://glama.ai/mcp/connectors/dev.workers.pomlabs.pom-data-api/pomlabs-social-data/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.pomlabs.pom-data-api/pomlabs-social-data)
+  🔐 - Social data: Reddit posts and comments (incl. deleted), Instagram, TikTok and YouTube transcripts, LinkedIn, Threads.
 - [Post Bridge](https://www.post-bridge.com/mcp) `https://www.post-bridge.com/api/mcp/mcp`
   [![Post Bridge MCP connector](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jackfriks/post-bridge)
   🔐 - Publish, schedule and analyze posts across ten platforms, from Instagram and TikTok to LinkedIn and Bluesky.
