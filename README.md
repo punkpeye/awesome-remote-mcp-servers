@@ -6471,6 +6471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [Hourbun](https://hourbun.com/developers#mcp) `https://hourbun.com/api/v1/mcp`
+  [![Hourbun MCP connector](https://glama.ai/mcp/connectors/com.hourbun/hourbun/badges/score.svg)](https://glama.ai/mcp/connectors/com.hourbun/hourbun)
+  🔐 - Track time with timers, and read projects, expenses and uninvoiced time, for freelancers and small teams.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
