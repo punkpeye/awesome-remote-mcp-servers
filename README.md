@@ -2264,6 +2264,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apifirme](https://apifirme.dev) `https://api.apifirme.dev/mcp`
   [![apifirme MCP connector](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme)
   🔐 - Romanian company data from official registers: status, VAT, financial statements, new registrations, BNR rates.
+- [ArcanumFleet](https://arcanumfleet.com/x402) `https://arcanumfleet.com/mcp`
+  🔓 - 16-tool x402 v2 MCP server for Solana & Base wallet profiling, SPL rug-checks, whale signals, Jupiter quotes, multi-chain token prices, domain enrichment, web extraction, and code audits; $0.001–$0.01 USDC via x402.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
