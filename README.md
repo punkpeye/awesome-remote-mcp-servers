@@ -2940,6 +2940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradingMCP](https://tradingmcp.ai) `https://mcp.cryptosieve.com/mcp`
   [![TradingMCP MCP connector](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp)
   🔓 - Market screeners, technical analysis, backtests and charts for crypto, stocks and FX; tool calls need an API key.
+  - [Trading Statistics by Ocarrat](https://trading-statistic-reporting.ocarrat.com/agents) `https://jenhcscubhbklxxpattl.supabase.co/functions/v1/mcp`
+  [![Trading Statistics by Ocarrat MCP connector](https://glama.ai/mcp/connectors/co.supabase.jenhcscubhbklxxpattl/trading-statistics-by-ocarrat/badges/score.svg)](https://glama.ai/mcp/connectors/co.supabase.jenhcscubhbklxxpattl/trading-statistics-by-ocarrat)
+  🔐 - Futures and options trading journal with PnL, weekly reviews, risk checks, sizing, Monte Carlo forecasts and trade logs.
 - [TRON USDT Risk Checker](https://usdt.chikocorp.com/mcp-server) `https://usdt.chikocorp.com/mcp`
   [![TRON USDT Risk Checker MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/tron-usdt-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/tron-usdt-mcp)
   🔓 - Tether USDT blacklist check for TRON addresses (free), plus OFAC screening and AML reports via x402 or API key.
