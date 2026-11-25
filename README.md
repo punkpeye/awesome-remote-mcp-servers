@@ -184,6 +184,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Egbe](https://egbe.ai) `https://os.hz.egbe.dev/mcp`
   [![Egbe MCP connector](https://glama.ai/mcp/connectors/ai.egbe/egbe/badges/score.svg)](https://glama.ai/mcp/connectors/ai.egbe/egbe)
   🔐 - Hosting, databases, email, analytics, payments, ads and research for the business you run with Egbe.
+- [ExchangeRebel](https://exchangerebel.com) `https://exchangerebel.com/mcp`
+  [![ExchangeRebel MCP connector](https://glama.ai/mcp/connectors/com.exchangerebel/exchangerebel/badges/score.svg)](https://glama.ai/mcp/connectors/com.exchangerebel/exchangerebel)
+  🔓 - 180 pay-per-call APIs for AI agents: market, company, weather and dev tools, paid via x402 on Solana.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
 - [FiatDock](https://fiatdock.com) `https://fiatdock.com/mcp`
