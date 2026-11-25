@@ -1949,7 +1949,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free read-only WooCommerce store checks: SSL, exposed files, SEO basics, speed, products and store policies.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
-  🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
+  🔓 - Search, compare and buy tea from a UK online tea shop; no sign-in needed to shop.
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
