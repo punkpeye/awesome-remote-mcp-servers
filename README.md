@@ -5069,6 +5069,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuickUnits](https://quickunits.global) `https://quickunits.global/mcp`
   [![QuickUnits MCP connector](https://glama.ai/mcp/connectors/io.github.Robomupp/quickunits/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Robomupp/quickunits)
   🔓 - Exact unit conversion across 213 pairs: states the factor behind each answer and cites a page per conversion.
+- [RealRep](https://app.realrep.org) `https://app.realrep.org/api/mcp`
+  [![RealRep MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/realrep/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/realrep)
+  🔓 - Research elected representatives, legislative voting records, and civic accountability benchmarks via Democracy AI.
 - [Research Methods Library](https://research-methods-mcp.vercel.app/) `https://research-methods-mcp.vercel.app/mcp`
   [![Research Methods Library MCP connector](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mikenguyen13/research-methods-mcp)
   🔓 - Study designs, assumptions, runnable R and Python code, and citations from research methods textbooks.
