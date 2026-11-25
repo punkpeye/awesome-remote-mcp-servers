@@ -5294,6 +5294,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Jsonify](https://jsonify.com) `https://factory.jsonify.com/mcp`
   [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
   🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
+- [Legends Gambit](https://cto-legends.com/gambit) `https://gambit.cto-legends.com/mcp`
+  [![Legends Gambit MCP connector](https://glama.ai/mcp/connectors/com.cto-legends/gambit/badges/score.svg)](https://glama.ai/mcp/connectors/com.cto-legends/gambit)
+  🔓 - Open-beta SEO & market intelligence MCP (SERP, keywords, teardowns, hex Maps grids; Bearer key for paid calls).
 - [LightRay](https://www.lightray.ai/claude?ref=AR) `https://app.lightray.ai/mcp`
   [![LightRay MCP connector](https://glama.ai/mcp/connectors/ai.lightray/lightray/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lightray/lightray)
   🔓 - Company report on who owns and runs a company, its filings, court matters and press.
