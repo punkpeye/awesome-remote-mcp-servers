@@ -4650,6 +4650,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Paxiom](https://paxiom.org) `https://api.paxiom.org/mcp`
   [![Paxiom MCP connector](https://glama.ai/mcp/connectors/io.github.k-luecke/paxiom-receipts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.k-luecke/paxiom-receipts)
   🔓 - Verify, issue, and explain Ed25519 proof-bound receipts and preflight x402 APIs before payment.
+- [PayCheck](https://paycheck.bigfloppy.net) `https://paycheck.bigfloppy.net/mcp`
+  [![PayCheck MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.paycheck/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.paycheck/paycheck)
+  🔓 - Verify USDC payments on Base mainnet before an agent acts: confirm a transaction paid a wallet, read balances, decode transfers; free, no key.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
