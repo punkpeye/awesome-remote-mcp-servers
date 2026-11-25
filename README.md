@@ -814,6 +814,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
   [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
   🔓 - Add production storage, data, jobs, webhooks, email and secrets to an app, and meter the usage.
+- [Turn Zero Cloud for Backend & Hosting](https://turnzero.ai/backend-and-hosting) `https://tzcloud.turnzero.ai/mcp`
+  [![Turn Zero Cloud for Backend & Hosting MCP connector](https://glama.ai/mcp/connectors/ai.turnzero/tzcloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.turnzero/tzcloud)
+  🔐 - Deploy and run websites, PostgreSQL, functions, sign-in, file storage and Node.js servers from your AI coding tool.
 - [Utplava](https://utplava.dev/mcp/) `https://app.utplava.dev/api/mcp`
   [![Utplava MCP connector](https://glama.ai/mcp/connectors/dev.utplava.app/utplava/badges/score.svg)](https://glama.ai/mcp/connectors/dev.utplava.app/utplava)
   🔐 - Deploy GitHub repos built with AI tools: put apps online, check status, read logs and set environment variables.
@@ -1678,6 +1681,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
+- [Turn Zero Tools for AI](https://turnzero.ai/tztools/) `https://tztools.turnzero.ai/mcp`
+  [![Turn Zero Tools for AI MCP connector](https://glama.ai/mcp/connectors/ai.turnzero/tztools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.turnzero/tztools)
+  🔐 - Messaging between Claude Code and Codex sessions, a cross-session issue list and image generation for your AI.
 - [TweakThis](https://tweakthis.io/docs/mcp) `https://tweakthis.io/mcp`
   [![TweakThis MCP connector](https://glama.ai/mcp/connectors/io.tweakthis/tweak-this/badges/score.svg)](https://glama.ai/mcp/connectors/io.tweakthis/tweak-this)
   🔐 - Read, claim and resolve UI feedback left on your website: the note, element selectors and a screenshot.
