@@ -2922,6 +2922,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
+- [topimones.lt](https://www.topimones.lt/imones-mcp) `https://www.topimones.lt/mcp`
+  [![topimones.lt MCP connector](https://glama.ai/mcp/connectors/lt.topimones/registry/badges/score.svg)](https://glama.ai/mcp/connectors/lt.topimones/registry)
+  🔓 - Lithuanian company register (beta): look up firms by name, code, VAT or LEI, plus tax, insolvency and procurement data.
 - [TraderSpy](https://traderspy.app/mcp) `https://mcp.traderspy.app/mcp`
   [![TraderSpy MCP connector](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
   🔓 - Crypto futures signals, whale positions on four exchanges, indicators and a screener; free key.
