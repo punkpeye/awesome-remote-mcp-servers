@@ -5974,6 +5974,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VoiceMoat](https://voicemoat.com/mcp) `https://app.voicemoat.com/api/mcp`
   [![VoiceMoat MCP connector](https://glama.ai/mcp/connectors/com.voicemoat/voicemoat/badges/score.svg)](https://glama.ai/mcp/connectors/com.voicemoat/voicemoat)
   🔐 - Score drafts against your voice profile, improve them, and schedule or publish posts on Twitter/X and LinkedIn.
+- [XCROP](https://xcrop.io/mcp) `https://xcrop.io/api/mcp`
+  [![XCROP MCP connector](https://glama.ai/mcp/connectors/io.xcrop/x-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.xcrop/x-data)
+  🔑 - Read public X (Twitter) profiles, posts, followers and search, and verify follows, reposts, replies and quotes.
 - [XPlanner](https://xplanner.co/en/mcp) `https://mcp.xplanner.co/mcp`
   [![XPlanner MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sooler-Studio/xplanner)
   🔐 - Turn ideas into platform-ready drafts, schedule posts, and publish from one content workspace.
