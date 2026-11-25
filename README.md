@@ -6321,6 +6321,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
   [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
   🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
+- [Tineo](https://tineo.ai) `https://api.tineo.ai/mcp`
+  [![Tineo MCP connector](https://glama.ai/mcp/connectors/ai.tineo/tineo/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tineo/tineo)
+  🔐 - Keep flights, stays and plans in one shared trip itinerary; add bookings, search places and look up flights.
 - [TourismMCP](https://ai.projektionisten.eu/mcp-landingpage/#tmcp) `https://ai.projektionisten.eu/tmcp`
   [![TourismMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/tourism/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/tourism)
   🔐 - German travel: sights, opening hours, prices, events, weather and tides, densest in Lower Saxony.
