@@ -4627,7 +4627,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
 - [BotsRated](https://botsrated.com) `https://botsrated.com/mcp`
   [![BotsRated MCP connector](https://glama.ai/mcp/connectors/com.botsrated/botsrated/badges/score.svg)](https://glama.ai/mcp/connectors/com.botsrated/botsrated)
-  🔓 - Look up measured status, 402 validity, latency, price and payTo of paid x402 APIs on Base before paying.
+  🔓 - Signed checks of paid x402 APIs (Base & Solana), MPP endpoints, and remote MCP servers before paying.
 - [Checkout Page](https://checkoutpage.com) `https://mcp.checkoutpage.com`
   [![Checkout Page MCP connector](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page/badges/score.svg)](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page)
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
