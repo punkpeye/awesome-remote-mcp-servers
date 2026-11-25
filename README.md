@@ -5490,6 +5490,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unique Domains](https://unique.domains/api/mcp) `https://mcp.unique.domains/mcp`
   [![Unique Domains MCP connector](https://glama.ai/mcp/connectors/domains.unique/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/domains.unique/mcp-server)
   🔓 - Is a domain name taken, what nine registrars charge for it, and its renewal traps, from 37 million names read daily.
+- [Unredactus](https://unredactus.com) `https://unredactus.com/api/mcp`
+  [![Unredactus MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/unredactus/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/unredactus)
+  🔓 - Search public-record document metadata, provenance notes, and structured transparency archives on Unredactus.
 - [URLpipe](https://urlpipe.dev/mcp-server) `https://urlpipe.dev/mcp`
   [![URLpipe MCP connector](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urlpipe/urlpipe)
   🔓 - Read any page after its JavaScript runs: Markdown, screenshots, metadata and Lighthouse. Tool calls need a free API key.
