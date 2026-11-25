@@ -6222,6 +6222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GC Airport Transfers](https://gc-airporttransfers.com.au/ai-agent-gateway/) `https://gc-airporttransfers.com/wp-json/atb-gateway/v1/mcp`
   [![GC Airport Transfers MCP connector](https://glama.ai/mcp/connectors/com.gc-airporttransfers/booking/badges/score.svg)](https://glama.ai/mcp/connectors/com.gc-airporttransfers/booking)
   🔓 - Private airport & cruise transfers: Gold Coast, Brisbane and Byron Bay (Queensland). Quotes + bookings.
+- [Geo Govoy](https://geo.govoy.es) `https://geo.govoy.es/mcp`
+  [![Geo Govoy MCP connector](https://glama.ai/mcp/connectors/es.govoy.geo/geo-govoy/badges/score.svg)](https://glama.ai/mcp/connectors/es.govoy.geo/geo-govoy)
+  🔐 - Spain only: address geocoding, drive times by departure hour, DGT traffic incidents and AEMET weather per stop.
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
