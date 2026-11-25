@@ -4897,6 +4897,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RenovationRoute](https://renovationroute.com/contractors/federal-opportunities) `https://mcp.renovationroute.com/mcp`
   [![RenovationRoute MCP connector](https://glama.ai/mcp/connectors/com.renovationroute/federal-opportunities/badges/score.svg)](https://glama.ai/mcp/connectors/com.renovationroute/federal-opportunities)
   🔓 - Search open US federal construction bids from SAM.gov by state, NAICS code or keyword; no login needed.
+- [SEA Cold Chain](https://seacoldchain.com/method#ai-tools) `https://seacoldchain.com/mcp`
+  [![SEA Cold Chain MCP connector](https://glama.ai/mcp/connectors/com.seacoldchain/markets/badges/score.svg)](https://glama.ai/mcp/connectors/com.seacoldchain/markets)
+  🔓 - Cold storage totals for Southeast Asian markets: sites, pallet capacity, tiers and pipeline, with citations.
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
