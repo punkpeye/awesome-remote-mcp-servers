@@ -1134,6 +1134,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FavCRM](https://favcrm.io/en/ai-agents/) `https://api.favcrm.io/mcp`
   [![FavCRM MCP connector](https://glama.ai/mcp/connectors/io.favcrm/favcrm/badges/score.svg)](https://glama.ai/mcp/connectors/io.favcrm/favcrm)
   🔓 - Manage bookings, customers, memberships, loyalty, invoices, and WhatsApp messaging; API key or OAuth for calls.
+- [Growth Intel](https://growthintel.net/en/docs#mcp) `https://growthintel.net/mcp/leads`
+  [![Growth Intel MCP connector](https://glama.ai/mcp/connectors/net.growthintel/growthintel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.growthintel/growthintel-mcp)
+  🔐 - Zero-PII, read-only CRM and ad attribution server: multi-dimensional lead intent scoring, natural language search, and campaign performance (public sandbox token `gi_sandbox_live_demo_key` or OAuth 2.0).
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
