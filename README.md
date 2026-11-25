@@ -1904,8 +1904,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PegaRex](https://pegarex.com.br) `https://pegarex.com.br/api/mcp`
   [![PegaRex MCP connector](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex)
   🔓 - Search 1.8M+ live Brazilian used-car and motorcycle listings with FIPE prices, price ranges and cheapest states.
-  - [Perklo](https://www.perklo.lol) `https://www.perklo.lol/mcp`
-    [![Perklo MCP connector](https://glama.ai/mcp/connectors/lol.perklo/perklo-uk-deals/badges/score.svg)](https://glama.ai/mcp/connectors/lol.perklo/perklo-uk-deals)
+- [Perklo](https://www.perklo.lol) `https://www.perklo.lol/mcp`
+  [![Perklo MCP connector](https://glama.ai/mcp/connectors/lol.perklo/perklo-uk-deals/badges/score.svg)](https://glama.ai/mcp/connectors/lol.perklo/perklo-uk-deals)
     🔓 - Live UK deals, global voucher codes and ticket announcements for AI agents.
 - [Pokemon TCG Restock Alerts - bujusjujus](https://bujusjujus.com/api) `https://bujusjuj.us/mcp`
   [![Pokemon TCG Restock Alerts - bujusjujus MCP connector](https://glama.ai/mcp/connectors/com.bujusjujus/alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.bujusjujus/alerts)
