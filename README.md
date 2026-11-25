@@ -4441,6 +4441,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Incarn](https://www.incarn.co/developers) `https://api.incarn.co/mcp`
   [![Incarn MCP connector](https://glama.ai/mcp/connectors/co.incarn/photo-animation/badges/score.svg)](https://glama.ai/mcp/connectors/co.incarn/photo-animation)
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
+- [InfinityLooper](https://infinitylooper.com) `https://infinitylooper.com/mcp`
+  [![InfinityLooper MCP connector](https://glama.ai/mcp/connectors/com.infinitylooper/loops/badges/score.svg)](https://glama.ai/mcp/connectors/com.infinitylooper/loops)
+  🔐 - Search and download free seamless looping video backgrounds (MP4, up to 4K) for streams and presentations.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
 - [Kelpo](https://kelpo.app) `https://kelpo.app/api/mcp`
