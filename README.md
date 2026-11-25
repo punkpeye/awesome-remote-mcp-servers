@@ -4463,6 +4463,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lazybird](https://lazybird.app/chatgpt-claude-connector) `https://api.lazybird.app/mcp`
   [![Lazybird MCP connector](https://glama.ai/mcp/connectors/io.github.lazybirdai/lazybird/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lazybirdai/lazybird)
   🔐 - Search 500+ AI voices in 150+ languages, turn scripts into MP3 voiceovers, and design or clone voices.
+- [Levea](https://livecore.ai) `https://api.livecore.ai/api/v1/misc/mcp`
+  [![Levea MCP connector](https://glama.ai/mcp/connectors/ai.livecore/levea-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/ai.livecore/levea-mcp-server)
+  🔐 - Edit videos in plain English or via 189+ canonical NLE actions: 280+ animated caption templates, 9:16 active-speaker reframe, silence removal, B-roll, motion graphics, audio ducking, and cloud MP4 export.
 - [Lexu](https://www.lexu.io/en/developers) `https://www.lexu.io/mcp`
   [![Lexu MCP connector](https://glama.ai/mcp/connectors/io.lexu/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.lexu/mcp)
   🔐 - Generate images, videos, music and voice-overs on one credit balance, priced before each job.
