@@ -5944,6 +5944,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SyncBooster](https://syncbooster.pl/en/mcp) `https://api.syncbooster.pl/mcp`
   [![SyncBooster MCP connector](https://glama.ai/mcp/connectors/pl.syncbooster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/pl.syncbooster/mcp)
   🔐 - Draft, schedule and publish social media posts to many platforms, with a separate text for each.
+- [TikTok & TikTok Shop Data](https://github.com/Techssss/tiktok-scraper-api-tiktok-shop-no-watermark) `https://tiktok-scraper-api.minhnghiathcstp.workers.dev/mcp`
+  [![TikTok & TikTok Shop Data MCP connector](https://glama.ai/mcp/connectors/io.github.Techssss/tiktok-shop-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Techssss/tiktok-shop-mcp-server)
+  🔓 🔑 - Public TikTok and TikTok Shop (OEC) data across 22+ countries: watermark-free video metadata, Whisper ASR transcripts, VQScore algorithm audits, product SKUs, seller profiles and StrongBeat audio timestamps; 3 tools are anonymous, cloud tools use a RapidAPI key.
 - [Tailwind](https://www.tailwindapp.com/mcp?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-directories) `https://mcp.tailwind.ai`
   [![Tailwind MCP connector](https://glama.ai/mcp/connectors/ai.tailwind/tailwind-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tailwind/tailwind-mcp)
   🔐 - Create, schedule, and analyze Pinterest Pins across your connected Pinterest accounts.
