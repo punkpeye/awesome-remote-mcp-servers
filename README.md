@@ -4241,6 +4241,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
+- [Observe](https://observe.live/docs/mcp) `https://observe.live/mcp`
+  [![Observe MCP connector](https://glama.ai/mcp/connectors/live.observe/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.observe/mcp)
+  🔐 - Uptime, SSL, DNS, crawl and heartbeat checks: read monitors and incidents, schedule maintenance, post status updates.
 - [OpenUptime](https://openuptime.app/docs/mcp) `https://openuptime.app/api/mcp`
   [![OpenUptime MCP connector](https://glama.ai/mcp/connectors/app.openuptime/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.openuptime/mcp)
   🔐 - Manage uptime monitors, incidents and public status pages.
