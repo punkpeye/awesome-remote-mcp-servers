@@ -1965,6 +1965,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
+- [Vertar](https://vertar.com/ai) `https://vertar.com/mcp`
+  [![Vertar MCP connector](https://glama.ai/mcp/connectors/com.vertar/vertar/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertar/vertar)
+  🔓 - UK performance and prestige cars for sale at specialist dealers, with asking prices, price history and market figures.
 - [VNCNT Labs Seller Tools](https://vncntlabs.com/mcp/) `https://mcp.apify.com/?tools=vncntlabs/pod-trademark-checker,vncntlabs/keyword-ideas,vncntlabs/google-shopping-scraper,vncntlabs/print-ready-upscaler,vncntlabs/png-to-svg-vectorizer,vncntlabs/amazon-book-tshirt-niche-analyzer,vncntlabs/amazon-product-scraper,vncntlabs/google-images-scraper,vncntlabs/amazon-best-sellers`
   [![VNCNT Labs Seller Tools MCP connector](https://glama.ai/mcp/connectors/io.github.PravinrajV/vncntlabs-seller/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PravinrajV/vncntlabs-seller)
   🔐 - Amazon products, best seller charts and niche research, USPTO trademark checks, Google Shopping prices, print upscaling.
