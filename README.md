@@ -1942,6 +1942,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sofala](https://sofala.market) `https://sofala.market/mcp`
   [![Sofala MCP connector](https://glama.ai/mcp/connectors/market.sofala/sofala/badges/score.svg)](https://glama.ai/mcp/connectors/market.sofala/sofala)
   🔐 - Marketplace for goods, collectibles, real estate and services: list from a photo, search, message, offer, close deals.
+- [Spree Commerce](https://spreecommerce.org/docs) `https://spreecommerce.org/docs/mcp`
+  [![Spree Commerce MCP connector](https://glama.ai/mcp/connectors/io.github.spree/ecommerce-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.spree/ecommerce-docs)
+  🔓 - Search and read the docs of Spree Commerce, open-source B2B and marketplace ecommerce: APIs, SDKs and setup.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [Store Canary](https://storecanary.app/mcp) `https://mcp.storecanary.app/mcp`
