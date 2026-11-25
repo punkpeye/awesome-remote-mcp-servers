@@ -1995,7 +1995,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
-- [IBAN Analyzer](https://iban-analyzer.com/ib-api/api-docs) `https://iban-analyzer.com/mcp`
+- [IBAN Analyzer](https://iban-analyzer.com/mcp-server) `https://iban-analyzer.com/mcp`
+  [![IBAN Analyzer MCP connector](https://glama.ai/mcp/connectors/com.iban-analyzer/iban-analyzer/badges/score.svg)](https://glama.ai/mcp/connectors/com.iban-analyzer/iban-analyzer)
   🔑 - Resolve an IBAN to its bank: name, BIC/SWIFT, city and address, from national bank registers.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
