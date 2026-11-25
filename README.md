@@ -1281,6 +1281,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Breakwire](https://breakwire.org) `https://breakwire.org/mcp?ref=awesome-remote-mcp`
   [![Breakwire MCP connector](https://glama.ai/mcp/connectors/org.breakwire/breakwire/badges/score.svg)](https://glama.ai/mcp/connectors/org.breakwire/breakwire)
   🔓 - Look up an API, SDK or MCP error; get the source-linked breaking change, deprecation or advisory and its fix.
+- [Bring Your AI](https://bringyour.ai) `https://bringyour.ai/mcp`
+  [![Bring Your AI MCP connector](https://glama.ai/mcp/connectors/ai.bringyour/bringyour/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bringyour/bringyour)
+  🔓 - Preview agent setup moves and return local CLI install and checkout handoffs without receiving harness files.
 - [CacheBoost](https://www.cache-boost.com/support/mcp/overview) `https://api.cache-boost.com/mcp`
   [![CacheBoost MCP connector](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost/badges/score.svg)](https://glama.ai/mcp/connectors/com.cache-boost/cacheboost)
   🔑 - Warm CDN and reverse-proxy caches from 12 regions after a deploy or purge, then read the run's hit/miss stats.
