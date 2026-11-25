@@ -4764,7 +4764,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
 - [Slatebox](https://slatebox.com) `https://app.slatebox.com/mcp`
   [![Slatebox MCP connector](https://glama.ai/mcp/connectors/com.slatebox/slatebox/badges/score.svg)](https://glama.ai/mcp/connectors/com.slatebox/slatebox)
-  🔐 - Create and edit mind maps, flowcharts, project plans and presentations on a shared canvas.
+  🔐 - Draw and edit diagrams, flowcharts, mind maps, whiteboards, retro boards, Gantt plans and presentations with your team on one live, open-source canvas, and turn Mermaid into editable slates.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
