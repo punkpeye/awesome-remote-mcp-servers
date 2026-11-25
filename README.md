@@ -3306,6 +3306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Swissmote](https://swissmote.com) `https://api.swissmote.com/v2/api/public/mcp`
+  [![Swissmote MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/swissmote/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/swissmote)
+  🔓 - Search open remote startup and engineering roles published on Swissmote with role details and apply links.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
