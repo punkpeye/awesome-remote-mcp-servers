@@ -3583,6 +3583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
+- [Bannerproof](https://bannerproof.app/mcp) `https://api.bannerproof.app/mcp`
+  [![Bannerproof MCP connector](https://glama.ai/mcp/connectors/app.bannerproof/bannerproof/badges/score.svg)](https://glama.ai/mcp/connectors/app.bannerproof/bannerproof)
+  🔐 - Audits cookie consent like an EU first-time visitor: trackers before consent, Reject all, Consent Mode v2, TCF.
 - [BRANCO](https://droit.juan-branco.fr/installer) `https://droit.juan-branco.fr/api/mcp/oauth`
   [![BRANCO MCP connector](https://glama.ai/mcp/connectors/fr.juan-branco/branco/badges/score.svg)](https://glama.ai/mcp/connectors/fr.juan-branco/branco)
   🔐 - Search French legislation and case law, read legal sources, and verify citations with a BRANCO Research account.
