@@ -1378,6 +1378,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EmpirioLabs AI](https://docs.empiriolabs.ai/mcp) `https://mcp.empiriolabs.ai/mcp`
   [![EmpirioLabs AI MCP connector](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp)
   🔐 - Run 200+ AI models for chat, image, video, speech and 3D, plus web search, batches and async jobs.
+- [Eval Lab](https://evallab-eosin.vercel.app) `https://evallab-eosin.vercel.app/mcp`
+  [![Eval Lab MCP connector](https://glama.ai/mcp/connectors/io.github.logan1085/evallab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.logan1085/evallab)
+  🔓 - Send eval cases your agent drafted to a human to grade pass/fixable/fail, then fetch verdicts and judge disagreements.
 - [Favicon Tools](https://favicontools.com) `https://favicontools.com/api/mcp`
   [![Favicon Tools MCP connector](https://glama.ai/mcp/connectors/io.github.mewc/favicon-app-icons/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mewc/favicon-app-icons)
   🔓 - Check a site's favicons and app icons, and generate a full favicon, Apple touch, and PWA icon set.
