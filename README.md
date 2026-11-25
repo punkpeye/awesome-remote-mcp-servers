@@ -2102,6 +2102,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GridHub](https://grid-hub.app/developers) `https://api.grid-hub.app/mcp`
   [![GridHub MCP connector](https://glama.ai/mcp/connectors/io.github.jalcodev/gridhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jalcodev/gridhub)
   🔓 - Electricity prices and demand for 25 US, EU, GB and AU grid zones; free samples, then key or x402.
+- [jimin DATA](https://jimin.io.kr/) `https://mcp.jimin.io.kr/mcp`
+  [![jimin DATA MCP connector](https://glama.ai/mcp/connectors/kr.io.jimin/korea-public-data/badges/score.svg)](https://glama.ai/mcp/connectors/kr.io.jimin/korea-public-data)
+  🔓 - Korean chemical regulations, GHS and MSDS records, and pet clinic counts from public data, with sources and dates.
 - [Korea Ocean Leisure](https://korea-ocean-mcp.picks-site.workers.dev/) `https://korea-ocean-mcp.picks-site.workers.dev/mcp`
   [![Korea Ocean Leisure MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp)
   🔓 - Korean tide times for 42 stations plus fishing, mudflat, beach, surf and scuba forecasts.
