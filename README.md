@@ -2709,6 +2709,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   🔐 - Private- and public-market financial research data.
+- [Octio](https://www.octio.xyz) `https://www.octio.xyz/mcp`
+  [![Octio MCP connector](https://glama.ai/mcp/connectors/xyz.octio/octio/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.octio/octio)
+  🔓 - Search and call pay-per-call market, insider-trade, DeFi and on-chain data APIs for trading agents.
 - [Open Economics](https://open-economics-data.knbf982hkn.chatgpt.site/en/mcp) `https://open-economics-data.knbf982hkn.chatgpt.site/api/mcp`
   [![Open Economics MCP connector](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.felipegambettadesouza6-jpg/open-economics)
   🔓 - Find and query official Brazilian economic data with provenance.
