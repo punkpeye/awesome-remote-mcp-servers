@@ -3629,6 +3629,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
 - [IFG](https://ifg.tax) `https://ifg.tax/v1/mcp`
+  [![IFG MCP connector](https://glama.ai/mcp/connectors/io.github.aitorgarcia21/ifg-tax/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aitorgarcia21/ifg-tax)
   🔐 - Official tax law as of the date of the facts, with clickable publisher links: European tax legislation, guidance, case law, bilateral tax treaties, EU law, OECD and UN Model.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
