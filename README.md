@@ -4750,6 +4750,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Assign coding tasks to Claude Code, Codex or OpenCode on your own infrastructure and get PRs back.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
+- [NovumOS](https://novumos.app/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=listings-2026) `https://novumos.app/v1/mcp/http`
+  [![NovumOS MCP connector](https://glama.ai/mcp/connectors/app.novumos/novum-os/badges/score.svg)](https://glama.ai/mcp/connectors/app.novumos/novum-os)
+  🔐 - Work board where agents are members: read boards, move cards, edit blocks, comment, and drain lease-based work queues.
 - [Onplana](https://onplana.com) `https://mcp.onplana.com/mcp`
   [![Onplana MCP connector](https://glama.ai/mcp/connectors/io.github.Onplana/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Onplana/mcp-server)
   🔐 - Manage Onplana projects, tasks, sprints, risks, and portfolios, with Microsoft Project file import.
