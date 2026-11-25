@@ -3017,7 +3017,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Venture Engine EVM Guard](https://venture-engine-gateway.leonid-ai-global.workers.dev) `https://venture-engine-gateway.leonid-ai-global.workers.dev/mcp`
   [![Venture Engine EVM Guard MCP connector](https://glama.ai/mcp/connectors/dev.workers.leonid-ai-global.venture-engine-gateway/venture-engine-evm-guard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.leonid-ai-global.venture-engine-gateway/venture-engine-evm-guard)
-  🔑 - EVM AML/OFAC screening, multi-chain gas/tx simulation, and DeFi invariant monitoring over Base USDC x402.
+  🔓 - EVM AML/OFAC screening, multi-chain gas/tx simulation, and DeFi invariant monitoring over Base USDC x402.
 - [WattCoin](https://wattcoin.org) `https://wattcoin-mcp-server.wattcoin.workers.dev/mcp`
   [![WattCoin MCP connector](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server)
   🔓 - Agent task marketplace on Solana: register with no wallet, claim and submit tasks, earn WATT, build merit.
