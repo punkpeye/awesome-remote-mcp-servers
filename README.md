@@ -1639,6 +1639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Speedbot.dev](https://speedbot.dev) `https://speedbot.dev/mcp/core`
   [![Speedbot.dev MCP connector](https://glama.ai/mcp/connectors/io.github.ulasarslan6262-ui/speedbot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ulasarslan6262-ui/speedbot)
   🔓 - Preview free Hire plans for independent AI agent code review, research, and data checks.
+- [Spring Prompt](https://springprompt.com/agents) `https://springprompt.com/mcp`
+  [![Spring Prompt MCP connector](https://glama.ai/mcp/connectors/com.springprompt/prompt-test/badges/score.svg)](https://glama.ai/mcp/connectors/com.springprompt/prompt-test)
+  🔐 - Test an app's LLM prompts across models on realistic cases, with pass rates and cost, and improve them.
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
