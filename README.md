@@ -2432,6 +2432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes Web3 Security](https://diogenesgateway.com/#web3-security) `https://diogenesgateway.com/mcp/web3-security`
   [![Diogenes Web3 Security MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp)
   🔓 - EIP-712 and Permit2 phishing decoders, Solana priority fee oracle, and token honeypot auditor.
+- [DSNap](https://cerfaless.fr/dsnap) `https://cerfaless.fr/mcp/dsnap`
+  [![DSNap MCP connector](https://glama.ai/mcp/connectors/io.github.64Etienne/cerfaless-dsnap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.64Etienne/cerfaless-dsnap)
+  🔐 - French payroll and DSN (monthly social declaration) for a one-person company president: pay simulation, deadlines.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
@@ -3586,6 +3589,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRANCO](https://droit.juan-branco.fr/installer) `https://droit.juan-branco.fr/api/mcp/oauth`
   [![BRANCO MCP connector](https://glama.ai/mcp/connectors/fr.juan-branco/branco/badges/score.svg)](https://glama.ai/mcp/connectors/fr.juan-branco/branco)
   🔐 - Search French legislation and case law, read legal sources, and verify citations with a BRANCO Research account.
+- [Cerfaless DPAE](https://cerfaless.fr/dpae) `https://cerfaless.fr/mcp/dpae`
+  [![Cerfaless DPAE MCP connector](https://glama.ai/mcp/connectors/io.github.64Etienne/cerfaless-dpae/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.64Etienne/cerfaless-dpae)
+  🔐 - French pre-hiring declaration (DPAE): legal filing window, mandatory-details check, occupational health codes.
+- [Cerfaless INPI](https://cerfaless.fr/inpi) `https://cerfaless.fr/mcp/inpi`
+  [![Cerfaless INPI MCP connector](https://glama.ai/mcp/connectors/io.github.64Etienne/cerfaless-inpi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.64Etienne/cerfaless-inpi)
+  🔐 - Create a French company: sourced steps, fees and documents, INPI filing pre-check, company lookup.
 - [Cheap NY Publication](https://cheapnypublication.com/ai) `https://cheapnypublication.com/mcp`
   [![Cheap NY Publication MCP connector](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc)
   🔓 - New York LLC lookup from the state register: publication deadline, county and price, plus filing quotes.
