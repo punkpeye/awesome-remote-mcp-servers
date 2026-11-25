@@ -3838,6 +3838,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
 
+- [Google Ads Transparency MCP](https://apify.com/publicrecords/google-ads-transparency-scraper) `https://mcp.apify.com?tools=publicrecords/google-ads-transparency-scraper`
+  [![Google Ads Transparency MCP MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/google-ads-transparency-mcp)
+  🔐 - A competitor's Google ads from the Ads Transparency Center: new, running and stopped, with shown dates.
+
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -5437,6 +5441,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SiteCheck](https://api.sitecheck-api.workers.dev) `https://api.sitecheck-api.workers.dev/mcp`
   [![SiteCheck MCP connector](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bck-stack/sitecheck)
   🔓 - 29 x402 pay-per-call tools: web page to Markdown, PDF text, tech stack, email, domain, Solana, KYB.
+- [Skool Community Scraper](https://apify.com/publicrecords/skool-community-growth-tracker) `https://mcp.apify.com?tools=publicrecords/skool-community-growth-tracker`
+  [![Skool Community Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/skool-community-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/skool-community-mcp)
+  🔐 - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - [SnoopScan](https://snoopscan.com) `https://api.snoopscan.com/mcp-oauth`
   [![SnoopScan MCP connector](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan)
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
