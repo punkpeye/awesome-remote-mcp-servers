@@ -3387,6 +3387,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Eigma](https://eigma.app) `https://my.eigma.app/api/mcp`
   [![Eigma MCP connector](https://glama.ai/mcp/connectors/app.eigma.my/eigma/badges/score.svg)](https://glama.ai/mcp/connectors/app.eigma.my/eigma)
   🔐 - Files what you learn into a personal wiki and quizzes you before you forget it.
+- [Elephant by Calypso](https://www.calypso.so/elephant) `https://mcp.calypso.so/elephant/mcp`
+  [![Elephant by Calypso MCP connector](https://glama.ai/mcp/connectors/io.github.calypso-so/elephant-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.calypso-so/elephant-mcp-server)
+  🔐 - Chat with your own PDFs, documents and web pages, with every answer citing the file and page it came from.
 - [emem](https://emem.dev) `https://emem.dev/mcp`
   [![emem MCP connector](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Vortx-AI/emem)
   🔓 - Elevation, vegetation, flood, fire and air-quality facts for any place, each with a signed receipt.
