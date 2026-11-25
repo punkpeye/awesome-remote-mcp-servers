@@ -1145,6 +1145,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
+- [SuiteDash (Official)](https://suitedash.com/mcp-connector/) `https://app.suitedash.com/mcp`
+  [![SuiteDash (Official) MCP connector](https://glama.ai/mcp/connectors/com.suitedash/suitedash/badges/score.svg)](https://glama.ai/mcp/connectors/com.suitedash/suitedash)
+  🔐 - Official SuiteDash server: find, create and update contacts, projects, tasks, deals and invoice drafts, as you.
 - [TalaLevel](https://talalevel.com) `https://app.talalevel.com/mcp`
   [![TalaLevel MCP connector](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level/badges/score.svg)](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level)
   🔐 - Search leads, read their calls, texts and emails, add notes and tasks, and draft or send follow-ups you confirm.
