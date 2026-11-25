@@ -623,6 +623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tesla Wrap Design](https://tesla-wrap.design) `https://tesla-wrap.design/mcp`
   [![Tesla Wrap Design MCP connector](https://glama.ai/mcp/connectors/io.github.GhostCatcg/tesla-wrap-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GhostCatcg/tesla-wrap-design)
   🔐 - Design Tesla Paint Shop wraps from an AI assistant: gallery search, prompts, 3D preview, and PNG export.
+- [Tintloom](https://tintloom.com) `https://mcp.tintloom.com/mcp`
+  [![Tintloom MCP connector](https://glama.ai/mcp/connectors/com.tintloom/images/badges/score.svg)](https://glama.ai/mcp/connectors/com.tintloom/images)
+  🔐 - Generate and edit images in Claude chats, with a card to select, erase and resize.
 - [Unraster](https://unraster.ai) `https://unraster.ai/mcp`
   [![Unraster MCP connector](https://glama.ai/mcp/connectors/ai.unraster/convert/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unraster/convert)
   🔓 - Turn slide images, charts and screenshots into editable PowerPoint (PPTX) or SVG; tools need a key.
