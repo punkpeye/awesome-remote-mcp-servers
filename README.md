@@ -3616,6 +3616,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DutyKit](https://dutykit.dev) `https://dutykit.dev/mcp`
   [![DutyKit MCP connector](https://glama.ai/mcp/connectors/io.github.renschrder-stack/dutykit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.renschrder-stack/dutykit)
   🔓 - EU business duties for DE, LU and EU: legal obligations with sources, plus pre-checks for invoices and marketing.
+- [EIN.LLC](https://ein.llc) `https://ein.llc/mcp`
+  [![EIN.LLC MCP connector](https://glama.ai/mcp/connectors/io.github.epistemedeus/ein-llc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.epistemedeus/ein-llc)
+  🔓 - Prepare US company applications, compare state fees, and check agent authority letters.
 - [fynk](https://fynk.com/en/integrations/mcp-server/) `https://app.fynk.com/mcp`
   [![fynk MCP connector](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fynk.app/fynk-mcp)
   🔐 - Manage contracts end to end: find and analyze them, draft or upload new ones, add signatories and send for e-signature.
