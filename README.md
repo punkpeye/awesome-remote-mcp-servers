@@ -1683,7 +1683,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read, claim and resolve UI feedback left on your website: the note, element selectors and a screenshot.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
-  🔓 - Audit a web page for accessibility and layout issues.
+  🔑 - Review a pull request's visual regression diffs, read the AI verdict on each, and accept or deny baselines.
 - [Use This Skill](https://usethisskill.com) `https://usethisskill.com/mcp`
   [![Use This Skill MCP connector](https://glama.ai/mcp/connectors/com.usethisskill/skills/badges/score.svg)](https://glama.ai/mcp/connectors/com.usethisskill/skills)
   🔓 - Search 1,967 agent skills, read side-by-side proofs, and check any skill for risky patterns.
