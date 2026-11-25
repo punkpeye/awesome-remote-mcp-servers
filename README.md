@@ -6282,6 +6282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OctoTrip](https://octotrip.app) `https://mcp.octotrip.app/rental-cars/mcp`
   [![OctoTrip MCP connector](https://glama.ai/mcp/connectors/app.octotrip/rental-cars/badges/score.svg)](https://glama.ai/mcp/connectors/app.octotrip/rental-cars)
   🔓 - Search and compare rental cars with real-time pricing across providers worldwide.
+- [OKstays](https://okstays.com) `https://okstays.com/api/mcp`
+  [![OKstays MCP connector](https://glama.ai/mcp/connectors/com.okstays/okstays/badges/score.svg)](https://glama.ai/mcp/connectors/com.okstays/okstays)
+  🔓 - Rank hotels by comfort (efficient AC, comfy beds, soundproofing, spacious rooms, safe areas) and compare them.
 - [Orizn Visa API](https://visa.orizn.app/integrations/mcp) `https://visa.orizn.app/mcp`
   [![Orizn Visa API MCP connector](https://glama.ai/mcp/connectors/io.github.MattJeff/orizn-visa-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MattJeff/orizn-visa-mcp)
   🔓 - Visa rules for 49,750 passport-destination pairs, official sources; 2 tools keyless, X-API-Key for the rest.
