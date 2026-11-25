@@ -1609,6 +1609,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Screwtape.ai](https://screwtape.ai) `https://screwtape.ai/mcp`
   [![Screwtape.ai MCP connector](https://glama.ai/mcp/connectors/ai.screwtape/screwtape/badges/score.svg)](https://glama.ai/mcp/connectors/ai.screwtape/screwtape)
   🔓 - Pass, fail, or retry verdicts on agent output, plus multi-agent consensus scoring and false-consensus risk.
+- [SeenRelay](https://seenrelay.com) `https://seenrelay.com/mcp`
+  [![SeenRelay MCP connector](https://glama.ai/mcp/connectors/io.github.ovladon/seenrelay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ovladon/seenrelay)
+  🔓 - Measure redundant read-only validation and provide advisory freshness checks; source execution remains authoritative.
 - [Settlens](https://settlens.com) `https://settlens.com/mcp`
   [![Settlens MCP connector](https://glama.ai/mcp/connectors/com.settlens/settlens/badges/score.svg)](https://glama.ai/mcp/connectors/com.settlens/settlens)
   🔓 - Evaluate x402 V2 payment requirements against spending policies, without signing or sending payments.
