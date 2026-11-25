@@ -6471,6 +6471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [hedwigAI](https://mcp.hedwigai.com) `https://mcp.hedwigai.com`
   [![hedwigAI MCP connector](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hedwigai/hedwigai)
   🔐 - Workbooks that research themselves: buyer lists, weekly reports and KPI trackers, every claim cited and kept current.
+- [Image2PPT](https://image2ppt.com/codex-plugin) `https://image2ppt.com/mcp`
+  [![Image2PPT MCP connector](https://glama.ai/mcp/connectors/com.image2ppt/image2ppt/badges/score.svg)](https://glama.ai/mcp/connectors/com.image2ppt/image2ppt)
+  🔐 - Convert slide images and PDFs into editable PowerPoint (PPTX) decks with native text, shapes, and tables.
 - [iSomor](https://tryisomor.com/en/mcp) `https://tryisomor.com/api/isomor/mcp`
   [![iSomor MCP connector](https://glama.ai/mcp/connectors/com.tryisomor/i-somor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryisomor/i-somor)
   🔐 - Translate a user's uploaded text PDFs into English or Chinese and fetch translated or bilingual PDF links.
