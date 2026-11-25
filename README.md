@@ -5147,6 +5147,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BeaconMFG](https://beacon-mfg.pages.dev) `https://beacon-mfg.pages.dev/mcp`
   [![BeaconMFG MCP connector](https://glama.ai/mcp/connectors/io.github.eiry16/beacon-mfg-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eiry16/beacon-mfg-mcp)
   🔓 - Search 210k+ Chinese suppliers and service firms by name, city or GB/T 4754 industry; keyless.
+- [Better Llama](https://betterllama.com) `https://mcp.betterllama.com/mcp`
+  [![Better Llama MCP connector](https://glama.ai/mcp/connectors/com.betterllama/chile-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.betterllama/chile-data)
+  🔓 - Free-beta Chilean public data: tenders, UF/USD, central bank, fuel, shipping, energy, gazette and quakes.
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
