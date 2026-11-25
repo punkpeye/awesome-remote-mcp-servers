@@ -240,6 +240,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OceanToken](https://oceantoken.ai) `https://mcp.oceantoken.ai/mcp`
   [![OceanToken MCP connector](https://glama.ai/mcp/connectors/ai.oceantoken/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.oceantoken/mcp)
   🔐 - Search and price 480+ AI models, ask any of them, and generate images, video and speech on one prepaid balance.
+- [OP Inference](https://docs.opinference.com/docs/text/mcp) `https://api.opinference.com/v1/mcp`
+  [![OP Inference MCP connector](https://glama.ai/mcp/connectors/com.opinference/op/badges/score.svg)](https://glama.ai/mcp/connectors/com.opinference/op)
+  🔐 - Run text tasks, saved chat presets and public multi-model workflows on one AI gateway, billed to prepaid credits.
 - [openradar](https://openradar.fun) `https://openradar.fun/mcp`
   [![openradar MCP connector](https://glama.ai/mcp/connectors/io.github.MikhailSagalaev/openradar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikhailSagalaev/openradar)
   🔓 - Open feed of job vacancies and freelance orders: search leads, market pay stats and sourcing dorks; no auth.
