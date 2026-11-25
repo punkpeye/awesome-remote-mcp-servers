@@ -3141,6 +3141,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Creative Cult](https://creativecult.digital) `https://creativecult.digital/mcp`
   [![Creative Cult MCP connector](https://glama.ai/mcp/connectors/digital.creativecult/research/badges/score.svg)](https://glama.ai/mcp/connectors/digital.creativecult/research)
   🔓 - Player-review data on new video games: daily recommend share, findings, best-of lists and a release calendar.
+- [CryptoCasinoMedia Newsroom](https://cryptocasinomedia.com) `https://cryptocasinomedia.com/api/mcp/`
+  🔓 - Search 1,270+ crypto casino & iGaming press releases, extract structured article metadata, and query live newsroom metrics.
 - [Deckodex](https://deckodex.com/assistant) `https://deckodex.com/mcp`
   [![Deckodex MCP connector](https://glama.ai/mcp/connectors/com.deckodex/deckodex/badges/score.svg)](https://glama.ai/mcp/connectors/com.deckodex/deckodex)
   🔐 - Gundam Card Game cards, prices, tournament meta, and your Deckodex collection and decks.
