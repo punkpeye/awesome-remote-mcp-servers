@@ -3583,6 +3583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
+- [BeYadCha](https://www.beyadcha.com/mcp-server) `https://www.beyadcha.com/api/mcp`
+  [![BeYadCha MCP connector](https://glama.ai/mcp/connectors/com.beyadcha/rights/badges/score.svg)](https://glama.ai/mcp/connectors/com.beyadcha/rights)
+  🔓 - Hebrew guides, benefit estimates and an eligibility map for Israeli medical and disability rights.
 - [BRANCO](https://droit.juan-branco.fr/installer) `https://droit.juan-branco.fr/api/mcp/oauth`
   [![BRANCO MCP connector](https://glama.ai/mcp/connectors/fr.juan-branco/branco/badges/score.svg)](https://glama.ai/mcp/connectors/fr.juan-branco/branco)
   🔐 - Search French legislation and case law, read legal sources, and verify citations with a BRANCO Research account.
