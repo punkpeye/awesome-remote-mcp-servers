@@ -6017,6 +6017,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
   🔓 - Results, fixtures, tables, goal timing and season projections for 93 football leagues, lower divisions included.
+- [HoopsAPI](https://hoopsapi.com/ai) `https://hoopsapi.com/mcp`
+  [![HoopsAPI MCP connector](https://glama.ai/mcp/connectors/com.hoopsapi/basketball-odds/badges/score.svg)](https://glama.ai/mcp/connectors/com.hoopsapi/basketball-odds)
+  🔓 - Basketball odds from 6 bookmakers incl. Pinnacle, 80+ leagues, full game, halves and quarters; calls need a free key.
 - [Padel Expert Lab](https://padelexpertlab.com/connecteur-ia/) `https://padelexpertlab.com/api/mcp/`
   [![Padel Expert Lab MCP connector](https://glama.ai/mcp/connectors/com.padelexpertlab/raquettes/badges/score.svg)](https://glama.ai/mcp/connectors/com.padelexpertlab/raquettes)
   🔓 - Padel racket picks by player profile, search and side-by-side brand specs for France and Belgium, in French.
