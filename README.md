@@ -6249,6 +6249,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [localhum](https://localhum.app/assistants) `https://localhum.app/mcp`
   [![localhum MCP connector](https://glama.ai/mcp/connectors/app.localhum/localhum/badges/score.svg)](https://glama.ai/mcp/connectors/app.localhum/localhum)
   🔓 - What's on at San Diego's small venues tonight or this week: live music, trivia, comedy, open mics, happy hours.
+- [Mappu](https://www.mappu.ai) `https://api.mappu.ai/mcp`
+  [![Mappu MCP connector](https://glama.ai/mcp/connectors/ai.mappu/public-travel/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mappu/public-travel)
+  🔓 - Plan trips day by day, save them to Mappu, and find free self-guided walks and audio guides in 8 languages.
 - [MAQAMI Travel](https://maqami.co) `https://mcp.maqami.co/`
   [![MAQAMI Travel MCP connector](https://glama.ai/mcp/connectors/co.maqami.mcp/maqami-travel/badges/score.svg)](https://glama.ai/mcp/connectors/co.maqami.mcp/maqami-travel)
   🔓 - Search hotels and flights with live rates and hotel details, then send a secure checkout link on book.maqami.co.
