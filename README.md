@@ -3846,6 +3846,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![hrva.cc MCP connector](https://glama.ai/mcp/connectors/cc.hrva/url-shortener/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hrva/url-shortener)
   🔐 - Create and list short links and read their click statistics, with safety checks on every link.
 
+- [GTM Alpha](https://tools.gtmhelix.com/connectors/) `https://gtmalpha.gtmhelix.com/mcp`
+  [![GTM Alpha MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/gtm-alpha-consultant/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/gtm-alpha-consultant)
+  🔓 - Three go to market tools: EPIC motion audit, GTM consultation and a 30, 60 or 90 day roadmap.
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
