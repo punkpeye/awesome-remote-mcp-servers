@@ -6624,6 +6624,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [API Tool Calls](https://apitoolcalls.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://apitoolcalls.com/mcp`
   [![API Tool Calls MCP connector](https://glama.ai/mcp/connectors/com.apitoolcalls/api-tool-calls/badges/score.svg)](https://glama.ai/mcp/connectors/com.apitoolcalls/api-tool-calls)
   🔓 - API Tool Calls: Home cost planners, proofreading, QR and barcodes, page to Markdown, SEO checks and recalls.
+- [ARCNM pay](https://arcnm.io/docs/pay-per-call) `https://api.arcnm.io/mcp-server/pay/mcp`
+  [![ARCNM pay MCP connector](https://glama.ai/mcp/connectors/io.arcnm/arcnm-pay/badges/score.svg)](https://glama.ai/mcp/connectors/io.arcnm/arcnm-pay)
+  🔓 - Manufacturing cost of a CNC or sheet-metal part from its CAD file; EUR 0.89 per calculation, paid per call in USDC.
 - [Ashley Payne](https://www.ashleypayne.co.uk) `https://www.ashleypayne.co.uk/mcp`
   [![Ashley Payne MCP connector](https://glama.ai/mcp/connectors/uk.co.ashleypayne/ashley-payne/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.ashleypayne/ashley-payne)
   🔓 - Ask a UK fractional CTO's practice about its services, prices and articles, and check whether it fits a project.
