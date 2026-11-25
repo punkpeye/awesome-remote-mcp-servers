@@ -2009,6 +2009,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Calculator for Grading](https://calculatorforgrading.com/ai-assistants/) `https://calculatorforgrading.com/mcp`
   [![Calculator for Grading MCP connector](https://glama.ai/mcp/connectors/com.calculatorforgrading/calculatorforgrading/badges/score.svg)](https://glama.ai/mcp/connectors/com.calculatorforgrading/calculatorforgrading)
   🔓 - Grade from questions wrong, score needed on a final, weighted grade, GPA, SAT/ACT/MCAT practice scores; read-only.
+- [Claro AI](https://www.tryclaro.ai/mcp) `https://mcp.tryclaro.ai/mcp`
+  [![Claro AI MCP connector](https://glama.ai/mcp/connectors/ai.tryclaro/claro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.tryclaro/claro)
+  🔐 - Build narrated courses with animations timed to the voice and quizzes, from a topic or your files; edit any slide.
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
