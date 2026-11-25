@@ -3754,7 +3754,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [analyser.dev](https://analyser.dev) `https://analyser.dev/mcp`
   [![analyser.dev MCP connector](https://glama.ai/mcp/connectors/dev.analyser/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.analyser/mcp)
-  🔑 - Scan any page for speed, SEO and AI-search readiness: scores, Core Web Vitals, AI crawler access and ranked fixes.
+  🔓 - Scan any page for speed, SEO and AI-search readiness, with ranked fixes; tools need a free API key.
 
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
