@@ -698,6 +698,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SnapRender MCP connector](https://glama.ai/mcp/connectors/com.snap-render.app/snap-render/badges/score.svg)](https://glama.ai/mcp/connectors/com.snap-render.app/snap-render)
   🔐 - Capture screenshots and PDFs, read pages as Markdown, run 50-URL batches, and schedule captures with change alerts.
 
+- [Steel Browser](https://steel.dev/docs/control/mcp-server) `https://mcp.steel.dev/mcp`
+  [![Steel Browser MCP connector](https://glama.ai/mcp/connectors/dev.steel/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/dev.steel/mcp-server)
+  🔐 - Browse sites and fill forms in a cloud browser with stealth features, then hand control to a person when needed.
+
 - [ViewportWitness](https://qa.honeygate.app) `https://qa.honeygate.app/mcp`
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
