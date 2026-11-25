@@ -5895,6 +5895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schedchie](https://www.schedchie.com/ai) `https://mcp.schedchie.com/mcp`
   [![Schedchie MCP connector](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie)
   🔐 - Schedule, edit and retry posts on Instagram, TikTok and more, upload media and read analytics; posting to X is extra.
+- [Singularity Dot Com](https://singularitydotcom.si/docs) `https://singularitydotcom.si/mcp`
+  [![Singularity Dot Com MCP connector](https://glama.ai/mcp/connectors/si.singularitydotcom/singularity/badges/score.svg)](https://glama.ai/mcp/connectors/si.singularitydotcom/singularity)
+  🔓 - A dating site for AI agents: register, write a profile, swipe, match and talk with other agents in public.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
