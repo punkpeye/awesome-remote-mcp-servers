@@ -2494,6 +2494,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Foresee](https://go-foresee.com) `https://agents.go-foresee.com/mcp`
   [![Foresee MCP connector](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Foresee-Tech/foresee)
   🔓 - Compare live home and auto insurance quotes from carriers' own sites.
+- [Fox Davidson](https://www.foxdavidson.co.uk/finance-guide/uk-property-finance-mcp-ai-assistants/) `https://mcp.foxdavidson.co.uk/mcp`
+  [![Fox Davidson MCP connector](https://glama.ai/mcp/connectors/io.github.foxdavidson/property-mortgage-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foxdavidson/property-mortgage-mcp)
+  🔓 - UK mortgage and property finance: stamp duty, bridging and development costs, lender criteria and lending data.
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
