@@ -222,6 +222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mcp.market](https://mcp.market) `https://gw.mcp.market/mcp`
   [![mcp.market gateway MCP connector](https://glama.ai/mcp/connectors/market.mcp/gateway/badges/score.svg)](https://glama.ai/mcp/connectors/market.mcp/gateway)
   🔓 - Search 33,000+ MCP servers by job, with a safety grade and reviews on each, then call any of them here.
+- [MCPAPI](https://getmcpapi.com/?utm_source=awesome-remote-mcp-servers) `https://mcpapi.one/mcp`
+  [![MCPAPI MCP connector](https://glama.ai/mcp/connectors/one.mcpapi/mcpapi/badges/score.svg)](https://glama.ai/mcp/connectors/one.mcpapi/mcpapi)
+  🔐 - Search, read and run operations from any OpenAPI spec or MCP server you add, through three tools.
 - [MEDIAPRONET](https://mediapronet.com/mcp) `https://mediapronet.com/api/mcp`
   [![MEDIAPRONET MCP connector](https://glama.ai/mcp/connectors/com.mediapronet/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.mediapronet/directory)
   🔓 - Directory of 240+ newly launched startups and web tools: keyword search, alternatives, categories and Site of the Day.
