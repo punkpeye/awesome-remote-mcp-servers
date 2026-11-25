@@ -3135,6 +3135,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
+- [Celgrid](https://celgrid.ai) `https://celgrid.ai/mcp`
+  [![Celgrid MCP connector](https://glama.ai/mcp/connectors/ai.celgrid/celgrid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.celgrid/celgrid)
+  🔓 - Pixel-native 1:1 indexed sprites, animations, AI Ripple Edits and Godot/Unity/Phaser packs; key for AI tools.
 - [Chessigma](https://www.chessigma.com/developers/mcp) `https://www.chessigma.com/api/mcp`
   [![Chessigma MCP connector](https://glama.ai/mcp/connectors/com.chessigma/chessigma/badges/score.svg)](https://glama.ai/mcp/connectors/com.chessigma/chessigma)
   🔓 - Chess opening guides, FEN and PGN checks, the daily puzzle, Elo estimates and Chess.com or Lichess game review links.
