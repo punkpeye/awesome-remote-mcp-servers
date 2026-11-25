@@ -3549,7 +3549,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Read and search the Urantia Papers by reference, keyword, or meaning, with named entities and Bible cross-references.
 - [UseMyContext](https://usemycontext.ai) `https://mcp.usemycontext.ai/mcp`
   [![UseMyContext MCP connector](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext)
-  🔓 - Your own profile and files as AI context; anonymous access gets metadata only.
+  🔐 - One context for every AI app: who you are, your files, your calendar. Read-only, revoke in one click.
 - [Vedaword](https://vedaword.com/en/mcp) `https://mcp.vedaword.com`
   [![Vedaword MCP connector](https://glama.ai/mcp/connectors/com.vedaword/library/badges/score.svg)](https://glama.ai/mcp/connectors/com.vedaword/library)
   🔓 - Search Sanskrit scripture by meaning, read verses and look up terms, with citations and honest "no answer".
