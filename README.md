@@ -1473,6 +1473,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Koppar](https://koppar.ai) `https://app.koppar.ai/mcp`
   [![Koppar MCP connector](https://glama.ai/mcp/connectors/ai.koppar.app/koppar/badges/score.svg)](https://glama.ai/mcp/connectors/ai.koppar.app/koppar)
   🔓 - Design a KiCad PCB from a prompt: parts, schematic checks, routing, KiCad DRC, Gerbers. Free key for tool calls.
+- [KovAPI Docs](https://docs.kovapi.com/integrations/docs-mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://kovapi.com/mcp`
+  [![KovAPI Docs MCP connector](https://glama.ai/mcp/connectors/com.kovapi/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.kovapi/docs)
+  🔓 - Search and read the KovAPI API docs as Markdown, and list its chat, image and video models with USD prices.
 - [landmine](https://landmine.tech) `https://landmine.tech/mcp`
   [![landmine MCP connector](https://glama.ai/mcp/connectors/tech.landmine/landmine/badges/score.svg)](https://glama.ai/mcp/connectors/tech.landmine/landmine)
   🔓 - Open GitHub issues filed against exact npm and PyPI versions, with the workaround from each thread.
