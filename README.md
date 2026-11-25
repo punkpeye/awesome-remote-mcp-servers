@@ -605,6 +605,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soleil Clusters](https://clusters.soleilpictures.com) `https://clusters.soleilpictures.com/api/v1/mcp`
   [![Soleil Clusters MCP connector](https://glama.ai/mcp/connectors/com.soleilpictures/clusters/badges/score.svg)](https://glama.ai/mcp/connectors/com.soleilpictures/clusters)
   🔐 - Make and read visual mood boards: import pictures from links, add notes, palettes and docs, and draw the board inline.
+- [Spline](https://docs.spline.design/generate/spline-mcp-server) `https://mcp.spline.design/mcp`
+  [![Spline MCP connector](https://glama.ai/mcp/connectors/design.spline/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/design.spline/mcp)
+  🔐 - Build and edit Spline 3D scenes: create files, generate 3D models and images, and review them with screenshots.
 - [SpriteForge](https://www.spriteforge.tech) `https://www.spriteforge.tech/mcp`
   [![SpriteForge MCP connector](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge/badges/score.svg)](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge)
   🔐 - Generate pixel-art sprites, animations and 16-tile Wang tilesets on a fixed grid, saved to your SpriteForge library.
