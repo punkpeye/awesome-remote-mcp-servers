@@ -3046,6 +3046,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Cubicle MCP connector](https://glama.ai/mcp/connectors/com.algotrada.cubicle/cubicle/badges/score.svg)](https://glama.ai/mcp/connectors/com.algotrada.cubicle/cubicle)
   🔓 - Compile a trading rule into a state machine, rehearse it on real candles, read the tape, open USDG vaults on Robinhood.
 - [UnHideA Research](https://unhidea.com/en/mcp) `https://mcp.unhidea.com/mcp`
+  [![UnHideA Wall Street Research MCP connector](https://glama.ai/mcp/connectors/io.github.lijiumixin/unhidea-research-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lijiumixin/unhidea-research-mcp)
   🔐 - Wall Street sell-side equity research across 11 languages: 14 tools for report search, cross-bank company packs, sourced ratings/target-price history, counter-evidence retrieval, and point-in-time replay (OAuth 2.0 + Bearer key).
 
 ### 🍽️ <a name="food--dining"></a>Food & Dining
