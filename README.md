@@ -3691,6 +3691,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Can AI crawlers see a website: free lookup of its last dated verdict; a new check is paid with x402 in USDC on Base.
 
 - [Ad Spec Guard](https://github.com/notformal/adsbeast-plugins/tree/main/ad-spec-guard) `https://adsbeast.pro/api/mcp`
+  [![Ad Spec Guard MCP connector](https://glama.ai/mcp/connectors/io.github.notformal/ad-spec-guard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.notformal/ad-spec-guard)
   🔓 - Ad platform character limits, creative specs, A/B significance, UTM and policy checks for Google, Meta, TikTok, LinkedIn and Microsoft.
 
 - [AdRadar](https://adradarmcp.cloud/en/) `https://adradarmcp.cloud/mcp`
@@ -3706,6 +3707,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
 
 - [ADS Beast](https://adsbeast.pro) `https://adsbeast.pro/api/mcp/workspace`
+  [![ADS Beast MCP connector](https://glama.ai/mcp/connectors/io.github.notformal/adsbeast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.notformal/adsbeast)
   🔐 - Google, Meta, TikTok, LinkedIn and Microsoft Ads: audits, wasted spend, leads with attribution, and changes prepared as previews a person approves.
 
 - [AdsTurbo](https://adsturbo.ai) `https://adsturbo.ai/klian/novartapi/mcp`
