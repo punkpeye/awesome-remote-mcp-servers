@@ -5992,6 +5992,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BankrollSZN](https://bankrollszn.com/ai) `https://bankrollszn.com/api/mcp`
   [![BankrollSZN MCP connector](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn)
   🔐 - DFS projections, ownership, lineup optimizers and model picks for NFL, MLB, NBA, NHL, PGA and MMA.
+- [Betting Tips AI](https://bettingtipsai.com/docs) `https://bettingtipsai.com/api/mcp`
+  [![Betting Tips AI MCP connector](https://glama.ai/mcp/connectors/com.collatiomedia/bettingtipsai/badges/score.svg)](https://glama.ai/mcp/connectors/com.collatiomedia/bettingtipsai)
+  🔐 - Read-only football and cricket tips. A free account sign-in is required.
 - [Cast the Water](https://castthewater.com) `https://castthewater.com/mcp`
   [![Cast the Water MCP connector](https://glama.ai/mcp/connectors/com.castthewater/cast-the-water/badges/score.svg)](https://glama.ai/mcp/connectors/com.castthewater/cast-the-water)
   🔓 - Read-only fish stocking, waters and conditions data for US lakes from Cast the Water.
