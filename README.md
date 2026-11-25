@@ -4429,6 +4429,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Google Vids MCP Server by useapi.net](https://useapi.net/docs/api-google-vids-v1/mcp) `https://api.useapi.net/v1/google-vids/mcp`
   [![Google Vids MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/google-vids/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/google-vids)
   🔐 - Gemini Omni video with sound and voiced avatars in Google Vids on your Google plan. Not affiliated with Google.
+- [Gradium](https://docs.gradium.ai/integrations/mcp) `https://mcp.gradium.ai/mcp`
+  [![Gradium MCP connector](https://glama.ai/mcp/connectors/ai.gradium/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.gradium/mcp)
+  🔐 - Gradium text-to-speech: browse voices, generate speech as WAV audio, and check your organization's credit balance.
 - [GrooveSheet](https://www.groovesheet.net/developers) `https://api.groovesheet.net/mcp`
   [![GrooveSheet MCP connector](https://glama.ai/mcp/connectors/net.groovesheet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.groovesheet/mcp)
   🔐 - Find sheet music, tabs and MIDI for songs, and transcribe your own recordings via one-time upload links.
