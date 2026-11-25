@@ -3303,6 +3303,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
+- [AI Training Pay](https://www.aitrainingpay.com/developers#mcp) `https://www.aitrainingpay.com/api/mcp`
+  [![AI Training Pay MCP connector](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs)
+  🔓 - Search open AI training jobs (RLHF, evaluation, annotation) by field and pay; check if a platform is legit.
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
