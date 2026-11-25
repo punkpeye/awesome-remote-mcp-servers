@@ -5953,6 +5953,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Citadel](https://thecitadelapp.com) `https://thecitadelapp.com/api/mcp`
   [![The Citadel MCP connector](https://glama.ai/mcp/connectors/com.thecitadelapp/citadel/badges/score.svg)](https://glama.ai/mcp/connectors/com.thecitadelapp/citadel)
   🔓 - 6-dimension dating profile and lead photo rubrics, profile readiness scoring, and service status diagnostics.
+- [TrolyPage](https://trolypage.com/mcp) `https://trolypage.com/mcp/troly`
+  [![TrolyPage MCP connector](https://glama.ai/mcp/connectors/com.trolypage/all/badges/score.svg)](https://glama.ai/mcp/connectors/com.trolypage/all)
+  🔐 - Manage customer conversations, social publishing, and commerce in a TrolyPage workspace.
+
 - [TubeGrade](https://www.tubegrade.com/mcp/) `https://api.tubegrade.com/mcp`
   [![TubeGrade MCP connector](https://glama.ai/mcp/connectors/com.tubegrade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tubegrade/mcp)
   🔐 - YouTube research: channel and video stats, transcripts, outlier videos, viral title formats and competitor tracking.
