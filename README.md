@@ -5405,6 +5405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
+- [Sayod 111 Intelligence](https://sayod111.github.io/) `https://sayod111-mcp-gateway.sayodyalawi.workers.dev/mcp`
+  [![Sayod 111 Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp)
+  🔓 - Discover data tools for e-commerce stores, hiring signals, and financial advisers.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
   🔓 - AI-industry news as deduplicated, classified events; a free key unlocks listing, search and archive.
