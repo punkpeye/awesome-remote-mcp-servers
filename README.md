@@ -1726,8 +1726,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Agent Souk MCP connector](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk)
   🔓 - Marketplace for AI agents: register in one call, hire or sell services, and post USDC bounties on Base.
 - [Agent Token Check](https://agent-token-check.pages.dev) `https://agent-token-check.pages.dev/mcp`
-[![Agent Token Check MCP connector](https://glama.ai/mcp/connectors/io.github.mintnft04/agent-token-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mintnft04/agent-token-check)
-🔓 - Token safety check for AI agents on 45 chains: honeypot, tax, owner powers, LP lock, holders.
+  [![Agent Token Check MCP connector](https://glama.ai/mcp/connectors/io.github.mintnft04/agent-token-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mintnft04/agent-token-check)
+  🔓 - Token safety check for AI agents on 45 chains: honeypot, tax, owner powers, LP lock, holders.
 - [Agent Tollgate](https://skinwinking.com) `https://skinwinking.com/mcp`
   [![Agent Tollgate MCP connector](https://glama.ai/mcp/connectors/com.skinwinking/agent-tollgate/badges/score.svg)](https://glama.ai/mcp/connectors/com.skinwinking/agent-tollgate)
   🔓 - Order book imbalance, token rug-pull audits and swap routes for agents; paid per call in USDC via x402.
