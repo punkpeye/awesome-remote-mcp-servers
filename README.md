@@ -3838,6 +3838,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
 
+- [Folkscale](https://folkscale.com) `https://folkscale.com/mcp`
+  [![Folkscale MCP connector](https://glama.ai/mcp/connectors/io.github.lurnake/folkscale/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lurnake/folkscale)
+  🔑 - Synthetic consumer market research panels and calibrated purchase-intent studies across 190+ markets.
+
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
