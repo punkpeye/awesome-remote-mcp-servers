@@ -2255,6 +2255,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [American Default Research](https://americandefault.org/press/mcp/) `https://mcp.americandefault.org/mcp`
   [![American Default Research MCP connector](https://glama.ai/mcp/connectors/org.americandefault/research/badges/score.svg)](https://glama.ai/mcp/connectors/org.americandefault/research)
   🔓 - Read-only U.S. household-finance indicators, county distress scorecards and the American Distress Index, with citations.
+- [American Spend](https://www.americanspend.com) `https://platform.americanspend.com/mcp`
+  [![American Spend MCP connector](https://glama.ai/mcp/connectors/com.americanspend/insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.americanspend/insights)
+  🔐 - Daily US consumer card spending by brand, category, state and metro, with cross-shop and CPI benchmarks.
 - [Ankr Agent RPC](https://www.ankr.com/web3-api/agent-rpc/) `https://mcp.ankr.com/rpc`
   [![Ankr Agent RPC MCP connector](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.w3tech/agent-rpc-mcp)
   🔓 - Read chain data on 200+ networks and Sui: logs, balances, NFTs, decoded calls. Ankr API key, or pay per call via x402.
