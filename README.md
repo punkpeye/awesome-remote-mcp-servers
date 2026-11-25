@@ -4945,6 +4945,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ListHub](https://tsukuyomi-list.com/ai) `https://tsukuyomi-list.com/api/mcp`
   [![ListHub MCP connector](https://glama.ai/mcp/connectors/com.tsukuyomi-list/listhub-quote/badges/score.svg)](https://glama.ai/mcp/connectors/com.tsukuyomi-list/listhub-quote)
   🔓 - Count Japanese companies by area and industry and get a tax-included sales list quote and order link; no contacts.
+- [Loice](https://loice.ai) `https://app.loice.ai/mcp`
+  [![Loice MCP connector](https://glama.ai/mcp/connectors/ai.loice.app/loice/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loice.app/loice)
+  🔐 - Search B2B leads and company employees, find verified work emails, enrich contacts and save them to lead lists.
 - [MailBeast.ai](https://mailbeast.ai) `https://mcp.mailbeast.ai/mcp`
   [![MailBeast.ai MCP connector](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mailbeast/mailbeast)
   🔐 - Cold email outreach: campaigns with A/B sequences, leads, mailboxes and warmup, reply inbox and campaign analytics.
