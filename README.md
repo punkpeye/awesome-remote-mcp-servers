@@ -5033,6 +5033,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MedicineData MCP](https://medicine.shanchuangkj.com/en/mcp) `https://medicine.shanchuangkj.com/mcp/`
   [![MedicineData MCP connector](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data)
   🔓 - Chinese pharma data: 22 tools (21 query + 1 free) for drugs, targets, trials, deals and patents; queries need a key.
+- [MoneyPeel](https://moneypeel.com) `https://moneypeel.com/mcp`
+  [![MoneyPeel MCP connector](https://glama.ai/mcp/connectors/com.moneypeel/reports/badges/score.svg)](https://glama.ai/mcp/connectors/com.moneypeel/reports)
+  🔓 - Revenue, traffic and keyword research for 700+ profitable SaaS products, with dates on every figure.
 - [Monitly](https://monit.ly/mcp-docs) `https://monit.ly/api/mcp/public`
   [![Monitly MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/monitly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/monitly)
   🔓 - Official statistics from Eurostat, World Bank, OECD, IMF and WHO for 150+ countries: search datasets and time series.
