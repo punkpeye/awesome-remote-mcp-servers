@@ -6618,6 +6618,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [313 Automations](https://313automations.com) `https://313automations.com/mcp`
   [![313 Automations MCP connector](https://glama.ai/mcp/connectors/com.313automations/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.313automations/site)
   🔓 - Read-only facts, starting prices, site search and pages as Markdown for 313 Automations, a Lahore AI and web agency.
+- [3ndgam3](https://3ndgam3.org) `https://3ndgam3.org/api/mcp`
+  [![3ndgam3 MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/3ndgam3/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/3ndgam3)
+  🔓 - Explore structured scenario research, strategic coordination briefs, and public-good initiative data on 3ndgam3.
 - [acdoyle](https://acdoyle.dev) `https://acdoyle.dev/api/mcp`
   [![acdoyle MCP connector](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle)
   🔓 - Three specialists for problem-solving, non-custodial budget execution and business advice; x402 pay-per-call.
