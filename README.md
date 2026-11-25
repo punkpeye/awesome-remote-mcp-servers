@@ -249,6 +249,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phase Router](https://router.phase.xyz) `https://mcp.ai.phase.xyz/mcp`
   [![Phase Router MCP connector](https://glama.ai/mcp/connectors/xyz.phase.ai/gateway/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.phase.ai/gateway)
   🔓 - Route chat and embeddings to 400+ models, quote prices and fetch signed receipts per call.
+- [Plugsky](https://plugsky.com) `https://plugsky.com/mcp`
+  [![Plugsky MCP connector](https://glama.ai/mcp/connectors/com.plugsky/plugsky-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.plugsky/plugsky-mcp)
+  🔑 - Chat across 39 models, fuse answers, search the web, fetch pages and query RAG.
 - [Quietforge x402 Tools](https://quietforge-studio.pages.dev/docs-api/#mcp) `https://qf-api.quietforge-studio.workers.dev/mcp`
   [![Quietforge x402 Tools MCP connector](https://glama.ai/mcp/connectors/io.github.quietforgestudio/x402-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.quietforgestudio/x402-tools)
   🔓 - Search a health-probed directory of x402 APIs, probe one, and read aggregate 24h on-chain USDC settlement.
