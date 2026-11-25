@@ -166,6 +166,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CodeTrendy](https://codetrendy.com/mcp) `https://codetrendy.com/api/mcp`
   [![CodeTrendy MCP connector](https://glama.ai/mcp/connectors/com.codetrendy/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.codetrendy/directory)
   🔓 - Search 650+ reviewed SaaS, AI and developer tools, find alternatives to a product and browse trending launches.
+- [CoreSpeed](https://corespeed.io/docs/mcp?utm_source=github&utm_medium=referral&utm_campaign=always_on&utm_content=awesome_remote_mcp_servers) `https://api.corespeed.io/mcp`
+  [![CoreSpeed MCP connector](https://glama.ai/mcp/connectors/io.corespeed/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.corespeed/mcp)
+  🔐 - CoreSpeed is the agent-native cloud: one MCP endpoint that gives AI agents your apps, built-in tools and team memory.
 - [CorpusIQ](https://www.corpusiq.io/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers) `https://mcp2.corpusiq.io/mcp`
   [![CorpusIQ MCP connector](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp)
   🔓 - One MCP endpoint for 40+ business systems; tools list without a key, per-connector sign-in for cited answers.
