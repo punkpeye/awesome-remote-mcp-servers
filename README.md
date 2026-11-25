@@ -2640,6 +2640,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Livermore](https://livermore.club/en/mcp) `https://livermore.club/mcp`
   [![Livermore MCP connector](https://glama.ai/mcp/connectors/io.github.AAAZZZR/livermore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AAAZZZR/livermore)
   🔓 - US insider trades, 13F, 13D/G, Form 144, Congress trades, financials and shorts from SEC filings, plus Taiwan stocks.
+- [LiveLaunch](https://livelaunch.vercel.app) `https://livelaunch.vercel.app/mcp`
+  [![LiveLaunch MCP connector](https://glama.ai/mcp/connectors/io.github.slobaloncar/livelaunch-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.slobaloncar/livelaunch-mcp)
+  🔓 - Lists Solana launchpad tokens, quotes, and builds unsigned launch, buy, sell and creator-fee-claim transactions.
 - [Loophole Tape](https://api.loopholetape.com) `https://api.loopholetape.com/mcp`
   [![Loophole Tape MCP connector](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gosadu/loophole-tape)
   🔓 - pump.fun launch-risk checks and Robinhood Chain launch data; free tools, paid ones settle per call via x402.
