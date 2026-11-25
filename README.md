@@ -662,7 +662,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Bumblebeez](https://bumblebeez.ai) `https://agents.browserbox.io/oauth/mcp`
   [![Bumblebeez MCP connector](https://glama.ai/mcp/connectors/ai.bumblebeez/browser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bumblebeez/browser)
-  🔐 - Add the connector and sign in with an email code. 25 cents of starter credit once per email address at first sign-in, valid for 30 days. No card is needed to try. Install: https://bumblebeez.ai/docs.
+  🔐 - Cloud browsers for AI: Batch $0.07/hr, Instant $0.41/hr, Live $0.41/hr, Anywhere $1.29/hr; 25-cent starter credit at first email-code sign-in (30 days, no card). Install: https://bumblebeez.ai/docs.
 
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
