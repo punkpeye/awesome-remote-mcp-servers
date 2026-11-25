@@ -3514,6 +3514,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search and write team docs, tables, issues and CRM records, with answers citing their source.
+- [Rosmaryn](https://rosmaryn.app/) `https://rosmaryn.app/wp-json/rosmaryn/v1/mcp`
+  [![Rosmaryn MCP connector](https://glama.ai/mcp/connectors/app.rosmaryn/encyclopedia/badges/score.svg)](https://glama.ai/mcp/connectors/app.rosmaryn/encyclopedia)
+  🔓 - Search and cite a Human Design, astrology and numerology encyclopedia in six languages, and get upcoming sky events.
 - [Scento Perfume API (MCP server)](https://www.scento.com/developers/perfume-mcp-server) `https://www.scento.com/mcp`
   [![Scento Perfume API MCP connector](https://glama.ai/mcp/connectors/com.scento/perfume-compendium/badges/score.svg)](https://glama.ai/mcp/connectors/com.scento/perfume-compendium)
   🔓 - Perfume portraits, raw materials, scent pairings and occasion edits, with a scento.com page on every answer.
