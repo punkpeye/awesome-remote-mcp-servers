@@ -3084,6 +3084,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [Kivloo](https://kivloo.com/ai-agents) `https://kivloo.com/api/mcp`
+  [![Kivloo MCP connector](https://glama.ai/mcp/connectors/io.github.Automated-Client-Acquisition/kivloo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Automated-Client-Acquisition/kivloo)
+  🔐 - Food safety compliance: HACCP plans, SOPs, checklists, inspection analytics, sensor history and lot lookups.
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
@@ -4918,6 +4921,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
 ### 🚗 <a name="sales"></a>Sales
 
+- [ACA (Automated Client Acquisition)](https://www.automatedclientacquisition.com/mcp) `https://mcp.automatedclientacquisition.com/mcp`
+  [![ACA (Automated Client Acquisition) MCP connector](https://glama.ai/mcp/connectors/com.automatedclientacquisition.www/aca/badges/score.svg)](https://glama.ai/mcp/connectors/com.automatedclientacquisition.www/aca)
+  🔐 - B2B outbound: campaign results, inbox replies, CRM contacts, lead lists and draft LinkedIn campaigns.
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
@@ -5580,6 +5586,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CVE Risk Check](https://tools.openkrill.app/#cve) `https://cve.openkrill.app/mcp`
   [![CVE Risk Check MCP connector](https://glama.ai/mcp/connectors/app.openkrill/cve/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/cve)
   🔓 - Checks CVEs and dependency lists against OSV, NVD, EPSS and CISA KEV, and ranks what to fix first.
+- [CyberScore](https://www.cyberscorelab.com/ai) `https://www.cyberscorelab.com/api/mcp`
+  [![CyberScore MCP connector](https://glama.ai/mcp/connectors/com.cyberscorelab.www/cyberscore/badges/score.svg)](https://glama.ai/mcp/connectors/com.cyberscorelab.www/cyberscore)
+  🔓 - Grade any domain's security A to F (email spoofing, website, exposed servers) and list exploited CVEs.
 - [Datakoot Domain & Company](https://datakoot.com/domain-company) `https://domain.datakoot.com/mcp`
   [![Datakoot Domain & Company MCP connector](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/domain-dns-whois)
   🔓 - Domain recon: RDAP registration, DNS, SPF/DMARC deliverability, tech stack and subdomains from CT logs.
