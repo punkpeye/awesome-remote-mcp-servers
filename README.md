@@ -5226,6 +5226,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Exa](https://exa.ai) `https://mcp.exa.ai/mcp`
   [![Exa MCP connector](https://glama.ai/mcp/connectors/ai.exa/exa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.exa/exa)
   🔓 - Neural web search that returns full page contents.
+- [Extract JSON](https://extract-json.mintfacts.workers.dev) `https://extract-json.mintfacts.workers.dev/mcp`
+  [![Extract JSON MCP connector](https://glama.ai/mcp/connectors/io.github.mintfacts-x402/extract-json/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mintfacts-x402/extract-json)
+  🔓 - Turns text into schema-valid JSON; free lite tool, paid calls via x402 USDC.
 - [file2markdown](https://www.file2markdown.ai) `https://mcp.file2markdown.ai/mcp`
   [![file2markdown MCP connector](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown/badges/score.svg)](https://glama.ai/mcp/connectors/ai.file2markdown/file2markdown)
   🔓 - Convert PDFs, Office files and web pages to clean Markdown by URL or base64; 5 free a day, Pro key for more.
