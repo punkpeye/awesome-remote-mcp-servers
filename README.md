@@ -2282,6 +2282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [B2BHint](https://b2bhint.com/en/api-reference/mcp) `https://b2bhint.com/api/mcp`
+  [![B2BHint MCP connector](https://glama.ai/mcp/connectors/io.github.B2BHint/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.B2BHint/mcp-server)
+  🔑 - Search companies and officers, read register profiles and run register checks in 180+ jurisdictions; free key to start.
 - [BankRegReports](https://www.bankregreports.com/mcp/) `https://api.bankregreports.com/api/mcp/`
   [![BankRegReports MCP connector](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports)
   🔓 - US bank and credit union data from call reports, UBPR, FDIC, NCUA and SEC filings: profiles, peers and screens.
