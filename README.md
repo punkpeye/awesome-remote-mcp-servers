@@ -1844,7 +1844,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
-- [Laplace](https://www.analytics.laplacetec.com/en/mcp) `https://gateway.laplacetec.com/mcp/`
+- [Laplace](https://www.laplacetec.com/en/mcp) `https://gateway.laplacetec.com/mcp/`
   [![Laplace MCP connector](https://glama.ai/mcp/connectors/io.github.laplacetec/ecommerce-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.laplacetec/ecommerce-analytics)
   🔐 - Brand P&L across Korean and global sales channels: orders, ad spend, COGS, contribution margin and ROAS by SKU.
 - [Lupamundo](https://lupamundo.com) `https://lupamundo.com/mcp`
