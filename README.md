@@ -2105,6 +2105,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Korea Ocean Leisure](https://korea-ocean-mcp.picks-site.workers.dev/) `https://korea-ocean-mcp.picks-site.workers.dev/mcp`
   [![Korea Ocean Leisure MCP connector](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sean-park-funda/korea-ocean-mcp)
   🔓 - Korean tide times for 42 stations plus fishing, mudflat, beach, surf and scuba forecasts.
+- [KWeather](https://api.kweather.co.kr/guides/weather-mcp) `https://apigw.kweather.co.kr/kw-mcp`
+  [![KWeather MCP connector](https://glama.ai/mcp/connectors/kr.co.kweather.api/weather/badges/score.svg)](https://glama.ai/mcp/connectors/kr.co.kweather.api/weather)
+  🔓 - Korean neighborhood weather, fine dust and warnings, world city and GFS/ECMWF/KIM forecasts; free trial API key needed.
 - [Meteosource](https://mcp.meteosource.com) `https://mcp.meteosource.com/mcp`
   [![Meteosource MCP connector](https://glama.ai/mcp/connectors/com.meteosource.mcp/weather-mcp-server-by-meteosource/badges/score.svg)](https://glama.ai/mcp/connectors/com.meteosource.mcp/weather-mcp-server-by-meteosource)
   🔓 - Forecasts, severe-weather alerts, air quality, 20 years of history, solar and wind production; free API key needed.
