@@ -351,6 +351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
   [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
   🔐 - Human-in-the-loop confirmations, forms and durable approvals that reach any device, with an audit trail.
+- [Firma](https://firma.dev) `https://mcp.firma.dev/mcp`
+  [![Firma MCP connector](https://glama.ai/mcp/connectors/dev.firma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firma/mcp)
+  🔐 - Send documents for e-signature from templates or PDFs, track signers, and manage templates and webhooks.
 - [Formstep](https://formstep.io) `https://api.formstep.io/api/mcp`
   [![Formstep MCP connector](https://glama.ai/mcp/connectors/io.github.formstep/formstep-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.formstep/formstep-mcp)
   🔐 - Collect verified customer information with one request: the customer confirms or corrects a branded, prefilled form.
