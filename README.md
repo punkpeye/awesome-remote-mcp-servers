@@ -2267,6 +2267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Bootpay](https://developers.bootpay.ai) `https://mcp.bootpay.ai/mcp`
+  [![Bootpay MCP connector](https://glama.ai/mcp/connectors/ai.bootpay/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.bootpay/mcp)
+  🔓 - Korean payment gateway docs and integration guidance: PG setup, recurring billing, CSP allowlists, SDK versions and troubleshooting.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
