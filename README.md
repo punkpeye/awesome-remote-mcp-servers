@@ -1757,6 +1757,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ALLR](https://allr.io) `https://allr.io/mcp`
   [![ALLR MCP connector](https://glama.ai/mcp/connectors/io.github.dfedarchuk/allr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dfedarchuk/allr)
   🔓 - Compare motorcycle gear by landed cost (item, shipping, duty, tax) in CA, US, EU, UK; price drops; sizing.
+- [Amazon Price Tracker](https://aipricehistory.com) `https://aipricehistory.com/api/mcp`
+  [![Amazon Price Tracker MCP connector](https://glama.ai/mcp/connectors/com.aipricehistory/aiprice-history-amazon-price-history-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.aipricehistory/aiprice-history-amazon-price-history-mcp)
+  🔑 - Amazon price history by ASIN: current, lowest, highest and average price plus dated price changes across 23 Amazon stores.
 - [AMZ Vault](https://www.amz-vault.com) `https://www.amz-vault.com/mcp`
   [![AMZ Vault MCP connector](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault/badges/score.svg)](https://glama.ai/mcp/connectors/com.amz-vault/amz-vault)
   🔐 - Run an Amazon seller brand: profit analytics, PPC, inventory forecasting, listings and staged approvals.
