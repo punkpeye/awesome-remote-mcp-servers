@@ -2117,6 +2117,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ROVE Snow Forecast](https://rove-ski.com/en/ai) `https://rove-ski.com/mcp`
   [![ROVE Snow Forecast MCP connector](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast)
   🔐 - Free 15-day snow forecasts and conditions for 667 ski resorts in North America and Japan.
+- [rundata.re](https://rundata.re/?ref=awesome-remote) `https://rundata.re/mcp`
+  [![rundata.re MCP connector](https://glama.ai/mcp/connectors/re.rundata/temps-reel/badges/score.svg)](https://glama.ai/mcp/connectors/re.rundata/temps-reel)
+  🔓 - Live public data of Réunion Island (France, 974): measured weather at Météo-France stations and history since 1900, warnings and cyclones, volcano, buses, hiking trails open or closed with GPX, water quality, events.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
