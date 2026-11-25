@@ -2662,6 +2662,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Marian](https://marianmortgage.com/agents#mcp-server) `https://mcp.marianmortgage.com/mcp`
   [![Marian MCP connector](https://glama.ai/mcp/connectors/com.marianmortgage/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.marianmortgage/mcp)
   🔓 - Pre-launch US mortgage whose rate only goes down: explain it, compare it with refinancing, or join the waitlist.
+- [Market News API](https://goat-lighthouse.site/) `https://goat-lighthouse.site/mcp`
+  [![Market News API MCP connector](https://glama.ai/mcp/connectors/site.goat-lighthouse/market-news/badges/score.svg)](https://glama.ai/mcp/connectors/site.goat-lighthouse/market-news)
+  🔓 - Crypto, stock and forex headlines with AI crypto-impact scores and Binance announcements; $0.005 per call via x402.
 
 - [MarketMaster](https://marketmaster.live/developers) `https://api.marketmaster.live/mcp`
   [![MarketMaster MCP connector](https://glama.ai/mcp/connectors/live.marketmaster/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/live.marketmaster/mcp)
