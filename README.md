@@ -3333,6 +3333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alcoven](https://alcoven.co) `https://app.alcoven.co/mcp`
   [![Alcoven MCP connector](https://glama.ai/mcp/connectors/co.alcoven/alcoven/badges/score.svg)](https://glama.ai/mcp/connectors/co.alcoven/alcoven)
   🔐 - Open your team's project from the AI you use: read and write its brief, documents, tasks and notes.
+- [Alexein AI](https://alexein.ai) `https://api.alexein.ai/v1/mcp`
+  [![Alexein AI MCP connector](https://glama.ai/mcp/connectors/ai.alexein/memory/badges/score.svg)](https://glama.ai/mcp/connectors/ai.alexein/memory)
+  🔐 - Persistent memory for AI assistants: search what you told it before and save new facts, shared across tools.
 - [Analytics Legends](https://analyticslegends.ai/mcp-server/) `https://analyticslegends.ai/mcp`
   [![Analytics Legends MCP connector](https://glama.ai/mcp/connectors/ai.analyticslegends/sap-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/ai.analyticslegends/sap-analytics)
   🔓 - SAP AI & analytics market data: consulting firms, day-rate bands, job radar and news, each record citable.
