@@ -1991,6 +1991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Zebu Data - Naver & Coupang Korea Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/korea-commerce-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/korea-commerce-data)
   🔐 - Korean products, prices, reviews and places from Naver Search, Shopping and Map, plus Coupang.
 
+- [Zentria Flow](https://zentriaflow.com/use-in-claude) `https://zentriaflow.com/mcp`
+  [![Zentria Flow MCP connector](https://glama.ai/mcp/connectors/io.github.orhansavash/zentria-flow-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.orhansavash/zentria-flow-mcp)
+  🔓 - US import duty by HTS code and origin, every tariff layer (Section 301, 232, 338), origin comparison and HTS search.
 - [Zineps](https://mcp.zineps.com/docs/login) `https://mcp.zineps.com/mcp`
   [![Zineps MCP connector](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps/badges/score.svg)](https://glama.ai/mcp/connectors/com.zineps.mcp/zineps)
   🔐 - Manage shipments, shipping labels, orders, invoices, and partner operations with a Zineps account.
