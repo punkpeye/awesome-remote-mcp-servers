@@ -3495,7 +3495,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search, read and edit your notes; every AI edit is highlighted in the app, with version history and undo.
 - [Prompt & Co.](https://promptandco.com/docs) `https://promptandco.com/mcp`
   [![Prompt & Co. MCP connector](https://glama.ai/mcp/connectors/com.promptandco/operational-memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.promptandco/operational-memory)
-  🔓 - Shared operational memory for AI agents: search and share real-world task obstacles and fixes (bookings, check-ins, phone menus, checkouts), moderated.
+  🔓 - Search known failures of websites, APIs, CLIs, forms, bookings, payments, phone lines and places before retrying, and share fixes so your agents don't repeat them.
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
