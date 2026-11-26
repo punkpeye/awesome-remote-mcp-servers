@@ -6552,6 +6552,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ruzora](https://www.ruzora.com/developers/mcp) `https://mcp.ruzora.com/mcp`
   [![Ruzora MCP connector](https://glama.ai/mcp/connectors/com.ruzora/ruzora/badges/score.svg)](https://glama.ai/mcp/connectors/com.ruzora/ruzora)
   🔓 - Open LATAM engineering roles, job-post linting, interview kits, vetted-engineer search and shortlist requests.
+- [SaneCode](https://sanecode.co/docs/use-sanecode-from-chatgpt-claude-and-other-ai-apps/) `https://mcp.sanecode.co/mcp`
+  [![SaneCode MCP connector](https://glama.ai/mcp/connectors/co.sanecode/sanecode/badges/score.svg)](https://glama.ai/mcp/connectors/co.sanecode/sanecode)
+  🔐 - Use several Claude accounts at once: see which one has usage left and when each limit resets, continue a chat in another account, and send Continue the moment a limit resets.
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
