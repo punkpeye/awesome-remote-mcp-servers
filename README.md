@@ -548,6 +548,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Omakase Icons](https://icons.oma-kase.com/) `https://icons.oma-kase.com/mcp`
   [![Omakase Icons MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.oma-kase/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.oma-kase/icons)
   🔓 - Search 152 MIT SVG icons and paste React, Vue, Svelte or SVG code in any style.
+- [One Dollar Logo Maker](https://onedollarlogomaker.com) `https://onedollarlogomaker.com/mcp`
+  [![One Dollar Logo Maker MCP connector](https://glama.ai/mcp/connectors/com.onedollarlogomaker/one-dollar-logo-maker/badges/score.svg)](https://glama.ai/mcp/connectors/com.onedollarlogomaker/one-dollar-logo-maker)
+  🔓 - Search 50,000+ logo templates by industry and preview them with your business name, slogan and colours.
 - [OODS Foundry](https://oods-foundry.com) `https://oods-foundry.com/mcp`
   [![OODS Foundry MCP connector](https://glama.ai/mcp/connectors/com.oods-foundry/foundry/badges/score.svg)](https://glama.ai/mcp/connectors/com.oods-foundry/foundry)
   🔓 - Read a design system's component catalog and registry, and draw and certify charts from your own data.
