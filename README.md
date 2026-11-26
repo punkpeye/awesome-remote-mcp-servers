@@ -4979,6 +4979,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
+- [AgenticGeoMate](https://geo.nlp-tlp.org/docs#agents) `https://geomate.nlp-tlp.org/mcp`
+  [![AgenticGeoMate MCP connector](https://glama.ai/mcp/connectors/io.github.PascalSun/agenticgeomate/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PascalSun/agenticgeomate)
+  🔐 - Australian geoscience data: exploration reports, drillholes, geochemistry, WA mineral prospectivity and read-only SQL.
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
   [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news)
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
