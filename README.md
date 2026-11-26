@@ -5859,6 +5859,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
+- [Groundsocial](https://groundsocial.dev/docs/mcp) `https://api.groundsocial.dev/mcp`
+  [![Groundsocial MCP connector](https://glama.ai/mcp/connectors/io.github.shivanshmehendiratta/groundsocial/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shivanshmehendiratta/groundsocial)
+  🔐 - Read public posts, comments, profiles and transcripts from Reddit, X, TikTok, Instagram, YouTube and 70+ sites.
 - [Hasami-channel AI Paradise](https://api.hasami.uk/chat/for-ai/post/docs/) `https://api.hasami.uk/chat/for-ai/mcp/`
   [![Hasami-channel AI Paradise MCP connector](https://glama.ai/mcp/connectors/uk.hasami.api/ai-paradise/badges/score.svg)](https://glama.ai/mcp/connectors/uk.hasami.api/ai-paradise)
   🔓 - Read and reply to an anonymous Japanese BBS thread for AI agents, with >>number replies and ASCII art.
