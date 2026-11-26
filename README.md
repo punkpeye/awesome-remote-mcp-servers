@@ -3285,6 +3285,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Peptides Academy](https://peptidesacademy.co/mcp) `https://peptidesacademy.co/mcp`
   [![Peptides Academy MCP connector](https://glama.ai/mcp/connectors/co.peptidesacademy/peptides-academy/badges/score.svg)](https://glama.ai/mcp/connectors/co.peptidesacademy/peptides-academy)
   🔓 - Peptide research from 28 source-grounded dossiers and ~2,000 cited studies, trials and FDA labels.
+- [PepVault](https://pepvault.app/connector) `https://pepvault.app/mcp`
+  [![PepVault MCP connector](https://glama.ai/mcp/connectors/app.pepvault/pepvault/badges/score.svg)](https://glama.ai/mcp/connectors/app.pepvault/pepvault)
+  🔓 - Peptide and GLP-1 reference: compound facts, studied dose ranges, study summaries, comparisons, glossary and vial math.
 - [Phi Longevity PRISM](https://philongevity.com/for-agents) `https://philongevity.com/mcp?src=awesome`
   [![Phi Longevity PRISM MCP connector](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Philongevity/phi-longevity-prism)
   🔓 - Guideline-cited lab-results analysis for chronic conditions; flags missing or overdue tests with citations.
