@@ -1344,7 +1344,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Quote FDM and SLA 3D printing from an ISO 9001:2015 certified EU factory; measures public STL or OBJ links.
 - [3Dsellers](https://www.3dsellers.com/channel-integration/3dsellers-mcp) `https://api.3dsellers.com/mcp`
   [![3Dsellers MCP connector](https://glama.ai/mcp/connectors/com.3dsellers/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.3dsellers/mcp)
-  🔐 - Manage eBay, Amazon, Walmart, Etsy, Shopify and TikTok Shop listings, orders, inventory and bulk edits with 150+ tools.
+  🔐 - Manage eBay, Amazon, Walmart, Etsy, Shopify and TikTok Shop listings, orders, inventory and bulk edits with 120+ tools.
 - [10ML Perfume Finder](https://10ml.com) `https://mcp.10ml.com/mcp`
   [![10ML Perfume Finder MCP connector](https://glama.ai/mcp/connectors/com.10ml/perfume-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.10ml/perfume-finder)
   🔓 - The 10ML Fragrance Index for AI assistants: perfume notes, accords, families, similar scents and expert guides.
