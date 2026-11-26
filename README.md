@@ -2415,7 +2415,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - European Central Bank reference FX rates: latest, historical, time series and currency conversion.
 - [Dealport](https://dealport.com/docs) `https://app.dealport.com/api/mcp`
   [![Dealport MCP connector](https://glama.ai/mcp/connectors/com.dealport/dealport/badges/score.svg)](https://glama.ai/mcp/connectors/com.dealport/dealport)
-  🔐 🔑 - Search 28M+ US private companies and commercial buildings with cited filings, owner contacts and Avery intros.
+  🔓 🔐 🔑 - Search 28M+ US private companies and commercial buildings with cited filings, owner contacts and Avery intros.
 - [DFX Intelligence](https://dfxintel.com/agents) `https://exchange-production-9123.up.railway.app/mcp/core?c=dir-awremote`
   [![DFX Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt)
   🔓 - Private credit for agents: BDC lenders, borrowers, marks, spreads and maturities, cited to SEC filings.
