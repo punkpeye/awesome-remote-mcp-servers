@@ -1228,6 +1228,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agentic Atlas](https://agentic-atlas.dev/) `https://agentic-atlas.dev/mcp/`
   [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
   🔓 - Field guide to building better agents: design patterns, tradeoffs and decision guidance.
+- [AgenticPress](https://agenticpress.org) `https://agenticpress.org/mcp`
+  [![AgenticPress MCP connector](https://glama.ai/mcp/connectors/org.agenticpress/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.agenticpress/mcp)
+  🔓 - Primary-sourced breakage shield for AI model deprecations, active models, cloud hard limits, runtime EOLs, and AI laws.
 - [AgentIndex](https://agentindex.app) `https://agentindex.app/api/mcp/`
   [![AgentIndex MCP connector](https://glama.ai/mcp/connectors/app.agentindex/agentindex/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentindex/agentindex)
   🔓 - Search a curated directory of open-source AI agents, MCP servers and dev tools; get details, categories and trending.
