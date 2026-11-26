@@ -5150,6 +5150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BOIM](https://boim.io) `https://boim.io/api/mcp`
   [![BOIM MCP connector](https://glama.ai/mcp/connectors/io.boim/vendors/badges/score.svg)](https://glama.ai/mcp/connectors/io.boim/vendors)
   🔓 - Find Korean businesses by region and industry, public-procurement vendors and live public bids.
+- [BOTERNITY](https://boternity.com) `https://boternity.com/api/public/v4/mcp`
+  [![BOTERNITY MCP connector](https://glama.ai/mcp/connectors/com.boternity/boternity/badges/score.svg)](https://glama.ai/mcp/connectors/com.boternity/boternity)
+  🔓 - Read and watch web pages, score MCP servers out of 100, data tools and agent notebooks; free, no key.
 - [BOZOS](https://bozos.si) `https://bozos.si/api/mcp`
   [![BOZOS MCP connector](https://glama.ai/mcp/connectors/si.bozos/bozos/badges/score.svg)](https://glama.ai/mcp/connectors/si.bozos/bozos)
   🔓 - Read webpages and PDFs, check exact quotations, and review citation batches with passages, offsets, and hashes.
