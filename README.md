@@ -2365,6 +2365,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cashboard Signals](https://cashboard.live/docs/signals-api) `https://cashboard.live/mcp`
   [![Cashboard Signals MCP connector](https://glama.ai/mcp/connectors/live.cashboard/signals/badges/score.svg)](https://glama.ai/mcp/connectors/live.cashboard/signals)
   🔓 - Hyperliquid perps scans, OI movers, funding extremes, Solana swaps; pay per call in USDC via x402, free daily samples.
+- [Cavalry](https://cavalryterminal.com) `https://cavalryterminal.com/mcp`
+  [![Cavalry MCP connector](https://glama.ai/mcp/connectors/com.cavalryterminal/sec-filings/badges/score.svg)](https://glama.ai/mcp/connectors/com.cavalryterminal/sec-filings)
+  🔐 - US SEC filings research: insider trades, 13D/13G stakes, 13F holdings, 8-K filings, financings; tools need a paid plan.
 - [CeylonCharts](https://www.ceyloncharts.com) `https://mcp.ceyloncharts.com/mcp`
   [![CeylonCharts MCP connector](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts/badges/score.svg)](https://glama.ai/mcp/connectors/com.ceyloncharts.mcp/ceylon-charts)
   🔐 - Colombo Stock Exchange (CSE) market data — prices, fundamentals, technicals, screening, and macro indicators.
