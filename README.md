@@ -2826,6 +2826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SignalForge AI SFConnect](https://www.signalforge-ai.com/sf-connect/) `https://api.signalforge-ai.com/mcp`
   [![SignalForge AI SFConnect MCP connector](https://glama.ai/mcp/connectors/com.signalforge-ai/sfconnect/badges/score.svg)](https://glama.ai/mcp/connectors/com.signalforge-ai/sfconnect)
   🔓 - TradingView to MT5 bridge: MT5 accounts, EA status, signal history and dry-run-first signal sending.
+- [Signalview Hyperliquid Signals](https://www.signalview.xyz/hyperliquid-mcp-server) `https://www.signalview.xyz/mcp`
+  [![Signalview Hyperliquid Signals MCP connector](https://glama.ai/mcp/connectors/xyz.signalview.www/signals/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.signalview.www/signals)
+  🔓 - Signed Hyperliquid perp signal calls with a hash-chained, verifiable live track record; read-only.
 - [Signed](https://mcp.signed.com) `https://mcp.signed.com`
   [![Signed MCP connector](https://glama.ai/mcp/connectors/com.signed.mcp/signed/badges/score.svg)](https://glama.ai/mcp/connectors/com.signed.mcp/signed)
   🔐 - An angel investor's portfolio, deal pipeline, and contacts: positions, returns, pitches, notes, and transactions.
