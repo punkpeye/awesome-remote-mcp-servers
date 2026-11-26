@@ -5405,6 +5405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
+- [SAM.gov & USAspending Federal Contracts](https://apify.com/autotroph/us-federal-procurement-normalizer) `https://mcp.apify.com/?tools=autotroph/us-federal-procurement-normalizer`
+  [![SAM.gov & USAspending Federal Contracts MCP connector](https://glama.ai/mcp/connectors/io.github.char5742/us-federal-contracts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.char5742/us-federal-contracts-mcp)
+  🔐 - Query US federal contracts, IDV child-order rollups, SAM.gov UEI profiles, NAICS/PSC codes and sub-awards.
 - [Sayod 111 Intelligence](https://sayod111.github.io/) `https://sayod111-mcp-gateway.sayodyalawi.workers.dev/mcp`
   [![Sayod 111 Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp)
   🔓 - Discover data tools for e-commerce stores, hiring signals, and financial advisers.
