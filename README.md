@@ -6321,6 +6321,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stay Otter](https://stayotter.com/connect) `https://stayotter.com/api/mcp`
   [![Stay Otter MCP connector](https://glama.ai/mcp/connectors/com.stayotter/stay-otter/badges/score.svg)](https://glama.ai/mcp/connectors/com.stayotter/stay-otter)
   🔓 - Vetted stays from Booking.com, Vrbo and Expedia with live totals, the block checked on the map, and price watches.
+- [Suumer](https://suumer.com/api) `https://suumer.com/mcp`
+  [![Suumer MCP connector](https://glama.ai/mcp/connectors/com.suumer/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.suumer/events)
+  🔓 - Things to do in any US town on a given day: live music, trivia, karaoke and more, each checked at its source.
 - [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
   [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
   🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
