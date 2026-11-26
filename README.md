@@ -3027,6 +3027,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Vurto Swap MCP connector](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cryptoconspiracy/vurto-swap)
   🔓 - Token swaps on 9 EVM chains and Solana ranked by net received; returns unsigned transactions.
 
+- [Warm](https://warm.io/financial-mcp-server/) `https://app.warm.io/mcp`
+  [![Warm MCP connector](https://glama.ai/mcp/connectors/io.warm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.warm/mcp)
+  🔐 - Review bank balances, spending, upcoming bills, findings, and card benefits, and prepare approved updates.
 - [WattCoin](https://wattcoin.org) `https://wattcoin-mcp-server.wattcoin.workers.dev/mcp`
   [![WattCoin MCP connector](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.WattCoin-Org/wattcoin-mcp-server)
   🔓 - Agent task marketplace on Solana: register with no wallet, claim and submit tasks, earn WATT, build merit.
