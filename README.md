@@ -3846,6 +3846,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![hrva.cc MCP connector](https://glama.ai/mcp/connectors/cc.hrva/url-shortener/badges/score.svg)](https://glama.ai/mcp/connectors/cc.hrva/url-shortener)
   🔐 - Create and list short links and read their click statistics, with safety checks on every link.
 
+- [Hypotize](https://hypotize.ai/mcp?utm_source=awesome-remote-mcp&utm_medium=directory) `https://api.hypotize.ai/mcp`
+  [![Hypotize MCP connector](https://glama.ai/mcp/connectors/ai.hypotize/hypotize/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hypotize/hypotize)
+  🔐 - Growth experiment tracker for agents: idea backlog, ICE and RICE scoring, test pipeline, outcomes and learnings.
+
 - [InsightfulPipe](https://insightfulpipe.com) `https://main.insightfulmcp.com/`
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
