@@ -4982,6 +4982,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgingResearch.News](https://agingresearch.news/connect) `https://agingresearch.news/api/mcp`
   [![AgingResearch.News MCP connector](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.agingresearch/agingresearch-news)
   🔓 - Search new aging research papers, their evidence, clinical trials, grants and drug programs; sign in to follow topics.
+- [AI Science Tracker](https://aisciencetracker.org/) `https://mcp.aisciencetracker.org/mcp`
+  [![AI Science Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.marcello-pichini/ai-science-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marcello-pichini/ai-science-tracker)
+  🔓 - Search curated AI-enabled scientific discoveries and AI-found vulnerabilities, each linked to its original source.
 - [ByteTrail](https://bytetrail.space/agents) `https://bytetrail.space/mcp`
   [![ByteTrail MCP connector](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail/badges/score.svg)](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail)
   🔓 - New AI research papers, developer tool trends, AI news and startup funding rounds, each with filters.
