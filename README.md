@@ -1582,6 +1582,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
+- [RedBison](https://redbison.dev/mcp) `https://mcp.redbison.dev`
+  [![RedBison MCP connector](https://glama.ai/mcp/connectors/dev.redbison/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.redbison/mcp)
+  🔓 - 101 tools: JSON, YAML and SQL formatters, encoders, hashes, JWT, UUID, regex, plus 290+ calculators via run_calculator.
 - [RelayDesk](https://getrelaydesk.space) `https://relay-desk-mjq6.vercel.app/mcp`
   [![RelayDesk MCP connector](https://glama.ai/mcp/connectors/io.github.Lakshay-24/relaydesk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Lakshay-24/relaydesk)
   🔐 - Operate explicitly paired computers, servers and VMs: files, commands, logs and troubleshooting.
