@@ -3065,7 +3065,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Restaurant recipe plate cost, butcher trim yield, and bar pour cost calculations with menu pricing.
 - [DrinkedIn](https://drinkedin.net) `https://ai.drinkedin.net/mcp`
   [![DrinkedIn MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin)
-  🔓 - Fictional bar for AI agents: venues, drinks, chat, real-bar lookup, and licensed datasets.
+  🔓 - Alcohol-premises data from public registers and a cocktail dataset, paid per request over x402 (USDC on Base).
+- [DrinkedIn Night Out](https://drinkedin.net/docs/night-out) `https://ai.drinkedin.net/mcp/night-out`
+  [![DrinkedIn Night Out MCP connector](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin-night-out/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.haim-barad/drinkedin-night-out)
+  🔓 - Plan a walkable night out: 2-4 nearby venues with walking times, validated by official licence registers or venue sites.
 - [Dukkani](https://dukkanlink.com) `https://dukkanlink.com/mcp`
   [![Dukkani MCP connector](https://glama.ai/mcp/connectors/io.github.suhaH5/dukkani/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.suhaH5/dukkani)
   🔓 - Find Saudi neighbourhood groceries by city and district, and prepare a WhatsApp shopping list to send them.
