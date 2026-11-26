@@ -1165,6 +1165,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [datatomcp](https://datatomcp.com) `https://app.datatomcp.com/mcp`
   [![datatomcp MCP connector](https://glama.ai/mcp/connectors/com.datatomcp/datatomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.datatomcp/datatomcp)
   🔐 - Query your CSV files and Google Sheets with exact filters, groups and totals; read-only, EU-hosted.
+- [Diogenes Database Intelligence](https://diogenesgateway.com/#database-intelligence) `https://diogenesgateway.com/mcp/database-intelligence`
+  [![Diogenes Database Intelligence MCP connector](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-database-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-database-intelligence-mcp)
+  🔓 - Database schema inference, dialect normalization, query plan optimization, and SQL audit over streamable HTTP.
 - [LakehouseBox](https://lakehousebox.com/docs/mcp/) `https://mcp.lakehousebox.com/mcp`
   [![LakehouseBox MCP connector](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox/badges/score.svg)](https://glama.ai/mcp/connectors/com.lakehousebox/lakehousebox)
   🔐 - Query and write Apache Iceberg tables hosted in Europe, and open public datasets, with DuckDB SQL.
