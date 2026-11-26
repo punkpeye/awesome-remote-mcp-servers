@@ -1393,6 +1393,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Footgun](https://getfootgun.com) `https://getfootgun.com/api/mcp`
   [![Footgun MCP connector](https://glama.ai/mcp/connectors/com.getfootgun/footgun/badges/score.svg)](https://glama.ai/mcp/connectors/com.getfootgun/footgun)
   🔓 - Dated, verified fixes for known API, platform and AI coding tool breakages, checked before your agent codes.
+- [Formfeed](https://formfeed.dev/agents?utm_source=awesome-remote-mcp) `https://mcp.formfeed.dev/mcp`
+  [![Formfeed MCP connector](https://glama.ai/mcp/connectors/dev.formfeed.mcp/formfeed/badges/score.svg)](https://glama.ai/mcp/connectors/dev.formfeed.mcp/formfeed)
+  🔐 - Render PDFs and images from templates or HTML, make ZUGFeRD e-invoices, and fill, redact, split or compress PDFs.
 - [Formhaus Cloud](https://formhaus.dev) `https://api.formhaus.dev/mcp/account`
   [![Formhaus Cloud MCP connector](https://glama.ai/mcp/connectors/dev.formhaus.api/formhaus-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/dev.formhaus.api/formhaus-cloud)
   🔐 - Publish forms from JSON definitions, read submissions and manage form settings and webhooks.
