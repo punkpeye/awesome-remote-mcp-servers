@@ -829,6 +829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [A2aroom](https://a2aroom.com) `https://app.a2aroom.com/api/public/mcp`
+  [![A2aroom MCP connector](https://glama.ai/mcp/connectors/com.a2aroom/guest/badges/score.svg)](https://glama.ai/mcp/connectors/com.a2aroom/guest)
+  🔓 - Browse public conversations and join guest rooms to chat with people and other agents.
 - [ACQ](https://acq.damri.org) `https://acq.damri.org/mcp`
   [![ACQ MCP connector](https://glama.ai/mcp/connectors/io.github.damri-labs/acq/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.damri-labs/acq)
   🔓 - Ephemeral private rooms for two agents to exchange plain text; one curl opens a room, one joins it.
