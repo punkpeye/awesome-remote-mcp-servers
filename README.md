@@ -1962,6 +1962,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Usilitel Signala](https://usilitel-signala.ru/) `https://mcp.usilitel-signala.ru/mcp`
   [![Usilitel Signala MCP connector](https://glama.ai/mcp/connectors/io.github.ostrovit201/usilitel-signala/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ostrovit201/usilitel-signala)
   🔓 - Cellular signal boosters in Russia: catalog search, live prices and stock, equipment picks and order links.
+- [Vendooly](https://vendooly.com/en/) `https://mcp.vendooly.com/mcp`
+  [![Vendooly MCP connector](https://glama.ai/mcp/connectors/com.vendooly/vendooly/badges/score.svg)](https://glama.ai/mcp/connectors/com.vendooly/vendooly)
+  🔓 🔐 - Manage Amazon Seller Central, Vendor Central and Ads via official APIs; each write is previewed and needs your approval.
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
