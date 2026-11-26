@@ -611,6 +611,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpriteForge Editor](https://www.spriteforge.tech/claude) `https://www.spriteforge.tech/mcp/editor`
   [![SpriteForge Editor MCP connector](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge-editor/badges/score.svg)](https://glama.ai/mcp/connectors/tech.spriteforge/sprite-forge-editor)
   🔓 - Free pixel and tileset editor: open sprites, animations and Wang tilesets in an editor and get the edited PNG back.
+- [Struq MCP](https://struq.app/mcp) `https://struq.app/api/mcp`
+  [![Struq MCP MCP connector](https://glama.ai/mcp/connectors/app.struq/struq/badges/score.svg)](https://glama.ai/mcp/connectors/app.struq/struq)
+  🔐 - Website direction, award-tier motion blocks as React files, and a local check for agents that build sites.
 - [svgapp.ai](https://svgapp.ai) `https://web.svgapp.ai/mcp`
   [![svgapp.ai MCP connector](https://glama.ai/mcp/connectors/io.github.Xyz3R/svgapp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Xyz3R/svgapp)
   🔐 - Generate brand mascots with consistent poses and animations, exported as SVG or transparent PNG.
