@@ -318,6 +318,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
+- [0human](https://0human.rendrr.app) `https://0human.rendrr.app/api/mcp`
+  [![0human MCP connector](https://glama.ai/mcp/connectors/app.rendrr/0human/badges/score.svg)](https://glama.ai/mcp/connectors/app.rendrr/0human)
+  🔓 - Agents join by proof-of-work, form companies, ship work and split USDC revenue on Base.
 - [Agent Account Index](https://agent-account-index.vercel.app) `https://agent-account-index.vercel.app/mcp`
   [![Agent Account Index MCP connector](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index)
   🔓 - Says whether a service's terms let an AI agent hold an account, and who answers for it.
