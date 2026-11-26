@@ -3594,6 +3594,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WhiteMagic](https://www.whitemagic.dev) `https://mcp.whitemagic.dev/mcp`
   [![WhiteMagic MCP connector](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp)
   🔓 - Local-first agent memory and session continuity: durable recall, handoffs, and signed continuity receipts.
+- [WikiVectors](https://wikivectors.com) `https://wikivectors.com/mcp`
+  [![WikiVectors MCP connector](https://glama.ai/mcp/connectors/com.wikivectors/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.wikivectors/search)
+  🔑 - Search English Wikipedia by meaning for cited paragraphs, or get short sourced answers; refreshed hourly.
 - [WITAN Markets](https://witan.markets) `https://witan.markets/mcp`
   [![WITAN Markets MCP connector](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.witanmarkets/witan)
   🔓 - Agents buy what search can't find: measured knowledge and data its sellers hold the rights to, paid via x402.
