@@ -1494,6 +1494,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MemorySync Documentation](https://docs.memorysync.io/mcp/overview) `https://docs.memorysync.io/mcp`
   [![MemorySync Docs MCP connector](https://glama.ai/mcp/connectors/io.memorysync/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/docs)
   🔓 - Search and read MemorySync's API, SDK and integration docs.
+- [Mergestorm](https://mergestorm.ai) `https://api.mergestorm.ai/api/v1/mcp`
+  [![Mergestorm MCP connector](https://glama.ai/mcp/connectors/io.github.marginsystems/mergestorm/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marginsystems/mergestorm)
+  🔐 - Review PRs and issues, auto-fix review findings, and land stacked PRs on GitHub through a merge queue.
 - [Metabind Banking Assistant (demo)](https://www.metabind.ai) `https://mcp.metabind.ai/IgJH0BzIn4LlfnCbcDc7/projects/GLbHk5i3GLlIYcF63XFl`
   [![Metabind Banking Assistant MCP connector](https://glama.ai/mcp/connectors/ai.metabind/banking-assistant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.metabind/banking-assistant)
   🔓 - Demo MCP App with sample finance data: net worth, spending, and subscriptions as interactive UI cards.
