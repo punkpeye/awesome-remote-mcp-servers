@@ -4855,6 +4855,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Isto Intents](https://istointents.com/assistants/) `https://istointents.com/mcp`
   [![Isto Intents MCP connector](https://glama.ai/mcp/connectors/com.istointents/intents/badges/score.svg)](https://glama.ai/mcp/connectors/com.istointents/intents)
   🔓 - Private standing purchase intents: a portal watches used-car and home listings (SK/CZ), notifies you.
+- [itbisp](https://itbisp.com/agentes) `https://itbisp.com/mcp`
+  [![itbisp MCP connector](https://glama.ai/mcp/connectors/com.itbisp/itbisp/badges/score.svg)](https://glama.ai/mcp/connectors/com.itbisp/itbisp)
+  🔓 - Brazil real estate: 2.96M property transactions from city tax records (ITBI) in 6 capitals, plus São Paulo listings.
 - [Kolmo Construction](https://www.kolmo.io/developers) `https://www.kolmo.io/mcp`
   [![Kolmo Construction MCP connector](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction/badges/score.svg)](https://glama.ai/mcp/connectors/io.kolmo/kolmo-construction)
   🔓 - WA permit rules for 80+ cities, parcel zoning, contractor license checks and Seattle cost estimates.
