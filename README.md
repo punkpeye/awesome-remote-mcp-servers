@@ -751,6 +751,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Floot](https://floot.com) `https://mcp.floot.com/mcp`
   [![Floot MCP connector](https://glama.ai/mcp/connectors/com.floot/floot/badges/score.svg)](https://glama.ai/mcp/connectors/com.floot/floot)
   🔐 - Build React apps with serverless endpoints, Postgres and auth, run SQL, and publish to a live URL.
+- [flypod](https://flypod.dev) `https://flypod.dev/mcp`
+  [![flypod MCP connector](https://glama.ai/mcp/connectors/dev.flypod/flypod/badges/score.svg)](https://glama.ai/mcp/connectors/dev.flypod/flypod)
+  🔓 - Publish a folder of static files or Markdown at an HTTPS share link, no account needed; sign in to keep sites.
 - [GPU Finder](https://gpufinder.dev/api) `https://gpufinder.dev/mcp`
   [![GPU Finder MCP connector](https://glama.ai/mcp/connectors/dev.gpufinder/gpufinder/badges/score.svg)](https://glama.ai/mcp/connectors/dev.gpufinder/gpufinder)
   🔓 - Live cloud GPU prices, observed stock and 12-month price history across 30+ providers, refreshed hourly.
