@@ -3559,6 +3559,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vilix AI](https://vilix.ai) `https://api.vilix.ai/mcp`
   [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
   🔐 - Persistent AI memory shared across tools and devices.
+- [Vythos](https://vythos.tech) `https://api.vythos.tech/api/mcp/sse`
+  🔑 - Shared client Playbook for freelancers and agencies: `get_context` delivers task-specific client rules, rates, and history; `check_draft` audits proposals against Playbook rules before sending. ([Docs](https://doc.vythos.tech))
 - [What Led To](https://whatledto.com) `https://whatledto.com/mcp`
   [![What Led To MCP connector](https://glama.ai/mcp/connectors/com.whatledto/what-led-to/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatledto/what-led-to)
   🔓 - Source-backed timelines of tech, economy and gaming events, with the quote behind each entry.
