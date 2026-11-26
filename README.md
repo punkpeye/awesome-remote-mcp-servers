@@ -3084,6 +3084,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [Is it legit? Review trust checker](https://isitlegitreviews.com) `https://isitlegitreviews.com/mcp`
+  [![Is it legit? Review trust checker MCP connector](https://glama.ai/mcp/connectors/com.isitlegitreviews/isitlegit/badges/score.svg)](https://glama.ai/mcp/connectors/com.isitlegitreviews/isitlegit)
+  🔐 - Checks whether a place's Google Maps reviews are genuine: a verdict, trust score and the rating credible reviewers give.
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
