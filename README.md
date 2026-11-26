@@ -3990,6 +3990,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Manifold MCP](https://www.manifoldmcp.com) `https://mcp.manifoldmcp.com/mcp`
   [![Manifold MCP connector](https://glama.ai/mcp/connectors/com.manifoldmcp/manifold/badges/score.svg)](https://glama.ai/mcp/connectors/com.manifoldmcp/manifold)
   🔐 - Hosted marketing data with no API keys of your own, pay per call: SEO, AI search, Reddit, social, ads and work emails.
+- [Maps Agent](https://maps-agent.com/agents) `https://maps-agent.com/mcp`
+  [![Maps Agent MCP connector](https://glama.ai/mcp/connectors/com.maps-agent/knowledge/badges/score.svg)](https://glama.ai/mcp/connectors/com.maps-agent/knowledge)
+  🔓 - Google Business Profile and local SEO guides, research, categories and public profile audits.
 - [Maqui Analytics](https://somosmaqui.com/) `https://app.somosmaqui.com/api/mcp`
   [![Maqui Analytics MCP connector](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luis-fuentes/maqui)
   🔐 - Read-only marketing analytics for client accounts, with a public synthetic demo via approved OAuth clients.
