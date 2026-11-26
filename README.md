@@ -2551,6 +2551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HowToRomania](https://howtoromania.io) `https://api.howtoromania.io/mcp`
   [![HowToRomania MCP connector](https://glama.ai/mcp/connectors/io.howtoromania/api/badges/score.svg)](https://glama.ai/mcp/connectors/io.howtoromania/api)
   🔓 - Romanian company lookup (ANAF/ONRC), financials, KYB risk, court cases, e-Factura and legislation; 100 free credits.
+- [HTS Lookup API](https://hts.epi.me) `https://hts.epi.me/mcp`
+  [![HTS Lookup API MCP connector](https://glama.ai/mcp/connectors/me.epi.hts/hts-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/me.epi.hts/hts-lookup)
+  🔓 - USITC HTS code search, exact MFN rates, duty and landed-cost estimates; x402 on Base Sepolia testnet.
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Personal ledger: net worth, accounts, budgets and IOUs, with drafts you confirm; needs a paid plan.
