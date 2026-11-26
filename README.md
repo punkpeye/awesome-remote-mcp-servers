@@ -1360,6 +1360,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dockyard](https://dockyard.kim1.ovh) `https://dockyard.kim1.ovh/mcp`
   [![Dockyard MCP connector](https://glama.ai/mcp/connectors/ovh.kim1.dockyard/dockyard-mcp-server-for-the-app-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/ovh.kim1.dockyard/dockyard-mcp-server-for-the-app-catalog)
   🔓 - Search 790+ one-click Docker/Portainer app templates and prepare a local Docker or Portainer deploy plan.
+- [Drex (nace.ai)](https://console.nace.ai/docs/developer-tools/hosted-mcp) `https://console.nace.ai/mcp`
+  [![Drex (nace.ai) MCP connector](https://glama.ai/mcp/connectors/ai.nace.console/drex-naceai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nace.console/drex-naceai)
+  🔓 - Ask Drex decision models typed questions about a state and get calibrated probabilities; free within per-network limits.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
