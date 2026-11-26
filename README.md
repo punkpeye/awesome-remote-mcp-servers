@@ -626,6 +626,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unraster](https://unraster.ai) `https://unraster.ai/mcp`
   [![Unraster MCP connector](https://glama.ai/mcp/connectors/ai.unraster/convert/badges/score.svg)](https://glama.ai/mcp/connectors/ai.unraster/convert)
   🔓 - Turn slide images, charts and screenshots into editable PowerPoint (PPTX) or SVG; tools need a key.
+- [UX Pilot](https://uxpilot.ai/mcp) `https://mcp.uxpilot.net/mcp`
+  [![UX Pilot MCP connector](https://glama.ai/mcp/connectors/ai.uxpilot/uxpilot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uxpilot/uxpilot)
+  🔐 - Design screens live on the UX Pilot canvas, run its design agent, review UX, and make React apps, videos and media.
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
