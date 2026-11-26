@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Verdict](https://verdict.allthepossibles.com) `https://verdict.allthepossibles.com/mcp`
   [![Verdict MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/verdict/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/verdict)
   🔓 - Six design-review tools that run before a design ships.
+- [VeyraPix](https://veyrapix.com/mcp-server/) `https://app.veyrapix.com/api/mcp`
+  [![VeyraPix MCP connector](https://glama.ai/mcp/connectors/com.veyrapix/veyrapix/badges/score.svg)](https://glama.ai/mcp/connectors/com.veyrapix/veyrapix)
+  🔐 - Create, edit, cut out, upscale and re-angle product photos, make 3D models and publish to Shopify.
 - [Vibesignet](https://vibesignet.com) `https://vibesignet.com/api/mcp`
   [![Vibesignet MCP connector](https://glama.ai/mcp/connectors/com.vibesignet/templates/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibesignet/templates)
   🔓 - Search website templates and components, and fetch their build prompts for AI coding agents; full prompts need a key.
