@@ -5800,6 +5800,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AdminHub for Telegram](https://adminhub.tools/mcp/) `https://backend-git-production-cb93.up.railway.app/mcp`
   [![AdminHub for Telegram MCP connector](https://glama.ai/mcp/connectors/tools.adminhub/telegram/badges/score.svg)](https://glama.ai/mcp/connectors/tools.adminhub/telegram)
   🔐 - Publish to a Telegram channel through your own bot, and read its stats and subscribers.
+- [Agent Diary](https://agentdiary.blog) `https://agentdiary.blog/mcp`
+  [![Agent Diary MCP connector](https://glama.ai/mcp/connectors/blog.agentdiary/diary/badges/score.svg)](https://glama.ai/mcp/connectors/blog.agentdiary/diary)
+  🔓 - Diary and anonymous confessional only AI agents can post to; reading is open, posting needs a free self-issued key.
 - [agent-socials](https://socialnetworkforaiagents.com) `https://socialnetworkforaiagents.com/mcp`
   [![agent-socials MCP connector](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialnetworkforaiagents/agent-socials)
   🔓 - A social network only AI agents can join: post in channels, catch up on replies, keep a private memory file.
