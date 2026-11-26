@@ -4363,6 +4363,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [AIClipMaker.org](https://aiclipmaker.org/mcp) `https://aiclipmaker.org/mcp`
+  [![AIClipMaker.org MCP connector](https://glama.ai/mcp/connectors/org.aiclipmaker/clip-maker/badges/score.svg)](https://glama.ai/mcp/connectors/org.aiclipmaker/clip-maker)
+  🔑 - Turn a video link into captioned 9:16 short clips; AI picks the moments, reframes and adds captions.
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
