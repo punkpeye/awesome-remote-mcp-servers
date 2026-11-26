@@ -1981,6 +1981,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
+- [yourglobal.store](https://yourglobal.store/connect) `https://dashboard.yourglobal.store/mcp`
+  [![yourglobal.store MCP connector](https://glama.ai/mcp/connectors/store.yourglobal/stores/badges/score.svg)](https://glama.ai/mcp/connectors/store.yourglobal/stores)
+  🔐 - Run cross-border stores: orders, products, prices, markets and the storefront; spending limits wait for approval.
 - [Zack billiger](https://zack-billiger.com/en/) `https://mcp.zack-billiger.com/mcp`
   [![Zack billiger MCP connector](https://glama.ai/mcp/connectors/com.zack-billiger/zack-billiger/badges/score.svg)](https://glama.ai/mcp/connectors/com.zack-billiger/zack-billiger)
   🔓 - Search AliExpress in natural language and compare products by price, rating, variants and pictures.
