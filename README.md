@@ -3680,6 +3680,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
+- [USPTO & Global Patents](https://apify.com/autotroph/uspto-patent-intelligence-normalizer) `https://mcp.apify.com/?tools=autotroph/uspto-patent-intelligence-normalizer`
+  [![USPTO & Global Patents MCP connector](https://glama.ai/mcp/connectors/io.github.char5742/uspto-patents-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.char5742/uspto-patents-mcp)
+  🔐 - US, EP, WO, JP and CN patents with independent/dependent claim trees, CPC/IPC codes, citations and families.
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
   🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
