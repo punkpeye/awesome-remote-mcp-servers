@@ -3300,6 +3300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
+- [WIMSTA](https://wimsta.com) `https://wimsta.com/mcp`
+  [![WIMSTA MCP connector](https://glama.ai/mcp/connectors/io.github.getwimsta/wimsta/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getwimsta/wimsta)
+  🔓 - 17 fitness and body calculators (BMI, body fat, BMR, TDEE, VO2max): ranges across published formulas, with sources.
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
