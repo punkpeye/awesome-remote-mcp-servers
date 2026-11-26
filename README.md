@@ -1351,6 +1351,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes Context & Solvers](https://diogenesgateway.com/#context-code-solver) `https://diogenesgateway.com/mcp/context-code-solver`
   [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp)
   🔓 - AST skeleton pruner, fuzzy code patcher, BPE token budgeter, and seeded Monte Carlo risk simulator.
+- [DirectAPI Labs — Domain, Brand & Handle Availability](https://apify.com/whthpnd/domain-brand-availability-api) `https://whthpnd--domain-brand-availability-api.apify.actor/mcp`
+  [![DirectAPI Labs Domain Brand Availability MCP connector](https://glama.ai/mcp/connectors/actor.apify.whthpnd--domain-brand-availability-api/direct-api-labs-domain-brand-and-handle-availability/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.whthpnd--domain-brand-availability-api/direct-api-labs-domain-brand-and-handle-availability)
+  🔑 - Checks domain availability via DNS and RDAP plus brand collisions on GitHub, npm, PyPI, and the App Store.
 - [DNS-DATA Remote](https://dns-data.com/) `https://mcp.dns-data.com/mcp`
   [![DNS-DATA Remote MCP connector](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.dns-data.mcp/dns-data-remote)
   🔐 - Connect AI assistants to authorized Windows or macOS computers for files, commands, and device management.
@@ -2432,6 +2435,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes Web3 Security](https://diogenesgateway.com/#web3-security) `https://diogenesgateway.com/mcp/web3-security`
   [![Diogenes Web3 Security MCP connector](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.stand-out-of-my-sun/diogenes-web3-security-mcp)
   🔓 - EIP-712 and Permit2 phishing decoders, Solana priority fee oracle, and token honeypot auditor.
+- [DirectAPI Labs — SEC XBRL Financials & Form 4 Insiders](https://apify.com/whthpnd/sec-financials-insider-trading-api) `https://whthpnd--sec-financials-insider-trading-api.apify.actor/mcp`
+  [![DirectAPI Labs SEC XBRL Financials MCP connector](https://glama.ai/mcp/connectors/actor.apify.whthpnd--sec-financials-insider-trading-api/direct-api-labs-sec-xbrl-financials-and-form-4-insiders/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.whthpnd--sec-financials-insider-trading-api/direct-api-labs-sec-xbrl-financials-and-form-4-insiders)
+  🔑 - Fetches normalized SEC EDGAR XBRL 10-K/10-Q financials and parsed Form 4 insider transactions by ticker.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
@@ -3877,6 +3883,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Deeplead](https://www.deeplead.io) `https://www.deeplead.io/api/mcp`
   [![Deeplead MCP connector](https://glama.ai/mcp/connectors/io.deeplead/deeplead/badges/score.svg)](https://glama.ai/mcp/connectors/io.deeplead/deeplead)
   🔓 - Search local businesses, companies and people, and find their decision makers with verified emails and phone numbers.
+- [DirectAPI Labs — Apple App Store Leads & Reviews](https://apify.com/whthpnd/ios-app-store-leads-reviews-api) `https://whthpnd--ios-app-store-leads-reviews-api.apify.actor/mcp`
+  [![DirectAPI Labs Apple App Store Leads MCP connector](https://glama.ai/mcp/connectors/actor.apify.whthpnd--ios-app-store-leads-reviews-api/direct-api-labs-apple-app-store-leads-and-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.whthpnd--ios-app-store-leads-reviews-api/direct-api-labs-apple-app-store-leads-and-reviews)
+  🔑 - Search Apple App Store listings, filter 1-2 star reviews, and enrich developer studio emails from sellerUrl.
+- [DirectAPI Labs — Website SEO, llms.txt & Security Audit](https://apify.com/whthpnd/seo-geo-security-audit-api) `https://whthpnd--seo-geo-security-audit-api.apify.actor/mcp`
+  [![DirectAPI Labs Website SEO llms.txt Audit MCP connector](https://glama.ai/mcp/connectors/actor.apify.whthpnd--seo-geo-security-audit-api/direct-api-labs-website-seo-llmstxt-and-security-audit/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.whthpnd--seo-geo-security-audit-api/direct-api-labs-website-seo-llmstxt-and-security-audit)
+  🔑 - Audits technical SEO, /llms.txt, GPTBot/ClaudeBot robots.txt rules, TLS expiry, and HTTP security headers.
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
@@ -4924,6 +4936,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
+- [DirectAPI Labs — B2B Company, EU VAT/KYB & Fraud Risk](https://apify.com/whthpnd/b2b-company-kyb-risk-api) `https://whthpnd--b2b-company-kyb-risk-api.apify.actor/mcp`
+  [![DirectAPI Labs B2B Company KYB Risk MCP connector](https://glama.ai/mcp/connectors/actor.apify.whthpnd--b2b-company-kyb-risk-api/direct-api-labs-b2b-company-eu-vatkyb-and-fraud-risk/badges/score.svg)](https://glama.ai/mcp/connectors/actor.apify.whthpnd--b2b-company-kyb-risk-api/direct-api-labs-b2b-company-eu-vatkyb-and-fraud-risk)
+  🔑 - B2B domain enrichment, EU Impressum, VIES VAT, GLEIF LEI, OFAC screening, and disposable email fraud risk.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
