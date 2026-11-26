@@ -4032,6 +4032,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OnPage.dev](https://onpage.dev/mcp) `https://onpage.dev/mcp`
   [![OnPage.dev MCP connector](https://glama.ai/mcp/connectors/dev.onpage/onpage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.onpage/onpage)
   🔓 - Free SEO and AI-visibility audits: scores, fixes, schema, robots.txt, redirects and 25-page site audits, no account.
+- [OptinMonster](https://optinmonster.com/mcp/) `https://mcp.optinmonster.com/mcp`
+  [![OptinMonster MCP connector](https://glama.ai/mcp/connectors/com.optinmonster.mcp/optin-monster/badges/score.svg)](https://glama.ai/mcp/connectors/com.optinmonster.mcp/optin-monster)
+  🔐 - Build, target, measure and manage OptinMonster popups, floating bars, slide-ins, fullscreen and inline campaigns.
 - [PageLens](https://pagelens.io/docs/api) `https://app.pagelens.io/mcp`
   [![PageLens MCP connector](https://glama.ai/mcp/connectors/io.pagelens/pagelens/badges/score.svg)](https://glama.ai/mcp/connectors/io.pagelens/pagelens)
   🔓 - Web analytics for your site and which AI crawlers and assistants read it; tool calls need an API key.
