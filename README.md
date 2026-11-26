@@ -2841,6 +2841,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Skavio USDC Payment Verification & Proof MCP](https://www.skavio.eu/x402/) `https://www.skavio.eu/mcp`
   [![Skavio MCP connector](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis/badges/score.svg)](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis)
   🔓 - Native USDC verification, exact payment matching and evidence PDFs; paid calls use Base USDC via x402.
+- [SLDX](https://api.sldx.com.br/homepage/mcp) `https://mcp.sldx.com.br/mcp`
+  [![SLDX MCP connector](https://glama.ai/mcp/connectors/br.com.sldx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.sldx/mcp)
+  🔑 - Brazilian B3 market data: stock and FII quotes, fundamentals, dividends, funds, FX and Selic/IPCA; free key.
 - [SmarterDividends](https://smarterdividends.com/dividend-mcp-server) `https://smarterdividends.com/mcp`
   [![SmarterDividends MCP connector](https://glama.ai/mcp/connectors/com.smarterdividends/dividends/badges/score.svg)](https://glama.ai/mcp/connectors/com.smarterdividends/dividends)
   🔓 - Dividend history, ex-dividend calendar, yields, raises and cuts for U.S. stocks and ETFs.
