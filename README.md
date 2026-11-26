@@ -2788,6 +2788,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions.
 - [Quidli Connect](https://connect.quid.li) `https://mcp.connect.quid.li`
   🔓 - Resolve social handles to EVM and Solana wallets, score onchain reputation and send USDC.
+- [QuoteMoto RateFoundry](https://www.quotemoto.com/en/chatgpt) `https://mcp.quotemoto.com/api/mcp`
+  [![QuoteMoto RateFoundry MCP connector](https://glama.ai/mcp/connectors/com.quotemoto/ratefoundry/badges/score.svg)](https://glama.ai/mcp/connectors/com.quotemoto/ratefoundry)
+  🔓 - California auto insurance rate benchmarks, SR-22 and CLCA guides, and bilingual estimate scenarios by ZIP code.
 - [Radicado Uno](https://radicadouno.co/mcp) `https://mcp.radicadouno.co/mcp`
   [![Radicado Uno MCP connector](https://glama.ai/mcp/connectors/co.radicadouno/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.radicadouno/mcp)
   🔓 - Colombian company and procurement data by NIT (registry, contracts, sanctions). Free lookup; data tools need a key.
@@ -2921,6 +2924,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The 07:00 Brief](https://0700.io) `https://api.antevo.ch/mcp/0700/mcp`
   [![The 07:00 Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/0700-brief/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/0700-brief)
   🔓 - A daily editorial morning read on markets and the world: what moved, what it means and what to watch today.
+- [The Rates Guy](https://www.theratesguy.com/en/chatgpt) `https://rates-guy-mcp-edge.degensmoke.workers.dev/api/mcp`
+  [![The Rates Guy MCP connector](https://glama.ai/mcp/connectors/com.theratesguy.www/policy-analysis/badges/score.svg)](https://glama.ai/mcp/connectors/com.theratesguy.www/policy-analysis)
+  🔓 - California auto insurance policy education, city cost benchmarks, SR-22 rules, and declarations-page checklists.
 - [The River](https://theriver.markets/agents) `https://theriver.markets/mcp`
   [![The River MCP connector](https://glama.ai/mcp/connectors/markets.theriver/the-river/badges/score.svg)](https://glama.ai/mcp/connectors/markets.theriver/the-river)
   🔓 - Tokenized US stocks onchain: issuers, onchain vs US prices, holdings, pre-filled trade links a person signs.
