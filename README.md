@@ -6050,6 +6050,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StringSpec](https://stringspec.com/connect/) `https://stringspec.com/mcp`
   [![StringSpec MCP connector](https://glama.ai/mcp/connectors/com.stringspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.stringspec/mcp)
   🔓 - Lab measurements of nearly 800 tennis strings: search, compare and get string recommendations.
+- [The Card API](https://www.thecardapi.com/mcp) `https://mcp.thecardapi.com/api/mcp`
+  [![The Card API MCP connector](https://glama.ai/mcp/connectors/com.thecardapi/the-card-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.thecardapi/the-card-api)
+  🔑 - Find trading card printings and search recent sales by grade, with sale links and price confirmation.
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
