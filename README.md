@@ -3800,6 +3800,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Blawgy](https://blawgy.com/mcp) `https://app.blawgy.com/mcp`
   [![Blawgy MCP connector](https://glama.ai/mcp/connectors/com.blawgy/blawgy/badges/score.svg)](https://glama.ai/mcp/connectors/com.blawgy/blawgy)
   🔐 - Keyword research, plus writing and publishing SEO blog posts to WordPress, Shopify, Webflow and more.
+- [Bubi Ads](https://bubiads.com/en/) `https://bubiads.com/mcp`
+  [![Bubi Ads MCP connector](https://glama.ai/mcp/connectors/com.bubiads/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.bubiads/mcp)
+  🔐 - Plans Meta, Google, TikTok and ChatGPT ad campaigns, builds them paused and publishes only after you approve.
 - [CallAI SEO](https://callaiapi.com/en/integrations/seo-mcp) `https://api.callaiapi.com/mcp`
   [![CallAI SEO MCP connector](https://glama.ai/mcp/connectors/com.callaiapi/seo/badges/score.svg)](https://glama.ai/mcp/connectors/com.callaiapi/seo)
   🔓 - Live Google/Bing SERP, keyword difficulty, backlinks and domain checks, plus free site checks; tools need an API key.
