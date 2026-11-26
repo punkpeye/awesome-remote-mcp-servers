@@ -3307,6 +3307,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
 
+- [JobTrackr](https://jobtrackr.rendrr.app) `https://jobtrackr.rendrr.app/mcp`
+  [![JobTrackr MCP connector](https://glama.ai/mcp/connectors/app.rendrr/jobtrackr/badges/score.svg)](https://glama.ai/mcp/connectors/app.rendrr/jobtrackr)
+  🔑 - Track job applications, notes and reminders on one person's board; connect with a jt_ API key.
+
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
