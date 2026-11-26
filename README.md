@@ -5443,6 +5443,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sourcey](https://sourcey.com) `https://mcp.sourcey.com/mcp`
   [![Sourcey MCP connector](https://glama.ai/mcp/connectors/com.sourcey/sourcey/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcey/sourcey)
   🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
+- [Spider](https://spider.cloud/?utm_source=awesome-remote-mcp-servers&utm_medium=directory&utm_campaign=awesome-remote-mcp-servers-listing) `https://mcp.spider.cloud/mcp`
+  [![Spider MCP connector](https://glama.ai/mcp/connectors/cloud.spider/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.spider/mcp)
+  🔐 - Crawl, scrape and search the web as markdown or JSON, with remote browser tools. OAuth or a Spider API key.
 - [StatOrigin](https://statorigin.org) `https://statorigin.org/mcp`
   [![StatOrigin MCP connector](https://glama.ai/mcp/connectors/org.statorigin/statorigin/badges/score.svg)](https://glama.ai/mcp/connectors/org.statorigin/statorigin)
   🔓 - Verified industry statistics: search indicators, fetch values with publisher, report and source quote.
