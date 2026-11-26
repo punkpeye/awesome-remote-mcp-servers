@@ -6275,6 +6275,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gingerguide](https://gingerguide.app) `https://gingerguide.app/mcp`
   [![Gingerguide City Catalog MCP connector](https://glama.ai/mcp/connectors/app.gingerguide/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/app.gingerguide/catalog)
   🔓 - Narrated audio-tour sights for 129 European cities, with coordinates and visit times.
+- [golfdata.online](https://golfdata.online) `https://golfdata.online/mcp`
+  [![golfdata.online MCP connector](https://glama.ai/mcp/connectors/online.golfdata/golf-clubs/badges/score.svg)](https://glama.ai/mcp/connectors/online.golfdata/golf-clubs)
+  🔓 - golfdata.online (v1.4.0), verified golf clubs: search clubs, find clubs near a point, get club details, list data sources, check data coverage and send booking requests (`search_clubs`, `find_nearby_clubs`, `get_club`, `list_sources_for`, `get_data_coverage`, `request_booking`), endpoint https://golfdata.online/mcp, Streamable HTTP, no auth.
 - [Goliath Travel MCP](https://goliath.travel) `https://goliath.travel/mcp`
   [![Goliath Travel MCP MCP connector](https://glama.ai/mcp/connectors/travel.goliath/goliath/badges/score.svg)](https://glama.ai/mcp/connectors/travel.goliath/goliath)
   🔐 - Free, read-only travel MCP server comparing cash fares, award seats, hotels, trains, cars, cruises and transfers.
