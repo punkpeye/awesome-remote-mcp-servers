@@ -5938,6 +5938,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
   🔓 - Trending topics, channel metrics and post history from public Telegram; tools need OAuth.
+- [SupaBird](https://supabird.io) `https://api.supabird.io/mcp`
+  [![SupaBird MCP connector](https://glama.ai/mcp/connectors/io.supabird/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.supabird/mcp)
+  🔐 - Find viral posts, write in your voice, and schedule or cross-post to X, LinkedIn, Threads and Bluesky.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
