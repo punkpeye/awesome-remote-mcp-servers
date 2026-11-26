@@ -6222,6 +6222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FMCSA Carrier Intelligence](https://kmcto.github.io/fmcsa-carrier-intelligence/) `https://fmcsa-mcp-843680657471.us-central1.run.app/mcp`
   [![FMCSA Carrier Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.KMCTO/fmcsa-carrier-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KMCTO/fmcsa-carrier-intelligence)
   🔓 - Vet US motor carriers by USDOT number: authority, insurance, safety history and identity links; pay per call via x402.
+- [Fortitude21 Dangerous Goods Tools](https://fortitude21.com/dangerous-goods-api) `https://fortitude21.com/mcp`
+  [![Fortitude21 Dangerous Goods Tools MCP connector](https://glama.ai/mcp/connectors/com.fortitude21/dangerous-goods/badges/score.svg)](https://glama.ai/mcp/connectors/com.fortitude21/dangerous-goods)
+  🔓 - UN number to permitted UN packaging, UN mark decoding, ADR 1.1.3.6 points, IBC test dates, bund and jerry can sizing.
 - [FrontDesko](https://frontdesko.app) `https://mcp.frontdesko.app/mcp`
   [![FrontDesko MCP connector](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anmols/frontdesko-mcp)
   🔓 - Hotel PMS pricing and plan comparisons, OTA-commission savings math and docs search.
