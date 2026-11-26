@@ -3601,6 +3601,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cookie Compliance](https://cookie-compliance.co/mcp/) `https://mcp.cookie-compliance.co/mcp`
   [![Cookie Compliance MCP connector](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent/badges/score.svg)](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent)
   🔓 - Preview, install and configure a cookie consent banner that holds trackers in the page until the visitor chooses.
+- [CounselMode License Navigator](https://counselmode.com/licenses) `https://licenses.counselmode.com/mcp`
+  [![CounselMode License Navigator MCP connector](https://glama.ai/mcp/connectors/io.github.mfbaig35r/counselmode-license-navigator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mfbaig35r/counselmode-license-navigator)
+  🔓 - License answers with sources: lookups, compatibility, obligations, model licenses and 99 projects' license history.
 - [Court Rules](https://www.courtrules.app) `https://mcp.courtrules.app/mcp`
   [![Court Rules MCP connector](https://glama.ai/mcp/connectors/app.courtrules/court-rules/badges/score.svg)](https://glama.ai/mcp/connectors/app.courtrules/court-rules)
   🔓 - US judge filing rules, court holidays and enforcement data; free samples, OAuth for full access.
