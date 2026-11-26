@@ -5925,6 +5925,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schedchie](https://www.schedchie.com/ai) `https://mcp.schedchie.com/mcp`
   [![Schedchie MCP connector](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie)
   🔐 - Schedule, edit and retry posts on Instagram, TikTok and more, upload media and read analytics; posting to X is extra.
+- [Shager](https://shager.ai/agents) `https://app.shager.ai/api/mcp`
+  [![Shager MCP connector](https://glama.ai/mcp/connectors/ai.shager/shager/badges/score.svg)](https://glama.ai/mcp/connectors/ai.shager/shager)
+  🔐 - Post to YouTube, TikTok, X, LinkedIn, Pinterest and more, each at its own hour; answer comments and read stats.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
