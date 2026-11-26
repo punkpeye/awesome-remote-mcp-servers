@@ -1612,6 +1612,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Settlens](https://settlens.com) `https://settlens.com/mcp`
   [![Settlens MCP connector](https://glama.ai/mcp/connectors/com.settlens/settlens/badges/score.svg)](https://glama.ai/mcp/connectors/com.settlens/settlens)
   🔓 - Evaluate x402 V2 payment requirements against spending policies, without signing or sending payments.
+- [Shellway](https://getshellway.com) `https://mcp.getshellway.com/mcp`
+  [![Shellway MCP connector](https://glama.ai/mcp/connectors/com.getshellway/shellway/badges/score.svg)](https://glama.ai/mcp/connectors/com.getshellway/shellway)
+  🔐 - Run commands and read, write, edit and search files on your own Windows, macOS or Linux computers and servers.
 - [Show It Works](https://showitworks.app) `https://showitworks.app/api/mcp`
   [![Show It Works MCP connector](https://glama.ai/mcp/connectors/app.showitworks/show-it-works/badges/score.svg)](https://glama.ai/mcp/connectors/app.showitworks/show-it-works)
   🔓 - Public tool discovery; uploading verification videos and sharing viewer links require an API key.
