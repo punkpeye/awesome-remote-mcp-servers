@@ -1832,6 +1832,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hark Tech](https://harktech.co.uk/for-ai-assistants.html) `https://harktech.co.uk/mcp`
   [![Hark Tech MCP connector](https://glama.ai/mcp/connectors/uk.co.harktech/quotes/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.harktech/quotes)
   🔓 - Price your own STL, 3MF or STEP file, or a Printables/Thingiverse model, for UK 3D printing and get a checkout link.
+- [HenryCrawl E-commerce Data](https://henrycrawl-ecommerce-mcp.henrycrawl.workers.dev/) `https://henrycrawl-ecommerce-mcp.henrycrawl.workers.dev/mcp`
+  [![HenryCrawl E-commerce Data MCP connector](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-ecommerce-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-ecommerce-mcp)
+  🔓 - Live Amazon, eBay, 1688/AliExpress and Rakuten product search as typed JSON; connects without auth, data tools need a paid license key (Bearer header).
 - [HLN Apparel](https://www.hlnapparel.com) `https://www.hlnapparel.com/api/mcp`
   [![HLN Apparel MCP connector](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer/badges/score.svg)](https://glama.ai/mcp/connectors/com.hlnapparel/clothing-manufacturer)
   🔓 - Clothing factory data: garment categories, MOQ, lead times, US HS duty lookup, GSM conversion and quote requests.
@@ -3306,6 +3309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [HenryCrawl Jobs - LinkedIn & Indeed](https://apify.com/henrycrawl) `https://mcp.apify.com/?tools=henrycrawl/linkedin-jobs-scraper,henrycrawl/indeed-jobs-scraper`
+  [![HenryCrawl Jobs - LinkedIn & Indeed MCP connector](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-jobs-mcp)
+  🔐 - LinkedIn and Indeed job postings as JSON: exact post date, salary min/max, no login, pay per result.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
@@ -5267,6 +5273,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Headcount Labs](https://headcountlabs.com/mcp/) `https://api.headcountlabs.com/mcp/public`
   [![Headcount Labs MCP connector](https://glama.ai/mcp/connectors/com.headcountlabs/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.headcountlabs/jobs)
   🔓 - Search and count 8 million+ open jobs from employer career sites, with published pay and a link to each posting.
+- [HenryCrawl Data for AI & RAG](https://apify.com/henrycrawl) `https://mcp.apify.com/?tools=henrycrawl/youtube-transcript-llm,henrycrawl/youtube-data-llm,henrycrawl/reddit-scraper-llm,henrycrawl/rss-news-fulltext-rag,henrycrawl/telegram-channel-rag,henrycrawl/google-trends-llm,henrycrawl/app-store-reviews-ai,henrycrawl/google-ads-transparency-llm,henrycrawl/ai-brand-visibility-tracker,henrycrawl/naver-search-news-blog`
+  [![HenryCrawl Data for AI & RAG MCP connector](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-ai-data-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tidyware-app/henrycrawl-ai-data-mcp)
+  🔐 - YouTube transcripts, Reddit, full-text RSS, Telegram channels, Google Trends and App Store reviews, pay per result.
 - [High Signal](https://highsignal.app) `https://mcp.highsignal.app/high-signal/mcp`
   [![High Signal MCP connector](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal/badges/score.svg)](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal)
   🔓 - Read published High Signal daily briefs, signals and their linked evidence through a bounded, read-only public feed.
