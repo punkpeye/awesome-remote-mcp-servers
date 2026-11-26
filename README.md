@@ -6671,6 +6671,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
+- [Alfalaki Astrology](https://alfalaki.space) `https://alfalaki.space/mcp`
+  [![Alfalaki MCP connector](https://glama.ai/mcp/connectors/io.github.samsali-g/alfalaki/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.samsali-g/alfalaki)
+  🔓 - Real-ephemeris astrology (VSOP87/ELP2000): live planetary positions, zodiac signs, horoscopes, placements, synastry, and tarot in EN/AR.
+- [ExifStudio](https://www.exifstudio.online) `https://www.exifstudio.online/mcp`
+  [![ExifStudio MCP connector](https://glama.ai/mcp/connectors/online.exifstudio/exif-studio/badges/score.svg)](https://glama.ai/mcp/connectors/online.exifstudio/exif-studio)
+  🔓 - Catalogue & agent skill for 100% browser-local EXIF/IPTC/XMP metadata, GPS stripping, C2PA inspection, camera shutter count, and PDF privacy tools.
+- [WedMaroc](https://www.wedmaroc.com) `https://www.wedmaroc.com/mcp`
+  [![WedMaroc MCP connector](https://glama.ai/mcp/connectors/com.wedmaroc/wed-maroc/badges/score.svg)](https://glama.ai/mcp/connectors/com.wedmaroc/wed-maroc)
+  🔓 - 2026 Moroccan wedding budget estimator in MAD, city cost multipliers, vendor price benchmarks, and free AR/FR/EN planning tools.
 - [313 Automations](https://313automations.com) `https://313automations.com/mcp`
   [![313 Automations MCP connector](https://glama.ai/mcp/connectors/com.313automations/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.313automations/site)
   🔓 - Read-only facts, starting prices, site search and pages as Markdown for 313 Automations, a Lahore AI and web agency.
