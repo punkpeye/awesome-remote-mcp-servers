@@ -2084,6 +2084,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Digital-Simon EMS](https://umweltsicherheit.org/mcp) `https://mcp.umweltsicherheit.org/mcp`
   [![Digital-Simon EMS MCP connector](https://glama.ai/mcp/connectors/org.umweltsicherheit.mcp/digital-simon-ems/badges/score.svg)](https://glama.ai/mcp/connectors/org.umweltsicherheit.mcp/digital-simon-ems)
   🔑 - Device list, live readings and history for PV, storage and meters; switching only with explicit approval.
+- [Distance to Coast](https://dtc.undtec.com/) `https://dtc.undtec.com/mcp`
+  [![Distance to Coast MCP connector](https://glama.ai/mcp/connectors/com.undtec/dtc/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/dtc)
+  🔓 - Miles from any point to the nearest coastline, by coastline model, for insurance underwriting.
 - [echorune](https://echorune.net) `https://echorune.net/mcp`
   [![echorune MCP connector](https://glama.ai/mcp/connectors/io.github.luoshu-echorune/echorune-radar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.luoshu-echorune/echorune-radar)
   🔓 - Current weather, a two-hour rain curve and a rain-radar map drawn as text.
@@ -2093,6 +2096,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FindEnergyRates](https://findenergyrates.com) `https://findenergyrates.com/mcp`
   [![FindEnergyRates MCP connector](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.findenergyrates/electricity-rates)
   🔐 - Live US retail electricity plans and price-to-compare rates by utility or ZIP; free key by email.
+- [FloodMap](https://flood.undtec.com/) `https://flood.undtec.com/mcp`
+  [![FloodMap MCP connector](https://glama.ai/mcp/connectors/com.undtec/flood/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/flood)
+  🔓 - FEMA flood zone at any US point, with its subtype and Special Flood Hazard Area flag.
 - [GreenCalculus](https://greencalculus.com/developers/) `https://mcp.greencalculus.com`
   [![GreenCalculus MCP connector](https://glama.ai/mcp/connectors/com.greencalculus/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.greencalculus/api)
   🔓 - Sourced greenhouse-gas emission factors and audit-traced carbon calculations.
@@ -2126,6 +2132,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [thirdtrail](https://thirdtrail.life/docs/mcp/) `https://thirdtrail.life/mcp`
   [![thirdtrail MCP connector](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail)
   🔓 - Elevation-corrected sunrise, sunset, twilight, moon, solar irradiance, prayer and tide times; paid key to call tools.
+- [Wildfire Map](https://wildfire.undtec.com/) `https://wildfire.undtec.com/mcp`
+  [![Wildfire Map MCP connector](https://glama.ai/mcp/connectors/com.undtec/wildfire/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/wildfire)
+  🔓 - USFS Wildfire Hazard Potential and wildland-urban interface class at any US point.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
@@ -2267,6 +2276,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Carrier Lookup](https://carriers.undtec.com/) `https://carriers.undtec.com/mcp`
+  [![Carrier Lookup MCP connector](https://glama.ai/mcp/connectors/com.undtec/carriers/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/carriers)
+  🔓 - Search US insurance companies in the NAIC registry by name or NAIC code.
+- [Surplus Lines Tax Calculator](https://sltax.undtec.com/) `https://sltax.undtec.com/mcp`
+  [![Surplus Lines Tax Calculator MCP connector](https://glama.ai/mcp/connectors/com.undtec/sltax/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/sltax)
+  🔓 - Surplus lines tax rate, stamping fees and payment schedule of any US state.
+- [Underwriters Technologies Tools](https://www.undtec.com/tools/) `https://toolsapi.undtec.com/mcp`
+  [![Underwriters Technologies Tools MCP connector](https://glama.ai/mcp/connectors/com.undtec/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/tools)
+  🔓 - All free Underwriters Technologies insurance lookups in one server: wildfire, flood, coast, VIN, FMCSA, NAIC.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -6120,9 +6138,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
+- [FMCSA Carrier Lookup](https://fmcsa.undtec.com/) `https://fmcsa.undtec.com/mcp`
+  [![FMCSA Carrier Lookup MCP connector](https://glama.ai/mcp/connectors/com.undtec/fmcsa/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/fmcsa)
+  🔓 - FMCSA status, safety rating, authority and insurance filings of a US motor carrier.
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
   [![Travel Risk API MCP connector](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.travelriskapi/travel-risk-api)
   🔐 - Country risk scores, government travel advisories, disaster and conflict alerts, flight status and in-flight Wi-Fi.
+- [VIN Decoder](https://vin.undtec.com/) `https://vin.undtec.com/mcp`
+  [![VIN Decoder MCP connector](https://glama.ai/mcp/connectors/com.undtec/vin/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/vin)
+  🔓 - Decode a 17-character VIN: year, make, model, engine and plant from NHTSA vPIC.
 - [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
   [![WhichTrim MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
   🔓 - US vehicle recalls, complaints, fuel economy, crash ratings, VIN decoding and OBD-II codes.
@@ -6677,6 +6701,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LifeVerse Product Discovery](https://lifeverse.gufreelancer.com/mcp) `https://lifeverse.gufreelancer.com/api/mcp?source=mcp-directory`
   [![LifeVerse Product Discovery MCP connector](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog)
   🔓 - Discover, search and recommend eleven ready-to-use LifeVerse AI products and interactive experiences.
+- [Longitude-Latitude Finder](https://mappin.undtec.com/) `https://mappin.undtec.com/mcp`
+  [![Longitude-Latitude Finder MCP connector](https://glama.ai/mcp/connectors/com.undtec/mappin/badges/score.svg)](https://glama.ai/mcp/connectors/com.undtec/mappin)
+  🔓 - Latitude and longitude of a US street address from the US Census Geocoder.
 - [Muslim Prayer Reminder MCP](https://tareq7.github.io/muslim-prayer-mcp/) `https://muslim-prayer-mcp.najetareqz.workers.dev/mcp`
   [![Muslim Prayer Reminder MCP connector](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp)
   🔓 - Computes Muslim prayer times by location and regional method, with daily timetables and next-prayer countdowns.
