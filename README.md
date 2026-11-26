@@ -101,6 +101,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 💳 - [Payments](#payments)
 * 📋 - [Project Management](#project-management)
 * 🏠 - [Real Estate](#real-estate)
+* 🤖 - [Robotics & Simulation](#robotics--simulation)
 * 🚗 - [Sales](#sales)
 * 🔬 - [Science & Research](#science--research)
 * 🔎 - [Search & Data Extraction](#search--data-extraction)
@@ -4916,6 +4917,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
+### 🤖 <a name="robotics--simulation"></a>Robotics & Simulation
+
+- [SceneAgent](https://sceneagent.dev) `https://app.sceneagent.dev/mcp`
+  [![SceneAgent MCP connector](https://glama.ai/mcp/connectors/dev.sceneagent/sceneagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sceneagent/sceneagent)
+  🔑 - Turns 3D scans, Gaussian splats and video into sim-ready robot scenes for Isaac Sim, Isaac Lab and MuJoCo.
+
 ### 🚗 <a name="sales"></a>Sales
 
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
