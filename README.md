@@ -1467,6 +1467,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Keelen](https://keelen.ai/mcp-server/) `https://keelen.ai/mcp`
   [![Keelen MCP connector](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen)
   🔓 - Steer GitHub coding from chat: requests, roadmaps and PR review. Tokenless signup; bearer key for workspace tools.
+- [Kipt](https://kipt.me/mcp) `https://kipt.me/api/mcp`
+  [![Kipt MCP connector](https://glama.ai/mcp/connectors/io.github.anshulsoni2010/kipt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.anshulsoni2010/kipt)
+  🔐 - Search, fill and save prompts and Agent Skills kept in your own private GitHub repo.
 - [Klarhimmel UI](https://ui.klarhimmel.com/get-started/mcp) `https://ui.klarhimmel.com/mcp`
   [![Klarhimmel UI MCP connector](https://glama.ai/mcp/connectors/com.klarhimmel.ui/klarhimmel-ui/badges/score.svg)](https://glama.ai/mcp/connectors/com.klarhimmel.ui/klarhimmel-ui)
   🔓 - Search 300+ shadcn-compatible blocks, templates and components and get each one's install command.
