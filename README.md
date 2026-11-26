@@ -5661,7 +5661,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Odile Gate](https://gate.odilelabs.com) `https://gate.odilelabs.com/mcp`
   [![Odile Gate MCP connector](https://glama.ai/mcp/connectors/com.odilelabs/gate/badges/score.svg)](https://glama.ai/mcp/connectors/com.odilelabs/gate)
   🔓 - Gateway for the API your AI agent calls: per-app keys, allowed calls, loop breaker, approvals and an audit log.
-- [OmniForge Launch Audit](https://omnipulse-x402.appwrite.network) `https://omnipulse-x402.appwrite.network/mcp`
+- [OmniForge Launch Audit](https://api.shipbastion.com) `https://api.shipbastion.com/mcp`
   [![OmniForge Launch Audit MCP connector](https://glama.ai/mcp/connectors/io.github.zColdWater/mcp-launch-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zColdWater/mcp-launch-audit)
   🔓 - Audits website security headers, SPF/DKIM/DMARC DNS, llms.txt AI search readiness, and 78-TLD availability.
 - [Onchain Diary](https://theonchaindiary.com) `https://theonchaindiary.com/api/mcp`
