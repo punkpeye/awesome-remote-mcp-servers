@@ -3640,6 +3640,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GroundRules](https://law.agentlookups.ai) `https://law.agentlookups.ai/mcp`
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
+- [imzala.net](https://imzala.net/yapay-zeka) `https://mcp.imzala.net/mcp`
+  [![imzala.net MCP connector](https://glama.ai/mcp/connectors/net.imzala/ictihat/badges/score.svg)](https://glama.ai/mcp/connectors/net.imzala/ictihat)
+  🔐 - Search 11.5M Turkish court and agency decisions, read full texts with official links, and verify case citations.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
   🔓 - Explains contracts, official letters and tax assessments clause by clause in plain language; not legal advice.
