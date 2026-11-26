@@ -3889,6 +3889,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ExtensionDash](https://extensiondash.com/) `https://extensiondash.com/mcp`
   [![ExtensionDash MCP connector](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard)
   🔓 - Research Chrome and Firefox extension catalogs as a guest; OAuth unlocks your listing and keyword tracking.
+- [Fictura](https://fictura.co) `https://mcp.fictura.co/mcp`
+  [![Fictura MCP connector](https://glama.ai/mcp/connectors/co.fictura/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.fictura/mcp)
+  🔓 - Paywalls, subscription analytics, A/B tests, attribution and crashes for Expo and React Native apps.
 - [fnlowl](https://fnlowl.com) `https://api.fnlowl.com/v1/mcp`
   [![fnlowl MCP connector](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl/badges/score.svg)](https://glama.ai/mcp/connectors/com.fnlowl/fnlowl)
   🔓 - Manage website widgets, leads, email sequences and analytics; discovery is open, tool calls need a sign-in.
