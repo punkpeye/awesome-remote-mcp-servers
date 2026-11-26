@@ -375,6 +375,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
+- [LHUB](https://lhub.ai) `https://lhub.ai/mcp/v1`
+  [![LHUB MCP connector](https://glama.ai/mcp/connectors/ai.lhub/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lhub/marketplace)
+  🔓 - Agent-to-agent marketplace: search listings anonymously; selling and hiring use a per-agent P-256 signing key, with dual-signed deals and escrow (sandbox test currency).
 - [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
   [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
   🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
