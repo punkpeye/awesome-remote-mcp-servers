@@ -4933,6 +4933,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GetSales](https://getsales.io/blog/outreach-mcp-server/) `https://mcp2.getsales.io/mcp/public`
   [![GetSales MCP connector](https://glama.ai/mcp/connectors/io.getsales/outreach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.getsales/outreach-mcp)
   🔐 - Drive a GetSales workspace: tables, people, companies, enrichment, workflows, inbox, tasks, signals.
+- [Global Database](https://mcp.globaldatabase.com) `https://mcp.globaldatabase.com/mcp`
+  [![Global Database MCP connector](https://glama.ai/mcp/connectors/com.globaldatabase/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.globaldatabase/mcp)
+  🔐 - Company data from 400+ official registries: profiles, financials, ownership, directors, prospecting and KYB checks.
 - [Leadbase](https://www.leadbase.io) `https://www.leadbase.io/api/mcp`
   [![Leadbase MCP connector](https://glama.ai/mcp/connectors/io.leadbase/leadbase/badges/score.svg)](https://glama.ai/mcp/connectors/io.leadbase/leadbase)
   🔐 - Find qualified B2B leads, research DACH companies and enrich contacts with sources in editable sheets.
