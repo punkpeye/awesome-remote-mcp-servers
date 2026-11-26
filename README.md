@@ -2160,6 +2160,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 💰 <a name="finance"></a>Finance
 
+- [FilingSignal SEC EDGAR Form D, Form 4 & 8-K](https://apify.com/spiky_closet/sec-funding-insider-mcp) `https://spiky-closet--sec-funding-insider-mcp.apify.actor/mcp`
+  [![FilingSignal MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/sec-edgar-funding-insider-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/sec-edgar-funding-insider-mcp)
+  🔑 - Query official SEC EDGAR Form D startup funding rounds (SPV-filtered), VWAP Form 4 insider & cluster buys, and Form 8-K EX-99.1 press releases.
+
+
 - [0s and 1s CIS](https://0sand1s.co.uk/developers) `https://0sand1s.co.uk/mcp`
   [![0s and 1s CIS MCP connector](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.0sand1s/cis)
   🔓 - UK CIS calculators: deductions, filing deadlines, late return penalties, gross payment test and verification.
