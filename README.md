@@ -3943,6 +3943,14 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Jepto MCP connector](https://glama.ai/mcp/connectors/com.jepto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.jepto/mcp)
   🔐 - Query live Google Ads, GA4, Search Console, Meta Ads and Google Business Profile data, and manage KPIs and budgets.
 
+- [Kapshur](https://kapshur.co/mcp) `https://api.kapshur.co/mcp`
+  [![Kapshur MCP connector](https://glama.ai/mcp/connectors/co.kapshur/kapshur/badges/score.svg)](https://glama.ai/mcp/connectors/co.kapshur/kapshur)
+  🔐 - Manage every client's link in bio page for agencies: pages, short links, post tiles, check-up fixes and reports.
+
+- [Kapshur link in bio checker](https://kapshur.co/mcp) `https://api.kapshur.co/mcp/public`
+  [![Kapshur link in bio checker MCP connector](https://glama.ai/mcp/connectors/co.kapshur/link-in-bio-checker/badges/score.svg)](https://glama.ai/mcp/connectors/co.kapshur/link-in-bio-checker)
+  🔓 - Check up to 10 link in bio pages (Linktree, Beacons, any page) for dead links, redirects and missing UTM tags.
+
 - [Kliqo AI](https://kliqo.ai/docs/ai-apps) `https://kliqo.ai/mcp`
   [![Kliqo AI MCP connector](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility)
   🔓 - Free AI crawler and page checks, then see if ChatGPT and Google AI name you or your competitors.
