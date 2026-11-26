@@ -1919,6 +1919,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
+- [Rendered Fits](https://www.renderedfits.com/mcp-server/) `https://www.renderedfits.com/mcp`
+  🔓 - Compare clothing sizes across 60 UK & US brands, convert UK/US/EU/shoe sizes, audit Shopify size charts for AI shopping agents (ASRS-2026), and query CC BY 4.0 fashion sizing & return-fee datasets.
 - [reusefulshop](https://reusefulshop.com) `https://reusefulshop.com/mcp`
   [![reusefulshop MCP connector](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop)
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
