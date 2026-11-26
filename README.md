@@ -4140,6 +4140,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Spytrend](https://spytrend.com/mcp/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-launch) `https://mcp.spytrend.com/mcp`
   [![Spytrend MCP connector](https://glama.ai/mcp/connectors/com.spytrend/spytrend/badges/score.svg)](https://glama.ai/mcp/connectors/com.spytrend/spytrend)
   🔐 - Search Meta and TikTok ads, find the advertisers behind them, and rank what is scaling.
+- [SSOM Link](https://link.ssom.co.kr) `https://link.ssom.co.kr/mcp`
+  [![SSOM Link MCP connector](https://glama.ai/mcp/connectors/kr.co.ssom.link/link/badges/score.svg)](https://glama.ai/mcp/connectors/kr.co.ssom.link/link)
+  🔐 - Create tracked short links and read per-channel click analytics from AI agents.
 - [StarTap Directory Search](https://startap.cc/) `https://startap.cc/mcp`
   [![StarTap Directory Search MCP connector](https://glama.ai/mcp/connectors/cc.startap/star-tap-directory-search/badges/score.svg)](https://glama.ai/mcp/connectors/cc.startap/star-tap-directory-search)
   🔓 - Find free startup submission directories by category, badge requirements, review wait and Ahrefs Domain Rating.
