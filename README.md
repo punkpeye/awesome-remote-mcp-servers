@@ -6100,6 +6100,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [SuperBot](https://superbotapp.ai/docs/mcp) `https://superbotapp.ai/api/mcp`
+  [![SuperBot MCP connector](https://glama.ai/mcp/connectors/ai.superbotapp/superbot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.superbotapp/superbot)
+  🔐 - Read your website support conversations, find the questions your AI agent could not answer, and teach it new answers.
 - [WorkWing](https://www.workwing.io/developers) `https://api.workwing.io/mcp`
   [![WorkWing MCP connector](https://glama.ai/mcp/connectors/io.workwing/workwing/badges/score.svg)](https://glama.ai/mcp/connectors/io.workwing/workwing)
   🔐 - Field service jobs: find customers and engineers, read the schedule, create and book jobs, and add notes.
