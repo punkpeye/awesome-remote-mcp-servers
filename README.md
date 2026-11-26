@@ -694,6 +694,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Shotkiln MCP connector](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln/badges/score.svg)](https://glama.ai/mcp/connectors/com.shotkiln/shotkiln)
   🔓 - Screenshot pages as PNG, JPEG or WebP, render a URL or HTML to PDF, and make 1200x630 OG images; key optional.
 
+- [Signal Desk](https://x402-mcp.huntercarver24.workers.dev) `https://x402-mcp.huntercarver24.workers.dev/mcp`
+  [![Signal Desk MCP connector](https://glama.ai/mcp/connectors/io.github.huntercarver24/signal-desk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.huntercarver24/signal-desk)
+  🔓 - Render a page to Markdown, PNG or PDF, host a file, schedule a callback, read pump.fun launches and trends; x402.
+
 - [SnapRender](https://snap-render.com) `https://app.snap-render.com/mcp`
   [![SnapRender MCP connector](https://glama.ai/mcp/connectors/com.snap-render.app/snap-render/badges/score.svg)](https://glama.ai/mcp/connectors/com.snap-render.app/snap-render)
   🔐 - Capture screenshots and PDFs, read pages as Markdown, run 50-URL batches, and schedule captures with change alerts.
