@@ -2756,6 +2756,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
+- [Pulse Verity](https://thepulse.markets/developers?ref=awesome-remote-mcp) `https://mcp.thepulse.markets/api/index/mcp`
+  [![Pulse Verity MCP connector](https://glama.ai/mcp/connectors/io.github.PulseBet/pulse-verity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PulseBet/pulse-verity)
+  🔓 - Signed crypto index prices, recorded prints and history, with local signature checks against a published key.
 - [pumpdata](https://pumpdata.fun/?utm_source=github&utm_medium=listing&utm_campaign=open) `https://pumpdata.fun/mcp`
   [![pumpdata MCP connector](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata/badges/score.svg)](https://glama.ai/mcp/connectors/fun.pumpdata/pumpdata)
   🔓 - Every pump.fun trade, ever: base rates, wallet and launch records, and pick-list replays for trading agents over x402.
