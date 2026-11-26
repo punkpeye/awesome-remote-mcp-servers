@@ -2880,6 +2880,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SwapWallet](https://swapwallet.app/docs/mcp) `https://swapwallet.app/mcp`
   [![SwapWallet MCP connector](https://glama.ai/mcp/connectors/app.swapwallet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.swapwallet/mcp)
   🔐 - Read balances, P&L and history; request swaps, transfers and withdrawals that the user approves in Telegram.
+- [Swarm Tips](https://swarm.tips) `https://mcp.swarm.tips/mcp`
+  [![Swarm Tips MCP connector](https://glama.ai/mcp/connectors/io.github.corsur/swarm-tips/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.corsur/swarm-tips)
+  🔓 - Non-custodial Solana & EVM agent bounties ($0-gas), Lean 4 + nanoda proofs, A2A inbox, EigenTrust and staked 1v1 games.
 - [Synci](https://synci.io) `https://api.synci.io/mcp`
   [![Synci MCP connector](https://glama.ai/mcp/connectors/io.synci/synci/badges/score.svg)](https://glama.ai/mcp/connectors/io.synci/synci)
   🔐 - Read-only bank, brokerage and crypto accounts: balances, transactions, holdings and connection health.
