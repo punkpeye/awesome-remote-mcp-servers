@@ -2252,6 +2252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Altair](https://altairworld.com/mcp) `https://altairworld.com/mcp`
   [![Altair MCP connector](https://glama.ai/mcp/connectors/com.altairworld/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.altairworld/site)
   🔓 - Full TradingAgents equity research reports by ticker (buy/hold/sell, bull/bear debate), free and read-only.
+- [Amaltash Calculators](https://amaltash.com/mcp/calculators) `https://tools.amaltash.com/mcp`
+  [![Amaltash Calculators MCP connector](https://glama.ai/mcp/connectors/com.amaltash/calculators/badges/score.svg)](https://glama.ai/mcp/connectors/com.amaltash/calculators)
+  🔓 - Free investment, retirement, compound interest, CD, S&P 500 and DCA calculators with interactive charts. No sign-in.
 - [American Default Research](https://americandefault.org/press/mcp/) `https://mcp.americandefault.org/mcp`
   [![American Default Research MCP connector](https://glama.ai/mcp/connectors/org.americandefault/research/badges/score.svg)](https://glama.ai/mcp/connectors/org.americandefault/research)
   🔓 - Read-only U.S. household-finance indicators, county distress scorecards and the American Distress Index, with citations.
