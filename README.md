@@ -1488,6 +1488,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
+- [mcpcost](https://mcpcost.ulehla.dev) `https://mcpcost.ulehla.dev/mcp`
+  [![mcpcost MCP connector](https://glama.ai/mcp/connectors/io.github.ondraulehla/mcpcost/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ondraulehla/mcpcost)
+  🔓 - Health and exact context-token cost of any server in the official MCP registry, plus a live probe of any URL.
 - [McpStamp Check](https://www.mcpstamp.com/check/) `https://mcp.zovo.one/stamp/mcp`
   [![McpStamp Check MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/mcpstamp-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/mcpstamp-check)
   🔓 - Scores any remote MCP server for Claude, ChatGPT, Gemini and MCP Registry readiness, with a fix per failed check.
