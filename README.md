@@ -3252,6 +3252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
+- [HospitalAid](https://hospitalaid.org/for-ai/) `https://hospitalaid.org/mcp`
+  [![HospitalAid MCP connector](https://glama.ai/mcp/connectors/org.hospitalaid/hospitalaid/badges/score.svg)](https://glama.ai/mcp/connectors/org.hospitalaid/hospitalaid)
+  🔓 - Free lookup of US hospital charity care policies and health center sliding fees, each with a source.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
