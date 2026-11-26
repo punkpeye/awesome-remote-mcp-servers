@@ -5300,6 +5300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
   🔓 - Query 60 public-data domains, including sanctions, courts, markets, health and energy.
+- [lobstr.io](https://www.lobstr.io) `https://api.lobstr.io/v2/mcp`
+  [![lobstr.io MCP connector](https://glama.ai/mcp/connectors/io.github.lobstrio/lobstr-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lobstrio/lobstr-mcp)
+  🔑 - Structured data from websites: Google Maps places and reviews, realtor.com, X and more, one call per page.
 - [Local Business Facts](https://agentric-facts.agentric.workers.dev) `https://agentric-facts.agentric.workers.dev/mcp`
   [![Local Business Facts MCP connector](https://glama.ai/mcp/connectors/io.github.thepecanpie69-art/agentric-local-business-facts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thepecanpie69-art/agentric-local-business-facts)
   🔓 - Source-cited business facts (phone, address, hours, socials) from any business website URL, worldwide.
