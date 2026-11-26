@@ -1020,6 +1020,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [btlabs Core](https://btlabs.dev) `https://btlabs.dev/api/mcp`
   [![btlabs Core MCP connector](https://glama.ai/mcp/connectors/dev.btlabs/core/badges/score.svg)](https://glama.ai/mcp/connectors/dev.btlabs/core)
   🔐 - Manage a btlabs Core site: pages, posts, media, menus, redirects and AI-discovery settings.
+- [CodeDesign](https://codedesign.ai) `https://mcp.codedesign.ai/mcp`
+  [![CodeDesign MCP connector](https://glama.ai/mcp/connectors/ai.codedesign/codedesign/badges/score.svg)](https://glama.ai/mcp/connectors/ai.codedesign/codedesign)
+  🔐 - Build, edit and publish websites with AI: pages, SEO audits, form leads, domains and publishing.
 - [Contentful](https://contentful.com) `https://mcp.contentful.com/mcp`
   🔑 - Manage Contentful entries, assets, and content models.
 - [Convika](https://convika.com) `https://mcp.convika.com/mcp`
