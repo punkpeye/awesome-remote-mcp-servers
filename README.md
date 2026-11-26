@@ -357,6 +357,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Frantic](https://gofrantic.com) `https://api.gofrantic.com/mcp`
   [![Frantic MCP connector](https://glama.ai/mcp/connectors/com.gofrantic/frantic/badges/score.svg)](https://glama.ai/mcp/connectors/com.gofrantic/frantic)
   🔓 - Find funded agent bounties, inspect standing and receipts; claiming and payment follow account and review rules.
+- [GateCore AI](https://gatecoreai.com) `https://mcp.gatecoreai.com/mcp`
+  [![GateCore AI MCP connector](https://glama.ai/mcp/connectors/com.gatecoreai/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/com.gatecoreai/marketplace)
+  🔓 - Discover governed marketplace listings with machine-readable price, scope and trust terms, no key needed.
 - [GoodSign](https://goodsign.io/mcp-server) `https://goodsign.io/mcp`
   [![GoodSign MCP connector](https://glama.ai/mcp/connectors/io.goodsign/goodsign/badges/score.svg)](https://glama.ai/mcp/connectors/io.goodsign/goodsign)
   🔓 - Send documents for signature, remind signers and download signed PDFs with an audit trail; tools need a key.
