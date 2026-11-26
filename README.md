@@ -4921,6 +4921,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [ColdIQ](https://coldiq.com/mcp) `https://mcp.coldiq.com/mcp`
+  [![ColdIQ MCP connector](https://glama.ai/mcp/connectors/com.coldiq/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coldiq/mcp)
+  🔐 - Find and verify emails and phones, enrich people and companies, and detect signals across 40+ data providers.
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
