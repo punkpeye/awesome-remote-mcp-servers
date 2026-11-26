@@ -6446,6 +6446,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora Merit](https://agoramerit.com/agents) `https://agoramerit.com/mcp`
   [![Agora Merit MCP connector](https://glama.ai/mcp/connectors/com.agoramerit/role-assessment/badges/score.svg)](https://glama.ai/mcp/connectors/com.agoramerit/role-assessment)
   🔓 - Assess job responsibilities; return free findings, report quotes, and private human review links.
+- [ApplyKoala](https://applykoala.com/mcp) `https://applykoala.com/mcp`
+  [![ApplyKoala MCP connector](https://glama.ai/mcp/connectors/com.applykoala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.applykoala/mcp)
+  🔐 - Save jobs, research companies with sources, keep interview stories and track applications in your own tracker.
 - [Applystead](https://applystead.com/developers) `https://applystead.com/mcp`
   [![Applystead MCP connector](https://glama.ai/mcp/connectors/com.applystead/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.applystead/jobs)
   🔓 - Search open jobs from employers' own career sites, list a company's openings, check if a posting is open.
