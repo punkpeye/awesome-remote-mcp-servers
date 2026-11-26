@@ -4449,6 +4449,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [eroq](https://eroq.ai/mcp) `https://eroq.ai/mcp`
   [![eroq MCP connector](https://glama.ai/mcp/connectors/ai.eroq/eroq/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eroq/eroq)
   🔐 - Generate videos, images, voices and songs on Seedance, Kling, Veo and eroq's own uncensored engines.
+- [Excalideo](https://excalideo.com/mcp-video-editor) `https://excalideo.com/api/mcp`
+  [![Excalideo MCP connector](https://glama.ai/mcp/connectors/com.excalideo/excalideo/badges/score.svg)](https://glama.ai/mcp/connectors/com.excalideo/excalideo)
+  🔐 - Free, local-first browser video editor: edit timelines, cut clips, add text, subtitles, stock footage and music.
 - [Flow Music MCP Server by useapi.net](https://useapi.net/docs/api-flowmusic-v1/mcp) `https://api.useapi.net/v1/flowmusic/mcp`
   [![Flow Music MCP Server by useapi.net MCP connector](https://glama.ai/mcp/connectors/net.useapi/flowmusic/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/flowmusic)
   🔐 - Google Flow Music (Lyria 3.5) songs, covers, remixes and stems on your own account. Not affiliated with Google.
