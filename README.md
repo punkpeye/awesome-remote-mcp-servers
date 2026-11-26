@@ -510,6 +510,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [InkRoom](https://inkroom.ai/en/solutions/mcp-server) `https://mcp.inkroom.ai`
   [![InkRoom MCP connector](https://glama.ai/mcp/connectors/io.github.InkRoomAI/inkroom/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.InkRoomAI/inkroom)
   🔓 - Public model prices and prompt search; image generation and editing require your own InkRoom account and MCP Token.
+- [Inkspira](https://inkspira.de/tattoo-generator/) `https://inkspira-mcp.743078294ldc.workers.dev/mcp`
+  [![Inkspira MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/inkspira-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/inkspira-mcp)
+  🔓 - Tattoo style, placement and colour options, prefilled generator links, print-size templates and try-on resources.
 - [Jinero](https://jinero.online/dev/mcp) `https://jinero.online/mcp`
   [![Jinero MCP connector](https://glama.ai/mcp/connectors/online.jinero/jinero/badges/score.svg)](https://glama.ai/mcp/connectors/online.jinero/jinero)
   🔓 - Fonts, font recognition from images, palettes, color math and contrast, code and SVG tools for design work.
