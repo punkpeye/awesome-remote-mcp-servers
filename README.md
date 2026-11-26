@@ -960,6 +960,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SofortFax](https://sofortfax.de/ki-fax.html) `https://sofortfax.de/api/mcp.php`
   [![SofortFax MCP connector](https://glama.ai/mcp/connectors/de.sofortfax/fax/badges/score.svg)](https://glama.ai/mcp/connectors/de.sofortfax/fax)
   🔓 - Send real faxes (PDF/JPG/photo) from AI chat to Germany, Austria and 40+ countries; pay per fax or prepaid credits.
+- [Sooner](https://findsooner.app) `https://api.findsooner.app/mcp`
+  [![Sooner MCP connector](https://glama.ai/mcp/connectors/app.findsooner/sooner/badges/score.svg)](https://glama.ai/mcp/connectors/app.findsooner/sooner)
+  🔐 - Call local businesses in parallel to check availability, compare prices and book appointments.
 - [SovaTalk](https://sovatalk.com) `https://sovatalk.com/mcp`
   [![SovaTalk MCP connector](https://glama.ai/mcp/connectors/com.sovatalk/sovatalk/badges/score.svg)](https://glama.ai/mcp/connectors/com.sovatalk/sovatalk)
   🔓 - Find real people to talk to live on video: who is live, who listens about a topic, prices and site answers.
