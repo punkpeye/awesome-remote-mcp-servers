@@ -1663,6 +1663,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Aggregate](https://theaggregate.ai/mcp) `https://theaggregate.ai/mcp`
   [![The Aggregate MCP connector](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate/badges/score.svg)](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate)
   🔓 - LLM rankings fitted across public benchmarks: leaderboard, model profiles, comparisons and source-linked scores.
+- [TokenBuddy](https://tokenbuddy.site) `https://tokenbuddy.site/api/agent/v1/mcp`
+  [![TokenBuddy MCP connector](https://glama.ai/mcp/connectors/site.tokenbuddy/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/site.tokenbuddy/mcp)
+  🔐 - Unified AI gateway FinOps: live model pricing, balance alerts, usage exports, and white-label reseller ops.
 - [Toolbox](https://toolbox.allthepossibles.com) `https://toolbox.allthepossibles.com/mcp`
   [![Toolbox MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox)
   🔓 - Thirteen small deterministic tools for agent builders, from CLAUDE.md lint to JWT decoding.
