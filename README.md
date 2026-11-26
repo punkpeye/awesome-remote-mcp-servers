@@ -6582,6 +6582,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
+- [Tongs](https://tongsapp.com/connect/) `https://mcp.tongsapp.com`
+  🔐 - Control your own Android phone (Android 11+, no root) from Claude, ChatGPT, Gemini CLI, Cursor, or VS Code with per-app allowlists and mandatory on-phone approval for banking and payment apps that Tongs recognizes.
 - [UseHourly](https://usehourly.app) `https://usehourly.app/api/mcp`
   [![UseHourly MCP connector](https://glama.ai/mcp/connectors/app.usehourly/usehourly/badges/score.svg)](https://glama.ai/mcp/connectors/app.usehourly/usehourly)
   🔐 - Log time, run timers, manage clients and projects, and create invoices for freelancers.
