@@ -2889,6 +2889,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tapetide](https://tapetide.com/mcp) `https://mcp.tapetide.com/mcp`
   [![Tapetide MCP connector](https://glama.ai/mcp/connectors/com.tapetide/stock-research-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.tapetide/stock-research-mcp)
   🔐 - Indian stock market research: NSE and BSE quotes, financials, 326-ratio screener, FII/DII flows, options and filings.
+- [TaxRail](https://taxrail.online) `https://api.taxrail.online/mcp`
+  [![TaxRail MCP connector](https://glama.ai/mcp/connectors/online.taxrail.api/tax-rail/badges/score.svg)](https://glama.ai/mcp/connectors/online.taxrail.api/tax-rail)
+  🔓 - US (IRS 1099-DA, Form 8949, HIFO, TLH) and Brazil (Lei 14.754, R$35k rule) pre-trade crypto tax optimization, Aave v3 borrow-vs-sell, and 0x/CoW/Jupiter calldata; free simulation previews or x402 Base USDC.
 - [Tensorust Ontology](https://shop.tensorust.com/mcp) `https://shop.tensorust.com/api/mcp`
   [![Tensorust Ontology MCP connector](https://glama.ai/mcp/connectors/com.tensorust.shop/tensorust-ontology/badges/score.svg)](https://glama.ai/mcp/connectors/com.tensorust.shop/tensorust-ontology)
   🔓 - US company ownership, BDC loan marks, banned-vendor grant exposure and contractor credit from public filings.
