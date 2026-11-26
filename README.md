@@ -4988,6 +4988,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Silicon Valley Atlas](https://svatlas.io) `https://svatlas.io/mcp`
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
+- [Smarter Data](https://smarterdata.ai/mcp/) `https://mcp.smarterdata.ai/mcp`
+  [![Smarter Data MCP connector](https://glama.ai/mcp/connectors/ai.smarterdata/smarterdata/badges/score.svg)](https://glama.ai/mcp/connectors/ai.smarterdata/smarterdata)
+  🔑 - U.S. local business data: count any trade and area for free, then pull companies and named contacts per record.
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
