@@ -3838,6 +3838,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
 
+- [Frostmailer Deliverability Tools](https://frostmailer.com/tools/) `https://frostmailer.com/mcp`
+  [![Frostmailer Deliverability Tools MCP connector](https://glama.ai/mcp/connectors/io.github.Jasonpark441/frostmailer-deliverability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Jasonpark441/frostmailer-deliverability)
+  🔓 - Free cold email deliverability checks: domain grade, SPF, DKIM, DMARC, blocklists and spam copy score.
+
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
