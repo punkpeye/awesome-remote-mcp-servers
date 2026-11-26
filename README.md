@@ -2264,6 +2264,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [apifirme](https://apifirme.dev) `https://api.apifirme.dev/mcp`
   [![apifirme MCP connector](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.apifirme.api/apifirme)
   🔐 - Romanian company data from official registers: status, VAT, financial statements, new registrations, BNR rates.
+- [Arfiti](https://arfiti.com) `https://mcp.arfiti.com/streamable/mcp`
+  [![Arfiti MCP connector](https://glama.ai/mcp/connectors/io.github.arfiti-technologies/arfiti/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arfiti-technologies/arfiti)
+  🔐 - Finance system for agents and teams: ledger, invoices, bills, payroll, reports and approvals.
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
