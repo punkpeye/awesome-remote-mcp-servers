@@ -465,6 +465,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BeautySpark](https://beautyspark.me) `https://mcp.beautyspark.me/mcp`
   [![BeautySpark MCP connector](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp)
   🔓 - Makeup and colour-season guidance sourced from BeautySpark's articles, plus saved looks for signed-in users.
+- [Bencho](https://bencho.dev/mcp) `https://bencho.dev/api/mcp`
+  [![Bencho MCP connector](https://glama.ai/mcp/connectors/dev.bencho/bencho/badges/score.svg)](https://glama.ai/mcp/connectors/dev.bencho/bencho)
+  🔑 - Interactive React UI blocks and UI sounds: search the library, then get a block's full source, CSS and packages.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
