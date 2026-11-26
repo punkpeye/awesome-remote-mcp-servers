@@ -1919,6 +1919,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
+- [Resell Pro](https://resellpro.com/tools/mcp) `https://resellpro.com/mcp`
+  [![Resell Pro MCP connector](https://glama.ai/mcp/connectors/io.github.flipradar/resell-pro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.flipradar/resell-pro)
+  🔐 - Observed Vinted market analytics across 23 European countries: sold listings, brand momentum, niches and trends.
 - [reusefulshop](https://reusefulshop.com) `https://reusefulshop.com/mcp`
   [![reusefulshop MCP connector](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop)
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
