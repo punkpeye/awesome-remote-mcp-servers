@@ -4535,6 +4535,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scribiz](https://scribiz.com/video-mcp) `https://scribiz.com/mcp`
   [![Scribiz MCP connector](https://glama.ai/mcp/connectors/com.scribiz/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribiz/mcp)
   🔓 - Video transcripts, scene-deduped on-screen OCR notes, summaries, chapters and cited moments from video links.
+- [Seedara](https://seedara.ai/mcp) `https://seedara.ai/api/mcp`
+  [![Seedara MCP connector](https://glama.ai/mcp/connectors/ai.seedara/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.seedara/mcp)
+  🔐 - Generate AI video, images, speech and music with Veo, Kling, Seedance, Nano Banana and 100+ more; price shown first.
 - [SFXMint](https://sfxmint.com) `https://sfxmint.com/mcp`
   [![SFXMint MCP connector](https://glama.ai/mcp/connectors/com.sfxmint/sounds/badges/score.svg)](https://glama.ai/mcp/connectors/com.sfxmint/sounds)
   🔓 - Ask for a sound effect by role or take a ready-made kit; 4,600+ CC0 files with permanent hotlinkable URLs.
