@@ -5405,6 +5405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ReplyNodes](https://replynodes.com) `https://mcp.replynodes.com/mcp`
   [![ReplyNodes MCP connector](https://glama.ai/mcp/connectors/com.replynodes/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.replynodes/mcp)
   🔓 - Web search, extraction and public-data tools for agent research.
+- [RoboPartPicker](https://robopartpicker.com) `https://robopartpicker.com/mcp`
+  [![RoboPartPicker MCP connector](https://glama.ai/mcp/connectors/com.robopartpicker/robopartpicker/badges/score.svg)](https://glama.ai/mcp/connectors/com.robopartpicker/robopartpicker)
+  🔓 - Search 2,400+ source-linked open robotics projects, their bills of materials, and 35,000 catalog components.
 - [Sayod 111 Intelligence](https://sayod111.github.io/) `https://sayod111-mcp-gateway.sayodyalawi.workers.dev/mcp`
   [![Sayod 111 Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp)
   🔓 - Discover data tools for e-commerce stores, hiring signals, and financial advisers.
