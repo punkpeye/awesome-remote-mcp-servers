@@ -1154,6 +1154,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [AImart Parquet](https://balogvn--aimart-parquet.us-east.modal.run/llms.txt) `https://balogvn--aimart-parquet.us-east.modal.run/mcp`
+  [![AImart Parquet MCP connector](https://glama.ai/mcp/connectors/io.github.balogvn/aimart-parquet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.balogvn/aimart-parquet)
+  🔓 - Messy CSV, Excel, SPSS/Stata/SAS and PDF tables to typed Parquet, then DuckDB SQL; pay per call in USDC via x402.
 - [CloudCrane](https://cloudcrane.ai) `https://cloudcrane.ai/api/build/mcp`
   [![CloudCrane MCP connector](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudcrane/workspace)
   🔐 - Read and build curated catalog data with a receipt on every value; review decisions stay with a person.
