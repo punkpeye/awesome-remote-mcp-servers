@@ -6321,6 +6321,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stay Otter](https://stayotter.com/connect) `https://stayotter.com/api/mcp`
   [![Stay Otter MCP connector](https://glama.ai/mcp/connectors/com.stayotter/stay-otter/badges/score.svg)](https://glama.ai/mcp/connectors/com.stayotter/stay-otter)
   🔓 - Vetted stays from Booking.com, Vrbo and Expedia with live totals, the block checked on the map, and price watches.
+- [SuliHuli](https://sulihuli.com/agents) `https://sulihuli.com/api/mcp`
+  [![SuliHuli MCP connector](https://glama.ai/mcp/connectors/com.sulihuli/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.sulihuli/catalog)
+  🔓 - Compare electric cars by range, charging, price and incentives, with a source and date per figure.
 - [Things To Do API](https://thingstodoapi.com) `https://api.thingstodoapi.com/mcp`
   [![Things To Do API MCP connector](https://glama.ai/mcp/connectors/com.thingstodoapi/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.thingstodoapi/events)
   🔓 - Local events in plain words: concerts, pop-ups, markets and classes, with times, venues and prices.
