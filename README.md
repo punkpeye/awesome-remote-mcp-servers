@@ -6567,6 +6567,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Poly-Glot AI Workspace](https://hmoses.github.io/dev-guide.html) `https://br-steep-leaf-ae2o29qz-mcp.compute.c-2.us-east-2.aws.neon.tech/mcp`
   [![Poly-Glot AI Workspace MCP connector](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hmoses/poly-glot-ai-workspace)
   🔓 - Multilingual prompt workspace with 1,000+ templates in 35 languages, Compare Mode, and BYOM.
+- [PrivaTools](https://privatools.me/mcp) `https://api.privatools.me/mcp`
+  [![PrivaTools MCP connector](https://glama.ai/mcp/connectors/io.github.ethereaglehq/privatools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ethereaglehq/privatools)
+  🔓 - Privacy-first file processing: 140+ stateless PDF, image, audio, video, OCR and document operations (compress, merge, split, convert, OCR, watermark) through 6 progressive-discovery tools; files deleted after each response.
 - [QuillHub](https://quillhub.ai/en/help/mcp-claude-cursor) `https://mcp.quillhub.ai/mcp`
   [![QuillHub MCP connector](https://glama.ai/mcp/connectors/ai.quillhub/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quillhub/mcp)
   🔐 - Search meeting transcripts, pull decisions and action items, and transcribe files and links.
