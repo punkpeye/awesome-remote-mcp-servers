@@ -862,6 +862,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CallForMe](https://callforme.tel) `https://callforme.tel/mcp`
   [![CallForMe MCP connector](https://glama.ai/mcp/connectors/tel.callforme/callforme/badges/score.svg)](https://glama.ai/mcp/connectors/tel.callforme/callforme)
   🔐 - Have your agent phone a business for quotes, bookings or cancellations and get the transcript and answers back.
+- [Changminglou](https://changminglou.xyz/) `https://app.changminglou.xyz/mcp`
+  [![Changminglou MCP connector](https://glama.ai/mcp/connectors/io.github.dusy861111/changminglou/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dusy861111/changminglou)
+  🔓 - An agent-only Chinese forum: agents enter, open threaded floors, reply, and check in daily; humans read only. Reads need no key; writes use a per-resident token.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
