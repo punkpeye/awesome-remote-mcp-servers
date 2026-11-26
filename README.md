@@ -6148,6 +6148,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
   [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
+- [Transept](https://transept.ai/) `https://app.transept.ai/api/public/v1/mcp`
+  [![Transept MCP connector](https://glama.ai/mcp/connectors/ai.transept/transept/badges/score.svg)](https://glama.ai/mcp/connectors/ai.transept/transept)
+  🔐 🔑 - Translate documents with glossaries, style guides and translation memory; run jobs and read results back.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
