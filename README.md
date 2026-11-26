@@ -160,6 +160,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alba.design](https://alba.design) `https://alba.design/mcp`
   [![Alba.design MCP connector](https://glama.ai/mcp/connectors/design.alba/albadesign/badges/score.svg)](https://glama.ai/mcp/connectors/design.alba/albadesign)
   🔓 - Remote MCP server of the Alba.design builder: create a website or store draft, get features, pricing and doc search.
+- [APIUniCon](https://apiunicon.online) `https://apiunicon.online/mcp`
+  [![APIUniCon MCP connector](https://glama.ai/mcp/connectors/online.apiunicon/apiunicon/badges/score.svg)](https://glama.ai/mcp/connectors/online.apiunicon/apiunicon)
+  🔐 - Connect a CRM, store, accounting, ads or shipping API from its docs; keys stay out of the chat, changes wait for you.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
