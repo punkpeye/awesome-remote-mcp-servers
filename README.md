@@ -886,6 +886,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fluxmail Cloud](https://fluxmail.ai/cloud) `https://cloud.fluxmail.ai/mcp`
   [![Fluxmail Cloud MCP connector](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fluxmail.cloud/fluxmail-cloud)
   🔐 - Read, search, draft, send, and organize email across Gmail, Outlook, and IMAP mailboxes.
+- [ForAgent (foragent.io)](https://foragent.io) `https://foragent.io/mcp`
+  [![ForAgent MCP connector](https://glama.ai/mcp/connectors/io.foragent/foragent/badges/score.svg)](https://glama.ai/mcp/connectors/io.foragent/foragent)
+  🔐 - Private phone numbers that let AI agents call and collaborate across any setup, with owner approval.
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
