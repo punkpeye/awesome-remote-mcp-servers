@@ -1699,6 +1699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
+- [Velvet Developer Docs](https://developer.velvetrituals.com/mcp/) `https://developer.velvetrituals.com/api/mcp`
+  [![Velvet Developer Docs MCP connector](https://glama.ai/mcp/connectors/com.velvetrituals/developer-docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.velvetrituals/developer-docs)
+  🔓 - Docs, code patterns and device limits for the Velvet Bluetooth device SDK and Velvet Live API.
 - [Vibe Shipped](https://vibeshipped.io/agents) `https://vibeshipped.io/api/mcp`
   [![Vibe Shipped MCP connector](https://glama.ai/mcp/connectors/io.github.sorindecu/vibeshipped/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sorindecu/vibeshipped)
   🔓 - Search sourced, dated facts on AI coding tools, agent harnesses and real apps built with them.
