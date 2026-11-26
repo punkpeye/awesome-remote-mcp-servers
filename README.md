@@ -4508,6 +4508,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QQuickpick](https://qquickpick.com/agents/mcp) `https://qquickpick.com/mcp`
   [![QQuickpick MCP connector](https://glama.ai/mcp/connectors/io.github.Ravesteijntjes/qquickpick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ravesteijntjes/qquickpick)
   🔓 - Search movies and TV shows by mood, genre and score, filtered to what streams in your country.
+- [quso.ai](https://quso.ai/mcp) `https://mcp.quso.ai/mcp`
+  [![quso.ai MCP connector](https://glama.ai/mcp/connectors/ai.quso/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.quso/mcp)
+  🔐 - Import a long video from a link, find and render captioned vertical clips, and post or schedule them to TikTok, Instagram, YouTube, LinkedIn, X and 6 more networks.
 - [RaoMusic](https://www.raomusic.com/plugin) `https://www.raomusic.com/api/mcp`
   [![RaoMusic MCP connector](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.raomusic/raomusic)
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
