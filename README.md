@@ -2135,6 +2135,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Box](https://box.com) `https://mcp.box.com/`
   [![Box MCP connector](https://glama.ai/mcp/connectors/com.box.mcp/box/badges/score.svg)](https://glama.ai/mcp/connectors/com.box.mcp/box)
   🔐 - Search, read, and manage files stored in Box.
+- [File2Host](https://f2h.io/en/agents) `https://api.f2h.io/mcp`
+  [![File2Host MCP connector](https://glama.ai/mcp/connectors/io.f2h/files/badges/score.svg)](https://glama.ai/mcp/connectors/io.f2h/files)
+  🔐 - Upload files and get share links, organize folders, set passwords and collect files from others.
 - [FileFleet](https://filefleet.io/ai-assistants/) `https://mcp.filefleet.io/mcp`
   [![FileFleet MCP connector](https://glama.ai/mcp/connectors/io.filefleet/filefleet/badges/score.svg)](https://glama.ai/mcp/connectors/io.filefleet/filefleet)
   🔓 - Passport, visa and exam upload rules with official sources, file checks, and links that fix files to fit.
