@@ -826,6 +826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [while.sh](https://while.sh/en/) `https://app.while.sh/mcp`
   [![while.sh MCP connector](https://glama.ai/mcp/connectors/sh.while/while/badges/score.svg)](https://glama.ai/mcp/connectors/sh.while/while)
   🔐 - French PaaS built for AI agents: deploy apps, PostgreSQL, caches, S3 and jobs over MCP.
+- [Zoxron MCP](https://zoxron.com/zoxron-mcp/) `https://zoxron.com/mcp`
+  [![Zoxron MCP MCP connector](https://glama.ai/mcp/connectors/com.zoxron/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.zoxron/mcp)
+  🔐 - Install, migrate and upgrade self-hosted Odoo ERP on a server you own, with a preview before every change.
   
 ### 💬 <a name="communication"></a>Communication
 
