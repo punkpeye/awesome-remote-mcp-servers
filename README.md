@@ -5743,6 +5743,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
+- [VulKill Security](https://vulkill.com) `https://app.vulkill.com/api/mcp`
+  [![VulKill Security MCP connector](https://glama.ai/mcp/connectors/io.github.dytredline/vulkill-security/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dytredline/vulkill-security)
+  🔓 🔐 - Public discovery; authenticated users can scan authorized code and verified websites and review reports. Optional Watchtower monitoring costs 100 file credits per account per day.
 - [vuln-intel](https://vulntel.com) `https://mcp.rozetyp.com/mcp`
   [![vuln-intel MCP connector](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rozetyp/vuln-intel)
   🔓 - CVE intel for bug-bounty agents: CVE claim fact-checks, attack approaches from HackerOne reports. Free key for calls.
