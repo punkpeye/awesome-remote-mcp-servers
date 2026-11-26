@@ -189,6 +189,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FiatDock](https://fiatdock.com) `https://fiatdock.com/mcp`
   [![FiatDock MCP connector](https://glama.ai/mcp/connectors/com.fiatdock/fiatdock-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fiatdock/fiatdock-mcp)
   🔓 - Pay-per-call web reading, email checks, token safety and a marketplace of MCP services, paid in USDC over x402.
+- [FloConnector](https://floconnector.com) `https://mcp.floconnector.com`
+  [![FloConnector MCP connector](https://glama.ai/mcp/connectors/com.floconnector/floconnector/badges/score.svg)](https://glama.ai/mcp/connectors/com.floconnector/floconnector)
+  🔐 - Managed connectors for 120+ business apps (Xero, QuickBooks, HubSpot, ServiceM8) with per-profile tool permissions.
 - [FlowRunner Prompt to Flow](https://docs.flowrunner.ai/build/prompt-to-flow) `https://app.flowrunner.ai/mcp`
   [![FlowRunner Prompt to Flow MCP connector](https://glama.ai/mcp/connectors/ai.flowrunner.app/flow-runner-prompt-to-flow/badges/score.svg)](https://glama.ai/mcp/connectors/ai.flowrunner.app/flow-runner-prompt-to-flow)
   🔐 - Build FlowRunner flows across 2,300 integrations from a plain-English prompt, then run, fix, and schedule them in chat.
