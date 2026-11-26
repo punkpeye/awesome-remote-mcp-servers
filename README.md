@@ -895,6 +895,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
+- [Mail Domain Doctor](https://maildoctor.tidybutton.com/) `https://maildoctor.tidybutton.com/mcp`
+  [![Mail Domain Doctor MCP connector](https://glama.ai/mcp/connectors/com.tidybutton/mail-doctor/badges/score.svg)](https://glama.ai/mcp/connectors/com.tidybutton/mail-doctor)
+  🔐 - Check SPF, DKIM, DMARC, MX and blocklists for a domain and suggest the DNS records to fix them.
 - [Mailbox MCP](https://mailbox-mcp.com) `https://mcp.mailbox-mcp.com/db/mcp`
   [![Mailbox MCP MCP connector](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp)
   🔐 - Read, search, file, draft and send email in your own Gmail, Outlook, Microsoft 365, iCloud or IMAP inbox.
@@ -1950,6 +1953,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Store Canary](https://storecanary.app/mcp) `https://mcp.storecanary.app/mcp`
   [![Store Canary MCP connector](https://glama.ai/mcp/connectors/io.github.erikras/store-canary/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.erikras/store-canary)
   🔓 - Free read-only WooCommerce store checks: SSL, exposed files, SEO basics, speed, products and store policies.
+- [Tariff Code Finder](https://tariff.tidybutton.com/) `https://tariff.tidybutton.com/mcp`
+  [![Tariff Code Finder MCP connector](https://glama.ai/mcp/connectors/com.tidybutton/tariff-codes/badges/score.svg)](https://glama.ai/mcp/connectors/com.tidybutton/tariff-codes)
+  🔐 - Search the official US, UK and EU tariff schedules for a product and compare codes and duty rates side by side.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
@@ -2270,6 +2276,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Sanctions Screener](https://sanctions.tidybutton.com/) `https://sanctions.tidybutton.com/mcp`
+  [![Sanctions Screener MCP connector](https://glama.ai/mcp/connectors/com.tidybutton/sanctions-screen/badges/score.svg)](https://glama.ai/mcp/connectors/com.tidybutton/sanctions-screen)
+  🔐 - Screen names against OFAC, UK, EU and UN sanctions lists with fuzzy matching and list dates.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -4224,6 +4233,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebAsk](https://webask.io/) `https://mcp.webask.io/mcp/v1`
   [![WebAsk MCP connector](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.webask.mcp/web-ask-mcp)
   🔑 - Create surveys and quizzes, manage responses, and generate reports from AI assistants.
+- [Website Crawler (SEO)](https://crawler.tidybutton.com/) `https://crawler.tidybutton.com/mcp`
+  [![Website Crawler (SEO) MCP connector](https://glama.ai/mcp/connectors/com.tidybutton/site-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tidybutton/site-audit)
+  🔐 - Crawl a site for broken links, redirects, missing titles and other SEO issues, with shareable reports.
 - [Wrendex](https://wrendex.com) `https://app.wrendex.com/mcp`
   [![Wrendex MCP connector](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex/badges/score.svg)](https://glama.ai/mcp/connectors/com.wrendex.app/wrendex)
   🔓 - Technical SEO audits: crawl a site with 140+ checks and read the fix list; tool calls take a free Wrendex token.
@@ -5613,6 +5625,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DemiSignal](https://demisignal.com/tools/mcp-server?utm_source=awesome-mcp-servers&utm_medium=mcp-directory) `https://demisignal.com/mcp?utm_source=awesome-mcp-servers`
   [![DemiSignal MCP connector](https://glama.ai/mcp/connectors/com.demisignal/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.demisignal/mcp)
   🔓 - Grade a domain's live DMARC, SPF, DKIM, MX, BIMI and MTA-STS records, and generate SPF and DMARC records.
+- [Dependency Risk Audit](https://deps.tidybutton.com/) `https://deps.tidybutton.com/mcp`
+  [![Dependency Risk Audit MCP connector](https://glama.ai/mcp/connectors/com.tidybutton/dep-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tidybutton/dep-audit)
+  🔐 - Audit lockfiles for known vulnerabilities and licence risks using OSV and deps.dev data.
 - [DnsGuard](https://dnsguard.mike-tusa.workers.dev/) `https://dnsguard.mike-tusa.workers.dev/mcp`
   [![DnsGuard MCP connector](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mike-tusa.dnsguard/dnsguard)
   🔓 - Checks a domain's SPF, DKIM, DMARC, BIMI, MX, MTA-STS and TLS-RPT, with a 0–100 score and fixes.
