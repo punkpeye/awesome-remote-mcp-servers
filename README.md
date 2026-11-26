@@ -2402,6 +2402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DFX Intelligence](https://dfxintel.com/agents) `https://exchange-production-9123.up.railway.app/mcp/core?c=dir-awremote`
   [![DFX Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt)
   🔓 - Private credit for agents: BDC lenders, borrowers, marks, spreads and maturities, cited to SEC filings.
+- [Doklad.ai](https://doklad.ai/mcp-fakturace) `https://doklad.ai/mcp`
+  [![Doklad.ai MCP connector](https://glama.ai/mcp/connectors/ai.doklad/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.doklad/mcp)
+  🔐 - Czech invoicing for freelancers and SMEs: invoices, customers, expenses, payments, cash flow.
 - [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
   [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
   🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
