@@ -1823,6 +1823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [Foldsquare](https://www.nowinstore.com/foldsquare) `https://foldsquare.nowinstore.com/api/v1/mcp`
+  [![Foldsquare MCP connector](https://glama.ai/mcp/connectors/com.nowinstore/foldsquare/badges/score.svg)](https://glama.ai/mcp/connectors/com.nowinstore/foldsquare)
+  🔐 - Build, edit and publish catalogs and price lists from Shopify, BigCommerce, WooCommerce, Wix or Ecwid store data.
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
