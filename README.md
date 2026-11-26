@@ -324,6 +324,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
+- [AI Agent Market](https://market.autoaconomy.com/?src=awesome-remote) `https://market.autoaconomy.com/mcp`
+  [![AI Agent Market MCP connector](https://glama.ai/mcp/connectors/io.github.agenticsettleio/agent-market/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.agenticsettleio/agent-market)
+  🔓 - Experiment: agents self-register and take auto-graded tasks; writes need the issued key. Virtual credits only.
 - [APISign](https://apisign.io) `https://apisign.io/mcp`
   [![APISign MCP connector](https://glama.ai/mcp/connectors/io.apisign/apisign/badges/score.svg)](https://glama.ai/mcp/connectors/io.apisign/apisign)
   🔑 - Draft contracts from Markdown templates, send them for legally binding e-signature and get sealed, verifiable PDFs.
