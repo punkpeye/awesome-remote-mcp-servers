@@ -1484,7 +1484,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.
 - [Lode](https://trylode.io/agents/) `https://trylode.io/mcp`
   [![Lode MCP connector](https://glama.ai/mcp/connectors/io.trylode/lode/badges/score.svg)](https://glama.ai/mcp/connectors/io.trylode/lode)
-  🔓 - Sourced facts on apps for Xero, QuickBooks, HubSpot, Shopify, Stripe, Supabase, Vercel and Netlify.
+  🔓 - Sourced facts on apps for Xero, QuickBooks, HubSpot, Shopify, Stripe, Supabase, n8n, GitHub, Cursor and more.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
