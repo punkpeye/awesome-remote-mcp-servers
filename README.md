@@ -6028,6 +6028,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [FantasyTrade Pro](https://fantasytrade.pro/mcp/) `https://fantasytrade.pro/api/mcp`
+  [![FantasyTrade Pro MCP connector](https://glama.ai/mcp/connectors/pro.fantasytrade/trade-analyzer/badges/score.svg)](https://glama.ai/mcp/connectors/pro.fantasytrade/trade-analyzer)
+  🔓 - Judge NFL fantasy football trades and get player, rookie pick and ranking values for dynasty and redraft leagues.
 - [FootballGPT](https://footballgpt.co/chatgpt) `https://footballgpt.co/api/mcp/stream`
   [![FootballGPT MCP connector](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt)
   🔐 - Football coaching advice, session plans and animated practices, using your FootballGPT coaching profile.
