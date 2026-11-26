@@ -4870,6 +4870,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LenDb.ai](https://lendb.ai/developers) `https://lendb.ai/mcp`
   [![LenDb.ai MCP connector](https://glama.ai/mcp/connectors/ai.lendb/lendb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.lendb/lendb)
   🔓 - Find US mortgage loan officers by loan type, place and language, with sourced, dated facts.
+- [LivinIsto](https://www.livinisto.sk/ai-asistenti) `https://www.livinisto.sk/mcp`
+  [![LivinIsto MCP connector](https://glama.ai/mcp/connectors/sk.livinisto/real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/sk.livinisto/real-estate)
+  🔓 - Slovak homes for sale and rent: plain-language search, price per m² verdict and typical prices by area.
 - [LivinIsto CZ](https://www.livinisto.cz/ai-asistenti) `https://www.livinisto.cz/mcp`
   [![LivinIsto CZ MCP connector](https://glama.ai/mcp/connectors/cz.livinisto/real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/cz.livinisto/real-estate)
   🔓 - Czech homes for sale and rent: plain-language search, price per m² verdict and typical prices by area.
