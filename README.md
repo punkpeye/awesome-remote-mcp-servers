@@ -2825,6 +2825,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scrapling x402 Data Store](https://scraplingdata.xyz) `https://scraplingdata.xyz/mcp`
   [![Scrapling x402 Data Store MCP connector](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store)
   🔓 - Crypto prices, DeFi TVL and yields, Polymarket odds, token risk and web scraping; pay per call in USDC via x402.
+- [SEC Blast](https://www.secblast.com/docs/mcp) `https://api.secblast.com/mcp`
+  [![SEC Blast MCP connector](https://glama.ai/mcp/connectors/com.secblast/sec-blast/badges/score.svg)](https://glama.ai/mcp/connectors/com.secblast/sec-blast)
+  🔐 - SEC EDGAR filings: 10-K, 8-K, 13F, insider trades, XBRL financials, and full-text search.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
