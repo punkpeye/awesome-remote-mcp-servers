@@ -5475,6 +5475,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tollkit](https://tollkit.dev) `https://api.tollkit.dev/mcp`
   [![Tollkit MCP connector](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.UltraStarz/x402-extract)
   🔓 - Web pages and PDFs read in a real browser, token checks, SEC and US data; x402 pay-per-call, 3 free calls a day.
+- [Tolsey](https://tolsey.xyz) `https://tolsey.xyz/v1/mcp`
+  [![Tolsey MCP connector](https://glama.ai/mcp/connectors/xyz.tolsey/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.tolsey/mcp)
+  🔓 - Read pages and PDFs, screenshots, tables, link checks and page diffs; free tries, then x402 pay-per-call with receipts.
 - [ToolSnap](https://mcp.toolsnap.app) `https://mcp.toolsnap.app/mcp`
   [![ToolSnap MCP connector](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp)
   🔓 - Deterministic page-to-text, PDF, CSV/JSON, sitemap and feed extraction; 36 of 47 tools free, x402 for the rest.
