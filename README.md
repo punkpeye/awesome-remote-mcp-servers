@@ -1061,6 +1061,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kleap](https://kleap.co/mcp) `https://kleap.co/api/mcp`
   [![Kleap MCP connector](https://glama.ai/mcp/connectors/co.kleap/kleap/badges/score.svg)](https://glama.ai/mcp/connectors/co.kleap/kleap)
   🔓 - Build, edit, publish and manage real websites and web apps from your AI agent.
+- [Kuickr](https://kuickr.co) `https://kuickr.co/mcp`
+  [![Kuickr MCP connector](https://glama.ai/mcp/connectors/co.kuickr/kuickr/badges/score.svg)](https://glama.ai/mcp/connectors/co.kuickr/kuickr)
+  🔐 - Publish what your AI made as Pages people can open, comment on and order from, then organize, restyle and re-find them.
 - [Lediv](https://lediv.com) `https://lediv.app/mcp`
   [![Lediv MCP connector](https://glama.ai/mcp/connectors/app.lediv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.lediv/mcp)
   🔐 - Visual website builder synced with real code: edit files, publish, roll back, manage domains and previews.
