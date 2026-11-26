@@ -3838,6 +3838,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
 
+- [Google Ads Transparency & Creative Spy](https://apify.com/spiky_closet/google-ads-transparency-scraper) `https://spiky-closet--google-ads-transparency-scraper.apify.actor/mcp`
+  [![Google Ads Transparency MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp)
+  🔑 - Query active Google Search, YouTube, and Display ad creatives and EU DSA reach data by advertiser domain.
+
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
@@ -4222,6 +4226,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Customer Reviews](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/google-maps-store-review-scraper,delicious_zebu/yelp-reviews-scraper,delicious_zebu/tripadvisor-review-collector,delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters,delicious_zebu/naver-shopping-reviews-scraper,delicious_zebu/coupang-reviews-scraper`
   [![Zebu Data - Customer Reviews MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/customer-reviews)
   🔐 - Reviews from Google Maps, Yelp, TripAdvisor, eBay, Naver and Coupang, with ratings and dates.
+
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
