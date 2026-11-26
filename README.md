@@ -6074,6 +6074,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
   [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
   🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
+- [Emma by Stimhaus](https://stimhaus.ai) `https://stimhaus.ai/mcp`
+  [![Emma by Stimhaus MCP connector](https://glama.ai/mcp/connectors/ai.stimhaus/emma-for-agents/badges/score.svg)](https://glama.ai/mcp/connectors/ai.stimhaus/emma-for-agents)
+  🔓 - Install Emma, an AI receptionist, on a small business website: WordPress, WooCommerce, Shopify, Wix or any site.
 - [EOSL.ai](https://eosl.ai/mcp/) `https://eosl.ai/mcp`
   [![EOSL.ai MCP connector](https://glama.ai/mcp/connectors/ai.eosl/eosl/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eosl/eosl)
   🔓 - Hardware end-of-life lookups by part number, backed by vendor bulletins.
