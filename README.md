@@ -4682,6 +4682,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Paxiom](https://paxiom.org) `https://api.paxiom.org/mcp`
   [![Paxiom MCP connector](https://glama.ai/mcp/connectors/io.github.k-luecke/paxiom-receipts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.k-luecke/paxiom-receipts)
   🔓 - Verify, issue, and explain Ed25519 proof-bound receipts and preflight x402 APIs before payment.
+- [PayGate USDT](https://chainguard-studio-production.up.railway.app/paygate) `https://chainguard-studio-production.up.railway.app/paygate/mcp`
+  [![PayGate USDT MCP connector](https://glama.ai/mcp/connectors/io.github.EzeLich/paygate-usdt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.EzeLich/paygate-usdt)
+  🔓 - Non-custodial multi-chain USDT and USDC checkout invoices, on-chain transfer verification and subscriptions.
 - [PayPal](https://paypal.com) `https://mcp.paypal.com/mcp`
   🔐 - Create and manage PayPal invoices, orders, and payments.
 - [Pink Agentic AI Payments](https://pinkwallet.com/agentic/) `https://agentic-sandbox.pinkwallet.com/mcp`
@@ -5606,6 +5609,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
+- [ChainGuard](https://chainguard-studio-production.up.railway.app) `https://chainguard-studio-production.up.railway.app/mcp`
+  [![ChainGuard MCP connector](https://glama.ai/mcp/connectors/io.github.EzeLich/chainguard-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.EzeLich/chainguard-mcp)
+  🔓 - EIP-7702 hijack, Solana Token-2022 drainer, EVM transaction calldata and MCP prompt-injection firewall.
 - [ChainK9](https://api.chaink9.com) `https://api.chaink9.com/mcp`
   [![ChainK9 MCP connector](https://glama.ai/mcp/connectors/com.chaink9/chaink9/badges/score.svg)](https://glama.ai/mcp/connectors/com.chaink9/chaink9)
   🔓 - Tests tokens on BNB Chain, Ethereum, Base and Arc for honeypots and hidden taxes by trading on a fork; paid via x402.
