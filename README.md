@@ -6736,7 +6736,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zodiacs](https://zodiacs.org/developers/ai/) `https://zodiacs.org/mcp`
   [![Zodiacs MCP connector](https://glama.ai/mcp/connectors/io.github.zodiacs-org/zodiacs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zodiacs-org/zodiacs)
   🔓 - Explore your birth chart, compatibility, horoscopes and the sky on days that matter.
-
+- [WEIR AI](https://weir.ai) `https://wapi.weir.ai/mcp`
+  [![WEIR AI MCP connector](https://glama.ai/mcp/connectors/ai.weir/weir-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.weir/weir-ai)
+  🔐 - Check whether a named person's likeness can be licensed and read their terms.
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
