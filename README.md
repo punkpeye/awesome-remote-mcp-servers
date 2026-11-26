@@ -2742,6 +2742,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [pdata](https://pdata.world/agents) `https://api.pdata.world/mcp`
   [![pdata MCP connector](https://glama.ai/mcp/connectors/world.pdata/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/world.pdata/mcp)
   🔓 - Prices, 24h volume, movers and results for prediction markets on Polymarket, Kalshi and six more venues.
+- [Pipwire](https://pipwire.io/mcp) `https://api.pipwire.io/mcp`
+  [![Pipwire MT5 MCP connector](https://glama.ai/mcp/connectors/io.pipwire/mt5/badges/score.svg)](https://glama.ai/mcp/connectors/io.pipwire/mt5)
+  🔓 🔑 - Hosted MetaTrader 5 accounts: positions, history, prices and candles, plus orders that can ask you first.
 - [Plaid](https://plaid.com) `https://api.dashboard.plaid.com/mcp/sse`
   🔑 - Query Plaid dashboard data for connected financial accounts.
 - [PMWallets](https://pmwallets.com/ai-agents) `https://api.pmwallets.com/mcp`
