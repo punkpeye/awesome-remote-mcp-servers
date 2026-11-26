@@ -4443,6 +4443,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
+- [Ears](https://useears.com) `https://useears.com/mcp`
+  [![Ears MCP connector](https://glama.ai/mcp/connectors/com.useears/ears/badges/score.svg)](https://glama.ai/mcp/connectors/com.useears/ears)
+  🔐 - Transcribe audio and video from a link or a local file into text and SRT subtitles, paid per minute.
 - [Eikino](https://eikino.com) `https://eikino.com/mcp`
   [![Eikino MCP connector](https://glama.ai/mcp/connectors/com.eikino/eikino/badges/score.svg)](https://glama.ai/mcp/connectors/com.eikino/eikino)
   🔓 - Geolocate photos or video frames and check media for AI generation signs.
