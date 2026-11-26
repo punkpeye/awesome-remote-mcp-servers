@@ -1207,6 +1207,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Push CSV, JSON or Parquet from an agent and get a link a human can explore with filters, SQL and charts.
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
+- [1322 API Docs](https://1322.io/docs/mcp) `https://1322.io/mcp`
+  [![1322 API Docs MCP connector](https://glama.ai/mcp/connectors/io.1322/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.1322/docs)
+  🔓 - Look up REST endpoints, WebSocket URLs, auth, rate limits and event payloads for the 1322 monitoring API.
 - [402cron](https://402cron.com) `https://402cron.com/mcp`
   [![402cron MCP connector](https://glama.ai/mcp/connectors/com.402cron/402cron/badges/score.svg)](https://glama.ai/mcp/connectors/com.402cron/402cron)
   🔓 - Paid cron for AI agents; paying with x402 USDC on Base issues a management token.
