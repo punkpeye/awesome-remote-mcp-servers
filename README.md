@@ -1576,6 +1576,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [qarunbook](https://qarunbook.com) `https://qarunbook.com/api/mcp`
   [![qarunbook MCP connector](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ifeanyiejindu/qarunbook)
   🔑 - Shared app-testing runbook: read the plan, record results per platform and raise issues.
+- [Qelka](https://qelka.com/mcp) `https://mcp.qelka.com/mcp`
+  [![Qelka MCP connector](https://glama.ai/mcp/connectors/com.qelka/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.qelka/mcp)
+  🔑 - Validate phones, verify emails, analyze IPs, check IBAN, EU VAT, VIN, LEI and sanctions with one API key.
 - [QuasarUI](https://www.quasarui.com/documentation/mcp-server) `https://www.quasarui.com/mcp`
   [![QuasarUI MCP connector](https://glama.ai/mcp/connectors/com.quasarui/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.quasarui/mcp)
   🔓 - Search Quasar Framework (Vue) UI Components and fetch their source; an optional key unlocks Paid ones.
