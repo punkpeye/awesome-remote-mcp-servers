@@ -2479,6 +2479,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Firmoscop](https://firmoscop.ro/developers) `https://firmoscop.ro/mcp`
   [![Firmoscop MCP connector](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CristianFagarasan/firmoscop)
   🔐 - Romanian companies from official registries: search, risk verdict by tax ID with cited sources, and prospect lists.
+- [FIZ](https://fiz.co/en/api) `https://api.fiz.co/mcp`
+  [![FIZ MCP connector](https://glama.ai/mcp/connectors/co.fiz/fiz/badges/score.svg)](https://glama.ai/mcp/connectors/co.fiz/fiz)
+  🔐 - Find, draft and issue AT-certified invoices in Portugal; fiscal acts run only after you confirm a preview.
 - [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
   [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
   🔓 - RPC gateway for six mainnets with failover: balances, history, ABIs, gas and transactions; x402 pay-per-call.
