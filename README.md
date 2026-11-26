@@ -3625,7 +3625,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GroundRules](https://law.agentlookups.ai) `https://law.agentlookups.ai/mcp`
   [![GroundRules MCP connector](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentlookups/groundrules)
   🔓 - Original text of US federal and state law with official source links, current-through dates and stale flags.
-- [IPRwise](https://www.iprwise.com/ai) \https://www.iprwise.com/mcp\n  [![IPRwise MCP connector](https://glama.ai/mcp/connectors/com.iprwise/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.iprwise/mcp)
+- [IPRwise](https://www.iprwise.com/ai) `https://www.iprwise.com/mcp`
+  [![IPRwise MCP connector](https://glama.ai/mcp/connectors/com.iprwise/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.iprwise/mcp)
   🔐 - Global IP rules across 191 jurisdictions with verbatim official quotes, statutory deadlines (12 offices), official and WIPO Madrid fees (13 offices), Nice 2027 checks, WIPO Madrid/Hague/PCT data, and 25,000+ IP attorneys.
 - [klaro.legal](https://klaro.legal/en-us/embed-widget) `https://klaro.legal/api/mcp`
   [![klaro.legal MCP connector](https://glama.ai/mcp/connectors/legal.klaro/document-explainer/badges/score.svg)](https://glama.ai/mcp/connectors/legal.klaro/document-explainer)
