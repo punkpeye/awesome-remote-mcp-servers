@@ -1072,7 +1072,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build and edit a hand-made link-in-bio page: add links, pick a look, publish it at posy.page.
 - [Publish with chat](https://publishwith.chat) `https://api.publishwith.chat/mcp`
   [![Publish with chat MCP connector](https://glama.ai/mcp/connectors/chat.publishwith/publish-with-chat/badges/score.svg)](https://glama.ai/mcp/connectors/chat.publishwith/publish-with-chat)
-  🔓 - Build a website in chat, preview it free, then publish it, update it or roll back to an earlier version.
+  🔓 - Publish and host websites made with AI. Preview free, go live, then update or roll back by asking.
 - [Sanity](https://sanity.io) `https://mcp.sanity.io/mcp`
   [![Sanity MCP connector](https://glama.ai/mcp/connectors/io.sanity.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.sanity.www/mcp)
   🔐 - Query and mutate Sanity datasets and documents.
