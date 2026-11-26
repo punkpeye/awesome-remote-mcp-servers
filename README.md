@@ -4583,6 +4583,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Varosity](https://varosity.ai) `https://varosity.ai/api/mcp`
   [![Varosity MCP connector](https://glama.ai/mcp/connectors/io.github.jonkludt/varosity/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jonkludt/varosity)
   🔐 - Generate video, images, voice and music with 60+ models (Veo 3.1, Kling 3.0, Seedance, FLUX, ElevenLabs).
+- [Vidaro Studio](https://vidarostudio.com/mcp) `https://api.vidarostudio.com/mcp`
+  [![Vidaro Studio MCP connector](https://glama.ai/mcp/connectors/com.vidarostudio/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vidarostudio/mcp)
+  🔐 - Generate AI images and videos (Kling 4, Seedance 2.5, Soul 2.0, Qwen Image 3) inside Claude, ChatGPT and Grok.
 - [VideoBGRemover](https://videobgremover.net/mcp) `https://videobgremover.net/api/mcp`
   [![VideoBGRemover MCP connector](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover/badges/score.svg)](https://glama.ai/mcp/connectors/net.videobgremover/video-background-remover)
   🔐 - Remove video backgrounds, track processing tasks, and download transparent WebM with source audio.
