@@ -674,6 +674,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Framejet MCP connector](https://glama.ai/mcp/connectors/dev.framejet/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/dev.framejet/screenshot)
   🔓 - Screenshot any URL to PNG or JPEG with cookie banners and chat widgets removed; needs a free API key.
 
+- [Hapti](https://hapti.dev) `https://api.hapti.dev/mcp`
+  [![Hapti MCP connector](https://glama.ai/mcp/connectors/dev.hapti/hapti/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hapti/hapti)
+  🔐 - Do tasks on websites with no API, by sight in a real browser, with proof; billed only on success.
+
 - [localscreenshot](https://localscreenshot.com) `https://api.localscreenshot.com/mcp/free`
   [![localscreenshot MCP connector](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot/badges/score.svg)](https://glama.ai/mcp/connectors/com.localscreenshot/localscreenshot)
   🔓 - Screenshot any public page as PNG, JPEG or PDF, from 227 countries, with cookie banners and ads hidden.
