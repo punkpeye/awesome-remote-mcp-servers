@@ -4900,6 +4900,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
+- [Spacery](https://spacery.dev/agents?utm_source=awesome-remote-mcp-servers&utm_medium=mcp-directory) `https://app.spacery.dev/mcp`
+  [![Spacery MCP connector](https://glama.ai/mcp/connectors/io.github.lukehollis/spacery/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lukehollis/spacery)
+  🔓 - Paste a Matterport link to host the tour, or publish E57 laser scans and Gaussian splats as 3D spaces with guided tours.
 - [Tenantback](https://tenantback.com) `https://tenantback.com/mcp`
   [![Tenantback MCP connector](https://glama.ai/mcp/connectors/com.tenantback/cam-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenantback/cam-audit)
   🔓 - Audits a landlord's CAM reconciliation against the commercial lease; cites the clause behind each overcharge.
