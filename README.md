@@ -3276,6 +3276,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Peptide Library](https://peptidelibrary.app/developers/mcp) `https://peptidelibrary.app/mcp`
   [![Peptide Library MCP connector](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library/badges/score.svg)](https://glama.ai/mcp/connectors/app.peptidelibrary/peptide-library)
   🔓 - Peptide research profiles with evidence by study type, comparisons, educational search and unit math.
+- [PeptideCompare.co](https://peptidecompare.co/developers) `https://peptidecompare.co/mcp`
+  [![PeptideCompare.co MCP connector](https://glama.ai/mcp/connectors/co.peptidecompare/peptide-prices/badges/score.svg)](https://glama.ai/mcp/connectors/co.peptidecompare/peptide-prices)
+  🔓 - What US online clinics charge for prescribed peptides and NAD+, per 30 days, with FDA status and clinic records.
 - [Peptides Academy](https://peptidesacademy.co/mcp) `https://peptidesacademy.co/mcp`
   [![Peptides Academy MCP connector](https://glama.ai/mcp/connectors/co.peptidesacademy/peptides-academy/badges/score.svg)](https://glama.ai/mcp/connectors/co.peptidesacademy/peptides-academy)
   🔓 - Peptide research from 28 source-grounded dossiers and ~2,000 cited studies, trials and FDA labels.
