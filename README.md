@@ -1874,7 +1874,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MostExpensiveWatches](https://mostexpensivewatches.net) `https://mostexpensivewatches.net/mcp`
   [![MostExpensiveWatches MCP connector](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/net.mostexpensivewatches/mcp)
   🔓 - Search luxury-watch listings, reference data, sourced auction records, market estimates and upcoming auctions.
-
+- [NaKus](https://www.nakus.sk/mcp) `https://www.nakus.sk/api/mcp`
+  [![NaKus MCP connector](https://glama.ai/mcp/connectors/sk.nakus/na-kus-unit-price/badges/score.svg)](https://glama.ai/mcp/connectors/sk.nakus/na-kus-unit-price)
+  🔓 - Slovak landed unit prices (€/piece, €/kg, €/wash) with nakus.sk buy_url — no Heureka.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NFC Tap Builder by Tap.Giving](https://tap.giving) `https://tap.giving/mcp`
