@@ -2360,6 +2360,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coldpine](https://coldpine.io/developers) `https://coldpine.io/api/mcp`
   [![Coldpine MCP connector](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/io.coldpine/congress-disclosures)
   🔓 - US congressional stock trades parsed from House and Senate STOCK Act filings: members, stocks, filings and filing lag.
+- [CollieTax](https://collietax.com) `https://collietax.com/api/mcp`
+  [![CollieTax MCP connector](https://glama.ai/mcp/connectors/com.collietax/collietax/badges/score.svg)](https://glama.ai/mcp/connectors/com.collietax/collietax)
+  🔐 - US small-business books from bank statements, 1099 and W-2 filing, and tax returns by a CPA or EA.
 - [Compabase](https://compabase.com/mcp) `https://compabase.com/api/mcp`
   [![Compabase MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/compabase/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/compabase)
   🔓 - 3M+ Polish companies from KRS and CEIDG: financials, board members, rankings, tenders and public registries.
