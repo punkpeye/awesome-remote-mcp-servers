@@ -3446,6 +3446,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [knowsme](https://knowsme.dev) `https://mcp.knowsme.dev/mcp`
   [![knowsme MCP connector](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme)
   🔐 - One memory for you and your AI agents: your notes, rules and projects follow you across machines, AI apps and agents.
+- [Linkly AI](https://linkly.ai) `https://mcp.linkly.ai/mcp`
+  [![Linkly AI MCP connector](https://glama.ai/mcp/connectors/ai.linkly.mcp/linkly-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.linkly.mcp/linkly-ai)
+  🔐 - Search and read documents on your computer and in your cloud libraries.
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
