@@ -2333,6 +2333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BLIA — Bank Product Terms](https://www.bliahub.com) `https://mcp.bliahub.com/mcp`
   [![BLIA — Bank Product Terms MCP connector](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue)
   🔓 - Bank account terms as banks publish them, dated: fees, waivers, offers. Read-only. Canada today.
+- [Borbur Salary & Tax Calculators](https://borbur.net/developers/) `https://borbur.net/mcp`
+  [![Borbur Salary & Tax Calculators MCP connector](https://glama.ai/mcp/connectors/net.borbur/salary-calculators/badges/score.svg)](https://glama.ai/mcp/connectors/net.borbur/salary-calculators)
+  🔓 - Spain net salary and IRPF 2026, Beckham Law, pensions, UAE gratuity and Golden Visa, and tax in 20 countries.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
