@@ -4238,6 +4238,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConnectorReport](https://connectorreport.com/mcp) `https://connectorreport.com/api/mcp`
   [![ConnectorReport MCP connector](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport/badges/score.svg)](https://glama.ai/mcp/connectors/com.connectorreport/connectorreport)
   🔓 - Dated, hands-on test results for remote MCP servers: pass rate, sign-in method, gotchas and fix recipes.
+- [Databuddy](https://www.databuddy.cc) `https://api.databuddy.cc/v1/mcp`
+  [![Databuddy MCP connector](https://glama.ai/mcp/connectors/io.github.databuddy-analytics/databuddy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.databuddy-analytics/databuddy)
+  🔐 - Web and product analytics: traffic, funnels, errors, Web Vitals, replays, and why a metric moved.
 - [EventSend](https://eventsend.io) `https://eventsend.io/mcp`
   [![EventSend MCP connector](https://glama.ai/mcp/connectors/io.eventsend/eventsend/badges/score.svg)](https://glama.ai/mcp/connectors/io.eventsend/eventsend)
   🔐 - Query your product's event history, delivery health and plan usage, e.g. what failed in checkout today.
