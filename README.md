@@ -6180,6 +6180,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EasyGroupFlights](https://easygroupflights.com/group-flights-mcp/) `https://mcp.easygroupflights.com/mcp`
   [![EasyGroupFlights MCP connector](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights/badges/score.svg)](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights)
   🔓 - Request group flight quotes for 10+ travellers from a human specialist desk; live fares for smaller parties.
+- [ElectroAtlas](https://electroatlas.ru) `https://electroatlas.ru/mcp`
+  [![ElectroAtlas MCP connector](https://glama.ai/mcp/connectors/ru.electroatlas/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/ru.electroatlas/catalog)
+  🔓 - Electric cars in Russia: rouble prices, winter range, dealers, sales and import fees, with sources.
 - [entityindex.ai](https://entityindex.ai/mcp-info/) `https://entityindex.ai/mcp`
   [![entityindex.ai MCP connector](https://glama.ai/mcp/connectors/ai.entityindex/entityindex/badges/score.svg)](https://glama.ai/mcp/connectors/ai.entityindex/entityindex)
   🔓 - Verified hotels in Andorra with spa, pets, ski-in and family filters and official booking links.
