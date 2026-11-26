@@ -1684,6 +1684,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
+- [Uremot](https://uremot.com) `https://mcp.uremot.com/mcp`
+  [![Uremot MCP connector](https://glama.ai/mcp/connectors/com.uremot/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.uremot/mcp)
+  🔐 - Give AI agents real desktops on Uremot Cloud or machines you enroll: screenshot, type, click, hire more agents.
 - [Use This Skill](https://usethisskill.com) `https://usethisskill.com/mcp`
   [![Use This Skill MCP connector](https://glama.ai/mcp/connectors/com.usethisskill/skills/badges/score.svg)](https://glama.ai/mcp/connectors/com.usethisskill/skills)
   🔓 - Search 1,967 agent skills, read side-by-side proofs, and check any skill for risky patterns.
