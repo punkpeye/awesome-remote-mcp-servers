@@ -5569,6 +5569,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - AI news cards with official publish dates and sources; browse and search recent AI releases.
 
 ### 🔒 <a name="security"></a>Security
+- [CanaryGuard 402](https://canaryguard-402.onrender.com) `https://canaryguard-402.onrender.com/mcp`
+  [![CanaryGuard 402 MCP connector](https://glama.ai/mcp/connectors/io.github.ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ak10082247-max/canaryguard-402)
+  🔓 - Deterministic prompt-injection firewall and zero-width Unicode scrubber for autonomous AI agents on Base.
 
 - [AEGIS Events](https://console.int-tech.solutions/docs) `https://mcp.int-tech.solutions`
   [![AEGIS Events MCP connector](https://glama.ai/mcp/connectors/solutions.int-tech.mcp/aegis-events/badges/score.svg)](https://glama.ai/mcp/connectors/solutions.int-tech.mcp/aegis-events)
