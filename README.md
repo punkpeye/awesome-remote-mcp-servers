@@ -3407,7 +3407,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Machine-readable catalog of the Cumulative Web Inc label: track search, sync briefs, live Radio 365, playlist pitching.
 - [Deepnia](https://deepnia.com/en/connectors/chatgpt-claude) `https://deepnia.com/mcp`
   [![Deepnia MCP connector](https://glama.ai/mcp/connectors/com.deepnia/deepnia/badges/score.svg)](https://glama.ai/mcp/connectors/com.deepnia/deepnia)
-  🔐 - Create AI videos, images, UGC-style ads and voice-overs on Deepnia, with the price shown before every creation.
+  🔓 - Create AI videos, images, UGC-style ads and voice-overs on Deepnia, with the price shown before every creation.
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
