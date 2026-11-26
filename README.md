@@ -4173,6 +4173,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Statable](https://statable.com) `https://mcp.statable.com/mcp`
   [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable/analytics)
   🔐 - Cookieless, EU-hosted web analytics: visitors, pages, sources, countries, goals, funnels and live traffic.
+- [Stellar](https://gostellar.app/docs/mcp) `https://api.gostellar.app/mcp`
+  [![Stellar MCP connector](https://glama.ai/mcp/connectors/app.gostellar/stellar/badges/score.svg)](https://glama.ai/mcp/connectors/app.gostellar/stellar)
+  🔐 - Query live A/B test results, statistical significance, funnels, heatmaps, MTU usage, and CRO opportunities.
 - [stillindexed](https://stillindexed.com/mcp) `https://api.stillindexed.com/mcp`
   [![stillindexed MCP connector](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers/badges/score.svg)](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers)
   🔓 - Indexability, robots.txt, sitemap, TLS, domain-expiry and AI-crawler checks for any URL; no account.
