@@ -4604,6 +4604,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Words into Music](https://wordsintomusic.com/mcp/) `https://mcp.wordsintomusic.com/mcp`
   [![Words into Music MCP connector](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music/badges/score.svg)](https://glama.ai/mcp/connectors/com.wordsintomusic.mcp/words-into-music)
   🔐 - Generate songs from prompts or lyrics, check credits, and access your private song library.
+- [Yangopen](https://yangopen.com/guides/claude-mcp-connector/) `https://yangopen.com/mcp`
+  [![Yangopen MCP connector](https://glama.ai/mcp/connectors/com.yangopen/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.yangopen/mcp)
+  🔐 - Vietnamese text to speech (MP3), photo tools (remove background, sharpen, colorize), PDF, QR and audio to text.
 - [YouTube Transcript + YouTube Search MCP](https://getyoutubetranscript.com) `https://getyoutubetranscript.com/api/mcp`
   [![YouTube Transcript + YouTube Search MCP MCP connector](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search)
   🔓 - Fetch YouTube transcripts, search videos/channels, and extract playlists; also accepts an API key.
