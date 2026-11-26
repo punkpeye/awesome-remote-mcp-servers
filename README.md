@@ -2783,6 +2783,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Qotien](https://qotien.fr) `https://app.qotien.fr/api/fiscal/v1/mcp`
   [![Qotien MCP connector](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement)
   🔓 - French income tax, IFI, PER and 32 pension schemes, sourced to primary law and dated; x402 pay-per-call.
+- [QuantSet](https://quantset.dev) `https://api.quantset.dev/mcp`
+  [![QuantSet MCP connector](https://glama.ai/mcp/connectors/dev.quantset/quantset/badges/score.svg)](https://glama.ai/mcp/connectors/dev.quantset/quantset)
+  🔓 - 90,000+ symbols & 52,000+ stocks in 67 countries, 36,000+ companies with financial statements, 127M+ SEC filing facts & 4,899 ETFs; free `mw_demo` sandbox + 250 free credits or x402.
 - [Quantral](https://quantral.com/mcp) `https://app.quantral.com/api/mcp`
   [![Quantral MCP connector](https://glama.ai/mcp/connectors/com.quantral/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/com.quantral/sentiment)
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions.
