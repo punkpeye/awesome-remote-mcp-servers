@@ -3158,6 +3158,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Game Developer](https://ai-game.dev) `https://ai-game.dev/mcp`
   [![AI Game Developer MCP connector](https://glama.ai/mcp/connectors/io.github.IvanMurzak/Unity-MCP/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.IvanMurzak/Unity-MCP)
   🔐 - Drive your own Unity, Unreal Engine or Godot editor: scenes, objects, assets, scripts and screenshots.
+- [BoneGyre](https://bonegyre.app/ai) `https://bonegyre.app/mcp`
+  [![BoneGyre MCP connector](https://glama.ai/mcp/connectors/app.bonegyre/bonegyre/badges/score.svg)](https://glama.ai/mcp/connectors/app.bonegyre/bonegyre)
+  🔐 - Make 2D game VFX in the BoneGyre editor open in your browser: build, preview and export effects to Spine.
 - [Centering Lab](https://centeringlab.com/ai/) `https://centeringlab.com/mcp`
   [![Centering Lab MCP connector](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.centeringlab/centering-lab)
   🔓 - Measure trading card centering from a photo and check PSA, BGS, CGC and SGC centering limits.
