@@ -3177,6 +3177,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ludo.ai](https://ludo.ai/api-mcp-integration) `https://mcp.ludo.ai/mcp`
   [![Ludo.ai MCP connector](https://glama.ai/mcp/connectors/ai.ludo/game-assets/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ludo/game-assets)
   🔓 - Game sprites, spritesheet animations, rigged 3D models, video, music, SFX and voices; generation needs a Ludo API key.
+- [Mable](https://mable.gg/mcp) `https://studio.mable.gg/mcp`
+  [![Mable MCP connector](https://glama.ai/mcp/connectors/gg.mable/mable/badges/score.svg)](https://glama.ai/mcp/connectors/gg.mable/mable)
+  🔐 - Publish HTML games your agent makes to a link that plays on any phone, see who played, and generate game assets.
 - [PC Game Price Broker](https://company.eloai.io) `https://company.eloai.io/mcp`
   [![PC Game Price Broker MCP connector](https://glama.ai/mcp/connectors/io.eloai.company/price-broker/badges/score.svg)](https://glama.ai/mcp/connectors/io.eloai.company/price-broker)
   🔓 - Lowest live price for any PC game across 13 stores, with every store price and the record low.
