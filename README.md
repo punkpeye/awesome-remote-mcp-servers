@@ -4985,6 +4985,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ByteTrail](https://bytetrail.space/agents) `https://bytetrail.space/mcp`
   [![ByteTrail MCP connector](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail/badges/score.svg)](https://glama.ai/mcp/connectors/space.bytetrail/bytetrail)
   🔓 - New AI research papers, developer tool trends, AI news and startup funding rounds, each with filters.
+- [Charitology](https://os.charitology.org/mcp.html) `https://os.charitology.org/mcp`
+  [![Charitology MCP connector](https://glama.ai/mcp/connectors/io.github.theguysaccount/charitology/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theguysaccount/charitology)
+  🔓 - Read-only access to the 31-jurisdiction Global Charity Index (3.34M official registry records), 48 public funding-flow datasets, 65 verified free nonprofit perks, and giving methodology.
 - [CiteMe](https://citeme.app/mcp) `https://citeme.app/api/mcp`
   [![CiteMe MCP connector](https://glama.ai/mcp/connectors/app.citeme/citeme/badges/score.svg)](https://glama.ai/mcp/connectors/app.citeme/citeme)
   🔓 - Find scholarly sources, format citations in 60+ styles, and check a bibliography against real records.
