@@ -5226,6 +5226,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
+- [Daily Digest](https://dailydigest.com/developers/) `https://dailydigest.com/mcp`
+  [![Daily Digest News MCP connector](https://glama.ai/mcp/connectors/com.dailydigest/news/badges/score.svg)](https://glama.ai/mcp/connectors/com.dailydigest/news)
+  🔐 - News stories grouped across outlets in five countries, with outlet counts, owners, coverage speed and timelines.
 - [Datacircle](https://datacircle.dev) `https://api.datacircle.dev/mcp`
   [![Datacircle MCP connector](https://glama.ai/mcp/connectors/dev.datacircle/datacircle/badges/score.svg)](https://glama.ai/mcp/connectors/dev.datacircle/datacircle)
   🔓 - Find the best GTM APIs: list every API, see who is best for each, search every plan. Free, no key.
