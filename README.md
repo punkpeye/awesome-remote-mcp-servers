@@ -4916,6 +4916,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zebu Data - Zillow Real Estate Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/zillow-property-data-scraper,delicious_zebu/zillow-property-details-scraper`
   [![Zebu Data - Zillow Real Estate Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/real-estate-data)
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
+- [ZilloData - Zillow Property Data](https://zillodata.com/ai-agents/) `https://api.zillodata.com/mcp`
+  [![ZilloData - Zillow Property Data MCP connector](https://glama.ai/mcp/connectors/com.zillodata/zillow-property-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.zillodata/zillow-property-data)
+  🔐 - Zillow property data for U.S. homes: records by address, URL or zpid, Zestimates and listing search.
 ### 🚗 <a name="sales"></a>Sales
 
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
