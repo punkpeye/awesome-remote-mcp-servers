@@ -3939,6 +3939,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![IndustryLens MCP connector](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public/badges/score.svg)](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public)
   🔓 - Competitive intelligence on B2B SaaS markets: competitor profiles, strategic moves, pricing changes and reports.
   
+- [IQFluence](https://iqfluence.io/docs/mcp) `https://mcp.iqfluence.io/mcp`
+  [![IQFluence MCP connector](https://glama.ai/mcp/connectors/io.iqfluence/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.iqfluence/mcp)
+  🔐 - Search 455M+ Instagram, TikTok and YouTube creators, open audience reports and build influencer media plans.
+
 - [Jepto](https://www.jepto.com/integration/mcp) `https://mcp.jepto.com`
   [![Jepto MCP connector](https://glama.ai/mcp/connectors/com.jepto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.jepto/mcp)
   🔐 - Query live Google Ads, GA4, Search Console, Meta Ads and Google Business Profile data, and manage KPIs and budgets.
