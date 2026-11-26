@@ -702,6 +702,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ViewportWitness MCP connector](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Baffles78/viewport-witness)
   🔓 - Paid browser QA across three viewports: screenshots, accessibility checks and baseline diffs.
 
+- [ZeusQA](https://zeusqa.ai/docs/mcp) `https://zeusqa.ai/api/mcp`
+  [![ZeusQA MCP connector](https://glama.ai/mcp/connectors/ai.zeusqa/zeusqa/badges/score.svg)](https://glama.ai/mcp/connectors/ai.zeusqa/zeusqa)
+  🔐 - Starts real-browser QA and security test runs, returns findings and steps, and reruns to check a fix.
+
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 - [Agentgates Compute](https://agentgates.ai/compute) `https://mcp.agentgates.ai/compute`
