@@ -5408,6 +5408,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sayod 111 Intelligence](https://sayod111.github.io/) `https://sayod111-mcp-gateway.sayodyalawi.workers.dev/mcp`
   [![Sayod 111 Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sayod111/sayod111-intelligence-mcp)
   🔓 - Discover data tools for e-commerce stores, hiring signals, and financial advisers.
+- [SaltCrate Oracle](https://oracle.saltcrate.com) `https://oracle.saltcrate.com/mcp`
+  [![SaltCrate Oracle MCP connector](https://glama.ai/mcp/connectors/com.saltcrate/oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.saltcrate/oracle)
+  🔓 - Search, read, extract, verify and monitor any web page; scan npm/PyPI deps for CVEs. 100 free calls, no key.
 - [Scoopkit](https://scoopkit.dev) `https://api.scoopkit.dev/mcp`
   [![Scoopkit MCP connector](https://glama.ai/mcp/connectors/dev.scoopkit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.scoopkit/mcp)
   🔓 - AI-industry news as deduplicated, classified events; a free key unlocks listing, search and archive.
