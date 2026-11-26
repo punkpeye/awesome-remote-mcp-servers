@@ -2267,6 +2267,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [SEC EDGAR XBRL Financials](https://apify.com/autotroph/sec-edgar-xbrl-normalizer) `https://mcp.apify.com/?tools=autotroph/sec-edgar-xbrl-normalizer`
+  [![SEC EDGAR XBRL Financials MCP connector](https://glama.ai/mcp/connectors/io.github.char5742/sec-edgar-xbrl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.char5742/sec-edgar-xbrl-mcp)
+  🔐 - Deduplicated US-GAAP 10-K/10-Q financials, derived Q4 and TTM statements from SEC EDGAR XBRL by ticker or CIK.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
