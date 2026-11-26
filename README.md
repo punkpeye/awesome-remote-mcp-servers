@@ -3943,6 +3943,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Jepto MCP connector](https://glama.ai/mcp/connectors/com.jepto/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.jepto/mcp)
   🔐 - Query live Google Ads, GA4, Search Console, Meta Ads and Google Business Profile data, and manage KPIs and budgets.
 
+- [Keats](https://getkeats.com/agents) `https://getkeats.com/mcp`
+  [![Keats MCP connector](https://glama.ai/mcp/connectors/com.getkeats/keats/badges/score.svg)](https://glama.ai/mcp/connectors/com.getkeats/keats)
+  🔑 - See where ChatGPT and other AI assistants name rivals instead of your brand, draft each fix, prove it worked.
+
 - [Kliqo AI](https://kliqo.ai/docs/ai-apps) `https://kliqo.ai/mcp`
   [![Kliqo AI MCP connector](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ai.kliqo/ai-visibility)
   🔓 - Free AI crawler and page checks, then see if ChatGPT and Google AI name you or your competitors.
