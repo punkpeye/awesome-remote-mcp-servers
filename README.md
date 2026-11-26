@@ -3440,6 +3440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Imashime](https://imashime.waitlab.workers.dev/en?ref=github) `https://imashime.waitlab.workers.dev/mcp`
   [![Imashime MCP connector](https://glama.ai/mcp/connectors/dev.workers.waitlab.imashime/imashime/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.waitlab.imashime/imashime)
   🔓 - Search notes on AI mistakes in everyday work, each with a better way to ask next time; optionally send yours privately.
+- [KeepPlain](https://keepplain.com/mcp-server) `https://keepplain.com/mcp`
+  [![KeepPlain MCP connector](https://glama.ai/mcp/connectors/com.keepplain/keepplain/badges/score.svg)](https://glama.ai/mcp/connectors/com.keepplain/keepplain)
+  🔓 - Search your coding agents' past sessions and published ones: open the exact turn, see where agents failed.
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
