@@ -152,7 +152,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
 - [CloudBridge](https://cloud-bridge.ru/mcp) `https://cloud-bridge.ru/api/mcp`
   [![CloudBridge MCP connector](https://glama.ai/mcp/connectors/ru.cloud-bridge/cloudbridge/badges/score.svg)](https://glama.ai/mcp/connectors/ru.cloud-bridge/cloudbridge)
-  🔑 - Transfer and sync files between 19 cloud storages — Yandex Disk, Google Drive, VK Cloud, Dropbox, OneDrive, Telegram, S3 and WebDAV.
+  🔓 - Transfer and sync files between 19 cloud storages — Yandex Disk, Google Drive, VK Cloud, Dropbox, OneDrive, Telegram, S3 and WebDAV; API key (X-API-Key) for tools/call.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
