@@ -5150,6 +5150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AppClap](https://app-clap.com) `https://mcp.app-clap.com/mcp`
   [![AppClap MCP connector](https://glama.ai/mcp/connectors/com.app-clap/appclap/badges/score.svg)](https://glama.ai/mcp/connectors/com.app-clap/appclap)
   🔓 - Search 8,600+ web apps by need, ranked purely by fit, with prices and features checked on each vendor's own site.
+- [AppPage.net](https://apppage.net/developers) `https://apppage.net/mcp`
+  [![AppPage.net MCP connector](https://glama.ai/mcp/connectors/net.apppage/app-data/badges/score.svg)](https://glama.ai/mcp/connectors/net.apppage/app-data)
+  🔓 - Google Play and App Store search, app details, reviews, charts and privacy labels; app websites with privacy pages.
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
