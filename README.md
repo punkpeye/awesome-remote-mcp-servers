@@ -4032,6 +4032,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pineprompt](https://pineprompt.com) `https://pineprompt.com/mcp`
   [![Pineprompt MCP connector](https://glama.ai/mcp/connectors/com.pineprompt/pineprompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.pineprompt/pineprompt)
   🔐 - Track how ChatGPT, Gemini, Perplexity, Claude and Google AI answers mention your brand, sources and competitors.
+- [Pipeyield](https://pipeyield.com) `https://app.pipeyield.com/mcp`
+  [![Pipeyield MCP connector](https://glama.ai/mcp/connectors/com.pipeyield/search-term-review/badges/score.svg)](https://glama.ai/mcp/connectors/com.pipeyield/search-term-review)
+  🔓 - Review an uploaded Google Ads search terms report: possible exclusions, spend and negatives to paste.
 - [PixelFlow](https://pixelflow.so/features/mcp?source=awesome_remote) `https://api.pixelflow.so/mcp`
   [![PixelFlow MCP connector](https://glama.ai/mcp/connectors/so.pixelflow/pixelflow/badges/score.svg)](https://glama.ai/mcp/connectors/so.pixelflow/pixelflow)
   🔐 - Server-side conversion tracking for Meta, TikTok, etc. Set up tracking and ask about events.
