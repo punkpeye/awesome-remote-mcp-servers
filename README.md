@@ -2282,6 +2282,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Autoview](https://autoview.com/) `https://api.autoview.com/mcp/`
   [![Autoview MCP connector](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.autoview-com/mcp)
   🔓 - Trade across 22+ exchanges and brokers; dry-run by default, live trading on Kraken and Crypto.com.
+- [AY Grants](https://grants.ayskilllab.com/mcp) `https://grants.ayskilllab.com/mcp`
+  [![AY Grants MCP connector](https://glama.ai/mcp/connectors/com.ayskilllab/grants/badges/score.svg)](https://glama.ai/mcp/connectors/com.ayskilllab/grants)
+  🔓 - Search open US, UK and EU government grants by topic, applicant and deadline, each linked to its official notice.
 - [BankRegReports](https://www.bankregreports.com/mcp/) `https://api.bankregreports.com/api/mcp/`
   [![BankRegReports MCP connector](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankregreports/bankregreports)
   🔓 - US bank and credit union data from call reports, UBPR, FDIC, NCUA and SEC filings: profiles, peers and screens.
@@ -2883,6 +2886,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synci](https://synci.io) `https://api.synci.io/mcp`
   [![Synci MCP connector](https://glama.ai/mcp/connectors/io.synci/synci/badges/score.svg)](https://glama.ai/mcp/connectors/io.synci/synci)
   🔐 - Read-only bank, brokerage and crypto accounts: balances, transactions, holdings and connection health.
+- [Taiwan Grants 補助雷達](https://twgrants.ayskilllab.com/mcp) `https://twgrants.ayskilllab.com/mcp`
+  [![Taiwan Grants MCP connector](https://glama.ai/mcp/connectors/com.ayskilllab/twgrants/badges/score.svg)](https://glama.ai/mcp/connectors/com.ayskilllab/twgrants)
+  🔓 - Search open Taiwan government grants and subsidies, screen them by applicant type and see upcoming deadlines.
 - [Taiwan Market Open Data (Unofficial)](https://twse-mcp.taux.io/) `https://twse-mcp.taux.io/mcp`
   [![Taiwan Market Open Data MCP connector](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.taux-io/twse-mcp)
   🔓 - Unofficial access to Taiwan Stock Exchange and Futures Exchange open data: stock, ETF and futures snapshots, live quotes and 275 datasets.
@@ -5144,6 +5150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
+- [AY Tenders](https://tenders.ayskilllab.com/mcp) `https://tenders.ayskilllab.com/mcp`
+  [![AY Tenders MCP connector](https://glama.ai/mcp/connectors/com.ayskilllab/tenders/badges/score.svg)](https://glama.ai/mcp/connectors/com.ayskilllab/tenders)
+  🔓 - Search open public tenders from TED, the UK, Ireland and US federal in seven sectors, with official links.
 - [BeaconMFG](https://beacon-mfg.pages.dev) `https://beacon-mfg.pages.dev/mcp`
   [![BeaconMFG MCP connector](https://glama.ai/mcp/connectors/io.github.eiry16/beacon-mfg-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eiry16/beacon-mfg-mcp)
   🔓 - Search 210k+ Chinese suppliers and service firms by name, city or GB/T 4754 industry; keyless.
