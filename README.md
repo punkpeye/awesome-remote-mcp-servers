@@ -4864,6 +4864,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HouseFile](https://www.housefile.app/mcp/about) `https://www.housefile.app/mcp`
   [![HouseFile MCP connector](https://glama.ai/mcp/connectors/app.housefile/licensing/badges/score.svg)](https://glama.ai/mcp/connectors/app.housefile/licensing)
   🔓 - Checks whether a property in England is in a council's selective or HMO licensing scheme.
+- [Hyperion Builders](https://hyperion.builders) `https://measure.hyperion.builders/mcp`
+  [![Hyperion Builders MCP connector](https://glama.ai/mcp/connectors/io.github.Thealch7/hyperion-builders/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Thealch7/hyperion-builders)
+  🔓 - Explains HBMeasure roof-measurement reports, prices and x402 payment terms; returns a sample report.
 - [Irish Rent Check](https://rent-check-production.up.railway.app/) `https://rent-check-production.up.railway.app/mcp`
   [![Irish rent check MCP connector](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check)
   🔓 - Irish rents by county (CSO/RTB), free; paid town and property-price tools return x402/MPP terms.
