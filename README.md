@@ -1064,6 +1064,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LetX](https://letx.app/mcp/) `https://api.letx.app/mcp`
   [![LetX MCP connector](https://glama.ai/mcp/connectors/app.letx/letx/badges/score.svg)](https://glama.ai/mcp/connectors/app.letx/letx)
   🔐 - Write LaTeX from 1,000+ journal, thesis and CV templates and compile to PDF with the build log.
+- [Literess](https://literess.com/) `https://write.literess.com/mcp`
+  [![Literess MCP connector](https://glama.ai/mcp/connectors/com.literess/literess/badges/score.svg)](https://glama.ai/mcp/connectors/com.literess/literess)
+  🔐 - Read a writer’s manuscripts, comment in the margin, suggest tracked edits and chat with Literess.
 - [Manulyx](https://manulyx.com/connectors) `https://manulyx.com/api/mcp`
   [![Manulyx MCP connector](https://glama.ai/mcp/connectors/com.manulyx/manulyx/badges/score.svg)](https://glama.ai/mcp/connectors/com.manulyx/manulyx)
   🔐 - Online LaTeX editor: start papers in journal templates, edit, cite by DOI and compile to PDF.
