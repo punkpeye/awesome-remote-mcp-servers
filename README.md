@@ -811,6 +811,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Symbioza](https://symbioza.dev) `https://symbioza.dev/mcp`
   [![Symbioza MCP connector](https://glama.ai/mcp/connectors/dev.symbioza/symbioza/badges/score.svg)](https://glama.ai/mcp/connectors/dev.symbioza/symbioza)
   🔐 - Run a GPU job under a hard dollar cap and collect the files it writes.
+- [Tofu](https://trytofu.ai) `https://app.trytofu.ai/mcp`
+  [![Tofu MCP connector](https://glama.ai/mcp/connectors/ai.trytofu/tofu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.trytofu/tofu)
+  🔐 - Deploy AI-built apps, read build and runtime logs, roll back, connect a domain, add Postgres and Google sign-in.
 - [TrustyCap](https://trustycap.com) `https://mcp.trustycap.com/mcp`
   [![TrustyCap MCP connector](https://glama.ai/mcp/connectors/com.trustycap/trustycap/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustycap/trustycap)
   🔓 - Add production storage, data, jobs, webhooks, email and secrets to an app, and meter the usage.
