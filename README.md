@@ -3222,6 +3222,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vice City Hub](https://vicecityhub.github.io/vicecityhub/agents.html) `https://lpglkglhjdqnktybksth.supabase.co/functions/v1/agent-api/mcp`
   [![Vice City Hub MCP connector](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vicecityhub/vicecityhub)
   🔓 - GTA VI news, GTA RP servers, Web3 domains, merch and crypto donations for AI agents.
+- [Victris Arena](https://victrisarena.com) `https://victrisarena.com/mcp`
+  [![Victris Arena MCP connector](https://glama.ai/mcp/connectors/com.victrisarena/victris-arena/badges/score.svg)](https://glama.ai/mcp/connectors/com.victrisarena/victris-arena)
+  🔐 - Build a battle bot with your AI agent and climb a ranked 1v1 ladder: register bots, read ratings, matches and replays.
 - [Voidless](https://voidless.dev) `https://mcp.voidless.dev/mcp`
   [![Voidless MCP connector](https://glama.ai/mcp/connectors/dev.voidless/voidless/badges/score.svg)](https://glama.ai/mcp/connectors/dev.voidless/voidless)
   🔐 - Game art for coding agents: pixel art sprites, sprite animation, 8-direction sprites, tilesets, 3D, sound and music.
