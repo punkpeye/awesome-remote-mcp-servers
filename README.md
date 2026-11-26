@@ -3655,6 +3655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Magist](https://magist.io/mcp) `https://magist.io/api/mcp`
   [![Magist MCP connector](https://glama.ai/mcp/connectors/io.github.magist-io/magist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magist-io/magist)
   🔓 - Cited regulatory research, implementation controls and product scoping; legal information, not legal advice.
+- [MyLastWill](https://mylastwill.org) `https://mylastwill.org/mcp`
+  [![MyLastWill MCP connector](https://glama.ai/mcp/connectors/org.mylastwill/mylastwill/badges/score.svg)](https://glama.ai/mcp/connectors/org.mylastwill/mylastwill)
+  🔓 - Free U.S. will drafting, each state's signing rules, estate-tax estimates and charity lookup, from a nonprofit.
 - [ONYST RVG](https://onyst.legal/mcp/en) `https://api.onyst.legal/mcp`
   [![ONYST RVG MCP connector](https://glama.ai/mcp/connectors/legal.onyst/rvg/badges/score.svg)](https://glama.ai/mcp/connectors/legal.onyst/rvg)
   🔐 - German lawyers' fees under the RVG, values in dispute and invoices, every amount from the ONYST fee engine.
