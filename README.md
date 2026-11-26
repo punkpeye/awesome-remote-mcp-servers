@@ -4547,6 +4547,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Soundza](https://soundza.com/developers) `https://mcp.soundza.com/mcp/oauth`
   [![Soundza MCP connector](https://glama.ai/mcp/connectors/com.soundza/soundza/badges/score.svg)](https://glama.ai/mcp/connectors/com.soundza/soundza)
   🔐 - Search and download free sound effects, music and ambience, with rich metadata and previews.
+- [SqueezeVid](https://www.squeezevid.com) `https://www.squeezevid.com/mcp`
+  [![SqueezeVid MCP connector](https://glama.ai/mcp/connectors/com.squeezevid/squeeze-vid/badges/score.svg)](https://glama.ai/mcp/connectors/com.squeezevid/squeeze-vid)
+  🔓 - Platform video upload limits, target-size bitrate and FFmpeg planner, safe command builder, and browser tool router.
 - [StudioSphere Pulse](https://pulse.studiosphere.space) `https://mcp.studiosphere.space/mcp`
   [![StudioSphere Pulse MCP connector](https://glama.ai/mcp/connectors/space.studiosphere/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/space.studiosphere/pulse)
   🔓 - Audio analysis for authorized public URLs: BPM, musical key, and waveform peaks.
