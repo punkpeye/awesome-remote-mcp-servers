@@ -1131,6 +1131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Connections](https://studio.connections.icu/connect) `https://studio.connections.icu/v1/mcp`
   [![Connections MCP connector](https://glama.ai/mcp/connectors/icu.connections/connections/badges/score.svg)](https://glama.ai/mcp/connectors/icu.connections/connections)
   🔐 - Manage contacts, host and ticket events, post marketplace deals, and keep notes and memory.
+- [CRMSynQ](https://crmsynq.com/ai-agents) `https://app.crmsynq.com/api/mcp`
+  [![CRMSynQ MCP connector](https://glama.ai/mcp/connectors/com.crmsynq/crmsynq/badges/score.svg)](https://glama.ai/mcp/connectors/com.crmsynq/crmsynq)
+  🔐 - Keep HubSpot, Pipedrive and Zoho contacts up to date from LinkedIn on a schedule your agent sets up.
 - [DOS AI](https://dosai.pro/en) `https://dosai.pro/api/mcp`
   [![DOS AI MCP connector](https://glama.ai/mcp/connectors/pro.dosai/dos-ai/badges/score.svg)](https://glama.ai/mcp/connectors/pro.dosai/dos-ai)
   🔓 - Run WhatsApp and Telegram AI assistants: projects, prompts, leads, chats and analytics; API key for calls.
