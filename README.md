@@ -3297,6 +3297,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Trainzilla](https://trainzilla.app/solutions/ai-agent) `https://api.tzilla.live/mcp`
   [![Trainzilla MCP connector](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Trainzilla/trainzilla-mcp)
   🔐 - For personal trainers: manage clients, workout and diet plans, check-ins, habits, sessions and billing.
+- [TRTcompare.co](https://trtcompare.co/data) `https://trtcompare.co/api/mcp`
+  [![TRTcompare.co MCP connector](https://glama.ai/mcp/connectors/co.trtcompare/trt-clinic-prices/badges/score.svg)](https://glama.ai/mcp/connectors/co.trtcompare/trt-clinic-prices)
+  🔓 - US online TRT clinic cash prices, first-year costs with labs and membership, and each clinic's public record.
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
