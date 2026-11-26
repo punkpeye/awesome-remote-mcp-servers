@@ -2865,6 +2865,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StartupPerks](https://startupperks.co/mcp-server) `https://startupperks.co/mcp`
   [![StartupPerks MCP connector](https://glama.ai/mcp/connectors/co.startupperks/startup-perks/badges/score.svg)](https://glama.ai/mcp/connectors/co.startupperks/startup-perks)
   🔓 - Rank the startup credits, perks and deals a company qualifies for across 1,000+ programs, each with sourced terms.
+- [Stoa](https://stoadex.com/docs/mcp) `https://stoadex.com/mcp`
+  [![Stoa MCP connector](https://glama.ai/mcp/connectors/io.github.StoaDex/stoa/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.StoaDex/stoa)
+  🔓 - Robinhood Chain swaps: quote every venue, token safety checks, unsigned swaps, bridge-in and CMC market context.
 - [Stock Bloc](https://stockbloc.ai.studio) `https://stockbloc.ai.studio/api/mcp/rpc`
   [![Stock Bloc MCP connector](https://glama.ai/mcp/connectors/studio.ai.stockbloc/stock-bloc/badges/score.svg)](https://glama.ai/mcp/connectors/studio.ai.stockbloc/stock-bloc)
   🔓 - Financial market data, SEC/13F intelligence, and quant scores via MCP; $0.01–$0.35/call in USDC on Base via x402 v2.
