@@ -788,6 +788,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Porkbun](https://porkbun.com/mcp) `https://mcp.porkbun.com/mcp`
   [![Porkbun MCP connector](https://glama.ai/mcp/connectors/com.porkbun/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.porkbun/mcp)
   🔐 - Manage domains, DNS, nameservers, DNSSEC, URL forwarding and static site deploys on your Porkbun account.
+- [Rdp.Vision](https://rdp.vision/docs/api/mcp) `https://rdp.vision/mcp`
+  [![Rdp.Vision MCP connector](https://glama.ai/mcp/connectors/vision.rdp/servers/badges/score.svg)](https://glama.ai/mcp/connectors/vision.rdp/servers)
+  🔑 - Order, power, renew and reinstall Windows RDP and Linux VPS paid with crypto; plans and prices work without a key.
 - [Render](https://render.com) `https://mcp.render.com/mcp`
   🔐 - Deploy and inspect Render services, databases, and logs.
 - [rentgpu.link](https://rentgpu.link/agents) `https://rentgpu.link/mcp`
