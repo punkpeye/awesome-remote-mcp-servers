@@ -5217,6 +5217,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Diogenes Web Scraping](https://diogenesgateway.com/#web-scraping-engine) `https://diogenesgateway.com/mcp/web-scraping-engine`
   [![Diogenes Web Scraping MCP connector](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-web-scraping-engine-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.diogenesgateway/diogenes-web-scraping-engine-mcp)
   🔓 - Production web scraping and extraction engine with markdown conversion, DOM pruning, and anti-bot mitigation.
+- [EarlyLore](https://earlylore.com/mcp) `https://earlylore.com/api/mcp`
+  [![EarlyLore MCP connector](https://glama.ai/mcp/connectors/io.github.jiangqizheng/earlylore/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jiangqizheng/earlylore)
+  🔓 - Research 440K+ SaaS products, pricing benchmarks, idea evaluations and hero Design DNA; API key for tool calls.
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
