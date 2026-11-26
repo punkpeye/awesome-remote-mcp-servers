@@ -5517,6 +5517,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [WebRead](https://api.youraitools.co/webread/) `https://api.youraitools.co/webread/mcp`
   [![WebRead MCP connector](https://glama.ai/mcp/connectors/co.youraitools/webread/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/webread)
   🔓 - Turns a public web page into clean Markdown, respecting robots.txt; 30 free calls/day, then x402 USDC.
+- [workspaceAlberta](https://warreandvavasour.com/workspacealberta?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=workspacealberta) `https://elbowsupknivesout.warreandvavasour.com/mcp`
+  [![workspaceAlberta MCP connector](https://glama.ai/mcp/connectors/com.warreandvavasour/workspacealberta/badges/score.svg)](https://glama.ai/mcp/connectors/com.warreandvavasour/workspacealberta)
+  🔓 - Search CanadaBuys & Alberta government contracts for trades; free briefs & 2 reviews, OAuth for bid-room tools.
 - [Xiaozhaobao](https://xiaozhaobao.com.cn) `https://xiaozhaobao.com.cn/mcp`
   [![Xiaozhaobao MCP connector](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao/badges/score.svg)](https://glama.ai/mcp/connectors/cn.com.xiaozhaobao/xiaozhaobao)
   🔓 - Search China campus-recruitment postings by city, batch, degree, industry and company, plus employer profiles.
