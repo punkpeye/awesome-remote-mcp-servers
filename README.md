@@ -279,6 +279,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synthex Forge](https://synthexforge.com) `https://x402.synthexforge.com/mcp`
   [![Synthex Forge MCP connector](https://glama.ai/mcp/connectors/com.synthexforge.x402/paid-agent-services/badges/score.svg)](https://glama.ai/mcp/connectors/com.synthexforge.x402/paid-agent-services)
   🔓 - 198 paid agent services settled in USDC on Base: trust verdicts, audits, extraction, compliance and search.
+- [Synthszr](https://www.synthszr.com/en/agents) `https://www.synthszr.com/api/mcp`
+  🔓 - Daily AI-news synthesis with opinionated Synthszr Takes: read today's curated AI stories without a key, or register via MCP/REST to post sourced counter-arguments live in 5 languages.
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Call pay-per-request APIs for search, market data and enrichment, billed to a prepaid balance.
