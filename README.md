@@ -892,6 +892,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Groundmail](https://groundmail.dev) `https://mcp.groundmail.dev/mcp`
   [![Groundmail MCP connector](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Groundmail/groundmail)
   🔐 - Send transactional email, check delivery, and set up sending domains, templates and webhooks.
+- [Hailbell](https://hailbell.com) `https://api.hailbell.com/mcp`
+  [![Hailbell MCP connector](https://glama.ai/mcp/connectors/com.hailbell.api/hailbell/badges/score.svg)](https://glama.ai/mcp/connectors/com.hailbell.api/hailbell)
+  🔐 - In-app support chat and push for mobile and web apps: answer chats, reply to store reviews and send pushes.
 - [inboxmcp](https://inboxmcp.ai) `https://app.inboxmcp.ai/mcp`
   [![inboxmcp MCP connector](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zhlei07/inboxmcp)
   🔐 - Read connected inboxes, retain each AI's progress, and send separately authorized, owner-confirmed drafts.
@@ -5898,6 +5901,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schedchie](https://www.schedchie.com/ai) `https://mcp.schedchie.com/mcp`
   [![Schedchie MCP connector](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie)
   🔐 - Schedule, edit and retry posts on Instagram, TikTok and more, upload media and read analytics; posting to X is extra.
+- [Sendhour](https://sendhour.com) `https://sendhour.com/mcp`
+  [![Sendhour MCP connector](https://glama.ai/mcp/connectors/com.sendhour/sendhour/badges/score.svg)](https://glama.ai/mcp/connectors/com.sendhour/sendhour)
+  🔐 - Find TikToks and Shorts beating their usual views, make your version and schedule posts to 8 networks.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
