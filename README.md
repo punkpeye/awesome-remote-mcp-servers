@@ -87,6 +87,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🛒 - [E-Commerce](#e-commerce)
 * 🎓 - [Education](#education)
 * 🌳 - [Environment](#environment)
+* 🎟️ - [Events](#events)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
 * 🍽️ - [Food & Dining](#food--dining)
@@ -2126,6 +2127,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [thirdtrail](https://thirdtrail.life/docs/mcp/) `https://thirdtrail.life/mcp`
   [![thirdtrail MCP connector](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thirdtrail/thirdtrail)
   🔓 - Elevation-corrected sunrise, sunset, twilight, moon, solar irradiance, prayer and tide times; paid key to call tools.
+
+### 🎟️ <a name="events"></a>Events
+
+- [Latino Events (events.lat)](https://events.lat) `https://ojlsoqhibryhvuyltwpi.supabase.co/functions/v1/mcp`
+  [![Latino Events (events.lat) MCP connector](https://glama.ai/mcp/connectors/lat.events/latino-events/badges/score.svg)](https://glama.ai/mcp/connectors/lat.events/latino-events)
+  🔐 - Search concerts, festivals and cultural events across Latin America, with venue, dates and official ticket links.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
