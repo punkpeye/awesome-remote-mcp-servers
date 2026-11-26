@@ -4387,6 +4387,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ChatCut](https://chatcut.io) `https://api.chatcut.io/api/external-mcp/mcp`
   [![ChatCut MCP connector](https://glama.ai/mcp/connectors/io.chatcut/chatcut/badges/score.svg)](https://glama.ai/mcp/connectors/io.chatcut/chatcut)
   🔐 - Edit your own videos from chat: cut footage, add captions and motion graphics, and export an editable timeline.
+- [CleanTranscript](https://cleantranscript.com/mcp) `https://cleantranscript.com/mcp`
+  [![CleanTranscript MCP connector](https://glama.ai/mcp/connectors/com.cleantranscript/clean-transcript-you-tube-transcript-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.cleantranscript/clean-transcript-you-tube-transcript-mcp)
+  🔓 - Extract verified YouTube transcripts (Text, Obsidian YAML Markdown, SRT, VTT) and search captions with timestamp links.
 - [CLIPCLIPER](https://clipcliper.com/mcp) `https://clipcliper.com/mcp`
   [![CLIPCLIPER MCP connector](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper/badges/score.svg)](https://glama.ai/mcp/connectors/com.clipcliper/clipcliper)
   🔓 - Timestamped transcripts, chapters and clip ideas from YouTube, Twitch, Kick or TikTok links.
