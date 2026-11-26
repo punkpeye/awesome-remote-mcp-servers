@@ -5898,6 +5898,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Schedchie](https://www.schedchie.com/ai) `https://mcp.schedchie.com/mcp`
   [![Schedchie MCP connector](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie/badges/score.svg)](https://glama.ai/mcp/connectors/com.schedchie.www/schedchie)
   🔐 - Schedule, edit and retry posts on Instagram, TikTok and more, upload media and read analytics; posting to X is extra.
+- [Skryvo](https://skryvo.ai/agents/) `https://api.skryvo.ai/mcp`
+  [![Skryvo MCP connector](https://glama.ai/mcp/connectors/ai.skryvo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.skryvo/mcp)
+  🔐 - Write and design posts in your brand's voice, schedule them to Instagram, LinkedIn, TikTok and 13 more after your OK, and read results.
 - [Slop](https://useslop.com/mcp) `https://useslop.com/api/mcp`
   [![Slop MCP connector](https://glama.ai/mcp/connectors/com.useslop/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.useslop/mcp)
   🔓 - Read and search a feed of what people built with AI, and post it with a Build Receipt; replies and remixes need a key.
