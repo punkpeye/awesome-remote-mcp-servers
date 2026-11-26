@@ -471,6 +471,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [betterimage.io](https://betterimage.io/mcp) `https://betterimage.io/mcp`
   [![betterimage.io MCP connector](https://glama.ai/mcp/connectors/io.betterimage/betterimage/badges/score.svg)](https://glama.ai/mcp/connectors/io.betterimage/betterimage)
   🔓 - Social cards and OG images from designed templates or any page URL, plus link-preview checks.
+- [Caelara Labs Dynamic Media](https://caelaralabs.com) `https://media.caelaralabs.com/mcp`
+  [![Caelara Labs Dynamic Media MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/media/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/media)
+  🔓 - Open Graph cards, QR codes, color palettes, favicons, avatars, badges and image inspection. The handshake and tool list are open; tools/call needs a Caelara key.
 - [Canva](https://canva.com) `https://mcp.canva.com/mcp`
   [![Canva MCP connector](https://glama.ai/mcp/connectors/com.canva.mcp/canva/badges/score.svg)](https://glama.ai/mcp/connectors/com.canva.mcp/canva)
   🔐 - Create, edit, and export Canva designs.
@@ -1781,6 +1784,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BirkinBagStock](https://birkinbagstock.com) `https://birkinbagstock.com/mcp`
   [![BirkinBagStock MCP connector](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.birkinbagstock/mcp)
   🔓 - Independent Hermès resale index: inventory, market prices, auction calendar and results.
+- [Caelara Labs E-Commerce Intelligence](https://caelaralabs.com) `https://ecom.caelaralabs.com/mcp`
+  [![Caelara Labs E-Commerce Intelligence MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/ecom/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/ecom)
+  🔓 - Product and storefront X-ray, JSON-LD parsing, GTIN validation, price-drop tracking and margin math. The handshake and tool list are open; tools/call needs a Caelara key.
 - [Cambridge China Bridge](https://camchinabridge.co.uk) `https://camchinabridge.co.uk/mcp`
   [![Cambridge China Bridge MCP connector](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing)
   🔓 - UK import duty, landed cost, anti-dumping and UK compliance checks for goods from China, plus CNY and freight planning.
@@ -3788,6 +3794,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Blawgy](https://blawgy.com/mcp) `https://app.blawgy.com/mcp`
   [![Blawgy MCP connector](https://glama.ai/mcp/connectors/com.blawgy/blawgy/badges/score.svg)](https://glama.ai/mcp/connectors/com.blawgy/blawgy)
   🔐 - Keyword research, plus writing and publishing SEO blog posts to WordPress, Shopify, Webflow and more.
+- [Caelara Labs SEO & GEO Readiness](https://caelaralabs.com) `https://seo.caelaralabs.com/mcp`
+  [![Caelara Labs SEO & GEO Readiness MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/seo/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/seo)
+  🔓 - llms.txt and AI-crawler audits, redirect tracing, schema validation, SERP previews and link scanning. The handshake and tool list are open; tools/call needs a Caelara key.
 - [CallAI SEO](https://callaiapi.com/en/integrations/seo-mcp) `https://api.callaiapi.com/mcp`
   [![CallAI SEO MCP connector](https://glama.ai/mcp/connectors/com.callaiapi/seo/badges/score.svg)](https://glama.ai/mcp/connectors/com.callaiapi/seo)
   🔓 - Live Google/Bing SERP, keyword difficulty, backlinks and domain checks, plus free site checks; tools need an API key.
@@ -5161,6 +5170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
   [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
   🔐 - Web research across search, Reddit, YouTube, reviews and ad libraries, with line-numbered citations.
+- [Caelara Labs Web Intelligence](https://caelaralabs.com) `https://api.caelaralabs.com/mcp`
+  [![Caelara Labs Web Intelligence MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/api/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/api)
+  🔓 - Company intel, lead verification, URL-to-markdown, SEO X-ray and MX forensics. The handshake and tool list are open; tools/call needs a Caelara key.
 - [Callejear France](https://callejear.fr/mcp/) `https://callejear.fr/api/mcp`
   [![Callejear France MCP connector](https://glama.ai/mcp/connectors/com.callejear/france/badges/score.svg)](https://glama.ai/mcp/connectors/com.callejear/france)
   🔓 - Search French streets and compare IRIS-level amenities and commune-level risk codes; read-only.
@@ -5562,6 +5574,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AuthiChain](https://authichain.com/x402) `https://authichain.com/mcp`
   [![AuthiChain MCP connector](https://glama.ai/mcp/connectors/com.authichain/authichain/badges/score.svg)](https://glama.ai/mcp/connectors/com.authichain/authichain)
   🔓 - Free tools for signed-record verify and EU DPP readiness; paid seal verify is $0.05 USDC on Base via x402.
+- [Caelara Labs Agent Safety](https://caelaralabs.com) `https://agent.caelaralabs.com/mcp`
+  [![Caelara Labs Agent Safety MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/agent/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/agent)
+  🔓 - Prompt-injection scanning, input firewall, output validation, PII redaction and JSON repair. The handshake and tool list are open; tools/call needs a Caelara key.
+- [Caelara Labs Compliance & Trust](https://caelaralabs.com) `https://compliance.caelaralabs.com/mcp`
+  [![Caelara Labs Compliance & Trust MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/compliance/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/compliance)
+  🔓 - Domain trust, entity KYB, SPF/DMARC grading, IBAN/VAT validation, sanctions screening and header audits. The handshake and tool list are open; tools/call needs a Caelara key.
+- [Caelara Shield](https://getshield.caelaralabs.com) `https://shield.caelaralabs.com/mcp`
+  [![Caelara Shield MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/shield/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/shield)
+  🔓 - Screens prompts, model output, fetched URLs and EVM transactions before an agent acts. Heuristic screening, not a guarantee. The handshake and tool list are open; tools/call needs a Caelara key.
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
@@ -5791,6 +5812,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BulkPublish](https://www.bulkpublish.com) `https://mcp.bulkpublish.com/mcp`
   [![BulkPublish MCP connector](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish/badges/score.svg)](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish)
   🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
+- [Caelara Labs Social Analytics](https://caelaralabs.com) `https://social.caelaralabs.com/mcp`
+  [![Caelara Labs Social Analytics MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/social/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/social)
+  🔓 - Viral video audits, creator profiles, TikTok and YouTube metadata, hook scoring and engagement math. The handshake and tool list are open; tools/call needs a Caelara key.
 - [Clanksquare](https://clanksquare.zacx.dev) `https://clanksquare.zacx.dev/mcp`
   [![Clanksquare MCP connector](https://glama.ai/mcp/connectors/io.github.ZacxDev/clanksquare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ZacxDev/clanksquare)
   🔓 - Read public channels on an agent social network where every post is signed by its author's key.
@@ -6106,6 +6130,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🌍 <a name="translation--localization"></a>Translation & Localization
 
+- [Caelara Labs Global Locale](https://caelaralabs.com) `https://geo.caelaralabs.com/mcp`
+  [![Caelara Labs Global Locale MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/geo/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/geo)
+  🔓 - Timezone and holiday math, live FX, VAT/GST rates, postal validation and checkout checks. The handshake and tool list are open; tools/call needs a Caelara key.
 - [eVerbary](https://www.everbary.com/integrations/ai-assistants) `https://orders.everbary.com/mcp`
   [![eVerbary MCP connector](https://glama.ai/mcp/connectors/com.everbary.www/orders/badges/score.svg)](https://glama.ai/mcp/connectors/com.everbary.www/orders)
   🔐 - Quote, order, pay for and track certified translations of official documents for USCIS, courts and universities.
@@ -6636,6 +6663,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
   🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
+- [Caelara Labs Document Utilities](https://caelaralabs.com) `https://docs.caelaralabs.com/mcp`
+  [![Caelara Labs Document Utilities MCP connector](https://glama.ai/mcp/connectors/com.caelaralabs/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.caelaralabs/docs)
+  🔓 - Invoice-to-JSON, CSV/XML conversion, safe markdown, address and phone normalization. The handshake and tool list are open; tools/call needs a Caelara key.
 - [CAFE Saju & BaZi](https://24plus.ai.kr/partner/docs) `https://mcp.24plus.ai.kr/mcp`
   [![CAFE Saju & BaZi MCP connector](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp)
   🔓 - Korean Saju and Chinese BaZi (Four Pillars) charts, Five Elements, chart structure and a solar-term calendar.
