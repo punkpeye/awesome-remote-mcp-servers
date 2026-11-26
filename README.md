@@ -2979,9 +2979,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
   🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
+
+- [VeriApi.Pro](https://veriapi.pro/yapay-zeka) `https://api.veriapi.pro/v1/mcp`
+  [![VeriApi.Pro MCP connector](https://glama.ai/mcp/connectors/io.github.veriapipro/veriapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.veriapipro/veriapi)
+  🔓 - Turkey data: exchange rates, gold, fuel, pharmacies on duty, prayer times, weather, quakes. Free API key for calls.
+
 - [Veridion](https://www.veridionmarkets.com/data-api) `https://www.veridionmarkets.com/api/mcp`
   [![Veridion MCP connector](https://glama.ai/mcp/connectors/com.veridionmarkets/disclosures/badges/score.svg)](https://glama.ai/mcp/connectors/com.veridionmarkets/disclosures)
   🔓 - Search US congressional STOCK Act trades and the President's OGE filings, each row linked to its official filing.
+
 - [Vérif Entreprise FR](https://api-production-24833.up.railway.app) `https://api-production-24833.up.railway.app/mcp`
   [![Vérif Entreprise FR MCP connector](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.api-production-24833/verif-entreprise-fr)
   🔓 - Verify French companies by SIREN: legal status, BODACC insolvency proceedings and RGE certifications, paid via x402.
