@@ -5998,6 +5998,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [EventCompletion](https://eventcompletion.com/agents) `https://eventcompletion.com/mcp`
+  [![EventCompletion MCP connector](https://glama.ai/mcp/connectors/com.eventcompletion/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.eventcompletion/events)
+  🔓 - Source-verified dates and live progress for sports events, festivals and French school holidays.
 - [FootballGPT](https://footballgpt.co/chatgpt) `https://footballgpt.co/api/mcp/stream`
   [![FootballGPT MCP connector](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt)
   🔐 - Football coaching advice, session plans and animated practices, using your FootballGPT coaching profile.
