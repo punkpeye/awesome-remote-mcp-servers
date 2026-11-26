@@ -4502,6 +4502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PopNow](https://popnow.ai/mcp) `https://api.popnow.ai/mcp`
   [![PopNow MCP connector](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp)
   🔐 - Generate images, videos, music and speech, apply video effects and upscale, with a credit quote before each run.
+- [PyAI Voice AI](https://pyai.com/mcp) `https://api.pyai.com/mcp`
+  [![PyAI Voice AI MCP connector](https://glama.ai/mcp/connectors/io.github.atomsai/pyai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atomsai/pyai)
+  🔓 - Browse tools before sign-in; use OAuth to transcribe recordings, generate speech and build website voice assistants.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
   [![Qencode MCP connector](https://glama.ai/mcp/connectors/com.qencode/qencode/badges/score.svg)](https://glama.ai/mcp/connectors/com.qencode/qencode)
   🔐 - Transcode video to HLS/MP4, monitor jobs, and manage Qencode Media Storage.
