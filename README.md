@@ -1769,6 +1769,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Artemis pour pharmacies](https://sydera.ai/artemis) `https://artemis.sydera.ai/mcp`
   [![Artemis pour pharmacies MCP connector](https://glama.ai/mcp/connectors/ai.sydera/artemis/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sydera/artemis)
   🔐 - Read-only access to a French pharmacy's own sales, stock and margins, by product and month. No patient data.
+- [Authorized Shop Finder](https://www.authorized.by/en/mcp-server/) `https://app.authorized.by/api/public/mcp`
+  [![Authorized Shop Finder MCP connector](https://glama.ai/mcp/connectors/by.authorized/brands/badges/score.svg)](https://glama.ai/mcp/connectors/by.authorized/brands)
+  🔓 - Find a brand's authorized online retailers and verify whether a shop is authorized to sell it.
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
