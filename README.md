@@ -871,6 +871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
+- [Emailit](https://emailit.com/docs/mcp/) `https://api.emailit.com/mcp`
+  [![Emailit MCP connector](https://glama.ai/mcp/connectors/com.emailit/emailit/badges/score.svg)](https://glama.ai/mcp/connectors/com.emailit/emailit)
+  🔐 - Send transactional email, run campaigns and automations, manage contacts and domains, and fix deliverability.
 - [Emitd](https://emitd.com) `https://mcp.emitd.com/mcp`
   [![Emitd MCP connector](https://glama.ai/mcp/connectors/com.emitd/emitd/badges/score.svg)](https://glama.ai/mcp/connectors/com.emitd/emitd)
   🔓 - Transactional email, message activity, templates, contacts, automations, and inbound mail for AI agents.
