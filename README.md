@@ -4124,6 +4124,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
+- [RZLT](https://www.rzlt.io) `https://mcp.rzlt.io/mcp`
+  [![RZLT MCP connector](https://glama.ai/mcp/connectors/io.rzlt/connector/badges/score.svg)](https://glama.ai/mcp/connectors/io.rzlt/connector)
+  🔓 - Ask RZLT, an AI-native growth agency: services, case studies, 280+ articles, a free website AI-readiness check, a fit check, booking and messages.
 - [SaaSCity](https://saascity.io/mcp) `https://saascity.io/api/mcp`
   [![SaaSCity MCP connector](https://glama.ai/mcp/connectors/io.saascity/saascity/badges/score.svg)](https://glama.ai/mcp/connectors/io.saascity/saascity)
   🔓 - Audit a homepage before launch, pick launch directories by DR, link type and price, and list on SaaSCity.
