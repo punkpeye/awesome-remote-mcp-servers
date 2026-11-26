@@ -5913,6 +5913,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Scrape public social media profiles, posts, comments and transcripts, live on every request.
+- [SocialCrawl](https://socialcrawl.dev) `https://mcp.socialcrawl.dev/mcp`
+  [![SocialCrawl MCP connector](https://glama.ai/mcp/connectors/io.github.RidioDevelopment/socialcrawl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.RidioDevelopment/socialcrawl)
+  🔑 - Reads public profiles, posts, comments, reviews, products and search results from 95 platforms through 802 endpoints, with the credit cost quoted before each call.
 - [SocialDataX Hongguo](https://socialdatax.com/ai?from=awesome-remote-punkpeye) `https://mcp.socialdatax.com/hongguo/mcp`
   [![SocialDataX Hongguo MCP connector](https://glama.ai/mcp/connectors/com.socialdatax/hongguo/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialdatax/hongguo)
   🔓 - Hongguo drama search, episodes, reviews, comments and downloads. Anonymous discovery; business calls need an API key.
