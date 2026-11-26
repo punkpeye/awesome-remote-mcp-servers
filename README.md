@@ -1820,6 +1820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ESEO](https://eseo.su/developers) `https://eseo.su/api/mcp`
   [![ESEO MCP connector](https://glama.ai/mcp/connectors/su.eseo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/su.eseo/mcp)
   🔓 - SEO score, limits check and AI generation of product cards for Wildberries, Ozon and Yandex Market.
+- [EverBee Research](https://dev.everbee.io/docs/research-mcp) `https://research-mcp.everbee.com/mcp`
+  [![EverBee Research MCP connector](https://glama.ai/mcp/connectors/com.everbee/research/badges/score.svg)](https://glama.ai/mcp/connectors/com.everbee/research)
+  🔐 - Etsy market research: listing, shop and keyword analytics, niches, bestsellers and profit estimates.
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
