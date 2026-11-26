@@ -4475,6 +4475,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Animate old family photos and ancestor portraits into short lifelike videos.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
+- [JustTranscribe](https://justtranscribe.ai/mcp) `https://justtranscribe.ai/api/mcp`
+  [![JustTranscribe MCP connector](https://glama.ai/mcp/connectors/io.github.bramontiventures/justtranscribe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bramontiventures/justtranscribe-mcp)
+  🔐 - Transcribe YouTube, TikTok and Instagram videos or audio links into timestamped text with speaker labels.
 - [Kelpo](https://kelpo.app) `https://kelpo.app/api/mcp`
   [![Kelpo MCP connector](https://glama.ai/mcp/connectors/app.kelpo/kelpo/badges/score.svg)](https://glama.ai/mcp/connectors/app.kelpo/kelpo)
   🔐 - Create vertical UGC-style videos with AI actors or your own photo and voice, with automatic Shorts-style editing.
