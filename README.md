@@ -503,7 +503,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Renders gradient backgrounds with real grain, pixel and dither finishes; free previews, a key only for sized exports.
 - [IconSaga](https://iconsaga.com/) `https://iconsaga.com/mcp`
   [![IconSaga MCP connector](https://glama.ai/mcp/connectors/com.iconsaga/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.iconsaga/icons)
-  🔓 - Search 5,511 pictogram icons in line, solid and duo styles, in 10 languages, and get them in your colors.
+  🔓 - Search 5,527 pictogram icons in line, solid and duo styles, in 10 languages, and get them in your colors.
 - [Illos](https://illos.dev) `https://illos.dev/mcp`
   [![Illos MCP connector](https://glama.ai/mcp/connectors/dev.illos/illos/badges/score.svg)](https://glama.ai/mcp/connectors/dev.illos/illos)
   🔓 - Find animated SVG illustrations by topic in four themes, light and dark, and get the SVG or install steps.
