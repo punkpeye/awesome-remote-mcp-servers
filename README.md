@@ -1202,6 +1202,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ngx-json-render UI](https://ngx-json-render.vercel.app) `https://ngx-json-render.vercel.app/mcp`
   [![ngx-json-render UI MCP connector](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shteynu/ngx-json-render-ui)
   🔓 - Renders dashboards, forms and tables as Angular Material components inline in the chat (MCP App).
+- [Platemark](https://platemark.rowhousesoftware.com) `https://platemark.rowhousesoftware.com/mcp`
+  [![Platemark MCP connector](https://glama.ai/mcp/connectors/com.rowhousesoftware/platemark/badges/score.svg)](https://glama.ai/mcp/connectors/com.rowhousesoftware/platemark)
+  🔑 - Chart PNGs from numbers, invoice and receipt PDFs with exact totals, template images and short videos.
 - [rows.page](https://rows.page) `https://rows.page/mcp`
   [![rows.page MCP connector](https://glama.ai/mcp/connectors/page.rows/rows/badges/score.svg)](https://glama.ai/mcp/connectors/page.rows/rows)
   🔓 - Push CSV, JSON or Parquet from an agent and get a link a human can explore with filters, SQL and charts.
