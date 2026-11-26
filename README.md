@@ -3252,6 +3252,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
+- [GLP1Prices.co](https://github.com/founden-bot/glp1-price-index) `https://glp1prices.co/api/mcp`
+  [![GLP1Prices.co MCP connector](https://glama.ai/mcp/connectors/co.glp1prices/glp1-price-index/badges/score.svg)](https://glama.ai/mcp/connectors/co.glp1prices/glp1-price-index)
+  🔓 - Daily US cash prices of tirzepatide and semaglutide by provider, compounded and brand, each with its source page and date.
 - [JustGains](https://justgains.com) `https://justgains.com/connect/mcp`
   [![JustGains MCP connector](https://glama.ai/mcp/connectors/com.justgains/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.justgains/mcp-server)
   🔐 - Your workouts, lift history and food diary: build and save workouts, check progress, and log meals and bodyweight.
