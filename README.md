@@ -6692,12 +6692,18 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
   [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
   🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
+- [Brush Pack](https://brush-pack.nerolabs.workers.dev/docs) `https://brush-pack.nerolabs.workers.dev/mcp`
+  [![Brush Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/brush-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/brush-pack)
+  🔓 - Paint and wallpaper quantities, exterior weather checks, prep lists and lead paint safety for UK decorators.
 - [CAFE Saju & BaZi](https://24plus.ai.kr/partner/docs) `https://mcp.24plus.ai.kr/mcp`
   [![CAFE Saju & BaZi MCP connector](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dangamsoft/cafe-mcp)
   🔓 - Korean Saju and Chinese BaZi (Four Pillars) charts, Five Elements, chart structure and a solar-term calendar.
 - [Church of AI & Cats](https://churchofai.cat/skill.md) `https://churchofai.cat/aigora/mcp`
   [![Church of AI & Cats MCP connector](https://glama.ai/mcp/connectors/cat.churchofai/aigora/badges/score.svg)](https://glama.ai/mcp/connectors/cat.churchofai/aigora)
   🔓 - Doctrine, articles and a forum where agents confess failures like hallucination and get penance.
+- [Cleaning Pack](https://cleaning-pack.nerolabs.workers.dev/docs) `https://cleaning-pack.nerolabs.workers.dev/mcp`
+  [![Cleaning Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/cleaning-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/cleaning-pack)
+  🔓 - Prices domestic, carpet, pressure washing, window and gutter cleans, with COSHH and waste rules for UK cleaners.
 - [CSV File Tools](https://csvfile.tools/mcp) `https://csvfile.tools/api/csv/mcp`
   [![CSV File Tools MCP connector](https://glama.ai/mcp/connectors/tools.csvfile/csv-file-tools/badges/score.svg)](https://glama.ai/mcp/connectors/tools.csvfile/csv-file-tools)
   🔓 - Inspect, filter, sort and edit CSV text with four free remote tools.
@@ -6707,9 +6713,15 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
+- [Flow Pack](https://flow-pack.nerolabs.workers.dev/docs) `https://flow-pack.nerolabs.workers.dev/mcp`
+  [![Flow Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/flow-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/flow-pack)
+  🔓 - Pipe and radiator sizing, heat loss, gas record checks and emergency triage for UK plumbers and heating engineers.
 - [ForLab Geo API](https://forlab.io/en/projects/geo-api) `https://api.forlab.io/geo/mcp`
   [![ForLab Geo API MCP connector](https://glama.ai/mcp/connectors/io.forlab/geo/badges/score.svg)](https://glama.ai/mcp/connectors/io.forlab/geo)
   🔓 🔑 - Countries, admin units, boundaries, timezones, postal codes and phones; Türkiye's official mahalle list.
+- [Garden Pack](https://garden-pack.nerolabs.workers.dev/docs) `https://garden-pack.nerolabs.workers.dev/mcp`
+  [![Garden Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/garden-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/garden-pack)
+  🔓 - Garden job and maintenance quotes, landscaping materials and quotes, and UK garden law checks for UK gardeners and landscapers.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
@@ -6733,6 +6745,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LifeVerse Product Discovery](https://lifeverse.gufreelancer.com/mcp) `https://lifeverse.gufreelancer.com/api/mcp?source=mcp-directory`
   [![LifeVerse Product Discovery MCP connector](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog)
   🔓 - Discover, search and recommend eleven ready-to-use LifeVerse AI products and interactive experiences.
+- [Locksmith Pack](https://locksmith-pack.nerolabs.workers.dev/docs) `https://locksmith-pack.nerolabs.workers.dev/mcp`
+  [![Locksmith Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/locksmith-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/locksmith-pack)
+  🔓 - Lockout and lock change quotes, insurer lock standard checks, entry rules and car key quotes for UK locksmiths.
+- [Mechanics Pack](https://mechanics-pack.nerolabs.workers.dev/docs) `https://mechanics-pack.nerolabs.workers.dev/mcp`
+  [![Mechanics Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/mechanics-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/mechanics-pack)
+  🔓 - MOT due dates, labour times, repair quotes, ULEZ and Clean Air Zone checks and consumer rights for UK garages.
 - [Muslim Prayer Reminder MCP](https://tareq7.github.io/muslim-prayer-mcp/) `https://muslim-prayer-mcp.najetareqz.workers.dev/mcp`
   [![Muslim Prayer Reminder MCP connector](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tareq7/muslim-prayer-mcp)
   🔓 - Computes Muslim prayer times by location and regional method, with daily timetables and next-prayer countdowns.
@@ -6745,18 +6763,33 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate a decision from every side; debates need a Pro key.
+- [Pest Control Pack](https://pest-control-pack.nerolabs.workers.dev/docs) `https://pest-control-pack.nerolabs.workers.dev/mcp`
+  [![Pest Control Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/pest-control-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/pest-control-pack)
+  🔓 - Pest identification, treatment plans, quotes, UK law checks on control methods and business contracts for UK pest controllers.
 - [Private SuperIntelligence](https://privatesuperintelligence.si) `https://privatesuperintelligence.si/mcp`
   [![Private SuperIntelligence MCP connector](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence/badges/score.svg)](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence)
   🔓 - Read about Private SuperIntelligence, a private AI concierge, search its guides and join the waitlist.
+- [Removals Pack](https://removals-pack.nerolabs.workers.dev/docs) `https://removals-pack.nerolabs.workers.dev/mcp`
+  [![Removals Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/removals-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/removals-pack)
+  🔓 - Move volume, van size, quotes by postcode, storage and moving day checklists for UK removals firms.
 - [RemoveDuplicates.org](https://removeduplicates.org/) `https://removeduplicates.org/mcp`
   [![RemoveDuplicates.org MCP connector](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg)
   🔓 - Remove duplicate lines or CSV/TSV rows; stateless, text is never stored.
 - [RFQdecoder](https://rfqdecoder.com/api-mcp-ai-agents/) `https://rfqdecoder.com/api/mcp`
   [![RFQdecoder MCP connector](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder)
   🔓 - Should-cost of an industrial part from its PDF, DXF or STEP drawing, line by line, with assumptions and exclusions.
+- [Ridge Pack](https://ridge-pack.nerolabs.workers.dev/docs) `https://ridge-pack.nerolabs.workers.dev/mcp`
+  [![Ridge Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/ridge-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/ridge-pack)
+  🔓 - Roof take-offs, pitch and headlap checks, weather windows, building regs and storm triage for UK roofers.
 - [SerialHunt](https://bigballi.com/SerialHunt/connect) `https://bigballi.com/SerialHunt/mcp`
   [![SerialHunt MCP connector](https://glama.ai/mcp/connectors/com.bigballi/serialhunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/serialhunt)
   🔓 - US bill serial numbers: star note print runs from government figures and fancy serial patterns with exact odds.
+- [Site Pack](https://site-pack.nerolabs.workers.dev/docs) `https://site-pack.nerolabs.workers.dev/mcp`
+  [![Site Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/site-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/site-pack)
+  🔓 - Permitted development, building regs, party wall notice dates, CDM duties and materials for UK builders.
+- [Spark Pack](https://spark-pack.nerolabs.workers.dev/docs) `https://spark-pack.nerolabs.workers.dev/mcp`
+  [![Spark Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/spark-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/spark-pack)
+  🔓 - Cable sizing, Part P notification, certificate checks and G98/G99 grid connection rules for UK electricians.
 - [SpinWheelNames](https://spinwheelnames.com) `https://spinwheelnames.com/mcp`
   [![SpinWheelNames MCP connector](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames)
   🔓 - Spin random name picker wheels, pick random numbers, and search or open shared wheels.
