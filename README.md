@@ -5398,6 +5398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Openpath](https://openpath.sh) `https://openpath.sh/mcp/search`
   [![Openpath MCP connector](https://glama.ai/mcp/connectors/sh.openpath/openpath/badges/score.svg)](https://glama.ai/mcp/connectors/sh.openpath/openpath)
   🔓 - Live jobs (Austin, TX and remote) and Austin-area local businesses, each with an Apply link or an Openpath inbox.
+- [Outscraper](https://mcp.outscraper.com/) `https://api.outscraper.com/mcp`
+  [![Outscraper MCP connector](https://glama.ai/mcp/connectors/com.outscraper.api/outscraper-mcp-google-maps-and-business-data-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/com.outscraper.api/outscraper-mcp-google-maps-and-business-data-intelligence)
+  🔓 🔐 - Business search, Google Maps scraping, and enrichment; public discovery, OAuth required for tool calls.
 - [PageWire](https://pagewire.dev) `https://pagewire.dev/mcp`
   [![PageWire MCP connector](https://glama.ai/mcp/connectors/dev.pagewire/web/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pagewire/web)
   🔓 - Read any public page as clean Markdown, page metadata, or a page plus 4 same-site pages; USDC per call via x402.
