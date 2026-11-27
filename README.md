@@ -5080,6 +5080,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oliver's mTOR Atlas](https://mtor-atlas.org/api/#mcp) `https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp`
   [![Oliver's mTOR Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas)
   🔓 - Curated mTOR research: evidence-labelled studies, pathway claims with supporting/conflicting studies, open questions.
+  - [OpenLandscape](https://openlandscape.app/connect) `https://openlandscape.app/mcp`
+  [![OpenLandscape MCP connector](https://glama.ai/mcp/connectors/io.github.theopenlabs/openlandscape/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theopenlabs/openlandscape)
+  🔐 - Drug pipelines by disease from public trial registries and regulators: every drug, trial and readout with its source.
 - [Papers by Ouroboros](https://ouroborosapps.com/docs/papers) `https://papers-mcp.vercel.app/mcp`
   [![Papers by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers)
   🔓 - Research paper search with citations from OpenAlex, Semantic Scholar, PubMed, Crossref and arXiv.
