@@ -6103,6 +6103,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
+- [uanalyse](https://uanalyse.co.uk/ai) `https://uanalyse.co.uk/mcp`
+  [![uanalyse MCP connector](https://glama.ai/mcp/connectors/uk.co.uanalyse/football/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.uanalyse/football)
+  🔓 - Model probabilities for football matches: result, both teams to score, goals, corners and season outlooks.
 - [WCS Points](https://wcspoints.com) `https://wcspoints.com/mcp`
   [![WCS Points MCP connector](https://glama.ai/mcp/connectors/com.wcspoints/wsdc-points/badges/score.svg)](https://glama.ai/mcp/connectors/com.wcspoints/wsdc-points)
   🔓 - West Coast Swing WSDC points registry: dancer divisions, points, results, finals partners and the rules.
