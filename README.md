@@ -5900,6 +5900,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nuntior](https://nuntior.com) `https://mcp.nuntior.com/mcp`
   [![Nuntior MCP connector](https://glama.ai/mcp/connectors/com.nuntior.mcp/nuntior/badges/score.svg)](https://glama.ai/mcp/connectors/com.nuntior.mcp/nuntior)
   🔓 - Publish, schedule and analyze posts, blogs, ads and SMS across 18+ networks; tools use an API key.
+- [Octopost](https://octopost.ink/docs/mcp) `https://octopost.ink/mcp`
+  [![Octopost MCP connector](https://glama.ai/mcp/connectors/ink.octopost/octopost/badges/score.svg)](https://glama.ai/mcp/connectors/ink.octopost/octopost)
+  🔐 🔑 - Post, schedule, queue and thread posts on X, with a human approval queue before anything goes out.
 - [oganvil](https://oganvil.rowu.workers.dev) `https://oganvil.rowu.workers.dev/mcp`
   [![oganvil MCP connector](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.rowu.oganvil/og-image-api)
   🔓 - Generate 1200x630 OG images as PNG or SVG from a title and tagline; free tier.
