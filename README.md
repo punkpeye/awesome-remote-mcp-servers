@@ -3463,6 +3463,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [knowsme](https://knowsme.dev) `https://mcp.knowsme.dev/mcp`
   [![knowsme MCP connector](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme/badges/score.svg)](https://glama.ai/mcp/connectors/dev.knowsme.mcp/knowsme)
   🔐 - One memory for you and your AI agents: your notes, rules and projects follow you across machines, AI apps and agents.
+- [Little Mapper](https://littlemapper.com) `https://littlemapper.com/mcp`
+  [![Little Mapper MCP connector](https://glama.ai/mcp/connectors/com.littlemapper/little-mapper/badges/score.svg)](https://glama.ai/mcp/connectors/com.littlemapper/little-mapper)
+  🔐 - Shared memory for company work: tasks, projects and handoffs a colleague can pick up in their own assistant. Free.
 - [Lochless](https://lochless.io) `https://api.lochless.io/mcp`
   [![Lochless MCP connector](https://glama.ai/mcp/connectors/io.lochless/lochless/badges/score.svg)](https://glama.ai/mcp/connectors/io.lochless/lochless)
   🔐 - Every match, not the top 10: searches your documents and returns each relevant one, with quotes.
