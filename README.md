@@ -5214,6 +5214,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CareJobs.Now](https://carejobs.now/data) `https://carejobs.now/api/mcp`
   [![CareJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs)
   🔓 - Search 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each one posts.
+- [ChinaPulse](https://pulse.cnpulse.cn) `https://pulse.cnpulse.cn/mcp`
+  [![ChinaPulse MCP connector](https://glama.ai/mcp/connectors/cn.cnpulse.pulse/china-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/cn.cnpulse.pulse/china-pulse)
+  🔓 - Real-time bilingual Chinese tech, finance, dev, and trending news intelligence with AI sentiment scoring.
 - [cityon.pl](https://cityon.pl/mcp) `https://cityon.pl/mcp`
   [![cityon.pl MCP connector](https://glama.ai/mcp/connectors/pl.cityon/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/pl.cityon/mcp)
   🔓 - Polish local businesses, opening hours, real estate listings and transaction prices from cityon.pl.
