@@ -5868,6 +5868,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hive Publish](https://hivepublish.com) `https://hivepublish.com/api/mcp`
   [![Hive Publish MCP connector](https://glama.ai/mcp/connectors/com.hivepublish/hive/badges/score.svg)](https://glama.ai/mcp/connectors/com.hivepublish/hive)
   🔐 - Plan content, save drafts, schedule posts and review analytics for the connected Hive workspace.
+- [Hype Studio](https://hypestudio.ai/en/ai-social-media-manager) `https://hypestudio.ai/api/video-studio/mcp`
+  [![Hype Studio MCP connector](https://glama.ai/mcp/connectors/ai.hypestudio/video-studio/badges/score.svg)](https://glama.ai/mcp/connectors/ai.hypestudio/video-studio)
+  🔐 - Make faceless short-video series and carousels, then schedule and post them to TikTok, Instagram and YouTube.
 - [HypeFox](https://hypefox.app/?ref=awesome-remote-mcp) `https://mcp.hypefox.app/mcp`
   [![HypeFox MCP connector](https://glama.ai/mcp/connectors/app.hypefox/hypefox/badges/score.svg)](https://glama.ai/mcp/connectors/app.hypefox/hypefox)
   🔐 - Makes and posts Shorts, Reels and TikToks on autopilot, with or without your face, and drafts comment replies.
