@@ -1396,6 +1396,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fixlight](https://fixlight.fernwaylabs.com/) `https://fixlight.fernwaylabs.com/mcp`
   [![Fixlight MCP connector](https://glama.ai/mcp/connectors/io.github.fernwaylabs/fixlight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fernwaylabs/fixlight)
   🔓 - Checks a public web page for accessibility problems and explains each one in plain English.
+- [FMF Tools AI](https://mpp-ai.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://mpp-ai.fmf-x402.workers.dev/mcp`
+  [![FMF Tools AI MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/fmf-ai/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/fmf-ai)
+  🔓 - Pay-per-call embeddings, sentiment, classify, summarize, PII, chat, translate and rerank.
+- [FMF Tools Utilities](https://mpp-tools.fmf-x402.workers.dev/go/awesome-remote-mcp) `https://mpp-tools.fmf-x402.workers.dev/mcp`
+  [![FMF Tools Utilities MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/fmf-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/fmf-tools)
+  🔓 - Pay-per-call DNS, WHOIS/RDAP, SSL, HTTP headers, IP/ASN, data diffs and IP lookup.
 - [Footgun](https://getfootgun.com) `https://getfootgun.com/api/mcp`
   [![Footgun MCP connector](https://glama.ai/mcp/connectors/com.getfootgun/footgun/badges/score.svg)](https://glama.ai/mcp/connectors/com.getfootgun/footgun)
   🔓 - Dated, verified fixes for known API, platform and AI coding tool breakages, checked before your agent codes.
