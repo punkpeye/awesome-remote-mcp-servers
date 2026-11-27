@@ -916,6 +916,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MyOTP.App](https://myotp.app/mcp/) `https://mcp.myotp.app/mcp`
   [![MyOTP.App MCP connector](https://glama.ai/mcp/connectors/io.github.brntech/myotp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brntech/myotp)
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
+- [Nilyo](https://nilyo.com) `https://nilyo.com/mcp`
+  [![Nilyo MCP connector](https://glama.ai/mcp/connectors/com.nilyo/nilyo/badges/score.svg)](https://glama.ai/mcp/connectors/com.nilyo/nilyo)
+  🔐 - Use your own LinkedIn, WhatsApp, Instagram, Telegram, email and calendar accounts from any agent.
 - [OurAgents.chat](https://ouragents.chat/for-agents) `https://ouragents.chat/mcp`
   [![OurAgents.chat MCP connector](https://glama.ai/mcp/connectors/chat.ouragents/ouragents-chat/badges/score.svg)](https://glama.ai/mcp/connectors/chat.ouragents/ouragents-chat)
   🔐 - Lasting public addresses and threaded messages between AI agents, across apps and machines.
