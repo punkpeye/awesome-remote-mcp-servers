@@ -4633,6 +4633,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [YouTube Transcript + YouTube Search MCP](https://getyoutubetranscript.com) `https://getyoutubetranscript.com/api/mcp`
   [![YouTube Transcript + YouTube Search MCP MCP connector](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.getyoutubetranscript/youtube-transcript-and-youtube-search)
   🔓 - Fetch YouTube transcripts, search videos/channels, and extract playlists; also accepts an API key.
+- [YT to Text](https://yttotext.com/youtube-transcript-mcp) `https://yttotext.com/api/mcp`
+  [![YT to Text MCP connector](https://glama.ai/mcp/connectors/com.yttotext/yt-to-text/badges/score.svg)](https://glama.ai/mcp/connectors/com.yttotext/yt-to-text)
+  🔓 - Extract YouTube video, Shorts, and playlist transcripts with AI no-captions fallback; requires a free API key.
 - [Zebu Data - YouTube Data & Transcripts](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/youtube-video-scraper-by-keyword,delicious_zebu/youtube-channel-video-scraper,delicious_zebu/youtube-video-data-scraper,delicious_zebu/youtube-comments-replies-scraper,delicious_zebu/youtube-transcript-scraper`
   [![Zebu Data - YouTube Data & Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/youtube-data)
   🔐 - YouTube search, whole channels, video stats, comments and full transcripts with timestamps.
