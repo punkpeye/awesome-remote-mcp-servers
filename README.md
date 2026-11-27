@@ -2356,6 +2356,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Buzzberg](https://buzzberg.ai/mcp) `https://mcp.buzzberg.ai/mcp`
   [![Buzzberg MCP connector](https://glama.ai/mcp/connectors/ai.buzzberg/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.buzzberg/mcp)
   🔐 - Trade ideas, author track records and sentiment from X, YouTube, Reddit and Substack, plus earnings calls and 13F.
+- [ByKaranteli](https://bykaranteli.com/developers) `https://mcp.bykaranteli.com`
+  [![ByKaranteli MCP connector](https://glama.ai/mcp/connectors/com.bykaranteli/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.bykaranteli/mcp)
+  🔐 - Crypto derivatives data: funding rates, open interest, liquidations, options, ETF flows and CFTC COT positioning.
 - [CalcBright](https://calcbright.com/developers) `https://calcbright.com/mcp`
   [![CalcBright MCP connector](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright)
   🔓 - 100+ calculators: mortgage, take-home pay, sales tax/VAT, BMI, dates, units, live currency and gold prices.
