@@ -2855,6 +2855,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Silicon Floor](https://siliconfloor.com/docs/mcp) `https://siliconfloor.com/mcp`
   [![Silicon Floor MCP connector](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor/badges/score.svg)](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
   🔓 - Follow the smart money in AI stocks: who owns what, what insiders and hedge funds buy and sell, straight from the SEC.
+- [Sjothr](https://sjothr.xyz) `https://sjothr.xyz/api/mcp`
+  [![Sjothr MCP connector](https://glama.ai/mcp/connectors/io.github.Djangode/sjothr-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Djangode/sjothr-mcp)
+  🔓 - Company tokenization and USDC fundraising: public campaigns, capital raised, deadlines, fee and refund rules.
 - [Skavio USDC Payment Verification & Proof MCP](https://www.skavio.eu/x402/) `https://www.skavio.eu/mcp`
   [![Skavio MCP connector](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis/badges/score.svg)](https://glama.ai/mcp/connectors/eu.skavio/paid-micro-apis)
   🔓 - Native USDC verification, exact payment matching and evidence PDFs; paid calls use Base USDC via x402.
