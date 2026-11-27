@@ -527,6 +527,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MagicScreenshots](https://www.magicscreenshots.com/agents) `https://www.magicscreenshots.com/api/mcp`
   [![MagicScreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/magicscreenshots-mcp)
   🔓 - Search App Store screenshots and preview references; generation and Pro tools require a user key.
+- [MakeItSay](https://makeitsay.com) `https://makeitsay.com/mcp`
+  [![MakeItSay MCP connector](https://glama.ai/mcp/connectors/com.makeitsay/makeitsay/badges/score.svg)](https://glama.ai/mcp/connectors/com.makeitsay/makeitsay)
+  🔑 - Change the words in a screenshot or photo and keep the original font and layout.
 - [MiroMiro](https://miromiro.app/api/mcp) `https://miromiro.app/mcp`
   [![MiroMiro MCP connector](https://glama.ai/mcp/connectors/app.miromiro/miromiro/badges/score.svg)](https://glama.ai/mcp/connectors/app.miromiro/miromiro)
   🔐 - Rebuild any website section as Elementor, Shopify Liquid or Tailwind/React code, plus brand tokens and assets.
