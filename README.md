@@ -6608,6 +6608,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
+- [Screenpipe Cloud](https://screenpipe.com/integrations) `https://screenpipe.com/api/user/data-sync/mcp`
+  [![Screenpipe Cloud MCP connector](https://glama.ai/mcp/connectors/com.screenpipe/screenpipe-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/com.screenpipe/screenpipe-cloud)
+  🔐 - Search synced screen text and meeting transcripts across Screenpipe devices. Requires Data Sync.
 - [seelig.ai booking](https://www.seelig.ai/en/mcp) `https://www.seelig.ai/api/mcp`
   [![seelig.ai booking MCP connector](https://glama.ai/mcp/connectors/io.github.seelig-ai/seelig-ai-booking/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seelig-ai/seelig-ai-booking)
   🔓 - Lists the services of seelig.ai (Switzerland) with prices and requests a free 30-minute first call.
@@ -6807,4 +6810,3 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
-
