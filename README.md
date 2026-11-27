@@ -3314,6 +3314,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Psychologie & Sérénité](https://psychologieetserenite.com/?via=awesome-remote-mcp-servers) `https://psychologieetserenite.com/mcp`
   [![Psychologie & Sérénité MCP connector](https://glama.ai/mcp/connectors/com.psychologieetserenite/catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.psychologieetserenite/catalogue)
   🔓 - Read-only catalogue of psychology tests, books, articles and services, with EUR prices and purchase links (FR/EN).
+- [Remene](https://remene.si/mcp-server) `https://remene.si/mcp` [![Remene MCP connector](https://glama.ai/mcp/connectors/si.remene/remene/badges/score.svg)](https://glama.ai/mcp/connectors/si.remene/remene)
+  🔐 - Your MRI studies and radiologist's report explained in plain language, plus questions to take to your doctor.
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
