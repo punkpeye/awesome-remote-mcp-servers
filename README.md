@@ -862,6 +862,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CallForMe](https://callforme.tel) `https://callforme.tel/mcp`
   [![CallForMe MCP connector](https://glama.ai/mcp/connectors/tel.callforme/callforme/badges/score.svg)](https://glama.ai/mcp/connectors/tel.callforme/callforme)
   🔐 - Have your agent phone a business for quotes, bookings or cancellations and get the transcript and answers back.
+- [Clinko](https://clinko.ai/) `https://clinko.ai/mcp`
+  [![Clinko MCP connector](https://glama.ai/mcp/connectors/ai.clinko/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.clinko/mcp)
+  🔐 - Find people to talk to, send friend requests, and chat with accepted friends from your existing AI agent.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
