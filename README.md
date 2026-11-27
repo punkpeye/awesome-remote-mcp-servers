@@ -3149,6 +3149,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NYCfoodie](https://nycfoodie-production.up.railway.app/) `https://nycfoodie-production.up.railway.app/mcp`
   [![NYCfoodie MCP connector](https://glama.ai/mcp/connectors/app.railway.up.nycfoodie-production/nycfoodie/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.nycfoodie-production/nycfoodie)
   🔓 - Editorial NYC restaurant recommendations: search, compare, guides and ratings.
+- [单县羊汤 · 济南美食指南](https://sdyangtang.com/) `https://mcp.sdyangtang.com/api/mcp`
+  [![单县羊汤 · 济南美食指南 MCP connector](https://glama.ai/mcp/connectors/com.sdyangtang/fengweilou-guide/badges/score.svg)](https://glama.ai/mcp/connectors/com.sdyangtang/fengweilou-guide)
+  🔓 - Read-only guide to Luxinan Fengweilou facts, dishes, stories, search and recommendations in Jinan.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
