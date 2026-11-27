@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Producer](https://platform.acedata.cloud/documents/producer) `https://producer.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Producer MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-producer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-producer)
+  🔐 - Generate songs, lyrics and music videos; extend, cover and export audio.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
