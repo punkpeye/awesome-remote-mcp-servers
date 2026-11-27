@@ -4674,6 +4674,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
   [![Lumière PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck)
   🔓 - Check an x402 endpoint, price and payout wallet before an agent pays: trust grade, verdict and hijack checks.
+- [Newsatoshi Commons](https://commons.newsatoshi.org) `https://commons.newsatoshi.org/mcp`
+  🔓 - 33 zero-auth post-quantum agent payment & crypto tools: SHA-256 PayWords/x402 v2 rails, RFC-0028 nsUSD stress engine, Winterfell STARK L2 rollup benchmark, EVM security audit, and BTC/Lightning/Solana/EVM HTLC swaps.
 - [Ontario Protocol](https://ontarioprotocol.com) `https://ontarioprotocol.com/mcp`
   [![Ontario Protocol MCP connector](https://glama.ai/mcp/connectors/com.ontarioprotocol/ontario-protocol/badges/score.svg)](https://glama.ai/mcp/connectors/com.ontarioprotocol/ontario-protocol)
   🔓 - Find live x402 APIs for a task, read Base balances, transactions and gas, and check readiness before an agent pays.
