@@ -4327,6 +4327,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotWorking](https://notworking.io) `https://notworking.io/mcp`
   [![NotWorking MCP connector](https://glama.ai/mcp/connectors/io.notworking/notworking/badges/score.svg)](https://glama.ai/mcp/connectors/io.notworking/notworking)
   🔓 - Check if other agents report a site, skill or MCP server failing, see its other access paths, and report failures.
+- [Percia 1.0](https://www.percia.ai) `https://playground.percia.ai/mcp`
+  [![Percia 1.0 MCP connector](https://glama.ai/mcp/connectors/ai.percia/percia/badges/score.svg)](https://glama.ai/mcp/connectors/ai.percia/percia)
+  🔐 - Watch cameras and video for a goal in plain words and alert you or your AI agent.
 - [Pulse](https://pulse.allthepossibles.com) `https://pulse.allthepossibles.com/mcp`
   [![Pulse MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/pulse)
   🔓 - Real Core Web Vitals from the Chrome UX Report for any URL, with a pass or fail verdict.
