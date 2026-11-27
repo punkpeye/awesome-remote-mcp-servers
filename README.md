@@ -6719,6 +6719,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ForLab Geo API](https://forlab.io/en/projects/geo-api) `https://api.forlab.io/geo/mcp`
   [![ForLab Geo API MCP connector](https://glama.ai/mcp/connectors/io.forlab/geo/badges/score.svg)](https://glama.ai/mcp/connectors/io.forlab/geo)
   🔓 🔑 - Countries, admin units, boundaries, timezones, postal codes and phones; Türkiye's official mahalle list.
+- [Garden Pack](https://garden-pack.nerolabs.workers.dev/docs) `https://garden-pack.nerolabs.workers.dev/mcp`
+  [![Garden Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/garden-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/garden-pack)
+  🔓 - Garden job and maintenance quotes, landscaping materials and quotes, and UK garden law checks for UK gardeners and landscapers.
 - [GEOMETRY](https://geometry.app) `https://mcp.geometry.app/mcp`
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
