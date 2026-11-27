@@ -5464,6 +5464,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScrapingBot](https://scrapingbot.io/mcp) `https://scrapingbot.io/api/mcp`
   [![ScrapingBot MCP connector](https://glama.ai/mcp/connectors/io.scrapingbot/scrapingbot/badges/score.svg)](https://glama.ai/mcp/connectors/io.scrapingbot/scrapingbot)
   🔓 - Public TikTok, Instagram, Google and Amazon data, page scraping and AI extraction; a free key unlocks the tools.
+- [SEC Insider Trades, Website Contacts & Company Jobs](https://apify.com/il-open-data) `https://mcp.apify.com/?tools=il-open-data/sec-insider-trades,il-open-data/website-contact-enricher,il-open-data/ats-jobs-aggregator`
+  [![SEC Insider Trades, Website Contacts & Company Jobs MCP connector](https://glama.ai/mcp/connectors/io.github.ofirbaranesad-agent/insider-contacts-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ofirbaranesad-agent/insider-contacts-jobs)
+  🔐 - Paid per result: SEC Form 4 insider trades, public contact emails from company sites, and jobs from 3 ATS boards.
 - [SerpKite](https://serpkite.com/docs/mcp) `https://api.serpkite.com/v1/mcp`
   [![SerpKite MCP connector](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SerpKite/serpkite)
   🔐 - Google web, news, maps, scholar and shopping results, plus public webpages as Markdown, for AI agents. OAuth or API key.
