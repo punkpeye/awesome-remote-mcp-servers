@@ -465,6 +465,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BeautySpark](https://beautyspark.me) `https://mcp.beautyspark.me/mcp`
   [![BeautySpark MCP connector](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/me.beautyspark.mcp/beauty-spark-mcp)
   🔓 - Makeup and colour-season guidance sourced from BeautySpark's articles, plus saved looks for signed-in users.
+- [BestSaaSWebDesigns](https://bestsaaswebdesigns.com/mcp) `https://mcp.bestsaaswebdesigns.com/mcp`
+  [![BestSaaSWebDesigns MCP connector](https://glama.ai/mcp/connectors/com.bestsaaswebdesigns/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.bestsaaswebdesigns/catalog)
+  🔓 - Search 400+ real SaaS marketing websites by section, style, stack, palette and font, with live links.
 - [Better Design](https://better-design.com) `https://better-design.com/api/mcp`
   [![Better Design MCP connector](https://glama.ai/mcp/connectors/io.github.marvkr/better-design/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marvkr/better-design)
   🔐 - Design systems, UI and UX principles, icons and UI review for AI coding agents.
