@@ -3083,6 +3083,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ask.recipes](https://ask.recipes) `https://mcp.ask.recipes/mcp`
   [![ask.recipes MCP connector](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes/badges/score.svg)](https://glama.ai/mcp/connectors/recipes.ask/ask-recipes)
   🔐 - Recipe search, ingredient matching, nutrition filters and a private cookbook for any AI agent.
+- [Checkers Sixty60 Shopping](https://sixty.goseamless.co.za) `https://sixty.goseamless.co.za/mcp`
+  [![Checkers Sixty60 Shopping MCP connector](https://glama.ai/mcp/connectors/za.co.goseamless/checkers-sixty60/badges/score.svg)](https://glama.ai/mcp/connectors/za.co.goseamless/checkers-sixty60)
+  🔐 - Unofficial Checkers Sixty60 (South Africa): search groceries and deals, build a cart and check out.
 - [Cork & Curve](https://corkandcurve.com/agents/) `https://corkandcurve.com/mcp`
   [![Cork & Curve MCP connector](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.corkandcurve/wine-travel)
   🔓 - Vineyards, tasting rooms and wine bars in 37 European wine regions, plus festivals and tours.
