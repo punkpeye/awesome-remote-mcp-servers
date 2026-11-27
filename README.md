@@ -1778,6 +1778,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Avahit](https://avahit.com) `https://avahit.com/api/mcp`
   [![Avahit MCP connector](https://glama.ai/mcp/connectors/com.avahit/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.avahit/catalog)
   🔓 - Search products from brand stores with prices re-checked daily, find alternatives and read price history.
+- [Babelii-Diofis](https://babelii.diofis.net) `https://babelii.diofis.net/mcp/commerce/`
+  [![Babelii-Diofis MCP connector](https://glama.ai/mcp/connectors/net.diofis/babelii/badges/score.svg)](https://glama.ai/mcp/connectors/net.diofis/babelii)
+  🔓 - Buy phone credit, data, PLN electricity tokens, bills and e-wallet top-ups in Indonesia; pay by link, no sign-in.
+- [Babelii-Diofis Account](https://babelii.diofis.net) `https://babelii.diofis.net/mcp/account/`
+  [![Babelii-Diofis Account MCP connector](https://glama.ai/mcp/connectors/net.diofis/babelii-account/badges/score.svg)](https://glama.ai/mcp/connectors/net.diofis/babelii-account)
+  🔐 - Pay orders from your Babelii balance, see account history and top up, with limits set by the account owner.
 - [BestPrice](https://www.bestprice.gr/) `https://mcp.bestprice.gr/mcp`
   [![BestPrice MCP connector](https://glama.ai/mcp/connectors/gr.bestprice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/gr.bestprice/mcp)
   🔓 - Search Greek products, compare store offers with shipping and check price history; read-only, no key.
@@ -6118,6 +6124,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Actually Asked](https://actuallyasked.com/mcp) `https://mcp.actuallyasked.com/mcp`
   [![Actually Asked MCP connector](https://glama.ai/mcp/connectors/com.actuallyasked/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.actuallyasked/mcp)
   🔐 - Review what visitors asked on your website, publish FAQ answers written from your own pages, and follow up on leads.
+- [Babelii-Diofis Customer Support](https://babelii.diofis.net) `https://babelii.diofis.net/mcp/support/`
+  [![Babelii-Diofis Customer Support MCP connector](https://glama.ai/mcp/connectors/net.diofis/babelii-support/badges/score.svg)](https://glama.ai/mcp/connectors/net.diofis/babelii-support)
+  🔓 - Official FAQ, order status, product advice and support tickets to staff; cannot place, cancel or refund orders.
 - [Canopy by Copp Oak](https://coppoak.com/canopy/) `https://mcp.coppoak.com/mcp/public`
   [![Canopy by Copp Oak MCP connector](https://glama.ai/mcp/connectors/com.coppoak/canopy/badges/score.svg)](https://glama.ai/mcp/connectors/com.coppoak/canopy)
   🔓 - Book local HVAC and plumbing services: check bookable shops, see live availability, and book, reschedule or cancel.
