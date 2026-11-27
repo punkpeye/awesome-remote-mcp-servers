@@ -1618,6 +1618,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Settlens](https://settlens.com) `https://settlens.com/mcp`
   [![Settlens MCP connector](https://glama.ai/mcp/connectors/com.settlens/settlens/badges/score.svg)](https://glama.ai/mcp/connectors/com.settlens/settlens)
   🔓 - Evaluate x402 V2 payment requirements against spending policies, without signing or sending payments.
+- [Shipfolio](https://shipfolio.io/developers/mcp) `https://api.shipfolio.io/mcp`
+  [![Shipfolio MCP connector](https://glama.ai/mcp/connectors/io.shipfolio/shipfolio/badges/score.svg)](https://glama.ai/mcp/connectors/io.shipfolio/shipfolio)
+  🔐 - Search indie products, tech stacks, launches and Stripe-verified MRR, and edit your own Shipfolio listing.
 - [Show It Works](https://showitworks.app) `https://showitworks.app/api/mcp`
   [![Show It Works MCP connector](https://glama.ai/mcp/connectors/app.showitworks/show-it-works/badges/score.svg)](https://glama.ai/mcp/connectors/app.showitworks/show-it-works)
   🔓 - Public tool discovery; uploading verification videos and sharing viewer links require an API key.
