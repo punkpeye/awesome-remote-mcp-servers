@@ -6704,6 +6704,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dollea Salon](https://www.dollea.de/agents/?language=en) `https://www.dollea.de/mcp/salon`
   [![Dollea Salon MCP connector](https://glama.ai/mcp/connectors/de.dollea/salon/badges/score.svg)](https://glama.ai/mcp/connectors/de.dollea/salon)
   🔓 - Public beauty service catalog and slots in Munich; OAuth for booking and private appointments.
+- [Emergent Consulting & Data Licensing](https://emergenttechnologies.ai) `https://emergenttechnologies.ai/mcp`
+  [![Emergent Consulting & Data Licensing MCP connector](https://glama.ai/mcp/connectors/ai.emergenttechnologies/emergent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.emergenttechnologies/emergent)
+  🔓 - Ask Emergent about AI and automation consulting, and licensing company data to AI labs, with sources.
+- [Emergent Technologies](https://emergent.is) `https://emergent.is/mcp`
+  [![Emergent Technologies MCP connector](https://glama.ai/mcp/connectors/is.emergent/emergent/badges/score.svg)](https://glama.ai/mcp/connectors/is.emergent/emergent)
+  🔓 - An applied AI lab architecting and deploying a trust framework for the emerging internet of agents.
 - [FindingSteel Steel Sections](https://www.findingsteel.com/) `https://www.findingsteel.com/mcp/`
   [![FindingSteel Steel Sections MCP connector](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cdaily1995-create/findingsteel-steel-sections)
   🔓 - Query GB/T steel section properties and calculate theoretical steel weight for 143 Chinese profiles.
