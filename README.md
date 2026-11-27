@@ -474,6 +474,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Canva](https://canva.com) `https://mcp.canva.com/mcp`
   [![Canva MCP connector](https://glama.ai/mcp/connectors/com.canva.mcp/canva/badges/score.svg)](https://glama.ai/mcp/connectors/com.canva.mcp/canva)
   🔐 - Create, edit, and export Canva designs.
+- [Car Background AI](https://carbackground.ai) `https://api.carbackground.ai/mcp`
+  [![Car Background AI MCP connector](https://glama.ai/mcp/connectors/ai.carbackground/carbackground/badges/score.svg)](https://glama.ai/mcp/connectors/ai.carbackground/carbackground)
+  🔓 🔐 - Replace car photo backgrounds, hide license plates and add dealer logos for vehicle listings.
 - [CleanVector](https://cleanvector.ai/mcp) `https://cleanvector.ai/api/mcp`
   [![CleanVector MCP connector](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cleanvector/cleanvector)
   🔓 - Generate SVG artwork and vectorize images; tools need a key.
