@@ -6677,6 +6677,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [acdoyle](https://acdoyle.dev) `https://acdoyle.dev/api/mcp`
   [![acdoyle MCP connector](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.granetb-acdoyle/acdoyle)
   🔓 - Three specialists for problem-solving, non-custodial budget execution and business advice; x402 pay-per-call.
+- [Ace Data Cloud Short URL](https://platform.acedata.cloud/documents/short-url-mcp) `https://shorturl.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Short URL MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-shorturl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-shorturl)
+  🔐 - Create short links with custom slugs, expiry options and batch requests.
 - [API Tool Calls](https://apitoolcalls.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://apitoolcalls.com/mcp`
   [![API Tool Calls MCP connector](https://glama.ai/mcp/connectors/com.apitoolcalls/api-tool-calls/badges/score.svg)](https://glama.ai/mcp/connectors/com.apitoolcalls/api-tool-calls)
   🔓 - API Tool Calls: Home cost planners, proofreading, QR and barcodes, page to Markdown, SEO checks and recalls.
