@@ -1354,6 +1354,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Devutils](https://devutils.bigfloppy.net) `https://devutils.bigfloppy.net/mcp`
   [![Devutils MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.devutils/devutils/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.devutils/devutils)
   🔓 - Free hosted dev toolkit: UUID, hash, base64, JWT decode, CSV→JSON, time and JSON tools as MCP; no signup.
+- [DiffCI](https://diffci.com/mcp-server) `https://diffci.com/mcp/v1`
+  [![DiffCI MCP connector](https://glama.ai/mcp/connectors/io.github.DiffCI/diffci/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DiffCI/diffci)
+  🔓 - Plans affected-test runs, interprets DiffCI reports, and checks GitHub Actions workflows for safe isolation.
 - [Diogenes Context & Solvers](https://diogenesgateway.com/#context-code-solver) `https://diogenesgateway.com/mcp/context-code-solver`
   [![Diogenes Context & Solvers MCP connector](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.corinth.diogenes-micro-gateway/diogenes-context-compression-code-patching-and-deterministic-solver-mcp)
   🔓 - AST skeleton pruner, fuzzy code patcher, BPE token budgeter, and seeded Monte Carlo risk simulator.
