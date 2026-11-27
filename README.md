@@ -492,6 +492,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Director's Lookbook](https://directorslookbook.app) `https://lookbook-mcp.riverroadlabs.workers.dev/mcp`
   [![Director's Lookbook MCP connector](https://glama.ai/mcp/connectors/io.github.qxxx5vyd77-byte/directors-lookbook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qxxx5vyd77-byte/directors-lookbook)
   🔓 - 670+ named visual and music styles: deal a look for a feeling, get paste-ready image, video and Suno prompts.
+- [DIYA](https://diya13.ai) `https://diya13.ai/mcp`
+  [![DIYA MCP connector](https://glama.ai/mcp/connectors/ai.diya13/diya/badges/score.svg)](https://glama.ai/mcp/connectors/ai.diya13/diya)
+  🔓 - Search DIYA's React components, patterns and screens, and get exact props and complete files to paste.
 - [Figma](https://figma.com) `https://mcp.figma.com/mcp`
   [![Figma MCP connector](https://glama.ai/mcp/connectors/com.figma.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.figma.mcp/mcp)
   🔐 - Read Figma files and turn frames and components into code.
