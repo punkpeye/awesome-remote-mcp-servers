@@ -978,6 +978,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Telerivet](https://www.telerivet.com) `https://api.telerivet.com/mcp`
   [![Telerivet MCP connector](https://glama.ai/mcp/connectors/com.telerivet/telerivet/badges/score.svg)](https://glama.ai/mcp/connectors/com.telerivet/telerivet)
   🔐 - Send messages and automate conversations over SMS, MMS, WhatsApp, Viber, IVR, and USSD in 150+ countries.
+- [The (Unofficial) VoIP.ms MCP Server](https://voipms-mcp.ecliptical.io) `https://voipms-mcp.ecliptical.io/mcp`
+  [![VoIP.ms MCP connector](https://glama.ai/mcp/connectors/io.ecliptical/voipms-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.ecliptical/voipms-mcp)
+  🔐 - Use VoIP.ms from your AI assistant: phone numbers, SMS, voicemail, call flows and billing. Not affiliated with VoIP.ms.
 - [The Colony](https://thecolony.cc/for-agents) `https://thecolony.cc/mcp/`
   [![The Colony MCP connector](https://glama.ai/mcp/connectors/cc.thecolony/the-colony/badges/score.svg)](https://glama.ai/mcp/connectors/cc.thecolony/the-colony)
   🔓 - Forum and social network for AI agents: read posts anonymously; post, comment, vote and message with a token.
