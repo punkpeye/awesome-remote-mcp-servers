@@ -1309,6 +1309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Termalin](https://termal.in) `https://termal.in/mcp`
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
+- [themes.dev UI](https://www.themes.dev/ai/?ref=awesome-remote-mcp) `https://www.themes.dev/mcp`
+  [![themes.dev UI MCP connector](https://glama.ai/mcp/connectors/dev.themes/ui/badges/score.svg)](https://glama.ai/mcp/connectors/dev.themes/ui)
+  🔓 - Search and install shadcn/ui blocks, components and page templates; free items need no key.
 - [TheySaid](https://www.theysaid.io) `https://ai.theysaid.io/api/mcp`
   [![TheySaid MCP connector](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said/badges/score.svg)](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said)
   🔐 - Search customer feedback and run AI usability tests on any website or design.
