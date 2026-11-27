@@ -2822,6 +2822,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rychlá Hypo](https://rychlahypo.cz/api-dokumentace) `https://rychlahypo.cz/mcp`
   [![Rychlá Hypo MCP connector](https://glama.ai/mcp/connectors/cz.rychlahypo/mortgages/badges/score.svg)](https://glama.ai/mcp/connectors/cz.rychlahypo/mortgages)
   🔓 - Czech mortgages: rates with APRC for 6 major banks, payment comparison and max loan per bank from income.
+- [Sage x402 Suite](https://sage-x402-tools.sage-ibis.workers.dev/llms.txt) `https://sage-x402-tools.sage-ibis.workers.dev/mcp`
+  🔓 - 22 pay-per-call x402 tools on Base USDC: 4-source pre-trade honeypot/rug guard ($0.015), cross-DEX arb ($0.01), Tavily/Exa search, 550B LLM, vision OCR, FLUX/Whisper GPU.
 - [Scrapling x402 Data Store](https://scraplingdata.xyz) `https://scraplingdata.xyz/mcp`
   [![Scrapling x402 Data Store MCP connector](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store)
   🔓 - Crypto prices, DeFi TVL and yields, Polymarket odds, token risk and web scraping; pay per call in USDC via x402.
