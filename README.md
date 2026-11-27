@@ -3317,6 +3317,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Reps: Gym Workout Log (repsworkout.com)](https://repsworkout.com/connect?utm_source=awesome-remote) `https://api.repsworkout.com/mcp`
   [![Reps MCP connector](https://glama.ai/mcp/connectors/com.repsworkout/reps/badges/score.svg)](https://glama.ai/mcp/connectors/com.repsworkout/reps)
   🔐 - Read your gym log (workouts, PRs, lift progress, routines, plan) and save routines and plans you approve.
+- [Roarer](https://roarer.app/en/mcp?utm_source=awesome-remote-mcp-servers) `https://mcp.roarer.app/mcp`
+  [![Roarer MCP connector](https://glama.ai/mcp/connectors/app.roarer/roarer/badges/score.svg)](https://glama.ai/mcp/connectors/app.roarer/roarer)
+  🔓 - Find exercises and ready-made programs; sign in (OAuth) to read your workouts, records, stats and measurements.
 - [Splyt](https://splyt.fit/developers) `https://splyt.fit/mcp`
   [![Splyt MCP connector](https://glama.ai/mcp/connectors/fit.splyt/splyt/badges/score.svg)](https://glama.ai/mcp/connectors/fit.splyt/splyt)
   🔐 - Read your own Splyt workouts, personal records, training plan, habits and sleep (read-only).
