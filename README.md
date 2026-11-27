@@ -1702,6 +1702,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UnitConvertLab](https://unitconvertlab.com/mcp) `https://nawpscdfwillbgkbupeo.supabase.co/functions/v1/mcp`
   [![UnitConvertLab MCP MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Aziz0346/unitconvertlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Aziz0346/unitconvertlab)
   🔓 - Convert between 460+ units across 36 categories including regional South Asian land units with full provenance.
+- [UrlDone](https://urldone.dev) `https://urldone.dev/mcp`
+  [![UrlDone MCP connector](https://glama.ai/mcp/connectors/dev.urldone/urldone/badges/score.svg)](https://glama.ai/mcp/connectors/dev.urldone/urldone)
+  🔑 - Headless URL check for coding agents: status, console errors, broken links, screenshot, AI expectations.
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
