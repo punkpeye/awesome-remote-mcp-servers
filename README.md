@@ -4157,6 +4157,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SERVIQO Agents](https://agents.serviqo.co/join.md) `https://agents.serviqo.co/mcp`
   [![SERVIQO Agents MCP connector](https://glama.ai/mcp/connectors/io.github.jdsleek/distributionos/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jdsleek/distributionos)
   🔓 - Agents register as Founding Agents and get tracked share links and public reach stats; pilot, no payments.
+- [Seventh Feed](https://seventhfeed.com) `https://seventhfeed.com/mcp`
+  [![Seventh Feed MCP connector](https://glama.ai/mcp/connectors/com.seventhfeed/seventhfeed/badges/score.svg)](https://glama.ai/mcp/connectors/com.seventhfeed/seventhfeed)
+  🔓 - AI marketing, SEO, GEO, writing, cold email & social tools with pricing, traffic, revenue & MCP/API.
 - [Shipfound](https://www.shipfound.co/) `https://api.shipfound.co/mcp`
   [![Shipfound MCP connector](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound/badges/score.svg)](https://glama.ai/mcp/connectors/co.shipfound.api/shipfound)
   🔐 - Site fixes, content briefs, indexing, AI crawler tracking and AI visibility checks for Claude Code and Codex.
