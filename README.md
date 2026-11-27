@@ -1014,6 +1014,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [8B AI Website Builder](https://8b.com/mcp/) `https://mcp.8b.com/mcp`
   [![8B AI Website Builder MCP connector](https://glama.ai/mcp/connectors/com.8b/ai-website-builder/badges/score.svg)](https://glama.ai/mcp/connectors/com.8b/ai-website-builder)
   🔓 - Your AI picks an 8B generated design and writes the copy; get an animated one-page site, preview link and HTML file.
+- [aired](https://aired.sh) `https://aired.sh/mcp`
+  [![aired MCP connector](https://glama.ai/mcp/connectors/io.github.progrmoiz/aired/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.progrmoiz/aired)
+  🔓 - Publish HTML from your AI tool as a shareable link, with optional PIN and expiry; an API key adds page management.
 - [Benchlight](https://benchlight.dev/) `https://benchlight.dev/mcp`
   [![Benchlight MCP connector](https://glama.ai/mcp/connectors/dev.benchlight/benchlight/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benchlight/benchlight)
   🔐 - Make small business websites in your chat, save them as private drafts and publish one free on benchlight.page.
