@@ -1491,6 +1491,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Local AI Picks](https://localaipicks.com/docs/mcp) `https://localaipicks.com/mcp`
   [![Local AI Picks MCP connector](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks/badges/score.svg)](https://glama.ai/mcp/connectors/com.localaipicks/localaipicks)
   🔓 - Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.
+- [MarkItDown by Pagespool](https://pagespool.com) `https://api.pagespool.com/mcp/markitdown/`
+  [![MarkItDown by Pagespool MCP connector](https://glama.ai/mcp/connectors/com.pagespool/markitdown/badges/score.svg)](https://glama.ai/mcp/connectors/com.pagespool/markitdown)
+  🔓 - Hosted MarkItDown: convert Word, PowerPoint, Excel, HTML and the text of PDFs to Markdown.
 - [MCP Checkup](https://mcpcheckup.com) `https://mcpcheckup.com/mcp`
   [![MCP Checkup MCP connector](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcheckup/mcp)
   🔓 - Look up, check and monitor public MCP servers before connecting, with signed attestations.
