@@ -4827,6 +4827,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Building Permits API](https://apify.com/gaelasao/planning-data-au-nz-fr) `https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr`
   [![Building Permits API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api)
   🔐 - Official building permits and planning applications for France, NSW Australia and Far North NZ, with sources.
+- [BusinessRateChecker](https://www.businessratechecker.com/connect) `https://www.businessratechecker.com/mcp`
+  [![BusinessRateChecker MCP connector](https://glama.ai/mcp/connectors/com.businessratechecker/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.businessratechecker/mcp)
+  🔓 🔐 - England and Wales business rates: rateable values, comparables, overpayment verdicts, reliefs and tribunal decisions.
 - [Buzzedin](https://buzzedin.com) `https://buzzedin.com/mcp`
   [![Buzzedin MCP connector](https://glama.ai/mcp/connectors/com.buzzedin/nyc-apartments/badges/score.svg)](https://glama.ai/mcp/connectors/com.buzzedin/nyc-apartments)
   🔓 - Search NYC rental listings and lease takeovers by price, neighborhood, commute and amenities, and start an alert.
