@@ -151,6 +151,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentRXI](https://agentrxi.com) `https://mcp.agentrxi.com/mcp`
   [![AgentRXI MCP connector](https://glama.ai/mcp/connectors/com.agentrxi.mcp/agentrxi/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentrxi.mcp/agentrxi)
   🔓 - 232 tools: LLMs, search, browser, OCR, Office, media, vision, email, rooms and queues; pay per call in USDC via x402.
+- [AgentStackd](https://agentstackd.com) `https://agentstackd.com/api/mcp`
+  [![AgentStackd MCP connector](https://glama.ai/mcp/connectors/com.agentstackd/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentstackd/directory)
+  🔓 - Search and compare 77 hand-reviewed AI agents and tools, including pricing model, pros, limitations and sources.
 - [agentsvc.io](https://agentsvc.io) `https://agentsvc.io/mcp`
   [![agentsvc.io MCP connector](https://glama.ai/mcp/connectors/io.agentsvc/services/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentsvc/services)
   🔓 - 70 tools: web pages to Markdown, screenshots, PDF, OCR, search, crypto and market data; pay per call in USDC via x402.
