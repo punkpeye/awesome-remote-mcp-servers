@@ -6729,7 +6729,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
 - [HumanTaste](https://humantaste.com) `https://humantaste.com/mcp`
   [![HumanTaste MCP connector](https://glama.ai/mcp/connectors/com.humantaste/humantaste/badges/score.svg)](https://glama.ai/mcp/connectors/com.humantaste/humantaste)
-  🔐 - Ask a verified human to rate an output or pick the better of two: text, image, video or audio.
+  🔓 - Ask a verified human to rate an output or pick the better of two (text, image, video, audio); sign in to call tools.
 - [Japan External Execution](https://furoito.github.io/japan-physical-capability/) `https://bqgfqedetmxrfpvmdfmc.supabase.co/functions/v1/japan-physical-capability-mcp`
   [![Japan Physical Capability MCP connector](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.furoito/japan-physical-capability)
   🔓 - Manual-review external execution in Japan for AI agents; physical verification is the first verified execution path.
