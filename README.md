@@ -3784,6 +3784,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AI Monk Index MCP connector](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Daisuke134/ai-monk-index)
   🔓 - Research AI monk creator accounts: sourced profiles, video formats, offers and published playbooks.
 
+- [AISeeWhy](https://aiseewhy.com/) `https://api.aiseewhy.com/mcp`
+  [![AISeeWhy MCP connector](https://glama.ai/mcp/connectors/com.aiseewhy/aiseewhy/badges/score.svg)](https://glama.ai/mcp/connectors/com.aiseewhy/aiseewhy)
+  🔓 🔑 - Checks whether AI crawlers can read a page, names what blocks them and returns prioritized fixes.
+
 - [App-Kit](https://app-kit.dev/mcp) `https://mcp.app-kit.dev/mcp`
   [![App-Kit MCP connector](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.app-kit-dev/mcp)
   🔓 - SEO audit with 400 checks, text readability and grammar check, image conversion and PDF to images; free, no sign-up.
