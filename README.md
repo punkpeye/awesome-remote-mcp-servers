@@ -1713,7 +1713,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Triage a broken Lovable, Base44, v0, Bolt or Replit app: the likely cause and the fix.
 - [VibeRaven Guides](https://viberaven.dev) `https://viberaven.dev/mcp`
   [![VibeRaven Guides MCP connector](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ohad6k/viberaven-guides)
-  🔓 - Explains VibeRaven findings and returns launch guides and checklists for Vercel + Supabase apps, read-only.
+  🔓 - Checks Supabase migrations for missing RLS and grants, replays two users on fresh PostgreSQL, and explains findings.
 - [Watermelon UI](https://ui.watermelon.sh/developers/mcp) `https://mcp.watermelon.sh/mcp`
   [![Watermelon UI MCP connector](https://glama.ai/mcp/connectors/sh.watermelon/ui/badges/score.svg)](https://glama.ai/mcp/connectors/sh.watermelon/ui)
   🔓 - Search free React, Tailwind and shadcn components, blocks and dashboards and get source plus install commands.
