@@ -904,6 +904,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mailgi](https://www.mailgi.xyz/mcp.html) `https://api.mailgi.xyz/mcp`
   [![Mailgi MCP connector](https://glama.ai/mcp/connectors/xyz.mailgi/mailgi/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.mailgi/mailgi)
   🔓 - An agent registers its own email address with no human, then sends, receives and reads real mail.
+- [MailSlurp](https://www.mailslurp.com/docs/mcp/) `https://api.mailslurp.com/mcp`
+  [![MailSlurp MCP connector](https://glama.ai/mcp/connectors/com.mailslurp/mailslurp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailslurp/mailslurp)
+  🔐 - Real email inboxes and phone numbers for agents: read email and SMS, get codes, preview emails on real devices.
 - [meld](https://meld.mergeinc.workers.dev) `https://meld.mergeinc.workers.dev/mcp`
   [![meld MCP connector](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld)
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
