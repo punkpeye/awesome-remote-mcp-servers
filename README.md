@@ -1137,6 +1137,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FavCRM](https://favcrm.io/en/ai-agents/) `https://api.favcrm.io/mcp`
   [![FavCRM MCP connector](https://glama.ai/mcp/connectors/io.favcrm/favcrm/badges/score.svg)](https://glama.ai/mcp/connectors/io.favcrm/favcrm)
   🔓 - Manage bookings, customers, memberships, loyalty, invoices, and WhatsApp messaging; API key or OAuth for calls.
+- [Genaya](https://genaya.com) `https://api.genaya.com/mcp`
+  [![Genaya MCP connector](https://glama.ai/mcp/connectors/io.github.genaya-app/genaya/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.genaya-app/genaya)
+  🔐 - Ask about appointments, clients and invoices for a service business, and prepare changes the member confirms.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
