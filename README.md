@@ -742,6 +742,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Eurobase](https://eurobase.dev/docs/agents) `https://api.eurobase.dev/mcp`
   [![Eurobase MCP connector](https://glama.ai/mcp/connectors/dev.eurobase/eurobase/badges/score.svg)](https://glama.ai/mcp/connectors/dev.eurobase/eurobase)
   🔐 - Create projects from GitHub repositories, deploy them, and read build, runtime and HTTP logs on a European cloud.
+- [EverXCloud](https://everxcloud.ai/en/developers) `https://everxcloud.ai/mcp`
+  [![EverXCloud MCP connector](https://glama.ai/mcp/connectors/io.github.everxcloud/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.everxcloud/mcp)
+  🔓 - Read live hourly GPU rental prices and the NVIDIA GPU catalog of a GPU marketplace, and get the link to rent.
 - [FARPY](https://farpy.com) `https://api.farpy.com/mcp`
   [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
