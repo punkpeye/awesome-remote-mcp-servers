@@ -3386,6 +3386,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [bsv.cx](https://bsv.cx) `https://bsv.cx/mcp`
   [![bsv.cx MCP connector](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx/badges/score.svg)](https://glama.ai/mcp/connectors/cx.bsv/bsv-cx)
   🔓 - Timestamp and verify evidence on-chain; let your agent prove what it saw and when.
+- [CellMath](https://cellmath.ai.studio) `https://cellmath.ai.studio/api/mcp`
+  [![CellMath MCP connector](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath)
+  🔑 - Agent memory with automatic PII and secret masking, hard 400-error write gates, and 3 ultra-light tools.
 - [Cloud FinOps by OptimNow](https://pypi.org/project/cloud-finops-mcp/) `https://mcp.optimnow.io/mcp`
   [![Cloud FinOps by OptimNow MCP connector](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OptimNow/cloud-finops)
   🔓 - Fetches FinOps reference guides and waste-pattern runbooks on cloud and AI cost management; no account needed.
