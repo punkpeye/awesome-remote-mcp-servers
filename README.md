@@ -6042,6 +6042,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BankrollSZN](https://bankrollszn.com/ai) `https://bankrollszn.com/api/mcp`
   [![BankrollSZN MCP connector](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn/badges/score.svg)](https://glama.ai/mcp/connectors/com.bankrollszn/bankrollszn)
   🔐 - DFS projections, ownership, lineup optimizers and model picks for NFL, MLB, NBA, NHL, PGA and MMA.
+- [bjj.space](https://bjj.space/ai) `https://bjj.space/mcp`
+  [![bjj.space MCP connector](https://glama.ai/mcp/connectors/space.bjj/bjj-space/badges/score.svg)](https://glama.ai/mcp/connectors/space.bjj/bjj-space)
+  🔓 - Worldwide BJJ gyms with timetables, open mats, competitions, camps, seminars, and athletes' records and lineage.
 - [Cast the Water](https://castthewater.com) `https://castthewater.com/mcp`
   [![Cast the Water MCP connector](https://glama.ai/mcp/connectors/com.castthewater/cast-the-water/badges/score.svg)](https://glama.ai/mcp/connectors/com.castthewater/cast-the-water)
   🔓 - Read-only fish stocking, waters and conditions data for US lakes from Cast the Water.
