@@ -6407,6 +6407,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [What's Up In](https://whatsupin.ai/agents/) `https://whatsupin.ai/mcp`
   [![What's Up In MCP connector](https://glama.ai/mcp/connectors/ai.whatsupin/events/badges/score.svg)](https://glama.ai/mcp/connectors/ai.whatsupin/events)
   🔓 - Upcoming local events in 14 US cities by date, topic, neighborhood or artist, each linked to its source.
+- [WhatFliesWhere](https://whatflieswhere.com/mcp) `https://mcp.whatflieswhere.com/mcp`
+  [![WhatFliesWhere MCP connector](https://glama.ai/mcp/connectors/com.whatflieswhere/routes/badges/score.svg)](https://glama.ai/mcp/connectors/com.whatflieswhere/routes)
+  🔓 - Nonstop and direct flight routes worldwide: who flies them, when, how often and on what aircraft.
 - [Your Next Tours](https://yournext.tours/ai-assistant-integration/) `https://api.yournext.tours/api/mcp/guide`
   [![Your Next Tours MCP connector](https://glama.ai/mcp/connectors/tours.yournext/guide/badges/score.svg)](https://glama.ai/mcp/connectors/tours.yournext/guide)
   🔐 - Tour guide workspace: turn a PDF or web page into a tour program, open trips, add guests and edit your site.
