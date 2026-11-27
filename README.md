@@ -2529,6 +2529,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Glacier Planner](https://planner.glacierfinancial.ca/developers) `https://planner.glacierfinancial.ca/calculate/mcp`
   [![Glacier Planner MCP connector](https://glama.ai/mcp/connectors/io.github.marcpineault/glacier-planner-calculator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marcpineault/glacier-planner-calculator)
   🔓 - Free Canadian retirement projection plus one what-if for one or two adults; no account required, not personal advice.
+- [Glideworth](https://glideworth.com) `https://app.glideworth.com/mcp`
+  [![Glideworth MCP connector](https://glama.ai/mcp/connectors/io.github.GlideWorth/glideworth/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GlideWorth/glideworth)
+  🔐 - Retirement and FIRE planner: projections, Monte Carlo, solvers and tax estimates; edits are proposals you approve.
 - [Global FinReg](https://www.globalfinreg.com) `https://api2.globalfinreg.com/mcp`
   [![Global FinReg MCP connector](https://glama.ai/mcp/connectors/com.globalfinreg/lei/badges/score.svg)](https://glama.ai/mcp/connectors/com.globalfinreg/lei)
   🔓 - Look up LEIs in the global LEI register; renew, transfer and register LEIs with a Global FinReg account.
