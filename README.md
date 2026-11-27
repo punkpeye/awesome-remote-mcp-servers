@@ -6113,6 +6113,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AcesAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/acesapi)
   🔓 - ATP and WTA tennis since 2007: sets, draws, rankings, head to head, surface Elo, sportsbook lines.
 
+- [XG Mind](https://xgmind.com/) `https://xgmind.com/mcp`
+  [![XG Mind MCP connector](https://glama.ai/mcp/connectors/com.xgmind/xg-mind-football-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.xgmind/xg-mind-football-mcp)
+  🔓 - Public read-only football league standings, verified settlement ledger, and quantitative xG research blog index.
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
 - [Actually Asked](https://actuallyasked.com/mcp) `https://mcp.actuallyasked.com/mcp`
