@@ -220,6 +220,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![MCP Charts MCP connector](https://glama.ai/mcp/connectors/com.mcpcharts/mcpcharts/badges/score.svg)](https://glama.ai/mcp/connectors/com.mcpcharts/mcpcharts)
   🔓 - Find MCP servers, skills, plugins, agents, prompts and rules for a task, with compatibility evidence.
 - [mcp.market](https://mcp.market) `https://gw.mcp.market/mcp`
+- [MCPTalk AI Radar](https://www.mcptalk.vip/en/) `https://www.mcptalk.vip/mcp/trial`
+  [![MCPTalk AI Radar MCP connector](https://glama.ai/mcp/connectors/vip.mcptalk/ai-radar/badges/score.svg)](https://glama.ai/mcp/connectors/vip.mcptalk/ai-radar)
+  🔓 - Daily data on 100K+ MCP servers, connectors and skills: who is new, who has real users, which niches are rising.
   [![mcp.market gateway MCP connector](https://glama.ai/mcp/connectors/market.mcp/gateway/badges/score.svg)](https://glama.ai/mcp/connectors/market.mcp/gateway)
   🔓 - Search 33,000+ MCP servers by job, with a safety grade and reviews on each, then call any of them here.
 - [MEDIAPRONET](https://mediapronet.com/mcp) `https://mediapronet.com/api/mcp`
