@@ -6714,6 +6714,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GEOMETRY MCP connector](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry/badges/score.svg)](https://glama.ai/mcp/connectors/app.geometry.mcp/geometry)
   🔓 - Deterministic date/calendar JSON for AI agents (Gregorian 1900-2100).
 
+- [Hailtrades](https://hailtrades.com) `https://hailtrades.com/mcp`
+  [![Hailtrades MCP connector](https://glama.ai/mcp/connectors/com.hailtrades/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hailtrades/mcp)
+  🔓 - Find emergency plumbers and electricians in Toronto/GTA: hours, call-out fees, licences and contacts.
 - [Helfer & Profi](https://helferundprofi.de/) `https://pcbyuhvyjgadanzlghmw.supabase.co/functions/v1/mcp`
   [![Helfer & Profi MCP connector](https://glama.ai/mcp/connectors/io.github.helferundprofi/helfer-und-profi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helferundprofi/helfer-und-profi)
   🔓 - Free German neighborhood marketplace: search help requests and providers by postal code, post requests and offers.
