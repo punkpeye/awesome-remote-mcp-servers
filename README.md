@@ -1880,6 +1880,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NaKus](https://www.nakus.sk/mcp) `https://www.nakus.sk/api/mcp`
   [![NaKus MCP connector](https://glama.ai/mcp/connectors/sk.nakus/na-kus-unit-price/badges/score.svg)](https://glama.ai/mcp/connectors/sk.nakus/na-kus-unit-price)
   🔓 - Slovak landed unit prices (€/piece, €/kg, €/wash) with nakus.sk buy_url — no Heureka.
+- [NeedATicket](https://needaticket.co.uk/developers) `https://needaticket.co.uk/mcp`
+  [![NeedATicket MCP connector](https://glama.ai/mcp/connectors/uk.co.needaticket/ticket-prices/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.needaticket/ticket-prices)
+  🔓 - Live resale ticket prices for UK and US concerts, sport, theatre and festivals, checked hourly; read-only.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NFC Tap Builder by Tap.Giving](https://tap.giving) `https://tap.giving/mcp`
