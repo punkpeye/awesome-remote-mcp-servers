@@ -3792,6 +3792,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AppTrack Ninja MCP connector](https://glama.ai/mcp/connectors/ninja.apptrack.api/app-track-ninja/badges/score.svg)](https://glama.ai/mcp/connectors/ninja.apptrack.api/app-track-ninja)
   🔐 - App Store and Google Play data: apps, charts, keyword ranks, version history, ads and icon redesign effects.
 
+- [ASA Condor](https://asacondor.com/claude) `https://app.asacondor.com/mcp`
+  [![ASA Condor MCP connector](https://glama.ai/mcp/connectors/com.asacondor/asa-condor/badges/score.svg)](https://glama.ai/mcp/connectors/com.asacondor/asa-condor)
+  🔐 - Apple Search Ads with RevenueCat revenue per keyword; bid, budget and keyword changes previewed for approval.
+
 - [ask10ais](https://ask10ais.com) `https://ask10ais.com/api/mcp`
   [![ask10ais MCP connector](https://glama.ai/mcp/connectors/com.ask10ais/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ask10ais/mcp)
   🔓 - Read-only rankings and mention rates showing how 12 AI models answer brand questions in Chinese and English.
