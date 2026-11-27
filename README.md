@@ -2047,6 +2047,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SchoolOrder](https://schoolorder.kr) `https://schoolorder.kr/mcp`
   [![SchoolOrder MCP connector](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.speak-able/schoolorder-catalog)
   🔓 - Search AI and edtech subscriptions Korean schools can buy, with term prices, quote links and S2B purchase guides.
+- [Shprd Bible](https://www.shprd.us/ai/) `https://mcp.shprd.us/mcp`
+  [![Shprd Bible MCP connector](https://glama.ai/mcp/connectors/us.shprd.mcp/bible/badges/score.svg)](https://glama.ai/mcp/connectors/us.shprd.mcp/bible)
+  🔓 - Read, search and quote the World English Bible, with a reader card and a verse of the day.
 - [Speakeroo](https://speakeroo.app/mcp?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://mcp.speakeroo.app/mcp`
   [![Speakeroo MCP connector](https://glama.ai/mcp/connectors/app.speakeroo/speaking-coach/badges/score.svg)](https://glama.ai/mcp/connectors/app.speakeroo/speaking-coach)
   🔓 - Speaking coach: feedback on speeches and interview answers from text or audio, plus topics and pronunciation.
