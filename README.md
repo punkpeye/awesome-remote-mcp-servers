@@ -2822,6 +2822,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rychlá Hypo](https://rychlahypo.cz/api-dokumentace) `https://rychlahypo.cz/mcp`
   [![Rychlá Hypo MCP connector](https://glama.ai/mcp/connectors/cz.rychlahypo/mortgages/badges/score.svg)](https://glama.ai/mcp/connectors/cz.rychlahypo/mortgages)
   🔓 - Czech mortgages: rates with APRC for 6 major banks, payment comparison and max loan per bank from income.
+- [SBA Deal Check](https://sbadealcheck.com) `https://sbadealcheck.com/mcp`
+  [![SBA Deal Check MCP connector](https://glama.ai/mcp/connectors/com.sbadealcheck/sba-deal-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.sbadealcheck/sba-deal-check)
+  🔓 - Deterministic SBA 7(a) SOP 50 10 8.1 deal stress tests, LOI clauses, and FOIA acquisition lender rankings.
 - [Scrapling x402 Data Store](https://scraplingdata.xyz) `https://scraplingdata.xyz/mcp`
   [![Scrapling x402 Data Store MCP connector](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store)
   🔓 - Crypto prices, DeFi TVL and yields, Polymarket odds, token risk and web scraping; pay per call in USDC via x402.
