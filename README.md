@@ -4921,7 +4921,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [SceneAgent](https://sceneagent.dev) `https://app.sceneagent.dev/mcp`
   [![SceneAgent MCP connector](https://glama.ai/mcp/connectors/dev.sceneagent/sceneagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sceneagent/sceneagent)
-  🔑 - Turns 3D scans, Gaussian splats and video into sim-ready robot scenes for Isaac Sim, Isaac Lab and MuJoCo.
+  🔐 - Turns 3D scans, Gaussian splats and video into sim-ready robot scenes for Isaac Sim, Isaac Lab and MuJoCo.
 
 ### 🚗 <a name="sales"></a>Sales
 
