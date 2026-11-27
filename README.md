@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Hailuo](https://platform.acedata.cloud/documents/hailuo) `https://hailuo.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Hailuo MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-hailuo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-hailuo)
+  🔐 - Generate videos from text or images and check task results.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
