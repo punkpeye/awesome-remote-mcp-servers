@@ -1639,6 +1639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software and read-only agent workflows with roles, checks and safety boundaries.
+- [SpecGate](https://specgate.profalexandrezamboni.workers.dev/integrations/mcp-server-cursor-claude-code) `https://specgate.profalexandrezamboni.workers.dev/mcp`
+  [![SpecGate MCP connector](https://glama.ai/mcp/connectors/dev.workers.profalexandrezamboni.specgate/spec-gate/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.profalexandrezamboni.specgate/spec-gate)
+  🔓 - Deterministic OpenAPI 3.x breaking-change SemVer diff, SPF 10-lookup flattener, and WCAG 2.2 / EN 301 549 CI gate.
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
