@@ -877,6 +877,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Make and take real phone calls.
+- [Evermail](https://www.evermail.ai/docs/connecting-claude) `https://mcp.evermail.ai/mcp`
+  [![Evermail MCP connector](https://glama.ai/mcp/connectors/ai.evermail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.evermail/mcp)
+  🔐 - Search, read, analyze, and export uploaded PST, OST, MBOX, EML, and Google Takeout email archives.
 - [Faivelo](https://faivelo.com/ai-agents) `https://faivelo.com/api/mcp`
   [![Faivelo MCP connector](https://glama.ai/mcp/connectors/com.faivelo/mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.faivelo/mail)
   🔐 - Read, search, send and organize mail in mailboxes on your own domain, and manage aliases and DNS.
