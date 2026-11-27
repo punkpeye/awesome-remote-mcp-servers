@@ -3912,6 +3912,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DripRaven](https://dripraven.com) `https://app.dripraven.com/mcp`
   [![DripRaven MCP connector](https://glama.ai/mcp/connectors/com.dripraven/dripraven/badges/score.svg)](https://glama.ai/mcp/connectors/com.dripraven/dripraven)
   🔐 - WhatsApp Business campaigns: import and segment contacts, schedule broadcasts and track delivery.
+- [Elastic Email](https://elasticemail.com/email-marketing-mcp) `https://mcp.elasticemail.com`
+  [![Elastic Email MCP connector](https://glama.ai/mcp/connectors/com.elasticemail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.elasticemail/mcp)
+  🔐 - Send emails and manage contacts, lists, segments, templates and campaigns in Elastic Email.
 - [ExtensionDash](https://extensiondash.com/) `https://extensiondash.com/mcp`
   [![ExtensionDash MCP connector](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tonic20/extensions-dashboard)
   🔓 - Research Chrome and Firefox extension catalogs as a guest; OAuth unlocks your listing and keyword tracking.
