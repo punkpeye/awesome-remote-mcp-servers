@@ -6542,6 +6542,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LFG Alarm](https://lfg.gm) `https://mcp.lfg.gm`
   [![LFG Alarm MCP connector](https://glama.ai/mcp/connectors/gm.lfg/alarm/badges/score.svg)](https://glama.ai/mcp/connectors/gm.lfg/alarm)
   🔐 - Set real alarms that ring on your phone and your friends' phones: wake-up times, events, posts, price moves or webhooks.
+- [Liliphant](https://liliphant.com/) `https://mcp.liliphant.com/mcp`
+  [![Liliphant MCP connector](https://glama.ai/mcp/connectors/com.liliphant.mcp/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.liliphant.mcp/mcp)
+  🔐 - Joins your meetings and remembers the work: ask what was decided, who promised what, or what's still blocked.
 - [LucyESL](https://lucyesl.com/developers) `https://lucyesl.com/mcp`
   [![LucyESL MCP connector](https://glama.ai/mcp/connectors/com.lucyesl/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.lucyesl/jobs)
   🔓 - Search English-teaching jobs in South Korea and read their salary, disclosure and by-region statistics.
