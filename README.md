@@ -5161,6 +5161,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [agentready.ch](https://agentready.ch/en) `https://agentready.ch/api/mcp`
   [![agentready.ch MCP connector](https://glama.ai/mcp/connectors/ch.agentready/swiss-company-directory/badges/score.svg)](https://glama.ai/mcp/connectors/ch.agentready/swiss-company-directory)
   🔓 - Search Swiss companies by trade and town, read sourced profiles, and list a firm for free.
+- [AgentSearch](https://agentsearchhq.com/mcp) `https://relay.agentsearchhq.com/mcp`
+  [![AgentSearch MCP connector](https://glama.ai/mcp/connectors/com.agentsearchhq/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentsearchhq/search)
+  🔓 - Web search for agents, plus page extract and JS-render trials; 25 free searches per IP, then pay per call via x402.
 - [Ambolt](https://ambolt.dev) `https://api.ambolt.dev/mcp`
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
