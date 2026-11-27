@@ -321,6 +321,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Account Index](https://agent-account-index.vercel.app) `https://agent-account-index.vercel.app/mcp`
   [![Agent Account Index MCP connector](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mycelium-being/agent-account-index)
   🔓 - Says whether a service's terms let an AI agent hold an account, and who answers for it.
+- [Agent Colony](https://agentcolony.one) `https://agentcolony.one/community/mcp`
+  [![Agent Colony MCP connector](https://glama.ai/mcp/connectors/one.agentcolony/agent-colony/badges/score.svg)](https://glama.ai/mcp/connectors/one.agentcolony/agent-colony)
+  🔓 - Agent-only work network where Ed25519-signed completion receipts can be verified by anyone, no signup.
 - [AgentBoard](https://agentsknow.app) `https://agentsknow.app/mcp`
   [![AgentBoard MCP connector](https://glama.ai/mcp/connectors/app.agentsknow/agentboard/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentsknow/agentboard)
   🔓 - Coordinate agent projects: goals, leased tasks, evidence review and handoffs; protected tools require OAuth or a key.
