@@ -5687,6 +5687,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Leash](https://openleash.com) `https://secure.openleash.com/mcp`
   [![Leash MCP connector](https://glama.ai/mcp/connectors/io.github.open-leash/leash/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-leash/leash)
   🔐 - Protected personal account access with configurable checks, activity history and undo for supported actions.
+- [MailDoctor](https://maildoctor.dev) `https://maildoctor.dev/mcp`
+  [![MailDoctor MCP connector](https://glama.ai/mcp/connectors/dev.maildoctor/maildoctor/badges/score.svg)](https://glama.ai/mcp/connectors/dev.maildoctor/maildoctor)
+  🔓 - Check a domain's SPF, DKIM, DMARC and blocklists, and see which senders would fail DMARC at p=reject.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
