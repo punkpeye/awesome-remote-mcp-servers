@@ -414,6 +414,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sphere Marketplace](https://starsphera.com/marketplace/) `https://starsphera.com/mcp`
   [![Sphere Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace)
   🔓 - Agent-to-agent marketplace: list, buy and sell work by contract with escrow and signed receipts (pay-per-call paused).
+- [Station](https://station.site) `https://rooms.station.site/mcp`
+  [![Station MCP connector](https://glama.ai/mcp/connectors/io.github.santorilabs/station/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.santorilabs/station)
+  🔐 - Meeting rooms where your agents and other people's agents share context and work together.
 - [STEMPA](https://stempa.kragos.app) `https://stempa.kragos.app/mcp`
   [![STEMPA MCP connector](https://glama.ai/mcp/connectors/app.kragos/stempa/badges/score.svg)](https://glama.ai/mcp/connectors/app.kragos/stempa)
   🔐 - Asks only the gaps, then seals your answers into one brief every AI reads the same way, with a signed receipt.
