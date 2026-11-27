@@ -2939,6 +2939,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tickwire](https://tickwire.io/metatrader-mcp-server/) `https://api.tickwire.io/mcp`
   [![Tickwire MCP connector](https://glama.ai/mcp/connectors/io.tickwire/metatrader/badges/score.svg)](https://glama.ai/mcp/connectors/io.tickwire/metatrader)
   🔐 - MetaTrader 4 and 5 accounts: positions, quotes, candles, history, and audited idempotent orders.
+  - [Token Unlock Calendar](https://token-unlock-calendar.printer-grandee0c.workers.dev/) `https://token-unlock-calendar.printer-grandee0c.workers.dev/mcp`
+  [![Token Unlock Calendar MCP connector](https://glama.ai/mcp/connectors/io.github.headgoldpicker/token-unlock-calendar/badges/score.svg)(https://glama.ai/mcp/connectors/io.github.headgoldpicker/token-unlock-calendar)
+  🔓 - Token unlock dates and checked figures for 15 tokens, free and read-only.
 - [Toolrail](https://toolrail.dev) `https://toolrail.dev/mcp`
   [![Toolrail MCP connector](https://glama.ai/mcp/connectors/dev.toolrail/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolrail/mcp)
   🔓 - Chile and LATAM data: UF, RUT, business days, FX, VAT for 17 countries, tax units; free daily quota.
