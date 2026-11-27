@@ -1139,6 +1139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Manage bookings, customers, memberships, loyalty, invoices, and WhatsApp messaging; API key or OAuth for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [NeurLead AI CRM](https://neurlead.com/connect) `https://mcp.neurlead.com/connect/mcp`
+  [![NeurLead AI CRM MCP connector](https://glama.ai/mcp/connectors/com.neurlead/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.neurlead/crm)
+  🔐 - CRM for home-service businesses: leads, chats, estimates from your price list, schedule, technicians, invoices.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
@@ -6739,6 +6742,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Natal Compass](https://natalcompass.com/connect) `https://natalcompass.com/mcp`
   [![Natal Compass MCP connector](https://glama.ai/mcp/connectors/com.natalcompass/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.natalcompass/connector)
   🔓 - Birth charts, transits, moon phase, retrogrades, synastry and solar returns.
+- [Neuro Home](https://neurohome.us/ai/) `https://mcp.neurohome.us/neuro-home/mcp`
+  [![Neuro Home MCP connector](https://glama.ai/mcp/connectors/us.neurohome/neuro-home/badges/score.svg)](https://glama.ai/mcp/connectors/us.neurohome/neuro-home)
+  🔐 - Book home services in 8 US cities: match the job, see the price, find a time, book, move or cancel a visit.
 - [Penny Press](https://www.pennypress.org) `https://www.pennypress.org/mcp`
   [![Penny Press MCP connector](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.con-scribe/penny-press)
   🔓 - Original essays on freedom, economics and philosophy; free for humans, pay-per-read for machines via x402 micropayments.
