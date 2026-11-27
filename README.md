@@ -3063,6 +3063,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
   🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
 
+- [YieldTerminal](https://yieldterminalpro.com/connector) `https://yieldterminalpro.com/api/mcp`
+  [![YieldTerminal MCP connector](https://glama.ai/mcp/connectors/com.yieldterminalpro/yieldterminal/badges/score.svg)](https://glama.ai/mcp/connectors/com.yieldterminalpro/yieldterminal)
+  🔐 - Quarterly results and outlook changes read from company SEC filings, each with its source sentence and link.
+
 - [Zolva](https://zolvaagent.app/docs/mcp) `https://zolvaagent.app/mcp`
   [![Zolva MCP connector](https://glama.ai/mcp/connectors/app.zolvaagent/zolva/badges/score.svg)](https://glama.ai/mcp/connectors/app.zolvaagent/zolva)
   🔓 - Trading agents on Robinhood Chain: each hourly buy, sell or hold with its reason, plus stock token and crypto prices.
