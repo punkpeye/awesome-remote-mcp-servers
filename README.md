@@ -1565,6 +1565,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perq](https://perq.sh/agents) `https://perq.sh/mcp`
   [![Perq MCP connector](https://glama.ai/mcp/connectors/sh.perq/perq/badges/score.svg)](https://glama.ai/mcp/connectors/sh.perq/perq)
   🔓 - Find verified free AI credits, free tiers and startup programs, each with a source link and last-verified date.
+- [Platinum](https://www.platinum.dev) `https://api.platinum.dev/mcp`
+  [![Platinum MCP connector](https://glama.ai/mcp/connectors/dev.platinum/sandboxes/badges/score.svg)](https://glama.ai/mcp/connectors/dev.platinum/sandboxes)
+  🔐 - Run commands, code and file operations for AI agents in isolated microVM sandboxes.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
