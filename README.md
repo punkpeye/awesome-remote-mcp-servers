@@ -3750,6 +3750,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Advisors AI Store Readiness MCP connector](https://glama.ai/mcp/connectors/ai.advisorsai/store-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/ai.advisorsai/store-readiness)
   🔓 - Check a public page's robots, sitemap, JSON-LD, canonical tags and llms.txt.
 
+- [Adworkin](https://adworkin.com/mcp) `https://app.adworkin.com/api/mcp`
+  [![Adworkin MCP connector](https://glama.ai/mcp/connectors/com.adworkin/adworkin/badges/score.svg)](https://glama.ai/mcp/connectors/com.adworkin/adworkin)
+  🔐 - Ask about ecommerce store sales, ad spend and blended ROAS across Shopify, Meta Ads, Google Ads, TikTok Ads and GA4.
 
 - [AEO Backlink](https://docs.advancelabs.dev/aeo-toolkit/reference/mcp-registry-install/) `https://aeo.advancelabs.dev/api/mcp/backlink/mcp`
   [![AEO Backlink MCP connector](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-backlink/badges/score.svg)](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-backlink)
