@@ -4383,6 +4383,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Aisma](https://aisma.ai/developers) `https://api.aisma.ai/mcp`
+  [![Aisma MCP connector](https://glama.ai/mcp/connectors/ai.aisma/aisma/badges/score.svg)](https://glama.ai/mcp/connectors/ai.aisma/aisma)
+  🔐 - Edit a video you already shot from a plain-words request and reference photos, keeping its framing and audio.
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
