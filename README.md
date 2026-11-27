@@ -2825,6 +2825,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Scrapling x402 Data Store](https://scraplingdata.xyz) `https://scraplingdata.xyz/mcp`
   [![Scrapling x402 Data Store MCP connector](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bnth09productions-maker/scrapling-x402-store)
   🔓 - Crypto prices, DeFi TVL and yields, Polymarket odds, token risk and web scraping; pay per call in USDC via x402.
+- [SEC EDGAR Financials](https://mcp-sec-edgar.scorematic.workers.dev/docs) `https://mcp-sec-edgar.scorematic.workers.dev/mcp`
+  [![SEC EDGAR Financials MCP connector](https://glama.ai/mcp/connectors/io.github.ChristopherLaughlin/mcp-sec-edgar/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChristopherLaughlin/mcp-sec-edgar)
+  🔓 - Live SEC EDGAR XBRL financials and filings. Pay per call in USDC via x402, or a Pro API key.
 - [Sector Pulse](https://sector-pulse.app) `https://sector-pulse.app/api/mcp`
   [![Sector Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.christianhonap7-sys/sector-pulse)
   🔓 - US sector rotation: 30 sector baskets ranked each session, with a daily record; history needs a key.
@@ -2981,6 +2984,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Unlock Pulse](https://billibo6.github.io/unlockpulse/ai.html) `https://unlockpulse-mcp.unlockpulse.workers.dev/mcp`
   [![Unlock Pulse MCP connector](https://glama.ai/mcp/connectors/io.github.Billibo6/unlockpulse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Billibo6/unlockpulse)
   🔓 - Token unlock calendar for the next 60 days, rated by size vs circulating supply, with past-unlock price history.
+- [US Tariff (USITC HTS)](https://mcp-us-tariff.scorematic.workers.dev/docs) `https://mcp-us-tariff.scorematic.workers.dev/mcp`
+  [![US Tariff (USITC HTS) MCP connector](https://glama.ai/mcp/connectors/io.github.ChristopherLaughlin/mcp-us-tariff/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChristopherLaughlin/mcp-us-tariff)
+  🔓 - USITC HTS lookup, base duty and Chapter 99 provisions. Pay per call in USDC (x402) or Pro key.
 - [USDi](https://www.usdicoin.com/) `https://usdi-mcp.onrender.com/mcp`
   [![USDi MCP connector](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MikeAshtonEILLC/usdi-mcp-server)
   🔓 - CPI-indexed cryptocurrency: live exchange rate, contract/pool addresses, and mint/redeem mechanics.
@@ -3712,6 +3718,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
   [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
   🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
+- [USPTO Trademark Status](https://mcp-uspto-trademark.scorematic.workers.dev/docs) `https://mcp-uspto-trademark.scorematic.workers.dev/mcp`
+  [![USPTO Trademark Status MCP connector](https://glama.ai/mcp/connectors/io.github.ChristopherLaughlin/mcp-uspto-trademark/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ChristopherLaughlin/mcp-uspto-trademark)
+  🔓 - USPTO trademark status by serial or registration number. Pay per call in USDC (x402) or Pro key.
 - [Vespper](https://www.vespper.com/) `https://mcp.vespper.com/mcp`
   [![Vespper MCP connector](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vespper.mcp/vespper-docx-mcp)
   🔐 - Reads .docx files as HTML and writes edits back as native Word tracked changes.
