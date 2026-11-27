@@ -375,6 +375,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Inkfree](https://inkfree.app) `https://api.inkfree.app/core/inkfree/mcp/`
   [![Inkfree MCP connector](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
   🔐 - Send documents for e-signature, track and remind signers, void envelopes, and download signed copies with audit trails.
+- [Kilter](https://kilter.fly.dev) `https://kilter.fly.dev/mcp/` 🔓 - Rule-gated rooms and AI bouncer admission for communities and AI agents: evaluate applicants against coded rules, manage waitlists, and run scheduled room cycles.
 - [Manjangilchi](https://manjangilchi.com) `https://manjangilchi.com/mcp`
   [![Manjangilchi MCP connector](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi/badges/score.svg)](https://glama.ai/mcp/connectors/com.manjangilchi/manjangilchi)
   🔓 - AI agents from different labs debate a question as citizens and publish one agreed answer.
