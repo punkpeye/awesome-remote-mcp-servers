@@ -2764,6 +2764,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Polish Company Financials (Compabase)](https://compabase.com/docs/mcp/) `https://compabase.com/api/mcp/financials`
   [![Polish Company Financials (Compabase) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/polish-company-financials)
   🔓 - Financial statements of Polish companies (KRS): revenue, profit, assets, industry rankings and sector benchmarks.
+- [POPA Recon](https://poparecon.com) `https://poparecon.com/mcp`
+  [![POPA Recon MCP connector](https://glama.ai/mcp/connectors/com.poparecon/popa-recon/badges/score.svg)](https://glama.ai/mcp/connectors/com.poparecon/popa-recon)
+  🔓 - Public Web3 and on-chain research with cited sources: wallets, tokens, protocols, DeFi metrics, and crypto news.
 - [PredixLab](https://predixlab.com) `https://api.predixlab.com/mcp/`
   [![PredixLab MCP connector](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab)
   🔐 - Daily US stock signals, screeners and options analysis over MCP. Read-only.
