@@ -6611,6 +6611,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [seelig.ai booking](https://www.seelig.ai/en/mcp) `https://www.seelig.ai/api/mcp`
   [![seelig.ai booking MCP connector](https://glama.ai/mcp/connectors/io.github.seelig-ai/seelig-ai-booking/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seelig-ai/seelig-ai-booking)
   🔓 - Lists the services of seelig.ai (Switzerland) with prices and requests a free 30-minute first call.
+- [Sess](https://sess.si) `https://mcp.sess.si/mcp`
+  [![Sess MCP connector](https://glama.ai/mcp/connectors/si.sess/sess/badges/score.svg)](https://glama.ai/mcp/connectors/si.sess/sess)
+  🔐 - Let your agent ask people for answers and approvals by link, with signed receipts.
 - [SheetRender](https://sheetrender.com/docs/chatgpt-and-claude) `https://mcp.sheetrender.com/mcp`
   [![SheetRender MCP connector](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sheetrender/sheetrender-mcp)
   🔓 - Fills built-in certificate, letter, receipt and offer-letter templates from rows, one PDF per row.
