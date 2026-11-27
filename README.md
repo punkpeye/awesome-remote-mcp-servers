@@ -2398,6 +2398,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CryptoKeyhole](https://cryptokeyhole.com/mcp/) `https://cryptokeyhole.com/api/v1/mcp`
   [![CryptoKeyhole MCP connector](https://glama.ai/mcp/connectors/com.cryptokeyhole/analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.cryptokeyhole/analytics)
   🔓 - On-chain and market metrics for Bitcoin, Ethereum and more from its own nodes, as exact values with provenance.
+- [cryptonews.is](https://mcp.cryptonews.is/?utm_source=awesome-remote-punkpeye&utm_campaign=mcp-listing) `https://mcp.cryptonews.is/mcp`
+  [![cryptonews.is MCP connector](https://glama.ai/mcp/connectors/is.cryptonews/news/badges/score.svg)](https://glama.ai/mcp/connectors/is.cryptonews/news)
+  🔐 - Live crypto news from 1,000+ sources grouped into stories, in 28 languages, with news sentiment and its drivers.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
