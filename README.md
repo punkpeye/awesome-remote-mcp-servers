@@ -719,6 +719,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [briq](https://briq.cloud) `https://api.briq.cloud/mcp`
   [![briq MCP connector](https://glama.ai/mcp/connectors/cloud.briq/briq/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.briq/briq)
   🔐 - Give an agent a sandbox to run code in, Postgres, Redis or any Docker image, each on a microVM that sleeps when idle.
+- [Buddy](https://buddy.works/docs/ai-agents/mcp) `https://mcp.buddy.works/mcp`
+  [![Buddy MCP connector](https://glama.ai/mcp/connectors/works.buddy.mcp/buddy/badges/score.svg)](https://glama.ai/mcp/connectors/works.buddy.mcp/buddy)
+  🔐 - Manage Buddy sandbox VMs, CI/CD workflows, app hosting, git repositories and domains for coding agents.
 - [Cloud World Model](https://www.cloudworldmodel.ai/mcp-quickstart) `https://www.cloudworldmodel.ai/mcp`
   [![Cloud World Model MCP connector](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cloudworldmodel/cloud-world-model)
   🔓 - Simulate cloud infrastructure and estimate cost, latency and resilience across AWS, GCP, Azure, OCI and DigitalOcean.
