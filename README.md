@@ -3990,6 +3990,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lekta](https://lekta.dev) `https://lekta.dev/mcp`
   [![Lekta MCP connector](https://glama.ai/mcp/connectors/dev.lekta/lektadev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.lekta/lektadev)
   🔓 - Audit a site's visibility in AI answer engines (AEO/GEO).
+- [lemlist](https://www.lemlist.com) `https://app.lemlist.com/mcp`
+  [![lemlist MCP connector](https://glama.ai/mcp/connectors/io.github.l3mpire/lemlist/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.l3mpire/lemlist)
+  🔐 - Sales outreach: find leads, run email and LinkedIn campaigns, manage replies, and read campaign stats.
 - [Limurse](https://limurse.ai/developers/mcp) `https://api.limurse.ai/mcp`
   [![Limurse MCP connector](https://glama.ai/mcp/connectors/ai.limurse/limurse/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limurse/limurse)
   🔐 - Find bookable creators, benchmark market rates and draft campaign briefs; read-only, booking happens on Limurse.
