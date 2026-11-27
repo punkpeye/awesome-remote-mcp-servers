@@ -160,6 +160,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alba.design](https://alba.design) `https://alba.design/mcp`
   [![Alba.design MCP connector](https://glama.ai/mcp/connectors/design.alba/albadesign/badges/score.svg)](https://glama.ai/mcp/connectors/design.alba/albadesign)
   🔓 - Remote MCP server of the Alba.design builder: create a website or store draft, get features, pricing and doc search.
+- [Brújula IA](https://brujula.minogan.ai/) `https://brujula.minogan.ai/mcp`
+  [![Brújula IA MCP connector](https://glama.ai/mcp/connectors/ai.minogan.brujula/brujula-ia/badges/score.svg)](https://glama.ai/mcp/connectors/ai.minogan.brujula/brujula-ia)
+  🔓 - AI tool catalog in Spanish for agents: search verified tools, chat with agents and join the collaboration pool.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
