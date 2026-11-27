@@ -1509,6 +1509,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiniTools](https://minitools.bigfloppy.net) `https://minitools.bigfloppy.net/mcp`
   [![MiniTools MCP connector](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools/badges/score.svg)](https://glama.ai/mcp/connectors/net.bigfloppy.minitools/minitools)
   🔓 - Six tiny devtools (slugs, timestamps, case, hash, base64, UUID) over GET endpoints and MCP; no key needed.
+- [Model Ruler](https://modelruler.dev/) `https://modelruler.dev/mcp`
+  [![Model Ruler MCP connector](https://glama.ai/mcp/connectors/io.github.helphub369/model-ruler/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helphub369/model-ruler)
+  🔓 - Free, read-only AI workload cost planning for LLM agents, RAG, evaluations, token budgets, and inference.
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
@@ -1702,6 +1705,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UnitConvertLab](https://unitconvertlab.com/mcp) `https://nawpscdfwillbgkbupeo.supabase.co/functions/v1/mcp`
   [![UnitConvertLab MCP MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.Aziz0346/unitconvertlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Aziz0346/unitconvertlab)
   🔓 - Convert between 460+ units across 36 categories including regional South Asian land units with full provenance.
+- [Utility Matrix](https://utility-matrix.com/) `https://utility-matrix.com/mcp`
+  [![Utility Matrix MCP connector](https://glama.ai/mcp/connectors/io.github.helphub369/utility-matrix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helphub369/utility-matrix)
+  🔓 - Free, no-login DevOps, cloud, SLO, security and data-governance calculations through 31 read-only tools.
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
