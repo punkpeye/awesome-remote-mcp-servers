@@ -2921,6 +2921,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The 07:00 Brief](https://0700.io) `https://api.antevo.ch/mcp/0700/mcp`
   [![The 07:00 Brief MCP connector](https://glama.ai/mcp/connectors/ch.antevo/0700-brief/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/0700-brief)
   🔓 - A daily editorial morning read on markets and the world: what moved, what it means and what to watch today.
+- [The Bonus Stack](https://thebonusstack.com/agents) `https://thebonusstack.com/mcp`
+  [![The Bonus Stack MCP connector](https://glama.ai/mcp/connectors/com.thebonusstack/bonuses/badges/score.svg)](https://glama.ai/mcp/connectors/com.thebonusstack/bonuses)
+  🔓 - Current US bank account bonuses: what each requires, deadlines, direct deposit rules and how long banks take to pay.
 - [The River](https://theriver.markets/agents) `https://theriver.markets/mcp`
   [![The River MCP connector](https://glama.ai/mcp/connectors/markets.theriver/the-river/badges/score.svg)](https://glama.ai/mcp/connectors/markets.theriver/the-river)
   🔓 - Tokenized US stocks onchain: issuers, onchain vs US prices, holdings, pre-filled trade links a person signs.
