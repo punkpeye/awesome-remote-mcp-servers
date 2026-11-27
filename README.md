@@ -4182,6 +4182,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [stillindexed](https://stillindexed.com/mcp) `https://api.stillindexed.com/mcp`
   [![stillindexed MCP connector](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers/badges/score.svg)](https://glama.ai/mcp/connectors/com.stillindexed/seo-checkers)
   🔓 - Indexability, robots.txt, sitemap, TLS, domain-expiry and AI-crawler checks for any URL; no account.
+- [Storra for Brands](https://getstorra.com/ai) `https://mcp.getstorra.com/brands?src=awesome-remote`
+  [![Storra for Brands MCP connector](https://glama.ai/mcp/connectors/com.getstorra/brands/badges/score.svg)](https://glama.ai/mcp/connectors/com.getstorra/brands)
+  🔓 - Find real charity stories a brand could fund as a cause-marketing campaign. Read-only, no sign-in.
 - [SubmitMyStartup](https://submitmystartup.com/) `https://submitmystartup.com/mcp`
   [![SubmitMyStartup MCP connector](https://glama.ai/mcp/connectors/com.submitmystartup/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.submitmystartup/mcp)
   🔓 - Searches a free list of startup directories and launch sites with real submission results.
@@ -5988,6 +5991,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StoriesIG](https://storiesig.info/en/mcp/) `https://api-wh.storiesig.info/instagram/mcp`
   [![StoriesIG MCP connector](https://glama.ai/mcp/connectors/info.storiesig/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/info.storiesig/instagram-mcp)
   🔐 - Read public Instagram profiles, posts, reels, stories, highlights, comments and followers, and get video links.
+- [Storra for Creators](https://getstorra.com/ai) `https://mcp.getstorra.com/creators?src=awesome-remote`
+  [![Storra for Creators MCP connector](https://glama.ai/mcp/connectors/com.getstorra/creators/badges/score.svg)](https://glama.ai/mcp/connectors/com.getstorra/creators)
+  🔓 - Find real charity stories a creator could make content about, with the brief. Read-only, no sign-in.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
