@@ -6760,6 +6760,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Perspect](https://tryperspect.com) `https://perspect-ai-backend.onrender.com/mcp`
   [![Perspect MCP connector](https://glama.ai/mcp/connectors/com.tryperspect/perspect/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryperspect/perspect)
   🔓 - Convene a panel of expert AI personas to debate a decision from every side; debates need a Pro key.
+- [Pest Control Pack](https://pest-control-pack.nerolabs.workers.dev/docs) `https://pest-control-pack.nerolabs.workers.dev/mcp`
+  [![Pest Control Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/pest-control-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/pest-control-pack)
+  🔓 - Pest identification, treatment plans, quotes, UK law checks on control methods and business contracts for UK pest controllers.
 - [Private SuperIntelligence](https://privatesuperintelligence.si) `https://privatesuperintelligence.si/mcp`
   [![Private SuperIntelligence MCP connector](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence/badges/score.svg)](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence)
   🔓 - Read about Private SuperIntelligence, a private AI concierge, search its guides and join the waitlist.
