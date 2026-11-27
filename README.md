@@ -4058,6 +4058,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pageree](https://pageree.com) `https://mcp.pageree.com/`
   [![Pageree MCP connector](https://glama.ai/mcp/connectors/com.pageree/landing-pages/badges/score.svg)](https://glama.ai/mcp/connectors/com.pageree/landing-pages)
   🔐 - Publish landing pages from your assistant with a working lead form, then improve them from per-section visitor data.
+- [Parallel AI for Google Ads](https://www.withparallel.ai/tools) `https://www.withparallel.ai/api/mcp`
+  [![Parallel AI for Google Ads MCP connector](https://glama.ai/mcp/connectors/ai.withparallel/google-ads-tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.withparallel/google-ads-tools)
+  🔓 - Nine read-only Google Ads tools: 30.4x pacing, Search Terms CSV audit, negative collisions, GA4 debug, and v26 GAQL.
+
 - [Peak Answer](https://peakanswer.com) `https://peakanswer.com/api/mcp`
   [![Peak Answer MCP connector](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer/badges/score.svg)](https://glama.ai/mcp/connectors/com.peakanswer/peak-answer)
   🔐 - Whether AI search recommends your brand, which buying questions competitors win, and the technical faults stopping engines reading you.
