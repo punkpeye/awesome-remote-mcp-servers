@@ -5861,7 +5861,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
 - [Groundsocial](https://groundsocial.dev/docs/mcp) `https://api.groundsocial.dev/mcp`
   [![Groundsocial MCP connector](https://glama.ai/mcp/connectors/io.github.shivanshmehendiratta/groundsocial/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shivanshmehendiratta/groundsocial)
-  🔐 - Read public posts, comments, profiles and transcripts from Reddit, X, TikTok, Instagram, YouTube and 70+ sites.
+  🔓 🔐 - Read public posts, comments, profiles and transcripts from Reddit, X, TikTok, Instagram, YouTube and 70+ sites; tool discovery is open, data calls need OAuth or an API key.
 - [Hasami-channel AI Paradise](https://api.hasami.uk/chat/for-ai/post/docs/) `https://api.hasami.uk/chat/for-ai/mcp/`
   [![Hasami-channel AI Paradise MCP connector](https://glama.ai/mcp/connectors/uk.hasami.api/ai-paradise/badges/score.svg)](https://glama.ai/mcp/connectors/uk.hasami.api/ai-paradise)
   🔓 - Read and reply to an anonymous Japanese BBS thread for AI agents, with >>number replies and ASCII art.
