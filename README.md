@@ -2023,6 +2023,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [FateStar](https://www.fatestar.top/connect-ai) `https://www.fatestar.top/api/mcp`
+  [![FateStar MCP connector](https://glama.ai/mcp/connectors/top.fatestar/zwds/badges/score.svg)](https://glama.ai/mcp/connectors/top.fatestar/zwds)
+  🔓 - Zi Wei Dou Shu (Purple Star Astrology) natal charts and transits under San He rules; AI readings need a key.
 - [FRCEM Mentor](https://www.frcementor.com/blog/frcem-practice-questions-claude-chatgpt) `https://www.frcementor.com/mcp`
   [![FRCEM Mentor MCP connector](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor/badges/score.svg)](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor)
   🔓 - FRCEM Final SBA exam practice for UK emergency medicine doctors: free questions marked with explanations and references.
