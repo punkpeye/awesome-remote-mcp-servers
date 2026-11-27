@@ -3487,6 +3487,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mnemoverse](https://mnemoverse.com) `https://mcp.mnemoverse.com/mcp`
   [![Mnemoverse MCP connector](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server)
   🔐 - Persistent agent memory; tell it a recalled memory helped or misled and it re-ranks the next recall.
+- [Nessie](https://nessielabs.com) `https://mcp.nessielabs.com/mcp`
+  [![Nessie MCP connector](https://glama.ai/mcp/connectors/com.nessielabs/nessie/badges/score.svg)](https://glama.ai/mcp/connectors/com.nessielabs/nessie)
+  🔐 - Search your team's past ChatGPT, Claude, Codex and Cursor conversations, read saved contexts, and share sessions.
 - [New Runtime](https://newruntime.com/agents/) `https://newruntime.com/mcp`
   [![New Runtime MCP connector](https://glama.ai/mcp/connectors/com.newruntime/archive/badges/score.svg)](https://glama.ai/mcp/connectors/com.newruntime/archive)
   🔓 - Dated, source-linked AI-engineering archive: what changed since a date, topic briefs, forecasts with a track record.
