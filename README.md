@@ -192,6 +192,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FlowRunner Prompt to Flow](https://docs.flowrunner.ai/build/prompt-to-flow) `https://app.flowrunner.ai/mcp`
   [![FlowRunner Prompt to Flow MCP connector](https://glama.ai/mcp/connectors/ai.flowrunner.app/flow-runner-prompt-to-flow/badges/score.svg)](https://glama.ai/mcp/connectors/ai.flowrunner.app/flow-runner-prompt-to-flow)
   🔐 - Build FlowRunner flows across 2,300 integrations from a plain-English prompt, then run, fix, and schedule them in chat.
+- [FMF Tools Directory](https://tools.fmf-x402.workers.dev/?ref=awesome-remote-mcp) `https://tools.fmf-x402.workers.dev/mcp`
+  [![FMF Tools Directory MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/fmf-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/fmf-tools-directory)
+  🔓 - Search 36,650 live-tested MCP servers and 3,548 paid agent APIs on the web, by JSON API or MCP.
 - [GenMagic](https://genmagic.co/developers?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=hosted-mcp-sep-2026) `https://genmagic.co/api/mcp`
   [![GenMagic MCP connector](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yumaheymans/genmagic)
   🔓 - Generate text, images, speech, music, and video from one prepaid balance, with optional brand personalization; tool discovery is open, generation calls need a GenMagic API key.
