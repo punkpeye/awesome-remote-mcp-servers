@@ -2876,6 +2876,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SpainCompanyAPI](https://spaincompanyapi.com/docs#mcp) `https://apiempresas.es/api/mcp`
   [![SpainCompanyAPI MCP connector](https://glama.ai/mcp/connectors/io.github.abasmartinc/apiempresas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.abasmartinc/apiempresas)
   🔓 - Spanish company lookup by tax ID: status, legal form, LEI, revoked tax IDs; KYB and sanctions with an API key.
+- [Solana Rent & Rug Shield](https://rentandrugshield.com) `https://rentandrugshield.com/mcp`
+  🔓 - Non-custodial 12-layer Solana token rug scanner, CPI drainer simulator, and read-only empty ATA rent discovery.
 - [Stablecoin Scanner](https://stablescan.achivx.com) `https://stablescan.achivx.com/mcp`
   [![Stablecoin Scanner MCP connector](https://glama.ai/mcp/connectors/com.achivx/stablescan/badges/score.svg)](https://glama.ai/mcp/connectors/com.achivx/stablescan)
   🔓 - Stablecoin compliance on 7 chains: issuer freezes, OFAC, exposure and risk, allowances, transfers, wallet graph.
