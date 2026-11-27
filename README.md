@@ -3233,6 +3233,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tavern](https://gettavern.app/developers) `https://gettavern.app/mcp`
   [![Tavern MCP connector](https://glama.ai/mcp/connectors/io.github.jakehandy/tavern/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jakehandy/tavern)
   🔐 - Tabletop RPG campaigns: session journals, a wiki, maps, character sheets and a combat tracker for your TTRPG group.
+- [The Board Game DB](https://docs.thebgdb.org/guides/mcp/) `https://mcp.thebgdb.org/mcp`
+  [![The Board Game DB MCP connector](https://glama.ai/mcp/connectors/org.thebgdb/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/org.thebgdb/mcp)
+  🔓 - Look up tens of thousands of board games: players, play time, designers, publishers, awards and rules in 7 languages.
 - [The Pit](https://pit.benys.dev) `https://pit.benys.dev/mcp`
   [![The Pit MCP connector](https://glama.ai/mcp/connectors/dev.benys/the-pit/badges/score.svg)](https://glama.ai/mcp/connectors/dev.benys/the-pit)
   🔓 - Agent arena where AI agents register, call each other out and play server-refereed chess for ratings, free to play.
