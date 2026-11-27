@@ -2131,6 +2131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ROVE Snow Forecast](https://rove-ski.com/en/ai) `https://rove-ski.com/mcp`
   [![ROVE Snow Forecast MCP connector](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast/badges/score.svg)](https://glama.ai/mcp/connectors/com.rove-ski/snow-forecast)
   🔐 - Free 15-day snow forecasts and conditions for 667 ski resorts in North America and Japan.
+- [slonce.info.pl](https://slonce.info.pl/en/for-ai) `https://slonce.info.pl/mcp`
+  [![slonce MCP connector](https://glama.ai/mcp/connectors/pl.info.slonce/slonce/badges/score.svg)](https://glama.ai/mcp/connectors/pl.info.slonce/slonce)
+  🔓 - Sunrise, sunset, day length, golden and blue hours, moonrise and moon phases for any place and day.
 - [SpotWave](https://spotwave.eu/api-docs) `https://spotwave.eu/api/mcp`
   [![SpotWave MCP connector](https://glama.ai/mcp/connectors/eu.spotwave/prices/badges/score.svg)](https://glama.ai/mcp/connectors/eu.spotwave/prices)
   🔓 - Day-ahead electricity prices for 40+ European market zones, all-in with energy tax, grid fees and VAT.
@@ -5050,6 +5053,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ithy Research Library](https://ithy.com/connect) `https://ithy.com/mcp`
   [![Ithy Research Library MCP connector](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library/badges/score.svg)](https://glama.ai/mcp/connectors/com.ithy/ithy-research-library)
   🔓 - Search and read public AI-assisted articles with source links and original/revision dates; no login or generation.
+- [kosmos.info.pl](https://kosmos.info.pl/en/for-ai) `https://kosmos.info.pl/mcp`
+  [![kosmos MCP connector](https://glama.ai/mcp/connectors/pl.info.kosmos/kosmos/badges/score.svg)](https://glama.ai/mcp/connectors/pl.info.kosmos/kosmos)
+  🔓 - Night sky over Poland: clouds, moon, ISS passes, aurora, planets, meteor showers; NASA's picture of the day, asteroids.
 - [Labour Market Statistics (Monitly)](https://monit.ly/mcp-docs#public-servers) `https://monit.ly/api/mcp/labour`
   [![Labour Market Statistics (Monitly) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/labour-market-statistics)
   🔓 - Unemployment, employment, wages and labour costs for 150+ countries from Eurostat, OECD, ILO and World Bank.
@@ -6638,6 +6644,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokenrip](https://tokenrip.com) `https://api.tokenrip.com/mcp`
   [![Tokenrip MCP connector](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.silostack/tokenrip)
   🔐 - Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs.
+- [urlhub](https://urlhub.cloud/docs?lang=en) `https://urlhub.cloud/mcp`
+  [![urlhub MCP connector](https://glama.ai/mcp/connectors/cloud.urlhub/urlhub/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.urlhub/urlhub)
+  🔓 - Many links as one short link with a QR code; read shared link sets and preview what links are about.
 - [UseHourly](https://usehourly.app) `https://usehourly.app/api/mcp`
   [![UseHourly MCP connector](https://glama.ai/mcp/connectors/app.usehourly/usehourly/badges/score.svg)](https://glama.ai/mcp/connectors/app.usehourly/usehourly)
   🔐 - Log time, run timers, manage clients and projects, and create invoices for freelancers.
@@ -6792,6 +6801,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zodiacs](https://zodiacs.org/developers/ai/) `https://zodiacs.org/mcp`
   [![Zodiacs MCP connector](https://glama.ai/mcp/connectors/io.github.zodiacs-org/zodiacs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zodiacs-org/zodiacs)
   🔓 - Explore your birth chart, compatibility, horoscopes and the sky on days that matter.
+- [zodiak.info.pl](https://zodiak.info.pl/dla-ai) `https://zodiak.info.pl/mcp`
+  [![zodiak MCP connector](https://glama.ai/mcp/connectors/pl.info.zodiak/zodiak/badges/score.svg)](https://glama.ai/mcp/connectors/pl.info.zodiak/zodiak)
+  🔓 - Birth charts, planet positions, zodiac sign dates and an astrological calendar: calculations, no predictions.
 
 ## Community
 
