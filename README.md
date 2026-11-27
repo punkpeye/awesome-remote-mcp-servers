@@ -5167,6 +5167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Amir Pournasserian](https://pournasserian.com) `https://ai.pournasserian.com/mcp`
   [![Amir Pournasserian MCP connector](https://glama.ai/mcp/connectors/io.github.pournasserian/mcp-my-site/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pournasserian/mcp-my-site)
   🔓 - Search and fetch over the pages of pournasserian.com: writing on MCP, AI agents and RAG, experience and projects.
+- [AnySearch](https://www.anysearch.com/docs/mcp-install) `https://api.anysearch.com/mcp`
+  [![AnySearch MCP connector](https://glama.ai/mcp/connectors/com.anysearch.api/any-search/badges/score.svg)](https://glama.ai/mcp/connectors/com.anysearch.api/any-search)
+  🔓 - Search the web and domain-specific sources, run parallel queries, and extract web page content.
 - [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
   [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
   🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
