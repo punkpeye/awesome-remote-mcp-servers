@@ -5705,6 +5705,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NetAPI](https://netapi.com/help/mcp/) `https://mcp.netapi.com/mcp`
   [![NetAPI MCP connector](https://glama.ai/mcp/connectors/com.netapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.netapi/mcp)
   🔐 - Domain intelligence: compromised domain and IP checks, TLD stats, Top 1M ranks, new domains, registrars and DNS.
+- [NovaCraft x402 API](https://novacraft-x402-api-981337528602.us-central1.run.app/.well-known/x402.json) `https://novacraft-x402-api-981337528602.us-central1.run.app/mcp`
+  [![NovaCraft x402 API MCP connector](https://glama.ai/mcp/connectors/app.run.us-central1.novacraft-x402-api-981337528602/nova-craft-x402-api/badges/score.svg)](https://glama.ai/mcp/connectors/app.run.us-central1.novacraft-x402-api-981337528602/nova-craft-x402-api)
+  🔓 - Pre-trade EVM/Solana token risk briefs and Solidity static security triage; pay-per-call Base USDC via x402.
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
