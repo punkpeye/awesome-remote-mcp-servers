@@ -2347,6 +2347,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BLIA — Bank Product Terms](https://www.bliahub.com) `https://mcp.bliahub.com/mcp`
   [![BLIA — Bank Product Terms MCP connector](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue/badges/score.svg)](https://glama.ai/mcp/connectors/com.bliahub/blia-catalogue)
   🔓 - Bank account terms as banks publish them, dated: fees, waivers, offers. Read-only. Canada today.
+- [Bosco Labs Data](https://boscolabs.dev) `https://api.boscolabs.dev/mcp/free`
+  [![Bosco Labs Data MCP connector](https://glama.ai/mcp/connectors/io.github.Bosco-Labs/bosco-labs-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Bosco-Labs/bosco-labs-data)
+  🔓 - Official-source records: free GLEIF LEI and SEC EDGAR lookups, a source URL on every row; 30 more tools need a key.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
