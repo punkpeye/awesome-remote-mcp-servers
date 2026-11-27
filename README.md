@@ -757,6 +757,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [gpu.nz](https://gpu.nz/en/docs/mcp) `https://gpu.nz/mcp`
   [![gpu.nz MCP connector](https://glama.ai/mcp/connectors/nz.gpu/gpu-cloud/badges/score.svg)](https://glama.ai/mcp/connectors/nz.gpu/gpu-cloud)
   🔓 - Find GPUs with live prices, estimate VRAM, rent, monitor and stop GPU servers; renting needs an API key.
+- [gpyou](https://gpyou.ai) `https://app.gpyou.ai/mcp`
+  [![gpyou MCP connector](https://glama.ai/mcp/connectors/io.github.robertkeus/gpyou/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.robertkeus/gpyou)
+  🔓 - Live GPU stock and hourly prices from GPU clouds worldwide, filtered by GPU, region and price.
 - [Handsome Hosting](https://hosting.handsome.co.il/connect?utm_source=awesome-remote-mcp-servers&utm_medium=listing) `https://hosting.handsome.co.il/mcp`
   [![Handsome Hosting MCP connector](https://glama.ai/mcp/connectors/il.co.handsome.hosting/handsome-hosting/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.handsome.hosting/handsome-hosting)
   🔐 - Deploy sites, apps and WordPress to managed servers, buy or connect domains, edit DNS, read logs and roll back.
