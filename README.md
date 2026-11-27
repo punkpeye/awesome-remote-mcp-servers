@@ -1034,6 +1034,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fantasma](https://www.fantasma.io/mcp) `https://www.fantasma.io/api/mcp`
   [![Fantasma MCP connector](https://glama.ai/mcp/connectors/io.fantasma/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fantasma/mcp)
   🔐 - Design Ghost themes from chat: pages, styles, patterns and previews, then publish to your Ghost site.
+- [FileShare Pro](https://file-share-pro.com/developers) `https://fileproapp.com/mcp`
+  [![FileShare Pro MCP connector](https://glama.ai/mcp/connectors/com.fileproapp/filesharepro/badges/score.svg)](https://glama.ai/mcp/connectors/com.fileproapp/filesharepro)
+  🔐 - Publish HTML files as shareable pages, replace them at the same link, and read guest comments.
 - [Foliade](https://foliade.gekkode.com/en/) `https://foliade.gekkode.com/mcp`
   [![Foliade MCP connector](https://glama.ai/mcp/connectors/com.gekkode/foliade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gekkode/foliade)
   🔓 - Turn a PDF into a mobile flipbook catalogue, customise its reader and publish it.
