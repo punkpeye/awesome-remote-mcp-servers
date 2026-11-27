@@ -1185,7 +1185,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Model Ruler](https://modelruler.dev/) `https://modelruler.dev/mcp`
   [![Model Ruler MCP connector](https://glama.ai/mcp/connectors/io.github.helphub369/model-ruler/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helphub369/model-ruler)
   🔓 - Free, read-only AI workload cost planning for LLM agents, RAG, evaluations, token budgets, and inference.
-
 - [Model Tested](https://modeltested.com/mcp/) `https://modeltested.com/mcp`
   [![Model Tested MCP connector](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks/badges/score.svg)](https://glama.ai/mcp/connectors/com.modeltested/llm-benchmarks)
   🔓 - Independent test scores for open-weight LLMs: find the best model for your GPU or Mac, compare models.
@@ -1346,7 +1345,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Utility Matrix](https://utility-matrix.com/) `https://utility-matrix.com/mcp`
   [![Utility Matrix MCP connector](https://glama.ai/mcp/connectors/io.github.helphub369/utility-matrix/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.helphub369/utility-matrix)
   🔓 - Free, no-login DevOps, cloud, SLO, security and data-governance calculations through 31 read-only tools.
-
 - [UXMachine](https://uxmachine.app/en/agents?via=awesome) `https://uxmachine.app/mcp`
   [![UXMachine MCP connector](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.qtorb/uxmachine)
   🔐 - Measures your site in a real browser and returns verifiable observations, with evidence and limits.
