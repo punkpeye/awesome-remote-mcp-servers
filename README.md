@@ -826,6 +826,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [while.sh](https://while.sh/en/) `https://app.while.sh/mcp`
   [![while.sh MCP connector](https://glama.ai/mcp/connectors/sh.while/while/badges/score.svg)](https://glama.ai/mcp/connectors/sh.while/while)
   🔐 - French PaaS built for AI agents: deploy apps, PostgreSQL, caches, S3 and jobs over MCP.
+- [xCloud](https://xcloud.host/mcp/) `https://app.xcloud.host/mcp`
+  [![xCloud MCP connector](https://glama.ai/mcp/connectors/host.xcloud/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/host.xcloud/mcp)
+  🔐 - Manage servers, sites, WordPress, SSL, backups and deploys on the xCloud hosting control panel.
   
 ### 💬 <a name="communication"></a>Communication
 
