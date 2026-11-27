@@ -2362,6 +2362,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
+- [CantorFi](https://www.cantorfi.xyz) `https://www.cantorfi.xyz/api/mcp`
+  [![CantorFi MCP connector](https://glama.ai/mcp/connectors/io.github.cantorfi/cantorfi-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cantorfi/cantorfi-mcp)
+  🔓 - Isolated lending vaults on Base Sepolia: live rates, liquidity, contract addresses and liquidation bot commands.
 - [Cashboard Signals](https://cashboard.live/docs/signals-api) `https://cashboard.live/mcp`
   [![Cashboard Signals MCP connector](https://glama.ai/mcp/connectors/live.cashboard/signals/badges/score.svg)](https://glama.ai/mcp/connectors/live.cashboard/signals)
   🔓 - Hyperliquid perps scans, OI movers, funding extremes, Solana swaps; pay per call in USDC via x402, free daily samples.
