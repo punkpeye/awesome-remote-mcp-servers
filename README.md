@@ -2526,6 +2526,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemral Edge](https://www.gemral.com/edge) `https://mcp.gemral.com/mcp`
   [![Gemral Edge MCP connector](https://glama.ai/mcp/connectors/io.github.gemral-edge/gemral-edge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gemral-edge/gemral-edge)
   🔐 - Point-in-time US public records: federal contracts, congressional and insider trades, lobbying, tied to tickers.
+- [GiftChecker](https://giftcheckertg.com/mcp-docs) `https://giftcheckertg.com/mcp`
+  [![GiftChecker MCP connector](https://glama.ai/mcp/connectors/com.giftcheckertg/giftchecker/badges/score.svg)](https://glama.ai/mcp/connectors/com.giftcheckertg/giftchecker)
+  🔓 - Read-only Telegram collectible gift prices, floors, rarity, observed sales, and marketplace asks.
 - [Glacier Planner](https://planner.glacierfinancial.ca/developers) `https://planner.glacierfinancial.ca/calculate/mcp`
   [![Glacier Planner MCP connector](https://glama.ai/mcp/connectors/io.github.marcpineault/glacier-planner-calculator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.marcpineault/glacier-planner-calculator)
   🔓 - Free Canadian retirement projection plus one what-if for one or two adults; no account required, not personal advice.
