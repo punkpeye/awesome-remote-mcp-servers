@@ -2023,6 +2023,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DesarrolloMCP](https://desarrollomcp.com/servidor-mcp) `https://desarrollomcp.com/mcp`
   [![DesarrolloMCP MCP connector](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.desarrollomcp/desarrollomcp)
   🔓 - Spanish-language MCP course: search and read lessons and articles; optional OAuth sign-in for your progress.
+- [Every Program](https://everyprogram.com/en/developers) `https://api.everyprogram.com/mcp`
+  [![Every Program MCP connector](https://glama.ai/mcp/connectors/com.everyprogram/every-program/badges/score.svg)](https://glama.ai/mcp/connectors/com.everyprogram/every-program)
+  🔓 - Search and compare 21,000+ study programmes: fees, deadlines and requirements, each with a source and check date.
 - [FRCEM Mentor](https://www.frcementor.com/blog/frcem-practice-questions-claude-chatgpt) `https://www.frcementor.com/mcp`
   [![FRCEM Mentor MCP connector](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor/badges/score.svg)](https://glama.ai/mcp/connectors/com.frcementor.www/frcem-mentor)
   🔓 - FRCEM Final SBA exam practice for UK emergency medicine doctors: free questions marked with explanations and references.
