@@ -4999,6 +4999,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RecruitMCP](https://recruitmcp.com) `https://mcp.recruitmcp.com/mcp`
   [![RecruitMCP MCP connector](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.recruitmcp/recruitmcp)
   🔐 - Recruiting data for AI agents: search people and companies, enrich profiles, find email and phone via MCP.
+- [Resolvary](https://resolvary.com/mcp/) `https://api.resolvary.com/mcp`
+  [![Resolvary MCP connector](https://glama.ai/mcp/connectors/com.resolvary/email-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.resolvary/email-finder)
+  🔑 - Find a person's work email from their name and company domain, and verify email addresses.
 - [Revenue Enablement](https://tools.gtmhelix.com/connectors/) `https://revenue-enablement.gtmhelix.com/mcp`
   [![Revenue Enablement MCP connector](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.shashwatgtm/revenue-enablement-mcp)
   🔓 - Twelve deal strategy and sales enablement tools for B2B revenue teams.
