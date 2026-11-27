@@ -5603,6 +5603,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AuthiChain](https://authichain.com/x402) `https://authichain.com/mcp`
   [![AuthiChain MCP connector](https://glama.ai/mcp/connectors/com.authichain/authichain/badges/score.svg)](https://glama.ai/mcp/connectors/com.authichain/authichain)
   🔓 - Free tools for signed-record verify and EU DPP readiness; paid seal verify is $0.05 USDC on Base via x402.
+- [Aziel Runtime](https://aziel-runtime.vibelock.workers.dev) `https://aziel-runtime.vibelock.workers.dev/mcp`
+  [![Aziel Runtime MCP connector](https://glama.ai/mcp/connectors/io.github.AzielEliab/aziel-runtime/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AzielEliab/aziel-runtime)
+  🔓 - Governed MCP for agent audit, provenance, and receipt-backed FragGate execution (36 tools).
 - [CertScore.ai MCP Light](https://certscore.ai/mcp/light) `https://mcp.certscore.ai/mcp/light`
   [![CertScore.ai MCP Light MCP connector](https://glama.ai/mcp/connectors/ai.certscore/mcp-light/badges/score.svg)](https://glama.ai/mcp/connectors/ai.certscore/mcp-light)
   🔓 - Four tools scan public websites for cookie, tracker, consent, policy, and HTTPS/TLS risk signals.
@@ -6150,6 +6153,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [Trades Runtime](https://trades-runtime.vibelock.workers.dev) `https://trades-runtime.vibelock.workers.dev/mcp`
+  [![Trades Runtime MCP connector](https://glama.ai/mcp/connectors/io.github.AzielEliab/trades-runtime/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AzielEliab/trades-runtime)
+  🔓 - Public MCP tools for HVAC, plumbing, electrical, and sewer shops. No live shop backends.
 - [WorkWing](https://www.workwing.io/developers) `https://api.workwing.io/mcp`
   [![WorkWing MCP connector](https://glama.ai/mcp/connectors/io.workwing/workwing/badges/score.svg)](https://glama.ai/mcp/connectors/io.workwing/workwing)
   🔐 - Field service jobs: find customers and engineers, read the schedule, create and book jobs, and add notes.
