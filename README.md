@@ -6623,6 +6623,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Taskaid](https://taskaid.ai) `https://taskaid.ai/mcp`
   [![Taskaid MCP connector](https://glama.ai/mcp/connectors/ai.taskaid/taskaid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskaid/taskaid)
   🔐 - Task management between you and your agents: read and update tasks that every connected assistant shares.
+- [Talk To Gina](https://talktogina.ai/connect/) `https://app.talktogina.ai/api/mcp`
+  [![Talk To Gina MCP connector](https://glama.ai/mcp/connectors/ai.talktogina/gina/badges/score.svg)](https://glama.ai/mcp/connectors/ai.talktogina/gina)
+  🔐 - Send tasks to Gina, an AI Chief of Staff; read its threads and files, answer its approvals and run its schedules.
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
