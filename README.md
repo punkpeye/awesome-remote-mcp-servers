@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Happy Horse](https://platform.acedata.cloud/documents/happyhorse) `https://happyhorse.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Happy Horse MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-happyhorse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-happyhorse)
+  🔐 - Generate and edit videos from text, images and references; check task results.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
