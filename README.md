@@ -3802,7 +3802,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Auto Poster AI](https://autoposter.ai) `https://agent.autoposter.ai/mcp`
   [![Auto Poster AI MCP connector](https://glama.ai/mcp/connectors/ai.autoposter/autoposter/badges/score.svg)](https://glama.ai/mcp/connectors/ai.autoposter/autoposter)
-  🔐 - Draft, schedule, publish and analyze social posts on Instagram, TikTok, LinkedIn and X; tools need a paid plan.
+  🔓 - Draft, schedule and analyze social posts on Instagram, TikTok, LinkedIn and X; tools need sign-in and a paid plan.
 
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
