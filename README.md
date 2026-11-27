@@ -1829,6 +1829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FeedShine](https://feedshine.app) `https://feedshine.app/mcp`
   [![FeedShine MCP connector](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.digitaldarts/feedshine)
   🔐 - Build Shopify Google Shopping feeds, fix what Merchant Center rejects, and override product fields.
+- [FindBroadband](https://www.findbroadbanddeals.com/ai-assistants) `https://www.findbroadbanddeals.com/api/mcp/standard`
+  [![FindBroadband MCP connector](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-deals/badges/score.svg)](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-deals)
+  🔓 - Compare UK broadband deals at an exact address and check whether a bill or renewal quote is too high.
 - [gaisho](https://gaisho.co) `https://mcp.gaisho.co/mcp`
   [![gaisho MCP connector](https://glama.ai/mcp/connectors/co.gaisho/gaisho/badges/score.svg)](https://glama.ai/mcp/connectors/co.gaisho/gaisho)
   🔐 - Shopping data for AI agents: product search, price ranges, price checks and seller vetting across US online stores.
@@ -4306,6 +4309,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HTTPStatus](https://httpstatus.com/mcp/) `https://mcp.httpstatus.com/mcp`
   [![HTTPStatus MCP connector](https://glama.ai/mcp/connectors/com.httpstatus/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.httpstatus/mcp-server)
   🔐 - Create API mocks and run tests, security checks, automation workflows, and uptime monitors.
+- [Internet Outage Checker by FindBroadband](https://www.findbroadbanddeals.com/ai-assistants) `https://www.findbroadbanddeals.com/api/mcp/outages`
+  [![Internet Outage Checker MCP connector](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-outages/badges/score.svg)](https://glama.ai/mcp/connectors/com.findbroadbanddeals/broadband-outages)
+  🔓 - Check if a UK broadband provider is down and where, plus its outages over the last 30 days.
 - [is it DNS?](https://isitdns.net) `https://isitdns.net/mcp`
   [![is it DNS? MCP connector](https://glama.ai/mcp/connectors/net.isitdns/isitdns/badges/score.svg)](https://glama.ai/mcp/connectors/net.isitdns/isitdns)
   🔓 - Dig any public resolver, audit or sweep a domain, walk a delegation, read the live resolver board; no key.
