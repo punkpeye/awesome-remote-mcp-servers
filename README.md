@@ -1639,6 +1639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Software Sausage](https://softwaresausage.com/mcp) `https://softwaresausage.com/api/mcp`
   [![Software Sausage MCP connector](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.pinkpwningclub/recipes)
   🔓 - Search independent software and read-only agent workflows with roles, checks and safety boundaries.
+- [Spatial Compiler](https://appliedmanifold.com) `https://mcp.spatialcompiler.dev`
+  [![Spatial Compiler MCP connector](https://glama.ai/mcp/connectors/com.appliedmanifold/spatial-compiler/badges/score.svg)](https://glama.ai/mcp/connectors/com.appliedmanifold/spatial-compiler)
+  🔐 - Your agent gets fully simulated, engine-ready 3D in seconds for games in Godot, three.js, Unity, and Unreal.
 - [Specpack](https://prompt-generator-website.com/mcp-server) `https://prompt-generator-website.com/mcp`
   [![Specpack MCP connector](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.THE-KIPDEV/specpack)
   🔓 - Turn a project description into a full build spec plus AGENTS.md and CLAUDE.md files.
