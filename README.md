@@ -3820,6 +3820,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Blawgy](https://blawgy.com/mcp) `https://app.blawgy.com/mcp`
   [![Blawgy MCP connector](https://glama.ai/mcp/connectors/com.blawgy/blawgy/badges/score.svg)](https://glama.ai/mcp/connectors/com.blawgy/blawgy)
   🔐 - Keyword research, plus writing and publishing SEO blog posts to WordPress, Shopify, Webflow and more.
+- [Book a Sponsor](https://bookasponsor.com) `https://bookasponsor.com/mcp`
+  [![Book a Sponsor MCP connector](https://glama.ai/mcp/connectors/com.bookasponsor/book-a-sponsor/badges/score.svg)](https://glama.ai/mcp/connectors/com.bookasponsor/book-a-sponsor)
+  🔓 - Brands that sponsor newsletters like yours, with where each ad ran, plus newsletter sponsorship rates.
 - [CallAI SEO](https://callaiapi.com/en/integrations/seo-mcp) `https://api.callaiapi.com/mcp`
   [![CallAI SEO MCP connector](https://glama.ai/mcp/connectors/com.callaiapi/seo/badges/score.svg)](https://glama.ai/mcp/connectors/com.callaiapi/seo)
   🔓 - Live Google/Bing SERP, keyword difficulty, backlinks and domain checks, plus free site checks; tools need an API key.
@@ -4956,6 +4959,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [ConferenceDB](https://conferencedatabase.com) `https://conferencedatabase.com/api/mcp`
+  [![ConferenceDB MCP connector](https://glama.ai/mcp/connectors/com.conferencedatabase/conferencedb/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencedatabase/conferencedb)
+  🔓 - Which companies sponsor and exhibit at conferences, with event dates, published sponsorship packages, and sponsor prospects for an organizer's event.
 - [Datamagnet](https://www.datamagnet.co/mcp/) `https://mcp.datamagnet.co/mcp`
   [![Datamagnet MCP connector](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet/badges/score.svg)](https://glama.ai/mcp/connectors/co.datamagnet/datamagnet)
   🔐 - Live LinkedIn people, company and post data, ICP search and job-change signals for sales and recruiting agents.
