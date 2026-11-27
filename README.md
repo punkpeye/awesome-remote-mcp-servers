@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Face Transform](https://platform.acedata.cloud) `https://face.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Face Transform MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-face-transform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-face-transform)
+  🔐 - Detect facial landmarks, retouch portraits, transform age or style, and check liveness.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
