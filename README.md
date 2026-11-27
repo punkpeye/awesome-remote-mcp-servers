@@ -1790,6 +1790,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cambridge China Bridge](https://camchinabridge.co.uk) `https://camchinabridge.co.uk/mcp`
   [![Cambridge China Bridge MCP connector](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.camchinabridge/sourcing)
   🔓 - UK import duty, landed cost, anti-dumping and UK compliance checks for goods from China, plus CNY and freight planning.
+- [Canopy API](https://canopyapi.co) `https://mcp.canopyapi.co/mcp`
+  [![Canopy API MCP connector](https://glama.ai/mcp/connectors/co.canopyapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.canopyapi/mcp)
+  🔐 - Real-time Amazon product data: search, prices, offers, reviews, deals, best sellers, and ASIN lookup.
 - [CartViral](https://cartviral.com/mcp) `https://app.cartviral.com/mcp`
   [![CartViral MCP connector](https://glama.ai/mcp/connectors/com.cartviral/cartviral/badges/score.svg)](https://glama.ai/mcp/connectors/com.cartviral/cartviral)
   🔐 - Import store products, generate TikTok and Reels product clips, get download links, join brand affiliate offers.
