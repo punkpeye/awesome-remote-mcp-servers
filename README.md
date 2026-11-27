@@ -169,6 +169,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CorpusIQ](https://www.corpusiq.io/mcp?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers) `https://mcp2.corpusiq.io/mcp`
   [![CorpusIQ MCP connector](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.corpusiq/multi-source-mcp)
   🔓 - One MCP endpoint for 40+ business systems; tools list without a key, per-connector sign-in for cited answers.
+- [Corsair](https://corsair.dev/?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://mcp.corsair.dev/mcp`
+  [![Corsair MCP connector](https://glama.ai/mcp/connectors/dev.corsair/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.corsair/mcp)
+  🔐 - Search and act in Gmail, Slack, GitHub, Notion and 700+ more apps from one URL, with your rules on every change.
 - [DDMarketer](https://www.ddmarketer.com) `https://www.ddmarketer.com/api/mcp`
   [![DDMarketer MCP connector](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp)
   🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for intent; search and scores need no key.
