@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Veo](https://platform.acedata.cloud/documents/veo-mcp) `https://veo.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Veo MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-veo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-veo)
+  🔐 - Generate videos from text or images and retrieve rendered results.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
