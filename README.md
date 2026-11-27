@@ -459,6 +459,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [Ace Data Cloud Seedream](https://platform.acedata.cloud/documents/seedream-mcp) `https://seedream.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Seedream MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-seedream-pro/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-seedream-pro)
+  🔐 - Generate, edit and decompose Seedream images; track results.
+
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
