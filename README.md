@@ -3866,6 +3866,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
 
+- [Cresva](https://cresva.ai) `https://cresva.ai/mcp`
+  [![Cresva MCP connector](https://glama.ai/mcp/connectors/ai.cresva/cresva/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cresva/cresva)
+  🔐 - Ad campaigns, profit, forecasts and product catalogue for your ecommerce brands, for AI assistants.
 - [Distribution](https://distribution.tech) `https://app.distribution.tech/api/mcp/guest`
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
