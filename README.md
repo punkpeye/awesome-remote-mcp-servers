@@ -3335,6 +3335,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Tech & Startup Jobs Scraper](https://apify.com/mr.wolf/ats-jobs-mcp-server) `https://mcp.apify.com/?tools=mr.wolf/ats-jobs-mcp-server`
+  [![Tech & Startup Jobs Scraper MCP connector](https://glama.ai/mcp/connectors/io.github.Mr-Wolf-Dev/ats-jobs-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mr-Wolf-Dev/ats-jobs-mcp-server)
+  🔐 - Search open roles on Greenhouse, Lever, Ashby and SmartRecruiters; summarize hiring by company, team and seniority.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
