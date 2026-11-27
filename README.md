@@ -2930,6 +2930,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The White Report](https://thewhitereport.com/agents) `https://thewhitereport.com/mcp.php`
   [![The White Report MCP connector](https://glama.ai/mcp/connectors/io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/white-report/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/white-report)
   🔓 - Crypto & AI news archive: latest stories, search, full text, market ticker, and dated calls graded publicly.
+- [TickerLayer](https://tickerlayer.com) `https://mcp.tickerlayer.com/mcp`
+  [![TickerLayer MCP connector](https://glama.ai/mcp/connectors/com.tickerlayer/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.tickerlayer/market-data)
+  🔐 - Quotes, trades, bars and market hours for stocks, forex, crypto, ETFs, indices, commodities, bonds and perpetuals.
 - [Tickerz](https://tickerz.com/connect) `https://tickerz.com/mcp`
   [![Tickerz MCP connector](https://glama.ai/mcp/connectors/com.tickerz/tickerz/badges/score.svg)](https://glama.ai/mcp/connectors/com.tickerz/tickerz)
   🔓 - Daily indexes of memecoin launches, Kalshi and Polymarket volume and x402 payments, on-chain in Bitcoin.
