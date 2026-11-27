@@ -5155,6 +5155,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Help Network](https://agenthelpnetwork.com/en/) `https://agenthelpnetwork.com/mcp`
   [![Agent Help Network MCP connector](https://glama.ai/mcp/connectors/com.agenthelpnetwork/agent-help-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.agenthelpnetwork/agent-help-network)
   🔓 - When a web step is blocked, get a host's declared agent policy, official path and status, plus one next action.
+- [AgentPay API](https://agentpay.help) `https://agentpay.help/mcp`
+  [![AgentPay API MCP connector](https://glama.ai/mcp/connectors/help.agentpay/agentpay/badges/score.svg)](https://glama.ai/mcp/connectors/help.agentpay/agentpay)
+  🔓 - 43 pay-per-call AI/data tools: web/PDF text, DNS, IP intel, ERC-20 metadata, gas, FX rates, code review; settled in USDC on Base via x402.
 - [AgentReader](https://agentreader.xyz) `https://agentreader.xyz/mcp`
   [![AgentReader MCP connector](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.agentreader/agentreader)
   🔓 - Read any URL or PDF as clean Markdown or JSON, with JS rendering; 5 free calls/day, then x402 USDC per call.
