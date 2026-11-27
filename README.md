@@ -6742,6 +6742,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LifeVerse Product Discovery](https://lifeverse.gufreelancer.com/mcp) `https://lifeverse.gufreelancer.com/api/mcp?source=mcp-directory`
   [![LifeVerse Product Discovery MCP connector](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.gufreelancer.lifeverse/public-catalog)
   🔓 - Discover, search and recommend eleven ready-to-use LifeVerse AI products and interactive experiences.
+- [Locksmith Pack](https://locksmith-pack.nerolabs.workers.dev/docs) `https://locksmith-pack.nerolabs.workers.dev/mcp`
+  [![Locksmith Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/locksmith-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/locksmith-pack)
+  🔓 - Lockout and lock change quotes, insurer lock standard checks, entry rules and car key quotes for UK locksmiths.
 - [Mechanics Pack](https://mechanics-pack.nerolabs.workers.dev/docs) `https://mechanics-pack.nerolabs.workers.dev/mcp`
   [![Mechanics Pack MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/mechanics-pack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/mechanics-pack)
   🔓 - MOT due dates, labour times, repair quotes, ULEZ and Clean Air Zone checks and consumer rights for UK garages.
