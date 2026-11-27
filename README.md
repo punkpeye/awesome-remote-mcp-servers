@@ -2642,6 +2642,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
   [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
   🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
+- [LendMail](https://www.lendmail.fit/mcp) `https://www.lendmail.fit/api/mcp`
+  [![LendMail MCP connector](https://glama.ai/mcp/connectors/io.github.rich937/lendmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.rich937/lendmail)
+  🔓 - Reads mailed loan and credit card offers from a photo and checks LendMail Advisors review marks.
 - [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
   [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
   🔓 - Verify Dutch and Belgian companies (KVK, KBO), EU VAT, sanctions and PEPs, with a risk score; key or x402.
