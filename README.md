@@ -5261,6 +5261,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
   [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
   🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
+- [EverTables](https://evertables.com/mcp) `https://mcp.evertables.com/mcp?channel=ch-0S999H2TGZFAN`
+  [![EverTables MCP connector](https://glama.ai/mcp/connectors/com.evertables/evertables/badges/score.svg)](https://glama.ai/mcp/connectors/com.evertables/evertables)
+  🔓 - Searches a catalogue of cleaned, typed open-data tables and runs SQL over any of them; read only.
 - [EveryInfra](https://everyinfra.com/en) `https://api.everyinfra.com/mcp`
   [![EveryInfra MCP connector](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra)
   🔓 - Structured data from 90 platforms, incl. RedNote, Douyin, TikTok and Amazon, plus web search; API key for tool calls.
