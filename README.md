@@ -2940,6 +2940,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [B2B Lead Gen & SaaS Tech Stack Suite](https://apify.com/deepaksheoran172) `https://mcp.apify.com/?tools=deepaksheoran172/website-contact-extractor,deepaksheoran172/bulk-email-verifier-mx-smtp,deepaksheoran172/b2b-lead-domain-intelligence-suite,deepaksheoran172/saas-tech-stack-buying-signals,deepaksheoran172/domain-security-super-auditor`
+  [![B2B Lead Gen & SaaS Tech Stack Suite MCP connector](https://glama.ai/mcp/connectors/io.github.deepakshe/b2b-lead-domain-intelligence-suite-mcp-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.deepakshe/b2b-lead-domain-intelligence-suite-mcp-api)
+  🔐 - Zero-proxy B2B email finder, MX/SMTP verifier, SaaS tech stack & buying signals detector, and SPF/DMARC/SSL security auditor on Apify.
+
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
