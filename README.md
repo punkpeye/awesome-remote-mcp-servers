@@ -3942,6 +3942,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [GSC Magic](https://gscmagic.com) `https://mcp.gscmagic.com/mcp`
   [![GSC Magic MCP connector](https://glama.ai/mcp/connectors/com.gscmagic/gsc-magic/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscmagic/gsc-magic)
   🔐 - Search Console, Bing, GA4, IndexNow and Core Web Vitals with SEO reports: quick wins, drops, decay, index health.
+- [gscdump](https://gscdump.com/mcp) `https://gscdump.com/mcp`
+  [![gscdump MCP connector](https://glama.ai/mcp/connectors/com.gscdump/gscdump/badges/score.svg)](https://glama.ai/mcp/connectors/com.gscdump/gscdump)
+  🔐 - Google Search Console analytics, URL inspection, sitemaps, and 16-month history backfill (37 tools + Explorer UI).
 - [gtm.help](https://gtm.help) `https://gtm.help/mcp`
   [![gtm.help MCP connector](https://glama.ai/mcp/connectors/help.gtm/gtm-help/badges/score.svg)](https://glama.ai/mcp/connectors/help.gtm/gtm-help)
   🔓 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
