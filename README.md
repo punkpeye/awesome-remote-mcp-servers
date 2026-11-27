@@ -6326,6 +6326,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NC Wedding Guide](https://www.ncweddingguide.com) `https://www.ncweddingguide.com/mcp`
   [![NC Wedding Guide MCP connector](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide)
   🔓 - Search North Carolina wedding venues and vendors, estimate costs, build budgets, and prepare vendor inquiries.
+- [NHTSA Vehicle Recalls & VIN Decoder](https://www.mcpstamp.com/free-servers/nhtsa-vehicle-recalls-vin-mcp/) `https://nhtsa-vehicle-recalls-vin-mcp.lipmichal.workers.dev/mcp`
+  [![NHTSA Vehicle Recalls & VIN Decoder MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/nhtsa-vehicle-recalls-vin-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/nhtsa-vehicle-recalls-vin-mcp)
+  🔓 - Decode 17-character US VINs and check live NHTSA safety recalls, ODI complaints, and 5-Star crash ratings.
 - [NomadPoint Travel Facts](https://nomadpoint.app/llms.txt) `https://gxhdcvoveufbkthhendf.supabase.co/functions/v1/mcp-public`
   [![NomadPoint Travel Facts MCP connector](https://glama.ai/mcp/connectors/app.nomadpoint/travel-facts/badges/score.svg)](https://glama.ai/mcp/connectors/app.nomadpoint/travel-facts)
   🔓 - Visa rules for any passport, Schengen 90/180 day counts, and itinerary links a traveller saves for free.
