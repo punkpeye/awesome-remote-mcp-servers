@@ -632,6 +632,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Verdict](https://verdict.allthepossibles.com) `https://verdict.allthepossibles.com/mcp`
   [![Verdict MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/verdict/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/verdict)
   🔓 - Six design-review tools that run before a design ships.
+- [vernissage](https://vernissage.cc/mcp) `https://vernissage.cc/api/mcp`
+  [![vernissage MCP connector](https://glama.ai/mcp/connectors/cc.vernissage/vernissage/badges/score.svg)](https://glama.ai/mcp/connectors/cc.vernissage/vernissage)
+  🔓 - Live map of contemporary art: what's on in a city, who an artist, space or show is, artworks by description.
 - [Vibesignet](https://vibesignet.com) `https://vibesignet.com/api/mcp`
   [![Vibesignet MCP connector](https://glama.ai/mcp/connectors/com.vibesignet/templates/badges/score.svg)](https://glama.ai/mcp/connectors/com.vibesignet/templates)
   🔓 - Search website templates and components, and fetch their build prompts for AI coding agents; full prompts need a key.
