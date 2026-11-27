@@ -1760,6 +1760,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentXray](https://agentxray.ai) `https://agentxray.ai/api/mcp`
   [![AgentXray MCP connector](https://glama.ai/mcp/connectors/ai.agentxray/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.agentxray/mcp)
   🔐 - Amazon Seller Central and Ads: profit from your own settlement reports, ads judged on net profit, drafts you approve.
+- [alephlo](https://alephlo.com) `https://alephlo.com/mcp/me`
+  [![alephlo MCP connector](https://glama.ai/mcp/connectors/com.alephlo/classifieds/badges/score.svg)](https://glama.ai/mcp/connectors/com.alephlo/classifieds)
+  🔐 - Worldwide have / need classifieds in 25 languages: search nearest first, post listings, message owners, set alerts.
+- [alephlo Search](https://alephlo.com) `https://alephlo.com/mcp`
+  [![alephlo Search MCP connector](https://glama.ai/mcp/connectors/com.alephlo/search/badges/score.svg)](https://glama.ai/mcp/connectors/com.alephlo/search)
+  🔓 - Read-only search of alephlo's worldwide classifieds, nearest first, with categories and each section's fields.
 - [ALLR](https://allr.io) `https://allr.io/mcp`
   [![ALLR MCP connector](https://glama.ai/mcp/connectors/io.github.dfedarchuk/allr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dfedarchuk/allr)
   🔓 - Compare motorcycle gear by landed cost (item, shipping, duty, tax) in CA, US, EU, UK; price drops; sizing.
