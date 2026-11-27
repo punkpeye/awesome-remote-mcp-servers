@@ -3624,6 +3624,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClevSec EU compliance](https://clevsec.one/mcp/) `https://mcp.clevsec.one/mcp`
   [![ClevSec EU compliance MCP connector](https://glama.ai/mcp/connectors/one.clevsec/eu-compliance/badges/score.svg)](https://glama.ai/mcp/connectors/one.clevsec/eu-compliance)
   🔓 - Rule-based NIS2, DORA, GDPR and Cyber Resilience Act checks, with the legal sources for every answer.
+- [Clino](https://clino.ch/en/mcp) `https://clino.ch/mcp`
+  [![Clino MCP connector](https://glama.ai/mcp/connectors/ch.clino/household-employment/badges/score.svg)](https://glama.ai/mcp/connectors/ch.clino/household-employment)
+  🔓 - Swiss household employment rules for all 26 cantons: cost, net wage, minimum wage and deadlines, every figure sourced.
 - [Common Paper](https://commonpaper.com) `https://api.commonpaper.com/mcp`
   [![Common Paper MCP connector](https://glama.ai/mcp/connectors/com.commonpaper/contracts/badges/score.svg)](https://glama.ai/mcp/connectors/com.commonpaper/contracts)
   🔐 - Create agreements from standard templates, send them for signature, and track status and history.
