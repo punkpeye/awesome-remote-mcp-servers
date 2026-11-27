@@ -4257,6 +4257,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
+- [Aiola](https://aiola.app) `https://aiola.app/api/mcp`
+  [![Aiola MCP connector](https://glama.ai/mcp/connectors/app.aiola/aiola/badges/score.svg)](https://glama.ai/mcp/connectors/app.aiola/aiola)
+  🔐 - Read app errors, user feedback, analytics and Search Console keywords per project, and mark issues resolved.
 - [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
   🔓 - Check whether any of 294 third-party APIs is down, with uptime history and recent outages.
 - [Baromio](https://baromio.io/en/ai-agents) `https://baromio.io/mcp`
