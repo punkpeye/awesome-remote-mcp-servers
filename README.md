@@ -1738,6 +1738,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mcpserverlist-mcp](https://mcpserverlist.io/) `https://mcpserverlist.io/mcp`
   [![mcpserverlist-mcp MCP connector](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp)
   🔓 - Check if your MCP server is ready for MCP directories, then get it submitted.
+- [OCRmyPDF by Pagespool](https://pagespool.com) `https://api.pagespool.com/mcp/ocrmypdf/`
+  [![OCRmyPDF by Pagespool MCP connector](https://glama.ai/mcp/connectors/com.pagespool/ocrmypdf/badges/score.svg)](https://glama.ai/mcp/connectors/com.pagespool/ocrmypdf)
+  🔓 - Hosted OCRmyPDF: add a searchable text layer to scanned PDFs and images, returned as PDF/A.
 
 - [Zambo](https://zambo.dev) `https://zambo.dev/mcp`
   [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
