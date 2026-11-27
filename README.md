@@ -1738,6 +1738,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mcpserverlist-mcp](https://mcpserverlist.io/) `https://mcpserverlist.io/mcp`
   [![mcpserverlist-mcp MCP connector](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sudomichael/mcpserverlist-mcp)
   🔓 - Check if your MCP server is ready for MCP directories, then get it submitted.
+- [veraPDF by Pagespool](https://pagespool.com) `https://api.pagespool.com/mcp/verapdf/`
+  [![veraPDF by Pagespool MCP connector](https://glama.ai/mcp/connectors/com.pagespool/verapdf/badges/score.svg)](https://glama.ai/mcp/connectors/com.pagespool/verapdf)
+  🔓 - Hosted veraPDF: check a PDF against PDF/A or PDF/UA and see which rules fail.
 
 - [Zambo](https://zambo.dev) `https://zambo.dev/mcp`
   [![Zambo MCP connector](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zambodotdev/zambo)
