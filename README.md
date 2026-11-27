@@ -3131,6 +3131,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RestaurantDoctorAI Profit Check](https://restaurantdoctorai.com/ai-assistants) `https://restaurantdoctorai.com/api/mcp`
   [![RestaurantDoctorAI Profit Check MCP connector](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.restaurantdoctorai/profit-check)
   🔓 - Free 12-question restaurant profit check that returns a grade and the biggest money leak.
+- [SaltPrint](https://saltprint.app/connect/claude) `https://fhzeeuupttfulumuvfvr.supabase.co/functions/v1/mcp`
+  [![SaltPrint MCP connector](https://glama.ai/mcp/connectors/app.saltprint/saltprint/badges/score.svg)](https://glama.ai/mcp/connectors/app.saltprint/saltprint)
+  🔐 - Save recipes from links or chat, search, adapt versions and keep private notes in your personal cookbook.
 - [Scern](https://scern.app) `https://api.scern.app/mcp`
   [![Scern MCP connector](https://glama.ai/mcp/connectors/app.scern.api/scern/badges/score.svg)](https://glama.ai/mcp/connectors/app.scern.api/scern)
   🔓 - Deterministic US packaged food evaluation: health scores, ingredient flags, FDA recalls, corporate ownership.
