@@ -940,6 +940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
+- [Postkeep](https://postkeep.ai) `https://mcp.postkeep.ai/mcp`
+  [![Postkeep MCP connector](https://glama.ai/mcp/connectors/ai.postkeep/postkeep/badges/score.svg)](https://glama.ai/mcp/connectors/ai.postkeep/postkeep)
+  🔐 - Connect Gmail, Outlook, iCloud, Fastmail and Yahoo Mail over MCP with OAuth 2.1 and per-workspace controls.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
