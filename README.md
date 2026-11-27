@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Suno](https://platform.acedata.cloud/documents/suno-audios) `https://suno.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Suno MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-suno/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-suno)
+  🔐 - Generate songs and lyrics, extend or cover audio, and retrieve music tasks.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
