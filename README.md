@@ -3699,6 +3699,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PRIMAMCP](https://mcp.planitprima.com) `https://mcp.planitprima.com/mcp`
   [![PRIMAMCP MCP connector](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PLANIT-TECH/primamcp)
   🔐 - German and EU law: statutes, court decisions, EU acts and legislative materials, with verified citations.
+- [ProofSnap](https://getproofsnap.com/api/mcp.html) `https://mcp.getproofsnap.com/mcp`
+  [![ProofSnap MCP connector](https://glama.ai/mcp/connectors/com.getproofsnap/proofsnap/badges/score.svg)](https://glama.ai/mcp/connectors/com.getproofsnap/proofsnap)
+  🔐 - Capture web pages as signed, timestamped evidence packages; verify, compare and monitor them.
 - [Redra](https://redra.ai) `https://mcp.redra.ai/mcp`
   [![Redra MCP connector](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sacrosaunt/redra)
   🔓 - Searches current US class-action settlements by company, state, deadline and proof needed, with official claim links.
