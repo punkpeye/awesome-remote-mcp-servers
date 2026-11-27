@@ -5906,6 +5906,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OmniSocials](https://omnisocials.com) `https://mcp.omnisocials.com/`
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
+- [Onlypult](https://onlypult.com/dev/mcp.html) `https://mcp.onlypult.com/mcp`
+  [![Onlypult MCP connector](https://glama.ai/mcp/connectors/com.onlypult/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onlypult/mcp)
+  🔐 - Draft, schedule and publish social media posts, manage connected profiles and read performance analytics.
 - [OwlStat](https://owlstat.io/instagram-mcp/) `https://mcp.owlstat.io/mcp`
   [![OwlStat MCP connector](https://glama.ai/mcp/connectors/io.owlstat/owlstat/badges/score.svg)](https://glama.ai/mcp/connectors/io.owlstat/owlstat)
   🔐 - Instagram and TikTok analytics across many accounts: reach, views, saves, shares, competitors and reports.
