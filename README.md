@@ -121,6 +121,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentScout](https://agentscouthq.com/mcp/connect.html) `https://mcp.agentscouthq.com/mcp`
   [![AgentScout MCP connector](https://glama.ai/mcp/connectors/com.agentscouthq/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentscouthq/directory)
   🔓 - Search 2,065+ AI agent tools and 276 MCP servers by keyword or task; compare pricing and get tool details.
+- [Ahel](https://ahel.ai) `https://mcp.ahel.ai`
+  [![Ahel MCP connector](https://glama.ai/mcp/connectors/ai.ahel/ahel/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ahel/ahel)
+  🔐 - Find, price and run data tasks: company and people data, SEO, social media, EU business registers; pay per call.
 - [AI Tools Directory](https://ai.toolboxes.top) `https://ai-tools-mcp.toolboxes.top/mcp`
   [![AI Tools Directory MCP connector](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory/badges/score.svg)](https://glama.ai/mcp/connectors/top.toolboxes/ai-tools-directory)
   🔓 - Curated index of 221 AI tools across 21 industries; search by use case, department or pricing tier.
