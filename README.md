@@ -1151,6 +1151,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TalaLevel](https://talalevel.com) `https://app.talalevel.com/mcp`
   [![TalaLevel MCP connector](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level/badges/score.svg)](https://glama.ai/mcp/connectors/com.talalevel.app/tala-level)
   🔐 - Search leads, read their calls, texts and emails, add notes and tasks, and draft or send follow-ups you confirm.
+- [Winly](https://getwinly.ai/mcp/) `https://app.sbccrm.com/bld/api/mcp`
+  [![Winly MCP connector](https://glama.ai/mcp/connectors/ai.getwinly/winly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.getwinly/winly)
+  🔐 - Read Instagram and Facebook DM chats, search contacts, tag leads, set stages, add notes and pull sales reports.
 - [Workspace369](https://workspace369.com) `https://mcp.workspace369.com/mcp`
   [![Workspace369 MCP connector](https://glama.ai/mcp/connectors/com.workspace369/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.workspace369/mcp)
   🔐 - Manage clients, proposals, e-sign contracts, invoices, projects, calendar and time tracking for client-work businesses.
