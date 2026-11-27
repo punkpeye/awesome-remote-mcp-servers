@@ -1020,6 +1020,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [ABWatcher](https://www.abwatcher.com/docs/api) `https://www.abwatcher.com/api/mcp`
+  [![ABWatcher MCP connector](https://glama.ai/mcp/connectors/com.abwatcher/abwatcher/badges/score.svg)](https://glama.ai/mcp/connectors/com.abwatcher/abwatcher)
+  🔑 - What 1,000+ high-converting brands are A/B testing, the testing tools they run (Optimizely, VWO, Adobe Target and more) and the conversion plays on their pages.
+
 - [Adsap](https://adsap.ai) `https://mcp.adsap.ai/mcp`
   [![Adsap MCP connector](https://glama.ai/mcp/connectors/ai.adsap/adsap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.adsap/adsap)
   🔐 - Meta and Google Ads automation: launch ads in bulk and preview every change first.
