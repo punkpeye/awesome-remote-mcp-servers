@@ -1585,6 +1585,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QuasarUI](https://www.quasarui.com/documentation/mcp-server) `https://www.quasarui.com/mcp`
   [![QuasarUI MCP connector](https://glama.ai/mcp/connectors/com.quasarui/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.quasarui/mcp)
   🔓 - Search Quasar Framework (Vue) UI Components and fetch their source; an optional key unlocks Paid ones.
+- [Railflag](https://railflag.com/mcp) `https://mcp.railflag.com/mcp`
+  [![Railflag MCP connector](https://glama.ai/mcp/connectors/com.railflag/railflag/badges/score.svg)](https://glama.ai/mcp/connectors/com.railflag/railflag)
+  🔑 - Create, target and roll out feature flags, and migrate flags from Unleash or AB Tasty; Production waits for approval.
 - [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
   [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
   🔓 - File and text tools: merge, split and compress PDFs, OCR, image compression, QR codes and JWTs.
