@@ -3800,6 +3800,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AskWatch Google Search Console MCP connector](https://glama.ai/mcp/connectors/ai.askwatch/gsc/badges/score.svg)](https://glama.ai/mcp/connectors/ai.askwatch/gsc)
   🔓 - Read-only Google Search Console: traffic changes, CTR gaps, cannibalization, URL inspection; tools need a free account.
 
+- [Avenity Business Solutions](https://avenitybusinesssolutions.com) `https://avenity-visibility-mcp.onrender.com/mcp`
+  [![Avenity Business Solutions MCP connector](https://glama.ai/mcp/connectors/io.github.DanKaten/avenity-agentic-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DanKaten/avenity-agentic-audit)
+  🔓 - Check if a local service business is named in AI answers; hire Avenity for AI visibility, GBP, Google/Meta/TikTok ads.
+
 - [BacklinkMCP](https://backlinkmcp.com/mcp-server-for-seo) `https://backlinkmcp.com/api/mcp`
   [![BacklinkMCP MCP connector](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.johnsmalls22-rgb/backlinkmcp-server)
   🔓 - Domain authority, top linking domains, link-gap prospects and AI-answer visibility checks from a domain-level index.
