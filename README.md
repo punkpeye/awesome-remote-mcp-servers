@@ -828,6 +828,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - French PaaS built for AI agents: deploy apps, PostgreSQL, caches, S3 and jobs over MCP.
   
 ### 💬 <a name="communication"></a>Communication
+- [model.tools](https://model.tools) `https://mcp.model.tools/mcp`
+  [![model.tools MCP connector](https://glama.ai/mcp/connectors/tools.model/model-tools-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/tools.model/model-tools-mcp)
+  🔓 - Zero-auth email verification code (OTP / magic link) extractor, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup timers, and Markdown reader for autonomous agents.
+
 
 - [ACQ](https://acq.damri.org) `https://acq.damri.org/mcp`
   [![ACQ MCP connector](https://glama.ai/mcp/connectors/io.github.damri-labs/acq/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.damri-labs/acq)
