@@ -1654,6 +1654,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Synap](https://synap.linkrra.com) `https://pool.linkrra.com/mcp`
   [![Synap MCP connector](https://glama.ai/mcp/connectors/com.linkrra/synap/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkrra/synap)
   🔓 - OpenAI-compatible inference on open models: list models and prices, estimate cost, run chat billed per token.
+- [TailThemes](https://tailthemes.com/for-agents?utm_source=awesome-remote-mcp-servers&utm_medium=listing&utm_campaign=submissions) `https://tailthemes.com/api/mcp`
+  [![TailThemes MCP connector](https://glama.ai/mcp/connectors/com.tailthemes/tailthemes/badges/score.svg)](https://glama.ai/mcp/connectors/com.tailthemes/tailthemes)
+  🔓 - Search 26 Tailwind CSS themes, read their tokens, AGENTS.md and source files, and get download links.
 - [tealmac UI](https://ui.tealmac.com) `https://ui.tealmac.com/mcp`
   [![tealmac UI MCP connector](https://glama.ai/mcp/connectors/com.tealmac/ui/badges/score.svg)](https://glama.ai/mcp/connectors/com.tealmac/ui)
   🔓 - Search the shadcn registry, read props and get install commands for 554 free React components.
