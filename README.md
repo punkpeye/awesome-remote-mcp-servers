@@ -1542,6 +1542,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
+- [OpenSkills](https://getopenskills.xyz) `https://getopenskills.xyz/api/mcp`
+  [![OpenSkills MCP connector](https://glama.ai/mcp/connectors/io.github.getopenskills-oss/openskills/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getopenskills-oss/openskills)
+  🔓 - Search, read and install 150+ Agent Skills (SKILL.md) for Claude Code, Cursor, Codex and Copilot.
 - [OtaKit](https://otakit.app) `https://console.otakit.app/mcp`
   [![OtaKit MCP connector](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit)
   🔐 - Ship over-the-air updates for Capacitor apps: publish releases with approval, control rollouts, read health, revert.
