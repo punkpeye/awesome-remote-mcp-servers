@@ -4383,6 +4383,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
+- [Ace Data Cloud Fish Audio](https://platform.acedata.cloud/documents/fish) `https://fish.mcp.acedata.cloud/mcp`
+  [![Ace Data Cloud Fish Audio MCP connector](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-fish/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AceDataCloud/mcp-fish)
+  🔐 - Create speech audio with voice conditioning, inspect models and track generation tasks.
+
 - [Anam](https://anam.ai/docs/resources/mcp) `https://lab.anam.ai/mcp`
   [![Anam MCP connector](https://glama.ai/mcp/connectors/ai.anam/anam/badges/score.svg)](https://glama.ai/mcp/connectors/ai.anam/anam)
   🔐 - Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings.
