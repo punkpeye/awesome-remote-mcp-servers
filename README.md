@@ -5182,6 +5182,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AppPage.net](https://apppage.net/developers) `https://apppage.net/mcp`
   [![AppPage.net MCP connector](https://glama.ai/mcp/connectors/net.apppage/app-data/badges/score.svg)](https://glama.ai/mcp/connectors/net.apppage/app-data)
   🔓 - Google Play and App Store search, app details, reviews, charts and privacy labels; app websites with privacy pages.
+- [Arete (AI 뭐 쓰지?)](https://arete.ai.kr/connect) `https://arete.ai.kr/connect/mcp`
+  [![Arete MCP connector](https://glama.ai/mcp/connectors/kr.ai.arete/arete/badges/score.svg)](https://glama.ai/mcp/connectors/kr.ai.arete/arete)
+  🔓 - Find AI apps, agents, Skills and MCP servers for a task from a Korean directory, with Korean support and free-plan info.
 - [arkerah](https://arkerah.com/connect-ai-assistant) `https://app.arkerah.com/api/mcp`
   [![arkerah MCP connector](https://glama.ai/mcp/connectors/com.arkerah/arkerah/badges/score.svg)](https://glama.ai/mcp/connectors/com.arkerah/arkerah)
   🔐 - Search your own ranked corporate job matches in five European countries and see why a job is hidden.
