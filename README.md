@@ -1384,6 +1384,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [EmpirioLabs AI](https://docs.empiriolabs.ai/mcp) `https://mcp.empiriolabs.ai/mcp`
   [![EmpirioLabs AI MCP connector](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.empiriolabs/mcp)
   🔐 - Run 200+ AI models for chat, image, video, speech and 3D, plus web search, batches and async jobs.
+- [EPUBCheck by Pagespool](https://pagespool.com) `https://api.pagespool.com/mcp/epubcheck/`
+  [![EPUBCheck by Pagespool MCP connector](https://glama.ai/mcp/connectors/com.pagespool/epubcheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.pagespool/epubcheck)
+  🔓 - Hosted EPUBCheck: check an EPUB file against the EPUB specification and list every error.
 - [Favicon Tools](https://favicontools.com) `https://favicontools.com/api/mcp`
   [![Favicon Tools MCP connector](https://glama.ai/mcp/connectors/io.github.mewc/favicon-app-icons/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mewc/favicon-app-icons)
   🔓 - Check a site's favicons and app icons, and generate a full favicon, Apple touch, and PWA icon set.
