@@ -4975,7 +4975,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
 - [StoreInspect](https://storeinspect.com/integrations/mcp) `https://mcp.storeinspect.com/mcp`
   [![StoreInspect MCP connector](https://glama.ai/mcp/connectors/com.storeinspect/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.storeinspect/mcp)
-  🔐 - Search 2.9M+ Shopify stores by installed apps, traffic and country, and get decision-maker contacts.
+  🔐 - Search 3M+ Shopify stores by installed apps, traffic and country, and get decision-maker contacts.
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
