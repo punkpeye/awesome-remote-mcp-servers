@@ -5243,6 +5243,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CrawlerData](https://crawlerdata.com) `https://api.crawlerdata.com/mcp`
   [![CrawlerData MCP connector](https://glama.ai/mcp/connectors/com.crawlerdata/google-shopping-serp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crawlerdata/google-shopping-serp)
   🔐 - Google Search results with AI Overviews and their cited sources, plus News, Images, Local and Shopping data.
+- [Creator Desk Machine Products](https://api.creatordeskai.com) `https://api.creatordeskai.com/mcp`
+  [![Creator Desk Machine Products MCP connector](https://glama.ai/mcp/connectors/com.creatordeskai/machine-products/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatordeskai/machine-products)
+  🔓 - Pay-per-call website checks for AI agents: inspect URLs, extract pages, find broken links and DNS; x402 or API key.
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
