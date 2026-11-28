@@ -1366,6 +1366,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dockyard](https://dockyard.kim1.ovh) `https://dockyard.kim1.ovh/mcp`
   [![Dockyard MCP connector](https://glama.ai/mcp/connectors/ovh.kim1.dockyard/dockyard-mcp-server-for-the-app-catalog/badges/score.svg)](https://glama.ai/mcp/connectors/ovh.kim1.dockyard/dockyard-mcp-server-for-the-app-catalog)
   🔓 - Search 790+ one-click Docker/Portainer app templates and prepare a local Docker or Portainer deploy plan.
+- [Does It ARM](https://doesitarm.com/) `https://mcp.doesitarm.com/mcp`
+  [![Does It ARM MCP connector](https://glama.ai/mcp/connectors/com.doesitarm/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.doesitarm/mcp)
+  🔓 - Look up Apple Silicon compatibility for Mac apps, games, and Homebrew packages.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
