@@ -1470,6 +1470,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [JSON to TOON](https://json2toon.co/mcp) `https://json2toon.co/api/mcp`
   [![JSON to TOON MCP connector](https://glama.ai/mcp/connectors/io.github.karta9821/json2toon/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.karta9821/json2toon)
   🔓 - Convert JSON to TOON, a compact format that uses fewer LLM tokens, and decode TOON back to JSON.
+- [JsonExport](https://jsonexport.com/mcp) `https://jsonexport.com/mcp`
+  [![JsonExport MCP connector](https://glama.ai/mcp/connectors/com.jsonexport/json-export/badges/score.svg)](https://glama.ai/mcp/connectors/com.jsonexport/json-export)
+  🔓 - Convert JSON, API responses or JSON Lines into a table, CSV and a one-click Excel download link.
 - [Keelen](https://keelen.ai/mcp-server/) `https://keelen.ai/mcp`
   [![Keelen MCP connector](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jamie7893/keelen)
   🔓 - Steer GitHub coding from chat: requests, roadmaps and PR review. Tokenless signup; bearer key for workspace tools.
