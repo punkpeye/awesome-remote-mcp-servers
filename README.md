@@ -4197,6 +4197,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Supermetrics](https://mcp.supermetrics.com) `https://mcp.supermetrics.com/mcp`
   [![Supermetrics MCP connector](https://glama.ai/mcp/connectors/com.supermetrics/supermetrics/badges/score.svg)](https://glama.ai/mcp/connectors/com.supermetrics/supermetrics)
   🔐 - Query Google Ads, Meta, GA4, TikTok, HubSpot and more for reports, and edit existing ad campaigns or launch new ones.
+- [Surface AI](https://docs.surface-ai.io/mcp) `https://mcp.surface-ai.io/mcp/`
+  [![Surface AI MCP connector](https://glama.ai/mcp/connectors/io.surface-ai/surface/badges/score.svg)](https://glama.ai/mcp/connectors/io.surface-ai/surface)
+  🔓 - Test and personalize websites from your coding agent: set up surfaces, create variants, analyze results. API key needed.
 - [SurfacedBy AI Visibility & GEO Audit](https://surfacedby.com/tools/chatgpt-ai-visibility) `https://api.surfacedby.com/api/v1/mcp/public/`
   [![SurfacedBy AI Visibility & GEO Audit MCP connector](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility)
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
