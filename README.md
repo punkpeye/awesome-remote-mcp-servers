@@ -5755,6 +5755,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [pwned.coffee](https://pwned.coffee/) `https://pwned.coffee/mcp`
   [![pwned.coffee MCP connector](https://glama.ai/mcp/connectors/coffee.pwned/pwnedcoffee/badges/score.svg)](https://glama.ai/mcp/connectors/coffee.pwned/pwnedcoffee)
   🔓 - Live security incidents, updated hourly, with fix status and fixed versions; checks lockfiles and repos.
+  - [Runledge](https://runledge.com) `https://runledge.com/mcp`
+    [![Runledge MCP connector](https://glama.ai/mcp/connectors/io.github.Runledge/runledge/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Runledge/runledge)
+    🔐 - Checks agent actions against your rules before they run and holds risky ones for human approval.
 - [satledger](https://satledger.org) `https://api.satledger.org/mcp`
   [![satledger MCP connector](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt/badges/score.svg)](https://glama.ai/mcp/connectors/org.satledger/timestamp-receipt)
   🔓 - RFC 3161 timestamp over a digest you supply; USDC per call over x402, no account, verifies offline.
