@@ -6344,6 +6344,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Roamzy](https://roamzy.io) `https://roamzy.io/mcp`
   [![Roamzy MCP connector](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.roamzy-io/mcp-server)
   🔓 - Buy and manage one global eSIM for 193 countries, billed per megabyte in USDT or USDC, no KYC.
+- [Route Stories](https://routestories.me) `https://routestories.me/api/mcp`
+  [![Route Stories MCP connector](https://glama.ai/mcp/connectors/me.routestories/routes/badges/score.svg)](https://glama.ai/mcp/connectors/me.routestories/routes)
+  🔓 - Find about 2,000 real walks, runs, rides, dog walks and city tours (UK, US, Italy, France, Spain), each a GPS audio tour with narrated stories and music, and get the route details and link.
 - [Rozkład PKP/PKS (rozklad-mcp)](https://rozklad.compabase.com) `https://rozklad.compabase.com/mcp`
   [![Rozkład PKP/PKS (rozklad-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/rozklad-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/rozklad-mcp)
   🔓 - Polish trains, PKS buses and city transit: journeys with changes, departures, live delays and fares.
