@@ -4771,6 +4771,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
+- [Looper Teams](https://looperteams.com/ai?utm_source=awesome-remote-mcp) `https://looperteams.com/api/mcp`
+  [![Looper Teams MCP connector](https://glama.ai/mcp/connectors/com.looperteams/looper-teams/badges/score.svg)](https://glama.ai/mcp/connectors/com.looperteams/looper-teams)
+  🔐 - Kanban for small teams: read, create, split, move and comment on tickets, with undo and no delete tool.
 - [Madda Tasks](https://www.maddatech.com/mcp.html) `https://mcp.maddatech.com/mcp`
   [![Madda Tasks MCP connector](https://glama.ai/mcp/connectors/com.maddatech/madda-tasks/badges/score.svg)](https://glama.ai/mcp/connectors/com.maddatech/madda-tasks)
   🔐 - Create and schedule projects and tasks, manage dependencies, baselines, reports and AI agents in Madda Tasks.
