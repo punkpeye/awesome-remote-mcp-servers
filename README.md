@@ -3605,6 +3605,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AcqPath](https://developers.getacqpath.com) `https://api.getacqpath.com/mcp`
   [![AcqPath MCP connector](https://glama.ai/mcp/connectors/com.getacqpath/acqpath/badges/score.svg)](https://glama.ai/mcp/connectors/com.getacqpath/acqpath)
   🔓 - Check observed machine-readable source-rights declarations before AI, RAG, indexing, training or search.
+- [Agent Desk](https://yellowstake.com/tools/agent-desk) `https://yellowstake.com/mcp`
+  [![Agent Desk MCP connector](https://glama.ai/mcp/connectors/com.yellowstake/agent-desk/badges/score.svg)](https://glama.ai/mcp/connectors/com.yellowstake/agent-desk)
+  🔓 - Checks whether a US insurance lead can be called, autodialed or texted now, citing TCPA and state rules.
 
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
