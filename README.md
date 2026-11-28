@@ -5546,6 +5546,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VeritaHire Jobs](https://veritahire.com/for-ai/) `https://veritahire.com/mcp`
   [![VeritaHire Jobs MCP connector](https://glama.ai/mcp/connectors/com.veritahire/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.veritahire/jobs)
   🔓 - Search ~2.5M live US jobs from 19,000+ employers' own career sites, with posted pay, apply links and still-open checks.
+- [WARNPOINT](https://warnpoint.com) `https://warnpoint.com/mcp`
+  [![WARNPOINT MCP connector](https://glama.ai/mcp/connectors/com.warnpoint/warnpoint/badges/score.svg)](https://glama.ai/mcp/connectors/com.warnpoint/warnpoint)
+  🔓 - Global conflict data: threat index, country risk, located strikes, top news, outages and satellite before/after.
 - [Web Data Toolkit](https://web-data-toolkit.vercel.app) `https://web-data-toolkit.vercel.app/mcp`
   [![Web Data Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.leekung125/web-data-toolkit)
   🔓 - YouTube transcripts, Google Trends, and Google Play and App Store reviews; use the free public demo key or your own.
