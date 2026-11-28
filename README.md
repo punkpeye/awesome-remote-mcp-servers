@@ -1405,6 +1405,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FrontMCP Docs](https://frontmcp.dev/learn/docs-for-your-agent) `https://mcp.frontmcp.dev`
   [![FrontMCP Docs MCP connector](https://glama.ai/mcp/connectors/dev.frontmcp.mcp/frontmcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.frontmcp.mcp/frontmcp)
   🔓 - Search and read FrontMCP's documentation, pinned to the FrontMCP version a project uses.
+- [GateGoat](https://gategoat.com) `https://gategoat.com/api/mcp`
+  [![GateGoat MCP connector](https://glama.ai/mcp/connectors/com.gategoat/gategoat/badges/score.svg)](https://glama.ai/mcp/connectors/com.gategoat/gategoat)
+  🔐 - Ask a person to click through a test checklist on your preview build; pass or fail per step comes back to the agent.
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
