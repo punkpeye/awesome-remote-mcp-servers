@@ -5294,6 +5294,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Gemalli](https://gemalli.com/en/developers) `https://gemalli.com/api/mcp`
   [![Gemalli MCP connector](https://glama.ai/mcp/connectors/com.gemalli/trade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gemalli/trade)
   🔓 - Find verified manufacturers, screen for sanctions, and look up HS codes and export controls.
+- [Get Contract Alerts](https://getcontractalerts.com/ai-assistants) `https://getcontractalerts.com/mcp`
+  [![Get Contract Alerts MCP connector](https://glama.ai/mcp/connectors/com.getcontractalerts/tender-alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.getcontractalerts/tender-alerts)
+  🔓 - Search open UK and EU public tenders from Find a Tender, TED and national portals, with official notice links.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [GMaps Lead Finder](https://gmapsleadfinder.com) `https://gmapsleadfinder.com/mcp`
