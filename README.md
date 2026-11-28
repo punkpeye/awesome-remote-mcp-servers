@@ -6470,6 +6470,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compass OS](https://compass-os.dev/mcp) `https://compass-os.dev/api/mcp`
   [![Compass OS MCP connector](https://glama.ai/mcp/connectors/dev.compass-os/compass-os-career/badges/score.svg)](https://glama.ai/mcp/connectors/dev.compass-os/compass-os-career)
   🔐 - Your career in your AI app: tracked roles, profile, resumes, wins and interview stories.
+- [CountLink](https://countlink.app) `https://countlink.app/mcp`
+  [![CountLink MCP connector](https://glama.ai/mcp/connectors/app.countlink/countdown/badges/score.svg)](https://glama.ai/mcp/connectors/app.countlink/countdown)
+  🔓 - Shared countdown timers, agendas and OBS overlays as links that show the same second on every screen.
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
