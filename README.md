@@ -4730,6 +4730,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Atwork](https://atwork.so/mcp) `https://mcp.atwork.so/mcp`
   [![Atwork MCP connector](https://glama.ai/mcp/connectors/so.atwork/workspace/badges/score.svg)](https://glama.ai/mcp/connectors/so.atwork/workspace)
   🔐 - Work with your Atwork sheets, tasks and pages from Claude, ChatGPT or any MCP client, with one OAuth scope per tool.
+- [BugQuill](https://bugquill.com/mcp) `https://bugquill.com/api/mcp`
+  [![BugQuill MCP connector](https://glama.ai/mcp/connectors/com.bugquill/bugquill/badges/score.svg)](https://glama.ai/mcp/connectors/com.bugquill/bugquill)
+  🔑 - List user feedback, retrieve fix specs, and update the status of bug reports.
 - [ClickUp](https://clickup.com) `https://mcp.clickup.com/mcp`
   🔐 - Manage ClickUp tasks, docs, and spaces.
 - [Critical Path Partners](https://criticalpathpartners.ca/connect-claude.html) `https://mcp.criticalpathpartners.ca/mcp`
