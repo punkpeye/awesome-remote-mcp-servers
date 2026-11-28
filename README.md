@@ -3831,6 +3831,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
 
+- [Dashform](https://getaiform.com/docs/mcp) `https://getaiform.com/api/mcp`
+  [![Dashform MCP connector](https://glama.ai/mcp/connectors/io.github.makloai/mcp-server-dashform/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.makloai/mcp-server-dashform)
+  🔐 - Build and publish lead and booking funnels; buyer agents can find them, check fit (0-100) and submit.
 - [Distribution](https://distribution.tech) `https://app.distribution.tech/api/mcp/guest`
   [![Distribution MCP connector](https://glama.ai/mcp/connectors/tech.distribution/distribution/badges/score.svg)](https://glama.ai/mcp/connectors/tech.distribution/distribution)
   🔓 - Launch distribution on X: creators on sale by audience and the all in price range per post, no account needed.
