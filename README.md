@@ -1915,6 +1915,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PegaRex](https://pegarex.com.br) `https://pegarex.com.br/api/mcp`
   [![PegaRex MCP connector](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.pegarex/pega-rex)
   🔓 - Search 1.8M+ live Brazilian used-car and motorcycle listings with FIPE prices, price ranges and cheapest states.
+- [Podly](https://podly.co/features/mcp/) `https://app.podly.co/mcp/podly`
+  [![Podly MCP connector](https://glama.ai/mcp/connectors/co.podly/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.podly/mcp)
+  🔐 - Amazon Merch on Demand research and design: 50M+ products, BSR and price history, and Podly Design.
 - [Pokemon TCG Restock Alerts - bujusjujus](https://bujusjujus.com/api) `https://bujusjuj.us/mcp`
   [![Pokemon TCG Restock Alerts - bujusjujus MCP connector](https://glama.ai/mcp/connectors/com.bujusjujus/alerts/badges/score.svg)](https://glama.ai/mcp/connectors/com.bujusjujus/alerts)
   🔓 - Pokémon TCG restock alerts across US retailers: recent drops, MSRP, restock timing, webhooks. Tools need a free API key.
