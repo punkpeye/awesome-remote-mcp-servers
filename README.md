@@ -2668,7 +2668,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Kalshi and Polymarket data: cross-venue matching, arbitrage after fees and whale trades; free key.
 - [MatterOfStocks](https://matterofstocks.com/guide/mcp) `https://matterofstocks.com/mcp`
   [![MatterOfStocks MCP connector](https://glama.ai/mcp/connectors/com.matterofstocks/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.matterofstocks/mcp)
-  🔐 - Cited facts on US stocks from SEC filings: fundamentals, restatements, forensic flags, insider, congressional and 13F trades.
+  🔑 - Cited facts on US stocks from SEC filings: fundamentals, restatements, forensic flags, insider, congressional and 13F trades.
 - [Mestre Prático & NutriPreço](https://mestrepratico.com.br/developers) `https://mestrepratico.com.br/mcp/v1`
   [![Mestre Prático MCP connector](https://glama.ai/mcp/connectors/io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp)
   🔓 - Sovereign Brazilian real-economy price & regulatory oracle (ANP fuels, CMED medicines, DIEESE food basket).
