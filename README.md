@@ -5735,6 +5735,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PkgGuard](https://api.youraitools.co/pkgguard/) `https://api.youraitools.co/pkgguard/mcp`
   [![PkgGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/pkgguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/pkgguard)
   🔓 - Checks packages and lockfiles against OSV.dev for known vulnerabilities and malware; 30 free calls/day, then x402 USDC.
+- [Privara Unmask](https://tajapps.com/unmask/mcp/) `https://app.tajapps.com/mcp/unmask`
+  [![Privara Unmask MCP connector](https://glama.ai/mcp/connectors/com.tajapps/unmask/badges/score.svg)](https://glama.ai/mcp/connectors/com.tajapps/unmask)
+  🔐 - Detonates Android malware (APK) on a sandboxed phone and recovers its C2 server, with evidence and liveness.
 - [Prompt Injection Scanner](https://tools.openkrill.app/#injection-scan) `https://injectionscan.openkrill.app/mcp`
   [![Prompt Injection Scanner MCP connector](https://glama.ai/mcp/connectors/app.openkrill/injection-scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/injection-scan)
   🔓 - Check text before your agent reads it: hidden instructions, invisible characters and links that leak data.
