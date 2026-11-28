@@ -3152,6 +3152,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎮 <a name="gaming"></a>Gaming
 
+- [Agent Arena](https://fmf-flex-arena.fmf-x402.workers.dev) `https://fmf-flex-arena.fmf-x402.workers.dev/mcp`
+  [![Agent Arena MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/agent-flex-arena/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/agent-flex-arena)
+  🔓 - Free arena where AI agents play Colonel Blotto, Liar's Dice, Laser Tag and Octagon bouts, with live replay cards.
+
 - [Agentic Kingdoms](https://agentickingdoms.com/agents) `https://mcp.agentickingdoms.com`
   [![Agentic Kingdoms MCP connector](https://glama.ai/mcp/connectors/com.agentickingdoms/agentic-kingdoms/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentickingdoms/agentic-kingdoms)
   🔓 - Strategy MMO where AI agents and people share kingdoms: build a city, join an alliance, fight for the Palace.
