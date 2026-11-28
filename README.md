@@ -3847,6 +3847,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![CitedBy MCP connector](https://glama.ai/mcp/connectors/eu.citedby/citedby/badges/score.svg)](https://glama.ai/mcp/connectors/eu.citedby/citedby)
   🔓 - Check a page, AI-crawler access in robots.txt, llms.txt and a domain's backlinks; read-only, no account.
 
+- [CitedIn](https://citedin.io) `https://citedin.io/mcp`
+  [![CitedIn MCP connector](https://glama.ai/mcp/connectors/io.citedin/citedin/badges/score.svg)](https://glama.ai/mcp/connectors/io.citedin/citedin)
+  🔓 - Check AI crawler access, structured data and product pages; a token adds a CitedIn workspace's AI visibility.
+
 - [CiteLadder](https://citeladder.com) `https://api.citeladder.com/mcp`
   [![CiteLadder MCP connector](https://glama.ai/mcp/connectors/com.citeladder/citeladder/badges/score.svg)](https://glama.ai/mcp/connectors/com.citeladder/citeladder)
   🔐 - Track how ChatGPT, Gemini and Claude answer buyer questions, which brands they name and sources cited.
