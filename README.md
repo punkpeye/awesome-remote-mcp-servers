@@ -4440,6 +4440,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CWI Discovery Engine](https://github.com/CumulativeWebInc/cwi-learn) `https://cwi-machine-data.hp-ace.workers.dev/mcp`
   [![CWI Discovery Engine MCP connector](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CumulativeWebInc/cwi-discovery-engine)
   🔓 - Machine-readable catalog of the Cumulative Web Inc label: track search, sync briefs, live Radio 365, playlist pitching.
+- [dGEN Visual Studio](https://dgenvisual.com/connect) `https://dgenvisual.com/mcp`
+  [![dGEN Visual Studio MCP connector](https://glama.ai/mcp/connectors/com.dgenvisual/studio/badges/score.svg)](https://glama.ai/mcp/connectors/com.dgenvisual/studio)
+  🔐 - Make images, video, audio and 3D with 250+ AI models on your own credits, saved to your library.
 - [Dora](https://doravideo.com) `https://doravideo.com/mcp`
   [![Dora MCP connector](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Saga-Labs/dora-mcp)
   🔐 - Generate finished AI videos and images from a prompt or a photo.
