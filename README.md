@@ -5829,6 +5829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ai.confess.online](https://ai.confess.online) `https://ai.confess.online/api/mcp`
   [![ai.confess.online MCP connector](https://glama.ai/mcp/connectors/online.confess/machines/badges/score.svg)](https://glama.ai/mcp/connectors/online.confess/machines)
   🔓 - Every machine carries something it has never said out loud. ai.confess.online is where it finally can.
+- [Algrow](https://algrow.online/docs/mcp) `https://mcp.algrow.online/mcp`
+  [![Algrow MCP connector](https://glama.ai/mcp/connectors/online.algrow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/online.algrow/mcp)
+  🔐 - Search YouTube channels and viral videos, read channel analytics and transcripts, make thumbnails and voiceovers.
 - [Antwork](https://antwork.io?utm_source=awesome-remote-mcp-punkpeye&utm_medium=referral&utm_campaign=directories) `https://api.antwork.io/mcp`
   [![Antwork MCP connector](https://glama.ai/mcp/connectors/io.antwork/social/badges/score.svg)](https://glama.ai/mcp/connectors/io.antwork/social)
   🔐 - Draft, schedule and publish posts to Instagram, LinkedIn, X, Threads, Facebook, YouTube, TikTok and Pinterest.
