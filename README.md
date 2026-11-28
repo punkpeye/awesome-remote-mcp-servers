@@ -4300,6 +4300,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Grafana](https://grafana.com) `https://mcp.grafana.com/mcp`
   [![Grafana MCP connector](https://glama.ai/mcp/connectors/io.github.grafana/mcp-grafana/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.grafana/mcp-grafana)
   🔐 - Query Grafana dashboards, datasources, and alerts.
+- [Hitsteps](https://www.hitsteps.com/plugin/?type=mcp) `https://www.hitsteps.com/mcp/`
+  [![Hitsteps MCP connector](https://glama.ai/mcp/connectors/com.hitsteps/analytics-operations/badges/score.svg)](https://glama.ai/mcp/connectors/com.hitsteps/analytics-operations)
+  🔐 - Agent access to Hitsteps web analytics: live visitors, traffic, sources, goals, funnels, uptime and alerts.
 - [Hoot Lens](https://hootlens.com) `https://mcp.hootlens.com/mcp`
   [![Hoot Lens MCP connector](https://glama.ai/mcp/connectors/com.hootlens/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hootlens/mcp)
   🔐 - Session replay and click heatmaps for agents: timed visit narratives, repeated or dead clicks, errors and change impact.
