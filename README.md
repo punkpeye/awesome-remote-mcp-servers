@@ -2783,6 +2783,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Qotien](https://qotien.fr) `https://app.qotien.fr/api/fiscal/v1/mcp`
   [![Qotien MCP connector](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.herve-coulon/tax-retirement)
   🔓 - French income tax, IFI, PER and 32 pension schemes, sourced to primary law and dated; x402 pay-per-call.
+- [QuantKit Asia Market Data](https://quantkit.co/mcp) `https://mcp.quantkit.co/mcp`
+  [![QuantKit Asia Market Data MCP connector](https://glama.ai/mcp/connectors/co.quantkit/asia-market-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/co.quantkit/asia-market-mcp)
+  🔓 - Free delayed quotes, K-line OHLCV, and index summaries for A-share, HK, and US stocks via CODE.MARKET symbols.
 - [Quantral](https://quantral.com/mcp) `https://app.quantral.com/api/mcp`
   [![Quantral MCP connector](https://glama.ai/mcp/connectors/com.quantral/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/com.quantral/sentiment)
   🔐 - Per-stock sentiment scores, top signals, monthly recaps and the underlying mentions.
