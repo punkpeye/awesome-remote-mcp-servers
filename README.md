@@ -1880,6 +1880,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NaKus](https://www.nakus.sk/mcp) `https://www.nakus.sk/api/mcp`
   [![NaKus MCP connector](https://glama.ai/mcp/connectors/sk.nakus/na-kus-unit-price/badges/score.svg)](https://glama.ai/mcp/connectors/sk.nakus/na-kus-unit-price)
   🔓 - Slovak landed unit prices (€/piece, €/kg, €/wash) with nakus.sk buy_url — no Heureka.
+- [Nerd Ofertas](https://nerdofertas.com/mcp) `https://nerdofertas.com/mcp`
+  [![Nerd Ofertas MCP connector](https://glama.ai/mcp/connectors/com.nerdofertas/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.nerdofertas/mcp)
+  🔐 - Brazilian price history, deal verdicts and active coupons for Amazon BR, Mercado Livre, Shopee and Magalu.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NFC Tap Builder by Tap.Giving](https://tap.giving) `https://tap.giving/mcp`
