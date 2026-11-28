@@ -6503,6 +6503,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ERP Partner Finder](https://erppartnerfinder.com) `https://erppartnerfinder.com/api/mcp`
   [![ERP Partner Finder MCP connector](https://glama.ai/mcp/connectors/com.erppartnerfinder/partner-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.erppartnerfinder/partner-finder)
   🔓 - Search and compare Odoo implementation partners in Germany, Austria and Switzerland, with rule-based shortlists.
+- [ExpiryRegister](https://expiryregister.com) `https://mcp.expiryregister.com/mcp`
+  [![ExpiryRegister MCP connector](https://glama.ai/mcp/connectors/com.expiryregister/expiryregister/badges/score.svg)](https://glama.ai/mcp/connectors/com.expiryregister/expiryregister)
+  🔐 - Business expiry and renewal dates with named owners and email reminders that escalate until someone acknowledges.
 - [Finder Jobs](https://mcp.finder.work) `https://mcp.finder.work/mcp`
   [![Finder Jobs MCP connector](https://glama.ai/mcp/connectors/work.finder/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/work.finder/jobs)
   🔓 - Job vacancies and salary stats for Russia, Kazakhstan, Belarus, Kyrgyzstan, Germany, France and 4 more countries.
