@@ -871,6 +871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DialogBrain](https://dialogbrain.com) `https://api.dialogbrain.com/mcp/`
   [![DialogBrain MCP connector](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.dialogbrain.api/dialog-brain)
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
+- [Duobox](https://duobox.io/en/mcp) `https://mcp.duobox.io/v1/mcp`
+  [![Duobox MCP connector](https://glama.ai/mcp/connectors/io.duobox/mail/badges/score.svg)](https://glama.ai/mcp/connectors/io.duobox/mail)
+  🔐 - Read, draft and send business email on your own domain, and manage inboxes, aliases and the team.
 - [Emitd](https://emitd.com) `https://mcp.emitd.com/mcp`
   [![Emitd MCP connector](https://glama.ai/mcp/connectors/com.emitd/emitd/badges/score.svg)](https://glama.ai/mcp/connectors/com.emitd/emitd)
   🔓 - Transactional email, message activity, templates, contacts, automations, and inbound mail for AI agents.
