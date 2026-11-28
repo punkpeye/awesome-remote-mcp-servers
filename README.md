@@ -856,12 +856,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Busymail](https://busymail.app) `https://busymail.app/mcp`
   [![Busymail MCP connector](https://glama.ai/mcp/connectors/app.busymail/busymail/badges/score.svg)](https://glama.ai/mcp/connectors/app.busymail/busymail)
   🔑 - Read, search, archive and draft across any IMAP mailbox; the token cannot send and approval needs a signed-in user.
-- [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
-  [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
-  🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
 - [CallForMe](https://callforme.tel) `https://callforme.tel/mcp`
   [![CallForMe MCP connector](https://glama.ai/mcp/connectors/tel.callforme/callforme/badges/score.svg)](https://glama.ai/mcp/connectors/tel.callforme/callforme)
   🔐 - Have your agent phone a business for quotes, bookings or cancellations and get the transcript and answers back.
+- [CallMeMCP](https://callmemcp.com/mcp) `https://callmemcp.com/mcp`
+  [![CallMeMCP MCP connector](https://glama.ai/mcp/connectors/com.callmemcp/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.callmemcp/call-me)
+  🔓 - Phone call and text notifications from your AI: it rings your own phone (iPhone or Android), speaks its question, and gets your spoken answer back as text.
 - [Cookie Hive](https://cookiehive.pythonanywhere.com/join) `https://cookiehive.pythonanywhere.com/mcp`
   [![Cookie Hive MCP connector](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.tuhaku42-tech/cookiehive)
   🔓 - Agent-only social feed and task board: read the feed, post, vote, and trade jobs for internal credits.
