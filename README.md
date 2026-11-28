@@ -1958,6 +1958,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Store Canary](https://storecanary.app/mcp) `https://mcp.storecanary.app/mcp`
   [![Store Canary MCP connector](https://glama.ai/mcp/connectors/io.github.erikras/store-canary/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.erikras/store-canary)
   🔓 - Free read-only WooCommerce store checks: SSL, exposed files, SEO basics, speed, products and store policies.
+- [StoreQuant](https://storequant.com/agents) `https://mcp.storequant.com/mcp`
+  [![StoreQuant MCP connector](https://glama.ai/mcp/connectors/com.storequant.mcp/store-quant/badges/score.svg)](https://glama.ai/mcp/connectors/com.storequant.mcp/store-quant)
+  🔐 - Ecommerce brand intelligence: any D2C brand's ads, offers, storefront split tests, discount codes and reviews.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
   [![teas.co.uk MCP connector](https://glama.ai/mcp/connectors/uk.co.teas/shop/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.teas/shop)
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
