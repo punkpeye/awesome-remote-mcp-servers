@@ -1648,6 +1648,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
+- [StudioTV LLM VRAM Calculator](https://studiotvai.com/llm-vram-calculator) `https://studiotvai.com/api/mcp`
+  [![StudioTV LLM VRAM Calculator MCP connector](https://glama.ai/mcp/connectors/com.studiotvai/llm-vram/badges/score.svg)](https://glama.ai/mcp/connectors/com.studiotvai/llm-vram)
+  🔓 - Check whether an open LLM fits a GPU or Mac: VRAM, speed, GPUs needed and hourly rental prices.
 - [Supero](https://supero.dev) `https://api.supero.dev/mcp/v1/messages`
   [![Supero MCP connector](https://glama.ai/mcp/connectors/io.github.supero-platform/supero/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.supero-platform/supero)
  🔓 - Define schemas, CRUD, RBAC and one-call deploys for multi-tenant apps from an AI editor; tool calls need a key.
