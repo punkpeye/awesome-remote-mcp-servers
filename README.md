@@ -6608,6 +6608,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SayBriefly](https://saybriefly.com/mcp) `https://mcp.saybriefly.com/mcp`
   [![SayBriefly MCP connector](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly/badges/score.svg)](https://glama.ai/mcp/connectors/com.saybriefly/saybriefly)
   🔐 - Search your recorded meetings, transcripts, decisions and action items, and list your open to-dos.
+- [Screen for AI](https://screenforai.app/) `https://app.screenforai.app/mcp`
+  [![Screen for AI MCP connector](https://glama.ai/mcp/connectors/app.screenforai/screen-for-ai/badges/score.svg)](https://glama.ai/mcp/connectors/app.screenforai/screen-for-ai)
+  🔐 - Show interactive pages on a spare Android phone or tablet and read back saved answers.
 - [seelig.ai booking](https://www.seelig.ai/en/mcp) `https://www.seelig.ai/api/mcp`
   [![seelig.ai booking MCP connector](https://glama.ai/mcp/connectors/io.github.seelig-ai/seelig-ai-booking/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.seelig-ai/seelig-ai-booking)
   🔓 - Lists the services of seelig.ai (Switzerland) with prices and requests a free 30-minute first call.
