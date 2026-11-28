@@ -2236,6 +2236,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Aggregate](https://aggregate.finance) `https://app.aggregate.finance/mcp`
   [![Aggregate MCP connector](https://glama.ai/mcp/connectors/finance.aggregate/aggregate/badges/score.svg)](https://glama.ai/mcp/connectors/finance.aggregate/aggregate)
   🔐 - Every company's money in one ledger: cash, runway, invoices, payroll. Records money, can't move it.
+- [AI Actuary](https://mcp.supersubject.ai/) `https://mcp.supersubject.ai/mcp`
+  [![AI Actuary MCP connector](https://glama.ai/mcp/connectors/ai.supersubject/insurance-rules-kb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.supersubject/insurance-rules-kb)
+  🔓 - AI 精算师: search 225 Chinese insurance regulation documents (actuarial rules, product development, negative lists, solvency, investment management) and get key clauses, figures, document numbers and validity status.
+
 - [AI Trading Signals](https://signals.x70.ai/mcp-docs) `https://signals.x70.ai/mcp`
   [![AI Trading Signals MCP connector](https://glama.ai/mcp/connectors/ai.x70.signals/ai-trading-signals/badges/score.svg)](https://glama.ai/mcp/connectors/ai.x70.signals/ai-trading-signals)
   🔓 - Live crypto trading signals with reasoning and verified outcomes; free key for the full feed, Pro for trade levels.
