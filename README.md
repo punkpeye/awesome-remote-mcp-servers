@@ -6100,6 +6100,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StringSpec](https://stringspec.com/connect/) `https://stringspec.com/mcp`
   [![StringSpec MCP connector](https://glama.ai/mcp/connectors/com.stringspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.stringspec/mcp)
   🔓 - Lab measurements of nearly 800 tennis strings: search, compare and get string recommendations.
+- [tactica.+](https://www.tacticafootball.co.uk/ask) `https://app.tacticafootball.co.uk/mcp`
+  [![tactica.+ MCP connector](https://glama.ai/mcp/connectors/uk.co.tacticafootball/tactica-plus/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.tacticafootball/tactica-plus)
+  🔐 - Football forecasts, Case Files, league tables and head to heads for the EPL and EFL. Every forecast free.
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
