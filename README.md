@@ -2867,6 +2867,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SnowSignals TrendVane](https://snowsignals.io) `https://snowsignals.io/mcp`
   [![SnowSignals TrendVane MCP connector](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals/badges/score.svg)](https://glama.ai/mcp/connectors/io.snowsignals/snowsignals)
   🔓 - Market-phase state per currency across timeframes (not trade signals); free phase stats, metered live reads.
+- [SoChain](https://sochain.com/agents) `https://sochain.com/mcp`
+  [![SoChain MCP connector](https://glama.ai/mcp/connectors/com.sochain/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sochain/mcp)
+  🔓 - Bitcoin, Litecoin, Dogecoin and Zcash blockchain data: addresses, transactions, blocks and fees.
 - [SocialForex](https://toolforex.xyz) `https://toolforex.xyz/api/mcp`
   [![SocialForex MCP connector](https://glama.ai/mcp/connectors/io.github.namlxuit056/social-forex/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.namlxuit056/social-forex)
   🔓 - Forex, gold and crypto quotes, economic calendar, multi-timeframe screener, currency strength and lot-size calculator.
