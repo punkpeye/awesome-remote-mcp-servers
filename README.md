@@ -2767,6 +2767,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PredixLab](https://predixlab.com) `https://api.predixlab.com/mcp/`
   [![PredixLab MCP connector](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab/badges/score.svg)](https://glama.ai/mcp/connectors/com.predixlab.api/predix-lab)
   🔐 - Daily US stock signals, screeners and options analysis over MCP. Read-only.
+- [Primary Source Commodities](https://commodities.sh/mcp) `https://api.commodities.sh/api/mcp`
+  [![Primary Source Commodities MCP connector](https://glama.ai/mcp/connectors/io.github.sawftware-apps/commodities-sh/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sawftware-apps/commodities-sh)
+  🔓 - Inventories, fundamentals, positioning and prices from EIA, USDA, CFTC, IMF, USGS, FAOSTAT and UN Comtrade; 7 free.
 - [Priors](https://priors.trade) `https://mcp.priors.trade/mcp`
   [![Priors MCP connector](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.priors-agents/priors-read)
   🔓 - Credit records and scores of ERC-8004 AI agents on Robinhood Chain, with pool figures and recent loans.
