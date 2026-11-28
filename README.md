@@ -5766,6 +5766,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Sanctions-screening signal for AI agents: check a person or organization against OFAC and EU lists.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
+- [Sentry Relay](https://sentryrelay.com/docs/mcp) `https://sentryrelay.com/api/mcp`
+  [![Sentry Relay MCP connector](https://glama.ai/mcp/connectors/io.github.sentryrelay/sentryrelay/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sentryrelay/sentryrelay)
+  🔑 - Automated 2FA for AI agents: receive email OTPs, magic links, dedicated US SMS codes, and KMS-vaulted TOTP tokens.
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
   [![Site Passport MCP connector](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness)
   🔓 - Check whether AI agents can safely operate a WordPress site: llms.txt, robots.txt and schema.org.
