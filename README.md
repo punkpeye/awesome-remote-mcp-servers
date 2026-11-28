@@ -5871,6 +5871,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostNext](https://postnext.io/mcp) `https://mcp.postnext.io/api`
   [![PostNext MCP connector](https://glama.ai/mcp/connectors/io.postnext/postnext/badges/score.svg)](https://glama.ai/mcp/connectors/io.postnext/postnext)
   🔐 - Draft, schedule and publish to X, Instagram, LinkedIn, TikTok and more, plus channel analytics.
+- [PostPlenty](https://www.getpylot.com/agents) `https://www.getpylot.com/api/mcp`
+  [![PostPlenty MCP connector](https://glama.ai/mcp/connectors/com.getpylot/pylot/badges/score.svg)](https://glama.ai/mcp/connectors/com.getpylot/pylot)
+  🔑 - Draft, schedule and publish posts to Instagram, Facebook, TikTok, LinkedIn, X and Google Business Profile.
 - [PostQuest](https://post-quest.com/mcp) `https://mcp.post-quest.com/mcp`
   [![PostQuest MCP connector](https://glama.ai/mcp/connectors/com.post-quest/postquest/badges/score.svg)](https://glama.ai/mcp/connectors/com.post-quest/postquest)
   🔐 - Draft, validate, schedule and publish posts to 10 networks, with platform rule checks and post analytics.
@@ -5883,9 +5886,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publora](https://publora.com) `https://mcp.publora.com/mcp`
   [![Publora MCP connector](https://glama.ai/mcp/connectors/com.publora/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.publora/mcp-server)
   🔐 - Draft, schedule and publish posts to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Bluesky and more.
-- [Pylot AI](https://www.getpylot.com/agents) `https://www.getpylot.com/api/mcp`
-  [![Pylot AI MCP connector](https://glama.ai/mcp/connectors/com.getpylot/pylot/badges/score.svg)](https://glama.ai/mcp/connectors/com.getpylot/pylot)
-  🔑 - Draft, schedule and publish posts to Instagram, Facebook, TikTok, LinkedIn, X and Google Business Profile.
 - [QPost](https://qpost.dev) `https://qpost.dev/mcp`
   [![QPost MCP connector](https://glama.ai/mcp/connectors/io.github.arslan2012/qpost-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.arslan2012/qpost-mcp)
   🔓 - Publish and schedule videos and images on TikTok, Instagram and YouTube, with post stats; tools need an API key.
