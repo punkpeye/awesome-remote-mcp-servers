@@ -940,6 +940,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostalForm](https://postalform.com/developers) `https://postalform.com/mcp`
   [![PostalForm MCP connector](https://glama.ai/mcp/connectors/com.postalform/postalform/badges/score.svg)](https://glama.ai/mcp/connectors/com.postalform/postalform)
   🔓 - Print and mail letters, PDFs and forms by USPS, including Certified Mail, paid by checkout link or MPP/x402.
+- [PostMe Letters](https://postmeletters.com/ai-connector) `https://api.postmeletters.com/mcp`
+  [![PostMe Letters MCP connector](https://glama.ai/mcp/connectors/com.postmeletters/letters/badges/score.svg)](https://glama.ai/mcp/connectors/com.postmeletters/letters)
+  🔓 - Post real printed letters to UK addresses by Royal Mail 1st class; free PDF proof, the user pays by Stripe link.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
 - [SendFaxFast](https://sendfaxfast.com/ai-connect.html) `https://sendfaxfast.com/api/mcp.php`
