@@ -2035,6 +2035,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kevin's Coaching Brain](https://github.com/360tft/coaching-brain-mcp) `https://brain.360tft.com/api/brain/mcp`
   [![Kevin's Coaching Brain MCP connector](https://glama.ai/mcp/connectors/com.360tft/coaching-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.360tft/coaching-brain)
   🔓 - Search Kevin Middleton's football coaching writing and get short passages with a link to each source.
+- [KI-Berichtsheft](https://berichtsheft.innov-ai-tive.de/connect) `https://berichtsheft.innov-ai-tive.de/mcp`
+  [![KI-Berichtsheft MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.berichtsheft/ki-berichtsheft/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.berichtsheft/ki-berichtsheft)
+  🔐 - German apprenticeship logbook: daily entries, training-framework coverage and trainer sign-off.
 - [Laplace’s Mini World](https://world.lapla.si/en/api/) `https://world.lapla.si/mcp`
   [![Laplace’s Mini World MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/laplace-mini-world-mcp)
   🔓 - Find and open 100+ interactive 3D science models live in the chat, in Chinese and English; read-only.
@@ -2053,6 +2056,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Spelling Bee Hive](https://www.spellingbeehive.com/spelling-bee-mcp) `https://www.spellingbeehive.com/mcp`
   [![Spelling Bee Hive MCP connector](https://glama.ai/mcp/connectors/com.spellingbeehive/spelling-bee/badges/score.svg)](https://glama.ai/mcp/connectors/com.spellingbeehive/spelling-bee)
   🔓 - Look up spelling bee words with pronunciations, meanings and origins, and run practice rounds at nine levels.
+- [SynapseLingo Language Trainer](https://app.synapse-lingo.de/connect) `https://app.synapse-lingo.de/mcp`
+  [![SynapseLingo Language Trainer MCP connector](https://glama.ai/mcp/connectors/de.synapse-lingo.app/trainer/badges/score.svg)](https://glama.ai/mcp/connectors/de.synapse-lingo.app/trainer)
+  🔐 - Learn over 1,000 languages with daily stories, sentence by sentence, with spaced repetition.
+- [SynapseLingo Tutor](https://gpt-tutor.synapse-lingo.de/connect) `https://gpt-tutor.synapse-lingo.de/functions/v1/mcp-server`
+  [![SynapseLingo Tutor MCP connector](https://glama.ai/mcp/connectors/de.synapse-lingo.gpt-tutor/tutor/badges/score.svg)](https://glama.ai/mcp/connectors/de.synapse-lingo.gpt-tutor/tutor)
+  🔐 - Language tutor with vocabulary practice, chapters, quizzes and progress for 149 language pairs.
 - [Talkfirst](https://talkfirst.io/?utm_source=awesome-remote-mcp&utm_medium=catalog) `https://mcp.talkfirst.io/mcp`
   [![Talkfirst MCP connector](https://glama.ai/mcp/connectors/io.talkfirst/talkfirst/badges/score.svg)](https://glama.ai/mcp/connectors/io.talkfirst/talkfirst)
   🔐 - Speaking practice in English, Polish, Lithuanian and Czech (beta): pronunciation, voice chats, quizzes, audio lessons.
@@ -2281,6 +2290,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ariadne Nexus](https://ariadnenexus.com/docs/mcp) `https://ariadnenexus.com/mcp`
   [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
   🔓 - Sovereign bond valuation, FINRA TRACE debt radar, OFAC screening, and clearing fee modeling with x402 payments.
+- [Book-AI-ze](https://book-ai-ze.innov-ai-tive.de/connect) `https://book-ai-ze.innov-ai-tive.de/functions/v1/mcp-server`
+  [![Book-AI-ze MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.book-ai-ze/bookaize/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.book-ai-ze/bookaize)
+  🔐 - AI bookkeeping for small companies: documents, bank transactions, postings, sevDesk and DATEV export.
 - [Ärikratt](https://arikratt.ee/en/mcp) `https://arikratt.ee/mcp`
   [![Ärikratt MCP connector](https://glama.ai/mcp/connectors/ee.arikratt/arikratt/badges/score.svg)](https://glama.ai/mcp/connectors/ee.arikratt/arikratt)
   🔐 - Estonian companies, EMTAK sectors, regions, grants, open calls and public procurement from official registers.
@@ -3275,6 +3287,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClinX](https://clinx.org/data/assistants/) `https://clinx.org/mcp`
   [![ClinX MCP connector](https://glama.ai/mcp/connectors/org.clinx/clinx/badges/score.svg)](https://glama.ai/mcp/connectors/org.clinx/clinx)
   🔓 - Read-only public records on the 340B drug program and federally funded health centers, each with its official link.
+- [CoachAIze](https://coachaize.innov-ai-tive.de/connect) `https://coachaize.innov-ai-tive.de/functions/v1/mcp-server`
+  [![CoachAIze MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.coachaize/coachaize/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.coachaize/coachaize)
+  🔐 - Booking and course platform for yoga, fitness and sports studios: schedule, bookings and members.
 - [GLP-1 Buyer Guide Prices](https://glp1buyerguide.com) `https://prices.glp1buyerguide.com/mcp`
   [![GLP-1 Buyer Guide Prices MCP connector](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices/badges/score.svg)](https://glama.ai/mcp/connectors/com.glp1buyerguide/glp1-prices)
   🔓 - Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates.
@@ -3627,6 +3642,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Common Paper](https://commonpaper.com) `https://api.commonpaper.com/mcp`
   [![Common Paper MCP connector](https://glama.ai/mcp/connectors/com.commonpaper/contracts/badges/score.svg)](https://glama.ai/mcp/connectors/com.commonpaper/contracts)
   🔐 - Create agreements from standard templates, send them for signature, and track status and history.
+- [Compl-AI-ance](https://compl-ai-ance.innov-ai-tive.de) `https://compl-ai-ance.innov-ai-tive.de/api/mcp`
+  [![Compl-AI-ance MCP connector](https://glama.ai/mcp/connectors/io.github.toasternet/compl-ai-ance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toasternet/compl-ai-ance)
+  🔐 - EU AI Act and ISO 42001/27001 compliance: AI system inventory, risk classification, controls, evidence and audits.
 - [Cookie Compliance](https://cookie-compliance.co/mcp/) `https://mcp.cookie-compliance.co/mcp`
   [![Cookie Compliance MCP connector](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent/badges/score.svg)](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent)
   🔓 - Preview, install and configure a cookie consent banner that holds trackers in the page until the visitor chooses.
@@ -5011,6 +5029,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
   [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
   🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
+- [Tender-AI-ze](https://tender-ai-ze.innov-ai-tive.de/connect) `https://tender-ai-ze.innov-ai-tive.de/functions/v1/tender-ai-ze-mcp-server`
+  [![Tender-AI-ze MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.tender-ai-ze/tenderaize/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.tender-ai-ze/tenderaize)
+  🔐 - Find public tenders and grants (TED, German portals), check the fit and prepare bids.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
@@ -6150,6 +6171,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SavantCat Answers](https://savantcat.cn/mcp/) `https://savantcat.cn/mcp`
   [![SavantCat Answers MCP connector](https://glama.ai/mcp/connectors/cn.savantcat/answers/badges/score.svg)](https://glama.ai/mcp/connectors/cn.savantcat/answers)
   🔓 - China's GB/T 47746-2026 AI customer-service standard: clause Q&A, self-check list and filing rules.
+- [Support-AI-ze](https://support-ai-ze.innov-ai-tive.de/connect) `https://support-ai-ze.innov-ai-tive.de/functions/v1/mcp-server`
+  [![Support-AI-ze MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.support-ai-ze/supportaize/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.support-ai-ze/supportaize)
+  🔐 - Support desk with tickets, acceptance criteria, estimates, time tracking, tests and mockups.
 - [WorkWing](https://www.workwing.io/developers) `https://api.workwing.io/mcp`
   [![WorkWing MCP connector](https://glama.ai/mcp/connectors/io.workwing/workwing/badges/score.svg)](https://glama.ai/mcp/connectors/io.workwing/workwing)
   🔐 - Field service jobs: find customers and engineers, read the schedule, create and book jobs, and add notes.
@@ -6473,6 +6497,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Cursu Job Age Checker](https://cursu.ai/check/mcp) `https://cursu.ai/mcp`
   [![Cursu Job Age Checker MCP connector](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker/badges/score.svg)](https://glama.ai/mcp/connectors/ai.cursu/job-age-checker)
   🔓 - Check when a job posting was first published and whether it is still listed, from the employer's job link.
+- [DelegAIze](https://delegaize.innov-ai-tive.de/connect) `https://delegaize.innov-ai-tive.de/api/sb/functions/v1/mcp-server`
+  [![DelegAIze MCP connector](https://glama.ai/mcp/connectors/io.github.toasternet/delegaize/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toasternet/delegaize)
+  🔐 - AI agents for CRM, mail, calendar, ERP and accounting; actions with external effect wait for your approval.
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions and build invitations.
@@ -6503,6 +6530,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ERP Partner Finder](https://erppartnerfinder.com) `https://erppartnerfinder.com/api/mcp`
   [![ERP Partner Finder MCP connector](https://glama.ai/mcp/connectors/com.erppartnerfinder/partner-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.erppartnerfinder/partner-finder)
   🔓 - Search and compare Odoo implementation partners in Germany, Austria and Switzerland, with rule-based shortlists.
+- [Excel-AI-ze](https://excel-ai-ze.innov-ai-tive.de/connect) `https://excel-ai-ze.innov-ai-tive.de/functions/v1/mcp-server`
+  [![Excel-AI-ze MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.excel-ai-ze/excelaize/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.excel-ai-ze/excelaize)
+  🔐 - Explain and analyse Excel workbooks: formulas, dependencies, issues and what-if scenarios.
 - [Finder Jobs](https://mcp.finder.work) `https://mcp.finder.work/mcp`
   [![Finder Jobs MCP connector](https://glama.ai/mcp/connectors/work.finder/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/work.finder/jobs)
   🔓 - Job vacancies and salary stats for Russia, Kazakhstan, Belarus, Kyrgyzstan, Germany, France and 4 more countries.
@@ -6751,6 +6781,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RemoveDuplicates.org](https://removeduplicates.org/) `https://removeduplicates.org/mcp`
   [![RemoveDuplicates.org MCP connector](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg)
   🔓 - Remove duplicate lines or CSV/TSV rows; stateless, text is never stored.
+- [RescueAIze](https://rescueaize.innov-ai-tive.de/connect) `https://rescueaize.innov-ai-tive.de/functions/v1/mcp-server`
+  [![RescueAIze MCP connector](https://glama.ai/mcp/connectors/de.innov-ai-tive.rescueaize/rescueaize/badges/score.svg)](https://glama.ai/mcp/connectors/de.innov-ai-tive.rescueaize/rescueaize)
+  🔐 - Website and club work for fire brigades and relief groups: reports, events, members and newsletters.
 - [RFQdecoder](https://rfqdecoder.com/api-mcp-ai-agents/) `https://rfqdecoder.com/api/mcp`
   [![RFQdecoder MCP connector](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Mounirt879/rfqdecoder)
   🔓 - Should-cost of an industrial part from its PDF, DXF or STEP drawing, line by line, with assumptions and exclusions.
