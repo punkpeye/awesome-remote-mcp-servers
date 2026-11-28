@@ -3642,6 +3642,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Common Paper](https://commonpaper.com) `https://api.commonpaper.com/mcp`
   [![Common Paper MCP connector](https://glama.ai/mcp/connectors/com.commonpaper/contracts/badges/score.svg)](https://glama.ai/mcp/connectors/com.commonpaper/contracts)
   🔐 - Create agreements from standard templates, send them for signature, and track status and history.
+- [Compl-AI-ance](https://compl-ai-ance.innov-ai-tive.de) `https://compl-ai-ance.innov-ai-tive.de/api/mcp`
+  [![Compl-AI-ance MCP connector](https://glama.ai/mcp/connectors/io.github.toasternet/compl-ai-ance/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.toasternet/compl-ai-ance)
+  🔐 - EU AI Act and ISO 42001/27001 compliance: AI system inventory, risk classification, controls, evidence and audits.
 - [Cookie Compliance](https://cookie-compliance.co/mcp/) `https://mcp.cookie-compliance.co/mcp`
   [![Cookie Compliance MCP connector](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent/badges/score.svg)](https://glama.ai/mcp/connectors/co.cookie-compliance/cookie-consent)
   🔓 - Preview, install and configure a cookie consent banner that holds trackers in the page until the visitor chooses.
