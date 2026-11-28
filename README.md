@@ -1935,7 +1935,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
 - [RivalSweeper Signals](https://www.rivalsweeper.com/solutions/signals-api) `https://mcp.rivalsweeper.com/mcp`
   [![RivalSweeper Signals MCP connector](https://glama.ai/mcp/connectors/com.rivalsweeper/signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.rivalsweeper/signals)
-  🔓 - 35 eCommerce competitor-intel tools: prices, promos, ads, AI visibility, hiring. In RivalSweeper plans or prepaid key.
+  🔓 - 42 eCommerce competitor-intel tools: prices, promos, ads, AI visibility, search ranking, hiring. In RivalSweeper plans or prepaid key.
 - [Santa's Calling](https://santascalling.co.uk/assistants) `https://santascalling.co.uk/mcp`
   [![Santa's Calling MCP connector](https://glama.ai/mcp/connectors/uk.co.santascalling/santas-calling/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.santascalling/santas-calling)
   🔓 - Gift a UK child a live phone call from an AI Santa (£6.99); returns a Stripe Checkout link the buyer pays.
