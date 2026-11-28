@@ -2190,6 +2190,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - IRS records on US nonprofits: exempt status, revocations, Form 990 financials, due dates and statistics.
 
 
+- [Aarven](https://aarven.ch/mcp-server) `https://aarven.ch/mcp`
+  [![Aarven MCP connector](https://glama.ai/mcp/connectors/ch.aarven/aarven/badges/score.svg)](https://glama.ai/mcp/connectors/ch.aarven/aarven)
+  🔐 - Swiss accounting (CHF, VAT): balance sheet, P&L, VAT returns, checks, draft bookings and bank reconciliation.
 - [Aave](https://aave.com) `https://mcp.aave.com`
   [![Aave MCP connector](https://glama.ai/mcp/connectors/com.aave.mcp/aave/badges/score.svg)](https://glama.ai/mcp/connectors/com.aave.mcp/aave)
   🔓 - Aave V3 and V4 markets, rates, wallet positions, governance and non-custodial transaction building.
