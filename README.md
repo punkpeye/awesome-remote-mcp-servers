@@ -4377,6 +4377,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vivere](https://vivere.dev) `https://vivere.dev/mcp`
   [![Vivere MCP connector](https://glama.ai/mcp/connectors/dev.vivere/monitors/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vivere/monitors)
   🔓 - Cron and heartbeat monitoring: create monitors and check in on each run; tools need a key.
+- [WatchFor](https://watchfor.io) `https://watchfor.io/api/mcp`
+  [![WatchFor MCP connector](https://glama.ai/mcp/connectors/io.watchfor/watchfor/badges/score.svg)](https://glama.ai/mcp/connectors/io.watchfor/watchfor)
+  🔐 - Create and tune monitors, triage incidents, manage status pages and run DNS, TLS and ping checks from 20 locations.
 - [Zetlyn](https://zetlyn.com) `https://zetlyn.com/mcp`
   [![Zetlyn MCP connector](https://glama.ai/mcp/connectors/com.zetlyn/zetlyn/badges/score.svg)](https://glama.ai/mcp/connectors/com.zetlyn/zetlyn)
   🔐 - Watch a place on a web page or a whole page; get told when it changes or when a price or text condition is met.
