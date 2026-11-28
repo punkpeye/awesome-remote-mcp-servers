@@ -6512,6 +6512,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FITsociety](https://fitsociety.io) `https://mcp.fitsociety.io/mcp/v1`
   [![FITsociety MCP connector](https://glama.ai/mcp/connectors/io.fitsociety/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.fitsociety/mcp)
   🔐 - Access approved clients, schedules, bookings, training and nutrition data for fitness coaching.
+- [forms.](https://formsdot.com) `https://app.formsdot.com/mcp`
+  [![forms. MCP connector](https://glama.ai/mcp/connectors/com.formsdot.app/forms-formsdot/badges/score.svg)](https://glama.ai/mcp/connectors/com.formsdot.app/forms-formsdot)
+  🔓 - Fill official IRS, USCIS and passport forms as a PDF from chat.
 - [formset](https://www.getformset.com) `https://mcp.getformset.com/mcp`
   [![formset MCP connector](https://glama.ai/mcp/connectors/com.getformset/formset/badges/score.svg)](https://glama.ai/mcp/connectors/com.getformset/formset)
   🔐 - Describe a form in chat and get a hosted, shareable form back; ask about the answers in the same conversation.
