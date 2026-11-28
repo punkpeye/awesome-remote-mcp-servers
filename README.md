@@ -3335,6 +3335,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Lokr](https://lokr.id/cari-kerja-pakai-ai) `https://lokr.id/mcp`
+  [![Lokr MCP connector](https://glama.ai/mcp/connectors/id.lokr/lowongan/badges/score.svg)](https://glama.ai/mcp/connectors/id.lokr/lowongan)
+  🔓 - Search Indonesian jobs from employers' own career sites, read full requirements, get job-market data, match a CV.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
