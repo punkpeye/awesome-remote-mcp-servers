@@ -6168,6 +6168,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mazdek AI](https://mazdek.ai) `https://api.mazdek.ai/api/mcp`
   [![mazdek AI MCP connector](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.mazdek/mazdek-ai)
   🔐 - Kurdish language tools: translate 250+ languages, spell and grammar check, transliterate Sorani, transcribe audio.
+- [PaydaDosh](https://paydadosh.ru/developers) `https://mcp.paydadosh.ru/mcp`
+  [![PaydaDosh MCP connector](https://glama.ai/mcp/connectors/ru.paydadosh/dictionary/badges/score.svg)](https://glama.ai/mcp/connectors/ru.paydadosh/dictionary)
+  🔓 - Ingush–Russian dictionary: word lookup, inflection tables, corpus examples and Ingush text checks.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
 - [Travel Risk API](https://travelriskapi.com/docs/mcp) `https://api.travelriskapi.com/mcp`
