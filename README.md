@@ -4534,7 +4534,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PopNow](https://popnow.ai/mcp) `https://api.popnow.ai/mcp`
   [![PopNow MCP connector](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp)
   🔐 - Generate images, videos, music and speech, apply video effects and upscale, with a credit quote before each run.
-  - [Prompt to Sound](https://prompttosound.com) `https://mcp.prompttosound.com/mcp`
+- [Prompt to Sound](https://prompttosound.com) `https://mcp.prompttosound.com/mcp`
   [![Prompt to Sound MCP connector](https://glama.ai/mcp/connectors/com.prompttosound/vital/badges/score.svg)](https://glama.ai/mcp/connectors/com.prompttosound/vital)
   🔐 - Design Vital synth presets from plain-language descriptions, with WAV demo renders and level checks.
 - [Qencode](https://qencode.com) `https://mcp.qencode.com/mcp`
