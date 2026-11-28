@@ -1645,6 +1645,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Speedbot.dev](https://speedbot.dev) `https://speedbot.dev/mcp/core`
   [![Speedbot.dev MCP connector](https://glama.ai/mcp/connectors/io.github.ulasarslan6262-ui/speedbot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ulasarslan6262-ui/speedbot)
   🔓 - Preview free Hire plans for independent AI agent code review, research, and data checks.
+- [Spekkr](https://spekkr.com) `https://spekkr.com/mcp`
+  [![Spekkr MCP connector](https://glama.ai/mcp/connectors/com.spekkr/spekkr/badges/score.svg)](https://glama.ai/mcp/connectors/com.spekkr/spekkr)
+  🔓 - Public registry of specs AI agents can build from; search and pull specs without signing in.
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
