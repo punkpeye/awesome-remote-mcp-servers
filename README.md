@@ -2350,6 +2350,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
+- [Buhalteris.ai](https://buhalteris.ai/mcp-serveris/) `https://buhalteris.ai/mcp`
+  [![Buhalteris.ai MCP connector](https://glama.ai/mcp/connectors/ai.buhalteris/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.buhalteris/mcp)
+  🔓 - Lithuanian 2026–2027 tax calculators, live VMI/VIES VAT check, Lietuvos bankas FX rates, tax deadlines, and guides.
 - [Business Verify](https://mbiyepyh.gensparkclaw.com/docs) `https://mbiyepyh.gensparkclaw.com/mcp`
   [![Business Verify MCP connector](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify/badges/score.svg)](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify)
   🔑 - Check a US business's status, formation date and registered agent by name and state; $0.05 a call.
