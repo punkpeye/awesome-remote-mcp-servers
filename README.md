@@ -4531,6 +4531,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PodcastsToText](https://podcaststotext.com) `https://podcaststotext.com/api/mcp`
   [![PodcastsToText MCP connector](https://glama.ai/mcp/connectors/com.podcaststotext/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.podcaststotext/mcp)
   🔐 - Transcribe Spotify, Apple Podcasts, YouTube and TikTok links, then make show notes, chapters and translations.
+- [ProClipper: YouTube Connector](https://proclipper.app) `https://proclipper.app/mcp`
+  [![ProClipper MCP connector](https://glama.ai/mcp/connectors/app.proclipper/pro-clipper-bulk-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/app.proclipper/pro-clipper-bulk-transcripts)
+  🔐 - Connect YouTube to AI assistants to list channel and playlist videos, request transcripts, and download results in bulk.
 - [PopNow](https://popnow.ai/mcp) `https://api.popnow.ai/mcp`
   [![PopNow MCP connector](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.popnow-ai/popnow-mcp)
   🔐 - Generate images, videos, music and speech, apply video effects and upscale, with a credit quote before each run.
