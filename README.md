@@ -2544,6 +2544,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Grey Ridge](https://x402-data-api.sigrunner.workers.dev) `https://x402-data-api.sigrunner.workers.dev/mcp`
   [![Grey Ridge MCP connector](https://glama.ai/mcp/connectors/ai.greyridgesignals/tech-risk/badges/score.svg)](https://glama.ai/mcp/connectors/ai.greyridgesignals/tech-risk)
   🔓 - Pre-trade safety gate for Base tokens: GO/HOLD/BLOCK verdicts, honeypot and tax checks; pay per call in USDC via x402.
+- [Grid402](https://grid402.online) `https://grid402.online/mcp`
+  [![Grid402 MCP connector](https://glama.ai/mcp/connectors/io.github.oliveiratc/grid402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.oliveiratc/grid402)
+  🔓 - Verifiable KYB (CNPJ, OFAC, LEI), FX/crypto, and DNS/SSL/ASN APIs with ECDSA proofs and x402 USDC or Session Pass.
 - [Grok Crypto Quant API](https://grok-backtest-api.fly.dev) `https://grok-backtest-api.fly.dev/mcp`
   [![Grok Crypto Quant API MCP connector](https://glama.ai/mcp/connectors/dev.fly.grok-backtest-api/crypto-quant/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fly.grok-backtest-api/crypto-quant)
   🔓 - Crypto strategy backtests, parameter optimisation, market regime signals and token scam checks; x402 USDC on Base.
