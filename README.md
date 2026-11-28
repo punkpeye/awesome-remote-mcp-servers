@@ -6347,6 +6347,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rozkład PKP/PKS (rozklad-mcp)](https://rozklad.compabase.com) `https://rozklad.compabase.com/mcp`
   [![Rozkład PKP/PKS (rozklad-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/rozklad-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/rozklad-mcp)
   🔓 - Polish trains, PKS buses and city transit: journeys with changes, departures, live delays and fares.
+- [Rush Hour Planner](https://rushhourplanner.com/) `https://rushhourplanner.com/mcp`
+  [![Rush Hour Planner MCP connector](https://glama.ai/mcp/connectors/com.rushhourplanner/rush-hour-planner/badges/score.svg)](https://glama.ai/mcp/connectors/com.rushhourplanner/rush-hour-planner)
+  🔓 - Hourly drive-time forecasts and the best departure for road routes in the US, UK and Canada.
 - [SafeResize](https://saferesize.com/ai) `https://saferesize.com/mcp`
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
