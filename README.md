@@ -4545,7 +4545,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Generate full songs with vocals, instrumentals and sound effects from text, quoted in credits first.
 - [RapVideoAI](https://rapvideoai.com/developers) `https://rapvideoai.com/mcp`
   [![RapVideoAI MCP connector](https://glama.ai/mcp/connectors/com.rapvideoai/rapvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.rapvideoai/rapvideoai)
-  🔐 - Turn your photos into viral AI trend videos and personalized lip-synced songs; browse effects with example clips and prices, then make the video with your credits.
+  🔓 - Turn your photos into viral AI trend videos and personalized lip-synced songs; browse effects with example clips and prices without signing in, then sign in with OAuth to make the video with your credits.
 - [Revid](https://www.revid.ai/mcp) `https://www.revid.ai/api/mcp`
   [![Revid MCP connector](https://glama.ai/mcp/connectors/ai.revid/revid/badges/score.svg)](https://glama.ai/mcp/connectors/ai.revid/revid)
   🔐 - Research what goes viral, make finished short-form videos and post them to TikTok, YouTube, Instagram and X.
