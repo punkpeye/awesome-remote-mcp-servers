@@ -1930,6 +1930,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pryx](https://pryx.fr) `https://pryx.fr/mcp`
   [![Pryx MCP connector](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.KilianPA/pryx)
   🔓 - French buying advice: pick the right appliance or electronics by budget and specs, with best prices.
+- [Rabbit](https://rabbitimport.com/en/guides/ai-buying-agent-1688.html) `https://rabbitimport.com/mcp`
+  [![Rabbit MCP connector](https://glama.ai/mcp/connectors/com.rabbitimport/rabbit/badges/score.svg)](https://glama.ai/mcp/connectors/com.rabbitimport/rabbit)
+  🔓 - Search 1688 in English, order through a buying agent, goods checked in China and shipped to 23 countries.
 - [reusefulshop](https://reusefulshop.com) `https://reusefulshop.com/mcp`
   [![reusefulshop MCP connector](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Auricah1/reusefulshop)
   🔓 - What used items sell for: price estimates, deal verdicts, history and real sold prices.
