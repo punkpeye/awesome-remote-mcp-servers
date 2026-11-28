@@ -6808,3 +6808,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+
+- [japan-places](https://japan-places.com) `https://mcp.japan-places.com`
+  [![japan-places MCP connector](https://glama.ai/mcp/connectors/com.japanplaces/japan-places/badges/score.svg)](https://glama.ai/mcp/connectors/com.japanplaces/japan-places)
+  🔓 - Comprehensive Japanese facilities and locations database with geocoding and location intelligence.
