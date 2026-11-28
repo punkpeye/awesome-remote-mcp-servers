@@ -727,6 +727,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Control Plane](https://docs.controlplane.com/ai/mcp) `https://mcp.cpln.io/mcp`
   [![Control Plane MCP connector](https://glama.ai/mcp/connectors/io.cpln/control-plane/badges/score.svg)](https://glama.ai/mcp/connectors/io.cpln/control-plane)
   🔐 - Deploy and operate apps, databases, secrets, domains, and logs on Control Plane across AWS, GCP, and Azure.
+- [Cool Computers](https://www.cool.computer) `https://api.cool.computer/mcp`
+  [![Cool Computers MCP connector](https://glama.ai/mcp/connectors/computer.cool/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/computer.cool/mcp)
+  🔐 - Publish a page, site or app to its own URL, share it, and answer the comments people pin to it.
 - [Costory](https://docs.costory.io/features/mcp) `https://app-api.costory.io/mcp`
   [![Costory MCP connector](https://glama.ai/mcp/connectors/io.costory.app-api/costory/badges/score.svg)](https://glama.ai/mcp/connectors/io.costory.app-api/costory)
   🔐 - FinOps agent backend: query, allocate and explain AWS, GCP, Azure, Kubernetes and AI spend.
