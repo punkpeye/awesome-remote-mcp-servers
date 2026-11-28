@@ -1853,6 +1853,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [iDevice](https://idevice.com) `https://idevice.com/api/mcp`
   [![iDevice MCP connector](https://glama.ai/mcp/connectors/com.idevice/wearables/badges/score.svg)](https://glama.ai/mcp/connectors/com.idevice/wearables)
   🔓 - Wearable and phone prices, specs, compatibility, release dates and sourced reports for buyers.
+- [InsightLeap](https://insightleap.com/mcp) `https://mcp.insightleap.com/mcp`
+  [![InsightLeap MCP connector](https://glama.ai/mcp/connectors/com.insightleap/insightleap/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightleap/insightleap)
+  🔐 - Read Amazon Vendor and Seller Central data: buy box history, 3P offers, MAP breaches, listing changes and sales.
 - [JENNi Shop Local](https://shop.jennipro.com) `https://shop.jennipro.com/mcp`
   [![JENNi Shop Local MCP connector](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local/badges/score.svg)](https://glama.ai/mcp/connectors/com.jennipro.shop/shop-local)
   🔓 - Search live US local retail store inventory by ZIP code, check same-day delivery options, and start guest checkouts.
