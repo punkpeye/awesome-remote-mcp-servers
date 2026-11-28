@@ -3335,6 +3335,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Destava](https://destava.com/mcp/docs) `https://destava.com/mcp`
   [![Destava job search MCP connector](https://glama.ai/mcp/connectors/com.destava/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.destava/jobs)
   🔓 - Search current job postings from companies' own career sites, check if one is still open, set up a daily search.
+- [Hiring Signals](https://api-production-47e35dbb.up.railway.app) `https://api-production-47e35dbb.up.railway.app/mcp`
+  [![Hiring Signals MCP connector](https://glama.ai/mcp/connectors/io.github.ThryveBaseline/hiring-signals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ThryveBaseline/hiring-signals)
+  🔓 🔑 - Search live jobs from company career sites, with pay ranges and hiring velocity.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
