@@ -768,6 +768,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [kad.dev](https://kad.dev) `https://kad.dev/mcp`
   [![kad.dev MCP connector](https://glama.ai/mcp/connectors/dev.kad/kaddev/badges/score.svg)](https://glama.ai/mcp/connectors/dev.kad/kaddev)
   🔐 - Deploy and run web apps from an agent: live URL per commit, managed Postgres, S3 storage, logs, rollback.
+- [Lantern Works GPU Prices](https://thelanternworks.com/?ref=punkpeye-remote) `https://lantern-works-mcp.lantern-works.workers.dev/mcp`
+  [![Lantern Works GPU Prices MCP connector](https://glama.ai/mcp/connectors/io.github.connormatthewdouglas/lantern-works-deals/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.connormatthewdouglas/lantern-works-deals)
+  🔓 - Free GPU cloud rental prices, price changes and deals; read-only lookups plus optional price-watch alerts.
 - [Lium](https://docs.lium.io/developers/mcp) `https://docs.lium.io/mcp`
   [![Lium MCP connector](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Datura-ai/lium-docs)
   🔓 - Search and read the docs of Lium, a GPU rental marketplace: rent GPU pods by the second via CLI, SDK or REST API.
