@@ -12,7 +12,7 @@ A curated list of remote [Model Context Protocol](https://modelcontextprotocol.i
 
 Looking for servers you run yourself? See [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers).
 
-* [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) (`https://mcp.insom.ai/mcp`) - Hosted Streamable-HTTP & SSE offensive security, SAST/taint, live secret validation, Web DAST, OSINT, and 21,100+ 1-Day CVE verification MCP server (160 tools, 50 free credits).
+* [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) (`https://mcp.insom.ai/mcp`) - Hosted Streamable-HTTP & SSE offensive security, SAST/taint, live secret validation, Web DAST, OSINT, and 21,100+ 1-Day CVE verification MCP server (160 tools, 50 free credits).
 * [What is a remote MCP server?](#what-is-a-remote-mcp-server)
 * [How to connect](#how-to-connect)
 * [Legend](#legend)
