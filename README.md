@@ -459,6 +459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [Affogato](https://affogato.ai/mcp) `https://api.affogato.ai/mcp`
+  [![Affogato MCP connector](https://glama.ai/mcp/connectors/ai.affogato/affogato/badges/score.svg)](https://glama.ai/mcp/connectors/ai.affogato/affogato)
+  🔐 - Generate AI images, videos and audio using paid Affogato workspace credits.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
