@@ -739,9 +739,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PaperAgent](https://paperagent.dev) `https://paperagent.dev/mcp`
   [![PaperAgent MCP connector](https://glama.ai/mcp/connectors/dev.paperagent/letters/badges/score.svg)](https://glama.ai/mcp/connectors/dev.paperagent/letters)
   🔓 - Mail one-off USPS letters from chat: validates the US address, shows a PDF preview and total, and waits for approval.
-- [Pidgeon](https://pidgeon.ai) `https://pidgeon.ai/mcp`
-  [![Pidgeon MCP connector](https://glama.ai/mcp/connectors/ai.pidgeon/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.pidgeon/mcp)
-  🔐 - Email inboxes for AI agents, on @pidgeon.email or your domain, and for every user of your platform.
 - [Piloxa](https://piloxa.com) `https://piloxa.com/mcp`
   [![Piloxa MCP connector](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail/badges/score.svg)](https://glama.ai/mcp/connectors/com.piloxa/piloxa-certified-mail)
   🔓 - Send a letter as printed USPS Certified Mail with tracking, from $13.18.
@@ -807,6 +804,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wacli.me](https://wacli.me) `https://wacli.me/mcp`
   [![wacli.me MCP connector](https://glama.ai/mcp/connectors/me.wacli/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/me.wacli/whatsapp)
   🔐 - Link your WhatsApp account to read, search and send messages.
+- [Zurchin](https://zurchin.com) `https://zurchin.com/mcp`
+  [![Zurchin MCP connector](https://glama.ai/mcp/connectors/com.zurchin/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.zurchin/mcp)
+  🔐 - Email inboxes for AI agents, on @zurchin.email or your domain, and for every user of your platform.
 
 ### 📝 <a name="content-management"></a>Content Management
 
