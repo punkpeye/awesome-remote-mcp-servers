@@ -1681,6 +1681,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tools That Don't Upload](https://toolsthatdontupload.com) `https://toolsthatdontupload.com/mcp`
   [![Tools That Don't Upload MCP connector](https://glama.ai/mcp/connectors/com.toolsthatdontupload/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsthatdontupload/tools)
   🔓 - Text, data, hashing, encoding, date, PDF, network and HWP/HWPX tools. Requests processed in memory, not stored.
+- [Traceflow](https://traceflow.nl/llms.txt) `https://traceflow.nl/mcp`
+  [![Traceflow MCP connector](https://glama.ai/mcp/connectors/nl.traceflow/traceflow/badges/score.svg)](https://glama.ai/mcp/connectors/nl.traceflow/traceflow)
+  🔓 - Ephemeral 30m cells to verify raw-byte webhooks and HMACs, inject HTTP/SSE chaos, test races, and diff OTLP traces.
 - [Traffic Parrot](https://trafficparrot.com/ai/agent-trial.html) `https://mcp.trafficparrot.com/`
   [![Traffic Parrot MCP connector](https://glama.ai/mcp/connectors/com.trafficparrot/public/badges/score.svg)](https://glama.ai/mcp/connectors/com.trafficparrot/public)
   🔓 - Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.
