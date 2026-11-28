@@ -733,6 +733,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Crow Nest](https://crow-nest.com) `https://crow-nest.com/mcp`
   [![Crow Nest MCP connector](https://glama.ai/mcp/connectors/com.crow-nest/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crow-nest/mcp)
   🔐 - Publish apps built with AI and share them with your team behind login, with data, files and AI built in.
+- [Disposable Computer](https://disposable.computer) `https://disposable.computer/api/mcp`
+  [![Disposable Computer MCP connector](https://glama.ai/mcp/connectors/computer.disposable/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/computer.disposable/mcp)
+  🔐 - Create Linux computers, run commands, move files, use a desktop through screenshots and input, then delete them.
 - [DropTheHassle](https://dropthehassle.com) `https://dropthehassle.com/mcp`
   [![DropTheHassle MCP connector](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bosmdavid-gif/dropthehassle)
   🔓 - Publish static sites to a free HTTPS link or your own domain and check domain prices; account tools need a token.
