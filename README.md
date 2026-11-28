@@ -1443,6 +1443,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hexum](https://hexum.dev) `https://hexum.dev/mcp`
   [![Hexum MCP connector](https://glama.ai/mcp/connectors/dev.hexum/hexum/badges/score.svg)](https://glama.ai/mcp/connectors/dev.hexum/hexum)
   🔑 - Shrink agent prompts, block forbidden imports without calling a model, and review PRs; zero data retention.
+- [HookKeep](https://hookkeep.com) `https://mcp.hookkeep.com/mcp`
+  [![HookKeep MCP connector](https://glama.ai/mcp/connectors/com.hookkeep/hookkeep/badges/score.svg)](https://glama.ai/mcp/connectors/com.hookkeep/hookkeep)
+  🔐 - Private webhook inbox: capture, search, compare and replay requests kept for 60 days.
 - [HopBase](https://hop-base.com/en/docs/getting-started/ai-agent) `https://api.hop-base.com/mcp`
   [![HopBase MCP connector](https://glama.ai/mcp/connectors/com.hop-base/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.hop-base/mcp)
   🔓 - Read-only tools for a HopBase AI gateway key: models, limits, docs search, balance and usage; calls need a key.
