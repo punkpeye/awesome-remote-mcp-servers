@@ -823,6 +823,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [wawesome](https://wawesome.io) `https://api.wawesome.io/v1/mcp`
   [![wawesome MCP connector](https://glama.ai/mcp/connectors/io.wawesome/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.wawesome/mcp)
   🔐 - Deploy JavaScript Functions and static sites as one version, read invocation logs, and roll back.
+- [Weppa](https://weppa.ai/?utm_source=awesome-remote-mcp&utm_campaign=directorios) `https://mcp.weppa.co/mcp`
+  [![Weppa MCP connector](https://glama.ai/mcp/connectors/io.github.weppa-cloud/weppa/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.weppa-cloud/weppa)
+  🔐 - Managed hosting your agent operates: deploy, back up, read logs and fix Odoo, n8n, Chatwoot or your own app.
 - [while.sh](https://while.sh/en/) `https://app.while.sh/mcp`
   [![while.sh MCP connector](https://glama.ai/mcp/connectors/sh.while/while/badges/score.svg)](https://glama.ai/mcp/connectors/sh.while/while)
   🔐 - French PaaS built for AI agents: deploy apps, PostgreSQL, caches, S3 and jobs over MCP.
