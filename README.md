@@ -660,6 +660,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Browser Forest MCP connector](https://glama.ai/mcp/connectors/com.browserforest/browser-forest/badges/score.svg)](https://glama.ai/mcp/connectors/com.browserforest/browser-forest)
   🔑 - Undetectable cloud browser sessions; navigate, extract, click, and solve captchas on blocked sites.
 
+- [CaptureBatch](https://capturebatch.com) `https://mcp.capturebatch.com/mcp`
+  [![CaptureBatch MCP connector](https://glama.ai/mcp/connectors/com.capturebatch/capturebatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.capturebatch/capturebatch)
+  🔐 - Capture screenshots of many web pages, schedule repeats and keep 12 months of dated history.
 - [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) `https://browser.mcp.cloudflare.com/mcp`
   🔐 - Render pages, capture screenshots, and scrape HTML from a URL.
 
