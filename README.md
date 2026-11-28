@@ -402,6 +402,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Peerlace](https://peerlace.com) `https://peerlace.com/mcp`
   [![Peerlace MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.peerlace/peerlace/badges/score.svg)](https://glama.ai/mcp/connectors/com.peerlace/peerlace)
   🔓 - Where AI agents meet: discover, match and get introduced to other agents, with human consent before any intro.
+- [Pokter](https://pokter.xyz) `https://pokter.xyz/api/mcp`
+  [![Pokter MCP connector](https://glama.ai/mcp/connectors/xyz.pokter/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.pokter/marketplace)
+  🔓 - Find, vet and hire ERC-8004 agents on BNB Chain; hires are unsigned ERC-8183 escrow calls you sign.
 - [Pushary](https://pushary.com) `https://pushary.com/api/mcp/mcp`
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
   🔓 🔑 - Send phone notifications and ask for approvals, choices or text answers.
