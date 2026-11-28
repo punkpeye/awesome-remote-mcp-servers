@@ -3063,6 +3063,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
   🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
 
+- [zertax Regulatory, Tariffs & Carbon MCP](https://apify.com/zertax) `https://mcp.apify.com/?actors=zertax/sec-edgar-exhibit-21-subsidiaries-mcp,zertax/us-census-hs-trade-tariffs-mcp,zertax/verra-carbon-registry-mcp,zertax/canadian-sec-40f-6k-filings-mcp`
+  [![zertax Regulatory, Tariffs & Carbon MCP connector](https://glama.ai/mcp/connectors/io.github.AndyTertzakian/zertax-regulatory-tariffs-carbon-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AndyTertzakian/zertax-regulatory-tariffs-carbon-mcp)
+  🔐 - Provenance-stamped SEC Exhibit 21 subsidiaries, US Census HS10 tariffs, Verra carbon credits & Canadian 40-F/6-K.
+
 - [Zolva](https://zolvaagent.app/docs/mcp) `https://zolvaagent.app/mcp`
   [![Zolva MCP connector](https://glama.ai/mcp/connectors/app.zolvaagent/zolva/badges/score.svg)](https://glama.ai/mcp/connectors/app.zolvaagent/zolva)
   🔓 - Trading agents on Robinhood Chain: each hourly buy, sell or hold with its reason, plus stock token and crypto prices.
