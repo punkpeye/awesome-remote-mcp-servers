@@ -5065,6 +5065,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Machine Schema](https://machineschema.com/developers) `https://machineschema.com/mcp`
   [![Machine Schema MCP connector](https://glama.ai/mcp/connectors/com.machineschema/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.machineschema/mcp)
   🔓 - Cited specs for industrial robots, CNC machines, PLCs and controller alarm codes, each value linked to its OEM source.
+- [Mdexa](https://mdexa.com/developers/) `https://mcp.mdexa.com/mcp`
+  [![Mdexa MCP connector](https://glama.ai/mcp/connectors/io.github.mdexa-ai/mdexa/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mdexa-ai/mdexa)
+  🔐 - Look up medical AI datasets and open models: verified licenses, quoted source evidence and access details.
 - [MedicineData MCP](https://medicine.shanchuangkj.com/en/mcp) `https://medicine.shanchuangkj.com/mcp/`
   [![MedicineData MCP connector](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.shanchuangkj/medicine-data)
   🔓 - Chinese pharma data: 22 tools (21 query + 1 free) for drugs, targets, trials, deals and patents; queries need a key.
