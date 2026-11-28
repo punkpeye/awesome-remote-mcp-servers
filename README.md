@@ -5410,6 +5410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PeopleSearch.im](https://peoplesearch.im/mcp) `https://peoplesearch.im/api/mcp`
   [![PeopleSearch.im MCP connector](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder/badges/score.svg)](https://glama.ai/mcp/connectors/im.peoplesearch/email-finder)
   🔓 - Search people and companies in plain English and get verified work emails; tool calls sign in with OAuth or an API key.
+- [php-entwickler.de](https://www.php-entwickler.de/mcp) `https://mcp.php-entwickler.de`
+  [![php-entwickler.de MCP connector](https://glama.ai/mcp/connectors/de.php-entwickler/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/de.php-entwickler/jobs)
+  🔓 - Search live PHP, Laravel, Symfony and TYPO3 jobs in Germany, Austria, Switzerland, match profiles, get salary data.
 - [Pollar News](https://mcp.pollar.news/) `https://mcp.pollar.news/mcp`
   [![Pollar News MCP connector](https://glama.ai/mcp/connectors/news.pollar/pollar-news/badges/score.svg)](https://glama.ai/mcp/connectors/news.pollar/pollar-news)
   🔓 - Independent European news in four languages: search with sources, explainers with maps, briefs and live stories.
