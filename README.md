@@ -2987,6 +2987,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Valuein](https://valuein.biz) `https://mcp.valuein.biz/mcp`
   [![Valuein MCP connector](https://glama.ai/mcp/connectors/biz.valuein/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/biz.valuein/mcp)
   🔓 - Point-in-time SEC EDGAR fundamentals since 1993; every figure carries a fact_id traceable to its filing.
+- [ValuEdge](https://valuedge.app) `https://valuedge.app/mcp`
+  [![ValuEdge MCP connector](https://glama.ai/mcp/connectors/app.valuedge/valu-edge/badges/score.svg)](https://glama.ai/mcp/connectors/app.valuedge/valu-edge)
+  🔓 - Public stock valuation and fundamentals; OAuth adds personal portfolio and watchlist research.
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
