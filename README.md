@@ -6748,6 +6748,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Private SuperIntelligence](https://privatesuperintelligence.si) `https://privatesuperintelligence.si/mcp`
   [![Private SuperIntelligence MCP connector](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence/badges/score.svg)](https://glama.ai/mcp/connectors/si.privatesuperintelligence/private-superintelligence)
   🔓 - Read about Private SuperIntelligence, a private AI concierge, search its guides and join the waitlist.
+- [PULSE MCP](https://www.datadyne.dev) `https://mcp.datadyne.dev/mcp`
+  [![PULSE MCP connector](https://glama.ai/mcp/connectors/io.github.datadynedev/pulse-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.datadynedev/pulse-mcp)
+  🔐 - Live KPIs, repair orders, customers and appointments for Tekmetric and Shop-Ware auto repair shops.
 - [RemoveDuplicates.org](https://removeduplicates.org/) `https://removeduplicates.org/mcp`
   [![RemoveDuplicates.org MCP connector](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg)
   🔓 - Remove duplicate lines or CSV/TSV rows; stateless, text is never stored.
