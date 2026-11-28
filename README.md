@@ -4040,6 +4040,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Nitrosend](https://nitrosend.com) `https://api.nitrosend.com/mcp`
   [![Nitrosend MCP connector](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend/badges/score.svg)](https://glama.ai/mcp/connectors/com.nitrosend/nitrosend)
   🔐 - Draft campaigns and flows, manage audiences, send tests, and inspect results in your Nitrosend account.
+- [Nolavi Connect](https://connect.nolavi.ai) `https://connect.nolavi.ai/mcp`
+  [![Nolavi Connect MCP connector](https://glama.ai/mcp/connectors/ai.nolavi/connect/badges/score.svg)](https://glama.ai/mcp/connectors/ai.nolavi/connect)
+  🔐 - Run Google, Microsoft, LinkedIn and ChatGPT Ads, Analytics and Business Profile; every change waits for your Approve.
 - [nowyourlink](https://nowyourlink.com) `https://nowyourlink.com/mcp`
   [![nowyourlink MCP connector](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ArneFfm/nowyourlink)
   🔓 - Read the current daily homepage Spotlight ad and browse the archive of settled auction days.
