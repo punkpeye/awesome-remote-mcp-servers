@@ -1396,6 +1396,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fixlight](https://fixlight.fernwaylabs.com/) `https://fixlight.fernwaylabs.com/mcp`
   [![Fixlight MCP connector](https://glama.ai/mcp/connectors/io.github.fernwaylabs/fixlight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.fernwaylabs/fixlight)
   🔓 - Checks a public web page for accessibility problems and explains each one in plain English.
+- [FlowBar](https://flowbar.dev) `https://flowbar.dev/api/mcp`
+  [![FlowBar MCP connector](https://glama.ai/mcp/connectors/dev.flowbar/flowbar/badges/score.svg)](https://glama.ai/mcp/connectors/dev.flowbar/flowbar)
+  🔓 - Guides for Claude Code: set up FlowBar for Mac and turn every manual step (open a page, run a command, paste a key) into one tap.
 - [Footgun](https://getfootgun.com) `https://getfootgun.com/api/mcp`
   [![Footgun MCP connector](https://glama.ai/mcp/connectors/com.getfootgun/footgun/badges/score.svg)](https://glama.ai/mcp/connectors/com.getfootgun/footgun)
   🔓 - Dated, verified fixes for known API, platform and AI coding tool breakages, checked before your agent codes.
