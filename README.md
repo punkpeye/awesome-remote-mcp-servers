@@ -2574,6 +2574,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hunter Killer](https://hunterkiller.io/for-agents) `https://agents.hunterkiller.io/mcp`
   [![Hunter Killer MCP connector](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunterkiller.agents/hunter-killer)
   🔐 - Liquidation walls, snapshot age, evidence labels and a public record for crypto perpetual pairs.
+- [Insurance Rules KB 精算师](https://mcp.supersubject.ai/) `https://mcp.supersubject.ai/mcp`
+  [![Insurance Rules KB 精算师 MCP connector](https://glama.ai/mcp/connectors/ai.supersubject/insurance-rules-kb/badges/score.svg)](https://glama.ai/mcp/connectors/ai.supersubject/insurance-rules-kb)
+  🔓 - Search 225 Chinese insurance regulation documents: document numbers, key figures, status and full text; no sign-in.
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
