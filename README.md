@@ -1567,7 +1567,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find verified free AI credits, free tiers and startup programs, each with a source link and last-verified date.
 - [PlanRelay](https://planrelay.com) `https://api.planrelay.com/mcp`
   [![PlanRelay MCP connector](https://glama.ai/mcp/connectors/com.planrelay/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.planrelay/mcp)
-  🔑 - Slack-first product decisions, Product Memory, and exact-SHA GitHub PR sign-off for AI coding agents.
+  🔓 - Slack-first product decisions, Product Memory, and exact-SHA GitHub PR sign-off; tool calls use a free Bearer token.
 - [Ply UI](https://ply-ui.com) `https://mcp.ply-ui.com/mcp`
   [![Ply UI MCP connector](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ply-ui-ng/ply-ui)
   🔓 - List, search and inspect copy-in Angular + Tailwind components for coding agents.
