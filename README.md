@@ -1139,6 +1139,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Manage bookings, customers, memberships, loyalty, invoices, and WhatsApp messaging; API key or OAuth for calls.
 - [HubSpot](https://hubspot.com) `https://mcp.hubspot.com/anthropic`
   🔐 - Query and update HubSpot CRM contacts, companies, and deals.
+- [Less Annoying CRM (unofficial)](https://northkeellabs.com/work#crm-mcp) `https://lacrm-mcp.northkeellabs.com/mcp`
+  [![Less Annoying CRM (unofficial) MCP connector](https://glama.ai/mcp/connectors/com.northkeellabs/lacrm-mcp-remote/badges/score.svg)](https://glama.ai/mcp/connectors/com.northkeellabs/lacrm-mcp-remote)
+  🔐 - Search contacts, notes, tasks and pipelines in Less Annoying CRM, with read-only grants.
 - [Oria CRM](https://realoria.com/crm/mcp) `https://realoria.com/api/mcp`
   [![Oria CRM MCP connector](https://glama.ai/mcp/connectors/com.realoria/crm/badges/score.svg)](https://glama.ai/mcp/connectors/com.realoria/crm)
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
