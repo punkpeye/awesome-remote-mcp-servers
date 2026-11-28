@@ -5648,6 +5648,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fencer Intel](https://intel.fencer.dev) `https://intel.fencer.dev/mcp`
   [![Fencer Intel MCP connector](https://glama.ai/mcp/connectors/dev.fencer/intel/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fencer/intel)
   🔓 - Search a free merged vulnerability feed, get one CVE, list a live feed, or check a lockfile.
+- [FlawDB](https://flawdb.com/agents) `https://flawdb.com/mcp`
+  [![FlawDB MCP connector](https://glama.ai/mcp/connectors/com.flawdb/flaw-db/badges/score.svg)](https://glama.ai/mcp/connectors/com.flawdb/flaw-db)
+  🔓 - Search vulnerabilities, check affected package versions and prioritize CVEs using CISA KEV and EPSS.
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
