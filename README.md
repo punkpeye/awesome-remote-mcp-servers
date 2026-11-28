@@ -5979,6 +5979,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialToAI](https://socialtoai.com/?utm_source=awesome-remote-mcp-servers&utm_medium=directory) `https://mcp.socialtoai.com/mcp`
   [![SocialToAI MCP connector](https://glama.ai/mcp/connectors/com.socialtoai/socialtoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.socialtoai/socialtoai)
   🔐 - Read public social media posts, comments, profiles and trends from 18 platforms, billed per call.
+- [SocialToAI.app](https://socialtoai.app/) `https://socialtoai.app/mcp`
+  [![SocialToAI.app MCP connector](https://glama.ai/mcp/connectors/app.socialtoai/socialtoai-app/badges/score.svg)](https://glama.ai/mcp/connectors/app.socialtoai/socialtoai-app)
+  🔐 - Read public posts, comments, profiles, transcripts & ads across 18 social platforms and Meta/Google Ad Libraries.
 - [Sociro](https://sociro.com/mcp) `https://mcp.sociro.com/mcp`
   [![Sociro MCP connector](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sociro.mcp/sociro-mcp)
   🔐 - Schedule, publish, edit and cancel social posts, and plan a week of posts with an AI planner you approve.
