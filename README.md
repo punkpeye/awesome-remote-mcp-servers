@@ -5392,6 +5392,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenCityRecord](https://opencityrecord.org/mcp) `https://mcp.opencityrecord.org/mcp`
   [![OpenCityRecord MCP connector](https://glama.ai/mcp/connectors/org.opencityrecord/opencity/badges/score.svg)](https://glama.ai/mcp/connectors/org.opencityrecord/opencity)
   🔐 - Search U.S. city council meetings, votes, and documents, with citations to the official record.
+- [OpenFirmList](https://openfirmlist.com/developers) `https://openfirmlist.com/mcp`
+  [![OpenFirmList MCP connector](https://glama.ai/mcp/connectors/com.openfirmlist/openfirmlist/badges/score.svg)](https://glama.ai/mcp/connectors/com.openfirmlist/openfirmlist)
+  🔐 - Search 3.38M+ global B2B manufacturers, suppliers, and workshops by product, HS code, certification, and location.
 - [Openings](https://avagama.co/openings/) `https://openings.avagama.co/mcp`
   [![Openings MCP connector](https://glama.ai/mcp/connectors/co.avagama/openings/badges/score.svg)](https://glama.ai/mcp/connectors/co.avagama/openings)
   🔐 - Search jobs on verified employer job boards, with every result linking to the employer's own posting.
