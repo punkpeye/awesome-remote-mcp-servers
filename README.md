@@ -3338,6 +3338,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [ContextDB](https://contextdb.ai/mcp) `https://api.contextdb.ai/mcp`
+  [![ContextDB MCP connector](https://glama.ai/mcp/connectors/io.github.atomsai/contextdb-memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atomsai/contextdb-memory)
+  🔐 - Persistent customer memory, context continuity, and pre-action evidence checks (`act`, `ask`, `abstain`).
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
