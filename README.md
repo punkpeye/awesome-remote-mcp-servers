@@ -459,6 +459,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
+- [3Dstudio.co AI Render](https://app.3dstudio.co/connect) `https://app.3dstudio.co/api/mcp`
+  [![3Dstudio.co AI Render MCP connector](https://glama.ai/mcp/connectors/co.3dstudio.app/ai-render/badges/score.svg)](https://glama.ai/mcp/connectors/co.3dstudio.app/ai-render)
+  🔐 - Turn 3D model screenshots into photorealistic architectural renders.
 - [All SVG Icons](https://allsvgicons.com/mcp/) `https://i.allsvgicons.com/mcp`
   [![All SVG Icons MCP connector](https://glama.ai/mcp/connectors/com.allsvgicons/icons/badges/score.svg)](https://glama.ai/mcp/connectors/com.allsvgicons/icons)
   🔐 - Search and fetch SVG icons and brand logos from 200+ open-source icon sets as ready-to-use SVG markup.
