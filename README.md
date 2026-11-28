@@ -2155,6 +2155,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Link in Seconds](https://linkinseconds.com/docs/mcp) `https://linkinseconds.com/api/mcp`
   [![Link in Seconds MCP connector](https://glama.ai/mcp/connectors/com.linkinseconds/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.linkinseconds/mcp)
   🔓 - Upload a file and get a shareable link that never expires, plus view stats. Using the tools needs a free API key.
+- [Nubbo](https://nubbo.app/integrations/mcp/) `https://api.nubbo.app/mcp`
+  [![Nubbo MCP connector](https://glama.ai/mcp/connectors/app.nubbo/nubbo/badges/score.svg)](https://glama.ai/mcp/connectors/app.nubbo/nubbo)
+  🔓 - Find, read and organize files and create share links in your S3, R2, B2, Wasabi and Spaces buckets. Tools need OAuth.
 - [Playbook](https://dev.playbook.com/docs/guides/mcp/) `https://mcp.playbook.com/mcp`
   [![Playbook MCP connector](https://glama.ai/mcp/connectors/com.playbook/playbook/badges/score.svg)](https://glama.ai/mcp/connectors/com.playbook/playbook)
   🔐 - Media backend: search, organize, upload, and share creative files and folders.
