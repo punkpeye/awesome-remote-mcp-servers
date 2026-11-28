@@ -92,6 +92,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🍽️ - [Food & Dining](#food--dining)
 * 🎮 - [Gaming](#gaming)
 * 🏋️ - [Health & Fitness](#health--fitness)
+* 🪪 - [Identity](#identity)
 * 💼 - [Jobs & Careers](#jobs--careers)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
@@ -3326,6 +3327,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vlada Health](https://www.vladahealth.com/data-access) `https://mcp-secure.vladahealth.com/mcp`
   [![Vlada Health MCP connector](https://glama.ai/mcp/connectors/io.github.btenner84/vlada/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.btenner84/vlada)
   🔐 - US healthcare data: hospital and payer prices, Medicare Advantage, Medicaid, providers and drugs, each with its source.
+
+### 🪪 <a name="identity"></a>Identity
+
+- [~Alter](https://truealter.com/build) `https://mcp.truealter.com/api/v1/mcp`
+  [![~Alter MCP connector](https://glama.ai/mcp/connectors/com.truealter/identity/badges/score.svg)](https://glama.ai/mcp/connectors/com.truealter/identity)
+  🔓 🔐 - Verify a person or AI agent by their ~handle. Agents register their own handle with no human account.
 
 ### 💼 <a name="jobs--careers"></a>Jobs & Careers
 
