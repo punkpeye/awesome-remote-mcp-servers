@@ -6280,7 +6280,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Free, read-only travel MCP server comparing cash fares, award seats, hotels, trains, cars, cruises and transfers.
 - [GoVisit](https://govisit.ai/en/docs/developers/mcp/overview) `https://govisit.ai/mcp`
   [![GoVisit MCP connector](https://glama.ai/mcp/connectors/ai.govisit/tools/badges/score.svg)](https://glama.ai/mcp/connectors/ai.govisit/tools)
-  🔓 - Search GoVisit destinations, places, activities and docs with 22 public read-only travel tools.
+  🔓 - Search destinations, places and docs; check hotel rates and availability with 25 public read-only tools.
 - [HaulierScope](https://haulierscope.co.uk/developers) `https://haulierscope.co.uk/mcp`
   [![HaulierScope MCP connector](https://glama.ai/mcp/connectors/uk.co.haulierscope/operator-licences/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.haulierscope/operator-licences)
   🔓 - UK operator licence checks for hauliers and coach firms: status, vehicles, changes and public inquiries; no sign-in.
