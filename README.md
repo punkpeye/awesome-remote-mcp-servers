@@ -6048,6 +6048,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
   🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [ESPN MCP Server](https://mr-bridge.com/solutions/espn-mcp-server?utm_source=github&utm_medium=referral&utm_campaign=backlinks) `https://mrbridge--espn-mcp-server.apify.actor/mcp`
+  [![ESPN MCP Server MCP connector](https://glama.ai/mcp/connectors/com.mr-bridge/espn-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.mr-bridge/espn-mcp-server)
+  🔑 - Live scores, standings, odds, play-by-play and news from ESPN across 25+ leagues, with no ESPN API key.
 - [FootballGPT](https://footballgpt.co/chatgpt) `https://footballgpt.co/api/mcp/stream`
   [![FootballGPT MCP connector](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt/badges/score.svg)](https://glama.ai/mcp/connectors/co.footballgpt/footballgpt)
   🔐 - Football coaching advice, session plans and animated practices, using your FootballGPT coaching profile.
