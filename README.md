@@ -5645,6 +5645,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dragons Eye](https://ransomware-tracker.com) `https://api.ransomware-tracker.com/mcp`
   [![Dragons Eye MCP connector](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye/badges/score.svg)](https://glama.ai/mcp/connectors/com.ransomware-tracker.api/dragonseye)
   🔓 - Ransomware leak-site claims by company or domain, plus IOC, CVE and ransomware group intel; paid per call via x402.
+- [emailverifier.dev](https://emailverifier.dev/docs/mcp) `https://emailverifier.dev/mcp`
+  [![emailverifier.dev MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/emailverifier/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/emailverifier)
+  🔐 - Verify emails and domains for mail routing, disposable providers, role addresses, and typo suggestions.
 - [Fencer Intel](https://intel.fencer.dev) `https://intel.fencer.dev/mcp`
   [![Fencer Intel MCP connector](https://glama.ai/mcp/connectors/dev.fencer/intel/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fencer/intel)
   🔓 - Search a free merged vulnerability feed, get one CVE, list a live feed, or check a lockfile.
