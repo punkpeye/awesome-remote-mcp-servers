@@ -5406,7 +5406,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Free search of people, companies and open roles on an open professional network.
 - [PDF to MD](https://pdf-to-md.app/developers) `https://pdf-to-md.app/mcp`
   [![PDF to MD MCP connector](https://glama.ai/mcp/connectors/io.github.liuyan-wjy/pdf-to-md/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.liuyan-wjy/pdf-to-md)
-  🔑 - Convert PDFs, scanned docs (OCR), and images into structured Markdown with tables, formulas, and assets.
+  🔓 - Convert web pages, PDFs, scanned docs (OCR), and images into structured Markdown with tables, formulas, and assets.
 - [PdfParse](https://pdfparse.net/mcp) `https://mcp.pdfparse.net/mcp`
   [![PdfParse MCP connector](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PabloG6/pdfparse)
   🔐 - Extract PDFs into structured tables, query saved records, and configure document inbox workflows.
